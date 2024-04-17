@@ -9,14 +9,14 @@ French - PDF | Biolinum | Atkinson | Cursive | Aurical
 English - Plain Text  
 English - PDF  
 
-## Collection des anciens Alchimistes Grecs. Première Livraison.
+## Collection des Anciens Alchimistes Grecs. Première Livraison.
 
 French - Plain Text  
 French - PDF | Biolinum | Atkinson | Cursive | Aurical  
 English - Plain Text  
 English - PDF  
 
-## Collection des anciens Alchimistes Grecs. Seconde Livraison.
+## Collection des Anciens Alchimistes Grecs. Seconde Livraison.
 
 French - Plain Text  
 French - PDF | Biolinum | Atkinson | Cursive | Aurical  
