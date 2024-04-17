@@ -11,7 +11,7 @@ English - PDF
 
 ## Collection des Anciens Alchimistes Grecs. Première Livraison.
 
-French - Plain Text  
+[French - Plain Text](collection-anciens-alchimistes-grecs/full-text-french-01.md)  
 French - PDF | Biolinum | Atkinson | Cursive | Aurical  
 English - Plain Text  
 English - PDF  
