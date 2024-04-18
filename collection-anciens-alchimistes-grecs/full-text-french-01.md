@@ -104,4 +104,38 @@ La _Sixième partie_ sera consacrée aux commentateurs, tels que le philosophe A
 
 Le texte grec est publié avec une pagination indépendante : il est dû au travail consciencieux de M. Ch.-Em. Ruelle, qui a collationné les manuscrits mis à notre disposition et reproduit les variantes principales, en notes développées au bas des pages. Son travail personnel était plus étendu et plus complet ; mais il a dû en restreindre l'impression aux limites actuelles, se réservant de donner ailleurs, s'il y a lieu, le surplus. Voilà ce qui est relatif au texte.
 
+Quelques mots maintenant sur la **Traduction**. Le volume actuel la contient, imprimée dans un fascicule séparé, avec pagination spéciale. Au bas des pages se trouvent également des notes, constituant un commentaire perpétuel, technique, historique et philosophique. Elle est nécessairement partagée en six parties et trois livraisons, comme le texte grec correspondant. Cette traduction est donnée aussi clairement que possible, toutes les fois que l'on a cru réussir à comprendre la vraie signification des procédés. Pour le reste, on s'est tenu au plus près du sens littéral, laissant aux lecteurs le soin de pénétrer plus avant dans l'interprétation de ces textes difficiles, et au besoin de rectifier, à l'aide du grec, les erreurs qui auraient pu être commises.
+
+Texte et traduction sont précédés par une **Introduction**, formant dans la livraison actuelle près de 300 pages, que M. Berthelot a jugé utile de rédiger pour l'intelligence du texte : elle constitue une sorte d'introduction générale à la métallurgie et à la chimie des anciens. Elle est formée par huit chapitres ou mémoires, séparés et indépendants les uns des autres, savoir :
+
+1° Une étude sur les _Papyrus grecs de Leide_, avec traduction complète du papyrus X spécialement alchimique, et explication des recettes qui y sont contenues. C'est le plus vieux texte authentique de cet ordre qui soit connu. Il a été écrit au 3e siècle de notre ère ; mais une partie des procédés techniques qu'il renferme remontent beaucoup plus haut, ce genre de procédés se transmettant d'âge en âge. M. Berthelot a montré comment les recettes d'alliage destinées à l'orfèvrerie que ce texte expose ont été le point de départ pratique des travaux et des tentatives des alchimistes. Le Pseudo-Démocrite et le Pseudo-Moïse notamment s'y rattachent très directement.
+
+2° Une étude sur les _relations entre les métaux et les planètes_, relations originaires de Babylone ; elles président à toute la notation alchimique et jouent un rôle capital dans l'histoire des croyances et des superstitions humaines.
+
+3° Une notice sur la sphère de Démocrite et sur les médecins astrologues, avec deux figures des cercles de Pétosiris, en photogravures, tirées du manuscrit 2419 de Paris.
+
+4° La reproduction, d'après des photogravures, des listes des _signes et notations alchimiques_, contenues dans le manuscrit de Saint-Marc et dans le manuscrit 2327 de Paris. Cette reproduction comprend huit planches, avec traduction et commentaire ; on y a joint un petit lexique alphabétique, pour servir de point de repère.
+
+5° La reproduction des _figures d'appareils et autres_, au nombre de 35, contenues dans le manuscrit de Saint-Marc, et dans le manuscrit 2327 de Paris ; reproduction faite pour la plupart en photogravure, et qui dès lors doit être regardée comme aussi voisine que possible des manuscrits. On a donné l'explication des opérations accomplies à l'aide de ces appareils, ainsi qu'une comparaison des dessins des mêmes appareils, faits à des époques éloignées les unes des autres de plusieurs siècles. Cette comparaison constitue une véritable histoire des manipulations des alchimistes, ainsi que des changements qui s'y sont introduits pendant le cours du moyen âge.
+
+6° Divers _renseignements et notices sur quelques manuscrits_ alchimiques et sur leur filiation. On y trouvera l'étude d'une vieille liste d'ouvrages, placée en tête du manuscrit de Saint-Marc ; une discussion sur divers traités perdus depuis ; l'indication des lacunes que ce manuscrit offre dans son état présent ; sa comparaison avec les manuscrits 2325 et 2327 de Paris ; l'examen comparatif des manuscrits de l'Escurial, du Vatican, de Leide, etc. ; certaines hypothèses sur l'origine et la filiation de nos manuscrits actuels ; une étude spéciale du manuscrit 2419 de la Bibliothèque Nationale de Paris et sur l'Alchimie de Theoctonicos ; enfin quelques indications sur un manuscrit arabe d'Ostanès, existant à la Bibliothèque Nationale de Paris.
+
+7° Une note relative à _quelques minéraux et métaux provenant de l'antique Chaldée_, et tirés d es Collections du Musée du Louvre : minéraux et métaux que M. Berthelot a soumis à ses analyses.
+
+8° Des _notices de minéralogie, de métallurgie et diverses_, destinées à servir de commentaires aux expressions chimiques et minéralogiques employés par les alchimistes. Ce commentaire a été établi d'après Théophraste, Dioscoride, Pline et les écrivains anciens, et complété à l'aide du _Speculum majus_ de Vincent de Beauvais, des auteurs contenus dans la _Bibliotheca Chemica_ de Manget, le _Theatrum chemicum_, la _Bibliothèque des Philosophes alchimiques_ publiée chez Cailleau, à Paris (1754), joints aux articles du _Lexicon Alchemiæ Rulandi_, ouvrages qui nous font connaître les interprétations du moyen âge. On a tiré également parti des dictionnaires de du Cange (_Glossarium mediæ et infimæ Græcitatis_), d'Henri Estienne (_Thesaurus_, édition Didot), et de ceux du grec moderne.
+
+Si la place le permet, on présentera à la fin de la présente collection un résumé des procédés et méthodes chimiques qui y sont signalés ; enfin on terminera par des Tables analytiques et un Index général.
+
+Peut-être ne sera-t-il pas superflu d'ajouter que les commentaires et explications de la publication actuelle doivent être complétés par l'ouvrage de M. Berthelot, intitulé les _Origines de l'Alchimie_, ouvrage composé en grande partie d'après une première lecture de nos manuscrits, et dans lequel les faits historiques et les théories philosophiques se trouvent exposés avec des développements plus considérables.
+
+Paris, 25 Octobre 1887.
+
+# Introduction
+
+## 1. --- Les Papyrus de Leide.
+
+Papyri Græci musei antiquarii publici Lugduni Batavi ... edidit, interpretationem latinam, adnotationem, indices et tabulas addidit C. Leemans, Musei antiquarii Lugduni Batavi Director. --- Papyrus Grecs du musée d'antiquités de Leide, édités, avec une traduction latine, notes, index et planches par C. Leemans, directeur du Musée. --- Tome 2, publié à Leide, au Musée et chez E. J. Brill. 1885. In-4°, 8-310 pages ; 4 planches. --- Tiré à 150 exemplaires.
+
+La Chimie des anciens nous est connue principalement par quelques articles de Théophraste, de Dioscoride, de Vitruve et de Pline l'Ancien sur la matière médicale, la minéralogie et la métallurgie ; seuls commentaires que nous puissions joindre jusqu'à présent à l'étude et à l'analyse des bijoux, instruments, couleurs, émaux, vitrifications et produits céramiques retrouvés dans les débris des civilisations antiques. L'Égypte en particulier, si riche en objets de ce genre et qu'une tradition constante rattache aux premières origines de l'Alchimie, c'est-à-dire de la vieille Chimie théorique et philosophique ; l'Égypte, dis-je, ne nous a livré jusqu'ici aucun document hiéroglyphique, relatif à l'art mystérieux des transformations de la matière. Nous ne connaissons l'antique science d'Hermès, la Science sacrée par excellence, que par les textes des alchimistes gréco-égyptiens ; source suspecte, troublée dès les débuts et altérée par les imaginations mystiques de plusieurs générations de rêveurs et de scoliastes.
+
 ...
