@@ -138,4 +138,153 @@ Papyri Græci musei antiquarii publici Lugduni Batavi ... edidit, interpretation
 
 La Chimie des anciens nous est connue principalement par quelques articles de Théophraste, de Dioscoride, de Vitruve et de Pline l'Ancien sur la matière médicale, la minéralogie et la métallurgie ; seuls commentaires que nous puissions joindre jusqu'à présent à l'étude et à l'analyse des bijoux, instruments, couleurs, émaux, vitrifications et produits céramiques retrouvés dans les débris des civilisations antiques. L'Égypte en particulier, si riche en objets de ce genre et qu'une tradition constante rattache aux premières origines de l'Alchimie, c'est-à-dire de la vieille Chimie théorique et philosophique ; l'Égypte, dis-je, ne nous a livré jusqu'ici aucun document hiéroglyphique, relatif à l'art mystérieux des transformations de la matière. Nous ne connaissons l'antique science d'Hermès, la Science sacrée par excellence, que par les textes des alchimistes gréco-égyptiens ; source suspecte, troublée dès les débuts et altérée par les imaginations mystiques de plusieurs générations de rêveurs et de scoliastes.
 
+C'est en Égypte cependant, je le répète, que l'Alchimie a pris naissance ; c'est là que le rêve de la transmutation des Métaux apparaît d'abord et il a obsédé les esprits jusqu'au temps de Lavoisier. Le rôle qu'il a joué dans les commencements de la Chimie, l'intérêt passionné qu'il a donné à ces premières recherches dont notre science actuelle est sortie, méritent toute l'attention du philosophe et de l'historien. Aussi devons-nous saluer avec joie la découverte des textes authentiques que nous fournissent les papyrus de Leide.
+
+La publication de ce volume était réclamée depuis longtemps et attendue* avec impatience par les personnes qui s'intéressent à l'histoire des sciences antiques, et le contenu du volume actuel, déjà connu par une description sommaire de Reuvens (Lettres à M. Letronne, publiées à Leide en 1830), paraissait de nature à piquer vivement la curiosité des archéologues et des chimistes. En effet, l'un des principaux papyrus qui s'y trouvent, le papyrus X (p. 199 à 259 du volume actuel), est consacré à des recettes de chimie et d'alchimie, au nombre de cent-une, suivies de dix articles extraits de Dioscoride. C'est le manuscrit le plus ancien aujourd'hui connu, où il soit question de semblables sujets : car il remonte à la fin du troisième siècle de notre ère, d'après Reuvens et Leemans.
+
+*) Le premier volume avait paru en 1843.
+
+Ce serait donc là l'un de ces vieux livres d'Alchimie des Égyptiens sur l'or et l'argent, brûlés par Dioclétien vers 290, « afin qu'ils ne pussent s'enrichir par cet art et en tirer la source de richesses qui leur permissent de se révolter contre les Romains. »
+
+Cette destruction systématique nous est attestée par les chroniqueurs byzantins et par les actes de saint Procope* ; elle est conforme à la pratique du droit romain pour les livres magiques, pratique qui a amené l'anéantissement de tant d'ouvrages scientifiques durant le moyen âge. Heureusement que le papyrus de Leide y a été soustrait et qu'il nous permet de comparer jusqu'à un certain point, et sur un texte absolument authentique, les connaissances des Égyptiens du 3e siècle avec celles des alchimistes gréco-égyptiens, dont les ouvrages sont arrivés jusqu'à nous par des copies beaucoup plus modernes. Les unes et les autres sont liées étroitement avec les renseignements fournis par Dioscoride, par Théophraste et par Pline sur la minéralogie et la métallurgie des anciens ; ce qui paraît indiquer que plusieurs de ces recettes remontent aux débuts de l'ère chrétienne. Elles sont peut-être même beaucoup plus anciennes, car les procédés techniques se transmettent d'âge en âge. Leur comparaison avec les notions aujourd'hui acquises sur les métaux égyptiens,* d'une part, et avec les descriptions alchimiques proprement dites, d'autre part, confirme et précise mes inductions précédentes sur le passage entre ces deux ordres de notions. Je me suis attaché à pénétrer plus profondément ces textes, en faisant concourir à la fois les lumières tirées de l'histoire des croyances mystiques des anciens et de leurs pratiques techniques, avec celles que nous fournit la chimie actuelle : je me proposais surtout d'y rechercher des documents nouveaux sur l'origine des idées des alchimistes relatives à la transmutation des métaux, idées qui semblent si étranges aujourd'hui. Mon espoir n'a pas été trompé ; je crois, en effet, pouvoir établir que l'étude de ces papyrus fait faire un pas à la question, en montrant avec précision comment les espérances et les doctrines alchimiques sur la transmutation des métaux précieux sont nées des pratiques des orfèvres égyptiens pour les imiter et les falsifier.
+
+*) Voir mon ouvrage : _Origines de l'Alchimie_, p. 72. 1885.
+
+*) _Origines de l'Alchimie_, p. 211.
+
+Le nom même de l'un des plus vieux alchimistes, Phiménas ou Pammenès, se retrouve à la fois, dans le papyrus et dans le Pseudo-Démocrite, comme celui de l'auteur de recettes à peu près identiques.
+
+Étrange destinée de ces papyrus ! ce sont les carnets d'un artisan faussaire et d'un magicien charlatan, conservés à Thèbes, probablement dans un tombeau, ou, plus exactement, dans une momie. Après avoir échappé par hasard aux destructions systématiques des Romains, à des accidents de tout genre pendant quinze siècles, et, chose plus grave peut-être, aux mutilations intéressées des fellahs marchands d'antiquités, ces papyrus nous fournissent aujourd'hui un document sans pareil pour apprécier à la fois les procédés industriels des anciens pour fabriquer les alliages, leur état psychologique et leurs préjugés mêmes relativement à la puissance de l'homme sur la nature. La concordance presque absolue de ces textes avec certains de ceux des alchimistes grecs vient, je le répète, appuyer par une preuve authentique ce que nous pouvions déjà induire sur l'origine de ces derniers et sur l'époque de leur composition. En même temps la précision de certaines des recettes communes aux deux ordres de documents, recettes applicables encore aujourd'hui et parfois conformes à celles des Manuels Roret, opposée à la chimérique prétention de faire de l'or, ajoute un nouvel étonnement à notre esprit. Comment nous rendre compte de l'état intellectuel et mental des hommes qui pratiquaient ces recettes frauduleuses, destinées à tromper les autres par de simples apparences, et qui avaient cependant fini par se faire illusion à eux-mêmes, et par croire réaliser, à l'aide de quelque rite mystérieux, la transformation effective de ces alliages semblables à l'or et à l'argent en un or et en un argent véritables ?
+
+Quoi qu'il en soit, nous devons remercier vivement M. Leemans d'avoir terminé sur ce point, avec un zèle que la vieillesse n'a pas épuisé, une œuvre commencée dans son âge mûr, il y a quarante-deux ans. Elle fait partie de la vaste publication des papyrus de Leide, poursuivie par lui depuis près d'un demi-siècle. Les papyrus grecs n'en constituent d'ailleurs qu'une partie relativement minime ; ils viennent compléter les impressions antérieures des papyrus grecs de Paris,* de Turin et de Berlin.* J'ai déjà examiné ces derniers au point de vue chimique,* ainsi que ceux de Leide, d'après les seules indications de Reuvens.* Il convient aujourd'hui de procéder à une étude plus approfondie de ces derniers, à l'aide du texte complet désormais publié : je ferai cette étude surtout au point de vue chimique, sur lequel je puis apporter les lumières d'un spécialiste, réservant la discussion philologique des textes à des savants plus compétents.
+
+*) Tome 18, 2e partie des _Notices et extraits des Manuscrits_, etc., _publiés par l'Académie des inscriptions_ (1866), volume préparé par Letronne, Brunet de Presle et le regretté Egger.
+
+*) Publié par Parthey, sous le patronage de l'Académie de Berlin.
+
+*) _Origines de l'Alchimie_, p. 331.
+
+*) Même ouvrage, p. 80-94.
+
+Rappelons d'abord l'origine des papyrus grecs du musée de Leide ; puis nous décrirons sommairement les principaux écrits contenus dans le tome 2, tels que les papyrus V, W et X. A la vérité, les deux premiers sont surtout magiques et gnostiques. Mais ces trois papyrus sont associés entre eux étroitement, par le lieu où ils ont été trouvés et même par certains renvois du papyrus X, purement alchimique, au papyrus V, spécialement magique. L'histoire de la magie et du gnosticisme est étroitement liée à celle des origines de l'alchimie : les textes actuels fournissent à cet égard de nouvelles preuves à l'appui de ce que nous savions déjà.* Le dernier papyrus est spécialement chimique. J'en examinerai les recettes avec plus de détail, en en donnant au besoin la traduction, autant que j'ai pu réussir à la rendre intelligible.
+
+*) Voir également : _Origines de l'Alchimie_, p. 211.
+
+Les papyrus de Leide, grecs, démotiques et hiéroglyphiques, proviennent en majeure partie d'une collection d'antiquités égyptiennes, réunies au commencement du 19e siècle par le chevalier d'Anastasi, vice-consul de Suède à Alexandrie. Il céda en 1828 cette collection au gouvernement des Pays-Bas. Un grand nombre d'entre eux ont été publiés depuis, par les ordres du gouvernement néerlandais. Je ne m'occuperai que des papyrus grecs. Ils forment, je le répète, deux volumes in-4°, l'un de 144 pages, l'autre de 310 pages : celui-ci a paru l'an dernier. Le texte grec y est accompagné par une version latine, des notes et un index, enfin par des planches représentant le fac-similé de quelques lignes ou pages des manuscrits. En ce qui touche les planches, on doit regretter que M. Leemans n'ait pas cru devoir faire cette reproduction, au moins pour le second volume, par le procédé de la photogravure sur zinc, qui fournit à si bon marché des textes si nets, absolument identiques avec les manuscrits et susceptibles d'être tirés typographiquement d'une façon directe.* Les planches lithographiées des _Papyri græci_ sont beaucoup moins parfaites et ne donnent qu'une idée incomplète de ces vieilles écritures, plus nettes en réalité, ainsi que j'ai pu m'en assurer sur des épreuves photographiques que je dois à l'obligeance de M. Révillout.
+
+*) Voir les _Signes_ et les _Notations alchimiques_, dans le présent volume.
+
+Le tome 1, qui a paru en 1843, est consacré aux papyrus notés A, B, C, jusqu'à V, papyrus relatifs à des procès et à des contrats, sauf deux, qui décrivent des songes : ces papyrus sont curieux pour l'étude des mœurs et du droit égyptien ; mais je ne m'y arrêterai pas, pour cause d'incompétence. Je ne m'arrêterai pas non plus dans le tome 2 au papyrus Y, qui renferme seulement un abécédaire, ni au papyrus Z, trouvé à Philæ, très postérieur aux autres ; car il a été écrit en l'année 391 de notre ère, et renferme la supplique d'Apion, « évêque de la légion qui tenait garnison à Syène, Contre-Syène et Eléphantine » : cette supplique est adressée aux empereurs Théodose et Valentinien, pour réclamer leur secours contre les incursions et déprédations des barbares.
+
+Décrivons au contraire avec soin les trois papyrus magiques et alchimiques.
+
+### Papyrus V.
+
+Le papyrus V est bilingue, grec et démotique ; il est long de 3,60 m, haut de 24 centimètres ; le texte démotique y occupe 22 colonnes, longues chacune de 30 à 35 lignes. Le texte grec y occupe 17 colonnes de longueur inégale.
+
+Le commencement et la fin sont perdus. Il paraît avoir été trouvé à Thèbes. Il a été écrit vers le 3e siècle, d'après le style et la forme de l'écriture, comme d'après l'analogie de son contenu avec les doctrines gnostiques de Marcus. Le texte grec est peu soigné, rempli de répétitions, de solécismes, de changements de cas, de fautes d'orthographe attribuables au mode de prononciation locale, telles que αι pour ε et réciproquement ; ει pour ι, υ pour οι, etc. Il contient des formules magiques : recettes pour philtres, pour incantations et divinations, pour procurer des songes. Ces formules sont remplies de mots barbares ou forgés à plaisir et analogues à celles que l'on lit dans Jamblique (_De Mysteriis Egyptiorum_) et chez les gnostiques. Donnons seulement l'incantation suivante, qui ne manque pas de grandeur.
+
+Les portes du ciel sont ouvertes ;  
+Les portes de la terre sont ouvertes ;  
+La route de la mer est ouverte ;  
+La route des fleuves est ouverte ;  
+Mon esprit a été entendu par tous les dieux et les génies ;  
+Mon esprit a été entendu par l'esprit du ciel ;  
+Mon esprit a été entendu par l'esprit de la terre ;  
+Mon esprit a été entendu par l'esprit de la mer ;  
+Mon esprit a été entendu par l'esprit des fleuves.
+
+Ce texte rappelle le refrain d'une tablette cunéiforme, citée par F. Lenormand dans son ouvrage sur la magie chez les Chaldéens.
+
+Esprit du ciel, souviens-toi.  
+Esprit de la terre, souviens-toi.
+
+Dans le papyrus actuel on retrouve la trace des vieilles doctrines égyptiennes, défigurées par l'oubli où elles commençaient à tomber. Les noms juifs, tels que Jao, Sabaoth, Adonaï, Abraham, etc., celui de l'Abraxa, l'importance de l'anneau magique dont la pierre porte la figure du serpent qui se mord la queue, anneau qui procure gloire, puissance et richesse,* le rôle prépondérant attribué au nombre sept,* « nombre des lettres du nom de Dieu, suivant l'harmonie des sept tons, » l'invocation du grand nom de Dieu,* la citation des quatre bases et des quatre vents : tout cela rappelle les gnostiques et spécialement* les sectateurs de Marcus, au 3e siècle de notre ère. Les pierres gravées de la Bibliothèque nationale de Paris portent de même la figure du serpent _ouroboros_, avec les sept voyelles et divers signes cabalistiques* du même ordre. Ce serpent joue d'ailleurs en Alchimie un rôle fondamental. Le nom de Jésus ne paraît qu'une seule fois dans le papyrus, au milieu d'une formule magique* et sans attribution propre. Le papyrus n'a donc point d'attaches chrétiennes. Par contre, les Egyptiens, les Grecs et les Hébreux sont fréquemment rapprochés et mis en parallèle dans les invocations (col. 8, l. 15) : ce qui est caractéristique. Signalons aussi le nom des Parthes,* qui disparurent avant le milieu du 3e siècle de notre ère et dont il n'est plus question ultérieurement ; il figure dans le papyrus V, aussi bien que dans l'un des écrits de l'alchimiste Zosime. Plusieurs auteurs sont cités dans le papyrus, mais ils appartiennent au même genre de littérature. Les uns, tels que Zminis le Tentyrite, Hémérius, Agathoclès et Urbicus, sont des magiciens, inconnus ailleurs. Mais Apollo Béchès (Horus l'Épervier ou Pébéchius), Ostanès. Démocrite et Moïse, lui-même, figurent déjà à ce même titre dans Pline l'Ancien, et ils jouent un grand rôle chez les alchimistes. Au contraire, dans le papyrus, Agathodémon n'est pas encore évhémérisé et transformé en un écrivain, comme chez ces derniers : c'est toujours la divinité « au nom magique de laquelle la terre accourt, l'enfer est troublé, les fleuves, la mer, les lacs, les fontaines, sont frappées de congélation, les rochers se brisent ; celle dont le ciel est la tête, l'éther le corps, la terre les pieds, et que l'Océan environne » (pap. V, col. 7, l. 30). Il y a là un indice d'antiquité plus grande.
+
+*) Papyrus V, col. 8, l. 24 ; col. 6, l. 26.
+
+*) Pap. V, col. 1, l. 21, 25, 30 ; col. 4, l. 13 ; col. 8, l. 6 ; col. 9, l. 20, etc.
+
+*) Col. 5, l. 13 ; col. 28, l. 15.
+
+*) Pap. V, col. 2, l. 20, 29, etc. --- _Origines de l'Alchimie_, p. 34.
+
+*) _Origines de l'Alchimie_, p. 62.
+
+*) Pap. V, col. 6, l. 17.
+
+*) Pap. V, col. 8, l. 18.
+
+Trois passages méritent une attention spéciale pour l'histoire de la science ; ce sont : la sphère de Démocrite, astrologico-médicale ; les noms secrets donnés aux plantes par les scribes sacrés ; et les recettes alchimiques. Le mélange de ces notions, dans le même papyrus, avec les incantations et recettes magiques, est caractéristique. Je consacrerai un article spécial à la sphère de Démocrite et aux figures du même ordre qui existent dans plusieurs manuscrits grecs.
+
+Les noms sacrés des plantes donnent lieu à des rapprochements analogues entre le papyrus, les écrits alchimiques et l'ouvrage, tout scientifique d'ailleurs, de Dioscoride. Voici le texte du papyrus V (col. 12 fin et col. 13).
+
+« Interprétation tirée des noms sacrés dont se servaient les scribes sacrés, afin de mettre en défaut la curiosité du vulgaire. Les plantes et les autres choses dont ils se servaient pour les images des dieux ont été désignées par eux de telle sorte que, faute de les comprendre, on faisait un travail vain, en suivant une fausse route. Mais nous en avons tiré l'interprétation de beaucoup de descriptions et renseignements cachés. »
+
+Suivent 37 noms de plantes, de minéraux, etc., les noms réels étant mis en regard des noms mystiques. Ceux-ci sont tirés du sang, de la semence, des larmes, de la bile, des excréments et des divers organes (tête, cœur, os, queue, poils, etc.) des dieux égyptiens grécisés (Héphaistos ou Vulcain, Hermès ou Mercure, Vesta, Hélios ou Soleil, Cronos ou Saturne, Hercule, Ammon, Arès ou Mars) ; des animaux (serpent, ibis, cynocéphale, porc, crocodile, lion, taureau, épervier), enfin de l'homme et de ses diverses parties (tête, œil, épaule). La semence et le sang y reparaissent continuellement : sang de serpent, sang d'Héphaistos, sang de Vesta, sang de l'œil, etc. ; semence de lion, semence d'Hermès, semence d'Ammon ; os d'ibis, os de médecin, etc. Or cette nomenclature bizarre se retrouve dans Dioscoride. En décrivant les plantes et leurs usages dans sa _Matière médicale_, il donne les synonymes des noms grecs en langue latine, égyptienne, dacique, gauloise, etc., synonymie qui contient de précieux renseignements. On y voit figurer, en outre, les noms tirés des ouvrages qui portaient les noms d'Ostanès,* de Zoroastre,* de Pythagore,* de Pétésis,* auteurs également cités par les alchimistes et par les _Geoponica_. On y lit spécialement les noms donnés par les prophètes,* c'est-à-dire par les scribes sacerdotaux de l'Égypte : j'ai relevé 54 de ces noms, formés précisément suivant les mêmes règles que les noms sacrés du papyrus : sang de Mars, d'Hercule, d'Hermès, de Titan, d'homme, d'ibis, de chat, de crocodile ; sang de l'œil ; semence d'Hercule, d'Hermès, de chat ; œil de Python ; queue de rat, de scorpion, d'ichneumon ; ongle de rat, d'ibis ; larmes de Junon, etc.
+
+*) Diosc., _Mat. médicale_, 1, 9 ; 2, 193, 207 ; 3, 105 ; 4, 33, 126, 175.
+
+*) _Ibid._, 2, 144 ; 4, 175.
+
+*) _Ibid._, 2, 144, 207 ; 3, 33, 41.
+
+*) _Ibid._, 5, 114.
+
+*) Diosc., _Mat. méd._, 1, 9, 25, 120, 134 ; 2, 144, 152, 165, 180, etc. ; 3, 6, 26, 28, etc. ; 4, 4, 23, etc.
+
+Il existe encore dans la nomenclature botanique populaire plus d'un nom de plante de cette espèce : œil de bœuf, dent de lion, langue de chien, etc., lequel nom remonte peut-être jusqu'à ces vieilles dénominations symboliques.* Le mot de _sang dragon_ désigne aujourd'hui la même drogue que du temps de Pline et de Dioscoride. Ces dénominations offraient, dès l'origine, bien des variantes. Car, dans le papyrus comme dans Dioscoride, un même nom s'applique parfois à deux ou à trois plantes différentes. Ainsi le nom de semence d'Hercule désigne, dans les papyrus, la roquette ; dans Dioscoride, le safran (1, 25), le myrte sylvestre (4, 144) et l'ellébore (4, 148). Le sang de Cronos signifie l'huile de cèdre et le lait de porc, dans le papyrus. D'autres noms ont une signification différente dans le papyrus et dans Dioscoride, quoique unique dans chacun d'eux. Ainsi la semence d'Hermès signifie l'anis dans le papyrus ; le bouphthalmon dans Dioscoride (3, 146). Le sang de taureau signifie l'œuf du scarabée dans le papyrus, le _Marrubium_ dans Dioscoride (3, 109). Réciproquement, une même plante peut avoir deux noms différents dans les deux auteurs. L'_Artemisia_ s'appelle sang de Vulcain dans le papyrus, sang humain dans Dioscoride (3, 117). Un seul nom se trouve à la fois dans le papyrus et dans Dioscoride, c'est celui de l'_Anagallis_, désigné par le mot : sang de l'œil.
+
+*) Cependant ces noms populaires sont plutôt destinés à faire image. A ce titre, ils auraient pu précéder la nomenclature symbolique et en suggérer l'idée.
+
+On voit que les nomenclatures des botanistes d'alors ne variaient pas moins que celles de notre temps, alors même qu'elles procédaient de conventions symboliques communes, comme celles des prophètes égyptiens. Quelques-uns de ces mots symboliques ont passé aux alchimistes, mais avec un sens différent ; tels sont les noms : semence de Vénus, pris pour la fleur (oxyde, carbonate, etc.) de cuivre ; bile de serpent, pris pour le mercure, ou bien pour l'eau divine ; éjaculation du serpent, pris pour le mercure ; Osiris,* pris pour le plomb (ou le soufre) ; lait de la vache noire, pris pour le mercure tiré du soufre* ; sang de moucheron, pris pour l'eau d'alabastron ; boue (ou lie) de Vulcain, pour l'orge, etc. ; toutes désignations tirées du vieux lexique alchimique. Dans le papyrus et dans Dioscoride, on trouve souvent les mêmes mots, mais avec une autre signification. Tout ceci concourt à reconstituer le milieu intellectuel et les sources troublées où a eu lieu l'éclosion des premières théories de la chimie.
+
+*) Dans Dioscoride, 3, 80, c'est le nom d'une plante.
+
+*) Lait d'une vache noire, au sens propre, à ce qu'il semble. (Pap. W, col. 3, l. 43, et col. 4, l. 4.)
+
+Arrivons aux quelques notions de cette science dont le papyrus V conserve la trace. Elles se bornent à une recette d'encre, en une ligne (col. 12, l. 16) et à un procédé pour affiner l'or (col. 6, l. 18).
+
+1° L'encre dont il s'agit est composée avec 4 drachmes de misy, 2 drachmes de couperose (verte), 2 drachmes de noix de galle, 3 drachmes de gomme et 4 drachmes d'une substance inconnue, désignée par deux Z, dans chacun desquels est engagé une petite lettre complémentaire. Un signe analogue existe chez les alchimistes et les médecins et paraît signifier pour eux le gingembre (voir plus loin le tableau des signes reproduit d'après une photogravure) ; mais ce sens n'est pas applicable ici. Je crois qu'il s'agit de l'encre mystique fabriquée avec les sept parfums* et les sept fleurs,* au moyen de laquelle on écrivait les formules magiques sur le nitre, d'après le papyrus suivant (pap. W, col. 6, l. 5 ; col. 3, l. 8 ; col. 9, l. 10 ; col. 10, l. 41) : en effet, la lettre Z exprime précisément le nombre sept, et se retrouve, isolée, avec ce sens dans le même papyrus (col. 11, l. 26 ; v. aussi col. 6, l. 5).
+
+*) Voici le texte même du Papyrus W : « Les sept parfums sont : le styrax consacré à Saturne, le malabathrum à Jupiter, le costus à Mars, l'encens au soleil, le nard indien à Vénus, le casia à Hermès, la myrrhe à la lune. »
+
+*) Voici le texte du papyrus W : « Les sept fleurs, d'après Manéthon (l'astrologue), sont : la marjolaine commune, le lis, le lotus, l'_Eriphyllium_ (renoncule ? ), le narcisse, la violette blanche, la rose. » (Pap. W, col. 1, l. 22.) On les broie dans un mortier blanc 21 jours avant la cérémonie et on les sèche à l'ombre.
+
+Cette composition rappelle, par sa complexité, celle du Kyphi, substance sacrée* des Égyptiens.
+
+*) _Origines de l'Alch._, p. 30. Diosc. _Mat. méd._ ; 1, 24.
+
+2° Le procédé* pour affiner l'or (Ἴωσις χρυσοῦ),* ne manque pas d'intérêt, il est cité d'ailleurs dans une préparation sur la coloration de l'or ; donnée dans le papyrus X alchimique ; ce qui établit la connexité des deux papyrus. Ajoutons qu'il se trouve transcrit entre une formule pour demander un songe (ὀνειρετητόν) et la description d'un anneau magique qui donne le bonheur ; ce qui montre bien le milieu intellectuel d'alors : les mêmes personnes pratiquaient la magie et la chimie. Enfin ce procédé renferme une recette intéressante, par sa ressemblance avec la méthode connue sous le nom de _cément royal_, à l'aide de laquelle on séparait autrefois l'or et l'argent. Donnons d'abord la traduction de ce texte:
+
+*) _Papyri græci_, 5, col. 6.
+
+*) Le mot ἴωσις a quatre sens : il signifie :  
+1° L'opération de la rouille, c'est-à-dire l'oxydation d'un métal ;  
+2° L'affinage du métal, lequel est souvent connexe avec l'oxydation du métal impur, celle-ci tendant à éliminer les métaux étrangers dont les oxydes sont plus stables : ce qui est le cas des métaux alliés à l'or dans la nature ;  
+3° La virulence, ou possession d'une propriété active spécifique ; telle notamment que celle que l'oxydation développe dans certains métaux ; mais avec un sens plus compréhensif ;  
+4° Enfin la coloration en violet. Ce dernier sens, qui se trouve chez les alchimistes et qui répond parfois à la formation de certains dérivés colorés de l'or, n'est pas applicable ici.
+
+« Prenez du vinaigre piquant,* épaississez, prenez de* ... 8 drachmes de sel commun, 2 drachmes d'alun lamelleux (schiste), 4 drachmes de litharge, broyez avec le vinaigre pendant 3 jours, séparez par décantation et employez. Alors ajoutez au vinaigre 1 drachme de couperose, une demi-obole de* ... trois oboles de chalcite,* une obole et demie de sory,* une silique* de sel commun, deux siliques de sel de Cappadoce.* Faites une lame ayant deux quarts (d'obole ? ) Soumettez-la à l'action du feu ... jusqu'à ce que la lame se rompe, ensuite prenez les morceaux et regardez-les comme de l'or affiné. »
+
+*) Le texte porte δριάου, qui n'a pas de sens ; c'est δριμύ qu'il faut lire.
+
+*) Lacune.
+
+*) 1 drachme = 6 oboles, mesure de poids.
+
+*) Minerai de cuivre, tel que la pyrite.
+
+*) Produit de l'altération de la pyrite, pouvant renfermer à la fois du sulfate de cuivre es du sulfate de fer basique. Le sory est congénère du misy, produit d'altération analogue, mais moins riche en cuivre. (V. Diosc. _Mat. méd._, 5, 116-118 ; Pline, _H. N._, 34, 30, 31.
+
+*) Silique = tiers de l'obole, mesure de poids.
+
+*) Variété de sel gemme.
+
+« Ayant pris quatre paillettes* d'or, faites-en une lame, chauffez-la et trempez-la dans de la couperose broyée avec de l'eau et avec une autre (couperose) sèche, battez (une partie) ... avec la matière sèche, une autre avec la matière mélangée : déversez la rouille et jetez dans ... »
+
+*) Le texte porte le mot ὄζεια. Ce mot ne se trouve pas dans les dictionnaires et a fort embarrassé M. Leemans et Reuvens, qui y a vu le nom du roi (ou du prophète) juif Osée. Je le rattacherai à ὄζος, nœud ou rameau. Il répondrait au latin _ramentum_, si fréquent dans Pline.
+
+Il y a là deux recettes distinctes. Dans toutes deux figure le sulfate de cuivre plus ou moins ferrugineux, sous les noms de _chalcanthon_ ou couperose et de sory. La seconde recette semble un fragment mutilé d'une formule plus étendue. La première présente une grande ressemblance avec une formule donnée dans Pline pour préparer un remède avec l'or, en communiquant aux objets torréfiés avec lui une propriété spécifique active, désignée par Pline sous le nom de _virus_. Remarquons que ce mot est la traduction littérale du grec ἰός, rouille ou venin, d'où dérive ἴωσις : ce qui complète le rapprochement entre la formule de Pline et celle du papyrus. Voici les paroles de Pline (_Hist. Nat._, 33, 25) :
+
 ...
