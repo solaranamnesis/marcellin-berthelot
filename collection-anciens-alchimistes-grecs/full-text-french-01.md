@@ -455,6 +455,8 @@ Venons à la partie vraiment originale du papyrus.
 
 Je vais présenter d'abord la traduction des articles relatifs aux métaux, au nombre de quatre-vingt-dix, dont un article sur l'eau de soufre ou eau divine ; et celle des articles sur la teinture, au nombre de onze ; puis j'en commenterai les points les plus importants.*
 
+*) _Papyri Græci_ de Leide, t. 2, p. 199 à 259. --- Quelques mois après l'impression de mon travail dans le _Journal des Savants_, M. le Dr W. Pleijte a publié en hollandais un mémoire sur _l'Asemos_, avec étude chimique par le Dr W. K. J. Schoor, dans les _Verslagen des koninklijke Akademie van Wetenschappen_, Amsterdam (Juin 1886 ; p. 211 à 236). Il confirme en général mes propres résultats.
+
 ### Traduction du Papyrus X de Leide.
 
 #### 1\. _Purification et durcissement du plomb._
@@ -465,10 +467,124 @@ Je vais présenter d'abord la traduction des articles relatifs aux métaux, au n
 
 « Le plomb et l'étain blanc sont aussi purifiés par la poix et le bitume. Ils sont rendus solides par l'alun et le sel de Cappadoce, et la pierre de Magnésie,* jetée à leur surface. »
 
+*) Ce n'est pas notre magnésie, mais l'oxyde magnétique de fer, ou quelque autre minerai noir, roux (pyrite) ou blanc, venant des villes ou provinces qui portaient le nom de Magnésie (_Voir Pline_, _H. N._, 37, 25.) Chez les alchimistes le sens du mot s'est encore étendu.
+
 #### 3\. _Purification de l'étain que l'on jette dans le mélange de l'asèm._*
 
 « Prenez de l'étain purifié de toute autre substance, fondez-le, laissez-le refroidir ; après l'avoir recouvert d'huile et bien mélangé, fondez-le de nouveau ; ensuite ayant broyé ensemble de l'huile, du bitume et du sel, frottez-en le métal, et fondez une troisième fois ; après fusion, mettez à part l'étain après l'avoir purifié par lavage ; car il sera comme de l'argent durci. Lorsque vous voudrez l'employer dans la fabrication des objets d'argent, de telle sorte qu'on ne le reconnaisse pas et qu'il ait la dureté de l'argent, mêlez 4 parties d'argent, 3 parties d'étain, et le produit deviendra comme un objet d'argent. »
 
 C'est la fabrication d'un alliage d'argent et d'étain, destiné à simuler l'argent ; ou plutôt un procédé pour doubler le poids du premier métal.
+
+*) _Asèm_ désignait divers alliages destinés à imiter l'or et l'argent ; _voir_ plus loin.
+
+#### 4\. _Purification de l'étain._
+
+« Poix liquide et bitume, une partie de chaque ; jetez (sur l'étain), fondez, agitez. Poix sèche, 20 drachmes ; bitume, 12 drachmes. »
+
+#### 5\. _Fabrication de l'asèm._
+
+« Étain, 12 drachmes ; mercure, 4 drachmes ; terre de Chio,* 2 drachmes. A l'étain fondu, ajoutez la terre broyée, puis le mercure, agitez avec du fer, et mettez en œuvre (le produit). »
+
+*) Sorte d'argile. --- Diosc., _Mat. méd._, 5, 173. --- Pline, _H. N._, 35, 56.
+
+#### 6\. _Doublement de l'asèm._
+
+Voici comment on opère le doublement de l'asèm.
+
+« On prend : cuivre affiné, 40 drachmes ; asèm, 8 drachmes ; étain en bouton, 40 drachmes ; on fond d'abord le cuivre et, après deux chauffes, l'étain ; ensuite l'asèm. Lorsque tous deux sont ramollis, refondez à plusieurs reprises et refroidissez au moyen de la composition précédente.* Après avoir augmenté le métal par de tels procédés, nettoyez-le avec le coupholithe.* Le _triplement_ s'effectue par les mêmes procédés, les poids étant répartis conformément à ce qui a été dit plus haut. »
+
+C'est un bronze blanc amalgamé, analogue à certain métal de cloche.
+
+*) Amalgame d'étain décrit dans l'article 5.
+
+*) Talc ou sélénite.
+
+#### 7\. _Masse inépuisable (ou perpétuelle)._
+
+« Elle se prépare par les procédés définis dans le doublement de l'asèm. Si vous voulez prélever sur la masse 8 drachmes, séparez-les et refondez 4 drachmes de ce même asèm ; fondez-les trois fois et répétez, puis refroidissez et mettez-les en réserve dans le coupholithe. »
+
+Voir aussi recette 60.
+
+Il y a là l'idée d'un ferment, destiné à concourir à la multiplication de la matière métallique.
+
+#### 8\. _Fabrication de l'asèm._
+
+« Prenez de l'étain en petits morceaux et mou, quatre fois purifié ; prenez-en 4 parties et 3 parties de cuivre blanc pur et 1 partie d'asèm. Fondez, et, après la fonte, nettoyez à plusieurs reprises, et fabriquez avec ce que vous voudrez : ce sera de l'asèm de première qualité, qui trompera même les ouvriers. »
+
+Alliage blanc, analogue aux précédents ; avec intention de fraude.
+
+#### 9\. _Fabrication de l'asèm fusible._
+
+« Cuivre de Chypre, 1 mine ; étain en baguettes, 1 mine ; pierre de Magnésie, 16 drachmes ; mercure, 8 drachmes ? pierre de Poros,* 20 drachmes. »
+
+« Ayant fondu le cuivre, jetez-y l'étain, puis la pierre de Magnésie en poudre, puis la pierre de Poros, enfin le mercure ; agitez avec du fer et versez au moment voulu. »
+
+Alliage analogue, avec addition de mercure.
+
+*) Pline, _H. N._, 36, 28. Pierre blanche et dure, assimilée au marbre de Paros.
+
+#### 10\. _Doublement de l'asèm._
+
+« Prenez du cuivre de Chypre affiné, jetez dessus parties égales, c'est-à-dire 4 drachmes de sel d'Ammon* et 4 drachmes d'alun ; fondez et ajoutez parties égales d'asèm. »
+
+Bronze enrichi en cuivre.
+
+*) Ce mot a changé de sens ; à la fin du moyen âge il signifiait notre chlorhydrate d'ammoniaque ; mais à l'origine il s'appliquait à un sel fossile qui se développait par efflorescence, sel analogue au natron. Pline, _H. N._, 31, 39. On y reviendra dans le présent ouvrage.
+
+#### 11\. _Fabrication de l'asèm._
+
+« Purifiez avec soin le plomb avec la poix et le bitume, ou bien l'étain ; et mêlez la cadmie* et la litharge, à parties égales, avec le plomb, et remuez jusqu'à mélange parfait et solidification. On s'en sert comme de l'asèm naturel.* »
+
+Alliage complexe renfermant du plomb, ou de l'étain, et du zinc.
+
+*) _Voir_ p. 26.
+
+*) L'asèm naturel est l'électrum, alliage d'or et d'argent, χρυσὸς λευκός d'Hérodote. Voir _Origines de l'Alchimie_, p. 215.
+
+#### 12\. _Fabrication de l'asèm._
+
+« Prenez les rognures* des feuilles (métalliques), trempez dans le vinaigre et l'alun blanc lamelleux et laissez-les mouillées pendant sept jours, et alors fondez avec le quart de cuivre 8 drachmes de terre de Chio,* et 8 drachmes de terre asémienne,* et 1 drachme de sel de Cappadoce, plus alun lamelleux, 1 drachme ; mêlez, fondez, et jetez du noir à la surface. »
+
+*) La nature du métal qui fournit les rognures n'est pas indiquée : est-ce de l'argent, ou de l'asèm précédent ?
+
+*) Sorte de terre argileuse. _Voir_ recette 5.
+
+*) Est-ce un minerai d'asèm ? ou plutôt la terre argileuse de Samos ? Pline, _H. N._, 35, 53, et 36, 40. --- Diosc., _Mat. méd._, 5. 171, 172.
+
+#### 13\. _Fabrication du mélange._
+
+« Cuivre de Gaule,* 8 drachmes ; étain en baguettes, 12 drachmes ; pierre de Magnésie, 6 drachmes ; mercure, 10 drachmes ; asèm, 5 drachmes. »
+
+*) _Voir_ Pline, _H. N._, 34, 20.
+
+#### 14\. _Fabrication du mélange pour une préparation._
+
+« Cuivre, 1 mine (poids), fondez et jetez-y 1 mine d'étain en boutons et travaillez ainsi. »
+
+#### 15\. _Coloration de l'or._
+
+« Colorer l'or pour le rendre bon pour l'usage. Misy et sel et vinaigre provenant de la purification de l'or ; mêlez le tout et jetez dans le vase (qui renferme) l'or décrit dans la préparation précédente ; laissez quelque temps et, ayant ôté (l'or) du vase, chauffez-le sur des charbons ; puis de nouveau jetez-le dans le vase qui renferme la préparation susdite ; faites cela plusieurs fois, jusqu'à ce qu'il devienne bon pour l'usage. »
+
+C'est une recette d'affinage, qui s'en réfère à la préparation décrite plus haut (p. 14) ; ce qui montre que le papyrus alchimique X et le papyrus magique V se faisaient suite et ont été composés par un même écrivain.
+
+#### 16\. _Augmentation de l'or._
+
+« Pour augmenter l'or, prenez de la cadmie de Thrace, faites le mélange avec la cadmie en croûtes,* ou celle de Gaule. »
+
+Cette phrase est le commencement d'une recette plus étendue ; car elle doit être complétée par la suivante, qui en est la suite : le second titre _fraude de l'or_ étant probablement une glose qui a passé dans le texte, par l'erreur du copiste.
+
+*) Sur les diverses variétés de cadmie, _voir_ Dioscoride, _Matière médicale_, 5, 84 ; Pline, _H. N._, 34, 22.
+
+#### 17\. _Fraude de l'or._
+
+« Misy et rouge de Sinope* parties égales pour une partie d'or. Après qu'on aura jeté l'or dans le fourneau et qu'il sera devenu d'une belle teinte, jetez-y ces deux ingrédients et, enlevant (l'or), laissez refroidir, et l'or est doublé. »
+
+La cadmie en croûtes, c'est-à-dire la portion la moins volatile des oxydes métalliques condensés aux parois des fourneaux de fusion du cuivre, renfermait, à côté de l'oxyde de zinc, des oxydes de cuivre et de plomb. On devait employer en outre quelque corps réducteur, omis dans la recette. Le tout formait un alliage d'or et de plomb, avec du cuivre et peut-être du zinc. C'était donc en somme une falsification, comme la glose l'indique.
+
+*) Ce mot a eu plusieurs sens : vermillon, minium, rouge d'oxyde de fer. Dans Dioscoride, 5, 3, il semble indiquer une ocre rouge ; car il est indiqué comme un remède susceptible d'être pris à l'intérieur. De même dans Pline, _H. N._, 35, 13. Ici ce serait, semble-t-il, du minium, lequel fournirait du plomb à l'alliage.
+
+#### 18\. _Fabrication de l'asèm._
+
+« Étain, un dixième de mine ; cuivre de Chypre, un seizième de mine ; minerai de Magnésie, un trente-deuxième ; mercure, deux statères (poids). Fondez le cuivre, jetez-y d'abord l'étain, puis la pierre de Magnésie ; puis, ayant fondu ces matières, ajoutez-y un huitième de bel asèm blanc, de nature conforme. Puis, lorsque le mélange a eu lieu et au moment de refroidir, ou de refondre ensemble, ajoutez alors le mercure en dernier lieu. »
 
 ...
