@@ -287,4 +287,174 @@ Cette composition rappelle, par sa complexité, celle du Kyphi, substance sacré
 
 Il y a là deux recettes distinctes. Dans toutes deux figure le sulfate de cuivre plus ou moins ferrugineux, sous les noms de _chalcanthon_ ou couperose et de sory. La seconde recette semble un fragment mutilé d'une formule plus étendue. La première présente une grande ressemblance avec une formule donnée dans Pline pour préparer un remède avec l'or, en communiquant aux objets torréfiés avec lui une propriété spécifique active, désignée par Pline sous le nom de _virus_. Remarquons que ce mot est la traduction littérale du grec ἰός, rouille ou venin, d'où dérive ἴωσις : ce qui complète le rapprochement entre la formule de Pline et celle du papyrus. Voici les paroles de Pline (_Hist. Nat._, 33, 25) :
 
+« On torréfie l'or dans un vase de terre, avec deux fois son poids de sel et trois fois son poids de misy* ; puis on répète l'opération avec 2 parties de sel et 1 partie de la pierre appelée schiste.* De cette façon, il donne des propriétés actives aux substances chauffées avec lui, tout en demeurant pur et intact. Le résidu est une cendre que l'on conserve dans un vase de terre. »
+
+*) Le misy représente le produit de l'oxydation lente des pyrites, renfermant à la fois du sulfate de cuivre et du sulfate de fer plus ou moins basique. (Voir plus haut, page précéd., note 5).
+
+*) Le schiste de Pline signifie un minerai divisible en lamelles : c'est tantôt de l'alun, tantôt un minerai de fer congénère de l'hématite (_Hist. nat._, 26, 37).
+
+Pline ajoute que l'on emploie ce résidu comme remède. L'efficacité de l'or, le plus parfait des corps, contre les maladies et contre les maléfices est un vieux préjugé. De là, au moyen âge, l'idée de l'or potable. La préparation indiquée par Pline devait contenir les métaux étrangers à l'or, sous forme de chlorures ou d'oxychlorures. Renfermait-elle aussi un sel d'or ? A la rigueur, il se pourrait que le chlorure de sodium, en présence des sels basiques de peroxyde de fer, ou même du bioxyde de cuivre, dégagent du chlore, susceptible d'attaquer l'or métallique ou allié, en formant du chlorure d'or, ou plutôt un chlorure double de ce métal. Mais la chose n'est pas démontrée. En tous cas, l'or se trouve affiné dans l'opération précédente.
+
+C'est en effet ce que montre la comparaison de ces textes avec l'exposition du procédé du _départ par cémentation_, donnée par Macquer (_Dictionnaire de chimie_, 1778). Il s'agit du problème, fort difficile, qui consiste à séparer l'or de l'argent par voie sèche. On y parvient aujourd'hui aisément par la voie humide, qui remonte au 17e siècle. Mais elle n'était pas connue auparavant. Au moyen âge on opérait cette séparation soit au moyen du cément royal, soit au moyen d'une sorte de coupellation, assez difficile à réaliser, et où le soufre et l'antimoine remplaçaient le plomb.
+
+Voici la description donnée par Macquer du cément royal, usité autrefois dans la fabrication des monnaies. On prend 4 parties de briques pilées et tamisées, 1 partie de vitriol vert, calciné au rouge, 1 partie de sel commun ; on en fait une pâte ferme que l'on humecte avec de l'eau ou de l'urine. On la stratifie avec des lames d'or minces, dans un pot de terre ; on lute le couvercle et on chauffe à un feu modéré pendant vingt-quatre heures, en prenant garde de fondre l'or. On répète au besoin l'opération.
+
+En procédant ainsi, l'argent et les autres métaux se dissolvent dans le chlorure de sodium, avec le concours de l'action oxydante et, par suite, chlorurante, exercée par l'oxyde de fer dérivé du vitriol ; tandis que l'or demeure inattaqué. Ce procédé était même employé, d'après Macquer, parles orfèvres, qui ménageaient l'action, de façon à changer la surface d'un bijou en or pur, tandis que la masse centrale demeurait à bas titre.
+
+Il est facile de reconnaître la similitude de ce procédé avec la recette de Pline et avec celle du papyrus égyptien. Geber, Albert le Grand (pseudonyme) et les chimistes du moyen âge en ont gardé constamment la tradition.
+
+### Papyrus W.
+
+Passons au papyrus W, qui fournit plus spécialement des lumières sur les relations entre la magie et le gnosticisme juif. Il est formé de 7 feuillets et demi, haut de 0,27m et large de 0,32m. Il renferme 25 pages de texte en lettres onciales, quelques-unes cursives, chacune de ces pages a de 52 à 31 lignes, parfois moins. Il remonte au 3e siècle et se rattache fort étroitement aux doctrines de Marcus et des Carpocratiens.* Il est tiré principalement des ouvrages apocryphes de Moïse, écrits à cette époque ; il cite, parmi ces ouvrages, la _Monade_, le _Livre secret_, la _Clef_,* le _Livre des Archanges_, le _Livre lunaire_, peut-être aussi un _Livre sur la loi_, le 5e livre des _Ptolémaïques_, le livre _Panarètos_* : ces derniers donnés sans nom d'auteur. Tous ces ouvrages sont congénères et probablement contemporains de la _Chimie domestique de Moïse_, dont j'ai retrouvé des fragments étendus dans les alchimistes grecs* ainsi que des écrits de Moïse le magicien cité dans Pline* : c'est la même famille d'apocryphes. Le manuscrit actuel est, d'ailleurs, rempli de solécismes et de fautes d'orthographe, attestant l'ignorance des copistes égyptiens. On y cite Hermès Ptéryx, Zoroastre le Persan, Tphé l'hiérogrammate, auteur d'un livre adressé au roi Ochus, Manéthon l'astrologue, le même sans doute que celui dont nous possédons un poème, les mémoires d'Evenus, Orphée le théologien. Érotyle, dans ses Orphiques. Les noms d'Orphée et d'Érotyle se retrouvent aussi chez les alchimistes grecs. Le nom du second, cité aussi par Zosime, a été d'ailleurs méconnu et pris pour celui d'un instrument chimique ; sa reproduction dans le Papyrus W (_Papyri_, t. 2, p. 254) en fixe le sens définitif. Toth (t. 2, p. 103) et l'étoile du chien (2, 109-115) rappellent la vieille Égypte. Les noms d'Abraham, Isaac, Jacob, Michel (t. 2, p. 144-153), celui des deux Chérubins (t. 2, p. 101), l'intervention du temple de Jérusalem (t. 2, p. 99), montrent les affinités juives de l'auteur. Apollon et le serpent Pythien (2, 88) manifestent le mélange de traditions grecques, aussi bien que dans les papyrus de Berlin et chez les alchimistes.* Ces affinités sont en même temps gnostiques. C'est ici le lieu de rappeler que les Marcosiens avaient composé un nombre immense d'ouvrages apocryphes, d'après Irénée (_Hérésies_, 1, 17). Le titre même énoncé à la première ligne du papyrus : « livre sacré appelé Monas, le huitième de Moïse, sur le nom saint, » est tout à fait conforme aux doctrines des Carpocratiens, pour lesquels Monas était le grand Dieu ignoré.* Le grand nom ou le saint nom possède des vertus magiques (_Papyri_, t. 2, p. 99) ; il rend invisible, il attire la femme vers l'homme, il chasse le démon, il guérit les convulsions, il arrête les serpents, il calme la colère des rois, etc. Le saint nom est appelé aussi Ogdoade (_Papyri_, t. 2, p. 141) et formé de sept voyelles, la _monas_ complétant le nombre huit. Le nombre sept joue ici, comme dans toute cette littérature, un rôle prépondérant : il est subordonné à celui des planètes divines, à chacune desquelles est consacrée une plante et un parfum spécial (_Papyri_, t. 2, p. 33 ; voir ci-dessus les notes de la p. 13).
+
+*) Matter, _Hist. du Gnosticisme_, t. 2, p. 265.
+
+*) On attribuait à Hermès un ouvrage du même titre. Κλείς, adressé à Toth, et cité par Lactance et par Stobée.
+
+*) Un ouvrage du même titre, attribué à Hermès Trismégiste, est cité par Scaliger, dans son édition de _Manilius_, p. 209. Il y était question des sept « sorts » répondant aux sept planètes, savoir :  
+οἱ ἑπτὰ κλῆροι ἐν τῇ Παναρέπῳ Τρισμεγίστου.  
+Saturne : νέμεσις.  
+Jupiter : νίκη.  
+Mars : τόλμα.  
+Soleil : ἀγαθοδαίμων.  
+Vénus : ἔρως.  
+Mercure : ἀνάγκη.  
+Lune : ἀγαθὴ τύχη.
+
+*) _Origines de l'Alchimie_, p. 55, 123, 171.
+
+*) _H. N._, 30. 2.
+
+*) _Origines de l'Alchimie_, p. 333.
+
+*) Matter, _Hist. du gnosticisme_, t. 2, p. 265.
+
+Sans nous arrêter aux formules d'incantation et de conjuration, farcies de mots barbares, nous pouvons relever, au point de vue des analogies historiques, la mention du serpent qui se mord la queue et celle des sept voyelles entourant la figure du crocodile à tête d'épervier, sur lequel se tient le Dieu polymorphe (_Papyri_, t. 2, p. 85). C'est encore là une figure toute pareille à celles qui sont tracées sur les pierres gravées de la Bibliothèque nationale. (_Origines de l'alchimie_, p. 62).
+
+Citons aussi la mention de l'Agathodémon ou serpent divin : « le ciel est ta tête, l'éther ton corps, la terre tes pieds, et l'eau t'environne ; tu es l'Océan qui engendre tout bien et nourrit la terre habitée. »
+
+J'y relève, en passant, quelques mots chimiques pris dans un sens inaccoutumé : tel est le « nitre tétragonal » (p. 85), sur lequel on doit écrire des dessins et des formules compliquées. Ce n'était assurément pas notre salpêtre, ni notre carbonate de soude, qui ne se prêteraient guère à de pareilles opérations. Le sulfate de soude fournirait peut-être des lames suffisantes ; mais il est plus probable qu'il s'agit ici d'un sel insoluble, suffisamment dur, tel que le carbonate de chaux (spath calcaire), ou le sulfate de chaux, peut-être le feldspath : car il est question plus loin de lécher et de laver deux de ses faces (_Papyri_, t. 2, p. 91) ; il y a là une énigme. Sur ce nitre, on écrit avec une encre faite des sept fleurs et des sept aromates (_Papyri_, t. 2, p. 90, 99). On doit y peindre une « stèle » sacrée renfermant l'invocation suivante :
+
+« Je t'invoque, toi, le plus puissant des dieux, qui as tout créé ; toi, né de toi-même, qui vois tout, sans pouvoir être vu. Tu as donné au soleil la gloire et la puissance. A ton apparition, le monde a existé et la lumière a paru. Tout t'est soumis, mais aucun des dieux ne peut voir ta forme, parce que tu te transformes dans toutes ... Je t'invoque sous le nom que tu possèdes dans la langue des oiseaux, dans celle des hiéroglyphes, dans celle des Juifs, dans celle des Égyptiens, dans celle des cynocéphales ... dans celle des éperviers, dans la langue hiératique ... »
+
+Ces divers langages mystiques reparaissent un peu plus loin, après une invocation à Hermès et en tête d'un récit gnostique de la création, récit que je reproduis en l'abrégeant, afin de donner une idée plus complète de ce genre de littérature qui a eu un rôle historique si considérable.
+
+« Le Dieu aux neufs formes te salue en langage hiératique ... et ajoute : je te précède, Seigneur. Ce disant, il applaudit trois fois. Dieu rit : cha, cha, cha, cha, cha, cha, cha (sept fois), et Dieu ayant ri, naquirent les sept dieux qui comprennent le monde ; car ce sont eux qui apparurent d'abord. Lorsqu'il eut éclaté de rire, la lumière parut et éclaira tout ; car le Dieu naissait sur le monde et sur le feu. Bessun, berithen, berio. »
+
+« Il éclata de rire pour la seconde fois : tout était eau. La terre, ayant entendu le son, s'écria, se courba, et l'eau se trouva partagée en trois. Le Dieu apparut, celui qui est préposé à l'abîme ; sans lui l'eau ne peut ni croître, ni diminuer. »
+
+Au troisième éclat de rire de Dieu, apparaît Hermès ; au cinquième, le Destin, tenant une balance et figurant la Justice. Son nom signifie la barque de la révolution céleste : autre réminiscence de la vieille mythologie égyptienne. Puis vient la querelle d'Hermès et du Destin, réclamant chacun pour soi la Justice. Au septième rire, l'âme naît, puis le serpent Pythien, qui prévoit tout.*
+
+*) Voir plus haut (p. 16, note 3) les sept κλῆροι, tirés du livre _Panaretos_.
+
+J'ai cité, en l'abrégeant, tout ce travestissement gnostique du récit biblique des sept jours de la création, afin d'en montrer la grande ressemblance avec la _Pistis Sophia_ et les textes congénères, et pour mettre en évidence le milieu dans lequel vivaient et pensaient les premiers alchimistes.
+
+### Papyrus X.
+
+Nous allons maintenant examiner le papyrus X, le plus spécialement chimique : il témoigne d'une science des alliages et colorations métalliques fort subtile et fort avancée, science qui avait pour but la fabrication et la falsification des matières d'or et d'argent : à cet égard, il ouvre des jours nouveaux sur l'origine de l'idée de la transmutation des métaux. Non seulement l'idée est analogue ; mais les pratiques exposées dans ce papyrus sont les mêmes, comme je l'établirai, que celles des plus vieux alchimistes, tels que le Pseudo-Démocrite, Zosime, Olympiodore, le Pseudo-Moïse. Cette démonstration est de la plus haute importance pour l'étude des origines de l'alchimie. Elle prouve en effet que ces origines ne sont pas fondées sur des imaginations purement chimériques, comme on l'a cru quelquefois ; mais elles reposaient sur des pratiques positives et des expériences véritables, à l'aide desquelles on fabriquait des imitations d'or et d'argent. Tantôt le fabricant se bornait à tromper le public, sans se faire illusion sur ses procédés ; c'est le cas de l'auteur des recettes du papyrus. Tantôt, au contraire, il ajoutait à son art l'emploi des formules magiques ou des prières, et il devenait dupe de sa propre industrie.
+
+Les définitions du mot « or, » dans le lexique alchimique grec qui fait partie des vieux manuscrits, sont très caractéristiques : elles sont au nombre de trois, que voici :
+
+« On appelle or le blanc, le sec et le jaune et les matières dorées, à l'aide desquelles on fabrique les teintures solides ; »
+
+Et ceci : « L'or, c'est la pyrite, et la cadmie et le soufre ; »
+
+Ou bien encore : « L'or, ce sont tous les fragments et lamelles jaunis et divisés et amenés à perfection. »
+
+On voit que le mot « or, » pour les alchimistes comme pour les orfèvres des papyrus de Leide, et j'ajouterai même, à certains égards, pour les orfèvres et les peintres d'aujourd'hui, avait un sens complexe : il servait à exprimer l'or vrai d'abord, puis l'or à bas titre, les alliages à teinte dorée, tout objet doré à la surface, enfin toute matière couleur d'or, naturelle ou artificielle. Une certaine confusion analogue règne même de nos jours, dans le langage courant ; mais elle n'atteint pas le fond des idées, comme elle le fit autrefois. Cette extension de la signification des mots était en effet commune chez les anciens ; le nom de l'émeraude et celui du saphir, par exemple, étaient appliqués par les Égyptiens aux pierres précieuses et vitrifications les plus diverses.* De même que l'on imitait l'émeraude et le saphir naturels, on imitait l'or et l'argent. En raison des notions fort confuses que l'on avait alors sur la constitution de la matière, on crut pouvoir aller plus loin et on s'imagina y parvenir par des artifices mystérieux. Mais, pour atteindre le but, il fallait mettre en œuvre les actions lentes de la nature et celles d'un pouvoir surnaturel.
+
+*) _Origines de l'Alchimie_, p. 218.
+
+« Apprends, ô ami des Muses, dit Olympiodore, auteur alchimique du commencement du 5e siècle de notre ère, apprends ce que signifie le mot _économie_* et ne vas pas croire, comme le font quelques-uns, que l'action manuelle seule est suffisante : non, il faut encore celle de la nature, et une action supérieure à l'homme. »
+
+*) Il s'agit du traitement mis en pratique pour fabriquer l'or.
+
+Et ailleurs: « Pour que la composition se réalise exactement, dit Zosime ; demandez par vos prières à Dieu de vous enseigner, car les hommes ne transmettent pas la science ; ils se jalousent les uns les autres, et l'on ne trouve pas la voie ... Le démon Ophiuchus entrave notre recherche, rampant de tous côtés et amenant tantôt des négligences, tantôt la crainte, tantôt l'imprévu, en d'autres occasions les afflictions et les châtiments, afin de nous faire abandonner l'œuvre. »
+
+De là la nécessité de faire intervenir les prières et les formules magiques, soit pour conjurer les démons ennemis, soit pour se concilier la divinité.
+
+Tel était le milieu scientifique et moral au sein duquel les croyances à la transmutation des métaux se sont développées : il importait de le rappeler. Mais il est du plus haut intérêt, à mon avis, de constater quelles étaient les pratiques réelles, les manipulations positives des opérateurs. Or ces pratiques nous sont révélées par le papyrus de Leide, sous la forme la plus claire et en concordance avec les recettes du Pseudo-Démocrite et d'Olympiodore. Nous sommes ainsi conduits à étudier avec détail les recettes du papyrus, qui contient la forme première de tous ces procédés et doctrines. Dans le Pseudo-Démocrite, et plus encore dans Zosime, elles sont déjà compliquées par des imaginations mystiques ; puis sont venus les commentateurs, qui ont amplifié de plus en plus la partie mystique, en obscurcissant ou éliminant la partie pratique, à la connaissance exacte de laquelle ils étaient souvent étrangers. Les plus vieux textes, comme il arrive souvent, sont ici les plus clairs.
+
+Donnons d'abord ce que l'on sait sur l'origine de ce papyrus, ainsi que sa description. Le papyrus X a été trouvé à Thèbes, sans doute avec les deux précédents ; car la recette 15 qui s'y trouve s'en réfère au procédé d'affinage de l'or cité dans le papyrus V (v. plus haut, p. 13). Il est formé de dix grandes feuilles, hautes de 0,30m, larges de 0,34m, pliées en deux dans le sens de la largeur. Il contient seize pages d'écriture, de vingt-huit à quarante-sept lignes, en majuscules de la fin du 3e siècle. Il renferme soixante-quinze formules de métallurgie, destinées à composer des alliages, en vue de la fabrication des coupes, vases, images et autres objets d'orfèvrerie ; à souder ou à colorer superficiellement les métaux ; à en essayer la pureté, etc. ; formules disposées sans ordre et avec de nombreuses répétitions. Il y a en outre quinze formules pour faire des lettres d'or ou d'argent, sujet connexe avec le précédent. Le tout ressemble singulièrement au carnet de travail d'un orfèvre, opérant tantôt sur les métaux purs, tantôt sur les métaux alliés ou falsifiés. Ces textes sont remplis d'idiotismes, de fautes d'orthographe et de fautes de grammaire : c'est bien là la langue pratique d'un artisan. Ils offrent d'ailleurs le cachet d'une grande sincérité, sans ombre de charlatanisme, malgré l'improbité professionnelle des recettes. Puis viennent onze recettes pour teindre les étoffes en couleur pourpre, ou en couleur glauque. Le papyrus se termine par dix articles tirés de la _Matière médicale_ de Dioscoride, relatifs aux minéraux mis en œuvre dans les recettes précédentes.
+
+On voit par cette énumération que le même opérateur pratiquait l'orfèvrerie et la teinture des étoffes précieuses. Mais il semble étranger à la fabrication des émaux, vitrifications, pierres précieuses artificielles. Du moins aucune mention n'en est faite dans ces recettes, quoique le sujet soit longuement traité dans les écrits des alchimistes. Le papyrus X ne s'occupe d'ailleurs que des objets d'orfèvrerie fabriqués avec les métaux précieux ; les armes, les outils et autres gros ustensiles, ainsi que les alliages correspondants, ne figurent pas ici.
+
+Les recettes relatives aux métaux sont inscrites sans ordre, à la suite les unes des autres. Cherchons-en d'abord les caractères généraux.
+
+En les examinant de plus près, on reconnaît qu'elles ont été tirées de divers ouvrages ou traditions. En effet, les unités auxquelles se rapportent ces compositions métalliques sont différentes, quoique spéciales pour chaque recette. L'écrivain y parle tantôt de mesures précises, telles que les mines, statères, drachmes, etc. (le mot drachme ou le mot statère étant employé de préférence) ; tantôt il se sert du mot partie ; tantôt enfin du mot mesure.
+
+La teinture des métaux est désignée par plusieurs mots distincts :
+
+Χρυσίου χρῶσις, teinture en or ;  
+ἀργύρου χρύσωσις, dorure de l'argent ;  
+χαλκοῦ χρυσοφανοῦς ποίησις, coloration (superficielle) du cuivre en or.  
+χρίσις, coloration par enduits ou vernis.  
+χρυσοῦ καταβαφή ; il s'agit d'une teinture en or, superficielle et opérée par voie humide.  
+ἀσήμου καταβαφή ; cette fois c'est une teinture en argent, ou plutôt en _asèm_, faite à chaud, avec trempe.
+
+Nous avons affaire, je le répète, à plusieurs collections de recettes de dates et d'origines diverses, mises bout à bout. C'est ce que confirment les répétitions qu'on y rencontre.
+
+Ainsi, la même recette pour préparer l'_asèm_* fusible (amalgame de cuivre et d'étain) reparaît trois fois. L'_asèm_, dans une formule où il est spécialement regardé comme un amalgame d'étain, figure deux fois avec de légères variantes ; la coloration en _asèm_, deux fois ; la coloration du cuivre en or à l'aide du cumin, trois fois ; la dorure apparente, à l'aide de la chélidoine et du misy, deux fois ; l'écriture en lettres d'or, à l'aide de feuilles d'or et de gomme, deux fois. D'autres recettes sont reproduites, une fois en abrégé, une autre fois avec développement : par exemple, la préparation de la soudure d'or, l'écriture en lettres d'or au moyen d'un amalgame de ce métal, la même écriture au moyen du soufre et du corps appelé alun. En discutant de plus près ces répétitions, on pourrait essayer de reconstituer les recueils originels, si ce travail semblait avoir quelque intérêt.
+
+*) Voir plus loin ces diverses recettes.
+
+Les recettes mêmes offrent une grande diversité dans le mode de rédaction : les unes sont les descriptions minutieuses de certaines opérations, mélanges et décapages, fontes successives, avec emploi de fondants divers. Dans d'autres, les proportions seules des métaux primitifs figurent, avec l'énoncé sommaire des opérations, les fondants eux-mêmes étant omis. Par exemple (pap. X, col. 1, l. 5), on lit : le plomb et l'étain sont purifiés par la poix et le bitume ; ils sont rendus solides par l'alun, le sel de Cappadoce et la pierre de Magnésie jetés à la surface. Dans certaines recettes on n'indique que les proportions des ingrédients, et sans qu'il soit fait mention des opérations auxquelles ils sont destinés. Ainsi :
+
+« _Asèm_ fusible (col. 2, l. 14) : cuivre de Chypre, une mine ; étain en baguettes, une mine ; pierre de Magnésie, seize drachmes ; mercure, huit drachmes ; pierre de Paros, vingt drachmes. »
+
+Parfois même l'auteur se borne à donner la proportion de quelques-uns des produits seulement : « Pour écrire en lettres d'or (col. 6, l. 1) : litharge couleur d'or une partie, alun deux parties. »
+
+Ceci ressemble beaucoup à des notes de praticiens, destinées à conserver seulement le souvenir d'un point essentiel, le reste étant confié à la mémoire.
+
+Les recettes finales : _asèm_ égyptien, d'après Phiménas le Saïte ; eau de soufre ; dilution de l'_asèm_, etc. ; ont au contraire un caractère de complication spéciale qui rappelle les alchimistes ; aussi bien que les signes planétaires de l'or et de l'argent, inscrits dans la dernière.
+
+Deux questions générales se présentent encore, avant d'aborder l'étude détaillée de ces textes : celle des auteurs cités et celle des signes ou abréviations. Un seul auteur est nommé dans le papyrus X, sous le titre : _Procédé de Phiménas le Saïte pour préparer l'asèm égyptien_ (col. 11, l. 15). Ce nom paraît le même que celui de Pamménès, prétendu précepteur de Démocrite, cité par Georges le Syncelle, et qui figure dans les textes alchimistes de nos manuscrits.* Ce nom s'écrit aussi Paménasis et Paménas, peut-être même Phaminis : dévoué au dieu Mendès ; dévoué au roi Ménas.* Le rapprochement entre Phiménas et Pamménès doit être regardé comme certain : attendu que la dernière des deux recettes données sous le nom de Phiménas dans le papyrus se trouve presque sans changement dans le Pseudo-Démocrite, parmi des recettes attribuées pareillement à l'Égyptien Pamménès : j'y reviendrai.
+
+*) _Origines de l'Alchimie_, p. 170.
+
+*) _Papyri græci_, t. 2, p. 250. On peut en rapprocher le nom grécisé de _Ménodore_.
+
+Il y a quelque intérêt à comparer les signes et abréviations du papyrus avec les signes des alchimistes. Je note d'abord le signe de l'or (col. 12, l. 20), qui est le même que le signe astronomique du soleil, précisément comme chez les alchimistes : c'est le plus vieil exemple connu de cette identification. A côté figure le signe lunaire de l'argent.* Ces notations symboliques ne s'étendent pas encore aux autres métaux. On trouve aussi dans le papyrus (col. 9, l. 42 et 44) un signe en forme de pointe de flèche, à la suite des mots θείου ἀπύρου (soufre apyre) : ce signe est pareil à celui qui désigne le fer, ou, dans certains cas, répété deux fois, les pierres, dans les écrits alchimiques.* Dans le papyrus il semble qu'il exprime une mesure de poids. Les autres signes sont surtout des abréviations techniques, parmi lesquelles je note celle de l'alun lamelleux στυπτηρία σχιστή : l'une d'elles en particulier (pap. X, col. 6, l. 19) est toute pareille à celle des alchimistes.* Les noms des mesures sont abrégés ou remplacés par des signes, conformément à un usage qui existe encore de notre temps dans les recettes techniques de la pharmacie.
+
+*) Le signe de l'or est absolument certain. Quant à celui de l'argent, M. Leemans a pris ce signe pour un B : il et assez mal dessiné, comme le montre la photographie que je possède ; mais le texte ne me paraît pas susceptible d'une autre interprétation. M. Leemans dans ses notes (t. 2, p. 257) le traduit aussi par _Luna_ ; mais il n'a pas compris qu'il s agissait ici de l'or et de l'argent.
+
+*) Voir les photogravures que je reproduis plus loin dans le présent volume : Planche 1, l. 21 ; Pl. 2, l. 3 ; Pl. 4, l. 25 ; Pl. 8, l. 23.
+
+*) _Ibid._, Pl. 2, l. 5 à droite ; Pl. 4, l. 21.
+
+Il convient d'entrer maintenant dans l'examen détaillé des cent onze articles du papyrus : articles relatifs aux métaux, au nombre de quatre-vingt-dix, dont un sur l'eau divine ; articles sur la teinture en pourpre, au nombre de onze ; enfin dix articles extraits de Dioscoride. La traduction complète des articles sur les métaux va être donnée et suivie d'un commentaire ; mais je ne m'arrêterai guère sur les procédés de teinture proprement dite, fondés principalement sur l'emploi de l'orcanette et de l'orseille, procédés dont quelques-uns sont à peine indiqués en une ligne : comme si l'écrivain avait copié des lambeaux d'un texte qu'il ne comprenait pas. D'autres sont plus complets. Le tout est du même ordre que la recette de teinture en pourpre du Pseudo-Démocrite, contenue dans les manuscrits alchimiques et dont j'ai publié naguère le texte et la traduction, reproduits dans le présent volume.
+
+J'ai collationné avec soin les dix articles extraits de Dioscoride, tous relatifs à des minéraux employés dans les recettes, et qui donnent la mesure des connaissances minéralogiques de l'auteur du papyrus. Ils concernent les corps suivants :
+
+Arsenic (notre orpiment) ;  
+Sandaraque (notre réalgar) ;  
+Misy (sulfate basique de fer, mêlé de sulfate de cuivre) ;  
+Cadmie (oxyde de zinc impur, mêlé d'oxyde de cuivre, voire même d'oxyde de plomb, d'oxyde d'antimoine, d'acide arsénieux, etc.) ;  
+Soudure d'or ou chrysocolle (signifiant à la fois un alliage d'or et d'argent ou de plomb, ou bien la malachite et divers corps congénères) ;  
+Rubrique de Sinope (vermillon, ou minium, ou sanguine) ;  
+Alun (notre alun et divers autres corps astringents) ;  
+Natron (_nitrum_ des anciens, notre carbonate de soude, parfois aussi le sulfate de soude) ;  
+Cinabre (notre minium et aussi notre sulfure de mercure) ;  
+Enfin Mercure.
+
+Le texte du papyrus sur ces divers points est, en somme, le même que le texte des manuscrits connus de Dioscoride (édition Sprengel, 1829) ; à cela près que l'auteur du papyrus a supprimé les vertus thérapeutiques des minerais, le détail des préparations et souvent celui des provenances. Ces suppressions, celle des propriétés médicales en particulier, sont évidemment systématiques.
+
+Quant aux variantes de détail, elles sont nombreuses ; mais la plupart n'ont d'intérêt que pour les grammairiens ou les éditeurs de Dioscoride.
+
+Je note seulement que, dans l'article _Cinabre_, l'auteur du papyrus distingue sous le nom de _minium_ le cinabre d'Espagne ; tandis que Sprengel a adopté la variante _ammion_ (sable ou minerai) : cette confusion entre le nom du cinabre et celui du minium existe aussi dans Pline et ailleurs.
+
+L'article _Mercure_ donne lieu à des remarques plus importantes. On y trouve dans le papyrus, comme dans le texte de l'édition classique de Sprengel, le mot ἄμβιξ désignant le couvercle d'un vase, couvercle à la face inférieure duquel se condensent les vapeurs du mercure sublimé (αἰθάλη) ce même mot, joint à l'article arabe _al_, a produit le nom _alambic_. On voit que _l'ambix_ est le chapiteau d'aujourd'hui. L'alambic proprement dit et l'aludel, instrument plus voisin encore de l'appareil précédent, sont d'ailleurs décrits dans les alchimistes grecs : ils étaient donc connus dès le 4e ou 5e siècle de notre ère.
+
+Il manque à l'article _Mercure_ du papyrus une phrase célèbre que Hœfer, dans son Histoire de la chimie (t. 1, p. 149, 2e édition) avait traduite dans un sens alchimique: « Quelques-uns pensent que le mercure existe essentiellement et comme partie constituante des métaux. »  Ἔνιοι δὲ ἱστοροῦσι καὶ καθ᾽ ἑαυτὴν ἐν τοῖς μετάλλοις εὑρίσκεσθαι τὴν ὑδράργυρον, J'avais d'abord adopté cette interprétation de Hœfer : mais en y pensant davantage, je crois que cette phrase signifie seulement : « quelques-uns rapportent que le mercure existe à l'état natif dans les mines. » En effet le mot μέταλλα a le double sens de métaux et de mines, et ce dernier est ici plus naturel. En tous cas la phrase manque dans le papyrus : soit que le copiste l'ait supprimée pour abréger ; soit qu'elle n'existât pas alors dans les manuscrits, ayant été intercalée plus tard par quelque annotateur.
+
+Une autre variante n'est pas sans intérêt, au point de vue de la discussion des textes, dans l'article _Mercure_. Le texte donné par Sprengel porte : « on garde le mercure dans des vases de verre, ou de plomb, ou d'étain, ou d'argent ; car il ronge toute autre matière et s'écoule. » La mention du verre est exacte ; mais celle des vases de plomb, d'étain, d'argent est absurde ; car ce sont précisément ces métaux que le mercure attaque elle n'a pu être ajoutée que par un commentateur ignorant. Or le papyrus démontre qu'il en est réellement ainsi : car il parle seulement des vases de verre, sans faire mention des vases métalliques. Zosime insiste aussi sur ce point.
+
+On sait que l'on transporte aujourd'hui le mercure dans des vases de fer, dont l'emploi ne paraît pas avoir été connu des anciens.
+
+Venons à la partie vraiment originale du papyrus.
+
+Je vais présenter d'abord la traduction des articles relatifs aux métaux, au nombre de quatre-vingt-dix, dont un article sur l'eau de soufre ou eau divine ; et celle des articles sur la teinture, au nombre de onze ; puis j'en commenterai les points les plus importants.*
+
+### Traduction du Papyrus X de Leide.
+
 ...
