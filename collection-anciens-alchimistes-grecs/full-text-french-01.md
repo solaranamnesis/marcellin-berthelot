@@ -457,4 +457,18 @@ Je vais présenter d'abord la traduction des articles relatifs aux métaux, au n
 
 ### Traduction du Papyrus X de Leide.
 
+#### 1\. _Purification et durcissement du plomb._
+
+« Fondez-le, répandez à la surface de l'alun lamelleux et de la couperose réduits en poudre fine et mélangés, et il durcira. »
+
+#### 2\. _Autre (purification) de l'étain._
+
+« Le plomb et l'étain blanc sont aussi purifiés par la poix et le bitume. Ils sont rendus solides par l'alun et le sel de Cappadoce, et la pierre de Magnésie,* jetée à leur surface. »
+
+#### 3\. _Purification de l'étain que l'on jette dans le mélange de l'asèm._*
+
+« Prenez de l'étain purifié de toute autre substance, fondez-le, laissez-le refroidir ; après l'avoir recouvert d'huile et bien mélangé, fondez-le de nouveau ; ensuite ayant broyé ensemble de l'huile, du bitume et du sel, frottez-en le métal, et fondez une troisième fois ; après fusion, mettez à part l'étain après l'avoir purifié par lavage ; car il sera comme de l'argent durci. Lorsque vous voudrez l'employer dans la fabrication des objets d'argent, de telle sorte qu'on ne le reconnaisse pas et qu'il ait la dureté de l'argent, mêlez 4 parties d'argent, 3 parties d'étain, et le produit deviendra comme un objet d'argent. »
+
+C'est la fabrication d'un alliage d'argent et d'étain, destiné à simuler l'argent ; ou plutôt un procédé pour doubler le poids du premier métal.
+
 ...
