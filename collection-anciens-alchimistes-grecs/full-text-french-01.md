@@ -1085,4 +1085,48 @@ On se borne à rappeler ces titres pour mémoire, les articles ayant été tiré
 
 Ces textes étant connus, il s'agit maintenant de les rapprocher et d'en tirer certaines conséquences.
 
+Les recettes relatives aux métaux sont les plus nombreuses et les plus intéressantes. Elles montrent tout d'abord la corrélation entre la profession de l'orfèvre, qui travaillait les métaux précieux, et celle de l'hiérogrammate ou scribe sacré, obligé de tracer sur les monuments de marbre ou de pierre, aussi bien que sur les livres en papyrus ou en parchemin, des caractères d'or ou d'argent : les recettes données pour dorer les bijoux dans le papyrus sont en effet les mêmes que pour écrire en lettres d'or. Nous commencerons par ce dernier ordre de recettes, dont les applications sont toutes spéciales, avant d'entrer dans le détail des préparations métalliques ; car elles forment en quelque sorte l'introduction aux procédés de teinture des métaux.
+
+#### 1\. --- _Recettes pour écrire en lettres d'or._
+
+L'art d'écrire en lettres d'or ou d'argent préoccupait beaucoup les artisans qui se servaient de notre papyrus ; il n'y a pas moins de quinze ou seize formules sur ce sujet, traité aussi à plusieurs reprises dans les manuscrits de nos bibliothèques ; Montfaucon et Fabricius ont déjà publié plusieurs recettes, tirées de ces derniers.
+
+Rappelons rapidement celles du papyrus :
+
+Feuilles d'or broyées avec de la gomme (53) et (78).
+
+Ce procédé figure encore de nos jours dans le _Manuel Roret_ (t. 2, p. 136 ; 1832) [Triturer une feuille d'or avec du miel et de la gomme, jusqu'à pulvérisation, etc.]
+
+Or amalgamé et gomme (34) et (71).
+
+Amalgame d'or (54).
+
+Dans une autre recette (70) et (45), on prépare d'abord un alliage d'or et de plomb, auquel on fait subir certaines préparations.
+
+Dans les recettes précédentes, l'or forme le fond du principe colorant. Mais on employait aussi des succédanés pour écrire en couleur d'or, sans or : par exemple, un mélange intime de soufre natif, d'alun et de rouille, (72) et (73), délayés dans du vin ;
+
+Et encore : litharge couleur d'or (35) ;
+
+Safran et bile de tortue (39) ;
+
+Cuivre rendu semblable à l'or par un enduit de cumin (47) ; voir aussi (77).
+
+Fleur de carthame et bile de tortue ou de veau (63).
+
+Les recettes suivantes reposent sur l'emploi de l'orpiment (arsenic des anciens) ; telles sont les recettes (50) et (58), avec addition de safran.
+
+Dans une autre préparation plus compliquée (74), l'orpiment, la chélidoine, la bile de tortue et le safran sont associés, suivant une recette composite.
+
+L'orpiment apparaît ici comme matière employée pour sa couleur propre, et non comme colorant des métaux, emploi qu'il a pris plus tard.
+
+On trouve encore une recette (62) pour écrire en lettres d'asèm (alliage d'argent et d'or), au moyen de la couperose, du soufre et du vinaigre ; c'est-à-dire sans or ni argent ;
+
+Et une recette (79) pour écrire en lettres d'argent, avec de la litharge délayée dans la fiente de colombe et du vinaigre.
+
+Il existe aujourd'hui des recettes analogues dans le _Manuel Roret_ (t. 2, p. 140 ; 1832) : « Étain pulvérisé et gélatine, on forme un enduit, on polit au brunissoir ; on ajoute une couche de vernis à l'huile ou à la gomme laque, ce qui fournit une couleur blanche, ou dorée, sur bois, sur cuir, fer, etc. »
+
+Si j'ai donné quelques détails sur ces recettes pour écrire des lettres d'or ou d'argent, c'est parce qu'elles caractérisent nettement les personnes à qui elles étaient destinées. Ce sont, je le répète, des formules précises de praticiens, intéressant spécialement le scribe qui transcrivait ce papyrus, et toute la classe, si importante en Égypte, des hiérogrammates ; car il ne s'agissait pas seulement d'écrire et de dessiner sur papyrus, mais aussi sur marbre ou sur tout autre support. Certaines de ces recettes, par une transition singulière, sont devenues, comme je le dirai bientôt, des recettes de transmutation véritable.
+
+#### 2\. --- _Manipulation des Métaux._
+
 ...
