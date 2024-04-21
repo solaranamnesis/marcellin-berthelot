@@ -587,4 +587,502 @@ La cadmie en croûtes, c'est-à-dire la portion la moins volatile des oxydes mé
 
 « Étain, un dixième de mine ; cuivre de Chypre, un seizième de mine ; minerai de Magnésie, un trente-deuxième ; mercure, deux statères (poids). Fondez le cuivre, jetez-y d'abord l'étain, puis la pierre de Magnésie ; puis, ayant fondu ces matières, ajoutez-y un huitième de bel asèm blanc, de nature conforme. Puis, lorsque le mélange a eu lieu et au moment de refroidir, ou de refondre ensemble, ajoutez alors le mercure en dernier lieu. »
 
+#### 19\. _Autre (formule)._
+
+« Cuivre de Chypre, 4 statères ; terre de Samos, 4 statères ; alun lamelleux, statères ; sel commun, 2 statères ; asèm noirci, 2 statères, ou, si vous voulez faire plus beau, 4 statères. Ayant fondu le cuivre, répandez dessus la terre de Chio et l'alun lamelleux broyés ensemble, remuez de façon à mélanger ; et, ayant fondu cet asèm, coulez. Ayant mêlé ce qui vient d'être fondu avec du (bois de) genièvre, enlevez ; avant de l'ôter, après avoir chauffé, éteignez le produit dans l'alun lamelleux et le sel, pris à parties égales, avec de l'eau visqueuse ; épaississement minime ; et, si vous voulez terminer le travail, trempez de nouveau dans le mélange susdit ; chauffez, afin que (le métal) devienne plus blanc. Ayez soin d'employer du cuivre affiné d'avance ; l'ayant chauffé au commencement et soumis à l'action du soufflet, jusqu'à ce qu'il ait rejeté son écaille et soit devenu pur ; et alors employez-le, comme il vient d'être écrit. »
+
+C'est encore un procédé d'alliage, mais pour lequel on augmente la proportion du cuivre dans l'asèm déjà préparé : ce qui devait rapprocher le bronze obtenu de la couleur de l'or.
+
+#### 20\. _Autre (formule)._
+
+« Prenez un statère Ptolémaïque* ; car ils renferment dans leur composition du cuivre, et trempez-le ; or la composition du liquide pour tremper est celle-ci : alun lamelleux, sel commun dans le vinaigre pour trempe ; épaississement visqueux. Après avoir trempé et lorsque le métal fondu aura été nettoyé et mêlé avec cette composition, chauffez, puis trempez, puis enlevez, puis chauffez. »
+
+*) Il s'agit ici d'une monnaie.
+
+#### 20\. _bis (sans titre)._
+
+« Voici la composition du liquide pour tremper : alun lamelleux, sel commun dans le vinaigre pour trempe, épaississement visqueux ; ayant trempé dans cette mixture, chauffez, puis trempez, puis enlevez, puis chauffez ; quand vous aurez trempé quatre fois ou davantage, en chauffant chaque fois auparavant, le (métal) deviendra supérieur à l'asèm noirci. Plus nombreux seront les traitements, chauffes et trempes, plus il s'améliorera. »
+
+Ce sont des formules de décapage et d'affinage, dans lesquelles n'entre aucun métal nouveau. Il semble que, dans ceci, il s'agisse soit de rehausser la teinte, comme on le fait en orfèvrerie, même de notre temps ; soit de faire passer une monnaie riche en cuivre pour une monnaie d'argent, en dissolvant le cuivre à la surface.
+
+En effet, les orfèvres emploient aujourd'hui diverses recettes analogues pour donner à l'or une belle teinte.
+
+#### 21\. _Traitement de l'asèm dur._
+
+« Comme il convient de faire pour changer l'asèm dur et noir en (un métal) mou et blanc. Prenant des feuilles de ricin, faites infuser dans l'eau un jour ; puis mouillez dans l'eau avant de fondre et fondez deux fois et aspergez avec l'aphronitron.* Et jetez dans la fonte de l'alun ; employez. Il possède la qualité, car il est beau. »
+
+*) Peut-être s'agit-il ici de notre salpêtre ? _Voir_ Dioscoride, _Matière médicale_, 5, 131. Le mot d'_aphronitron_ désignait des efflorescences salines de composition fort diverse.
+
+#### 22\. _Autre (formule)._
+
+« Secours pour tout _asèm_ gâté. Prenant de la paille et de l'orge et de la rue sauvage, infusez dans le vinaigre, versez-y du sel et des charbons ; jetez le tout dans le fourneau, soufflez longtemps et laissez refroidir. »
+
+Ce sont des procédés d'affinage d'un métal oxydé ou sulfuré à la surface.
+
+#### 23\. _Blanchiment du cuivre._
+
+« Pour blanchir le cuivre, afin de le mêler à l'asèm à parties égales, sans qu'on puisse le reconnaître. Prenant du cuivre de Chypre, fondez-le, jetant dessus 1 mine de sandaraque décomposée,* 2 drachmes de sandaraque couleur de fer, 5 drachmes d'alun lamelleux, et fondez. Dans la seconde fonte, on jette 4 drachmes de cire du Pont, ou moins ; on chauffe et l'on coule. »
+
+C'est ici une falsification, par laquelle le cuivre est teint au moyen de l'arsenic. La recette est fort voisine de celle des alchimistes. --- On prépare aujourd'hui par un procédé analogue (avec le concours du flux noir) le cuivre blanc ou _tombac blanc_.
+
+*) Sulfure d'arsenic grillé ?
+
+#### 24\. _Durcissement de l'étain._
+
+« Pour durcir l'étain, répandez séparément (à sa surface) l'alun lamelleux et la couperose ; si en outre vous avez purifié l'étain comme il faut et employé les matières dites précédemment, de sorte qu'il ne leur échappe pas en s'écoulant pendant la chauffe, vous aurez l'asèm égyptien pour la fabrication des objets (d'orfèvrerie). »
+
+#### 25\. _Enduit d'or._
+
+« Pour enduire l'or, autrement dit pour purifier l'or et le rendre brillant : misy, 4 parties ; alun, 4 parties ; sel, 4 parties. Broyez avec l'eau. Et ayant enduit l'or, placez-le dans un vase de terre déposé dans un fourneau et luté avec de la terre glaise, jusqu'à ce que les matières susdites aient été fondues,* retirez-le et nettoyez avec soin. »
+
+*) Ou plutôt, jusqu'à ce que le fondant ait été en quelque sorte absorbé par le vase, ou complètement évaporé.
+
+#### 26\. _Purification de l'argent._
+
+« Comment on purifie l'argent et on le rend brillant. Prenez une partie d'argent et un poids égal de plomb ; mettez dans un fourneau, maintenez fondu jusqu'à ce que le plomb ait été consumé ; répétez l'opération plusieurs fois, jusqu'à ce qu'il devienne brillant. »
+
+C'est une coupellation incomplètement décrite.
+
+Strabon signale déjà cette méthode.
+
+#### 27\. _Coloration en argent._
+
+« Pour argenter les objets de cuivre : étain en baguettes, 2 drachmes ; mercure, 2 drachmes ; terre de Chio, 2 drachmes. Fondez l'étain, jetez dessus la terre broyée, puis le mercure, et remuez avec du fer et façonnez en globules. »
+
+C'est la fabrication d'un amalgame d'étain, destiné à blanchir le cuivre.
+
+#### 28\. _Fabrication du cuivre pareil à l'or._
+
+« Broyez du cumin : versez-y de l'eau, délayez, laissez en contact pendant trois jours. Le quatrième jour, secouez, et si vous voulez vous en servir comme enduit, mêlez-y de la chrysocolle* ; et l'or paraîtra. »
+
+C'est un vernis.
+
+*) Soudure d'or. _Voir_ la recette 31.
+
+#### 29\. _Fabrication de l'asèm fusible._
+
+« Cuivre de Chypre, 1 partie ; étain, 1 partie ; pierre de Magnésie, 1 partie, pierre de Paros brute broyée finement ... D'abord on fond le cuivre, puis l'étain, puis la pierre de Magnésie* ; ensuite on y jette la pierre de Paros pulvérisée ; on remue avec du fer et l'on exécute l'opération du creuset. »
+
+*) Ceci semble indiquer un oxyde de fer ( ? ).
+
+#### 30\. _Fabrication de l'asèm._
+
+« Étain, une mesure ; cuivre de Gaule, une demi-mesure. Fondez d'abord le cuivre, puis l'étain, remuez avec du fer, et jetez dessus la poix sèche, jusqu'à saturation ; ensuite versez, refondez, en employant de l'alun lamelleux, à la façon de la poix ; et alors versez. Si vous voulez fondre d'abord l'étain, puis la limaille de cuivre ci-dessus, suivez la même proportion et la même marche. »
+
+#### 31\. _Préparation de la chrysocolle.*_
+
+« La soudure d'or se prépare ainsi : cuivre de Chypre, 4 parties ; asèm, 2 parties ; or, 1 partie. On fond d'abord le cuivre, puis l'asèm, ensuite l'or. »
+
+*) Soudure d'or.
+
+#### 32\. _Reconnaître la pureté de l'étain._
+
+« Après avoir fondu, mettez du papier au-dessous et versez : si le papier brûle, l'étain contient du plomb. »
+
+Ce procédé repose sur le fait que l'étain fond à une température plus basse que le plomb, température incapable de carboniser le papier.
+
+Pline donne un procédé analogue (_H. N._ 34, 48). On exécute encore aujourd'hui dans les Cours de Chimie une manipulation du même ordre.
+
+#### 33\. _Fabrication de la soudure pour travailler l'or._
+
+« Comment il convient de faire la soudure pour les ouvrages d'or : or, 2 parties ; cuivre, 1 partie ; fondez, divisez. Lorsque vous voulez une couleur brillante, fondez avec un peu d'argent. »
+
+Ce sont là des recettes d'orfèvrerie. On lit de même aujourd'hui dans le _Manuel Roret_ (1832) :
+
+« Argent fin, 1 partie ; cuivre, 1 partie ; fondez ensemble, ajoutez or, 2 parties. »
+
+#### 34\. _Procédé pour écrire en lettres d'or._
+
+« Pour écrire en lettres d'or, prenez du mercure, versez-le dans un vase propre, et ajoutez-y de l'or en feuilles ; lorsque l'or paraîtra dissous dans le mercure, agitez vivement ; ajoutez un peu de gomme, 1 grain, par exemple, et, laissant reposer, écrivez des lettres d'or. »
+
+#### 35\. _Autre (recette)._
+
+« Litharge couleur d'or, 1 partie ; alun, 2 parties. »
+
+#### 36\. _Fabrication de l'asèm noir comme de l'obsidienne.*_
+
+« Asèm, 2 parties ; plomb, 4 parties. Placez sur un vase de terre vide, jetez-y un poids triple de soufre apyre,* et, l'ayant mis dans le fourneau, fondez. Et l'ayant tiré du fourneau, frappez, et faites ce que vous voulez. Si vous voulez faire un objet figuré, en métal battu, ou coulé, alors limez et taillez : il ne se rouille pas. »
+
+C'est un alliage noirci par les sulfures métalliques.
+
+Pline décrit une préparation analogue, usitée en Égypte (_H. N._ 33, 46).
+
+*) Sur l'obsidienne, Pline, _H. N._ 36, 67.
+
+*) N'ayant pas subi l'action du feu.
+
+#### 37\. _Fabrication de l'asèm._
+
+« Bon étain, 1 partie ; fondez ; ajoutez-y : poix sèche, le tiers du poids de l'étain ; ayant remué, laissez écumer la poix jusqu'à ce qu'elle ait été entièrement rejetée ; puis, après refroidissement de l'étain, refondez-le et ajoutez 13 drachmes d'étain, 1 drachme de mercure, agitez ; laissez refroidir et travaillez comme l'asèm. »
+
+C'est de l'étain affiné, avec addition d'un peu de mercure.
+
+#### 38\. _Pour donner aux objets de cuivre l'apparence de l'or._
+
+« Et que ni le contact ni le frottement contre la pierre de touche ne les décèle ; mais qu'ils puissent servir surtout pour (la fabrication d') un anneau de belle apparence. En voici la préparation. On broie l'or et le plomb en une poussière fine comme de la farine, 2 parties de plomb pour 1 d'or, puis, ayant mêlé, on incorpore avec de la gomme, et l'on enduit l'anneau avec cette mixture ; puis on chauffe. On répète cela plusieurs fois, jusqu'à ce que l'objet ait pris la couleur. Il est difficile de déceler (la fraude) ; parce que le frottement donne la marque d'un objet d'or ; et la chaleur consume le plomb, mais non l'or. »
+
+#### 39\. _Écriture en lettres d'or._
+
+« Lettres d'or : safran ; bile de tortue fluviale. »
+
+#### 40\. _Fabrication de l'asèm._
+
+« Prenez étain blanc, très divisé, purifiez-le quatre fois ; puis prenez-en 4 parties, et le quart de cuivre blanc pur et 1 partie d'asèm, fondez : lorsque le mélange aura été fondu, aspergez-le de sel le plus possible, et fabriquez ce que vous voudrez, soit des coupes, soit ce qui vous plaira. Le métal sera pareil à l'_asèm_ initial, de façon à tromper même les ouvriers. »
+
+#### 41\. _Autre (procédé)._
+
+« Argent, 2 parties ; étain purifié, 3 parties ; cuivre ... drachmes ; fondez ; puis enlevez et décapez ; mettez en œuvre comme pour les ouvrages d'argent de premier ordre. »
+
+#### 42\. _Enduit du cuivre._
+
+« Si vous voulez que le cuivre ait la couleur de l'argent ; après avoir purifié le cuivre avec soin, mettez-le dans le mercure et la céruse : le mercure seul suffit pour l'enduit. »
+
+C'est du cuivre simplement blanchi à la surface par le mercure.
+
+#### 43\. _Essai de l'or._
+
+« Si vous voulez éprouver la pureté de l'or, refondez-le et chauffez-le : s'il est pur, il garde sa couleur après le chauffage et reste pareil à une pièce de monnaie. S'il devient plus blanc, il contient de l'argent ; s'il devient plus rude et plus dur, il renferme du cuivre et de l'étain ; s'il noircit et s'amollit, du plomb. »
+
+Ce procédé d'essai sommaire répond à des observations exactes.
+
+#### 44\. _Essai de l'argent._
+
+« Chauffez l'argent ou fondez-le, comme l'or ; et, s'il reste blanc, brillant, il est pur et non fraudé ; s'il paraît noir, il contient du plomb ; s'il paraît dur et jaune, il contient du cuivre. »
+
+Pline donne un procédé analogue (_H. N._ 33, 44). On voit par là que les orfèvres égyptiens, tout en cherchant à tromper le public, se réservaient à eux-mêmes des procédés de contrôle.
+
+#### 45\. _Écriture en lettres d'or._
+
+« Écrire des lettres d'or. Écrivez ce que vous voulez avec de la soudure d'orfèvre et du vinaigre. »
+
+#### 46\. _Décapage des objets de cuivre._
+
+« Ayant fait cuire des bettes, décapez soigneusement avec le jus les objets de cuivre et d'argent. On fait bouillir les bettes dans l'eau. »
+
+#### 47\. _Cuivre pareil à l'or._
+
+« Cuivre semblable à l'or par la couleur, soit : broyez du cumin dans l'eau ; laissez reposer avec soin pendant trois jours ; le quatrième, ayant arrosé abondamment, enduisez le cuivre et écrivez ce que vous voudrez. Car l'enduit et l'écriture ont la même apparence. »
+
+#### 48\. _Décapage des objets d'argent._
+
+« Nettoyez avec de la laine de mouton, après avoir trempé dans de la saumure piquante ; puis décapez avec de l'eau douce (sucrée ? ) et faites emploi. »
+
+#### 49\. _Dorure de l'argent._
+
+« Pour dorer sans feuilles (d'or), un vase d'argent ou de cuivre, fondez du natron jaune et du sel avec de l'eau, frottez avec et il sera (doré). »
+
+Recette obscure. Elle se réfère au natron jaune, corps dont il est question dans Pline, _H. N._ 31, 46. Pline le donne comme un sel natif ; mais, dans les lignes précédentes, il parle de la fusion du natron avec du soufre : ce qui formerait un sulfure, capable en effet de teindre les métaux. Zosime signale aussi le natron jaune.
+
+#### 50\. _Écriture en lettres d'or._
+
+« Broyez l'arsenic* avec de la gomme, puis avec de l'eau de puits ; en troisième lieu, écrivez. »
+
+*) Sulfure d'arsenic.
+
+#### 51\. _Dorure de l'argent._
+
+« Broyez le misy avec la sandaraque et le cinabre et frottez-en l'objet d'argent. »
+
+#### 53\. _Écriture en lettres d'or._
+
+« Après avoir séché des feuilles d'or, broyez avec de  la gomme et écrivez. »
+
+#### 54\. _Préparation de l'or liquide._
+
+« Placez des feuilles d'or dans un mortier, broyez-les avec du mercure et ce sera fait. »
+
+#### 55\. _Coloration en or._
+
+« Comment on doit préparer l'argent doré. Délayez du cinabre avec de l'alun, versez dessus du vinaigre blanc, et ayant amené le tout en consistance de cire, exprimez à plusieurs reprises et laissez passer la nuit. »
+
+Il semble qu'il s'agit ici d'un enduit préliminaire.
+
+#### 56\. _Préparation de l'or._
+
+« Asèm, 1 statère, ou cuivre de Chypre, 3 ; 4 statères d'or ; fondez ensemble. »
+
+C'est une préparation d'or à bas titre.
+
+#### 57\. _Autre préparation._
+
+« Dorer l'argent d'une façon durable. Prenez du mercure et des feuilles d'or, façonnez en consistance de cire ; prenant le vase d'argent, décapez-le avec l'alun, et prenant un peu de la matière cireuse, enduisez-le avec le polissoir et laissez la matière se fixer ; faites cela cinq fois. Tenez le vase avec un chiffon de lin propre, afin qu'il ne s'encrasse pas ; et prenant de la braise, préparez des cendres, adoucissez avec le polissoir et employez-le comme un vase d'or. Il peut subir l'épreuve de l'or régulier. »
+
+Ces derniers mots montrent qu'il s'agit d'un procédé de falsification, à l'épreuve de la pierre de touche.
+
+#### 58\. _Écriture en lettres d'or._
+
+« Arsenic couleur d'or, 20 drachmes ; verre pulvérisé, 4 statères ; ou blanc d'œuf, 2 statères, gomme blanche, 20 statères, safran, ... après avoir écrit, laissez sécher et polissez avec une dent.* »
+
+*) _Voir_ Pline, _H. N._, 13, 25.
+
+#### 59\. _Fabrication de l'asèm._
+
+« On prépare aussi l'asèm avec le cuivre ; (argent,) 2 mines ; étain en bouton, 1 mine ; fondant d'abord le cuivre, jetez-y l'étain et du coupholithe, appelé craie,* une demi-mine par mine ; poursuivez jusqu'à ce que vous voyiez fondus l'argent et la craie ; après que le reste aura été dissipé et que l'argent restera seul, alors laissez refroidir, et employez-le comme de l'asèm préférable au véritable ... »
+
+*) Ce n'est pas notre craie, mais, sans aucun doute, quelque terre argileuse, jouant le rôle de fondant.
+
+#### 60\. _Autre (préparation)._
+
+« L'asèm perpétuel* se prépare ainsi : 1 statère de bel asèm ; ajoutez-y 2 statères de cuivre affiné, fondez deux ou trois fois. »
+
+*) _Voir_ recette n° 7.
+
+#### 61\. _Blanchiment de l'étain._
+
+« Pour blanchir l'étain. Ayant chauffé avec de l'alun et du natron, fondez. »
+
+#### 62\. _Écriture en lettres d'asèm._
+
+« Délayez de la couperose et du soufre avec du vinaigre ; écrivez avec la matière épaissie. »
+
+#### 63\. _Écriture en lettres d'or._
+
+« Fleur du cnecos,* gomme blanche, blanc d'œuf mélangés dans une coquille, et incorporez avec de la bile de tortue, à l'estime, comme on fait pour les couleurs ; faites emploi. La bile de veau très amère sert aussi pour la couleur. »
+
+Ici la couleur est à base organique.
+
+*) Plante analogue au carthame.
+
+#### 64\. _Essai de l'asèm._
+
+« Pour reconnaître si l'asèm est fraudé. Placez dans la saumure, chauffez ; s'il est fraudé, il noircit. »
+
+Cette recette est obscure. Se rapporte-t-elle à la formation d'un oxychlorure de cuivre ?
+
+#### 65\. _Décapage de l'étain._
+
+« Placez du gypse dans un chiffon et nettoyez. »
+
+#### 66\. _Décapage de l'argent._
+
+« Employez l'alun humide. »
+
+De même aujourd'hui, dans le _Manuel Roret_ (t. 2, p. 195 ; 1832).
+
+« Dissolvez de l'alun, concentrez, écumez, ajoutez-y du savon et frottez l'argent avec un linge trempé dans cette composition. »
+
+#### 67\. _Teinture de l'asèm._
+
+« Cinabre, 1 partie ; alun lamelleux, 1 partie ; terre cimolienne, 1 partie ; mouillez avec de l'eau de mer et mettez en œuvre. »
+
+#### 68\. _Amollissement du cuivre._
+
+« Chauffez-le ; placez-le dans la fiente d'oiseau et après refroidissement enlevez. »
+
+#### 69\. _Teinture de l'or._
+
+« Misy grillé, 3 parties ; alun lamelleux, chélidoine, environ 1 partie ; broyez en consistance de miel avec l'urine d'un enfant impubère et colorez l'objet ; chauffez et trempez dans l'eau froide. »
+
+#### 70\. _Écriture en lettres d'or._
+
+« Prenez un quart d'or éprouvé, fondez dans un creuset d'orfèvre ; quand il sera fondu, ajoutez un kération (carat, tiers d'obole) de plomb ; après qu'il a été mélangé, ôtez et refroidissez et prenez un mortier de jaspe, jetez-y la matière fondue ; ajoutez 1 kération de natron et mêlez la poudre avec soin avec du vinaigre piquant, à la façon d'un collyre médicinal, pendant trois jours ; puis, quand le mélange est fait, incorporez 1 kération (mesure) d'alun lamelleux, écrivez et polissez avec une dent. »
+
+#### 71\. _Écriture en lettres d'or._
+
+« Feuilles d'or ductiles ; broyez avec du mercure dans un mortier ; et employez-le pour écrire, à la façon de l'encre noire. »
+
+#### 72\. _Autre (préparation)._
+
+« Soufre apyre, ... alun lamelleux ... ; gomme ... ; arrosez la gomme avec de l'eau. »
+
+#### 73\. _Autre (préparation)._
+
+« Soufre apyre, ... alun lamelleux, une drachme ; ajoutez au milieu de la rouille sèche ; broyez la rouille, le soufre et l'alun finement ; mêlez pour le mieux, broyez avec soin, et servez-vous-en comme d'encre noire à écrire, en délayant dans du vin exempt d'eau de mer. Écrivez sur papyrus et parchemin. »
+
+#### 74\. _Autre (préparation)._
+
+« Écrire en lettres d'or, sans or. Chélidoine, 1 partie ; résine pure, 1 partie ; arsenic couleur d'or, 1 partie, de celui qui est fragile ; gomme pure ; bile de tortue, 1 partie ; partie liquide des œufs, 5 parties ; prenez de toutes ces matières sèches le poids de 20 statères ; puis jetez-y 4 statères de safran de Cilicie. On emploie non seulement sur papier ou parchemin ; mais aussi sur marbre bien poli ; ou bien si vous voulez faire un beau dessin sur quelque autre objet et lui donner l'apparence de l'or. »
+
+#### 75\. _Dorure._
+
+« Dorure faisant le même effet. Arsenic lamelleux, couperose, sandaraque dorée,* mercure, gomme adraganthe, moelle d'arum, à parties égales ; délayez ensemble avec de la bile de chèvre. On l'applique sur les objets de cuivre passés au feu, sur les objets d'argent, sur les figures de (métal) et sur les petits boucliers. L'airain ne doit pas avoir d'aspérité. »
+
+*) Il s'agit probablement d'un sulfure d'arsenic naturel ou artificiel, intermédiaire entre l'orpiment et le réalgar. La poudre même du réalgar est alors plus jaune que la masse compacte. Peut-être aussi était-ce du réalgar modifié par un commencement de grillage, mode de traitement auquel tous les minéraux usités en pharmacie étaient soumis. (_Voir_ Dioscoride, _Mat. méd._, _passim_, et spécialement 5, 120 et 121).
+
+#### 76\. _Autre (procédé)._
+
+« Misy des mines, 3 statères ; alun des mines, 3 statères ; chélidoine, 1 statère ; versez-y l'urine d'un enfant impubère ; broyez jusqu'à ce que le mélange devienne visqueux et trempez (-y l'objet). »
+
+#### 77\. _Autre (procédé)._
+
+« Prenez du cumin, broyez, laissez infuser trois jours dans l'eau, le quatrième, enlevez ; enduisez-en les objets de cuivre, ou ce que vous voulez. Il faut maintenir le vase fermé pendant les trois jours. »
+
+#### 78\. _Écriture en lettres d'or._
+
+« Broyez des feuilles d'or avec de la gomme, séchez et employez comme de l'encre noire. »
+
+#### 79\. _Écriture en lettres d'argent._
+
+« Écrire des lettres d'argent. Litharge, 4 statères ; délayez avec de la fiente de colombe et du vinaigre ; écrivez avec un stylet passé au feu. »
+
+#### 80\. _Teinture de l'asèm (ou en couleur d'asèm)._
+
+« Cinabre, terre cimolienne, alun liquide, parties égales ; mêlez avec de l'eau de mer, chauffez et trempez plusieurs fois. »
+
+#### 81\. _Coloration en argent._
+
+« Afin qu'elle ne puisse être enlevée que par le feu. »
+
+« Chrysocolle et céruse et terre de Chio, et mercure broyés ensemble ; ajoutez du miel et, ayant traité d'abord le vase par le natron, enduisez. »
+
+#### 82\. _Durcissement de l'étain._
+
+« Fondez-le, ajoutez-y un mélange homogène d'alun lamelleux et de couperose ; pulvérisez, et aspergez (le métal), et il sera dur. »
+
+Le durcissement (σκλήρωσις, σκληρασία) de l'étain et du plomb* sont regardés ici comme corrélatifs de leur purification.
+
+*) Voir recettes 1, 24.
+
+#### 83\. _Fabrication de l'asèm._
+
+« Bon étain, 1 mine ; poix sèche, 13 statères : bitume, 8 statères ; fondez dans un vase de terre cuite luté autour ; après avoir refroidi, mêlez 10 statères de cuivre en grains ronds et 3 statères d'asèm antérieur et 12 statères de pierre de Magnésie broyée. Fondez et faites ce que vous voudrez. »
+
+#### 84\. _Fabrication de l'asèm égyptien._
+
+« Recette de Phiménas le Saïte. Prenez du cuivre de Chypre doux, purifiez-le avec du vinaigre, du sel et de l'alun ; après l'avoir purifié, fondez en jetant sur 10 statères de cuivre 3 statères de céruse bien pure, 2 statères de litharge couleur d'or (ou provenant de la coupellation de l'or), ensuite il deviendra blanc ; alors ajoutez-y 2 statères d'asèm très doux et sans défaut, et l'on obtiendra le produit. Empêchez en fondant qu'il n'y ait liquation. Ce n'est pas l'œuvre d'un ignorant, mais d'un homme expérimenté, et l'union des deux métaux sera bonne. »
+
+Cette recette est fort claire, sauf l'omission des agents destinés à réduire la litharge et la céruse.
+
+#### 85\. _Autre (procédé)._
+
+« Préparation exacte d'asèm, préférable à celle de l'asèm proprement dit. Prenez : orichalque,* par exemple, 1 drachme ; mettez dans le creuset jusqu'à ce qu'il coule ; jetez dessus 4 drachmes de sel ammoniac,* ou cappadocien ; refondez, ajoutez-y alun lamelleux, le poids d'une fève d'Égypte ; refondez, ajoutez-y 1 drachme de sandaraque décomposée,* non de la sandaraque dorée, mais de celle qui blanchit ; ensuite transportez dans un autre creuset enduit l'avance de terre de Chio ; après fusion, ajoutez un tiers d'asèm et employez. »
+
+Cette préparation donne un alliage de cuivre et de zinc arsénical.
+
+*) Laiton ou analogue.
+
+*) Il est plus que douteux qu'il s'agisse ici de notre sel ammoniac moderne. C'est plutôt une variété de sel gemme ou de carbonate de soude, d'après les textes formels de Dioscoride, _Mat. méd._, 5, 125 ; et de Pline, _H. N._, 31, 39. De même, dans le traité _De Mineralibus_, attribué à Albert le Grand, l. 5, tr. 1, ch. 2. Dans le Pseudo-Aristote, auteur de l'époque arabe, (Manget, _Bibl. chem._, t. 1, p. 648), c'est aussi un sel fusible, qui n'émet pas de fumée. Mais dans Geber, _Summa perfectionis_, livre 1, ch. 10 et _Libri investigationis_ (9e siècle), ainsi que dans Avicenne (11e siècle), cité dans le _Speculum majus_ de Vincent de Beauvais (_Speculum naturale_, l. 8, 60), le mot sel ammoniac s'applique à un corps sublimable, tel que notre chlorhydrate d'ammoniaque. Le sens de ce mot a donc changé dans le cours des temps.
+
+*) Sulfure d'arsenic, probablement en partie désagrégé par le grillage.
+
+#### 86\. _Autre (procédé)._
+
+« Prenez : étain, 12 drachmes ; mercure, 4 drachmes : terre de Chio, 2 drachmes ; fondez l'étain ; jetez-y la terre en poudre, puis le mercure ; remuez avec un morceau de fer ; mettez en globules. »
+
+#### 87\. _Doublement de l'or._
+
+« Pour augmenter le poids de l'or. Fondez avec le quart de cadmie, et il deviendra plus lourd et plus dur. »
+
+Il fallait évidemment ajouter un agent réducteur et un fondant, dont la recette ne fait pas mention. On obtenait ainsi un alliage de l'or avec les métaux dont les oxydes constituaient la cadmie, c'est-à-dire le zinc, le cuivre, ou le plomb spécialement ; alliage riche en or. La même recette se lit aussi dans le Pseudo-Démocrite, mais comme toujours plus compliquée et plus obscure. Ce qui suit est plus clair.
+
+#### 88\. _Autre (procédé)._
+
+« On altère l'or en l'augmentant avec le misy et la terre de Sinope* ; on le jette d'abord à parties égales dans le fourneau ; quand il est devenu clair dans le creuset, on ajoute de chacun ce qui convient, et l'or est doublé. »
+
+*) Minium ou sanguine.
+
+#### 89\. _Autre (procédé)._
+
+« Invention de l'eau de soufre.* Une poignée de chaux, et autant de soufre en poudre fine ; placez-les dans un vase contenant du vinaigre fort, ou de l'urine d'enfant impubère* ; chauffez par en-dessous, jusqu'à ce que la liqueur surnageante paraisse comme du sang ; décantez celle-ci proprement pour la séparer du dépôt, et employez. »
+
+On prépare ainsi un polysulfure de calcium, susceptible d'attaquer l'or, du moins à sec, capable aussi de teindre les métaux par voie humide.
+
+L'_eau de soufre_ ou _eau divine_ joue un très grand rôle chez les alchimistes grecs.
+
+*) Ou de l'eau divine ; le mot grec est le même.
+
+*) L'urine d'un enfant impubère, παιδὸς ἀφθόρου, était employée par les anciens dans beaucoup de recettes, comme on le voit dans Dioscoride, dans Pline, dans Celse, etc. Elle agissait vraisemblablement comme source de phosphates alcalins et d'ammoniaque, résultant de la décomposition de l'urée. Mais nous ne voyons pas pourquoi toute urine humaine ne ferait pas le même effet ; à moins qu'il n'y ait là une idée mystique. Plus tard, le mot d'_enfant_ ayant disparu dans les recettes des copistes, celles-ci ont appliqué l'épithète à l'urine ; et il n'est plus guère mention que d'urine non corrompue ([GREEK]) dans les ouvrages alchimiques grecs. Cependant la notion primitive a subsisté pendant tout le moyen âge, dans quelques textes. Ainsi on lit encore dans la _Bibliotheca Chemica_ de Manget, t. 1. Préface, avant-dernière page (1702) : « _Sal volatile et fixum, ut et spiritus urinæ, sic parantur. Recipe urinæ puerorum 12 circiter annos natorum, etc._ »
+
+#### 90\. _Comment on dilue l'asèm._
+
+« Ayant réduit l'asèm en feuilles et l'ayant enduit de mercure, et appliqué fortement sur la feuille, on saupoudre de pyrite la feuille ainsi disposée, et on la place sur des charbons, pour la dessécher et jusqu'à ce que la couleur de la feuille paraisse changée ; car le mercure s'évapore et la feuille s'attendrit. Puis on incorpore dans le creuset 1 partie d'or,* 2 parties d'argent* ; les ayant mêlées, jetez sur la rouille qui surnage de l'arsenic couleur d'or, de la pyrite, du sel ammoniac,* de la chalcite,* du bleu,* et ayant broyé avec l'eau de soufre, grillez, puis répandez le mercure à la surface. »
+
+Les recettes suivantes sont des recettes de teinture en pourpre.
+
+*) L'or est désigné ici par le signe du Soleil, exactement pareil à celui des alchimistes : c'est le plus vieil exemple connu de cette notation.
+
+*) L'argent est désigné par le croissant lunaire, toujours comme chez les alchimistes.
+
+*) _Voir_ la remarque de la page 45.
+
+*) Minerai pyriteux de cuivre.
+
+*) Sulfate de cuivre, ou émail bleu, ou azurite.
+
+#### 91\. _Fixation de l'orcanette._
+
+« Urine de brebis ; ou arbouse, ou jusquiame pareillement. »
+
+C'est un fragment de recette sans suite, recueilli sans doute par un copiste ignorant. A moins qu'il ne s'agisse d'un simple détail, destiné à compléter une recette connue du lecteur.
+
+#### 92\. _Dilution (falsification) de l'orcanette._
+
+« On dilue l'orcanette avec les pommes de pins ( ? ), la partie intérieure des pêches, le pourpier, le suc des bettes, la lie de vin, l'urine de chameau et l'intérieur des citrons. »
+
+#### 93\. _Fixation de l'orcanette._
+
+« Cotylédon* et alun mêlés à parties égales, broyez finement, jetez-y l'orcanette. »
+
+*) Plante, _voir_ Dioscoride, _Mat. méd._, 4, 90 et 91.
+
+#### 94\. _Agents styptiques._
+
+« Melanteria,* couperose calcinée, alun, chalcitis, cinabre, chaux, écorce de grenade, gousse d'arbre épineux, urine avec aloès : ces choses servent en teinture. »
+
+*) Vitriol, produit par la décomposition de certains minerais à l'orifice des mines de cuivre (Diosc., _Mat. médicale._ 5, 117).
+
+#### 95\. _Préparation de la pourpre._
+
+« Cassez en petits morceaux la pierre de Phrygie* ; faites bouillir et, ayant immergé la laine, abandonnez jusqu'à refroidissement ; ensuite jetant dans le vase une mine (poids) d'algue,* faites bouillir et jetez-y une mine d'algue ; faites bouillir et jetez-y la laine, et, laissant refroidir, lavez dans l'eau de mer [la pierre de Phrygie est grillée,* avant d'être concassée], jusqu'à coloration pourpre. »
+
+*) Pline, _H. N._ 36, 36. --- Dioscoride, _Mat. médicale_, 5, 140. Cette pierre était autrefois employée pour la teinture des étoffes. Il semble que ce fût une sorte d'alunite.
+
+*) Herbes et lichens marins fournissant l'orseille.
+
+*) Ceci s'accorde avec Pline. C'est d'ailleurs une parenthèse, la coloration en pourpre s'appliquant à la laine. Il y a avant deux mots inintelligibles, par suite de quelque transposition du copiste.
+
+#### 96\. _Teinture de la pourpre._
+
+« Mouillez la chaux avec de l'eau et laissez reposer pendant une nuit ; ayant décanté, déposez la laine dans la liqueur pendant un jour ; enlevez-la, séchez ; ayant arrosé l'orcanette avec du vinaigre, faites bouillir et jetez-y la laine et elle sortira teinte en pourpre --- (l'orcanette bouillie avec l'eau et le natron produit la couleur pourpre). »
+
+« Ensuite séchez la laine, et teignez-la comme il suit : Faites bouillir l'algue avec de l'eau, et, lorsqu'elle aura été épuisée, jetez dans l'eau une quantité imperceptible de couperose, afin de développer la pourpre, et alors plongez-y la laine, et elle se teindra : s'il y a trop de couperose, elle devient plus foncée. »
+
+Il y a là deux procédés distincts, l'un avec l'orcanette, l'autre avec l'orseille.
+
+#### 97\. _Autre (procédé)._
+
+« Broyez des noix avec de l'orcanette de bonne qualité ; cela fait, mettez-y du vinaigre fort ; broyez de nouveau ; ajoutez-y de l'écorce de grenadier ; laissez trois jours ; et après, plongez-y la laine et elle sera teinte à froid. »
+
+« On dit qu'il y a un certain acanthe* qui fournit de la couleur pourpre ; mouillé avec du natron de Bérénice, au lieu de noix, il produit le même effet. »
+
+*) Plante non identifiée. (_Voir_ Diosc., _Mat. méd._ 3, 17. --- Pline, _H. N._ 22, 34.)
+
+#### 98\. _Autre (procédé)._
+
+« Nettoyez la laine avec l'herbe à foulon, et tenez à votre disposition de l'alun lamelleux ; en broyant la partie intérieure de la noix de galle, jetez avec l'alun dans un pot, puis mettez la laine et laissez reposer quelques heures ; enlevez-la et laissez-la sécher. Au préalable, suivez cette marche. Ayant broyé de la lie* et l'ayant mise dans un vase, versez de l'eau de mer, agitez et laissez déposer. Puis décantez l'eau claire dans un autre vase et tenez-la à votre disposition. Prenant de l'orcanette et la mettant dans un vase, mêlez avec l'eau de la lie, jusqu'à ce qu'elle s'épaississe convenablement et devienne comme sablonneuse. Alors mettez le produit dans le vase (réservé), délayant à la main avec l'eau précédente qui provient de l'orcanette. Ensuite, lorsqu'il sera devenu comme visqueux, mettez-le dans une petite marmite, ajoutez-y le reste de l'eau d'orcanette, et laissez jusqu'à ce qu'il ait tiédi ; alors plongez-y la laine, laissez quelques heures et vous trouverez la pourpre solide. »
+
+*) La lie de vin agit ici par le bitartrate de potasse qu'elle contient.
+
+#### 99\. _Autre (procédé)._
+
+« Prenant de l'orcanette, de la léontice,* ôtez l'écorce, prenez-la pour la broyer dans un mortier, aussi fine que de l'antimoine : ajoutez-y de l'hydromel dilué avec de l'eau, broyez de nouveau, mettez le produit broyé dans un vase, et faites bouillir : quand vous verrez tiédir (la liqueur), plongez-y la laine ; laissez séjourner. La laine doit être nettoyée avec l'herbe à foulon et épaissie (cardée et feutrée). Alors prenez-la, plongez-la dans l'eau de chaux,* laissez imbiber ; enlevez-la, lavez fortement avec du sel marin, séchez ; plongez de nouveau dans l'orcanette et laissez séjourner. »
+
+*) Plante. _Voir_ Diosc., _Mat. méd._ 3, 100. --- Pline, _H. N._ 25, 85.
+
+*) Est-ce la même chose que la dissolution de la chaux vive dans l'eau ?
+
+#### 100\. _Autre (procédé)._
+
+« Prenez le suc des parties supérieures de l'orcanette et une noix de galle compacte [omphacite*] grillée dans la rôtissoire ; l'ayant broyée avec addition d'un peu de couperose, mêlez au suc, faites bouillir, et donnez la teinture de pourpre. »
+
+*) Diosc., _Mat. méd._ 1, 146.
+
+#### 101\. _Substitution de couleur glauque.*_
+
+« Au lieu de couleur glauque, prenez la scorie de fer, écrasez-la avec soin jusqu'à réduction à l'apparence du smegma,* et faites bouillir avec du vinaigre, jusqu'à ce qu'il durcisse ; plongez la laine préalablement nettoyée avec l'herbe à foulon épaissie (cardée et feutrée), et vous la trouverez teinte en pourpre ; teignez ainsi avec les couleurs que vous avez. »
+
+*) Bleu verdâtre. Cette recette est obscure et incomplète.
+
+*) Variété d'oxyde de cuivre produite par le vent du soufflet sur le cuivre fondu. Pline _H. N._ 34, 36.
+
+Dioscoride. Extraits du livre sur la _Matière médicale_.
+
+102\. Arsenic. --- 103. Sandaraque. --- 104. Misy. --- 105. Cadmie. --- 106. Chrysocolle. --- 107. Rubrique de Sinope. --- 108. Alun. --- 109. Natron. --- 110. Cinabre. --- 111. Mercure.
+
+On se borne à rappeler ces titres pour mémoire, les articles ayant été tirés d'un Ouvrage connu et publié (_voir_ p. 26).
+
+### Explication des Recettes du Papyrus de Leide.
+
+Ces textes étant connus, il s'agit maintenant de les rapprocher et d'en tirer certaines conséquences.
+
 ...
