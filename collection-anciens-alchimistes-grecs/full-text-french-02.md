@@ -1,7 +1,32 @@
-# TROISIÈME PARTIE
-ZOSIME
+# Collection des Anciens Alchimistes Grecs.
 
-III. 1. --- ΖΩΣΙΜΟΥ ΤΟΥ ΘΕΙΟΥ ΠΕΡΙ ΑΡΕΤΗΣ
+### Publiée sous les Auspices du Ministère de l'Instruction Publique.
+
+## Par M. Berthelot,
+
+### Sénateur, Membre de l'Institut, Professeur au Collège de France.
+
+## Avec la Collaboration de M. Ch.-Em. Ruelle,
+
+### Bibliothécaire a la Bibliotheque Sainte-Geneviève.
+
+### Seconde Livraison.
+
+## Paris, 1888.
+
+### Georges Steinheil, Éditeur.
+
+#### 2, Rue Casimir-Delavigne, 2.
+
+---
+
+---
+
+# Troisième Partie.
+
+## Zosime.
+
+### 3. 1. --- ΖΩΣΙΜΟΥ ΤΟΥ ΘΕΙΟΥ ΠΕΡΙ ΑΡΕΤΗΣ.
 
 < ΠΡΛΞΙΣ Α >
 
