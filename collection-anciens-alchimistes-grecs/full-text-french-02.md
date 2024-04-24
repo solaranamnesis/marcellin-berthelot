@@ -30,12 +30,12 @@
 
 < ΠΡΛΞΙΣ Α >
 
-Transcrit sur M, f. 92 v. --- Collationné (le § 1, seul existant) sur M, f. 115 r.
-(= M²) ; --- sur A, f. 85 r. ; --- sur K, f. 1 r. ; --- sur Lc, page 265. --- Nous
-noterons ici, une ſois pour toutes, que les leçons de M différentes de celles de A K
-ont été reproduites, dans le manuscrit K, soit en marge, soit sur la ligne par une
-main élégante (Kmg.), contemporaine du ms. Il en est de même des leçons de M.
-omises dans le texte de A K.
+_Transcrit sur_ M, f. 92 v. --- _Collationné_ (le § 1, seul existant) _sur_ M, f. 115 r.
+(= M²) ;--- _sur_ A, f. 85 r. ;--- _sur_ K, f. 1 r. ;--- _sur_ Lc, page 265. --- _Nous
+noterons ici, une ſois pour toutes, que les leçons de_ M _différentes de celles de_ A K
+_ont été reproduites, dans le manuscrit_ K, _soit en marge, soit sur la ligne par une
+main élégante_ (Kmg.), _contemporaine du ms. Il en est de même des leçons de_ M.
+_omises dans le texte de_ A K.
 
 1] Θέσις ὑδάτων, καὶ κίνησις, καὶ αὔξησις, καὶ ἀποσωμάτωσις,
 καὶ ἐπισωμάτωσις, καὶ ἀποσπασμὸς πνεύματος ἀπὸ σώματος, καὶ
@@ -563,7 +563,7 @@ dans tout le morceau. --- 2. ἤνυον] ὴνείουν
 mel. --- 14. Titre dans Lc : τοῦ αὐτοῦ
 ο. τνες τηιη. s as „
 AK. --- 3. ἤνυσα] ἤν. καὶ ὐπῆρχον Lc ;
-ἤνεισα A ; --- ἐκεινον γηραιὸν Lc. --- καὶ] F.
+ἤνεισα A ;--- ἐκεινον γηραιὸν Lc. --- καὶ] F.
 πάλιν δὲ κατανοησας Lc. F. l. κατήνυσα, je
 l. ὑς (ou δς ?). --- 4. ὼ φύσεις οὐρ. Lc. ---
 gagnai. --- 17. τὰ φοῦερὰ] τὰ lερ K et mg. :
@@ -593,9 +593,9 @@ F. l. καὶ οῦτω νel καὶ αὐτὸς.
 πάντων · « τέχνη πεπλήρωται. »
 ZOSIME
 III.vV --- ΩΣΙΟΥ ΤΟΥ ΟEΟΤ ΕΙ AΡΕΙΣ Κ ΕΡMΝΕΙAΣ
-Transcrit sur A, f. 168 v. --- Collationné sur K. f. 7 v. ; --- sur une copie de
+Transcrit sur A, f. 168 v. --- Collationné sur K. f. 7 v. ;--- sur une copie de
 Laur., f. 253 r. (seulement depuis la ligne 3 du 5 4 jusqu'a la ligne 3 du 8 17 ;
---- sur E, première ſeuille de garde; --- sur Lc, (copie de E ?) p. 3o1.
+--- sur E, première ſeuille de garde;--- sur Lc, (copie de E ?) p. 3o1.
 1] Προσπαθείας (ἔνεκα καὶ μεθερμηνείας τοῦ ἐνυπνιάζεσθαι
 15 αὐτόν φησιν. Καὶ ἰδοὐ βωμὸς φιαλοειδὴς καὶ πνεῦμα πύρινον ἐστώς
 Titre dans Lc : νεπιγράφου φιλοσόφου
@@ -1685,7 +1685,7 @@ de : εῖτα ἐπιλαμβάνων τὰς αὐτῶν χαριέσσας
 
 5
 III. v1. --- MΕΡΙ TΙΣ FETMΙΣΕQΣ MI0 ΟEIΥ
-Transcrit sur M, f. 112 r. --- Collationné sur B, f. 84 v. ; --- sur A, f. 82 r.
+Transcrit sur M, f. 112 r. --- Collationné sur B, f. 84 v. ;--- sur A, f. 82 r.
 1]ν τοῖς ὑμετέροις οῖκοις, ὡ γύναι, διὰ τὴν σὴν ἀκοήν ποτε
 διατρίβων, ἐθαύμαζον μἐν πᾶσαν τὴν τοῦ παρα σοὶ καλουμένου στρούκ-
 τορος ἐργασίαν, ἔκπληξιν δέ με ἱκανὴν ἐνέβαλεν ἀντὶ τῶν ἔργων
@@ -1826,7 +1826,7 @@ suivant.
 
 SU LEAU DIVIE
 III. vi. --- Ε ΤΟΥ MΤΟΥ ΟΟΟ ΑAΤΟΣ
-Transcrit sur M, f. 113 v. ; --- Collationné sur B, f. 86 r. ; --- sur A, f. 83 r.
+Transcrit sur M, f. 113 v. ;--- Collationné sur B, f. 86 r. ;--- sur A, f. 83 r.
 --- Consulté E, f. 183 v.
 1] αβὼν ώὰ ὅσα βούλει, ἔκζεσον, καὶ κλάσας αὐτὰ, ἔξελε ἄπαν
 αὐτῶν τὸ λευκόν · τὰ δὲ ὅστρακα αὐτῶν μὴ χρήση. αβν δἐ ἀγγεῖον
@@ -1929,8 +1929,8 @@ III, 1, (ei-dessus, p. 107). Οn a donné les variantes de M ();
 eelles de B sont sans imporlanee, snuf p. 17, l. 4 : μετὰ] ἀπὸ.
 Titre de ce texte dans MB : περὶ συνθέσεως ὑδάτων
 III. x. --- ΕΡΙ TΟΥ θΕΟIΟΣ
-Transcrit sur M, f. 188 r. --- Collationné sur B, f. 82 r. ; --- sur A, f. 8o r. ; (
-A ou Al ). --- sur A, f. 220 r. ( A²); --- sur K, f. 96 r. ; --- sur Lc, page 2 19.
+Transcrit sur M, f. 188 r. --- Collationné sur B, f. 82 r. ;--- sur A, f. 8o r. ; (
+A ou Al ). --- sur A, f. 220 r. ( A²);--- sur K, f. 96 r. ;--- sur Lc, page 2 19.
 99 1] Τοῦτό ἐστι τὸ θεῖον καὶ μέγα μυστήριον, τὸ ζητούμενον · τοῦτο
 γάρ ἐστι τὸ πᾶν · καὶ ἐξ αὐτοῦ τὸ πᾶν, καὶ δι αὐτοῦ τὸ πᾶν · δύο
 φύσεις, μία οὐσία · ἡ δἐ μία τὴν μίαν ἑλκει · καὶ ἡ μία τὴν μίαν
@@ -1963,8 +1963,8 @@ ZOSIME
 δύναμις κέκρυπται · ἀνάκειται δὲ τῷ ἐρωτύλῳ.
 III. x. ---  ΠΑΡΑΙΝΕΣΕΙΣ ΣΥΣΤΑΤΙΚΑΙ ΤΩΝ ΕΓΧΕΙΡΟΥΝΤΩΝ
 ΤΗΝ ΤΕΧΝΗΝ
-Transcrit sur M, f. 115 r. --- Collationné sur B, f. 88 r. ; --- sur A, f. 89 r. ; ---
-sur K, f. 3 v. ; --- sur Lc, p. 223.
+Transcrit sur M, f. 115 r. --- Collationné sur B, f. 88 r. ;--- sur A, f. 89 r. ;---
+sur K, f. 3 v. ;--- sur Lc, p. 223.
 10 1] Παρεγγυῶ τοίνυν ὑμίν τοῖς σοφοῖς, ὅτι ἄνευ τοῦ ὁργάνου τοῦ τὸν
 χαλκὸν ἀνασπῶντος μετὰ τὸν τεταγμένον τῆς ἰώσεως χαλκὸν πολὺν ὄντα
 ἡ ὁλίγον, καὶ τῆς μίξεως τῶν λεγομένων δέκα εὶδῶν, ξηρῶν ἡ ὑγρῶν
@@ -2017,8 +2017,8 @@ III. XI. --- ΣΩΣΙΜΟΥ ΤΟΥ ΠΑΝΟΠΟΛΙΤΟΥ
 TlΣI ΙPΙl ΕPΙ Σ EP ΚΙ ΕIΣ TΕΝιM
 ΤΗΣ ΤΟΥ ΧΡΥΣΟΥ ΚΑΙ ΑΡΓΥΡΟΥ ΠΟΙΗΣΕΩΣ,
 ΚΑΤ᾽ ΕΠΙΤΟΜΗΝ ΚΕΦΑΛΑΙΩΔΗ.
-Transcrit sur A, f. 112 r. --- Collationné sur B, f. 118 r. ; ---sur K, f. 18 r. ; ---sur E,
-f. 41 r. ; --- sur Lb (copie de ), p. 145. --- Cap. ꝰ de la compilation du Clrétien
+Transcrit sur A, f. 112 r. --- Collationné sur B, f. 118 r. ;---sur K, f. 18 r. ;---sur E,
+f. 41 r. ;--- sur Lb (copie de ), p. 145. --- Cap. ꝰ de la compilation du Clrétien
 rude et la finale ου (ήλίου ?) B ; τοῦ χρυσοῦ
 4. ἀθίκτου Lc, f. mel. ---. γένεσιν Betc.,
 Lc. Corr. conj. --- 15. ἐποίηα A. --- 19. ἀρ-
@@ -2129,8 +2129,8 @@ ZOSIME
 5 την κατείληφα τὴν τῶν φώτων ποσότητα.
 III. nn. --- ΕI TA ΚT aΤ
 K ΤΟΝ ΙΙΟΡΙΙΟΝ IΟΝ ΙΙΙΟΝΥ.
-Transcrit sur M, f. 141 V. ; --- Collationné sur B, f. 119 v. ; --- sur A, f. 113 v. ; ---
-sur K, f. 18 v. ; --- sur E, f. 43 (le § 1 seulement) ; --- sur Lb, (copie de ), p. 153 :
+Transcrit sur M, f. 141 V. ;--- Collationné sur B, f. 119 v. ;--- sur A, f. 113 v. ;---
+sur K, f. 18 v. ;--- sur E, f. 43 (le § 1 seulement) ;--- sur Lb, (copie de ), p. 153 :
 --- Plusieurs leçons de M sont rapportées en marge de K. --- Cap. 34 de l coι-
 pilation du Cnrétien dans Lb.
 1] ]α τέσσαρα σώματα ὑπόστατά εἰσιν, καὶ οὐδἐν αὐτῶν φεύ-
@@ -2378,8 +2378,8 @@ DIVERSITE DU CUIVRE CALCINE
 ρήγνυσθαι τὰ σώματα, οὐδὲ τῇ σκι τοῦ χαλκοῦ ἐπιφαίνεσθαι. » Καὶ
 ἀπεδώκαμεν τὸν περὶ σταθμῶν λόγον. ρρωσο.
 l1. XII. --- ΠΕΡΙ ΠΟΡAΣ ΚΟΥ KKΟ ΕΟΥ
-Transcrit sur M, f. 144 r. --- Collationné sur B, f. 123 r. ; --- sur A, f. 115 v.; --- sur
-K, f. 20 r.; --- sur E, f. 47 r. ; --- sur Lb (copie de ), p. 169. --- Cap. 36 de la
+Transcrit sur M, f. 144 r. --- Collationné sur B, f. 123 r. ;--- sur A, f. 115 v.;--- sur
+K, f. 20 r.;--- sur E, f. 47 r. ;--- sur Lb (copie de ), p. 169. --- Cap. 36 de la
 compilation du Crétien dans E Lb. --- Ce terte, dans son entier, ſorme le 1
 du morceau Ill, xLv. Nous le donnons ici aνec les principales variantes de ce
 morceau, désignées par un astérisque.
@@ -2422,8 +2422,8 @@ Nαὶ, ῖνα μάθης ὅτι ἄμα τῷ χαλκῷ σίδηρος κα
 III. XιV. --- IΡΙ TΟΥ ΟΙ ΠΩΝ N
 ΙM T0 OΟΝΥΙΡ ΕΟ ΟΝΟ ΟAΟ KA Ο0.
 ΕΣIΝ, ΚAIΟX AIIΟΥΝ
-Transcrit sur M, f. 144r. --- Collationné sur B, f. 123 r.; --- sur A, f. 116 r. ; (A ou
-Al) ; --- sur A, f. 242 v. (A²); --- sur E, f. 47 v. ; --- sur Lb (copie de l), p. 173. ---
+Transcrit sur M, f. 144r. --- Collationné sur B, f. 123 r.;--- sur A, f. 116 r. ; (A ou
+Al) ;--- sur A, f. 242 v. (A²);--- sur E, f. 47 v. ;--- sur Lb (copie de l), p. 173. ---
 A² ne contient que le § 1 jusqu'a la ligne 5 de la page 155. --- Clap. 37 de la
 compilation du Cnrétien dans E Lb (non numéroté dans ).
 1].Tὴν προγεγραμμένην νεφέλην ἔψει ἐλαίῳ · ἡ προγεγραμμένη
@@ -2507,8 +2507,8 @@ ZOSIME
 ἡ ζ ἡ μα. Tούτῳ ἐπιβάλλεις ἄργυρον κοινὸν, καὶ βάπτεις. Eξῆς δὲ
 καὶ περὶ τῶν καιρῶν ζητήσωμεν.
 III. xv. --- ΠΕΡI TΟ Ν ΝΙI ΚIΡ ΡΚΙΕΟ
-Transcrit sur M, f. 144 v. --- Collationné sur B, f. 124 r. ; --- sur A, f. 116 v. ; --- sur
-K, f. 20 v. ; --- sur E, f. 48 v. ; --- sur Lb, p. 177. --- Les variantes de M, par rap-
+Transcrit sur M, f. 144 v. --- Collationné sur B, f. 124 r. ;--- sur A, f. 116 v. ;--- sur
+K, f. 20 v. ;--- sur E, f. 48 v. ;--- sur Lb, p. 177. --- Les variantes de M, par rap-
 port a BAK. ont été reportees en marge de K. --- Clap. 38 de la compilation du
 Crétien dans E Lb.
 l] ναγκαῖον καὶ περὶ καιρῶν ζητήσωμεν. Τὸ πνεῦμα ἔλεγεν,
@@ -2643,8 +2643,8 @@ EXPOsE DETAILLE DE L'UVRE
 159
 n ν π π τ- ν --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 ΤΟ ΕΡΤΟΝ
-Transcrit sur M, f. 145 v. --- Collationné sur B, f. 126 r. ; --- sur A, f. 118 r. ; ---
-sur K, f. 21 V. (suite f. 113v.) ; --- sur E, f. 51 r. ; --- sur Lb (copie de E), p. 187. ---
+Transcrit sur M, f. 145 v. --- Collationné sur B, f. 126 r. ;--- sur A, f. 118 r. ;---
+sur K, f. 21 V. (suite f. 113v.) ;--- sur E, f. 51 r. ;--- sur Lb (copie de E), p. 187. ---
 Les νariantes et restitutions de M, par rapport a BAK, ont été reportées earge
 de K. --- Clap. 39 de la compilation du Cretien dans E Lb.
 1] Καὶ ταῦτα μἐν οὕτως πρὸς τοὐς ὶγυπτίους προφήτας ὁ
@@ -3037,8 +3037,8 @@ LA SUBSTANCE ET LA NON-SUBSTANCE
 ὅτι λευκαινόμενα, λευκαίνουσι, καὶ ξανθούμενα, ξανθοῦσιν.
 III. XI. --- ΙEΡ ΟΟ Τ ΕΣΙΝ ΑTA ΤΝ ΕΕΝΙΙ
 IA KI ΝΟΥΣA.
-Transcrit sur M, f. 149 v. --- Collationné sur B, f. 132 v. ; --- sur A, f. 122 r. ; ---
-sur K, f. 115 v., puis 22 r. ; --- sur E, f. 57 v.; --- sur Lb, p. 213. --- Les variantes
+Transcrit sur M, f. 149 v. --- Collationné sur B, f. 132 v. ;--- sur A, f. 122 r. ;---
+sur K, f. 115 v., puis 22 r. ;--- sur E, f. 57 v.;--- sur Lb, p. 213. --- Les variantes
 de M, par rapport a BAK, ont été reportées en marge de K. --- Capitre 4o de
 la compilation du Crétien dans E Lb.
 g 1] Oὐσίας ἐκάλεσεν ὁ ημόκριτος τὰ τέσσαρα σώματα χαλκὸν
@@ -3110,8 +3110,8 @@ TEINTURE UNIUE
 δὲ ζωμοὶ ὕδωρ θεόν εἰσιν.
 III. Xvι. --- IΡΙ TΟ Ι ΝΤA ΠΕ MAΣ BIΣ
 IΕΝΝΙ AΕAIΚΕΝ
-Transcrit sur M, f. 15o r. --- Collationné sur B, f. 133 v. ; --- sur A, f. 122 v. ; ---
-sur K, f. 22 r. ; --- sur E, f. 58 v.; --- sur Lb, p. 217. --- Les variantes et restitu-
+Transcrit sur M, f. 15o r. --- Collationné sur B, f. 133 v. ;--- sur A, f. 122 v. ;---
+sur K, f. 22 r. ;--- sur E, f. 58 v.;--- sur Lb, p. 217. --- Les variantes et restitu-
 tions de M ont été reportées en marge de K. --- Cnapitre 41 de la compilation
 du Cnretien dans E Lb.
 5 1] ρμῆς καὶ ὶημόριτος ἀπὸ τοῦ καταλόγου γινώσκονται ὅτι
@@ -3150,8 +3150,8 @@ ZOSIME
 τι ἐἀν λέγω χαλκὸν, ἡ μόλυβδον, ἡ σίδηρον, τὸνἰὸν λέγω.
 III. xx. --- ΕΡΙ ΤΟΥ AA ΩAAA
 ΩΝ · ΕΙΝ E
-Transcrit sur M, f. 15o v. --- Collationné sur B, f. 1δ4 r. ; --- sur A, f. 123 r. ; --- sur
-K, f. 22 v.; --- sur E, f. 59 r.; --- sur Lb, p. 227. --- Les variantes et restitutions
+Transcrit sur M, f. 15o v. --- Collationné sur B, f. 1δ4 r. ;--- sur A, f. 123 r. ;--- sur
+K, f. 22 v.;--- sur E, f. 59 r.;--- sur Lb, p. 227. --- Les variantes et restitutions
 de M ont été reportées en marge de K. --- Cnapitre 42 de la compilation du Cnré-
 tien dans E Lb.
 5 1] ὸν χαλκὸν ἡ Mαρία φάσκει βάπτεσθαι πρῶτον, καὶ οὕτω
@@ -3202,8 +3202,8 @@ LALUN RON
 βάπτει · καὶ τρεφόμενος τρέφει, καὶ τελειωθεὶς τελεοῖ. » Ἔρρωσο.
 1s III. xx. --- ΕΙ TΟ ΝPΣΕΕΟΝ ΣΙΙΙΙΙ ΣΙI
 AΝΟΙΟΣ
-Transcrit sur M. f. 151 r. --- Collationné sur B, f. 135 r. ; --- sur A, f. 123 v. ; --- sur
-K, f. 22 v. ; --- sur E, f. 6o r.; --- sur Lb, p. 225. --- Les variantes de M ont été
+Transcrit sur M. f. 151 r. --- Collationné sur B, f. 135 r. ;--- sur A, f. 123 v. ;--- sur
+K, f. 22 v. ;--- sur E, f. 6o r.;--- sur Lb, p. 225. --- Les variantes de M ont été
 reportées en marge de K. --- Cnap. 43 de l compilation du Clrétien dans E Lb.
 1] γνως ὅτι ἐν τὸ πᾶν, καὶ τοῦ παντὸς γέγονεν τὸ πᾶν. Πστέον
 δὲ καθώς ἀπεδείξαμεν ἐν τοῖς προτέροις μου ὑπομνήμασιν ὅτι πάντα
@@ -3318,8 +3318,8 @@ ZOSIME
 τα καὶ ἡ θεία Mαρία.
 10
 III. Xx1. --- Ε ΟΕΩ
-Transcrit sur M, f. 152 r. --- Collationné sur B, f. 136 v. ; --- sur A, f. 125 r. ; --- sur
-K. f. 23 ; --- sur E, f. 62 v. ; --- sur Lb, p. 233. --- Les νariantes et restitutions
+Transcrit sur M, f. 152 r. --- Collationné sur B, f. 136 v. ;--- sur A, f. 125 r. ;--- sur
+K. f. 23 ;--- sur E, f. 62 v. ;--- sur Lb, p. 233. --- Les νariantes et restitutions
 de M ont été reportées en marge de K. --- Cap. 44 de la compilation du Cnrétien
 dans E Lb.
 1] Oὐκ ἐμἐ ἐπηρώτησας τὸν περὶ θείων λόγον, μέχρι τῆς σήμερον
@@ -3462,8 +3462,8 @@ l δὲ ἔτερον ἀκέραιον μένει. Καὶ οὕτως μἐν 
 λόγος.
 15
 III. Xxi. --- IΕΡΙ ΣΤΑMΝ
-Transcrit sur M, f. 153 r.; --- Collationné sur B, f. 139 r.; --- sur A, f. 127 r.; ---
-sur K, f. 24 v.. --- sur E, f. 65 r. ; --- sur Lb, p. 243. --- Les variantes et resti-
+Transcrit sur M, f. 153 r.;--- Collationné sur B, f. 139 r.;--- sur A, f. 127 r.;---
+sur K, f. 24 v.. --- sur E, f. 65 r. ;--- sur Lb, p. 243. --- Les variantes et resti-
 tutions de M ont été reportées en marge de K. --- Cnap. 45 de la compilation dι
 Chrétien dans E Lb.
 1] (f. 153 v.) περὶ σταθμῶν λόγος τὸ πᾶν τῆς ἐψήσεως φαίνεται
@@ -3539,8 +3539,8 @@ ZOSIME
 
 III. Xxi. --- ΠΠΕΡΙ ΚMΣΕΣ MΝ
 5
-Transcrit sur M, f. 154 r. --- Collationné sur B. f. 139 v. ; --- sur A. f. 127 v. ; --- sur
-K. f. 25 r. ; --- sur E, f. 66 v.; --- sur Lb, p. 249 --- Les variantes et restitutions de
+Transcrit sur M, f. 154 r. --- Collationné sur B. f. 139 v. ;--- sur A. f. 127 v. ;--- sur
+K. f. 25 r. ;--- sur E, f. 66 v.;--- sur Lb, p. 249 --- Les variantes et restitutions de
 M ont été reportées en marge de K. --- Cap. 6 de la compilation du Chrétien
 dans E Lb.
 1] έρε τοίνυν ἐκ τῶν φιλοσόφων καὶ τί ἐστιν καῦσις σωμάτων ζητή-
@@ -3643,8 +3643,8 @@ MESRE DU JAUNISsEMET
 πειδὴ τοίνυν περὶ σταθμοῦ καὶ καύσεως ἀποδέδεικται, φέρε καὶ περὶ
 σταθμῶν ξανθώσεως ζητήσωμεν.
 III. Xxιv. --- ΕΕ ΣΤAΟΟΥ TAΟEΣ
-Transcrit sur M, f. 154 v. --- Collationné sur B, f. 141 r.; --- sur A, f. 128 v. ; --- sur
-K, f. 26 r.; --- sur E, f. 68 r.; --- sur Lb, p. 257. --- Les arianιes et restitιons de M
+Transcrit sur M, f. 154 v. --- Collationné sur B, f. 141 r.;--- sur A, f. 128 v. ;--- sur
+K, f. 26 r.;--- sur E, f. 68 r.;--- sur Lb, p. 257. --- Les arianιes et restitιons de M
 ont été reportées en marge de K. --- Cnp. 47 de la copilation du Cretien dans
 E Lb.
 10 l] ιατί ὁ A γα θο δ α ί μ ων ἐμνημόνευσεν ; οὐχ ῖνα σταθμὸν
@@ -3771,8 +3771,8 @@ biffé) αὐτόν ξ. ξ. E: λλγγιν αὐτὸν ἐ. ξ. Lb·
 184
 ZOSIME
 IIl. xxv. --- IΕΡΙ ΟΕΙΟΥ MΟΟ
-Transcrit sur M. f. 156 r. --- Collationné sur B, f. 143 r. ; --- sur A, f. 129 v. ;
---- sur K, f. 26 v. ; --- sur E, f. 7ο v. ; --- sur Lb, p. 267. --- Les variantes
+Transcrit sur M. f. 156 r. --- Collationné sur B, f. 143 r. ;--- sur A, f. 129 v. ;
+--- sur K, f. 26 v. ;--- sur E, f. 7ο v. ;--- sur Lb, p. 267. --- Les variantes
 et restitutions de M ont été reportées en marge de K. --- Cnap. 48 de la
 compilation du Cnrétien dans E Lb.
 1] ΠIρῶτον δειξαι δεῖ ὁτι σύνθετον τὸ ὕδωρ τοῦ θείου ἐκ πάντων τῶν
@@ -3795,7 +3795,7 @@ compilation du Cnrétien dans E Lb.
 ρως. οκεῖ μοι ὅπως ὁ φιλόσοφος ηβίχιος διέσταλκε τῷ φιλοσόφῳ ἐπὶ
 1. Titre dans BAK : περὶ θείου ἀθίκτου
 --- 7. δια ὑδ. θαλ. om.*. --- 10. θλεος Lb.
-ῦδατος ; --- dans Lb : περὶ ῦδατος θείου ἀθίκ-
+ῦδατος ;--- dans Lb : περὶ ῦδατος θείου ἀθίκ-
 --- τινἐς] καὶ . --- αλλοι καὶ om. ?. --- ῦδατος
 του. --- 3. M mg. : ῶ (pour ῶδε), a l'encre
 (en signe)] ὑδωρ . --- 11. καὶ φ. κ. σανδ. κ.
@@ -3874,8 +3874,8 @@ ZOSIME
 τῶν καταλλήλων ὑγρῶν · τὰ γὰρ θειώδη ὑπὸ τῶν θειωδῶν κατέχεται. ν
 10
 III. XKV. --- ΕΡΙ ΣΕΥAΑ AΣ ΝP
-Transcrit sur M, f. 15 r. --- Collationné sur B, f. 144 v.; --- sur A, f. 131 r.; --- sur
-K, f. 27 v., puis 108 r; --- sur E, f. 73 r. ; --- sur Lb, p. 277. --- Les variantes et
+Transcrit sur M, f. 15 r. --- Collationné sur B, f. 144 v.;--- sur A, f. 131 r.;--- sur
+K, f. 27 v., puis 108 r;--- sur E, f. 73 r. ;--- sur Lb, p. 277. --- Les variantes et
 restitutions de M ont été reportées en marge de K. --- Cnap. 49 de la compila-
 iοn du rἀien ae r i.
 1] Lκευασία ὥχρας γίνεται ἐν τῷ ὄρει τῆς δριανοῦ πλαγίας
@@ -3951,8 +3951,8 @@ cées) M. --- 12. νόει, ἤγουν τῆς μαγνησίας
 ZOSIME
 III. xV. --- IΕΡΙ OOΝΣ ΟΥ TΙΣ MIΙΣΣΙΙΣ
 ΣMAΤΟΣ
-Transcrit sur M. f. 157 v. --- Colltionné sur B, f. 145 v. ; --- sur A, f. 131 v. ; ---
-sur K, f. 28 r. ; --- sur E, f. 73 v.; --- sur Lb, p. 281. --- Les variantes et restitu-
+Transcrit sur M. f. 157 v. --- Colltionné sur B, f. 145 v. ;--- sur A, f. 131 v. ;---
+sur K, f. 28 r. ;--- sur E, f. 73 v.;--- sur Lb, p. 281. --- Les variantes et restitu-
 tions de M ont été reportées en marge de K. --- Cnap. 5o de la compilation du
 rétien dans E Lb.
 ] ὰλιν τοὐς ἀρχαίους εὶς μέσον φέρωμεν · κιννάβαριν λέγουσιν
@@ -4069,7 +4069,7 @@ Fξεστιν δὲ καὶ ὑμῖν τοῖς ἐχέφροσιν τὸ βέ�
 τοῦ λόγου, εῖπετο ἄν αὐτοῖς καὶ ἠκολούθει ὁ χρυσός · ὁ γὰρ λόγος
 δεσπότης ἐστὶν τοῦ χρυσοῦ, καὶ ὁ τοῦτον προσπίπτων καὶ ποθῶν καὶ
 --- 1. καὶ τὴν τῆς καμ. άγ. Lb. --- 2. λευκώ-
-ταραττουσῶν mss. ; ---- ύντων au-dessus de
+ταραττουσῶν mss. ;---- ύντων au-dessus de
 σεως] λεισεως B etc. --- 3. ἐπβαλέσθαι B
 ουσῶν E. --- Tαφνουτίης M. --- 12. λλων
 etc.; E mg. : aliαs ἐπιααλοθαα. ---
@@ -4112,8 +4112,8 @@ TRAITEMENT DU CORPS DE LA MAGNSIE
 τὸν κωβαθηκαύστην, πλήρης.
 III. Xxvn. --- IΕΡΙ ΣMΤΟΣ ΙΝΙΣΙAΣ Κ
 ΚORMIΣ ATΥ)
-Transcrit sur M, f. 159 r. ; --- Collationné sur B, f. 148 r.; --- sur A, f. 133 v. ; ---
-sur K, f. 108 r. ; --- sur E, f. 76 v.; --- sur Lb, p. 295. --- Les variantes et resti-
+Transcrit sur M, f. 159 r. ;--- Collationné sur B, f. 148 r.;--- sur A, f. 133 v. ;---
+sur K, f. 108 r. ;--- sur E, f. 76 v.;--- sur Lb, p. 295. --- Les variantes et resti-
 4. φησὶν ὁ φιλόσοφος, ἡ φ. Lb. --- ὄ. ἐστι
 παφνουτ B ; παφνουτίου A ; π αφνουτίου
 B etc. --- Red. de Lb : ἡ φ. ἐστι γν. ὁντων
@@ -4432,9 +4432,9 @@ ZOSIME
 ἡ τὴν ξάνθωσιν. γὰρ προλευκανθέντα, ἡ οίκονομία αὐτη ἐστὶν ὡς
 γέγραπται ἡμῖν.
 IIl. Xxx. --- ΠΕPΙ ΟΥ ΙΟΟ Σ IΟΣΟΟΙA
-Transcrit sur A, f. 136 v. ( A ou A). --- Collationné sur K, f. 110 v. ; --- sur des
-fragments contenus dans A, f. 9, 10, 11 (--- A²), partir du § 18; --- sur E, f. 82
-r.; --- sur Lb. p. 521. --- Clap. ὅ- aσ a οοpήισηιο νeῖen dans E Lb.
+Transcrit sur A, f. 136 v. ( A ou A). --- Collationné sur K, f. 110 v. ;--- sur des
+fragments contenus dans A, f. 9, 10, 11 (--- A²), partir du § 18;--- sur E, f. 82
+r.;--- sur Lb. p. 521. --- Clap. ὅ- aσ a οοpήισηιο νeῖen dans E Lb.
 1] ααρία φησίν · « αν ὁ μόλυβδος ἡμῶν μέλας γένηται,
 10 ἰδοὐ γεγένηται · ὁ γὰρ μόλυβδος ὁ κοινὸς ἐξ ἀρχῆς μέλας ἐστίν
 πῶς γὰρ γένηται; ἐὰν μ τὰ σώματα ἀσωματώσης, καὶ τὰ ἀσώματα
@@ -4746,7 +4746,7 @@ dans E; om. Lb. F. l. δὲ. --- 7. Après
 
 SUR LA POUDRE SECE. --- SUR LIos
 III. xxx1. --- ΙΙΕΡΙ EPΟΥ
-Transcrit sur M, f. 136 v. --- Collationné sur A, f. 110 r. ; --- sur E, f. 37 r.; --- sur Lb,
+Transcrit sur M, f. 136 v. --- Collationné sur A, f. 110 r. ;--- sur E, f. 37 r.;--- sur Lb,
 p. 129. --- Cnap. 28 dans E, 29 dans Lb, de la compilation du Cnrétien.
 ρεῖς δυνάμεις εἰσὶ τοῦ ἀληθεστάτου ξηρίου, καὶ τρεῖς ἐνέργειαι
 ἐκ τούτων προιοῦσαι τῶν δυνάμεων · βαφὴ, εἰσκρισις, κάτοχον. Καὶ τὸ
@@ -4831,7 +4831,7 @@ Suite du texte précédent (sans titre).
 αὐτὸν καὶ χρυσάνθρωπον · πότιζε δὲ αὐτὸν μετὰ ὁξάλμης · οὕτω γὰρ
 γίνεται λευκὸν καὶ ἀρμόδιον.
 III. xxv1. --- KAΣ ΠΥΣΣ
-Transcrit sur M, f. 137 r. --- Collationné sur A, f. 110 v. ; --- sur E, f. 38 v. ; --- sur
+Transcrit sur M, f. 137 r. --- Collationné sur A, f. 110 v. ;--- sur E, f. 38 v. ;--- sur
 Lb, page 133. --- Chap. 3o dans E, 31 dans Lb, de la compilation du Crétien.
 αβών καδμίαν τὴν ἐν τῷ χαλκῷ βλισκομένην βοτρυίτην,
 κόψον · σεῖσας, λείωσον ἐπιμελῶς · εἶτα βαλών, τρίψον καὶ εἰς ὕδωρ
@@ -4840,7 +4840,7 @@ Lb, page 133. --- Chap. 3o dans E, 31 dans Lb, de la compilation du Crétien.
 10 ἀποσειρώσας, πάλιν βάλε ὕδωρ, καὶ τὸ αὐτὸ ποίει πολλάκις, ἔως ὕδωρ
 μείνη καὶ ἀπομφολύγωτον · καὶ ἀποσειρώσας, ξήρανον ἐν ἡλίῳ.
 III. Xxxn1. --- ΙΙ BΣ
-Transcrit sur M, f. 137 v. --- Collationné sur A, f. 111 r. ; --- sur E, f. 3 r.;
+Transcrit sur M, f. 137 v. --- Collationné sur A, f. 111 r. ;--- sur E, f. 3 r.;
 --- sur Lb, p. 133. --- Suite du cap. 3o (E), 31 (Lb) dans la compilation du
 Chrten. (Ceι article compte neanmoins comme chap. 31 dans E.)
 Τὰν μὴ ἐπιεικῶς ἐργάσητε μέλαιναν βαφὴν, ἐκφέρει ἄφευκτον τὴν
@@ -4867,7 +4867,7 @@ ZOSIME
 5 εύρήσεις · ἄλλην καῦσιν βαφικὴν, καὶ ἄλλην καταβαφικὴν, καὶ τὰ
 λλα πάντα ἐως ἀραιώσεως καὶ παρατροπῆς, καὶ τῶν ἄλλων πάντων τῷ
 λόγῳ διυποπτεύουσι.
-Transcrit sur M, f. 137 v. --- Collationné sur A, f. 111 r. ; --- sur , f. 39 r. ; ---
+Transcrit sur M, f. 137 v. --- Collationné sur A, f. 111 r. ;--- sur , f. 39 r. ;---
 sur Lb, p. 137.--- Cnap. 32 de la compilation du Cnrétien dans E Lb.
 Οὐ πᾶσιν ἔδοξεν, ὡ γῦναι, ἀπὸ τῆς λευκώσεως αὐτίκα συνάπ-
 10 τειν τὴν ξάνθωσιν. Ἔψόμενον γὰρ τὸ λευκὸν σύνθεμα ἐπιπολὐ ἐπὶ
@@ -4899,7 +4899,7 @@ de lor MAE ; χρυσῷ Lb. --- ἀς] ἐφ ἄς tharchide (voir la notice du
 1'EAU AERIENNE
 III. xxX. --- I0 AΕΡΟ ΩP
 209
-Transcrit sur A. f. 111 r. --- Collationné sur E, f. 39 v. ; --- sur Lb, p.
+Transcrit sur A. f. 111 r. --- Collationné sur E, f. 39 v. ;--- sur Lb, p.
 37. --- E et
 daprès lui Lb continuent le texte précédent sans sparation.
 ] Ilρώτων ὑγρῶν τινος δεῖται τὸ τοιοῦτον σύνθεμα, ἱνα, φησὶν,
@@ -4991,9 +4991,9 @@ LE BLANCHIMENT. --- LE LIVRE DE SOPIE
 τέρψιν, ἐν δὲ τῷ χρονίζειν γιν ο> μένης ἀπαμαυρώσε ως> μετὰ
 τοῦ κόμμεως χρυσ(ὸν> σύνθετον, χρυσὸν ζώμιον καὶ τὰ ἐξῆς.
 III. x. --- ΕΙ AΚΣΕ
-Transcrit sur M, f. 118 r. --- Collationné sur B, f. ο0 v. ; --- sur A, f. 14 v. ( A) ; ---
-sur A, f. 92 ( A² ) (mêmes leçons); --- sur A, f. 25o v. l Aꝰ) ; --- sur K, f. 5
-v. ; --- sur Lc, p. 217.
+Transcrit sur M, f. 118 r. --- Collationné sur B, f. ο0 v. ;--- sur A, f. 14 v. ( A) ;---
+sur A, f. 92 ( A² ) (mêmes leçons);--- sur A, f. 25o v. l Aꝰ) ;--- sur K, f. 5
+v. ;--- sur Lc, p. 217.
 ] γνώσκειν ὑμς θέλω ὅτι πάντων ἐστὶν κεφάλαιον ἡ λεύκω-
 5 σις · μετὰ δὲ τὴν λεύκωσιν, εὐθὺς ξανθοῦται τὸ τέλειον μυστήριον.
 2] Π λεύκωσις καῦσίς ἐστιν · ἡ δὲ καῦσις, ἀναζωπύρωσις · αὐτὰ
@@ -5153,8 +5153,8 @@ avec l'accusatif. --- 21. ἐφέπεια] F. l.
 CAPITREs DE ZOSIME A THEODORE
 215
 1 I , π ῦ L é V . . . .
-Transcrit sur M, f. 179 r. ; --- Collationné sur A, f. 237 r. ; --- sur K, f. 80 r. ; ---
-sur Lc, p. 231; --- sur E, f. 182 v. (texte écrit dans E par le copiste de La, Lb, Lc,
+Transcrit sur M, f. 179 r. ;--- Collationné sur A, f. 237 r. ;--- sur K, f. 80 r. ;---
+sur Lc, p. 231;--- sur E, f. 182 v. (texte écrit dans E par le copiste de La, Lb, Lc,
 probableent d'apres Lc. --- Contenu aussi dans Laur., art. xxix ; dans le Vind.,
 art. x1. --- Sauf indication spéciale, les νariantes de Lc eistent aussi dans E.
 ] Περὶ ἐτησίου, τουτέστιν ἐκ τοῦ παντὸς συνισταμένου, ώς ἐτησίου
@@ -5387,7 +5387,7 @@ Le sera donné dans la Ie partie. --- Reprise du ms. A.
 15 καὶ μαργάρων, καὶ δερμάτων ἐρυθροδανώσεις βασιλικῶν. αῦτα δὲ
 πάντα γίνονται ὑπὸ ὑδάτων θαλασσίων, ώῶν, δια τέχνης μεταλλικῆς.
 III. x1v. --- Po Π ΟIIΣ
-Transcrit sur M, f. 107 r. --- Collationné sur A, f. 146 v. ; --- sur K, f. 32. v. ---
+Transcrit sur M, f. 107 r. --- Collationné sur A, f. 146 v. ;--- sur K, f. 32. v. ---
 Presque toutes les variantes de M ont été reportées dans K, sur la ligne.
 ] αβν ψιμύθιον καὶ σανδαράχην ῖσα λείωσον μετὰ ὄξους ἔως
 γένηται γλοιῶδες. ἱτα βαλν εἰς (f. 107 v.) λωπάδα ἀγάνωτον,
@@ -5716,7 +5716,7 @@ Cr , βάλε εἰς χώνην · καὶ ἐπίβαλε ἀπὸ τούτο�
 IIl. Xux. --- ΤΟΥ ΥΥ ΟΣΙΟ0
 5 ΠΕΙ ΟΡΙΝΟΝ ΚΙ ΕAΝΣΝ MΙIA ΥΙOMΝΙIIAΥA
 PΙ ΟΥ ΟOIXΟ
-Transcrit sur M, f. 189 r. --- Collationné sur K, f. 97 r. ; ---sur d'autres manuscrits
+Transcrit sur M, f. 189 r. --- Collationné sur K, f. 97 r. ;---sur d'autres manuscrits
 a partir du § 14 (voir ci-après).
 1] Tὸ 2 στοιχεῖον στρογγύλον τὸ διμερἐς, τὸ ἀνῆκον τῆ ἐδόμη
 Κρόνου ζώνη, κατὰ τὴν ἔνσωμον φράσιν · κατὰ γαρ τὴν ἀσώματον
@@ -5959,8 +5959,8 @@ ZOSIME
 ἀξιοπιστότερον ἐμἐ τῶν ἀρχαίων ξυγγράψαι. ίνωσκε ὡς οὐκ ὶν
 δυναίμην. λλ ἱνα καὶ πάντα τὰ παρ ἐκείνων λαληθέντα νοήσωμεν
 10 τοίνυν τὰ παρ ἐκείνων σοι ὑποθήσω. χει δὲ οὕτως.
-Les paragrapes suiνants (14-fin) ont été collationnés sur B, f. 82 v. ; --- sur C,
-f. 56 r. --- sur A, ſ. 8o v. (--- A ou A); --- sur A, f. 220 r. (--- A²) ; --- sur K,
+Les paragrapes suiνants (14-fin) ont été collationnés sur B, f. 82 v. ;--- sur C,
+f. 56 r. --- sur A, ſ. 8o v. (--- A ou A);--- sur A, f. 220 r. (--- A²) ;--- sur K,
 (continuation du texte précedent).
 14] ίκος ὑέλεος, σωλὴν ὁστράκινος μῆκος πήχεως ἐνός. Aωπὰς
 ἡ ἄγγος στενόστομον ἐν ῷ ἡ τῷ σωλῆνι τὸ πάχος βικίῳ τῷ στόματι
@@ -6031,8 +6031,8 @@ signes du ciel, du solei (ou de vο. e
 
 ZOSIME
 III. L. --- EΙ ΟΥ KΙΙ ΤΟΥ ΚΙ TΟ ΙΙΝΟΣ
-Transcrit sur M, f. 194 r. --- Collationné sur B, f. 83 v.; --- sur C, f. 57 r. ; --- sur
-A, f. 81 r. (--- A ou A) --- sur A, f. 221 r. ( A²); --- sur K. f. 101 r.
+Transcrit sur M, f. 194 r. --- Collationné sur B, f. 83 v.;--- sur C, f. 57 r. ;--- sur
+A, f. 81 r. (--- A ou A) --- sur A, f. 221 r. ( A²);--- sur K. f. 101 r.
 l] ης δὲ τὸν τρίβικόν σοι ὑπογράψω. Καλετται δὲ αῦτη ἡ δι
 ἀσκοῦ ἡ παρὰ αρί α ς τεχνοπαράδοτος · ἔχει δὲ οὕτως. « Ποίησον,
 φησιν, ἐκ χαλκοῦ ἐλατοῦ σωλῆνας τρεῖς, λεπτὸν τὸ ἔλασμα ἔχοντας
@@ -6695,8 +6695,8 @@ Eαν δὲ μέλλης παροπτὰν τὰ ἐπὶ τὸ ξανθὸν �
 10 (f. 266 r.) ἐν τῇ καμίνω ἐπὶ ῶρας ῶρας δὲ λέγω τὰς κεκραμέ-
 νας. .. ἀπέχεται, καὶ φῶτα τὰ ἐπὶ τὸ ξανθὸν ἄγονται.
 IIl. LVI. --- ΠΕΡΙ AΙθa
-Transcrit sur M, f. 116 v. --- Collationné sur B, f. 89 r. ; --- sur A, f. 14 r. (--- Al; --- sur
-A, f. 91 r. (--- A²); --- sur K, f. 4 v. --- sur Lc, p. 205. --- Variantes de M ajoutées
+Transcrit sur M, f. 116 v. --- Collationné sur B, f. 89 r. ;--- sur A, f. 14 r. (--- Al;--- sur
+A, f. 91 r. (--- A²);--- sur K, f. 4 v. --- sur Lc, p. 205. --- Variantes de M ajoutées
 en marge de K.
 1] Aἰθάλαι δὲ λέγονται δια τὸ ἀπὸ κάτωθεν εἰς> ἄνω τἀς τέφρας,
 πρὸς ὕψος ἀναπέμπεσθαι τὰς οὐσίας, ἡτις δηλοῖ τὴν τῶν ὑδάτων ἀνα-
@@ -7514,7 +7514,7 @@ et 97; pl. I, l. 4, p. 104), était souvent
 get, t. I, p. 935.
 formé par l'association de ces trois mé-
 (2) Le mercure est exprimé par le
-taux ; --- voir Introd., p. 66.
+taux ;--- voir Introd., p. 66.
 croissant retourné ; lequel exprime
 (4) Le croissant direct, a concavité
 tournée vers la droite, exprime la lune
@@ -8122,7 +8122,7 @@ cau de pluie ; puis, la seconde eau, jaune-verdatre, qu'ils ont nommée huile
 de raifort ; puis la troisième eau, d'un noir verdâtre (3).
 Tu auras aussi les scories qui sont dans le têt. Lorsque tu ouvriras l'ap-
 pareil, tu trouveras la première fois la scorie tournant au noir, --- la seconde
-fois, blanche ; --- la troisieme fois, jaune (4).
+fois, blanche ;--- la troisieme fois, jaune (4).
 Après la première, la seconde et la troisième extractions d'eau et ouver-
 tures de l'appareil, tu réunis les eaux des trois extractions, c'est-a-dire les
 eaux divines qui sy trouvent, avec le résidu contenu dans le vase femelle.
@@ -9449,7 +9449,7 @@ l'ios, en délayant l'ensemble au soleil jusqu a ce que le tout devienne ios.
 Ils disent que celui -ci (ainsi préparé) est plus actif. Quelques-uns ont
 accompli cette iosis au soleil seulement, sans rien ajouter, et ils affirment
 qu ils ont obtenu l'objet de leur recherche. D'autres ont délayé avec l'eau
-divine, affirmant que c'est la leur soufre ; --- c'est aussi leur mercure (1). 'ai
+divine, affirmant que c'est la leur soufre ;--- c'est aussi leur mercure (1). 'ai
 admis l'opinion de ceux-ci, plutot que celle des autres. D'autres projetaient
 du mercure, tantot cru, tantôt a l'état de concrétion jaune (2). Quelques-uns,
 après l'opération de l'iosis, n'ont rien effectué au dela.
@@ -9655,7 +9655,7 @@ probablement parce que le copiste a sens ancien d'étain (Introd., p. 84).
 180
 ZOSIME
 traités d'avance par le vinaigre, d'après ce que disent les écrits, afin d'éviter
-que leur partie cuivreuse ne se change en ios ; --- plus tard elle sera mélangée
+que leur partie cuivreuse ne se change en ios ;--- plus tard elle sera mélangée
 avec le cinabre et ses similaires. Il est permis (de les exposer) au soleil, ainsi
 que les autres choses semblables.
 3. Marie (place) en première ligne le molybdochalque et les (procédés de)
@@ -10506,10 +10506,10 @@ hache, la tariere, etc. ; pour cause spécifique, l'espèce même de la matière
 la porte, ou quelque autre. Selon Platon, il y a encore deux autres (causes) :
 la cause exemplaire et la cause finale.
 (1) Cp. Svsiυs, p. 66 et 67 ; Ori-
-étapn., I. 3; --- Iorale a Eudème,
+étapn., I. 3;--- Iorale a Eudème,
 I oς --- γsique, II, 3. --- Pιarο,
 gines de l'Alcnimie, p. 75, 265, 267.
-(2) Cp. Aisrorr, Gener., I. 7; ---] Timée, p. 37, D.
+(2) Cp. Aisrorr, Gener., I. 7;---] Timée, p. 37, D.
 
 
 ### 0249
