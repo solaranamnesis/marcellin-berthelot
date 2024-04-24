@@ -10,6 +10,8 @@
 
 ### Bibliothécaire a la Bibliotheque Sainte-Geneviève.
 
+### Première Livraison.
+
 ## Paris, 1887.
 
 ### Georges Steinheil, Éditeur.
