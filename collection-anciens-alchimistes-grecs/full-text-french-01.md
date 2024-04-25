@@ -5250,3 +5250,17 @@ S 55 (après le mot ποιησάμενος). Rédaction de L. (Voir p. 103, l. 1
 δηλονότι, διὰ τοῦ πυρός. έλος τοῦ Ολυμπιοδώρου.
 
 ...
+
+# Traduction.
+
+## Note Préliminaire.
+
+...
+
+## Première Partie.
+
+### Indications Générales.
+
+#### 1. --- 1. Dédicace.
+
+...
