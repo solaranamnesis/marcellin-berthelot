@@ -22,33 +22,33 @@
 
 # [Avant-Propos.](#avant-propos-1)
 
-# [Introduction.]()
+# [Introduction.](#introduction-1)
 
-## [1. --- Les Papyrus de Leide.]()
+## [1. --- Les Papyrus de Leide.](#1-----les-papyrus-de-leide-1)
 
-### [Papyrus V.]()
+### [Papyrus V.](#papyrus-v-1)
 
-### [Papyrus W.]()
+### [Papyrus W.](#papyrus-w-1)
 
-### [Papyrus X.]()
+### [Papyrus X.](#papyrus-x-1)
 
-### [Traduction du Papyrus X de Leide.]()
+### [Traduction du Papyrus X de Leide.](#traduction-du-papyrus-x-de-leide-1)
 
-### [Explication des Recettes du Papyrus de Leide.]()
+### [Explication des Recettes du Papyrus de Leide.](#explication-des-recettes-du-papyrus-de-leide-1)
 
 ...
 
-# [Texte Grec.]()
+# [Texte Grec.](#texte-grec-1)
 
-## [Première Partie.]()
+## [Première Partie.](#première-partie-2)
 
-### [Indications Générales.]()
+### [Indications Générales.](#indications-générales-2)
 
-# [Traduction.]()
+# [Traduction.](#traduction-1)
 
-## [Première Partie.]()
+## [Première Partie.](#première-partie-3)
 
-### [Indications Générales.]()
+### [Indications Générales.](#indications-générales-3)
 
 ---
 
