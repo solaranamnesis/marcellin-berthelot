@@ -1145,19 +1145,25 @@ La transmutation était d'autant plus aisée à concevoir dans les idées du tem
 
 ...
 
+# Texte Grec.
 
-PREMIÈRE PARTIE
-INDICATIONS GENERALES
-l. 1. — DKlACl
-Publié par Bernard, dans son edition de Palladius. D Frsηυs ;
-t par m. Miller : CaτLLoUE pεs Mss. REcs D 1 scRiAL, . 41..—
-Tnscrit sur M, f. 5 v.
-1ην βίβλον ὅλβον ώσπερ ἐγκεκρυμμένον
-r
+## Note Préliminaire.
+
+### Sur les Abréviations, les Sigles des Manuscrits, etc.
+
+...
+
+## Première Partie.
+
+### Indications Générales.
+
+#### 1. --- 1. Dédicace.
+
+_Publié par Bernard, dans son édition de Palladius_, De Febribus ; _et par Emm. Miller_ : Catalogue des Mss. grecs de l'Escurial, _p._ 416. --- _Transcrit sur_ M, f. 5 v.
+
+Τὴν βίβλον ὅλβον ώσπερ ἐγκεκρυμμένον
 εγουσαν ἄθρει τήνοε, πὰς Mουσῶν οίλος.
 A λλ εὶ θελήσοις τὰς πολυχούσους φλέβας
-A
-γ
 ε νν τς σοφῶς κεκρυμξ νυ—,
 —,ρσ e
 νοὸς τὸ φαιδρὸν ὄμμα πρὸς θείας φύσεις.
@@ -1167,7 +1173,6 @@ A
 ν π π» π π
 καὶ πλοῦτον εὐροις γνώσεω ινγγs
 Cτῶν, ἐρευνῶν τὴν τρισολβίαν ούσιν,
--
 μόνην φύσεις νικῶσαν ἐνθέῳ τρόπῳ,
 καὶ χρυσὸν αὶγλήεντα τίκτουσαν μόνην,
 τὴν παντοποιὸν, ν οοεσὶν υουσοστόλοις,
