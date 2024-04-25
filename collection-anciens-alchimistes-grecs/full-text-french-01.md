@@ -20,6 +20,36 @@
 
 ---
 
+# [Avant-Propos.](#avant-propos-1)
+
+# [Introduction.]()
+
+## [1. --- Les Papyrus de Leide.]()
+
+### [Papyrus V.]()
+
+### [Papyrus W.]()
+
+### [Papyrus X.]()
+
+### [Traduction du Papyrus X de Leide.]()
+
+### [Explication des Recettes du Papyrus de Leide.]()
+
+...
+
+# [Texte Grec.]()
+
+## [Première Partie.]()
+
+### [Indications Générales.]()
+
+# [Traduction.]()
+
+## [Première Partie.]()
+
+### [Indications Générales.]()
+
 ---
 
 # Avant-Propos.
