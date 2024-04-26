@@ -1187,7 +1187,7 @@ La transmutation était d'autant plus aisée à concevoir dans les idées du tem
 
 ### Indications Générales.
 
-#### 1. --- 1. Dédicace.
+#### 1\. --- 1. Dédicace.
 
 _Publié par Bernard, dans son édition de Palladius_, De Febribus ; _et par Emm. Miller_ : Catalogue des Mss. grecs de l'Escurial, _p._ 416. --- _Transcrit sur_ M, f. 5 v.
 
@@ -1209,40 +1209,39 @@ _Publié par Bernard, dans son édition de Palladius_, De Febribus ; _et par Emm
 ὡς δημιουργῶν σωμάτων καὶ πνευμάτων,  
 πῶς ἔσχον οὕτως γνώσεως ὕψος μέγα,  
 ψυχοῦν, ἀποκτένειν τε καὶ ζωοῦν πάλιν,  
+ὥστε ξένως πλάττειν τε καὶ μορφοῦν ξένως.  
+Ὦ θαῦμα, τὴν ἄνασσαν ὕλην ὀλβίαν !  
+ἦσπερ διαγνοὐς καὶ μαθὼν τὰς ἐκβάσεις  
+αἰνιγματώδως ἔνδον ἐγκεκρυμμένας,  
+ὁ νοῦς ὁ παγγέραστος, αἱ κλειναὶ φρένες  
+Θεοδώρου πλουτοῦντος ἐνθέοις τρόποις,  
+πιστοῦ τελοῦντος δεσποτῶν παραστάτου  
+συνῆψεν, ἐντέθεικε συλλογὴν ξένην  
+ἐν τῇδε βίβλῳ πανσόφων νοημάτων,  
+ὅνπερ σκέπων, φύλαττε, Χριστὲ παντάναξ.
 
+#### 1\. --- 2. Lexique.
 
-### 0340
-
-10
-INDICATIONS GENΕRALES
-ώστε ξένως πλάττειν τε καὶ μορφοῦν ξένως .
-ὶ θαῦμα, τὴν ἄνασσαν ὕλην ὁλβίανl
-ἤσπερ διαγνοὐς καὶ μαθὼν τὰς ἐκβάσεις
-αὶνιγματώδως ἔνδον ἐγκεκρυμμένας,
-ὁ νοῦςὁ παγγέραστος, αὶ κλειναὶ φρένες
-Θεοδώρου πλουτοῦντος ἐνθέοις τρόποις,
-πιστοῦ τελοῦντος δεσποτῶν παραστάτου
-συνῆψεν, ἐντέθεικε συλλογὴν ξένην
-ἐν τῆδε βίβλω πανσόφων νοημάτων,
-ὅνπερ σκέπων, φύλαττε, ριστἐ παντάναξ.
-I. I. — LΕXIΟUΕ
-Transcrit sur M, f. 131 r. — Collationné sur B, f. 2 v. ; — sur A, f. 19 r. ; — sur E
-(copie de A), f. 163 v. — sur L, page 249 ; — sur l'edition de Bernard (E Bn). —
+Transcrit sur M, f. 131 r. --- Collationné sur B, f. 2 v. ; --- sur A, f. 19 r. ; --- sur E
+(copie de A), f. 163 v. --- sur L, page 249 ; --- sur l'edition de Bernard (E Bn). ---
 Dans M, beaucoup de noms de corps sont surmontés de leurs signes. A moins
 d'indication contraire, les leçons de M et de Bn (transcrit sur M) sont identiques.
+
 ΛΕΣΙΚΟΝ ΚΑΑ ΣΟΟΙΕΙΟΝ ΤΗΣ XΡΥΣΟΙΙΟΙΑΣ
-A
+
+**A**
+
 Ἀφροδίτης σπέρμα ἐστὶν ἄνθος χαλκοῦ.
 λάβαστρός ἐστιν ἄσβεστος, ἀπὸ τῶν φλοιῶν τῶν ώῶν, καὶ ἄλας
 15 ἄνθιον, καὶ άλας ἀμμωνιακὸν, καὶ άλας κοινόν.
 11. Titre dans B : Λεξ. κ. στ. τῆς ίερᾶς | de suite en tête de chaque lettre, sauf
-τέχνης. — Titre dans AE : Λεξ. κ. στ. | que E supprime le plus souvent les
+τέχνης. --- Titre dans AE : Λεξ. κ. στ. | que E supprime le plus souvent les
 τῆς ίερᾶς τέχνης, πρῶτον ἐλληνιστὶ μετα- | mots ἀρχὴ τοῦ. M écrit en rouge l'initiale
-λευτικὸν, τῶν δὲ (τῶν τε E) σημείων καὶ τῶν | du premier mot. — B a perdu le com-
-όνομάτων. — Titre dans L : ξ . κατὰ | mencement du Lexique jusqu'à l'article
-ἀλφάητον μεταλλευτικὸν τῶν όνομάτων τῆς | ἀνδροδάμας inclus. — 14. τῶν ώῶν gratté
-θείας καὶ ἰερᾶς τέχνης τῆς ἐν τἤ χρυσούλω | dans M ici et presque partout. — 15.
-ταύτη βίβλφ. — 12. Au-dessus de Ἀφρο- | Après ἀμμωνιακὸν] ἄλας ἀρωνιακὸν add.
+λευτικὸν, τῶν δὲ (τῶν τε E) σημείων καὶ τῶν | du premier mot. --- B a perdu le com-
+όνομάτων. --- Titre dans L : ξ . κατὰ | mencement du Lexique jusqu'à l'article
+ἀλφάητον μεταλλευτικὸν τῶν όνομάτων τῆς | ἀνδροδάμας inclus. --- 14. τῶν ώῶν gratté
+θείας καὶ ἰερᾶς τέχνης τῆς ἐν τἤ χρυσούλω | dans M ici et presque partout. --- 15.
+ταύτη βίβλφ. --- 12. Au-dessus de Ἀφρο- | Après ἀμμωνιακὸν] ἄλας ἀρωνιακὸν add.
 δίτης, AEL donnent Ἀρχὴ τοῦ A, et ainsi | BAL, pour ἀρμωνιακὸν (M. B.).
 
 
@@ -1275,13 +1274,13 @@ Aἰθάλη ἐστὶν ὕδωρ θείου καὶ μολυβδοχάλκο�
 Ἀλλοίωσίς ἐστι βαφή.
 25 Ἁλμυρία ἐστὶ χρυσόκολλα.
 Ἀργυρόλιθός ἐστιν ἀφροσέληνον.
-1. Rédaction de BAL : Ἄσβ. Ἑ. | κόμαρος EL. — 16. ἐ. ἄγγ. L. — 5. Après
-ἐ. ἡ αὶθάλη τῶν ὼῶν ἡ λυομένη διὰ ὄξους | δρ.] ἡ ἀπὸ κινναβάρεως add. BAL. —
-καὶ ἡλ. — 11. χάλκανθος BAL. — 13. | 20. ὁ χρυσόλ. AL. — 21. Après πολύ-
-Premier article dans B. — 14. Rédac- | χρωμος] καύστωσις καὶ βαφή. Ἁλμυρία κ.
+1. Rédaction de BAL : Ἄσβ. Ἑ. | κόμαρος EL. --- 16. ἐ. ἄγγ. L. --- 5. Après
+ἐ. ἡ αὶθάλη τῶν ὼῶν ἡ λυομένη διὰ ὄξους | δρ.] ἡ ἀπὸ κινναβάρεως add. BAL. ---
+καὶ ἡλ. --- 11. χάλκανθος BAL. --- 13. | 20. ὁ χρυσόλ. AL. --- 21. Après πολύ-
+Premier article dans B. --- 14. Rédac- | χρωμος] καύστωσις καὶ βαφή. Ἁλμυρία κ.
 tion de BAL : Aίθ. ἐ. ῦδ. κασσιτέρου καὶ
 τ. λ. L.
-μολύβδου καὶ χαλκοῦ. — 15. κόμαρις MBA ;
+μολύβδου καὶ χαλκοῦ. --- 15. κόμαρις MBA ;
 
 
 ### 0342
@@ -1312,10 +1311,10 @@ B
 Δράκοντος χολή ἐστιν ὑδράργυρος ἀπὸ κασσιτέρου.
 1. M, et au-dessus : σύνθετα (main | tionnels en un seul et les rédige ainsi :
 du copiste ?) ; συνθέτου A. Leçon conj. | Ἄθ. ἐστι τ. καθ. κ. ἀμ., κυρίως δὲ λέγ. κ. τ.
-— 2. L'astérisque désigne ici les articles | λ. — 7. βόλος M. — 12. βύνη ἐστι βλ. καὶ
-qui ne figurent pas dans M. — Cet arti- | ζ. L. — 22. δίφας M (qui écrit souvent φ
-cle-ci et le suivant sont des additions de | pour φρ) ; δίφρος L. — 24. Après κασσ.]
-AEL. — L réunit les deux articles addi- | ἤγουν ἀπὸ κινναβάρεως add. BAL.
+--- 2. L'astérisque désigne ici les articles | λ. --- 7. βόλος M. --- 12. βύνη ἐστι βλ. καὶ
+qui ne figurent pas dans M. --- Cet arti- | ζ. L. --- 22. δίφας M (qui écrit souvent φ
+cle-ci et le suivant sont des additions de | pour φρ) ; δίφρος L. --- 24. Après κασσ.]
+AEL. --- L réunit les deux articles addi- | ἤγουν ἀπὸ κινναβάρεως add. BAL.
 
 
 ### 0343
@@ -1341,17 +1340,17 @@ LEXIQUE
 )
 20 Θεῖον λευκόν ἐστιν αὶθάλη ὑδραργύρου παγεῖσα μετὰ τοῦ λευκοῦ
 συνθέματος.
-2. ἀνακαυφθείς BA ; ἀνακαμφθείς L. — | 12. καλακάνθη ἤγουν χάλκανθος A. Réd. de
+2. ἀνακαυφθείς BA ; ἀνακαμφθείς L. --- | 12. καλακάνθη ἤγουν χάλκανθος A. Réd. de
 3. τῶν φ. τ. ώῶν AL, f. mel. Cp. ci-des- | L : Ζωμὸς β. ἐ. χάλκανθος οίκυνομηθείς.
-sus l'art. Ἀλάβαστρος. — 4. σκόρπισις | Après οίκονομ.] κατὰ τὴν τέχνην add. AL.
-BAL, f. mel. — 6. είσι] ἐστιν (placé | — 15. κνικου mss. partout. — 17. άπὸ ἡλίου]
-après ἐλ.) AL. — 7. Après ὑδρ.] τῶν | ἀπὸ suivi dans M du signe du soleil ou
-είδῶν add. BAL. — 8. Art. ajouté dans | de l'or, avec esprit rude. F. l. χρυσοῦ.
-AL. — 9. Art. ajouté dans BAL. — | — 18. χρυσοῦ] signe sans esprit dans M. —
-Après ἐτ.] λίθος add. A supra lineam ; 20. | 2e art. de L dans la lettre Θ. —
-λίθος ἐστίν add. L. — 11. Après cet article, | 21. συνθήματος BAEL, ici et presque dans
+sus l'art. Ἀλάβαστρος. --- 4. σκόρπισις | Après οίκονομ.] κατὰ τὴν τέχνην add. AL.
+BAL, f. mel. --- 6. είσι] ἐστιν (placé | --- 15. κνικου mss. partout. --- 17. άπὸ ἡλίου]
+après ἐλ.) AL. --- 7. Après ὑδρ.] τῶν | ἀπὸ suivi dans M du signe du soleil ou
+είδῶν add. BAL. --- 8. Art. ajouté dans | de l'or, avec esprit rude. F. l. χρυσοῦ.
+AL. --- 9. Art. ajouté dans BAL. --- | --- 18. χρυσοῦ] signe sans esprit dans M. ---
+Après ἐτ.] λίθος add. A supra lineam ; 20. | 2e art. de L dans la lettre Θ. ---
+λίθος ἐστίν add. L. --- 11. Après cet article, | 21. συνθήματος BAEL, ici et presque dans
 on lit dans L : Ζύμη ἐστὶ σύνθημα σωμάτων | tout le contenu de cette famille de
-σὺν αίθάλῃ ἡχουμενίου και κνίκου ἄνθει. — | manuscrits
+σὺν αίθάλῃ ἡχουμενίου και κνίκου ἄνθει. --- | manuscrits
 manuscrits.
 
 
@@ -1381,17 +1380,17 @@ INDICATIONS GÉNÉRALES
 Θεῖόν ἐστι τὸ ἡμέτερον ὄξος.
 Θεῖον λευκόν ἐστι μόλυβδος οὶκονομηθείς.
 Θεῖον χαλκός ἐστιν οὶκονομηθείς.
-1. 3e art. de L, ajouté dans AL. — | νέος BA. Dans un fragment épigraphique
-2. 4e art. de L. — ὁ λιθ. L. — 3. 1er art. | de l'édit de Dioclétien de pretiis rerum
-de L. — 4. 5e art. de L. — ἀσπρα] λευκὰ | récemment découvert par M. Paul
-BAL. — 6. θαλλοὶ] θάλη A. — Après | Monceaux (Alger 1886), fragment dont
-λευκὸν] ὃ καὶ puis l'art. suivant BAL. — | le texte est généralement correct, on lit
-7. Après θ. ἄκ.] ἤγουν add. BA. — 9. | οινος αμιννεος et ο. αμιννιος. On rencontre
+1. 3e art. de L, ajouté dans AL. --- | νέος BA. Dans un fragment épigraphique
+2. 4e art. de L. --- ὁ λιθ. L. --- 3. 1er art. | de l'édit de Dioclétien de pretiis rerum
+de L. --- 4. 5e art. de L. --- ἀσπρα] λευκὰ | récemment découvert par M. Paul
+BAL. --- 6. θαλλοὶ] θάλη A. --- Après | Monceaux (Alger 1886), fragment dont
+λευκὸν] ὃ καὶ puis l'art. suivant BAL. --- | le texte est généralement correct, on lit
+7. Après θ. ἄκ.] ἤγουν add. BA. --- 9. | οινος αμιννεος et ο. αμιννιος. On rencontre
 6e art. de L, qui continue comme MBA | dans nos mss. alchimiques : ἀμηναῖος,
-jusqu'à l'article θεῖον ὕδωρ ἐστὶ inclus. — | ἀμηνέος, ἀμινέος, ἀμυναῖος, ἀμοίνεος ; f. l.
-ὁ ἐν τ. ζ. κρ. L. — 10. καὶ om. BAL ; | ἀμίννιος. — 16. ὄτι] ἀλλ᾽ ὅτι BA. — 18.
-f. del. — 11. θεῖον ἐ. κρ. ὕ. L. — 14. | 12e art. de L. — τῶν ὠῶν gratté M. —
-après ξανθ.] ὁ τῆς ἀρσενίκου add. BA. — άμη- | 21. 11e art. de L.
+jusqu'à l'article θεῖον ὕδωρ ἐστὶ inclus. --- | ἀμηνέος, ἀμινέος, ἀμυναῖος, ἀμοίνεος ; f. l.
+ὁ ἐν τ. ζ. κρ. L. --- 10. καὶ om. BAL ; | ἀμίννιος. --- 16. ὄτι] ἀλλ᾽ ὅτι BA. --- 18.
+f. del. --- 11. θεῖον ἐ. κρ. ὕ. L. --- 14. | 12e art. de L. --- τῶν ὠῶν gratté M. ---
+après ξανθ.] ὁ τῆς ἀρσενίκου add. BA. --- άμη- | 21. 11e art. de L.
 
 
 ### 0345
@@ -1417,27 +1416,27 @@ K
 Κώμαρις σκυθική ἐστι θεῖον, καὶ ἀρσένικον μετὰ πάντων αὐτῆς
 20 τῶν ὁνομάτων.
 Καδμεία ἐστὶ μαγνησία.
-2. après ίὸς] χρυσοῦ add. L. — ἡ αὶθ.
-καὶ ἡ χρυσόκ. L. — 3. après ξάνθωσις]
-καὶ χρυσόκολλα add. AL. — κόμαρις M ;
+2. après ίὸς] χρυσοῦ add. L. --- ἡ αὶθ.
+καὶ ἡ χρυσόκ. L. --- 3. après ξάνθωσις]
+καὶ χρυσόκολλα add. AL. --- κόμαρις M ;
 κωμ. σκ. souligné dans L (p. 263) et en
 mg., note d'une main du XVΤIe siècle :
 infra 265, 267 ; Cp. ci-dessous p. 10,
-l. 6, note. —7. Article ajouté dans AE.
-— 9. ἀφρο, puis le signe de la lune MB :
-ἀφροσέλινον A. — 10. όπρος, le signe de
+l. 6, note. ---7. Article ajouté dans AE.
+--- 9. ἀφρο, puis le signe de la lune MB :
+ἀφροσέλινον A. --- 10. όπρος, le signe de
 l'or, puis μμος sans esprit ni accent
 χρύσαμμός) ἐστιν χρυσόλιθος (en signe)
-M ; — Kόπρος ἐστὶ χρυσὸς (signe de l'or):
+M ; --- Kόπρος ἐστὶ χρυσὸς (signe de l'or):
 καὶ ἄμ. ἐ. χρυσόλ. BA; Κόπρος ἐ. χρυσὸς (en
-toutes lettres), καὶ ἅμ. καὶ χρυσόλ. L. —
-11. κασσίτηρος M presque partout. — 14.
-κνουφιν (sans accent) M. — ἄμπυξ] f. l.
-ἄμβιξ. — 15. Après αὶθάλη] ἀρσενικοῦ add.
-BAL. — 16. Après ἀττ.] ἐστὶν add. L. —
+toutes lettres), καὶ ἅμ. καὶ χρυσόλ. L. ---
+11. κασσίτηρος M presque partout. --- 14.
+κνουφιν (sans accent) M. --- ἄμπυξ] f. l.
+ἄμβιξ. --- 15. Après αὶθάλη] ἀρσενικοῦ add.
+BAL. --- 16. Après ἀττ.] ἐστὶν add. L. ---
 11. λέκηθος M ; λέκινθος A ; λέκυνθος B et
-du Cange. — 18. τῶν ώῶν gratté M. —
-κασίν MBA. — 19. αὐτῆς] αὐτοῦ L, f. mel.
+du Cange. --- 18. τῶν ώῶν gratté M. ---
+κασίν MBA. --- 19. αὐτῆς] αὐτοῦ L, f. mel.
 
 
 ### 0346
@@ -1465,14 +1464,14 @@ INDICATIONS GÉNÉRALES
 Λευκόφανόν ἐστι τὸ δύνον εὶς βάθος.
 Μ
 Μόλυβδός ἐστιν παρεμφερὶς ψιμμύθιον.
-1. Après ἐλ.] ἐστὶ add. L. — 2. τοῦ- | — 16. Art. ajouté dans AL. — λαχὰς χίας
-το L, f. mel. — 3. Réd. de L : Kηρίον | A. — 17. ψιμύθιον M partout ; ψιμμιθίον
-ἢ κυρίον ἐστὶ τὸ στερεὸν ἢ τὰ στ. σώματα ; | AB partout ; ψιμμύιον L partout. —
-κυρίον A ; στερείον Bn. — 6. L mg. (p. 18. Après ὕδωρ, le signe de θεῖον ἄπυρον
-267) : Supra 265, 263. — 9. ὁ ὄξος Bn. — | dans M. — 19. Λευκόπινος BAL, f. mel.
-12. Réd. de L : Λίθος ὁ οὐ λίθος ἐστὶν | — 20. L place cet article avant le précé-
-ἄσβεστος, καὶ αὶθάλη λειουμένη μετ᾽ ὄξους. | dent.—21. δύνον] δυομένον L. — 23. παρεμφ.]
-— 14. Λιθοφρύγιος L. — 15. ληπυρατῶν M. | ὄμοιος L. — ψιμυθίω L ; ψιμμιθ B.
+1. Après ἐλ.] ἐστὶ add. L. --- 2. τοῦ- | --- 16. Art. ajouté dans AL. --- λαχὰς χίας
+το L, f. mel. --- 3. Réd. de L : Kηρίον | A. --- 17. ψιμύθιον M partout ; ψιμμιθίον
+ἢ κυρίον ἐστὶ τὸ στερεὸν ἢ τὰ στ. σώματα ; | AB partout ; ψιμμύιον L partout. ---
+κυρίον A ; στερείον Bn. --- 6. L mg. (p. 18. Après ὕδωρ, le signe de θεῖον ἄπυρον
+267) : Supra 265, 263. --- 9. ὁ ὄξος Bn. --- | dans M. --- 19. Λευκόπινος BAL, f. mel.
+12. Réd. de L : Λίθος ὁ οὐ λίθος ἐστὶν | --- 20. L place cet article avant le précé-
+ἄσβεστος, καὶ αὶθάλη λειουμένη μετ᾽ ὄξους. | dent.---21. δύνον] δυομένον L. --- 23. παρεμφ.]
+--- 14. Λιθοφρύγιος L. --- 15. ληπυρατῶν M. | ὄμοιος L. --- ψιμυθίω L ; ψιμμιθ B.
 
 
 ### 0347
@@ -1501,14 +1500,14 @@ Nίτρον ἐστὶ θεῖον λευκὸν ποιοῦν χαλκὸν ἀ
 E
 ανθὴ κιννάβαρις αὶθάλη ἐστὶ θείων καὶ ὕδωρ ἀργύρου.
 ανθὸν φάρμακόν ἐστι σιδηρίτης δι οὕρους θείου οὶκονομηθείς.
-3. χαλκηδ.] μακεδονικὸν BAL. — 4. Réd. | suppose : ῥητίνη; (υ pour η: ὕπαρ pour
-de L : μάλαγμά ἐστι πν σύνθημα τέλειον. — | ἡπαρ se lit dans la liste des signes de A. »
-6. ἰσάτιδος BA. — χρυσολe M ; χρυσόλιθος | (M. B). — 19. Art. ajouté dans AL. —
-Bn. — 7. αὐτορίτου M ; αὐτορύτου BA. — 9. | 20. Après συμπλεκομένη.] θολὴ add. L.
-μολυβδόχι ἐστι λιθάργυρος καὶ χρυσόκολλα A. | s pour θολός. » (M. B.). — 22. κινναβάρεως
-— 13. Art. ajouté dans BAL. — 16. | L; signe de κιννάβαριςdans M. — 23. Lire
-νεξίας M ; ναξίας πέτρας L. — ἐστι καὶ κουρ. | comme Bn qui propose δι οὕρουκαὶθείου.
-BA. — 18. ἐιτίνη M ; ρυτίνη BAL. « On | — Après οίκονομ. καὶ ἡ καδμεία add. BAL.
+3. χαλκηδ.] μακεδονικὸν BAL. --- 4. Réd. | suppose : ῥητίνη; (υ pour η: ὕπαρ pour
+de L : μάλαγμά ἐστι πν σύνθημα τέλειον. --- | ἡπαρ se lit dans la liste des signes de A. »
+6. ἰσάτιδος BA. --- χρυσολe M ; χρυσόλιθος | (M. B). --- 19. Art. ajouté dans AL. ---
+Bn. --- 7. αὐτορίτου M ; αὐτορύτου BA. --- 9. | 20. Après συμπλεκομένη.] θολὴ add. L.
+μολυβδόχι ἐστι λιθάργυρος καὶ χρυσόκολλα A. | s pour θολός. » (M. B.). --- 22. κινναβάρεως
+--- 13. Art. ajouté dans BAL. --- 16. | L; signe de κιννάβαριςdans M. --- 23. Lire
+νεξίας M ; ναξίας πέτρας L. --- ἐστι καὶ κουρ. | comme Bn qui propose δι οὕρουκαὶθείου.
+BA. --- 18. ἐιτίνη M ; ρυτίνη BAL. « On | --- Après οίκονομ. καὶ ἡ καδμεία add. BAL.
 
 
 ### 0348
@@ -1537,13 +1536,13 @@ INDICATIONS GÉNÉRALES
 ὕδωρ τὸ ἅθικτον.
 Πέταλα τῶν στεφανοπλόκων εὶσὶ πυρίτης καὶ μαγνησία.
 Προοξύνας ἐστὶν ἐν ὄξει βρέξας.
-2. 6e art. de L dans la lettre O. — | ἕψησις καὶ ξάνθωσις ξηρίς (E : ὄσιρις) καὶ
-ὄστρ.] ὄστρυον M ; ὄφιον BAL. — 3. ἐ. χ. | θεῖον · πῆξον κ. τ. λ. — 14. Art. ajouté
-L.— après ἐστι καλπάσου] βοτάνης add. AL. | dans A. — 16. Après μαγν.] ὁ λευκόλιθος
-— 4. όξύγγιν M. — 5. νεφέκλης A ; νεφέλ | add. A. — 19. πηξίδες AL, f. mel. —
-L. — 11. ἴγδη L. — Après ἰγδίον] θυία | Après οίκ.] είσὶν add. L. — 20. Réd. de
-add. L (lire θυεία. — 13. Après cet | L : πολύχρ. καὶ πορφυρ. καὶ πορφυρίτης κ.
-article, on lit dans A : πίδας (E : ὃ οἶδας) | τ. λ. — 24. προοξ.] προξίσας mss. Corr.
+2. 6e art. de L dans la lettre O. --- | ἕψησις καὶ ξάνθωσις ξηρίς (E : ὄσιρις) καὶ
+ὄστρ.] ὄστρυον M ; ὄφιον BAL. --- 3. ἐ. χ. | θεῖον · πῆξον κ. τ. λ. --- 14. Art. ajouté
+L.--- après ἐστι καλπάσου] βοτάνης add. AL. | dans A. --- 16. Après μαγν.] ὁ λευκόλιθος
+--- 4. όξύγγιν M. --- 5. νεφέκλης A ; νεφέλ | add. A. --- 19. πηξίδες AL, f. mel. ---
+L. --- 11. ἴγδη L. --- Après ἰγδίον] θυία | Après οίκ.] είσὶν add. L. --- 20. Réd. de
+add. L (lire θυεία. --- 13. Après cet | L : πολύχρ. καὶ πορφυρ. καὶ πορφυρίτης κ.
+article, on lit dans A : πίδας (E : ὃ οἶδας) | τ. λ. --- 24. προοξ.] προξίσας mss. Corr.
 ἐστὶν στυπτηρία. Πτήσις (pour ὄπτησις) ἐστὶν | conj
 conj.
 
@@ -1572,14 +1571,14 @@ Pίνημα χρυσοῦ ἐστι κόλλα χρυσοῦ.
 καὶ ίερὸς λίθος, τὸ ἀπόκρυφον μυστήριον τὸ αὐτὸ καὶ σποδὸς
 ἀχύρου καὶ σμάραγδος καὶ σμιρίτης.
 ιδηρός ἐστιν ὁ κέλυφος τοῦ ώοῦ.
-2. Au-dessus de ἡμέραις : δηλονὄτι (sic) | σύνθεσις, ὰ καλ. — ήγουν τ. τ. ἀ. μ. om A.
-A (de la main du copiste ?). — 3. ἡ | — 18. Art. ajouté dans L. (Déhris de
-κριθὴ L. — ῦ. βύπεως ἡ ρίπνος A ; ὁίπνος l'avant-dernier article). — 20. Réd. de
-B — πυρρὸν καὶ BAL. — 7. βίνισμα BAL. BAL : Σπ. θαλ. ἐστι καδμεία καὶ χρυσόλ.
-— 9. σίδιν M ; βίδια AB ; βοιδιὰ . — 10. και (χ. κ. om. L.) ερὸς λίθος καὶ σπ. ἀχύ-
-ἀφροσέληνον] ἀργύρου Bn. — 15. κόχλος] A | ρων, καὶ σμαρ. καὶ πυρ. τὸ ἀποκρ. μυστ. —
+2. Au-dessus de ἡμέραις : δηλονὄτι (sic) | σύνθεσις, ὰ καλ. --- ήγουν τ. τ. ἀ. μ. om A.
+A (de la main du copiste ?). --- 3. ἡ | --- 18. Art. ajouté dans L. (Déhris de
+κριθὴ L. --- ῦ. βύπεως ἡ ρίπνος A ; ὁίπνος l'avant-dernier article). --- 20. Réd. de
+B --- πυρρὸν καὶ BAL. --- 7. βίνισμα BAL. BAL : Σπ. θαλ. ἐστι καδμεία καὶ χρυσόλ.
+--- 9. σίδιν M ; βίδια AB ; βοιδιὰ . --- 10. και (χ. κ. om. L.) ερὸς λίθος καὶ σπ. ἀχύ-
+ἀφροσέληνον] ἀργύρου Bn. --- 15. κόχλος] A | ρων, καὶ σμαρ. καὶ πυρ. τὸ ἀποκρ. μυστ. ---
 mg. ἡ κοχύλη (pour κογχύλη) de la main | 23. Art. ajouté dans BA
-du copiste. — 16. Réd. de L : σώμ. ἐ. ἡ|
+du copiste. --- 16. Réd. de L : σώμ. ἐ. ἡ|
 
 
 ### 0350
@@ -1605,17 +1604,17 @@ INDICATIONS GÉNERALES
 ἐστι θεῖον ὕδωρ καὶ ὑδράργυρος.
 Γδωρ θεῖον ἄθικτόν ἐστι τὸ λευκὸν σύνθεμα ἀπερχόμενον.
 Τδωρ ἀπλοῦν, τὸ ἀπὸ τριῶν θείων συνθέτων δι ᾽ ἀσβεστου.
-2. ώοῦ gratté M. — 3. A place cet | 14. Après ὕδ. ἀρσ.] καὶ ὕδωρ ποτάμιον
+2. ώοῦ gratté M. --- 3. A place cet | 14. Après ὕδ. ἀρσ.] καὶ ὕδωρ ποτάμιον
 article après l'art. ὑδράρυρος μετὰ αὶθαλῶν | ἡ νεφέλη ἐστίν. δωρ μολ. ἐστὶ θ. κ. ὑδρ.
-κ. τ. λ. — ῦ. A place cet article avant | σσωπον κ. τ. λ. BA. — 16. ἐρέων M. —
-le précédent. — 10. ὑδρ.] signe de la 17. Réd. de L : ὕδ. ὑδρ. λευκῆς βαφικῆς ἐ.
-sandaraque BA (signe lu ἀρσένικον par ἡ ὑδράργυρος ἡ ἀπὸ κ. γ. — Après γιν.]
-Cange) ; σανδαράχη en toutes lettres L. — | νεφέλη add. BA. — 18. σελήνης] signe de
-11. ἡ ὑδρ. L. — 12. Réd. de L : ὕδωρ κν. la lune et de l'argent surmonté d'un σ
-ἐστὶν ὕδ. θεῖον θικτον. F. l. τοῦ θείου τοῦ | M. — 19. ὕδ. θεῖον BA. — ὑδρ.] ἀργύρου
-ἀθίκτου. — 13. Réd. de L : ὕδωρ μνης | ὕδωρ BA. — 21. Réd. de L : ὕδ. πλ. ἐστι
+κ. τ. λ. --- ῦ. A place cet article avant | σσωπον κ. τ. λ. BA. --- 16. ἐρέων M. ---
+le précédent. --- 10. ὑδρ.] signe de la 17. Réd. de L : ὕδ. ὑδρ. λευκῆς βαφικῆς ἐ.
+sandaraque BA (signe lu ἀρσένικον par ἡ ὑδράργυρος ἡ ἀπὸ κ. γ. --- Après γιν.]
+Cange) ; σανδαράχη en toutes lettres L. --- | νεφέλη add. BA. --- 18. σελήνης] signe de
+11. ἡ ὑδρ. L. --- 12. Réd. de L : ὕδωρ κν. la lune et de l'argent surmonté d'un σ
+ἐστὶν ὕδ. θεῖον θικτον. F. l. τοῦ θείου τοῦ | M. --- 19. ὕδ. θεῖον BA. --- ὑδρ.] ἀργύρου
+ἀθίκτου. --- 13. Réd. de L : ὕδωρ μνης | ὕδωρ BA. --- 21. Réd. de L : ὕδ. πλ. ἐστι
 κ. ἀργύρου καὶ χ. καὶ λὸς καὶ σανδ. κ. άρσ. | τὸ δι᾽ ἀσβ. F. l. τὸ... σύνθετον.
-κ. ὕδωρ πύρ. κ. ὕδ. ποτ. ἡ νεφέλη ἐστί. —
+κ. ὕδωρ πύρ. κ. ὕδ. ποτ. ἡ νεφέλη ἐστί. ---
 
 
 ### 0351
@@ -1643,14 +1642,14 @@ Oρύξον ἐστὶν ἡ ὄπτησον ἡ ξάνθωσον.
 μύθιον.
 Καλκοῦ ἰδρῶτες, ὁ ζωμὸς τοῦ χαμαιμήλου.
 1. Réd. de L : ὕδωρ ἀργύρου ἐστιν, ἀφρὸς | (avec un point sur l'ω, du temps de
-καὶ δρόσος κ. ἀφ. ὑ. La confusion de | la copie, indiquant une corr. à faire. —
+καὶ δρόσος κ. ἀφ. ὑ. La confusion de | la copie, indiquant une corr. à faire. ---
 ἄργυρος avec ἄσημος ou ἄσημον est asse 12. Débris de phrase conservé dans AE
-fréquente dans les mss. — 3. λέγεται δὲ | seulement. — 13. Art. ajouté dans AL.
-μετάρσιον καὶ δρ. χ. ἡ νεφέλη B ; λέγ. δὲ | — 16. 1oe art. de L. dans la lettre Κ. —
-μεταρσιως (sic) κ. δρ. χ. ἡ νεφέλη A. — καὶ καδμ. καὶ θ. L. — 17. 2e art. de L. —
-5. Réd. de L : ὕδωρ θεῖον πεπ. ἐστὶν, ἡ | χειροπυγαtς M. — 19. 11e art. de L. —
-τετρασωμία. — 8. φέκλη ἐστὶν ἡ τρ. τοῦ 20. 3e art. de L. — τὸ αύτὸ] ὁ αὐτὸς L. —
-οῖνου L. — 10. συντεθεῖσα] σωθεῖσα (sic) M 22. 8eart. de L. —Après ίδρ.] ἐστινadd. L.
+fréquente dans les mss. --- 3. λέγεται δὲ | seulement. --- 13. Art. ajouté dans AL.
+μετάρσιον καὶ δρ. χ. ἡ νεφέλη B ; λέγ. δὲ | --- 16. 1oe art. de L. dans la lettre Κ. ---
+μεταρσιως (sic) κ. δρ. χ. ἡ νεφέλη A. --- καὶ καδμ. καὶ θ. L. --- 17. 2e art. de L. ---
+5. Réd. de L : ὕδωρ θεῖον πεπ. ἐστὶν, ἡ | χειροπυγαtς M. --- 19. 11e art. de L. ---
+τετρασωμία. --- 8. φέκλη ἐστὶν ἡ τρ. τοῦ 20. 3e art. de L. --- τὸ αύτὸ] ὁ αὐτὸς L. ---
+οῖνου L. --- 10. συντεθεῖσα] σωθεῖσα (sic) M 22. 8eart. de L. ---Après ίδρ.] ἐστινadd. L.
 
 
 ### 0352
@@ -1678,21 +1677,21 @@ fréquente dans les mss. — 3. λέγεται δὲ | seulement. — 13. Art. a
 ρυσὸς λέγεται τὸ λευκὸν, τὸ ξηρὸν, καὶ τὸ ξανθὸν, καὶ χρυσιατὰ
 2 ποιοῦντα ἀφεύκτους τὰς βαφάς.
 Κρυσόκολλά ἐστιν ὁ μολυβδόχαλκος, τουτέστιν ὁλον τὸ σύνθεμα.
-— 1. Réd. de L (12e art.) : χρυσοκό- | πέταλα BAL. — Après ξανθ.] καὶ λειωθέντα
-ραλλον κα χρυσοχάλκιον ὕ. ἐστὶν ὁ μόλυβδος | add. AL. — 9. 16e art. de L. — ῥίνισμα
-καὶ ὁ χαλκός. — χαλκεῖον] χρυσοχαλκεῖον ὕ. | BAL qui ajoutent καί. — χρυσοζώμιον
-ὁ μόλυβδος καὶ ὁ χαλκός. B. — χρυσοχαλ- | BAL, f. mel. — 10. ἐστὶν ὁ ἰὸς L. — 12.
-κεῖον ὕ. ἐστὶν (la suite comme B) A. — | 6e art. de L. — τῶν ώῶν non gratté dans
-2. 13e art. de L. — χρυσοζώμιον BAL,| M. — 13. 17e art. de L. — 14. 7e art.
-f. mel. — Réd. de AL : ... καὶ ίὸς ἀσκ. τὸ | de L. — χυτράργ. BAL. — 17. ἐστι δὲ ἡ
-θεtόν ἐστι τὸ λευκὸν ἤγουν (ἤως L) ἡ ὑδράρ- | ὐδρ. L. — 19. 18e art. de L. — χρυσιατα
-γυρος παγεῖσα μετὰ λευκοῦ συνθήματος. — | sans accent M ; f. l. χρυσεα τὰ vel χρυσία
-4. Art. ajouté dans AL ; 4 art. de L. | τὰ. — χρυσὸν (en signe) τὰ π. B ; χρυσὸν
-— 5. 14e art. de L. — ὁ αὶμ. BAL. — | (en signe) τα (sans accent) A ; χρυσωτὰ τα
-6. 5e art. de L. — ὕδωρ] ὑδραργύρου BA. |
-π. .. — 21. 19e art. de L. — Après χρυ-
-— βροντήσιός ἐστι θεῖον ἀφ. ὑδρ. L. — 7. | σίν ἐστιν add. L.
-15e art. de L. — χρ. ἐστὶν L. — μέταλλα]
+--- 1. Réd. de L (12e art.) : χρυσοκό- | πέταλα BAL. --- Après ξανθ.] καὶ λειωθέντα
+ραλλον κα χρυσοχάλκιον ὕ. ἐστὶν ὁ μόλυβδος | add. AL. --- 9. 16e art. de L. --- ῥίνισμα
+καὶ ὁ χαλκός. --- χαλκεῖον] χρυσοχαλκεῖον ὕ. | BAL qui ajoutent καί. --- χρυσοζώμιον
+ὁ μόλυβδος καὶ ὁ χαλκός. B. --- χρυσοχαλ- | BAL, f. mel. --- 10. ἐστὶν ὁ ἰὸς L. --- 12.
+κεῖον ὕ. ἐστὶν (la suite comme B) A. --- | 6e art. de L. --- τῶν ώῶν non gratté dans
+2. 13e art. de L. --- χρυσοζώμιον BAL,| M. --- 13. 17e art. de L. --- 14. 7e art.
+f. mel. --- Réd. de AL : ... καὶ ίὸς ἀσκ. τὸ | de L. --- χυτράργ. BAL. --- 17. ἐστι δὲ ἡ
+θεtόν ἐστι τὸ λευκὸν ἤγουν (ἤως L) ἡ ὑδράρ- | ὐδρ. L. --- 19. 18e art. de L. --- χρυσιατα
+γυρος παγεῖσα μετὰ λευκοῦ συνθήματος. --- | sans accent M ; f. l. χρυσεα τὰ vel χρυσία
+4. Art. ajouté dans AL ; 4 art. de L. | τὰ. --- χρυσὸν (en signe) τὰ π. B ; χρυσὸν
+--- 5. 14e art. de L. --- ὁ αὶμ. BAL. --- | (en signe) τα (sans accent) A ; χρυσωτὰ τα
+6. 5e art. de L. --- ὕδωρ] ὑδραργύρου BA. |
+π. .. --- 21. 19e art. de L. --- Après χρυ-
+--- βροντήσιός ἐστι θεῖον ἀφ. ὑδρ. L. --- 7. | σίν ἐστιν add. L.
+15e art. de L. --- χρ. ἐστὶν L. --- μέταλλα]
 INDICATIONS GÉNÉRALES
 
 
@@ -1717,18 +1716,18 @@ LEXIQUE
 ὶρείχαλκός ἐστιν ὁ νικαηνὸς, ὁ διὰ καδμείας γινόμενος.
 ΤΕOΣ.
 même mot : μαγνησίας, confondant les
-1. 20e art. de L. — BAL ajoutent :
-ἤγουν ἀρσένικον, καὶ σανδαράχη. — Après | deux articles. — 12. ῶχρα διοινο (sans
-σφ.] ἐστι add. L. — 2. 21e art. de L. | accent) λέγ. M. — οὶ βασκ. L. — 13. ὑδρ.
-χρυσοφίτης B, f. mel. : χρυσοφύτης AL. — ἡ | ἐστιν ἡ L. — μολίβου M ; μαγνησίας du
-μετὰ χ. L. — 3. Après ίωθ.] ἐστιν add. | Cange ; μολυβδοχάλκου L. — 14. λίθος ἐ.
-BAL. — 4. 9e art. de L. — Après le | ὁ λεγ. L. — τερενοῦθιν BA ; τερενούθιος L.
-dernier article du X, on lit dans MBA: | — 15. ὁ κρ. τ. ὼ. gratte M. — Après
+1. 20e art. de L. --- BAL ajoutent :
+ἤγουν ἀρσένικον, καὶ σανδαράχη. --- Après | deux articles. --- 12. ῶχρα διοινο (sans
+σφ.] ἐστι add. L. --- 2. 21e art. de L. | accent) λέγ. M. --- οὶ βασκ. L. --- 13. ὑδρ.
+χρυσοφίτης B, f. mel. : χρυσοφύτης AL. --- ἡ | ἐστιν ἡ L. --- μολίβου M ; μαγνησίας du
+μετὰ χ. L. --- 3. Après ίωθ.] ἐστιν add. | Cange ; μολυβδοχάλκου L. --- 14. λίθος ἐ.
+BAL. --- 4. 9e art. de L. --- Après le | ὁ λεγ. L. --- τερενοῦθιν BA ; τερενούθιος L.
+dernier article du X, on lit dans MBA: | --- 15. ὁ κρ. τ. ὼ. gratte M. --- Après
 Τέλος τῆς λευκώσεως καὶ ἀρχὴ τῆς ξανθώσεως. | ὼοῦ] λέγεται καὶ (λεγ. δὲ καὶ L) τὸ ἀρσένικον
-6. Réd. de L : ωμός ἐστιν ὁ μεταλλασσό- | BAL. — 16. Art. remplacé dans BAL
-μενος ἐν τ. ε. — 8. Après καμ.] ἔχουσα | par l'addition : λέγεται κ. τ. λ. — ώρό-
-add. L. — 10. ψιμμ. ἐστιν τὸ L. — μολ.] | χαλκος M. — 18. λος τοῦ λεξικοῦ B ;
-signe du plomb dans B, surmonté des | τέλος τοῦ μεταλλευτικοῦ λεξικοῦ AL. — Ce
+6. Réd. de L : ωμός ἐστιν ὁ μεταλλασσό- | BAL. --- 16. Art. remplacé dans BAL
+μενος ἐν τ. ε. --- 8. Après καμ.] ἔχουσα | par l'addition : λέγεται κ. τ. λ. --- ώρό-
+add. L. --- 10. ψιμμ. ἐστιν τὸ L. --- μολ.] | χαλκος M. --- 18. λος τοῦ λεξικοῦ B ;
+signe du plomb dans B, surmonté des | τέλος τοῦ μεταλλευτικοῦ λεξικοῦ AL. --- Ce
 lettres μ λ. De la vient peut-ètre que du | lexique existe aussi dans C, qui dérive
 Cange, deux articles plus loin, a lu le | d'rectm2nt de P
 
@@ -1737,9 +1736,9 @@ Cange, deux articles plus loin, a lu le | d'rectm2nt de P
 
 18
 INDICATIONS GENÉRALES
-l. uI. — ΠΕΡΙ ΤΟΥ QΟΥ ΟΙ ΠΑΑΑΙΟΙ ὁΑΣΙΝ ΟΥΤΟΣ.
-Transcrit sur M, f. 106 v. — Collationné sur A, f. 24 r. ; — sur E (copie de A), f.
-179 r. ; — sur Lc (copie de E), p. 193. — ans M il a un certin nombre de
+l. uI. --- ΠΕΡΙ ΤΟΥ QΟΥ ΟΙ ΠΑΑΑΙΟΙ ὁΑΣΙΝ ΟΥΤΟΣ.
+Transcrit sur M, f. 106 v. --- Collationné sur A, f. 24 r. ; --- sur E (copie de A), f.
+179 r. ; --- sur Lc (copie de E), p. 193. --- ans M il a un certin nombre de
 mots grattés. O ne mentionne les leçons de E que lorsqu'elles diffèrent de A.
 1] Θi μἐν λίθον χάλκιον, οί δὲ λίθον ἐγκέφαλον, οὶ δὲ λίθον
 ἐτήσιον · ἔτεροι λίθον τὸν οὐ λίθον · ἄλλοι λίθον αὶγύπτιον · ἔτεροι
@@ -1758,19 +1757,19 @@ mots grattés. O ne mentionne les leçons de E que lorsqu'elles diffèrent de A.
 ] 1ο δὲ λευκὸν αὐτοῦ φησι κόμι, καὶ ὁπὸν συκῆς, καὶ ὀπὸν
 συκαμίνου, καὶ ὁπὸν τιθυμάλου.
 6] Τὸ δὲ κροκὸν λέγουσι μίσυ, χαλκὸν, καλακάνθην χαλκοῦ,
-1. τοῦ ὼοῦ gratté M. — Titre dans | 9. στιλβίδα ALc. — Après κυανὸν] σινόπη
+1. τοῦ ὼοῦ gratté M. --- Titre dans | 9. στιλβίδα ALc. --- Après κυανὸν] σινόπη
 Lc : Qὸν τῶν φιλοσόφων, puis : Oὶ πα- | κοπτικὴ, γὴ ποντικὴ A; les mèmes mots
-λαιοί φασι π. τ. ὡ. Oὶ μἐν λίθον χάλκεον | dans Lc, mais à l'accusatif. — 11. φα-
-(la suite comme A). — 2. Rédaction | σι A, f. mel. ; καλοῦσιν Lc. — ίὸν καὶ om.
-de A : Oὶ μἐν λ. χ., οὶ δὲ λίθον ἀρμένιον, | Lc, f. mel. — ὶὸς χαλκοῦ M. — 12. ὕδωρ
-ἄλοι λιθ. ἐγκ., λίθ. αὶτήσιον, λίθ. αὶγ., λίθ. | χάλκιον ALc. — Réd. de ALc : ὕδωρ
-τὸν οὐ λίθ. ἕτεροι δὲ τὸ τοῦ κ. μίμυμα. — | θεῖον ἄθικτον, le signe du cuivre, puis
+λαιοί φασι π. τ. ὡ. Oὶ μἐν λίθον χάλκεον | dans Lc, mais à l'accusatif. --- 11. φα-
+(la suite comme A). --- 2. Rédaction | σι A, f. mel. ; καλοῦσιν Lc. --- ίὸν καὶ om.
+de A : Oὶ μἐν λ. χ., οὶ δὲ λίθον ἀρμένιον, | Lc, f. mel. --- ὶὸς χαλκοῦ M. --- 12. ὕδωρ
+ἄλοι λιθ. ἐγκ., λίθ. αὶτήσιον, λίθ. αὶγ., λίθ. | χάλκιον ALc. --- Réd. de ALc : ὕδωρ
+τὸν οὐ λίθ. ἕτεροι δὲ τὸ τοῦ κ. μίμυμα. --- | θεῖον ἄθικτον, le signe du cuivre, puis
 M mg. sur une ligne verticale en pe- | μελιτ. φαρμ. αὶθάλη (αὶθάλην Lc), σῶμα τὸ
-tites majuscules onciales : ταῦτα μυστι- | πνευματικὸν. (manque la suite du § 4.) —
-κὰ,ού φυσικά. — 5. τούτου] αὐτοῦ ALc. — | 16. λευκὸν gratté M. — φασιν A, f. mel.
-λέγουσιν] ἐκάλεσαν ALc. — 7. εἶπον] είρή- | — 18. τὸ δὲ κρόκον αὐτοῦ ALc. — λέγουσι
-κασιν ALc. — ἀρσένικον A. — 8. Après | om. A ; καλοῦσι Lc. — καλακανθηχαλκὸν
-ἀφροσέληνον] ἄργυρον τὸν ἡμῶν ALc. — | M ; καλακάνθιον χαλκοῦ Lc.
+tites majuscules onciales : ταῦτα μυστι- | πνευματικὸν. (manque la suite du § 4.) ---
+κὰ,ού φυσικά. --- 5. τούτου] αὐτοῦ ALc. --- | 16. λευκὸν gratté M. --- φασιν A, f. mel.
+λέγουσιν] ἐκάλεσαν ALc. --- 7. εἶπον] είρή- | --- 18. τὸ δὲ κρόκον αὐτοῦ ALc. --- λέγουσι
+κασιν ALc. --- ἀρσένικον A. --- 8. Après | om. A ; καλοῦσι Lc. --- καλακανθηχαλκὸν
+ἀφροσέληνον] ἄργυρον τὸν ἡμῶν ALc. --- | M ; καλακάνθιον χαλκοῦ Lc.
 
 
 ### 0355
@@ -1797,22 +1796,22 @@ NOMENCLATURE DE L'EUF
 τὸ ἀπὸ τοῦ ἀρσενίκου. Θείου ἀπύρου ὕδωρ ἐστὶ τὸ ὄξος τῶν ἀρχαίων.
 1] Τὸ δὲ λευκὸν τοῦ αὐτοῦ ώοῦ καλοῦσιν ὑδράργυρον, ὕδωρ
 ἀργυρικὸν, λευκόχαλκον, λευκὴν αὶθάλην, πυρίφευκτον, θεῖον ἀγαθὸν,
-3. ὁστράκων et ὡῶν grattés M. — 4. δι | | ζύμιον MA. — ἀργυροζύμιον M. — Réd.
-ἀσβέστου Lc. — ἔφησαν] φασιν A ; καλοῦσι | de A : ... χρυσοζύμιον, τὸ ὼὸν κύτριον, τὸ
-Lc. — σῶμα Lc, f. mel. — 7. Après τὸ | ξανθὸν, ἐσωθεν δὲ τὸ ξῶδες · οὕτω καὶ τὸ ἀπὸ
+3. ὁστράκων et ὡῶν grattés M. --- 4. δι | | ζύμιον MA. --- ἀργυροζύμιον M. --- Réd.
+ἀσβέστου Lc. --- ἔφησαν] φασιν A ; καλοῦσι | de A : ... χρυσοζύμιον, τὸ ὼὸν κύτριον, τὸ
+Lc. --- σῶμα Lc, f. mel. --- 7. Après τὸ | ξανθὸν, ἐσωθεν δὲ τὸ ξῶδες · οὕτω καὶ τὸ ἀπὸ
 δὲ λευκὸν] φασιν add. A ; καλοῦσιν add. Lc. | ἀρσενικοῦ · θείου ἀπύρου (en signe) ὕδωρ κ.
-— τὸ δὲ λ. ὕδωρ φασὶν E. — δια τῶν ῶν | τ. λ. — Réd. de L : τὸ ὼὸν τὸ κύπριον, τὸ
+--- τὸ δὲ λ. ὕδωρ φασὶν E. --- δια τῶν ῶν | τ. λ. --- Réd. de L : τὸ ὼὸν τὸ κύπριον, τὸ
 στρογγιλῶν ῶσπερ ώκιανὸς A (κεανὸς E); | ξανθὸνώὸν, τὸ ἔσωθεν ίξῶδες, τὸ ἀπὸ ἀρσ. θεῖον,
 διὰ τῶν ώῶν, καὶ στρογγύλον, ώσπερ ώκεανός | τὸ θεῖον ὕδωρ, ὁ ἐστι τὸ ὄξ. τ. ἀρχαίων. (D'a-
-Lc. — 10. ἡ ἀπὸ κινν. λεγ.] τὴν ἀπὸ κινν. | près la réd. de E, copie corrigée de A).
-λεγομένην ALc, f. mel. — 12. ἀμινέον AE ; | — 18. Le texte des § 11, 12 et 13
-ἀμυναῖον Lc. (Voir ci-dessus, p. 8, l. 14 | n'existe pas dans M. — Transcrit ici sur
-et la note). — 13. φασιν A ; om. E ; καλοῦσι | Lc, p. 199. — καλοῦσιν] φασὶν A, ms. qui
-Lc. — καὶ] ἤ A ; om. Lc. — Après δια- | répète avec de légères variantes les
+Lc. --- 10. ἡ ἀπὸ κινν. λεγ.] τὴν ἀπὸ κινν. | près la réd. de E, copie corrigée de A).
+λεγομένην ALc, f. mel. --- 12. ἀμινέον AE ; | --- 18. Le texte des § 11, 12 et 13
+ἀμυναῖον Lc. (Voir ci-dessus, p. 8, l. 14 | n'existe pas dans M. --- Transcrit ici sur
+et la note). --- 13. φασιν A ; om. E ; καλοῦσι | Lc, p. 199. --- καλοῦσιν] φασὶν A, ms. qui
+Lc. --- καὶ] ἤ A ; om. Lc. --- Après δια- | répète avec de légères variantes les
 σαπέντα] signe dans M dont le sens est | 5 5 et 6, puis commence un nouvel
 inconnu et qui n'existe pas dans AELc. | article avec δράργυρον κ. τ. λ. Le ms. E
 Ce signe semble une ébauche de celui | supprime la répétition de A, après avoir
-du chrvselectrum (M. B.). — 14. χρυσο- | écrit, puis biffé τὸ δὲ λευκὸν τοῦ αὐτοῦ.
+du chrvselectrum (M. B.). --- 14. χρυσο- | écrit, puis biffé τὸ δὲ λευκὸν τοῦ αὐτοῦ.
 
 
 ### 0356
@@ -1834,23 +1833,23 @@ O
 τῶν θείων ὑδάτων, καὶ βοτανῶν, ὰ μεταλλοιοῦσι τὴν ὕλην, ἡν
 εὕροις ἄν κατὰ τὸ ζητούμενον. Ἑὰν δὲ μὴ γένωνται τὰ δύο ἐν,
 καὶ τὰ τρία ἔν, καὶ ὄλον τὸ σύνθεμα ἐν, οὐδὲν ἔσται τὸ προσδο-
-15 κώμενον. — Τέλος τοῦ ώοῦ.
-I. IV. — ΟΝΟΜΑΤΟΠΟΠΑ ΤΟΥ ΩΟΥ · ΑΥΤΟ ΓΑΡ ΕΣΤΙΝ
+15 κώμενον. --- Τέλος τοῦ ώοῦ.
+I. IV. --- ΟΝΟΜΑΤΟΠΟΠΑ ΤΟΥ ΩΟΥ · ΑΥΤΟ ΓΑΡ ΕΣΤΙΝ
 A
 A P R7
 ΤΟ ΜΥΣΤΗΡΙΟΝ ΤΗΣ ΤΕΧΝΗΣ
 Transcrit sur A, f. 229 r.
 1] Τὸ ὼὸν ἐκάλεσαν τετράστοιχον διὰ τὸ εἶναι αὐτὸ κόσμου
 μίμησιν, περιέχον τὰ τέσσαρα στοιχεῖα ἐν ἐαυτῶ · ὁν καὶ λίθον
-1. ὕδωρ θεῖον ἄθικτον A, qui met tous | indique toujours une citation. — 11.
-ces mots au nominatif. — 2. ίσοχάλ- § 13] Les mss. AE donnent. pour ce §,
-κιον] F. l. ἰοχάλκιον. — 4. αὶθάλης] καὶ | la rédaction qui suit, ou l'on corrige les
-ταῖς αὶθάλαις A ; ἐν ταῖς αὶθάλαις E. — 6. | plus grosses fautes : Tαῦτά ἐστι τὰ θεtα
+1. ὕδωρ θεῖον ἄθικτον A, qui met tous | indique toujours une citation. --- 11.
+ces mots au nominatif. --- 2. ίσοχάλ- § 13] Les mss. AE donnent. pour ce §,
+κιον] F. l. ἰοχάλκιον. --- 4. αὶθάλης] καὶ | la rédaction qui suit, ou l'on corrige les
+ταῖς αὶθάλαις A ; ἐν ταῖς αὶθάλαις E. --- 6. | plus grosses fautes : Tαῦτά ἐστι τὰ θεtα
 νικῆ] πρὸς ἡ κόντο Aν E, et mg. : | ὕδατα, ῶσπερ τῶν μαλακῶν ἡ διὰ φημὶ (? ὁ
-forte ποοσέρχεται, vel corr. νικᾶ. — 7. | λόγος, οῦτω καὶ ἐπὶ τῶν μετάλλων. ἀν ἡς
-ἐξ ἐνὸς] F. l. ἐξ αὶῶνος. Cp. III. XL1 : | νοήμων, δύο είσὶ συνθήματα — καὶ βοτανῶν,
-ἀπ᾽ αὶῶνος. — A partir de ἀποτελεῖ, ligne | τ πρὸς παντὶ μετὰ τῶν βοτανῶν, μεταλλοιοῦσι,
-verticale en marge de Lc, jusqu'à la | κ. τ. λ. — 14. ἐσται] ἐστι A.
+forte ποοσέρχεται, vel corr. νικᾶ. --- 7. | λόγος, οῦτω καὶ ἐπὶ τῶν μετάλλων. ἀν ἡς
+ἐξ ἐνὸς] F. l. ἐξ αὶῶνος. Cp. III. XL1 : | νοήμων, δύο είσὶ συνθήματα --- καὶ βοτανῶν,
+ἀπ᾽ αὶῶνος. --- A partir de ἀποτελεῖ, ligne | τ πρὸς παντὶ μετὰ τῶν βοτανῶν, μεταλλοιοῦσι,
+verticale en marge de Lc, jusqu'à la | κ. τ. λ. --- 14. ἐσται] ἐστι A.
 fin du morceau, ce qui dans ce ms
 
 
@@ -1879,14 +1878,14 @@ aA
 κιον, ἐλύδριον · τὸ δὲ λευκὸν, τοῦ θείου ὕδατος ἀπολελυμένον, ὄξος,
 ὕδωρ στυπτηρίας, ὕδωρ ἀσβέστου, ὕδωρ σποδοκράμβης, καὶ τὰ ἐξῆς.
 20
-I. v. — LΕ SΕRΡΕΝΤ ΟΙRΟBΟRΟS
-Transcrit sur A, f. 196 r. — Texte sans titre.
+I. v. --- LΕ SΕRΡΕΝΤ ΟΙRΟBΟRΟS
+Transcrit sur A, f. 196 r. --- Texte sans titre.
 1] οῦτο γάρ ἐστιν τὸ μυστήριον ὁ οὐροβόρος δράκων, τουτέστι
 συμφαγώνεται καὶ συγχωνεύεται, λειώνεται καὶ μεταλλάττεται τὸ
 σύνθεμα ἐν τῆ σήψει · καὶ γίνεται μελάγχλωρον, καὶ ἐξ αὐτοῦ γίγ-
 νεται χρυσάνθιον · καὶ ἐξ αὐτοῦ γίνεται ἐρυθρὸν κινναβαρίζον, ῶς
 25 φησιν, καὶ αὕτη ἐστὶν ἡ κιννάβαρις τῶν φιλοσόφων.
-1. δν κυλιοῖ A. Corr. conj. F. l. κυκλοῖ. — 11. λείοι A. Corr. conj. F. l. λείου.
+1. δν κυλιοῖ A. Corr. conj. F. l. κυκλοῖ. --- 11. λείοι A. Corr. conj. F. l. λείου.
 
 
 ### 0358
@@ -1911,16 +1910,16 @@ INDICATIONS GENERALES
 τούμενον χρῆμα · τὸν γὰρ ίερέα τὸν χαλκάνθρωπον μετετέθη τοῦ
 χρώματος τῆς φύσεως, καὶ γέγονεν ἀργυράνθρωπος · ὁν μετ ὁλίγας
 οὕν ἡμέρας, ἐὰν θελήσεις, εὐρήσεις αὐτὸν καὶ χρυσάνθρωπον.
-l. vI. — LΕ SRRPΝΤ
+l. vI. --- LΕ SRRPΝΤ
 2me ARTICLE)
-Transcrit sur A, f. 279 r. — Texte sans titre.
+Transcrit sur A, f. 279 r. --- Texte sans titre.
 20 1] οῦτό ἐστιν τὸ μυστήριον ὁ οὐροβόρος δράκων, τουτέστιν ἡ
 λείωσις τῶν σωμάτων (ἐκ τῆς ἐργασίας αὐτοῦ.
 Τὰ δἐ φῶτα τῶν μυστηρίων τῆς τέχνης αὐτοῦ ἡ ξάνθωσις.
 4. εύατεύει A. F. l. εῦ μαιεύει, fait | jusqu'à la fin du §] même texte avec
 αitre dans de bonnes conditions. (C. E. | presque toutes les mêmes incorrec-
-R.) « Avec αὶματεύει le sens serait meil- | tions, I. v1, 5. — I6. F. l. ὁ γὰρ ερεὺς ὁ
-leur » (M. B.). — 13. Πρῶτον θῦσον | χαλκάνθρωπος κ. τ. λ.
+R.) « Avec αὶματεύει le sens serait meil- | tions, I. v1, 5. --- I6. F. l. ὁ γὰρ ερεὺς ὁ
+leur » (M. B.). --- 13. Πρῶτον θῦσον | χαλκάνθρωπος κ. τ. λ.
 
 
 ### 0359
@@ -1934,7 +1933,7 @@ O] 10 δὲ πράσινον αὐτοῦ ἐστιν ῖωσις, τουτέσ�
 5 ] Σὐ δὲ ἐν τούτοις τὸν νοῦν ἔχων, ώ φίλτατε. ..
 ] Ἀράκων τις παράκειται φυλάττων τὸν ναὸν τοῦτον καὶ τὸν
 χειρωσάμενον . κ. τ. λ. (La suite comme dans I, v, ὄ.)
-I. VII. — ΕΡΜΟΥ ΤΡΙΣΜΕΓΙΣΤΟΥ ΟΡΓΑΝΟΝ.
+I. VII. --- ΕΡΜΟΥ ΤΡΙΣΜΕΓΙΣΤΟΥ ΟΡΓΑΝΟΝ.
 Transcrit sur A, f. 293 r.
 1] Τιλοκαλίας χάριν ἐκκείσθω ἡ ὑφ ρμοῦ ὑποδειχθεῖσα
 10 μέθοδος. ρμ ς συμβουλεύει ἀριθμεῖν ἀπὸ τῆς τοῦ κυνὸς
@@ -1945,9 +1944,9 @@ Transcrit sur A, f. 293 r.
 15 α. . . ι. ιγ. ιδ. ιη. κ. κβ. κδ. κε. κη. λ. λβ.
 6. δ. Θ. ι6. ι. i κα. κγ. κ. κζ. λγ. λ.
 γ. ιε ιθ. Κ. κθ. λα. λδ.
-5. 4] Phrase écrite le long de la | rouge. — 15. Ζ.] On a remplacé ici les
-marge extérieure. (Cp. p. 22, l. 9.) — | lettres à l'encre rouge du ms. par des
-ἔχων] ἔχον A. Corr. conj. F. l. ἔχε. — | majuscules. — 16. λ] κ A. Corr.
+5. 4] Phrase écrite le long de la | rouge. --- 15. Ζ.] On a remplacé ici les
+marge extérieure. (Cp. p. 22, l. 9.) --- | lettres à l'encre rouge du ms. par des
+ἔχων] ἔχον A. Corr. conj. F. l. ἔχε. --- | majuscules. --- 16. λ] κ A. Corr.
 9. A mg., le signe d'Hermès, à l'encre | conj.
 
 
@@ -1955,9 +1954,9 @@ marge extérieure. (Cp. p. 22, l. 9.) — | lettres à l'encre rouge du ms. par 
 
 24
 INDICATIONS GENERALES
-I. VI1. — LlSΓΕ ΡLΝEAIE ΟΕS ΜΕΤΑUΧ.
-Transcrit sur A, f. 28o r. — Collationné sur E, f. 213 v. ; — sur L (copie de E),
-f 21 r. : — sur R, fol. 46v.
+I. VI1. --- LlSΓΕ ΡLΝEAIE ΟΕS ΜΕΤΑUΧ.
+Transcrit sur A, f. 28o r. --- Collationné sur E, f. 213 v. ; --- sur L (copie de E),
+f 21 r. : --- sur R, fol. 46v.
 BK MN ΜEPΙN
 1] Signe de Saturne. Mόλυβδος · λιθάργυρος · λίθοι μηλίται,
 αγάται · κλαυδιανὸς, καὶ τὰ τοιαῦτα.
@@ -1972,30 +1971,30 @@ n
 10 ] Signe de Vénus. αλκός · μαργαρίτης · ὁνυχίτης · ἀμέθυστος ·
 νάφθα · πίσσα σάκχαρ ἄσφαλτον μέλι · καὶ ἀμμωνιακόν · θυμίαμα.
 1. Titre dans EL : κ τῶν μετ. ἄπερ | Réd. du g 3 dans EL : δὲ Aρει,
-ἀνατίθενται τοῖς ἐπτὰ πλανήταις. — Dans R, | ταῦτα · σίδηρος κ. τ. λ. — μαγντης EL.
-il y a trois articles sur les plantes, les | F. l. μαγνῆτις. — 8. Ν 4-5]. Dans R, la
+ἀνατίθενται τοῖς ἐπτὰ πλανήταις. --- Dans R, | ταῦτα · σίδηρος κ. τ. λ. --- μαγντης EL.
+il y a trois articles sur les plantes, les | F. l. μαγνῆτις. --- 8. Ν 4-5]. Dans R, la
 minéraux, les animaux : Ποῖα τῶν είδῶν | ligne du Soleil et celle de Vénus sont
-ἀνήκει ἐκάστω ἀστέρι ·— ἐκ τῶν μ. ταῦτα ·— | interverties. Le signe est celui de l'or
-καὶ ἐκ τῶν ζώων ταῦτα. (M. B.). — Les | ou du soleil. — σάμφυρος en caractères
+ἀνήκει ἐκάστω ἀστέρι ·--- ἐκ τῶν μ. ταῦτα ·--- | interverties. Le signe est celui de l'or
+καὶ ἐκ τῶν ζώων ταῦτα. (M. B.). --- Les | ou du soleil. --- σάμφυρος en caractères
 mots λιθάργυρος, γαγάτης, καὶ κλαυδιανὸς | hébraiques avec μ. Le signe de Vénus
 sont transcrits, dans R, en lettres hé- | est suivi du signe du cuivre, avec une
 braiques, avec ordre inverse, comme il | variante. puis αργαρίτης en lettres hé-
-convient (M. B.). — μηλῖται, γαγᾶται | braiques, ταρδόνυξ en caractères hé-
-EL, f. mel. — 2. Réd. du 1 dans | braiques ; ἀμέθυστος, ναύθα, πίσσα, ἄσφα-
+convient (M. B.). --- μηλῖται, γαγᾶται | braiques, ταρδόνυξ en caractères hé-
+EL, f. mel. --- 2. Réd. du 1 dans | braiques ; ἀμέθυστος, ναύθα, πίσσα, ἄσφα-
 τον, ὑγράσφαλτος, μέλι, σάχαρ θυμιάμεις,
 EL : Καὶ τῶ μἐν Κρόνφ ἀνατίθενται ταῦτα ·
-μόλ. κ. τ. λ. — 4. Réd. du 2 dans | ἀμωνίακον. (M. B.). — Mème ligne. Signe
-EL : T δὲ aιὶ, ταῦτα · κασσ. κ. τ. λ. — R, | du Soleil] signe de la chrvsocolle A ; τῶ
-après le mot κασσίτερος : οὶ δὲ Πέρσαι ούχ | δὲ ἡλίω EL. — σάπφειρος EL, f. mel. Σάμ-
+μόλ. κ. τ. λ. --- 4. Réd. du 2 dans | ἀμωνίακον. (M. B.). --- Mème ligne. Signe
+EL : T δὲ aιὶ, ταῦτα · κασσ. κ. τ. λ. --- R, | du Soleil] signe de la chrvsocolle A ; τῶ
+après le mot κασσίτερος : οὶ δὲ Πέρσαι ούχ | δὲ ἡλίω EL. --- σάπφειρος EL, f. mel. Σάμ-
 οὕτως, ἀλλὰα · διάργυρος (en lettres hébra- | φυρος est une forme inconnue et dou-
 iques) βήριλος · καὶ πᾶς, etc. ; θεῖον est en | teuse ; toutefois on trouve σαμφυρόχρους
-lettres hébraiques (I. B.). — R, après | (pour σαπφειρόχρους ?) dans Léon Magis-
+lettres hébraiques (I. B.). --- R, après | (pour σαπφειρόχρους ?) dans Léon Magis-
 le mot σίδηρος · λίθος μαγνίτης (ce dernier | ter. Cp. Tesaurus d'Estienne, éd.
-mot en lettres hébraiques), ψηφηδεῖς καὶ | Didot, sub νoce. — 10. ῆ δὲ φροδίτη,
-. τ. λ. — 11. σάχαρ A.
+mot en lettres hébraiques), ψηφηδεῖς καὶ | Didot, sub νoce. --- 10. ῆ δὲ φροδίτη,
+. τ. λ. --- 11. σάχαρ A.
 ταῦτα · χαλκὸς. κ
-.). — |
-ὄσα λίθοι πυροὶ, καὶ τὰ τοιαῦτα. (M. B.). —
+.). --- |
+ὄσα λίθοι πυροὶ, καὶ τὰ τοιαῦτα. (M. B.). ---
 
 
 ### 0361
@@ -2005,9 +2004,9 @@ NOMs DES FAISEURS D'OR
 ήσύχιος · ὑδράργυρος · ἤλεκτρος · λίβανος καὶ μαστίχη.
 χ] Signe de la Lune. Ἀργυρος · ὕελος · στίμμι · ζινίχια · χάν-
 δρα · γῆ λευκὴ, καὶ τὰ ὄμοια.
-I. X. — ΝΟΜS ΟΕS 0R.
-Transcrit sur A, f. 195 v. (— A). — Collationné sur A, f. 294 r. (— A). —
-sur E, f. 213 v. ; — sur L, f. 245 r. — Rapprocner de ce orceau la liste insérée
+I. X. --- ΝΟΜS ΟΕS 0R.
+Transcrit sur A, f. 195 v. (--- A). --- Collationné sur A, f. 294 r. (--- A). ---
+sur E, f. 213 v. ; --- sur L, f. 245 r. --- Rapprocner de ce orceau la liste insérée
 dans M, f. 7 v. et traduite dans les α Origines de l'Alcnimie ν, p. 128, texte dont
 nous donnons les variantes.
 1] νωσκε, ὼ φίλε, καὶ τὰ ὁνόματα τῶν ποιητῶν. Ἀρχή.] Πλά-
@@ -2018,20 +2017,20 @@ nous donnons les variantes.
 πτου, καὶ ὁ Κομάριος ἀπ Ἀὶγύπτου, ἡ Μαρία, καὶ ἡ Κλεοπάτρα
 ἡ γυνὴ Πτολεμαίου τοῦ βασιλέως, Πορφύριος, καὶ Ἐπιβήχιος,
 Πελάγιος, Ἀγαθοδαίμων, Πράκλειος ὁ βασιλεὐς, Θεόφραστος, Ἀρ-
-1. — Réd. de EL : Τῶ δὲ Ἐρμἤ, ταῦ- | ρος κ. τ. λ. — στίμη A. Corrigé d'après
-τα · σμάραγδος,κ. τ. λ. — R : σμάραγδον · | EL. — ζηνίχια EL. — 5. Titre ajouté
+1. --- Réd. de EL : Τῶ δὲ Ἐρμἤ, ταῦ- | ρος κ. τ. λ. --- στίμη A. Corrigé d'après
+τα · σμάραγδος,κ. τ. λ. --- R : σμάραγδον · | EL. --- ζηνίχια EL. --- 5. Titre ajouté
 ασπις, en caractères hébraiques, χρυσό- | dans L : ερὶ τῶν ποιητῶν ταύτης τῆς
-λιθος, en caractères hébraiques, ἤλεκτρον, | τέχνης. — 6. γίνωσκε] μάθε A*. — Après
-λίβανον, καὶ μαστίχη, ces deux mots très | τῶν ποιητῶν] τῆς τέχνης add. E. — 7.
-abrégés, le second se réduisant à un | Après Ἐρμῆς] ὁ τρισμέγιστος add. E. —
+λιθος, en caractères hébraiques, ἤλεκτρον, | τέχνης. --- 6. γίνωσκε] μάθε A*. --- Après
+λίβανον, καὶ μαστίχη, ces deux mots très | τῶν ποιητῶν] τῆς τέχνης add. E. --- 7.
+abrégés, le second se réduisant à un | Après Ἐρμῆς] ὁ τρισμέγιστος add. E. ---
 μ, un στ et un χ superposés. (M. B.) | ἀρχιερεὐς τῆς ἐν ύαγία τ. θ. EL, f. mel. :
-— 2. R : καὶ ὑδράργυρος · οὶ δὲ Πέρσαι | τῆς ἐνευασία τ. θ. A ; τῆς ἐνεβαγία τ. θ. A.—
+--- 2. R : καὶ ὑδράργυρος · οὶ δὲ Πέρσαι | τῆς ἐνευασία τ. θ. A ; τῆς ἐνεβαγία τ. θ. A.---
 κασίτηρον. On remarquera que l'ambre | 8. Ζώσιμος ὁ μέγας (ό μ. souligné), ὁ μέγας
-est masculin dans certainsmss. et neutre | 'Ολ. E. — 10. Ἀλεξανδρείαι At. L'iota
-dans d'autres. (M. B.) ἤλεκτρον L. — | adscritsemble indiquerque le ms. origi-
+est masculin dans certainsmss. et neutre | 'Ολ. E. --- 10. Ἀλεξανδρείαι At. L'iota
+dans d'autres. (M. B.) ἤλεκτρον L. --- | adscritsemble indiquerque le ms. origi-
 Après μαστύχη (sic) : καὶ τὰ τοιαῦτα add.| nalde A était un a codex vetustissimus ν.
-E. — 3. Dans R, le signe de la Lune | — ὁ 'Oστάνης] Οστάνηςὁ EL. — ἐξAὶγύπτου
-manque, ainsi que ses dérivés (M. B.) | A. — 11. Κωμάριος EL. — 12. Iηὄίχιος
+E. --- 3. Dans R, le signe de la Lune | --- ὁ 'Oστάνης] Οστάνηςὁ EL. --- ἐξAὶγύπτου
+manque, ainsi que ses dérivés (M. B.) | A. --- 11. Κωμάριος EL. --- 12. Iηὄίχιος
 Réd. de EL : τῆ δὲ σελνη ταῦτα · ἄργυ- | M ; ἐπιβύχιος) A.
 
 
@@ -2045,7 +2044,7 @@ INDICATIONS GENÉRALES
 νέοι ἐξηγηταὶ τοῦ Πλάτωνος καὶ Ἀριστοτέλους.
 5 3] Ai δὲ χῶραι ἐν αῖς τελεῖται τὸ θεῖον ἔργον τοῦτο · Ἀὶγυπτος,
 ράκη, Ἀλεξανδρεία, Κύπρος, καὶ εὶς τὸ iερὸν τῆς Μέμφεως.
-I. X. — ΠΕΡΙ ΤΟΥ ΜΕΤΑΛΛΙΚΟΥ ΛΙΘΟΥ ΕΝ ΟΙΣ ΤΟΙΣ
+I. X. --- ΠΕΡΙ ΤΟΥ ΜΕΤΑΛΛΙΚΟΥ ΛΙΘΟΥ ΕΝ ΟΙΣ ΤΟΙΣ
 ΤΟΠΟΙΣ ΕΚΕΙΝΟΙΣ ΚΑΤΑΣΚΕΥΑΖΕΤΑΙ
 A DA
 Transcrit sur A, f. 249 r.
@@ -2061,15 +2060,15 @@ Transcrit sur A, f. 249 r.
 ἀχυρῶδες καὶ κοῦφον καὶ ἄχρηστον περὶ τοῦ ὕδατος ἔψεται · τὸ
 δὲ χρήσιμον εὶς τόπους τῶν σανίδων διὰ τὸ βάρος ὑπολέληπται.
 20 Καὶ τότε τῆ ἐψήσει περιδῶσι τὸ συναχθἐν εὶς ἄγγος κεράμου
-1. Après l1ετάσιος] βασιλευς ρμενίας | ὼ] ἐν ἡ A. Corr. conj. — 10. ἐν ὡ τὸ ψ.]
-E. — Réd. de EL : Κλαυδιανὸς, Πάνσ., | ἐνῆ τὸ ψ. A. Corr. conj. — Κλειόπολις]
-Σέργ., Mέμνων ὁ φιλόσοφος, καὶ ἄλλοι πολ- | F. l. Hρακλειόπολις. — 12. 5 2] Cp. le
-λοὶ ἀνεπίγραφοι (E add. : καὶ ἄπυστοι). — | fragment d'Agatharchide (Photius, Bi-
-2. ΠΠαύσηρις M. — 5. Après τοῦτο] εὶσὶν | bliotnèque, cod. 25ο), reproduit dans
-αὕται add. E. — 6. Θράκις A. — Après | les Geograpni minores de Didot, t. I,
-έμφεως.] Τελος add. E. — 7. . l. ἐν | p. 126. — 13. ἐσμιχθοὐς] F. l. ἀμυδροὐς
-ο ς τισι τόποις. — 8. F. l. ἐκενος. — 9. | (lanternes sourdes?). — 15. οί δὲ γυναῖκες
-Θηβαίδι] θήβα ῖδα A. Corr. conj. — ἐν | A. — ἀλήθοντες A. Corr. conj.
+1. Après l1ετάσιος] βασιλευς ρμενίας | ὼ] ἐν ἡ A. Corr. conj. --- 10. ἐν ὡ τὸ ψ.]
+E. --- Réd. de EL : Κλαυδιανὸς, Πάνσ., | ἐνῆ τὸ ψ. A. Corr. conj. --- Κλειόπολις]
+Σέργ., Mέμνων ὁ φιλόσοφος, καὶ ἄλλοι πολ- | F. l. Hρακλειόπολις. --- 12. 5 2] Cp. le
+λοὶ ἀνεπίγραφοι (E add. : καὶ ἄπυστοι). --- | fragment d'Agatharchide (Photius, Bi-
+2. ΠΠαύσηρις M. --- 5. Après τοῦτο] εὶσὶν | bliotnèque, cod. 25ο), reproduit dans
+αὕται add. E. --- 6. Θράκις A. --- Après | les Geograpni minores de Didot, t. I,
+έμφεως.] Τελος add. E. --- 7. . l. ἐν | p. 126. --- 13. ἐσμιχθοὐς] F. l. ἀμυδροὐς
+ο ς τισι τόποις. --- 8. F. l. ἐκενος. --- 9. | (lanternes sourdes?). --- 15. οί δὲ γυναῖκες
+Θηβαίδι] θήβα ῖδα A. Corr. conj. --- ἐν | A. --- ἀλήθοντες A. Corr. conj.
 
 
 ### 0363
@@ -2079,9 +2078,9 @@ LES SERMENTS
 ἐμβαλόντες καὶ μίξαντες τὸ κατὰ λόγον, τότε περιχρίουσιν τὸ
 ἄγγος, ἐψοῦσιν ἐν καμίνω ἡμερόνυκτα πέντε, ἔχον τὸ ἄγγος πόρον
 δια τὴν ἔξοδον.
-. XI. — ΟP.
-Transcrit sur M, f. 128 v. — Collationné sur A, f. 109 v. ( A); — sur A, f. 298 r.
-(π A) ; —sur E, f. 36 v. ; — sur Lb, p. 127. — Cap. 27 dans E, suite du cnap. 28
+. XI. --- ΟP.
+Transcrit sur M, f. 128 v. --- Collationné sur A, f. 109 v. ( A); --- sur A, f. 298 r.
+(π A) ; ---sur E, f. 36 v. ; --- sur Lb, p. 127. --- Cap. 27 dans E, suite du cnap. 28
 dans Lb, de la compilation du α Philosophe Cnrétien ν.
 5 1]Θμνυμί σοι, καλὲ παῖ, τὴν μακαρίαν καὶ σεβασμίαν Τριάδα
 ὼς οὐδἐν ἀπέκρυψα τῶν ἐμοὶ παρ᾽ αὐτῆς δεδομένων ἐν ταμείοις ψυ-
@@ -2096,16 +2095,16 @@ dans Lb, de la compilation du α Philosophe Cnrétien ν.
 15 Lρίαδι, πατρὶ, φημὶ, καὶ υίῶ καὶ ἀγίω πνεύματι. ριάς. .. ἡ μονὰς
 ὁ υiὸς ἀτρέπτως ἐνανθρωπήσας καυχήσει τῆς δυάδος οὶκοιωθἐν ὁνόματι
 τὴν ἄμωμον ἔπλασεν ἀνθρώπου φύσιν ὁλισθήεσσαν ἰδὼν διωρθώσατο.
-I. XII. — ΑΠΙΟΥ ΟΑΟΣΟῦΟΥ (ΟΡΚΟΣ
+I. XII. --- ΑΠΙΟΥ ΟΑΟΣΟῦΟΥ (ΟΡΚΟΣ
 Transcrit sur M, f. 184 v.
 1]ρκκ οὕν ὄμνυμί σοι τὸν μέγαν ὄρκον, ὄστις ἄν συ ἡ,
 20 θεόν φημι τὸν ἔνα, τὸν εῖδει καὶ οὐ τῶ ἀριθμῶ, τὸν ποιήσαντα
 4. Titre dans Aὲ : ὄρκος τοῦ φιλοσόφου. | οὐ πάντα ἐργασαμένοις σύγγνωθι καὶ διόρθου
-— 5. μὰ τὴν μακ. καὶ ἀγίαν καὶ σεβ. τρ. | ELb. — 13. τῶ θεῶ A ELb. — ἀκακ.]
-Aὲ, f. mel. — 6. ἐν ἐμοὶ A. — ἐν τοῖς | καλούς τε ELb. — ἐστὶ] ἐν σοὶ A . — 14. —
-ταμ. τῆς ψ. E. — 7. μυστ. τῆς ἐπιστ. placé | ρρωσο — jusqu'à la fin] om. AΥ ELb.
-avant ἐν ταμ. Lb. — 11. καὶ εῖ τι μὴ Lb. | — 15. Iριὰς jusqu'à la fin] om. A'. —
-— εῖο. ἡμῖν Lb. — οὐ πανουργ. διόρθου] καὶ | 16. οίκοιωθἐν] F. l.οῖκοθεν. — 17.όλισθεῖσαν M.
+--- 5. μὰ τὴν μακ. καὶ ἀγίαν καὶ σεβ. τρ. | ELb. --- 13. τῶ θεῶ A ELb. --- ἀκακ.]
+Aὲ, f. mel. --- 6. ἐν ἐμοὶ A. --- ἐν τοῖς | καλούς τε ELb. --- ἐστὶ] ἐν σοὶ A . --- 14. ---
+ταμ. τῆς ψ. E. --- 7. μυστ. τῆς ἐπιστ. placé | ρρωσο --- jusqu'à la fin] om. AΥ ELb.
+avant ἐν ταμ. Lb. --- 11. καὶ εῖ τι μὴ Lb. | --- 15. Iριὰς jusqu'à la fin] om. A'. ---
+--- εῖο. ἡμῖν Lb. --- οὐ πανουργ. διόρθου] καὶ | 16. οίκοιωθἐν] F. l.οῖκοθεν. --- 17.όλισθεῖσαν M.
 
 
 ### 0364
@@ -2132,18 +2131,18 @@ INDICATIONS GÉNÉRALES
 τῆς ἰώσεως τάχιον ἀναλύοντα · ἐνταῦθα τὴν νέκρωσιν ῆνίξατο,
 καὶ πλήρωσιν τοῦ παντὸς λόγου.
 20
-I. XIII. — ΙΣΙΣ ΠΡΟΦΗΤΙΣ Τῼ ΥΙῼ ΑΥΤΗΣ.
+I. XIII. --- ΙΣΙΣ ΠΡΟΦΗΤΙΣ Τῼ ΥΙῼ ΑΥΤΗΣ.
 A F
-Transcrit sur A, f. 256 r. — Collationné sur L, f. 217 r.
+Transcrit sur A, f. 256 r. --- Collationné sur L, f. 217 r.
 1] Πσις προφῆτις τῶ υίῶ ρφ. πιέναι σου μέλλοντος, ῶ τέκ-
 νον, ἐπὶ ἀπίστου Τύφωνος μάχης καταγωνίσασθαι περὶ τοῦ πατρός
-3. τὸν] τῶν M. Corr. conj. — 6. βάλλον- | il y a dans le ms. des signes difficiles
-τες]F. l. ἐμἄάλλοντες. — . ἀνεῖλαν, du verbe | à comprendre. (M. B.) — 18. ἀναλύων τὰ
-ἀνίλλω ? Lire ἀνειλον. aoriste 2 d'ἀναιρέω? | M. Corr. conj. — e propose ἀναλειοῦντα,
-— 13. F. l. (καὶ) ἐξεθέμεθα. — 16. F. l. ἐν | de ἀναλειόω ». (M. B.) — 20. A, en marge
-τῶ περὶ θ. ἀθ. λόγω, ὕδατι τῶ ἀλμ. — A la | du titre : Oρκος. — Le titre, dans A, est
+3. τὸν] τῶν M. Corr. conj. --- 6. βάλλον- | il y a dans le ms. des signes difficiles
+τες]F. l. ἐμἄάλλοντες. --- . ἀνεῖλαν, du verbe | à comprendre. (M. B.) --- 18. ἀναλύων τὰ
+ἀνίλλω ? Lire ἀνειλον. aoriste 2 d'ἀναιρέω? | M. Corr. conj. --- e propose ἀναλειοῦντα,
+--- 13. F. l. (καὶ) ἐξεθέμεθα. --- 16. F. l. ἐν | de ἀναλειόω ». (M. B.) --- 20. A, en marge
+τῶ περὶ θ. ἀθ. λόγω, ὕδατι τῶ ἀλμ. --- A la | du titre : Oρκος. --- Le titre, dans A, est
 place des motsἀλμώδει, νιτρώδει, στιμμώδει, | suivi du signe lunaire. Voir la note de la
-χαλκανθώδει, qui sont des leçons conj., | traduction (M. B.). — 21. Υὶρω] αύτῆς L.
+χαλκανθώδει, qui sont des leçons conj., | traduction (M. B.). --- 21. Υὶρω] αύτῆς L.
 
 
 ### 0365
@@ -2178,13 +2177,13 @@ r
 καὶ ἀληθῶς ποιήσηται.
 ] Λοιπὸν οὕν καὶ τὸ σημεῖον ἐπεδείκνυτο καὶ τῶν μυστηρίων
 25 ἤρχετο καὶ ἐπὶ παραγγελίας καὶ ὄρκους ἐκχωρίσας ἔλεγεν ·
-1. Deux points rouges, dans A, au- | du cuivre A. Corr. conj. — 7. βουλομένου
-dessus de ρμανουθὶ et en mg. : μυστικῆς | A. Corr. conj. — 9. ἐξεῖπεν A. Corr. conj.
-λέγει (1re main). — 3. φευρικῆς] F. l. σφαι- | — 11. Un trait rouge, dans A, au-dessus
-ρικῆς el φαρικῆς. — 4. πρωτοστερέοντι A. | de Ἀμναὴλ et, en mg. , un trait sembla-
+1. Deux points rouges, dans A, au- | du cuivre A. Corr. conj. --- 7. βουλομένου
+dessus de ρμανουθὶ et en mg. : μυστικῆς | A. Corr. conj. --- 9. ἐξεῖπεν A. Corr. conj.
+λέγει (1re main). --- 3. φευρικῆς] F. l. σφαι- | --- 11. Un trait rouge, dans A, au-dessus
+ρικῆς el φαρικῆς. --- 4. πρωτοστερέοντι A. | de Ἀμναὴλ et, en mg. , un trait sembla-
 Corr. d'après L. (Voir ci-après la 2e réd. | ble suivi de : ἐπιστήμενον εοῦ λέγει (f. l.
-dont les variantes sont désignées ici par | ἐπιστήμονα .) — 18. ἀνέμενον A. — 22.
-un astérisque). — 6. ποιήσαςsuivi du signe | ἐπιδείκνυται] F. l. ἐτιδείξηται.
+dont les variantes sont désignées ici par | ἐπιστήμονα .) --- 18. ἀνέμενον A. --- 22.
+un astérisque). --- 6. ποιήσαςsuivi du signe | ἐπιδείκνυται] F. l. ἐτιδείξηται.
 
 
 ### 0366
@@ -2217,12 +2216,12 @@ i δέ τι τῶν παρὰ φύσιν συμβαίνει γενέσθαι ῶ
 σκευαζομένου, ὶς γὰρ προεῖπον ὄτι ὁ σῖτος σῖτον γεννὰ, καὶ
 25 ἄνθρωπος ἄνθρωπον σπείρει, οὕτως καὶ ὁ χρυσὸς χρυσὸν θερίζει,
 τὸ ὄμοιον τὸ ὄμοιον. Ἐφανερώθη νῦν δὲ τὸ μυστήριον.
-4. κερκορου A sans accent ; κερκουρο- | καὶ σὶτον θερ.12. τὸν κρίθον A. — 14. ἐνόη-
-βόρου δράκοντος L. F. l. ὑλαγμάτων Κερ- | σον A. — 16. σπείρειν] γεννᾶν L. — 17. πέρας
-ὕέρου δρ. τ. φυλ. — 5. πρόθμιον ἐκεῖνον A. | A. — γεννᾶ τε A. — 18. οὐτεξεισίστασιν
-— 8. ἡ] sἰ A, 2 fois. — 9. Aχάραντον | AL. Corr. conj. — 20. αὕτη A. — 21.
+4. κερκορου A sans accent ; κερκουρο- | καὶ σὶτον θερ.12. τὸν κρίθον A. --- 14. ἐνόη-
+βόρου δράκοντος L. F. l. ὑλαγμάτων Κερ- | σον A. --- 16. σπείρειν] γεννᾶν L. --- 17. πέρας
+ὕέρου δρ. τ. φυλ. --- 5. πρόθμιον ἐκεῖνον A. | A. --- γεννᾶ τε A. --- 18. οὐτεξεισίστασιν
+--- 8. ἡ] sἰ A, 2 fois. --- 9. Aχάραντον | AL. Corr. conj. --- 20. αὕτη A. --- 21.
 est un nom propre, écrit ailleurs Ἀχαάῦ. | αὐτοῖς] I faut αύτοὐς (M. B.).
-(M. B.). — 11. F. L. ὄτι κὁ) σπείρων τ. σ. l
+(M. B.). --- 11. F. L. ὄτι κὁ) σπείρων τ. σ. l
 
 
 ### 0367
@@ -2236,7 +2235,7 @@ ISIS A HORUS
 5 θῆς σανδαράχης μέρος α, καὶ βατραχίου μέρος α'. αῦτα συμ
 μίξας τῶ μολύβδφ μὴ σκορπισθέντι ἀναχώνευσον τρίς.
 10] (f. 25 v.) MIII AΥΥ ΥAPAΚΟΥOIIΕP ΕΣΤΙAΕΥΚΣIΣ
-ΠΝΤOΝ N ΣΜQΤ. — αβὼν ὑδράργυρον τὴν διὰ χαλκοῦ γενο-
+ΠΝΤOΝ N ΣΜQΤ. --- αβὼν ὑδράργυρον τὴν διὰ χαλκοῦ γενο-
 μένην λευκὴν, καὶ λαβὼν ἐξ αὐτῆς μέρος α, καὶ τῆς μαγνησίας τῆς
 10 ἐκζευχθείσης μετὰ τῶν ὑδάτων μέρος α, καὶ τῆς φέκλης τῆς
 θεραπευθείσης μετὰ τοῦ χυμοῦ τοῦ κίτρου μέρος α, καὶ τοῦ ἀρσε-
@@ -2253,15 +2252,15 @@ ISIS A HORUS
 βαλλε αὐτῶ τοῦ τριφθέντος σιδήρου μέρος α, κατ ὸλίγον ἐπιβάλ-
 λων καὶ κινῶν, ἐως οὐ συνενωθῆ καὶ ὁ σίδηρος καὶ ὁ χαλκός.
 12] ῖτα λαβὼν ἐκ τούτου λίτραν. α, χώνευσον, ἐπιβαλὼν
-1. βουλείουA. — 4. α] Les mss, donnent | conj. — 8. καὶ λαβὼν ἐξ αὐτῆς] Addition
-ici les nombres tantot en toutes lettres, | de L. — 11. ἀρσενικοῦ AL et EL*. — 12.
-tantot en chiffres (α , β , γί, etc.). Nous | (παιδὸς (I. B.). — 13. λιθάργυρος est au
-suivons ces variations d'après notre ori- | masculin dans E*. — 16. σποδοῦ L, EL*.
-ginal. — EL écrivent tous les nombres | — ταῦτα π. λ. om. A. — ὄξος δριμύτατον
-en touteslettres. —καὶ ὁμ. μ. α. om. L. — λ. ξηρ. A — 18. ετα ἐπίβαλε] ἐπίίαλων(sic)
-6 τρίς] τρίτον A. Corrigé d'après L. —7. A. — 20. εὕθρυπτος] F. l. εὕθριπτος. — 21.
-μίξεις A. — Titre dans L : Mίξις λ. φ. ὁ λευ- θερμάλατον L. — ἐξ αὐτοῦ om. A. — 24. ἐπι.
-καίνεται πάντα τ σώματα. — λευκὸς A. Corr .... 1 a
+1. βουλείουA. --- 4. α] Les mss, donnent | conj. --- 8. καὶ λαβὼν ἐξ αὐτῆς] Addition
+ici les nombres tantot en toutes lettres, | de L. --- 11. ἀρσενικοῦ AL et EL*. --- 12.
+tantot en chiffres (α , β , γί, etc.). Nous | (παιδὸς (I. B.). --- 13. λιθάργυρος est au
+suivons ces variations d'après notre ori- | masculin dans E*. --- 16. σποδοῦ L, EL*.
+ginal. --- EL écrivent tous les nombres | --- ταῦτα π. λ. om. A. --- ὄξος δριμύτατον
+en touteslettres. ---καὶ ὁμ. μ. α. om. L. --- λ. ξηρ. A --- 18. ετα ἐπίβαλε] ἐπίίαλων(sic)
+6 τρίς] τρίτον A. Corrigé d'après L. ---7. A. --- 20. εὕθρυπτος] F. l. εὕθριπτος. --- 21.
+μίξεις A. --- Titre dans L : Mίξις λ. φ. ὁ λευ- θερμάλατον L. --- ἐξ αὐτοῦ om. A. --- 24. ἐπι.
+καίνεται πάντα τ σώματα. --- λευκὸς A. Corr .... 1 a
 βάλλων EL.
 
 
@@ -2293,28 +2292,28 @@ INDICATIONS GENERALES
 τὸ μυστήριον, τέκνον, τοῦ φαρμάκου τῆς χήρας.
 17 δὲ αὶθάλη οὕτως αῖρεται. Λαβὼν ἀρσένικον, ἐψει ἐν
 ὕδατι, καὶ βαλὼν ἐν τῶ ὶγδίφ, λείου μετὰ στάχεως σὐν ἐλαίφ
-1. γe γ] ούγγίας τρεῖς EL*. — 3. | (:), à la dernière ligne du fol. 215
-ποίησον αύτὸ] λαβών A. — . χωνευό- | v., puis commence le fol. 216 avec
-μενον A. — 6. ἡλιοκοσμίου καὶ om. A. | δακτύλους sans indiquer un commence
-F. l. χρυσοκοσμίου καὶ χρυσοκογχυλίου. — | ment d'article. — 18. καὶ λεύκαινε om.
-8. σεσαπῆ A. — 11. ἀρσενικὸῦ AL, EL*. | A. — 19. Réd. de L, EL* : 'ξ ῖσου δὲ
-— 12. ὑδράργυρον] signe de l'argent | ἔγνωσταί σοι πάντα καὶ πᾶσαι αὶ διπλ. καὶ αὶ
-dans A. — 13. A mg. : ὄρα ξάντωσις | καταβ .κ. οίκ., καὶ πάντα (καὶ πάντα τις E) εὶς
-(1re main). — τ φαρμάκω L, EL — | ἐνα νοὕν καὶ εὶς ἐν ἔργον συντείνουσι. —
-Après φαρμάκφ, E* place un signe final | 21. F. l.συντείνει. — 23. ἐν om. A.
+1. γe γ] ούγγίας τρεῖς EL*. --- 3. | (:), à la dernière ligne du fol. 215
+ποίησον αύτὸ] λαβών A. --- . χωνευό- | v., puis commence le fol. 216 avec
+μενον A. --- 6. ἡλιοκοσμίου καὶ om. A. | δακτύλους sans indiquer un commence
+F. l. χρυσοκοσμίου καὶ χρυσοκογχυλίου. --- | ment d'article. --- 18. καὶ λεύκαινε om.
+8. σεσαπῆ A. --- 11. ἀρσενικὸῦ AL, EL*. | A. --- 19. Réd. de L, EL* : 'ξ ῖσου δὲ
+--- 12. ὑδράργυρον] signe de l'argent | ἔγνωσταί σοι πάντα καὶ πᾶσαι αὶ διπλ. καὶ αὶ
+dans A. --- 13. A mg. : ὄρα ξάντωσις | καταβ .κ. οίκ., καὶ πάντα (καὶ πάντα τις E) εὶς
+(1re main). --- τ φαρμάκω L, EL --- | ἐνα νοὕν καὶ εὶς ἐν ἔργον συντείνουσι. ---
+Après φαρμάκφ, E* place un signe final | 21. F. l.συντείνει. --- 23. ἐν om. A.
 
 
 ### 0369
 
 33
-1SIS A HORLS. — 2 REDACTION
+1SIS A HORLS. --- 2 REDACTION
 ὸλίγω, καὶ βαλὼν ἐν λωπάδι καὶ φιάλη, ἐπάνω πύλης ἐπιτίθου
 ἐπ ἀνθράκων, ἔως οῦ ἔλθη ἡ αὶθάλη. Θμοίως καὶ τὴν σανδα-
 ράχην ποίει.
 vII is
 1. aι1 .
 DEUIEEEE EDACΤIOΝ
-Transcrit sur L (copie de E), f. 217 r. — Collationné sur E, f. 215 r.
+Transcrit sur L (copie de E), f. 217 r. --- Collationné sur E, f. 215 r.
 ΙΣΙΔΟΣ, ΒΑΣΙΛΙΣΣΗΣ ΑΙΓΥΠΤΟΥ ΚΑΙ ΓΥΝΑΙΚΟΣ
 5 ΟΣΙΠΙΔΟΣ, ΠΕΡΙ ΤΗΣ ΙΕΡΑΣ ΤΕΧΝΗΣ ΠΡΟΣ ΤΟΝ ΥΙΟΝ
 ΑΥΤΗΣ ΤΟΝ ΩΡΟΝ.
@@ -2337,7 +2336,7 @@ Transcrit sur L (copie de E), f. 217 r. — Collationné sur E, f. 215 r.
 20 1 η δὲ ἐξῆς ἡμέρα, ἤλθε πρὸς μὶ ὁ πρῶτος ἄγγελος καὶ προ-
 φήτης αὐτῶν καλούμενος Ἀμναήλ. (f. 221 r.) Ἐγώ δὲ πάλιν αὐτὸν
 περὶ τῆς τοῦ γουσοῦ καὶ ἀργύρου κατασκευῆς ἐπηρώτων. Ἐκεῖνος
-1. ἐπιτίθητι L, LL. — 3. Après ποίει] ελος τῆς σιδος add. .
+1. ἐπιτίθητι L, LL. --- 3. Après ποίει] ελος τῆς σιδος add. .
 
 
 ### 0370
@@ -2373,8 +2372,8 @@ dans A, 1 réd., g I, jusqu'à κύνα) · ἡ γὰρ φύσις τὴν φύ�
 καὶ ἡ φύσις τὴν φύσιν νικᾶ.
 8 Αεῖ οὕν ἐξ ἄμμων καὶ οὐκ ἐξ ἄλλων οὐσιῶν κατασκευάζειν
 τὴν ὕλην. ίὶς γὰρ προεῖπον ὄτι ὁ σῖτος τὸν σῖτον γεννᾶ καὶ ὁ
-1. f. l. αὑτοῦ nic et infra. — 2. ἐν ταῖς | μου E. — 8. μέχρις ἄν E. — 15. Ἄννουβιν
-χερσὶν αὐτοῦ E. — 5. τοῦ ἔρ. πρ. ἐμἐ] τοῦ ἔρ- | L. — 17. F. l. καὶ ἀχερόντιον ναυτίλον.
+1. f. l. αὑτοῦ nic et infra. --- 2. ἐν ταῖς | μου E. --- 8. μέχρις ἄν E. --- 15. Ἄννουβιν
+χερσὶν αὐτοῦ E. --- 5. τοῦ ἔρ. πρ. ἐμἐ] τοῦ ἔρ- | L. --- 17. F. l. καὶ ἀχερόντιον ναυτίλον.
 
 
 ### 0371
@@ -2388,10 +2387,10 @@ L'ASSEMBLÉE DES PHILOSOPHES
 5 παγἐς κατὰ τὰς μίξεις τῶν εὶδῶν · τοῦ μολύβδου χλιαροπαγοῦς
 μέρος ἔν, κ.τ.λ. (La suite comme dans A, 1Υ réd., 3 9-un, sauf
 les variantes indiquées.)
-I. XIV. — ΠΟΙΟΝ ΕΙΝΑΙ ΧΡΗ ΤΟΙΣ ΗΘΕΣΙ ΤΟΝ
+I. XIV. --- ΠΟΙΟΝ ΕΙΝΑΙ ΧΡΗ ΤΟΙΣ ΗΘΕΣΙ ΤΟΝ
 ΜΕΤΙΟΝΤΑ ΤΗΝ ΕΠΙΣΤΗΜΗΝ.
-Transcrit sur M, f. 128 r. — Collationné sur A, f. 109 v. ; — sur E, f. 36 v. ; -—
-sur Lb (copie de E), page 127. — (Cnap. 26 dans E, 28 dans Lb, de la compilation
+Transcrit sur M, f. 128 r. --- Collationné sur A, f. 109 v. ; --- sur E, f. 36 v. ; ----
+sur Lb (copie de E), page 127. --- (Cnap. 26 dans E, 28 dans Lb, de la compilation
 du Pilosopne chrétien.)
 10 ρεών εἶναι τὸν μετιόντα τὴν ἐπιστήμην πρῶτον μἐν φιλόθεον
 καὶ φιλάνθρωπον, σώφρονα, ἀφιλάργυρον, ψεῦδος ἀποστρεφόμενον,
@@ -2400,15 +2399,15 @@ du Pilosopne chrétien.)
 δος. ᾽ μὴ τοιαῦτα κάλλιστα καὶ θεάρεστα ἤθη κτησάμενος ἡ
 15 κτήσασθαι σπουδάσας, ἐαυτὸν ἀπατήσει, τοῖς ἀνεφίκτοις ἐπιπηδῶν,
 καὶ βλαβήσεται μᾶλλον.
-I. XV. — ΠΕΡΙ ΣΥΝAΕΣ ΤΝΝ ΟΟΣΟῦΩΝ.
-Transcrit sur A, f. 233 r. — Toutes les νariantes indiquées dans les notes sont
+I. XV. --- ΠΕΡΙ ΣΥΝAΕΣ ΤΝΝ ΟΟΣΟῦΩΝ.
+Transcrit sur A, f. 233 r. --- Toutes les νariantes indiquées dans les notes sont
 remplacées dans le tete par des corrections conjecturales.
 1] Πρὸς ἀλλήλους οὶ φιλόσοφοι ἀπέστειλαν ἔ νεκα τοῦ γενέσ-
 θαι μίαν συναγωγὴν, ἐπειδὴ στάσις καὶ ταραχὴ πολλὴ περιέπεσεν
-3. L mg. : Democritus, pag. 1 (1r | Lb. — 14. ὁ δὲ μὴ E Lb. — κτισάμενος et
-main). — . χριαροπαγἐς L. — 5. κατὰ et | κτήσασθαι M. — 15. σπουδάσοιεν M. — ἀπατή-
-τὰς ajoutés en surcharge par le copiste | σοι M. — ἐπιπηδῶν] ἐπιχειρῶν AE Lb. — 18.
-de L. — 12. Après φθόνον] ἐπειταδἐκαὶ πιστὸν | ἔ (νεκα] ἡ A. — 19. στάσις] ἕστησις A.
+3. L mg. : Democritus, pag. 1 (1r | Lb. --- 14. ὁ δὲ μὴ E Lb. --- κτισάμενος et
+main). --- . χριαροπαγἐς L. --- 5. κατὰ et | κτήσασθαι M. --- 15. σπουδάσοιεν M. --- ἀπατή-
+τὰς ajoutés en surcharge par le copiste | σοι M. --- ἐπιπηδῶν] ἐπιχειρῶν AE Lb. --- 18.
+de L. --- 12. Après φθόνον] ἐπειταδἐκαὶ πιστὸν | ἔ (νεκα] ἡ A. --- 19. στάσις] ἕστησις A.
 
 
 ### 0372
@@ -2434,19 +2433,19 @@ o) Καὶ οὐδἐν ἐξάξει εὶς ἔξοδον εὶς ν δηνά�
 5c
 λάμβανε τὸ ἔ- (f. 2υὸ v.) λαιον τὸ ἐπάνω τοῦ λίθου, καὶ ὁ λίθος μένει
 κρύσταλλος · καὶ λαβὼντὸ αὐτὸ ὄξος, αὐτό ἐστιν τὸ ὄξος τῶν φιλοσόφων.
-I. XVI. — ΠΕΡΙ ΠΟΙΗΣΕΟΣ ΑΣΗΜΟΥ.
-Transcrit sur M, f. 106 r. — Collationné sur B, f. 159 v.; — sur A. f. 146 r. ; —
-sur K, f. 32 v. — La rédaction de M, lorsqu'elle differe de celle de BAK, a été con-
+I. XVI. --- ΠΕΡΙ ΠΟΙΗΣΕΟΣ ΑΣΗΜΟΥ.
+Transcrit sur M, f. 106 r. --- Collationné sur B, f. 159 v.; --- sur A. f. 146 r. ; ---
+sur K, f. 32 v. --- La rédaction de M, lorsqu'elle differe de celle de BAK, a été con-
 signée en marge de Κ, d'une ecriture élégante, contemporaine de celle du texte,
 ici et dans plusieurs autres morceau.
-20 1] Περὶ ποήσεως ἀσήμου. — Αεῖ λαβεῖν μόλυβδον γυτὸν ἐκ
-1. αύτοὐς] ἐαυτος A. — 2. αρα A. — | χευτικὸν. — 20. Cp. ci-après Démocrite,
-4. ἐαυτοῖς A. — τρανὸς A. — ἀποκρινο- | Pnγsica et stica (I. 1, 20). — ἀσή-
-μένων A. — 5. λέγων A. — 10. ἐργος A. — | μου] Le signe, ici et dans tout le mor-
-11. ἐξάζει A. — 12. τὸ] F. l. τοῦτο. — 13. | ceau, est celui de l'argent. D'après le
+20 1] Περὶ ποήσεως ἀσήμου. --- Αεῖ λαβεῖν μόλυβδον γυτὸν ἐκ
+1. αύτοὐς] ἐαυτος A. --- 2. αρα A. --- | χευτικὸν. --- 20. Cp. ci-après Démocrite,
+4. ἐαυτοῖς A. --- τρανὸς A. --- ἀποκρινο- | Pnγsica et stica (I. 1, 20). --- ἀσή-
+μένων A. --- 5. λέγων A. --- 10. ἐργος A. --- | μου] Le signe, ici et dans tout le mor-
+11. ἐξάζει A. --- 12. τὸ] F. l. τοῦτο. --- 13. | ceau, est celui de l'argent. D'après le
 Le ms. ponctue : αὶ λ. ὁ φιλόσοφος. | titre, ou ἀσμου est en toutes lettres, il
-οὕτως λαβύν. . . — τῶν κρόκων A. — 14. | signifie σημον (ou ἄσημος). — Voir Nota-
-καὶ θἐς] F. l. κάταθες. — 16. F. l. τὸ ταρι- | tions alcnimiques, pl. VII, l. 10. (M. B.).
+οὕτως λαβύν. . . --- τῶν κρόκων A. --- 14. | signifie σημον (ou ἄσημος). --- Voir Nota-
+καὶ θἐς] F. l. κάταθες. --- 16. F. l. τὸ ταρι- | tions alcnimiques, pl. VII, l. 10. (M. B.).
 
 
 ### 0373
@@ -2459,34 +2458,34 @@ FABRICATION DU CINABRE
 εὶς τὴν χώνην ὕελον κλεοπατρινὸν, καὶ ἔξεις ἄσημον καθαρόν. Ο
 5 γὰρ χυτὸς μόλυβδος πολὐν ἄσημον ἐκβάλλει. Ἡ δὲ χώνη αὐτοῦ
 μέσοις φωσὶ πυρούτω, καὶ μὴ σφοδροῖς.
-) Περὶ ποιήσεως ἀσήμου. — Λαβὼν κασσίτερον, χώνευσον καὶ
+) Περὶ ποιήσεως ἀσήμου. --- Λαβὼν κασσίτερον, χώνευσον καὶ
 μετὰ πέντε χωνείας ἐπίβαλλε εὶς τὸ πρόσωπον αὐτοῦ εὶς τὴν χώνην
 ἄσφαλτον · καὶ ὁσάκις ἀποχύσεις αὐτὸ, εὶς άλας αὐτὸ κένωσον κοινὸν,
 10 ἐως ἄν γένηται ἄσημος τέλειος καὶ πολύς. Ἐὶ δὲ βούλει εὶς ἔργον
 ἐκκλησίας ποιῆσαι ἐξ αὐτοῦ ἀφ ού χωνεύσεις, καὶ γένηται σκλη-
 ρὸν, ποίησον.
-0] Περὶ ποιήσεως ἀσήμου. — Ἀπὸ κοινοῦ μολύβδου καθαροῦ εὶς
+0] Περὶ ποιήσεως ἀσήμου. --- Ἀπὸ κοινοῦ μολύβδου καθαροῦ εὶς
 τὴν ἀνωτέραν στήλην γέγραπται. εῖ γινώσκειν ὄτι ἐκβάλλει ὁ
 15 κοινὸς μόλυβδος εὶς τὰς ἐκατὸν λίτρας τοῦ μολύβδου, ἀσήμου
 λίτοας δέκα
 I. XVII. FΑBlΟΑΓΙΟΝ D ClΝARE.
 1
-Transcrit sur M, f. 106 r. — Collationné sur B, f. 160 r. — sur A, f. 146 v.
-(T A)— sur A, f. 251 r. ( A.
-1] Περὶ ποιήσεως κινναβάρεως. — Aεῖ ἐμβαλεῖν εὶς θυείαν θείου
+Transcrit sur M, f. 106 r. --- Collationné sur B, f. 160 r. --- sur A, f. 146 v.
+(T A)--- sur A, f. 251 r. ( A.
+1] Περὶ ποιήσεως κινναβάρεως. --- Aεῖ ἐμβαλεῖν εὶς θυείαν θείου
 ἀπύρου λίτραν α, καὶ ὑδραργύρου λίτρας β · καὶ τρίψας ἀμφότερα
 20 εὶς τὴν θυείαν ἡμέραν μίαν · καὶ ἔμβαλε αὐτὰ εὶς βίκον ὑέλινον ·
-1. χυτὸς et, l. précéd., χυτὸν] a Le | tout le contenu de ces mss. — 5.
-signe, ici et dans tout le morceau, | αὐτοῦ] F. l. αύτὴ. — 6. πυροῦται BAK.
-est celui de l'eau. — ύδωρ μολύβδου figure | — 11. καὶ] F. l. ὡς, pour ἐως. (Sigles
+1. χυτὸς et, l. précéd., χυτὸν] a Le | tout le contenu de ces mss. --- 5.
+signe, ici et dans tout le morceau, | αὐτοῦ] F. l. αύτὴ. --- 6. πυροῦται BAK.
+est celui de l'eau. --- ύδωρ μολύβδου figure | --- 11. καὶ] F. l. ὡς, pour ἐως. (Sigles
 dans les signes (Not. alcn., pl. V, l. | presque semblables pour καὶ et pour
-15) à côté de κρόκος αὐτόρρυτος. » (M. .) | ὼς dans les mss. du XIIe siècle). — 13.
-Cp. Mόλυβδος θαλάσσης (en toutes lettres) | πὸ κοινοῦ μολ. — γέγραπται] Réd. de
+15) à côté de κρόκος αὐτόρρυτος. » (M. .) | ὼς dans les mss. du XIIe siècle). --- 13.
+Cp. Mόλυβδος θαλάσσης (en toutes lettres) | πὸ κοινοῦ μολ. --- γέγραπται] Réd. de
 BAK : λαβὼν κοινὸν μόλυβδον καθαρὸν αύτὸν
 σκληρός ἐστι βυπαρός. (ms. B, f. 177 r..
-ligne 7.) (C. E. .). — 3. τὸν ἄσημον] | ὼς ἐν τῆ ἀνωτέρω στλη γέγραπται. — 18.
-τὸν, signe de l'argent, puis ξηρίον BAK. | θυίαν mss. partout. — 20. ἡμέραν] ἐπὶ
-— 4. ὕαλον BAK, ici et presque dans | ἡμέραν BAK, f. mel.
+ligne 7.) (C. E. .). --- 3. τὸν ἄσημον] | ὼς ἐν τῆ ἀνωτέρω στλη γέγραπται. --- 18.
+τὸν, signe de l'argent, puis ξηρίον BAK. | θυίαν mss. partout. --- 20. ἡμέραν] ἐπὶ
+--- 4. ὕαλον BAK, ici et presque dans | ἡμέραν BAK, f. mel.
 
 
 ### 0374
@@ -2499,33 +2498,33 @@ INDICATIONS GENERALES
 ποιηθέντα σιδηροειδῆ. Τοῦτο λείωσον εὶς χρυσὸν μετὰ ὕδατος πολ-
 5 λάκις · ὅσον γὰρ λειώσεις αὐτὰ, τοσοῦτον ξανθὰ γίνονται. Τὸ γὰρ
 θεῖον ἄπυρον τὰ φευκτὰ ἄφευκτα ποιεῖ.
-2] Περὶ κινναβάρεως. — Aεῖ γινώσκειν ὅτι ἡ ἀνάκαμψις τῆς
+2] Περὶ κινναβάρεως. --- Aεῖ γινώσκειν ὅτι ἡ ἀνάκαμψις τῆς
 κινναβάρεως διὰ νιτρελαίου γίνεται, καὶ οὕτως χωνεύεται μετὰ πυρᾶς
 λεπτῆς, ώς ἐπινοεῖς.
-10 | Ἄλλως περὶ κινναβάρεως. — Αεῖ γινώσκειν ὄτι ἡ μαγνησία
+10 | Ἄλλως περὶ κινναβάρεως. --- Αεῖ γινώσκειν ὄτι ἡ μαγνησία
 ἡ ὑελουργικὴ ταύτη ἐστὶν ἡ τῆς Ἀσίας, δι ᾽ ἡς ὁ ὕελος τὰς βαφὰς
 δέχεται, καὶ ὁ ἰνδικὸς σίδηρος γίνεται, καὶ τὰ θαυμάσια ξίφη.
 Après ξίφη, B continue aνec un morceau intitulé καταβαφὴ λίθου f. 160 v. ; A et K,
-comme M, aνec le morceau qui suit ; Aἐ, aνec le liνre de Soplé. — II. xL1).
+comme M, aνec le morceau qui suit ; Aἐ, aνec le liνre de Soplé. --- II. xL1).
 A
-I. XVIII. — κα ΠΠΠ.
+I. XVIII. --- κα ΠΠΠ.
 A
-Transcrit sur M, f. 185 r. — Collationné sur K, f. 93 v. (K dériνe ici, directement de M.)
+Transcrit sur M, f. 185 r. --- Collationné sur K, f. 93 v. (K dériνe ici, directement de M.)
 αλκοῦ καλαὶνοῦ γ α, ἀρσενίκου, θείου ἀπύρου γὌ α, καὶ
 15 θείου ἀθίκτου γ α, σανδαράχης γ α. Λείωσον ῥαφανίνφ ἐλαίφ,
-1. φιμώσας] φ ἤ μοσαι BA; φημοσαι K. | Corr. conj. — Aξ mg. : λέγ. τὸ ἀτζάλη
-— ἔχον τὸ π.] ἔχοντος πάχος BA. — 2. ὡσεὶ | (écriture du temps). — 14. καλαίνου
-δακτύλους BAK, f. mel. — αύτοματάριν M. | sans accent M. — 15. Après γe α', les
-— Réd. de BAK : καὶ ἐμβαλεῖν αύτὸν είς αὐ- | mss. donnent un cercle coupé par deux
-τόματον πῦρ ἐπὶ ῶ. — Réd. de M en mg. de | lignes parallèles ascendantes, signe qui
-K. — 3. καὶ om. BAΚ. — εύρηθήσεται γὰρ | ne figure pas dans les tableaux de sé-
-αύτὰ BAK. — 4. Τοῦτο λείωσον] τοῦτο, signe | méiographie chimique. C'est probable-
+1. φιμώσας] φ ἤ μοσαι BA; φημοσαι K. | Corr. conj. --- Aξ mg. : λέγ. τὸ ἀτζάλη
+--- ἔχον τὸ π.] ἔχοντος πάχος BA. --- 2. ὡσεὶ | (écriture du temps). --- 14. καλαίνου
+δακτύλους BAK, f. mel. --- αύτοματάριν M. | sans accent M. --- 15. Après γe α', les
+--- Réd. de BAK : καὶ ἐμβαλεῖν αύτὸν είς αὐ- | mss. donnent un cercle coupé par deux
+τόματον πῦρ ἐπὶ ῶ. --- Réd. de M en mg. de | lignes parallèles ascendantes, signe qui
+K. --- 3. καὶ om. BAΚ. --- εύρηθήσεται γὰρ | ne figure pas dans les tableaux de sé-
+αύτὰ BAK. --- 4. Τοῦτο λείωσον] τοῦτο, signe | méiographie chimique. C'est probable-
 de λείωσον ou τρίψον M; τοῦτο δεῖ τρίψαι | ment un signe fautif. (C. E. R.). A
-BAK. — 5. ὄσον γὰρ τρίβεις BAK. — | moins qu'on ne traduise ce signe par
-7. ἡ κοινὴ κάμψις Aἐ. — 10. μαγνησία | σηπτῆς a décomposée ν. La sandaraque
-ὑελ. A. — 11. ταύτη ἐστὶν ἡ τῆς σίας] | décomposée figure dans plusieurs recet-
+BAK. --- 5. ὄσον γὰρ τρίβεις BAK. --- | moins qu'on ne traduise ce signe par
+7. ἡ κοινὴ κάμψις Aἐ. --- 10. μαγνησία | σηπτῆς a décomposée ν. La sandaraque
+ὑελ. A. --- 11. ταύτη ἐστὶν ἡ τῆς σίας] | décomposée figure dans plusieurs recet-
 τοιαύτη ἐ. οῖα ἡ τ. Ἀσ. BAK, f. mel. ; | tes, et le signe de σῆψον est presque le
-αὕτη ἐ. ἡ τ. Aσ. Al. — 12. ἰνδικὸς] | meme. (M
+αὕτη ἐ. ἡ τ. Aσ. Al. --- 12. ἰνδικὸς] | meme. (M
 ἐνδανικὸς M; ἰνδανὸς BAK; ίνδανικὸς A.
 
 
@@ -2538,7 +2537,7 @@ LABVRINTHE DE SALOMON
 μέρος ἐν, χρυσοῦ μέρη γ χώνευσον ὁξύνων τὴν χώνην, καὶ
 εὑρήσεις τὸ πᾶν χρυσὸν σὐν Θεῶ.
 A
-I. XX. — ΕΕΝ1ΟΥ (Π
+I. XX. --- ΕΕΝ1ΟΥ (Π
 Placé ὰ la suite du morceau précédent, dans M et dans K.
 αλκοῦ κεκαυμένου μέρη τρία χρυσοῦ μέρος α. ώνευσον
 καὶ ἐπίβαλε ἀρσένικον · καῦσον, καὶ εὑρήσεις θρυπτόν. Ἐἶτα
@@ -2546,7 +2545,7 @@ Placé ὰ la suite du morceau précédent, dans M et dans K.
 ρον · καὶ γελάσαν τι () ἔκβαλε ἐκ τούτου τοῦ συνθέματος, καὶ
 10 εὐρήσεις τὸν ἄργυρον ώς ἤλεκτρον. Τοῦτο ῖσω σύμμιξον χρυσὸν,
 καὶ ἔξεις ὄβρυζον καλόν.
-I. X. — ΑBΥΡΙΝΟΟΣ ΗΝΙΕΡ ΣΟΑΟΜΝ ΕΤΕΤΤΝΑΤΟ.
+I. X. --- ΑBΥΡΙΝΟΟΣ ΗΝΙΕΡ ΣΟΑΟΜΝ ΕΤΕΤΤΝΑΤΟ.
 Transcrit sur M, f. 102 v. (main du ΚIVe οu XVe siècle).
 15
 20
@@ -2561,8 +2560,8 @@ Transcrit sur M, f. 102 v. (main du ΚIVe οu XVe siècle).
 σ
 1. ἀκμάδιον] ἀκμα MK. Corr. conj. (C. | σαν τι (une partie écumeuse). On con-
 E. R.). Aκμάδιον, vase conique pour le | nait ἀπογραῖζω, écumer, qui suppose
-grillage, décrit ensuite. (M. B.). — 8. | γραὶζω. — 11. εὕρυζον mss. Corr. conj.
-ἐν τῶ ἡλίω K. — 9. γελάσαν τι] F. l. γραὶ-
+grillage, décrit ensuite. (M. B.). --- 8. | γραὶζω. --- 11. εὕρυζον mss. Corr. conj.
+ἐν τῶ ἡλίω K. --- 9. γελάσαν τι] F. l. γραὶ-
 
 
 ### 0376
@@ -2594,11 +2593,11 @@ INDICATIONS GNÉRALES
 DEUΧΙΕME PRTIE
 TRAITES DEMOCRITAΙΝS
 V
-II. 1. — ΑΜΟΚΡΙΤΟΥ ΟΥΣΙΚA AΠ
-Transcrit sur M, f. 66 v. — Collationné sur B, f. 8 v. ; — sur C (copie de B),
-f. 7 v. ; — sur A (copie de C ?), f. 24 v. ; — sur D (copie de C ), f. 1 ; — sur S
-(copie de A ?), f. 1. — Cp. Berthelot, origines de l'Alchimie, p. 359, ou les 11et 2
-ont été publiés aνec traduction franςise et annotation critique. — Les νariantes
+II. 1. --- ΑΜΟΚΡΙΤΟΥ ΟΥΣΙΚA AΠ
+Transcrit sur M, f. 66 v. --- Collationné sur B, f. 8 v. ; --- sur C (copie de B),
+f. 7 v. ; --- sur A (copie de C ?), f. 24 v. ; --- sur D (copie de C ), f. 1 ; --- sur S
+(copie de A ?), f. 1. --- Cp. Berthelot, origines de l'Alchimie, p. 359, ou les 11et 2
+ont été publiés aνec traduction franςise et annotation critique. --- Les νariantes
 de C A D S ne sont pas indiquées lorsqu elles sont identiques aνec celles de B.
 1] Bαλὼν εὶς λίτραν μίαν πορφύρας διοβόλου λίτραν σκωρίας σιδή-
 ρου εὶς οὕρου δραχμὰς , ἐπίθες ἐπὶ πυρᾶς ῶστε λαβεῖν βράσματα
@@ -2611,13 +2610,13 @@ de C A D S ne sont pas indiquées lorsqu elles sont identiques aνec celles de B
 9 πυθμένος, καὶ ἔασον νυνθήμερα δύο. Ἐτα λαβών μετὰ ταῦτα, ξήρανον
 ἐν σκιὰ · τὸν δὲ ζωμὸν ἐγχέης. Ἐῖτα βαλών εὶς τὸν αὐτὸν ζωμὸν βρύων
 λίτρας δύο, βάλε ἐν τῶ ζωμῶ ὕδωρ ώς γενέσθαι τὴν ἀναλογίαν τὴν
-2. Bαλν] ἐλὼν D. — διοβολοῦ M. — | conj. — 11. ζωμὸν μὴ ἐγχέεις M ; ζωμὸν
-3. δραχμὰς ζ ] signe de δραχμάς et ζ M ; | ἐκχέον B. F. l. ζωμὸν μοι ἐγχές. — βαλν
+2. Bαλν] ἐλὼν D. --- διοβολοῦ M. --- | conj. --- 11. ζωμὸν μὴ ἐγχέεις M ; ζωμὸν
+3. δραχμὰς ζ ] signe de δραχμάς et ζ M ; | ἐκχέον B. F. l. ζωμὸν μοι ἐγχές. --- βαλν
 signe de δρ. et β A (probablement le | εὶς τὸν αὐτὸν ζωμὸν] λαβὼν τὸν αὐτὸν ζωμὸν
-signe de ζ de M ou d'un autre ms. du | A, f. mel. — βρύων] καὶ βαλὼν B. —
-X-XIe siècle, écrit 3 et lu l par le co- 12. βάλε] καὶ βάλε A. — ς] ῶστε B, f.
-piste de A ou de son original. — ὼς] | mel. — τὴν πρώτην ἀναλογίαν B, f. mel.
-στε A, f. mel. — . χαυνοτέοα mes rr 1
+signe de ζ de M ou d'un autre ms. du | A, f. mel. --- βρύων] καὶ βαλὼν B. ---
+X-XIe siècle, écrit 3 et lu l par le co- 12. βάλε] καὶ βάλε A. --- ς] ῶστε B, f.
+piste de A ou de son original. --- ὼς] | mel. --- τὴν πρώτην ἀναλογίαν B, f. mel.
+στε A, f. mel. --- . χαυνοτέοα mes rr 1
 
 
 ### 0378
@@ -2651,16 +2650,16 @@ TRAITES DEMOCRITAINS
 25 ἐξ Ἄδου φησὶν τοῦτον φέρειν ἐπειρώμην · ὼς δὲ εὶς τοῦτο ῶρμησα,
 εὐθὐς παρεκάλεσα λέγων · παρέχεις δωρέας ἐμοὶ, ἀνθ ῶν ἀπείργασ-
 μαι εὶς σέ » ; Καὶ τοῦτο εὶπών, ἐσιώπα · ὼς δὲ πολλὰ παρεκάλουν,
-2. ποιήσ] ποιησάτω B. — 3. εἶτα] ἔπειτα | bablement pour ζώου (M. B.) — 13.
-B. — 6. εἶτα πάλιν] μετὰ ταῦτα B. — 7. καὶ | προτετίμηνται B. — 20. ἰσάτιδος B. — 25.
-μετὰ ταῦτα] ἐπειτα B. — 8. ἐναποβεβρεγμένοις | ὡς δὲ] καὶ ὡς B. — τοῦτο] F. l. τοῦτον. —
-B. — 9. τὰ ἀπερχόμενα M. — τάδε] ταῦτα | 26. παρεκάλεσε B.
-B. — 11. λαδικὴν M. — 12. ἐρώου est pro-
+2. ποιήσ] ποιησάτω B. --- 3. εἶτα] ἔπειτα | bablement pour ζώου (M. B.) --- 13.
+B. --- 6. εἶτα πάλιν] μετὰ ταῦτα B. --- 7. καὶ | προτετίμηνται B. --- 20. ἰσάτιδος B. --- 25.
+μετὰ ταῦτα] ἐπειτα B. --- 8. ἐναποβεβρεγμένοις | ὡς δὲ] καὶ ὡς B. --- τοῦτο] F. l. τοῦτον. ---
+B. --- 9. τὰ ἀπερχόμενα M. --- τάδε] ταῦτα | 26. παρεκάλεσε B.
+B. --- 11. λαδικὴν M. --- 12. ἐρώου est pro-
 
 
 ### 0379
 
-DEMOCRITE. — PHVSICA ET MVSTICA
+DEMOCRITE. --- PHVSICA ET MVSTICA
 . 43
 ἡρώτων ὅπως ἀρμόσω τὰς φύσεις, ἔφησέ μοι δύσκολον λέγειν, οὐκ
 ἐπιτρέποντος αὐτῶ τοῦ δαίμονος μόνον δὲ εἶπεν · « αί βίβλοι ἐν
@@ -2688,13 +2687,13 @@ DEMOCRITE. — PHVSICA ET MVSTICA
 καταφρονήσητε ν.
 25 4] Λαβὼν ὑδράργυρον, πῆξον τῶ τῆς μαγνησίας σώματι ἡ τῶ
 τοῦ ἰταλικοῦ στίμεως σώματι, ἡ θείω ἀπύρω, ἡ ἀφροσελήν, ἡ
-1. τὸ πῶς M. — δύσκολον ἔχω λέγειν B. j 15. Après διαρργνυται] Rédaction de B:
-— 4. τῶ βιβλίω add. A ; τῶ βί B. — 5. | καὶ ἐγκύψ. ἐνδον, ὁρῶμεν ἐν αὐτῆ τὰς πατρ.
-τοῦτο] ταῦτα B. — 8. μόνον] μόνω B. — | ίβλ., καὶ προκομίσαντες είς μ. ἐθαυμαζ. ὄτ.
-φωνήσασθαι C A, lecture fautive de B, | μηδἐν παραλείψαντες κ. τ. λ. — 20. φύσις]
-ou le second α ressemble en effet à un | φῦσις M, ici et presque partout. — 23.
-ω. — 9. οὐδεὶς οὐδόλως ἐξ ἡμῶν ἡπ. B. — | περιεργασίας A. — ού om. B. — 25. En
-14. στήλη τις ἡν κίωνι B. F. l... κιόνιον. — | marge des mss., le signe de χρυσοποιία.
+1. τὸ πῶς M. --- δύσκολον ἔχω λέγειν B. j 15. Après διαρργνυται] Rédaction de B:
+--- 4. τῶ βιβλίω add. A ; τῶ βί B. --- 5. | καὶ ἐγκύψ. ἐνδον, ὁρῶμεν ἐν αὐτῆ τὰς πατρ.
+τοῦτο] ταῦτα B. --- 8. μόνον] μόνω B. --- | ίβλ., καὶ προκομίσαντες είς μ. ἐθαυμαζ. ὄτ.
+φωνήσασθαι C A, lecture fautive de B, | μηδἐν παραλείψαντες κ. τ. λ. --- 20. φύσις]
+ou le second α ressemble en effet à un | φῦσις M, ici et presque partout. --- 23.
+ω. --- 9. οὐδεὶς οὐδόλως ἐξ ἡμῶν ἡπ. B. --- | περιεργασίας A. --- ού om. B. --- 25. En
+14. στήλη τις ἡν κίωνι B. F. l... κιόνιον. --- | marge des mss., le signe de χρυσοποιία.
 
 
 ### 0380
@@ -2727,19 +2726,19 @@ TRAITÉS DEMOCRITAINS
 ἐκσηπτωθείσης θείω, ἡ ἀρσενίκω, ἡ σανδαράχn, ἡ τιτάνω, ἡ ώς
 25 ἐπινοεῖς. Καὶ ἐὰν ἐπιβάλλης ἀργύρω, ποιεῖς χρυσόν · ἐὰν δἐ χρυσῶ,
 ποιεῖς χρυσοκογχύλιον · ἡ γὰρ φύσις τὴν φύσιν νικῶσα κρατεῖ.
-2. ἐπίβαλε B partout. — 3. A : signe | 11. λιθαργύρω M. — 13. βάψει mss. Corr.
-de la lune pour l'argent ; B : signe de | conj. — 14. Avant πυρίτην] ἐνταῦθα νόει
+2. ἐπίβαλε B partout. --- 3. A : signe | 11. λιθαργύρω M. --- 13. βάψει mss. Corr.
+de la lune pour l'argent ; B : signe de | conj. --- 14. Avant πυρίτην] ἐνταῦθα νόει
 la lune avec une adjonction qui semble | add. B (note marginale insérée dans le
-indiquer l'électrum (chrysélectrum).(M. | texte). — M mg. ωῖ νο (ῶδε νόει). — 16.
-B.). — 9. διανιθεως (sic) M ; δια νυ B. | Après ἐπινοεῖς] καὶ ὄπτησον add. B. — 21.
+indiquer l'électrum (chrysélectrum).(M. | texte). --- M mg. ωῖ νο (ῶδε νόει). --- 16.
+B.). --- 9. διανιθεως (sic) M ; δια νυ B. | Après ἐπινοεῖς] καὶ ὄπτησον add. B. --- 21.
 « νύθου, grise ; épithète de la litharge » | MBA mg. : περὶ ξανθῆς χρυσοποιίας (1re
-(M. B.). — 10. Après ἤ] ἐν add. B. — | main). — 24. ἐξιπωθείσης M. — τετάνω M.
+(M. B.). --- 10. Après ἤ] ἐν add. B. --- | main). --- 24. ἐξιπωθείσης M. --- τετάνω M.
 
 
 ### 0381
 
 45
-DEMOCRITE. — PHVSICA ET MVSTICA
+DEMOCRITE. --- PHVSICA ET MVSTICA
 8] Τὴν κιννάβαριν λευκὴν ποίει δι ἐλαίου, ἡ ὄξους, ἤ μέλιτος,
 ἡ ἄλμης, ἡ στυπτηρίας, εἶτα ξανθὴν διὰ μίσυος, ἡ σώρεως, ἡ
 χαλκάνθου, ἡ θείφ ἀπύρω, ἡ ὡς ἐπινοεῖς . Καὶ ἐπίβαλλε ἀργύρω,
@@ -2766,13 +2765,13 @@ DEMOCRITE. — PHVSICA ET MVSTICA
 χαλκοῦ ἄνθος ἡ ἰὸν ξυστὸν, οὶκονομηθέντα λέγω, ἡ χαλκὸν κεκαυμένον
 25 λίαν φθαρέντα, ἡ χαλκίτην · καὶ κυανὸν ἐπίβαλλε, ἔως γένηται
 ἄρρευστος καὶ ἄτρητος εὐχερῶς δὲ γενήσεται. Ποῦτό ἐστιν τὸ μολυβ-
-3. χαλκάνθης B. — M mg. (main du | ὕδατι om. B. — 19. λευκὸν. . . τὸν M. — Au-
-XV.XVe siècle) : στυπτηρία ἐστὶν αὶθὴρ καὶ | dessus de λευκὸν, le signe de l'or M. —
-ὑράργυροςκαὶχαλκὸς ἀσκίαστος. — θείου ἀπὸ- | 20. λευκάνης om. B. — 21. On propose
-ρου B, f. mel. — 6. BCau-dessus de καδ- | τεθρυμμέν (M. B.). — 26. Au-dessus de
-μίαν : τουτίαν. — ἐξωσμένην] F. l. ἐξυσμένην, | μολυβδόχαλκον, les signes du soufre et du
-affinée ? (M. B.). — 8. ὼῶν λεκίθοις gratté | mercure M. — A mg. : une main,
-M., ώῶν λεκύνθοις B. — 15. ξανθωθῆ B. — | d'une écriture postérieure.
+3. χαλκάνθης B. --- M mg. (main du | ὕδατι om. B. --- 19. λευκὸν. . . τὸν M. --- Au-
+XV.XVe siècle) : στυπτηρία ἐστὶν αὶθὴρ καὶ | dessus de λευκὸν, le signe de l'or M. ---
+ὑράργυροςκαὶχαλκὸς ἀσκίαστος. --- θείου ἀπὸ- | 20. λευκάνης om. B. --- 21. On propose
+ρου B, f. mel. --- 6. BCau-dessus de καδ- | τεθρυμμέν (M. B.). --- 26. Au-dessus de
+μίαν : τουτίαν. --- ἐξωσμένην] F. l. ἐξυσμένην, | μολυβδόχαλκον, les signes du soufre et du
+affinée ? (M. B.). --- 8. ὼῶν λεκίθοις gratté | mercure M. --- A mg. : une main,
+M., ώῶν λεκύνθοις B. --- 15. ξανθωθῆ B. --- | d'une écriture postérieure.
 
 
 ### 0382
@@ -2804,20 +2803,20 @@ TRAIEs DÉMOCRITAINS.,
 μεταβολαῖς νικῶσαι τὰς φύσεις, ώ φύσεις ὑπèρ φύσιν τέρπουσαι τὰς
 φύσεις. αῦτα δὴ οὕν εὶσι τὰ μεγάλην ἔχοντα τὴν φύσιν · τούτων
 1. M mg.: Le signe du cuivre, à | puis sur une ligne verticale, en lettres
-l'encre rouge. — γοῦν B. — 2. C A | retournées : καλόν. ἐν — τῶ μίσυ mss.
-mg. : Les signes du soufre et du mer- | — 11. M mg. : περὶ τῆς καταμἶ (καταμιγῆς).
-cure, suivis d'un χ coupé par un ρ | — 13. ἡ ὡς ἐπινοεῖς B. — 15. M mg. : ὶὸς.
-(scil. χρήσιμον ?). — 5. χαλκὸς] signes du | puis le signe de l'or. (Ecriture du XVe
-cuivre et de l'or B. — Points rouges | siècle). De même dans B mg., et dans
-dans M au-dessous de άσκίαστος, au-des- | le texte (1re main). — 16. BC A mg. περὶ
-sus de ξαντὸς ών et au-dessous de γενό- | τῆς καταμιγῆς. — 18. κεκρύπται B. — αύτὴν]
-μενος. 8. M mg. : Le signe du cuivre. | αὐτὸν M. — 20 ποιεrὶ πς. R A
+l'encre rouge. --- γοῦν B. --- 2. C A | retournées : καλόν. ἐν --- τῶ μίσυ mss.
+mg. : Les signes du soufre et du mer- | --- 11. M mg. : περὶ τῆς καταμἶ (καταμιγῆς).
+cure, suivis d'un χ coupé par un ρ | --- 13. ἡ ὡς ἐπινοεῖς B. --- 15. M mg. : ὶὸς.
+(scil. χρήσιμον ?). --- 5. χαλκὸς] signes du | puis le signe de l'or. (Ecriture du XVe
+cuivre et de l'or B. --- Points rouges | siècle). De même dans B mg., et dans
+dans M au-dessous de άσκίαστος, au-des- | le texte (1re main). --- 16. BC A mg. περὶ
+sus de ξαντὸς ών et au-dessous de γενό- | τῆς καταμιγῆς. --- 18. κεκρύπται B. --- αύτὴν]
+μενος. 8. M mg. : Le signe du cuivre. | αὐτὸν M. --- 20 ποιεrὶ πς. R A
 μενος. 8. M mg. : Le signe du cuivre,
 
 
 ### 0383
 
-DÉMOCRITE. —PSICA ET MVSTICA
+DÉMOCRITE. ---PSICA ET MVSTICA
 47
 τῶν φύσεων οὐκ. εὶσὶν. ἄλλαι μείζους ἐν βαφαῖς, οὐκ ῖσαι, ούχ ὑπο-
 βεβηκυῖαι · ταῦτα ἀναλυόμενα πάντα ἐργάζεται. μᾶς μἐν οὐν, ω
@@ -2845,12 +2844,12 @@ DÉMOCRITE. —PSICA ET MVSTICA
 καὶ ἐκ τῶν ἐντὸς φεύξεται . Ἐὶ ἐν τούτοις ὑπῆρχον ἀσκούμενοι οί
 νέοι, οὐκ ἄν ἐδυστύχουν, κρίσει ἐπὶ τὰς πράξεις ὁρμῶντες · οὐ γὰρ
 25 ἐπίστανται τὰ τῶν φύσεων ἀντιπαθῆ ὡς ἐν εἶδος δέκα ἀνατρέπει.
-1. ὑποβεβηκυῖαι] ὑπερβαίνουσι B. — 2. | Xe et XIe siècles. — 19.τόδε μᾶλλον προσ-
-ἐργάζονται B. — 3. ἀπιστήσαντας B. — 5. M | πλακεν B. — 22. εὶ τὰ...] ειτα M. — καὶ εὶ
-mg. : Une main. (Même écriture que la | om. B. — 23. M fB? partie effacée] C
-main tracée ci-dessus, p. 45, l. 26.). — | A mg. : ὼραῖον. — 24. διδασκούμενοι A.
-11. αύτοῖς] αὐτὴν M. — 13. λύτρον] λυτήριον ᾽ (Les 3 premières lettres sont grattées).
-B;λητήριον A. — 16. ἐπικλητέον M. (Con- | — 25. κρίσει] ἀκρίτως B. — Les deux sens
+1. ὑποβεβηκυῖαι] ὑπερβαίνουσι B. --- 2. | Xe et XIe siècles. --- 19.τόδε μᾶλλον προσ-
+ἐργάζονται B. --- 3. ἀπιστήσαντας B. --- 5. M | πλακεν B. --- 22. εὶ τὰ...] ειτα M. --- καὶ εὶ
+mg. : Une main. (Même écriture que la | om. B. --- 23. M fB? partie effacée] C
+main tracée ci-dessus, p. 45, l. 26.). --- | A mg. : ὼραῖον. --- 24. διδασκούμενοι A.
+11. αύτοῖς] αὐτὴν M. --- 13. λύτρον] λυτήριον ᾽ (Les 3 premières lettres sont grattées).
+B;λητήριον A. --- 16. ἐπικλητέον M. (Con- | --- 25. κρίσει] ἀκρίτως B. --- Les deux sens
 fusion du β avec le κ, fréquente aux | peuvent se soutenir.
 
 
@@ -2884,20 +2883,20 @@ r.
 ὑδραργύρω ἔχει ἐνέργειαν, ώς ἡ κασία τῶ κινναμώμω. Π γἀρ
 φύσις τὴν φυσιν νικὰ.
 1. M mg. : Renvoi à ῥανὶς. avec signe | νης BC; μόνης A. puis le signe du mer-
-correctif. — 2. ξηρίων] ξηρῶν B. — 3. | cure. — 7. χρήσου M. — τῶ φαρμακῶ B.
-είρσθω] εἶρηται B. — 4. M mg. : . τὸ | F. l. χρίση τῶ φαρμάκω. — 8. περιφι-
-βάθ.* (a l'encre rouge). — signe du cui- | μῶν BC; περιφ ἡμῶν A. — ἕως οὕ B, f.
-vre, dans B, au-dessus de πόντιον. (F. l. | mel. — 16. κιλίκιον, puis le signe de l'ar-
-ποντικόν). — 5. M mg. en lettres micros- | senic B. — 17. A la marge supérieure
+correctif. --- 2. ξηρίων] ξηρῶν B. --- 3. | cure. --- 7. χρήσου M. --- τῶ φαρμακῶ B.
+είρσθω] εἶρηται B. --- 4. M mg. : . τὸ | F. l. χρίση τῶ φαρμάκω. --- 8. περιφι-
+βάθ.* (a l'encre rouge). --- signe du cui- | μῶν BC; περιφ ἡμῶν A. --- ἕως οὕ B, f.
+vre, dans B, au-dessus de πόντιον. (F. l. | mel. --- 16. κιλίκιον, puis le signe de l'ar-
+ποντικόν). --- 5. M mg. en lettres micros- | senic B. --- 17. A la marge supérieure
 copiques : νόει ὡς οὶμαι τὸ βὰ ποντικὸν κα- | du fol. 70 v., dans M : ἐλύδριον χελιδονε*
-ρύου χυτοῦ (?). — ἀμοινέω BCA (Cp. ci- (1re main). — 18. πετάλου B. — ἔως ἀρέσ]
-dessus, p. 8, l. 14 et la note). — 6. μ- | ἔωc ἄοεστόν σοι αυῆ R lωήςν A
+ρύου χυτοῦ (?). --- ἀμοινέω BCA (Cp. ci- (1re main). --- 18. πετάλου B. --- ἔως ἀρέσ]
+dessus, p. 8, l. 14 et la note). --- 6. μ- | ἔωc ἄοεστόν σοι αυῆ R lωήςν A
 ἐως ἄρεστόν σοι φανἤ BA (φάνει Λ).
 
 
 ### 0385
 
-DEMOCRITE. — PHVSICA ET MTSTICA
+DEMOCRITE. --- PHVSICA ET MTSTICA
 44
 18] αβών μόλυβδον τὸν ἡμῶν τὸν γενόμενον ἄρρευστον διὰ γῆς
 χίας καὶ Πάρου καὶ στυπτηρίας, χώνευσον ἀχύροις καὶ κατέρα
@@ -2921,18 +2920,18 @@ Pάμνος δὲ τὸ φυτὸν πρὸς πᾶν τὸ τοιοῦτον π
 20 ἄνευ τούτων οὐδέν ἐστιν ποιῆσαι, τί ἀγαπῶμεν τὴν πολύυλονφαντασίαν;
 τί ἡμῖν καὶ πολλῶν εὶδῶν ἐπὶ τὸ αὐτὸ συνδρομὴ, μιᾶς φύσεως νικώσης
 τὸ πἄν ; δωμεν δηλαδὴ καὶ τῶν εὶς ἀργυροποιίαν εὶδῶν τὴν σύνθεσιν.
-2] IΕΡI AΣIΙΟΥ IOIΗΣΕΣ. — 1ράργυρον τὴν ἀπὸ τοῦ ἀρσε-
+2] IΕΡI AΣIΙΟΥ IOIΗΣΕΣ. --- 1ράργυρον τὴν ἀπὸ τοῦ ἀρσε-
 1. M mg. : signe de ραῖον, puis le | μετὰ ἄλατος τὴν αὐὴν τῶ βοραχίω ἔχει ἐνέρ-
-signe du mercure. — Au-dessus de | γειαν είς τὴν κόλλησιν : — εὶς τὸν χρασ-
-μόλυβδον, le s. du mercure dans BCA. — | μόν (f. l. βρασμόν, M. B.) θεῖον καὶ ὄξος καὶ
-Les mots γῆς, πάρου, στυπτ. surmontés | σκόροδον τὸ όλίγον λας καὶ ὸλίγον ὕδωρ : —
-dans BCA du s. du soufre. — 2. χείας | — ἄλλο τζάλημα · κόκκινον, μέρη β καὶ
-mss. — κατεραεῖς M. — 3. κνίκου mss. par- | νισατέριν α , καὶ ἐασούχτν χρω ἤ ζη τὸν
-tout. — 4. λείοι M. — 8. χρᾶσθαι] χρῖ- | χρυσὸν. (Lire χροζει τὸν χρ.?. — τις) ούδεὶς
-σθαι B. — τοῖς] ταῖς M. — 12. F. l. (οὐ) | . — ποτέ] ποτὶ τὶ B. — 21. ἡμῖν] ὑμιν B.
-κολλήσει. — ἀνθρώπου B. — 19. M mg. | — συνδρομὴ] F. l. συνδρομεῖ. — 23. περὶ
+signe du mercure. --- Au-dessus de | γειαν είς τὴν κόλλησιν : --- εὶς τὸν χρασ-
+μόλυβδον, le s. du mercure dans BCA. --- | μόν (f. l. βρασμόν, M. B.) θεῖον καὶ ὄξος καὶ
+Les mots γῆς, πάρου, στυπτ. surmontés | σκόροδον τὸ όλίγον λας καὶ ὸλίγον ὕδωρ : ---
+dans BCA du s. du soufre. --- 2. χείας | --- ἄλλο τζάλημα · κόκκινον, μέρη β καὶ
+mss. --- κατεραεῖς M. --- 3. κνίκου mss. par- | νισατέριν α , καὶ ἐασούχτν χρω ἤ ζη τὸν
+tout. --- 4. λείοι M. --- 8. χρᾶσθαι] χρῖ- | χρυσὸν. (Lire χροζει τὸν χρ.?. --- τις) ούδεὶς
+σθαι B. --- τοῖς] ταῖς M. --- 12. F. l. (οὐ) | . --- ποτέ] ποτὶ τὶ B. --- 21. ἡμῖν] ὑμιν B.
+κολλήσει. --- ἀνθρώπου B. --- 19. M mg. | --- συνδρομὴ] F. l. συνδρομεῖ. --- 23. περὶ
 au bas du fol. 7ο v. (main du XVe | ποιήσεως ἀσήμου B. Cp. ci-dessus I. XvI.
-siècle) : ἡ τρυγέα καυθῆσα (lire καυθεῖσα) | — δράργυρος ἡ M. — ἀρσενικοῦ M.
+siècle) : ἡ τρυγέα καυθῆσα (lire καυθεῖσα) | --- δράργυρος ἡ M. --- ἀρσενικοῦ M.
 
 
 ### 0386
@@ -2959,29 +2958,29 @@ TRAITES DEMOCRITAINS
 22] Mαγνησίαν λευκήν · λευκάνης δὲ αὐτὴν, ἅλμη καὶ στυπτηρία
 σχιστῆ ἐν ὕδατι θαλασσίφ, ἡ χυλῶ, κίτρω λέγω, ἡ θείου αὶθάλη.
 3. M mg. : ῶδε, à l'encre rose ; main | lig. 2 (Berthelot, Notations alciii-
-du XVe siècle. — Au-dessus de μαγνησία, | ques), dans M ; signe de la pl. V, l. 1,
-le signe du cinabre M. Les signes | dans BCA. — Même observation aux
-superposés dans ce passage (M seul) | 23, 25, etc. — 8. Audessus de νεφέλην,
-sont tous tracés à l'encre rose. — Au- | signe du mercure. — νεφέλην] signe du
-dessus de ἀρσένικον, signe de l'or. — Au- | mercure B. — Au-dessus de κικίν,
-dessus de ἐκστραφὶν, signe de l'argent. | signe du soufre natif. MB. — 10. Au-des-
-— 3 4. Au-dessus de καδμία et de σανδα- | sus de πυρίτ, signe de l'or. — 11. μετα]
-ρχχ, signe du sel ammoniac (?). — | κατὰ mss. Corr. conj. — εὶλικτοῖς] F. l. μει-
-Au-dessus de ἄπυρος : ἀληθ (commence- | λικτοῖς ? ἀλήκτοις ? — 12. Au-dessus de
-ment du mot ἀληθές, exact. — De même, | ψιμυθίω, dans M : M*. F. l. μίγμα ψιμ.
-ligne 5, au-dessus de θείου. — 5. M | παρεμφ. — 13. ἐν] ἐπὶ BA. — Au-dessus
-mg., sur une ligne verticale σκευασία | de γῆν, signe du cinabre MA. — 1.
+du XVe siècle. --- Au-dessus de μαγνησία, | ques), dans M ; signe de la pl. V, l. 1,
+le signe du cinabre M. Les signes | dans BCA. --- Même observation aux
+superposés dans ce passage (M seul) | 23, 25, etc. --- 8. Audessus de νεφέλην,
+sont tous tracés à l'encre rose. --- Au- | signe du mercure. --- νεφέλην] signe du
+dessus de ἀρσένικον, signe de l'or. --- Au- | mercure B. --- Au-dessus de κικίν,
+dessus de ἐκστραφὶν, signe de l'argent. | signe du soufre natif. MB. --- 10. Au-des-
+--- 3 4. Au-dessus de καδμία et de σανδα- | sus de πυρίτ, signe de l'or. --- 11. μετα]
+ρχχ, signe du sel ammoniac (?). --- | κατὰ mss. Corr. conj. --- εὶλικτοῖς] F. l. μει-
+Au-dessus de ἄπυρος : ἀληθ (commence- | λικτοῖς ? ἀλήκτοις ? --- 12. Au-dessus de
+ment du mot ἀληθές, exact. --- De même, | ψιμυθίω, dans M : M*. F. l. μίγμα ψιμ.
+ligne 5, au-dessus de θείου. --- 5. M | παρεμφ. --- 13. ἐν] ἐπὶ BA. --- Au-dessus
+mg., sur une ligne verticale σκευασία | de γῆν, signe du cinabre MA. --- 1.
 ἀργύρου κατὰ ἀλήθειαν (main du Ve s.). | Au-dessus de μαγνησίαν, signe du ci-
-— Au-dessus de λευκανθείς, signe du | nabre M. —. λευκαίνεις B. — 18. Au-
-cinabre. — Au-dessus de ψιμύθιον (ψιμ- | dessus de ὕδατι, signe du mercure —
+--- Au-dessus de λευκανθείς, signe du | nabre M. ---. λευκαίνεις B. --- 18. Au-
+cinabre. --- Au-dessus de ψιμύθιον (ψιμ- | dessus de ὕδατι, signe du mercure ---
 μύθιον BA presque partout), signe du | Au-dessus de αὶθάλη, signe du sel am-
-mercure. — 7. σίδηρον] signe de la pl. I. | moniac.
+mercure. --- 7. σίδηρον] signe de la pl. I. | moniac.
 
 
 ### 0387
 
 51
-DEMOCRITE. — PHVSICA ET IVSTICA
+DEMOCRITE. --- PHVSICA ET IVSTICA
 Ο γὰρ καπνὸς τοῦ θείου λευκὸς ών, πάντα λευκαίνει. νιοι δέ φασι
 καὶ τὸν καπνὸν τῶν κοβαθίων f. 71 v.) λευκαίνειν αὐτήν. Πρόσμι-
 ξον αὐτῶ μετὰ τὴν λεύκωσιν, καὶ σφέκλης τὸ ῖσον, ῖνα λίαν
@@ -3007,18 +3006,18 @@ Oχ. m.
 ἀρσενίκω, ἡ πυρίτη, ἡ ὀξυμέλιτι, ῖνα μηκέτι ρεύση. πτησον οὕν αὐτὸ
 λαμπροτέροις φωσὶν, ἀσφαλισάμενος τὸ σκεῦος. χέτω δὲ τὸ σύνθεμα
 καὶ τιτάνου ὁπτοῦ βραχέντος ὄξει ἡμέρας γ, ῖνα γένηται σμηκτικώτε-
-1. ὁ γὰρ] ὁ surmonté d'un θ dans | — 16. ἄτρηστον M ; ἄτρυτον BC ; ἄτριτον
-M. — 3. φέκλης B. — 5. κάτω ὸλίγου] | A. — 17. M mg. Grand astérisque
-F. l. κατ ᾽ όλίγον. — 6. M mg., sur | suivi de ῶδε, à l'encre rose. — 18.
+1. ὁ γὰρ] ὁ surmonté d'un θ dans | --- 16. ἄτρηστον M ; ἄτρυτον BC ; ἄτριτον
+M. --- 3. φέκλης B. --- 5. κάτω ὸλίγου] | A. --- 17. M mg. Grand astérisque
+F. l. κατ ᾽ όλίγον. --- 6. M mg., sur | suivi de ῶδε, à l'encre rose. --- 18.
 le mot συγγαμσωσιν : τοῦ χοῆτρος (?). |
-ἔχοντα] lu ἐχούσας. — 20. M mg. : λ ;
-— 7. Au-dessus de φαρμάκου, signe | CA mg. : ἐνταῦθα λύ (σις — Au-dessus
-du plomb M. — Dans B : initiale | de λιθάργυρον, l'abréviation M dans
-de μόλυβδον surmonté du signe du | MBC; M dans A. — λείου] signe de
-plomb. — 11. λευκὸν] λευκανθἐν B. — | λείου et de τρίβε M ; même signe, sur-
-Après δὲ] αὐτὸ add. B. — 12. ἄθικτον | monté de λείου BC. — 22. F. l. λαμπρο-
-θεῖον] ανθιγη (sic) M ; θθκτον suivi du | τάτοις. — 23. τίτανο- M
-signe du soufre B. — 13. αύτὸ] αὐτῶ M. |
+ἔχοντα] lu ἐχούσας. --- 20. M mg. : λ ;
+--- 7. Au-dessus de φαρμάκου, signe | CA mg. : ἐνταῦθα λύ (σις --- Au-dessus
+du plomb M. --- Dans B : initiale | de λιθάργυρον, l'abréviation M dans
+de μόλυβδον surmonté du signe du | MBC; M dans A. --- λείου] signe de
+plomb. --- 11. λευκὸν] λευκανθἐν B. --- | λείου et de τρίβε M ; même signe, sur-
+Après δὲ] αὐτὸ add. B. --- 12. ἄθικτον | monté de λείου BC. --- 22. F. l. λαμπρο-
+θεῖον] ανθιγη (sic) M ; θθκτον suivi du | τάτοις. --- 23. τίτανο- M
+signe du soufre B. --- 13. αύτὸ] αὐτῶ M. |
 
 
 ### 0388
@@ -3050,21 +3049,21 @@ TRAITS DEMOCRITAINS
 βαπτε εὶς τὸ τοῦ φαρμάκου λείψανον, ἀναλύσας ὕδατος σποδοῦ λευκί-
 νων ξύλων · τὰ γὰρ ἀνούσια μίγματα καλῶς ἐνεργοῦσιν χωρὶς πυρὸς.
 25 Ποίει αὐτὰ τοῖς ζωμοῖς πυρίμαχα. Π γὰρ φύσις τὴν φύσιν νικᾶ.
-1. τὸ ψιμμίθιον B. — 3. ξανθὸν] ξανθὴ B, | πυρὸς M. — ἕως ἄν B, mel. — 13. καὶ
-f. mel. — 5. χροίαν BC, f. mel. ; χραν | χρίσον B. — 14. περιφίμωσον B. F. l. περι-
-A. — 6. εύκόπως] εύκόλως B. Les deux | φίμωτον. — θεὶς] F. l. θἐς. — 15. κάτθες]
-leçons peuvent se soutenir. Dans la | κάθες mss. Corr. conj. — 21. καὶ ποίησον]
-petite capitale onciale, le π et le λ sont | καὶ om. M. — 22. χρίσον] χρησον (sic) M.
-souvent de forme presque identique.-— | — 23. F. l. ὕδατι (καὶ σποδῶ. — λευ-
+1. τὸ ψιμμίθιον B. --- 3. ξανθὸν] ξανθὴ B, | πυρὸς M. --- ἕως ἄν B, mel. --- 13. καὶ
+f. mel. --- 5. χροίαν BC, f. mel. ; χραν | χρίσον B. --- 14. περιφίμωσον B. F. l. περι-
+A. --- 6. εύκόπως] εύκόλως B. Les deux | φίμωτον. --- θεὶς] F. l. θἐς. --- 15. κάτθες]
+leçons peuvent se soutenir. Dans la | κάθες mss. Corr. conj. --- 21. καὶ ποίησον]
+petite capitale onciale, le π et le λ sont | καὶ om. M. --- 22. χρίσον] χρησον (sic) M.
+souvent de forme presque identique.---- | --- 23. F. l. ὕδατι (καὶ σποδῶ. --- λευ-
 9. τρίψον] signe de λείου et de τρίψον M ; | κίνων] λευκαίνων M. F. l. πευκίνων. (Cp.
-τρίψον en toutes lettres B. — 10. είσὸν | ci-dessus la note sur la lionο 6)
+τρίψον en toutes lettres B. --- 10. είσὸν | ci-dessus la note sur la lionο 6)
 ci-dessus la note sur la ligne 6.)
 
 
 ### 0389
 
 53
-DEMOCRITE. — LIVRE ADRESSÉ A LEUCIPPE
+DEMOCRITE. --- LIVRE ADRESSÉ A LEUCIPPE
 27] Λαβὼν τῆν προγεγραμμένην νεφέλην, συλλείου αὐτῆ στυπτηρίαν
 καὶ μίσυ · ὄξει τε περιπλύνας, βάλε αὐτῆ καὶ ὁλίγην λευκὴν καδμίαν,
 ἡ μαγνησίαν, ἡ ἄσβεστον, ῖνα γένηται σῶμα ἀπὸ σώματος. Tρίψον σὐν
@@ -3080,9 +3079,9 @@ DEMOCRITE. — LIVRE ADRESSÉ A LEUCIPPE
 πεται, οὐδἐν ὑστερεῖ, πλὴν τῆς νεφέλης καὶ τοῦ ὕδατος ἡ ἄρσις, ἀλλὰ
 ταῦτα ἐκῶν παρεσιώπησα διὰ τὸ ἀφθόνως αὐτὰ ἐγκεῖσθαι καὶ ἐν ταῖς
 15 ἄλλαις μου γραφαῖς. Ἐρρωσθε ἐν ταύτη τ γραφῆ.
-I. .II. — ΙΤΟΥ BΙΑΟΣ Ε ΠΡΟΣΟΝΗΗΕΣΑ
+I. .II. --- ΙΤΟΥ BΙΑΟΣ Ε ΠΡΟΣΟΝΗΗΕΣΑ
 ΕΥΚΙΙΙΙΙ
-Transcrit sur A, f. 258 r. — (Contenu aussi dans le Laur., xxxve article.) -—
+Transcrit sur A, f. 258 r. --- (Contenu aussi dans le Laur., xxxve article.) ----
 N. B. Les leçons introduites dans le texte de ce morceau, fort maltraité par les
 copistes, a la place de celles du ms. A qu'on a jugées inadmissibles et rejetées
 dans les notes, sont toutes, sauf indication spéciale, du fit de l'editeur.
@@ -3090,10 +3089,10 @@ dans les notes, sont toutes, sauf indication spéciale, du fit de l'editeur.
 «
 Aὶγυπτίων (ἐν ταῖς τῶν) προφητῶν περσικῶν βίβλοις, ἔγραψα τῆ
 1. Réd. de B : συλλείου αύτὴν στυπτηρία | d'un commentaire sur l'ouvrage pré-
-καὶ μίσυι. — 7. φλοιοῦ] φλοὸς MBC; φλοιὼν | cédent. Dans cette hypothèse, il fau-
-A. Corr. conj. — 8. περσαίου M (B? ef- | drait lire ρρωσθε. Puis : ν ταύτη τἤ
-facé) C; περσέων A. — 12. ἀπέχεται A. — | γραφῆ... — 18. ίδοῦ μἐν ὁ ἤν ῶ λεύκηπον
-14. παρεσιώπησα M. — 15. Les mots ἐν | περὶτουτέοντῶν A. — 1. προφήταις περσι-
+καὶ μίσυι. --- 7. φλοιοῦ] φλοὸς MBC; φλοιὼν | cédent. Dans cette hypothèse, il fau-
+A. Corr. conj. --- 8. περσαίου M (B? ef- | drait lire ρρωσθε. Puis : ν ταύτη τἤ
+facé) C; περσέων A. --- 12. ἀπέχεται A. --- | γραφῆ... --- 18. ίδοῦ μἐν ὁ ἤν ῶ λεύκηπον
+14. παρεσιώπησα M. --- 15. Les mots ἐν | περὶτουτέοντῶν A. --- 1. προφήταις περσι-
 ταύτη τῆ γραοῆ semblent tr lὶ 1λe l
 ταύτη τῆ γραφῆ semblent être le début
 
@@ -3126,21 +3125,21 @@ TRAITES DEMOCRITAINS
 τηρεῖν τὸ μἐν ἡἤμισυ εὶς ξάνθωσιν · τὸν δὲ ἄλλον εῖς τινα ταξείδια.
 ίνεται δὲ οὕτως ἡ τῶν θειωδῶν οὶκονομία, εῖς τε χαλκοῦ
 λεύκωσιν · λαβόμενος τὸ ἀρσένικον, ταρίχευσον ἐν ἄλατι θ ἡμέρας,
-1. πρὸς ἤν δὲ A. — ούκ ἔστι] ούκέτι A. | 11. ἐπίπλοκον ὼς A. — 12. ἄρσενα A. —
-— 3. ἡ προγόνων A. — θείαι A. — βασιλεῖς | 14. ἐξούρικος A. — ῥέψαντι] F. l. βεῦσάν τι.
-τῆς πηλξ οὶ αὐταιθήντο A. — 4. ὑγείης A. | Cp. ci-dessous, ligne 24. — 15. ἐξηπορη-
-— 5. παισίν] πάσην. — F. l. οὐδ είσγεγρά- | θήσεις A. F. l. ἐκσηπτωθείσης. — 16. λείου]
-φατέ με τοῖς Aὶγ. παισίν. — 6. σοι] συ A. — | λύου A. — 17. ἄνθος] ἄνθου A. — 18.
-7. ἤ] ἡ A. — 8. F. l. μαλάξεως et ἐψήσεως. | ἀναξήρεναι A. — 19. ἐψαι A. — ῥεφανίνω
-— βαφικῆς A. — 9. A mg. : γίνονται ὄλα | A. — ς A. — τοῦτο A. — 22. τὸ δὲ ἄλλον
-τὰ εῖδη. — ὄσα πάλιν] ς ἀπαλὴν A. — 10. | A. — 24. ταρίχεψον A. — ἐν ἄλατι] ἄλλας
-ἐχε A. — χρυσοῦ A. — καθμίας A. — | A. Corr. conj. (M. B.).
+1. πρὸς ἤν δὲ A. --- ούκ ἔστι] ούκέτι A. | 11. ἐπίπλοκον ὼς A. --- 12. ἄρσενα A. ---
+--- 3. ἡ προγόνων A. --- θείαι A. --- βασιλεῖς | 14. ἐξούρικος A. --- ῥέψαντι] F. l. βεῦσάν τι.
+τῆς πηλξ οὶ αὐταιθήντο A. --- 4. ὑγείης A. | Cp. ci-dessous, ligne 24. --- 15. ἐξηπορη-
+--- 5. παισίν] πάσην. --- F. l. οὐδ είσγεγρά- | θήσεις A. F. l. ἐκσηπτωθείσης. --- 16. λείου]
+φατέ με τοῖς Aὶγ. παισίν. --- 6. σοι] συ A. --- | λύου A. --- 17. ἄνθος] ἄνθου A. --- 18.
+7. ἤ] ἡ A. --- 8. F. l. μαλάξεως et ἐψήσεως. | ἀναξήρεναι A. --- 19. ἐψαι A. --- ῥεφανίνω
+--- βαφικῆς A. --- 9. A mg. : γίνονται ὄλα | A. --- ς A. --- τοῦτο A. --- 22. τὸ δὲ ἄλλον
+τὰ εῖδη. --- ὄσα πάλιν] ς ἀπαλὴν A. --- 10. | A. --- 24. ταρίχεψον A. --- ἐν ἄλατι] ἄλλας
+ἐχε A. --- χρυσοῦ A. --- καθμίας A. --- | A. Corr. conj. (M. B.).
 
 
 ### 0391
 
 55
-DEMOCRITE. — LIVRE ADRESSE A LEUCIPPE
+DEMOCRITE. --- LIVRE ADRESSE A LEUCIPPE
 ἡ οὐρω ἀφθόρω, ἡ κάλλιον γὰρ, ἡμέρας κα · εῖτα λείωσον ὄξει
 κιτρίνω ἡμέρας ζ, μεταξὐ λευκοῦ τῶν κιτρίων, εἶτα ἀναξηράνας
 ἔχε · εἶτα λαβόμενος τὴν σανδαράχην τὴν σιδηρίζουσαν κόψον καὶ
@@ -3168,13 +3167,13 @@ DEMOCRITE. — LIVRE ADRESSE A LEUCIPPE
 ὶγδὴν ἐλαιῶδες φάρμακον, κατάθου εὶς πυξίδα καὶ σῆψον ἡμέρας μα,
 25 ἡ κα, ἡ ιε, μάλιστα μἐν οὕν ἐν ίππεία κόπρφ, εἶτα ἀνε- (f. 259 v.
 λόμενος ἔχε · λείωσον ἰατρικῶς, προσβάλλων εὶς τὸ σύνθεμα
-1. ἀφθόρου A. F. l. ἀφθόρου (παιδός). — | A. — 13. μόνος A. — 14. ἀρσενικοῦ A, ici et
-ὄξεις κυτρίοις A. — 2. κιτρίων] κυτρίων A. — | presque dans tout ce morceau. — σανδα-
-3. τὸ σανδαράχην A. — 4. ἄλμην A. — 9. | ράχη A. — 17. ἀπεσιρώσας A. — ὼς] ἔως A.
-χαλ τῆς ῖσου A. F. l. χαλκίτην (C. E. R.) | — 20. προφῆται A. — ὑέλινον A. — 23. κοινοῖ
-a Vaut mieux ». (M. B.). — 10. κόραλλος A. — 24. πυξίδαν A. forme médiévale
-A. — Réd. proposée: ούκ ἐκ χωνῶν τῶν τεχν. | assez fréquente dans ce ms. — 25. A
-βαλλ. ἐπίμ. ( B.) — ἐξίοι A. — 12. ὼς] ες | mg : ση μείωσαι. — 26. προσβάλλον A.
+1. ἀφθόρου A. F. l. ἀφθόρου (παιδός). --- | A. --- 13. μόνος A. --- 14. ἀρσενικοῦ A, ici et
+ὄξεις κυτρίοις A. --- 2. κιτρίων] κυτρίων A. --- | presque dans tout ce morceau. --- σανδα-
+3. τὸ σανδαράχην A. --- 4. ἄλμην A. --- 9. | ράχη A. --- 17. ἀπεσιρώσας A. --- ὼς] ἔως A.
+χαλ τῆς ῖσου A. F. l. χαλκίτην (C. E. R.) | --- 20. προφῆται A. --- ὑέλινον A. --- 23. κοινοῖ
+a Vaut mieux ». (M. B.). --- 10. κόραλλος A. --- 24. πυξίδαν A. forme médiévale
+A. --- Réd. proposée: ούκ ἐκ χωνῶν τῶν τεχν. | assez fréquente dans ce ms. --- 25. A
+βαλλ. ἐπίμ. ( B.) --- ἐξίοι A. --- 12. ὼς] ες | mg : ση μείωσαι. --- 26. προσβάλλον A.
 
 
 ### 0392
@@ -3200,27 +3199,27 @@ A. — Réd. proposée: ούκ ἐκ χωνῶν τῶν τεχν. | assez fréq
 ρον, καὶ τὸ ἀφ ἡμῶν λευκανθἐν κρύβε, Λεύκιππε, τὸ πᾶν · ἐφθό-
 νησαν. Ἄρρωσο.
 TRAITES DEMOCRITAINS
-20 II. I. — ΣΥΝΕΣΙΟΥ ΙΛΟΣΟΟΥ ΠΡΟΣ ΑΙΟΣΚΟΡΟΝ ΕΙΣ
+20 II. I. --- ΣΥΝΕΣΙΟΥ ΙΛΟΣΟΟΥ ΠΡΟΣ ΑΙΟΣΚΟΡΟΝ ΕΙΣ
 ΤΗΝ ΕΙΕΟΝ ΑΗΜΟΚΡΙΤΟΥ, ΩΣ ΕΝ ΣΧΟΑ
-Transcrit sur M, f. 72 v. — Collationné sur B, f. 20 r. ; — sur C, f. 14 jusqu'à lα
-n du 5 5) ; — sur A, f. 31 r. ; — sur S, congénère de B (passim) ; — sur lédition de
-Fabricius (Bibl. gr. vI11, p. 233 Fabr.) — (Contenu aussi dans Laur. e arti-
-cle ; — le ms. de Vienne ; — le cod. Ambrosianus de Milan.) — L'eéd. de
-1. — ὁμοῦ] F. l. ώμοῦ. — 3. ὁλικομιξάνθου | dans le ms. — λεκυνθίω A. — 15. διή-
-A. — 4. τῆρεισάσεις A. — πράγμαν A. — | γητον κ. τ. λ.] Cp. Berthelot, Orig. de
-6. ἐστροὕλον A. (Corrigé par M. B.). — | l'alchimie, p. 162. — 17. οὐσίσασιν A. —
-7. τρίβον B. — 8. διεὶς A. — 9. ἔχειν A. — | ναίε] κηεὶ A. — 18. . λευκανθέντι A. — ῶ
-13. καὶ τοῦ. ..] Lacune non indiquée | Λεύκιππε] ῶ λευκὴ παῖ A. — 19. ἐρρωσοι A.
+Transcrit sur M, f. 72 v. --- Collationné sur B, f. 20 r. ; --- sur C, f. 14 jusqu'à lα
+n du 5 5) ; --- sur A, f. 31 r. ; --- sur S, congénère de B (passim) ; --- sur lédition de
+Fabricius (Bibl. gr. vI11, p. 233 Fabr.) --- (Contenu aussi dans Laur. e arti-
+cle ; --- le ms. de Vienne ; --- le cod. Ambrosianus de Milan.) --- L'eéd. de
+1. --- ὁμοῦ] F. l. ώμοῦ. --- 3. ὁλικομιξάνθου | dans le ms. --- λεκυνθίω A. --- 15. διή-
+A. --- 4. τῆρεισάσεις A. --- πράγμαν A. --- | γητον κ. τ. λ.] Cp. Berthelot, Orig. de
+6. ἐστροὕλον A. (Corrigé par M. B.). --- | l'alchimie, p. 162. --- 17. οὐσίσασιν A. ---
+7. τρίβον B. --- 8. διεὶς A. --- 9. ἔχειν A. --- | ναίε] κηεὶ A. --- 18. . λευκανθέντι A. --- ῶ
+13. καὶ τοῦ. ..] Lacune non indiquée | Λεύκιππε] ῶ λευκὴ παῖ A. --- 19. ἐρρωσοι A.
 
 
 ### 0393
 
-SvNESIUS. — DIALOGUE SUR DEMOCRITE
+SvNESIUS. --- DIALOGUE SUR DEMOCRITE
 57
 Fabricius a été faite d'après la copie d'un ms. de Paris, probablement A. La
 traduction latine qui l'accompagne est celle de Piττimenti ( Piς.) ; elle dériνe
-de M. — Lorsque les νariantes de BCA Fabr. sont identiques, on na indiquéque B.
-— On a maintenu la diνision en J de Fabricius en dédoublant quelques par-
+de M. --- Lorsque les νariantes de BCA Fabr. sont identiques, on na indiquéque B.
+--- On a maintenu la diνision en J de Fabricius en dédoublant quelques par-
 grapnes au moen d'un bis.
 Λιοσκόρω ίερεῖ τοῦ μεγάλου αράπιδος ἐν Ἀλεξανδρεία θεοῦ τε συ-
 ευδοκοῦντος υνέσιος φιλόσοφος, χαίρειν.
@@ -3245,11 +3244,11 @@ lί φύσις τὴν φύσιν κρατεῖ, καὶ ἡ φύσις τὴν 
 ζωμοὐς, τουτέστιν τὰ ὑγρά · καίτοι μηδενὸς τούτων προσλαμβανο-
 μένου ἐπὶ τῆς τέχνης. Ἀὐτὸς γὰρ μαρτυρεῖ λέγων περὶ τοῦ μεγά-
 λου Θστάνου ὄτι οὕτος ὁ ἀνὴρ οὐκ ἐκέχρητο ταῖς τῶν Aὶγυπτίων
-10. πἄιξ παισὶ B ; πσι MS. — C. | ὁ om. M. — καὶ ἡ] ἡ om. Fabr. — 16.
-ponctue : σὐν καὶ παισὶ, τοῖς ίερ. Aίγ. — | Avant Aλλ᾽ · ἡμῖν] ρχή · MBCA. —
-12. χρυσοῦ] signe du cinabre Fabr., ici | 19. λευκοῦ γὰρ κ. ξ. BCAS Fabr. — Après
-et partout. — 13. συνεγράψατο γὰρ Fab. | ξανθοῦ] καταλόγους (κατάλογον Fabr.) add.
-— Oστάνους M. — παρα] περὶ M. — 14. | B. — τοὐς ζωμοὐς] τὸν ζωμὸν Fabr.
+10. πἄιξ παισὶ B ; πσι MS. --- C. | ὁ om. M. --- καὶ ἡ] ἡ om. Fabr. --- 16.
+ponctue : σὐν καὶ παισὶ, τοῖς ίερ. Aίγ. --- | Avant Aλλ᾽ · ἡμῖν] ρχή · MBCA. ---
+12. χρυσοῦ] signe du cinabre Fabr., ici | 19. λευκοῦ γὰρ κ. ξ. BCAS Fabr. --- Après
+et partout. --- 13. συνεγράψατο γὰρ Fab. | ξανθοῦ] καταλόγους (κατάλογον Fabr.) add.
+--- Oστάνους M. --- παρα] περὶ M. --- 14. | B. --- τοὐς ζωμοὐς] τὸν ζωμὸν Fabr.
 8
 
 
@@ -3278,7 +3277,7 @@ Ai γὰρ βοτάναι ἀνθοφόροι εὶσίν. Ἐiπε δὲ κα�
 ἐξυδάτωσιν καὶ ἄχλυσιν καὶ λεπτυσμὸν τῶν σωμάτων, ἤτοι οὐσιῶν.
 3 bis] Ἀιόσκορος λέγει · Καὶ πῶς εἶπεν ὄτι ὁρκία ἡμῖν ἔθετο
 μηδενὶ σαφῶς ἐκδοῦναι ;
-— Καλῶς εἶπε « μηδενί , τουτέστι μηδενὶ τῶν ἀμυήτων · τὸ
+--- Καλῶς εἶπε « μηδενί , τουτέστι μηδενὶ τῶν ἀμυήτων · τὸ
 15 γὰρ μηδενὶν οὐ κατὰ παντὸς κατηγορεῖται · αὐτὸς γὰρ περὶ τῶν
 μεμυημένων καὶ γεγυμνασμένον τὸν νοῦν ἐχόντων εἶπε.
 4] λέπε γὰρ ἐν τῆ εὶσβολῆ τῆς χρυσοποιίας, τί εἶπεν ·
@@ -3286,26 +3285,26 @@ Ai γὰρ βοτάναι ἀνθοφόροι εὶσίν. Ἐiπε δὲ κα�
 Διόσκορος. Καὶ τοιούτων χρεία ἐστί ;
 0 Συνέσιος. Θὐχὶ, Αιόσκορε.
 Διόσκορος. Ἀλλὰ τίνος ἐστὶ χρεία ;
-— Πκουσας, καὶ πάλιν ἄκου-(f. 73 χ.) σον. Π ἀνάλυσίς ἐστι τῶν
+--- Πκουσας, καὶ πάλιν ἄκου-(f. 73 χ.) σον. Π ἀνάλυσίς ἐστι τῶν
 σωμάτων, ῖνα ἀναλύσης αὐτὰ καὶ ὕδατα αὐτὰ ποιήσης, καὶ ρεύ-
 σωσι καὶ ἀχλυωθῶσι καὶ λεπτυνθῶσι. οῦτο δὲ καλεῖται ὕδωρ
-2. Après ἐστὶν] οὕτω add. BCA Fabr.— | νος] ποιησάμενος B. — σημαίνειδ A. Fabr.
-3. F. l. ἐκλεπτυνεῖς, ἀναλύσεις. .. ἐξυδατώσεις. | — 11. ἅχλυσιν] ἄχλύωσιν BCS; ἀχλόωσιν
-— 6. πόντιον] F. l. ποντικὸν ici et plus | A Fabr. qui ajoutent καὶ κατάλυσιν. —
-loin. — 7. ὴνίξατο] ἤρξατο Fabr. ; exorsus | καὶλεπτυσμὸν] καὶλελεπτυσμένον A; καὶλελεπ-
-est (trad. lat.), f. mel. — 8. ὡς om. S. | τυσμένων Fabr. — 12. BA mg. : Dialo-
-— 9. ὁ Πόντος ὑπὸ τ. ποτ. καταρρέεται | gus. — λέγει] φησι BCAS Fabr. — 14.
-BC; ὁ Πόντος ἀπὸ τοῦ καταρρεῖν (κατωρρέων | τουτέστι — μηδενὶ om. Fabr. — 17. βλέ-
-A) τὸ ὑπὸ τ. ποτ. A Fabr. ; ὁ Iόντος λέγε- | πεις Fabr. — 18. ὑδράργυρος ἡ ἀπὸ κινν.]
-ται ἀπὸ τοῦ κάτω τῶν ποτ. ρεῖν S. — 10. κα- | σελήνη ἀπὸ κινν. Fabr. — 20. Συνέσιος.]
-τάδηλον] κατάλληλον AS Fabr. — ποιούμε- | σύνες; Fabr. — 23. αὐτὰ om. B.
+2. Après ἐστὶν] οὕτω add. BCA Fabr.--- | νος] ποιησάμενος B. --- σημαίνειδ A. Fabr.
+3. F. l. ἐκλεπτυνεῖς, ἀναλύσεις. .. ἐξυδατώσεις. | --- 11. ἅχλυσιν] ἄχλύωσιν BCS; ἀχλόωσιν
+--- 6. πόντιον] F. l. ποντικὸν ici et plus | A Fabr. qui ajoutent καὶ κατάλυσιν. ---
+loin. --- 7. ὴνίξατο] ἤρξατο Fabr. ; exorsus | καὶλεπτυσμὸν] καὶλελεπτυσμένον A; καὶλελεπ-
+est (trad. lat.), f. mel. --- 8. ὡς om. S. | τυσμένων Fabr. --- 12. BA mg. : Dialo-
+--- 9. ὁ Πόντος ὑπὸ τ. ποτ. καταρρέεται | gus. --- λέγει] φησι BCAS Fabr. --- 14.
+BC; ὁ Πόντος ἀπὸ τοῦ καταρρεῖν (κατωρρέων | τουτέστι --- μηδενὶ om. Fabr. --- 17. βλέ-
+A) τὸ ὑπὸ τ. ποτ. A Fabr. ; ὁ Iόντος λέγε- | πεις Fabr. --- 18. ὑδράργυρος ἡ ἀπὸ κινν.]
+ται ἀπὸ τοῦ κάτω τῶν ποτ. ρεῖν S. --- 10. κα- | σελήνη ἀπὸ κινν. Fabr. --- 20. Συνέσιος.]
+τάδηλον] κατάλληλον AS Fabr. --- ποιούμε- | σύνες; Fabr. --- 23. αὐτὰ om. B.
 20
 
 
 ### 0395
 
 59
-SVNÉSIUS. — DIALOGUE SUR DÉMOCRITE
+SVNÉSIUS. --- DIALOGUE SUR DÉMOCRITE
 θεῖον, καὶ ὑδράργυρος, καὶ χρυσόκολλα, καὶ θεῖον ἄπυρον. Καὶ
 ὄσα ἄλλα ὁνόματά εὶσιν · ἡ γὰρ λεύκωσις καῦσίς ἐστι, κὰὶ
 ἡ ξάνθωσις, ἀναζωοπύρησις · αὐτὰ γὰρ ἐαυτὰ καίουσι, καὶ αὐτὰ
@@ -3331,13 +3330,13 @@ SVNÉSIUS. — DIALOGUE SUR DÉMOCRITE
 τῶν σωμάτων προσήνεγκεν, ὕδωρ νίτρου, καὶ ὕδωρ φέκλης.
 Καὶ ὄρα πῶς εἶπεν · Ἀὐτὴ ἡ ὕλη τῆς χρυσοποιίας, f. 74 r.
 25 ταῦτά εὶσι τὰ μεταλλοιοῦντα τὴν ὕλην καὶ μεταλλεύοντα καὶ πυρί-
-1. ὑδράργυρος] σελήνη Fabr. — Dans C, | phesl — 7. ποιήση Fabr. — 8. οὐν] ἡν
-au-dessus de ὑδραργ. et du signe de θεῖον, | B. — 9. ἀπηλλάγηται Fabr. — 11. M
-une main du temps a écrit ὕδωρθείου. — | mg., a l'encre rose : ἀπ ῶδε, avec renvoi
-3. Après θεῖον ἄπυρον] Réd. de B. et de | à φυσικά (main du XVe siècle). — 14.
-ses dérivés : ἀλλὰ δὴ καὶ ὄσα λοιπὰ όν. είσιν. | προσέλθη B. — 15. Au-dessus de κρόκον
-— F. l. ἀναζωοπύρωσις. — 4. ἀναζωπυροῦ- | et de ἀριστολοχίαν, signe du mercure M
-σιν C. — 5. BCA mg. : ὄρα πονηρίαν | (encre rose) BCA. — 23. προσεισήνεγκεν
+1. ὑδράργυρος] σελήνη Fabr. --- Dans C, | phesl --- 7. ποιήση Fabr. --- 8. οὐν] ἡν
+au-dessus de ὑδραργ. et du signe de θεῖον, | B. --- 9. ἀπηλλάγηται Fabr. --- 11. M
+une main du temps a écrit ὕδωρθείου. --- | mg., a l'encre rose : ἀπ ῶδε, avec renvoi
+3. Après θεῖον ἄπυρον] Réd. de B. et de | à φυσικά (main du XVe siècle). --- 14.
+ses dérivés : ἀλλὰ δὴ καὶ ὄσα λοιπὰ όν. είσιν. | προσέλθη B. --- 15. Au-dessus de κρόκον
+--- F. l. ἀναζωοπύρωσις. --- 4. ἀναζωπυροῦ- | et de ἀριστολοχίαν, signe du mercure M
+σιν C. --- 5. BCA mg. : ὄρα πονηρίαν | (encre rose) BCA. --- 23. προσεισήνεγκεν
 φιλοσόφων. Voyez la malice des philoso- | B ; προεισήνεγκεν CA Fabr.
 
 
@@ -3350,13 +3349,13 @@ TRAITES DEMOCRITAINS
 6] Ἀιοσκορος. Καὶ πῶς ἔχω νοῆσαι, φιλόσοφε, τὴν μέθοδον
 παρὰ σοῦ βούλομαι μαθεῖν. Ἐαν γὰρ ἀκολουθήσω τοῖς εὶρημένοις,
 5 οὐδὲν ὁνήσομαί τί παρ αὐτῶν.
-— κουσον, Ἀιόσκορε, αὐτοῦ λέγοντος, καὶ ὄξυνόν σου τὸν
+--- κουσον, Ἀιόσκορε, αὐτοῦ λέγοντος, καὶ ὄξυνόν σου τὸν
 νοῦν, Ἀιόσκορε, καὶ βλέπε πῶς λέγει · Ἄκστρεψον αὐτῶν τὴν φύσιν,
 ἡ γὰρ φύσις ἔνδον κέκρυπται.»
-— 1 ὸυνέσιε, τίνα ἐκστροφὴν λέγει ;
-10 — 1ὴν τῶν σωμάτων λέγει.
-— Καὶ πῶς αὐτὴν ἐκστρέψω ; ἡ πῶς φέρω τὴν φύσιν ἔξω ;
-— Ὀξυνόν σου τὸν νοῦν, Ἀιόσκορε, καὶ πρόσεχε πῶς λέγει. Ἐαν
+--- 1 ὸυνέσιε, τίνα ἐκστροφὴν λέγει ;
+10 --- 1ὴν τῶν σωμάτων λέγει.
+--- Καὶ πῶς αὐτὴν ἐκστρέψω ; ἡ πῶς φέρω τὴν φύσιν ἔξω ;
+--- Ὀξυνόν σου τὸν νοῦν, Ἀιόσκορε, καὶ πρόσεχε πῶς λέγει. Ἐαν
 οὕν οὶκονομήσης ὡς δεῖ, φέρεις τὴν φύσιν ἐξω. Γῆ χία καὶ ἀστε-
 ρίτης, καδμία λευκὴ, καὶ τὰ ἐξῆς. λέπε πόση παρατήρησις τοῦ
 15 ἀνδρὸς, πῶς πάντα λευκὰ ὴνίξατο, ῖνα δείξη τὴν λεύκωσιν. Ὄ λέγει
@@ -3368,24 +3367,24 @@ TRAITES DEMOCRITAINS
 ὅ ἐστι κηροτακίς. Παύτη οὕν τῆ ἀναδόσει τοῦ πυρὸς, συναρμόζεται
 τῶ βωταρίώ ὑέλινον ὄργανον ἔχον μαστάριον, ἐπὶ τὰ ἄνω προσέχον,
 καὶ ἐπικέφαλα κείσθω. Καὶ τὸ ἀνερχόμενον ὕδωρ διὰ τοῦ μαζοῦ
-2. μακάριος] Interrompu ici la colla- | mg. ση. — Figure d'appareil dans BCA.
-tion de C ; noté seulement quelques | — 20. Après θερμοσποδις] πραείας · ὄ δἡ
-variantes dans la suite. — 7. Après | ωτάριόν ἐστι κηροτακίς BCA Fabr. Le
+2. μακάριος] Interrompu ici la colla- | mg. ση. --- Figure d'appareil dans BCA.
+tion de C ; noté seulement quelques | --- 20. Après θερμοσποδις] πραείας · ὄ δἡ
+variantes dans la suite. --- 7. Après | ωτάριόν ἐστι κηροτακίς BCA Fabr. Le
 νοὕν] ιόσκορε om. et τοῖς ἐγκειμένοις add. | ms. A restitue en mg. (écriture du
-B. — βλέπε] πρόσχες B. — 9. Avant ῶ | temps), entre θερμοσποδις et πραείας : μ
+B. --- βλέπε] πρόσχες B. --- 9. Avant ῶ | temps), entre θερμοσποδις et πραείας : μ
 Lυνέσιε] A. Fabr. (abréviation de ιόσ- | ἐχούσις (sic) τὸ πῦρ διάπυρον · ἀλλ᾽ ἐπὶ θερ-
-κορος). — 10. BCA mettent cette réponse | μοσποδιἄς. — 22. ὑάλινον B. — 23. ἐπικέ-
-en marge. — 12. πῶς λέγει] τοῖς είρημένοις | φαλα] κατὰ κάρα κείμενον B. — A mg :
-B. — 14. τοῦ om. M. — l6. M mg. sur | ἤγουν ἐπικέφαλακύσθω (f. l. κείσθω. — Dans
+κορος). --- 10. BCA mettent cette réponse | μοσποδιἄς. --- 22. ὑάλινον B. --- 23. ἐπικέ-
+en marge. --- 12. πῶς λέγει] τοῖς είρημένοις | φαλα] κατὰ κάρα κείμενον B. --- A mg :
+B. --- 14. τοῦ om. M. --- l6. M mg. sur | ἤγουν ἐπικέφαλακύσθω (f. l. κείσθω. --- Dans
 une ligne verticale et en lettres retour- | Fabr. : καὶ κάτω κάρα ᾽ κείμενον ἡ, et en
 nées : φανερόν. BCA ont reproduit ces | note : in ora codicis adscriptum : ἐπικε-
-caractères sans les comprendre. — A | φαλαιούσθω. (Note de A mal déchiffrée.)
+caractères sans les comprendre. --- A | φαλαιούσθω. (Note de A mal déchiffrée.)
 
 
 ### 0397
 
 61
-SVNESIUS. — DIALOGUE SUR DEMOCRITE
+SVNESIUS. --- DIALOGUE SUR DEMOCRITE
 δέχου καὶ ἔχε καὶ σῆψον. Ποῦτο λέγεται ὕδωρ θεῖον. Aὕτη ἐστὶν
 ἐκστροφή · ταύτη τῆ ἀγωγῆ φέρεις ἔξω τὴν ἔνδον κεκρυμμένην · αὕτη
 καλεῖται λύσις σωμάτων. οῦτο ὅταν σαπῆ, καλεῖται ὄξος, καὶ οὶνος
@@ -3400,9 +3399,9 @@ y 7
 πρῶτόν ἐστι τῆς τέχνης, τὸ λευκάναι ἡ τὸ ξανθῶσαι ;
 Συνέσιος. ῦλλον τὸ λευκάναι.
 ιόσκορος. Καὶ δια τί τὴν ξάνθωσιν εἶπε πρῶτον ;
-— Ἐπειδὴ προτετίμηται ὁ χρυσὸς τοῦ ἀργύρου.
-15 — Καὶ οὕτως ὁφείλομεν ποιῆσαι, Συνέσιε ;
-— Θῦ, Ἀιόσκορε, ἀλλὰ γυμνάσαι ἡμῶν τὸν νοῦν καὶ τὰς φρένας
+--- Ἐπειδὴ προτετίμηται ὁ χρυσὸς τοῦ ἀργύρου.
+15 --- Καὶ οὕτως ὁφείλομεν ποιῆσαι, Συνέσιε ;
+--- Θῦ, Ἀιόσκορε, ἀλλὰ γυμνάσαι ἡμῶν τὸν νοῦν καὶ τὰς φρένας
 οὕτω συνετάγησαν · ἄκουσον αὐτοῦ λέγοντος · ας νοήμοσιν ὑμῖν
 ὁμιλῶ, γυμνάζων ὑμῶν τὸν νοῦνν. Ἐὰν δὲ βούλη τὸ ἀκριβἐς γνῶναι,
 πρόσεχε εὶς τοὐς δύο καταλόγους, ὄτι πρὸ πάντων ἡ ὑδράργυρος
@@ -3411,14 +3410,14 @@ y 7
 κινναβάρεως, ἐν δὲ τῶ λευκῶ εἶπεν · ὑδράργυρος ἡ ἀπὸ ἀρσενίκου, ἡ
 σανδαράχης, καὶ τὰ ἐξῆς.
 8] Ἀιόσκορος εἶπε · Ἀιάφορος οὕν ἐστιν ἡ ὑδράργυρος ;
-1. καὶ σῆψον] είς σῆψιν B. — 2. ταύτη | lement par Olympiodore (II, 1v, 36).
-— κεκρυμμένην om. B. — 4. ἀμήνεος B. | Nous rapportons les principales va-
-— 7. καὶ τὸν ἐνα] τὸν δὲ ἔτερον B. — | riantes de cette citation, qui sera sup-
-10. (Aιόσκορος) ] . Fabr. — 16. τὸ γυμ- | primée dans le texte d'Olympiodore
-νάσαι BC. — ὑμῶν BC. — 17. συνηταγ- | et nous les désignons ici par un asté-
-τησαν Fabr. — ὼς νοήμασιν ἡμῶν ὁμιλεῖ | risque. — 1θ. χρυσ. .. ἀργύρω] signes
-Fabr. — 18. ἡμῶν Fabr. — άν δὲ βούλη... | de l'or et de l'argent dans les mss. —
-Le morceau commençant par ces mots | 21. καὶ om. Fabr. — 24 διάφορος ουν] κα
+1. καὶ σῆψον] είς σῆψιν B. --- 2. ταύτη | lement par Olympiodore (II, 1v, 36).
+--- κεκρυμμένην om. B. --- 4. ἀμήνεος B. | Nous rapportons les principales va-
+--- 7. καὶ τὸν ἐνα] τὸν δὲ ἔτερον B. --- | riantes de cette citation, qui sera sup-
+10. (Aιόσκορος) ] . Fabr. --- 16. τὸ γυμ- | primée dans le texte d'Olympiodore
+νάσαι BC. --- ὑμῶν BC. --- 17. συνηταγ- | et nous les désignons ici par un asté-
+τησαν Fabr. --- ὼς νοήμασιν ἡμῶν ὁμιλεῖ | risque. --- 1θ. χρυσ. .. ἀργύρω] signes
+Fabr. --- 18. ἡμῶν Fabr. --- άν δὲ βούλη... | de l'or et de l'argent dans les mss. ---
+Le morceau commençant par ces mots | 21. καὶ om. Fabr. --- 24 διάφορος ουν] κα
 et finissant avec le § 9 est cité textuel- | διάφορος B.
 
 
@@ -3460,16 +3459,16 @@ TRAITÉS DEMOCRITAINS
 Ἀκουσον, Ἀιόσκορε. Ο λιθοξόος ξέει τὸν λίθον, ἡ πρίζει, ῖνα
 ἐπιτήδειος γένηται εὶς τὴν χρείαν αὐτοῦ · ὁμοίως καὶ ὁ τέκτων
 15. Après ὑπαρχούσης] ἐν οίς add. M, | M) καθέδραν ἡ δίφρον, καὶ μόνον τ. ὕ. ἐργ.
-f. mel. — 21. ὕλαι οὐν A. — 23. γὰρ om. | καὶ οὐδἐν ἄλλο αύτῶ χαρίζεται ὁ τεχνίτης,
-Fabr. — 24. καὶ ποιἤ θρόνον suppléé par | εὶ μὴ μόνον τὸ εἰδος, οὕτω καὶ ἡ τέχνη
-Fabr. et Piα. Rapprocher la rédaction | αὕτη. Ἄκουσον κ. τ. λ. (F. mel.). — 25.
+f. mel. --- 21. ὕλαι οὐν A. --- 23. γὰρ om. | καὶ οὐδἐν ἄλλο αύτῶ χαρίζεται ὁ τεχνίτης,
+Fabr. --- 24. καὶ ποιἤ θρόνον suppléé par | εὶ μὴ μόνον τὸ εἰδος, οὕτω καὶ ἡ τέχνη
+Fabr. et Piα. Rapprocher la rédaction | αὕτη. Ἄκουσον κ. τ. λ. (F. mel.). --- 25.
 de M : ῶσπερ γὰρ ὁ τ. ἐ. λ. ξ. ποιἤ (ποιεῖ | καὶ om. Fabr.
 
 
 ### 0399
 
 63
-SvNESIUS. — DIALOGUE SUR DEMOCRITE
+SvNESIUS. --- DIALOGUE SUR DEMOCRITE
 τὸ ξύλον πρίζει καὶ ξέει, ῶστε γενέσθαι θρόνον ἡ δίφρον, καὶ οὐδἐν
 ἄλλο) χαρίζεται ὁ τεχνίτης εὶ μὴ μόνον τὸ εῖδος · οὐδἐν γὰρ (ἄλλο)
 ἐστὶν εὶ μὴ ξύλον ὁμοίως καὶ ὁδ χαλκὸς γίνεται ἀνδριας (ἡ κύκλος)
@@ -3489,21 +3488,21 @@ SvNESIUS. — DIALOGUE SUR DEMOCRITE
 ξανθὴ γίνεται.
 ιοσκορος. Mὴ ἄρα τοῦτο ἔλεγεν ὁ φιλόσοφος · ώ φύσεις οὐράνιοι,
 φύσεων δημιουργοὶ ταῖς μεταβολαῖς νικῶσαι τὰς φύσεις ;
-20 — αὶ, δια τοῦτο είρηκεν · εὶ μὴ γὰρ ἐκστραφῆ, ἀδύνατον γενέσθαι
+20 --- αὶ, δια τοῦτο είρηκεν · εὶ μὴ γὰρ ἐκστραφῆ, ἀδύνατον γενέσθαι
 τὸ προσδοκώμενον καὶ μάτην κάμνουσιν οὶ τὰς ὕλας ἐξερευνῶντες,
 καὶ μὴ φύσεις σωμάτων μαγνησίας ζητοῦντες. Ἐξεστι γὰρ τοῖς ποιη-
 ταῖς καὶ συγγραφεῦσι τὰς αὐτὰς λέξεις, ἄλλως τε καὶ ἄλλως σχηματί-
-1. γίνεσθαι Fabr. — καὶ οὐδἐν — τὸ είδος — 8. συγγένειαν] ἀγγελίαν mss. Corrigé
-om. A Fabr. — 2. οὐδἐν] οὐδὲ mss. Cor- | d'après M:. — Pi2. a traduit afinita-
-rigé d'après M. — ἄλλο suppléé d'après | tem. — Note de Fabr. : Locus ut νide-
-M*, ainsi que les autres mots placés | tor corruptus. — 10. ἀναδρομεῖν Fabr.
-ici entre crochets obliques. — 3. Pic. | — ἐξαπαρχῆς M. — ἐξ ὑπαρχῆς B. — 11.
-traduit, après ἀνδριὰς : vel circulus vel | εὶδέναι] ἀναλαβεν B. — λελοξουμένως Fabr.
-quoddam aliud νas. .. (d'après M*?). | (ms. A mal lu). — l3. κιννάβαρις] ἐκ κιννα-
-— 5. ὑδράργυρος] σελήνη Fabr., ici et | βάρεως Fabr. qui omet είπεν — ὑδράργυ-
-plus loin. — 6. ἐν τῶ τετραστίχω B. — | ρος. F. l. κιννάῦαριν. — 18. ούράνιαι B. Les
-7. μένει] γίνεται M*. — κρ. κ. κρατ. om. | deux formes s'emploient. — 22. F. l.
-B. — Πηίχιος BC; Eπιβήχιος A Fabr. l καὶ μὴ φύσιν σώματος μαγν.
+1. γίνεσθαι Fabr. --- καὶ οὐδἐν --- τὸ είδος --- 8. συγγένειαν] ἀγγελίαν mss. Corrigé
+om. A Fabr. --- 2. οὐδἐν] οὐδὲ mss. Cor- | d'après M:. --- Pi2. a traduit afinita-
+rigé d'après M. --- ἄλλο suppléé d'après | tem. --- Note de Fabr. : Locus ut νide-
+M*, ainsi que les autres mots placés | tor corruptus. --- 10. ἀναδρομεῖν Fabr.
+ici entre crochets obliques. --- 3. Pic. | --- ἐξαπαρχῆς M. --- ἐξ ὑπαρχῆς B. --- 11.
+traduit, après ἀνδριὰς : vel circulus vel | εὶδέναι] ἀναλαβεν B. --- λελοξουμένως Fabr.
+quoddam aliud νas. .. (d'après M*?). | (ms. A mal lu). --- l3. κιννάβαρις] ἐκ κιννα-
+--- 5. ὑδράργυρος] σελήνη Fabr., ici et | βάρεως Fabr. qui omet είπεν --- ὑδράργυ-
+plus loin. --- 6. ἐν τῶ τετραστίχω B. --- | ρος. F. l. κιννάῦαριν. --- 18. ούράνιαι B. Les
+7. μένει] γίνεται M*. --- κρ. κ. κρατ. om. | deux formes s'emploient. --- 22. F. l.
+B. --- Πηίχιος BC; Eπιβήχιος A Fabr. l καὶ μὴ φύσιν σώματος μαγν.
 
 
 ### 0400
@@ -3517,9 +3516,9 @@ TRAITES DEMOCRITAINS
 5 ὶυνέσιος. Nαὶ, δια ταύτης γὰρ τὸ πᾶν ἀνασπάται, καὶ πάλιν
 προστίθεται, καὶ κατὰ βαθμὸν ἐκάστης οὶκονομίας τετύχηκεν χρυσό-
 κολλα ἤτοι βατράχιον, ἐν δὲ τοῖς χλωροῖς λίθοις εὐρίσκεται.
-— Καὶ τίς ἄν εἶη χρυσόκολλα ἤτοι βατράχιον · τίς ἡ σημασία
+--- Καὶ τίς ἄν εἶη χρυσόκολλα ἤτοι βατράχιον · τίς ἡ σημασία
 ὅτι καὶ ἐν τοῖς χλωροῖς λίθοις εὐρίσκεται ;
-10 — Ἀναγκαῖον οὕν ἡμῖν ἐστι ζητῆσαι. Θφέλομεν οὕν εὶδέναι πρῶ-
+10 --- Ἀναγκαῖον οὕν ἡμῖν ἐστι ζητῆσαι. Θφέλομεν οὕν εὶδέναι πρῶ-
 τον ὄσα ἀπὸ χρωμάτων εὶσὶ χλωρῶν. θέρε δὴ ὡς ἀπὸ ἀνθρώπου
 εἶπωμεν. Προτετίμηται γὰρ ὁ ἄνθρωπος πάντων τῶν ζώων τῶν ἐπὶ
 τῆς γῆς. Λέγομεν οὕν ὅτι] χριάσαντα τοῦτον χλωρὸν γεγονέναι,
@@ -3538,17 +3537,17 @@ O
 25 ἐγώ κεκίνημαι, Ἀιόσκορε · ἐνταῦθα σήπει τὸν χρυσὸν, εἶτα ἐπαναλαμ-
 βάνει καδμείαν, εἶτα ἀνδροδάμαντα καὶ ὁ ἀνδροδάμας καὶ ἡ καδμεία
 ξηρά εὶσι. Καὶ δείκνυσι τὴν ξηρότητα τῶν σωμάτων · καὶ ῖνα εὕδηλον
-1. τουτέστιν om. B. — 5. Nαὶ] Καὶ B. | 14. ώχρὰ mss. — 15. καὶ αὐτὸ δἐ μᾶλλον B.
-— 6. καταβαθμὸν MB. Corrigé dans A | — 21. κλαυδιανὸν, ἀρσένικον] κλ. ἀρσενικον
-Fabr. — 7. ἤτοι] ὁ ἐστι B. — l0. ἐστιν ἡμῖν | sans accent M. F. l.. ἀρσενικὸν. — 23. δύο
-Fabr. — 11. F. l. χρώματος... χλωροῦ. — | θηλυκὰ] δύο om. Fabr. — 24. ἐπιχνεῦσαι
-φέρε οὐν B. — 13. ὼχριώσαντα A Fabr. — | Fabr. — 25. σήπτει B.
+1. τουτέστιν om. B. --- 5. Nαὶ] Καὶ B. | 14. ώχρὰ mss. --- 15. καὶ αὐτὸ δἐ μᾶλλον B.
+--- 6. καταβαθμὸν MB. Corrigé dans A | --- 21. κλαυδιανὸν, ἀρσένικον] κλ. ἀρσενικον
+Fabr. --- 7. ἤτοι] ὁ ἐστι B. --- l0. ἐστιν ἡμῖν | sans accent M. F. l.. ἀρσενικὸν. --- 23. δύο
+Fabr. --- 11. F. l. χρώματος... χλωροῦ. --- | θηλυκὰ] δύο om. Fabr. --- 24. ἐπιχνεῦσαι
+φέρε οὐν B. --- 13. ὼχριώσαντα A Fabr. --- | Fabr. --- 25. σήπτει B.
 
 
 ### 0401
 
 65
-SVXÉSIUS. — DIALOGUE SUR DEMOCRITE
+SVXÉSIUS. --- DIALOGUE SUR DEMOCRITE
 αὐτὸ ποιήση, ἐπήνεγκε στυπτηρίαν ἐκσηπτωθεῖσαν. λέπε πόση σοφία
 τοῦ ἀνδρός · ῖνα καὶ οὶ ἐχέφρονες νοήσωσι πῶς αὐτοὐς ἐδίδαξεν εὶπὼν
 στυπτηρίαν ἐκσηπτωθεῖσαν · τάχα δὲ τοῦτο καὶ τοὐς ἀμυήτους φειλε
@@ -3574,17 +3573,17 @@ SVXÉSIUS. — DIALOGUE SUR DEMOCRITE
 Διόσκορος. αὶ · καλῶς εἶρηκας · καὶ μετὰ τοῦτο σῶρι ξανθὸν,
 καὶ χάλκανθον ξανθὸν, καὶ κιννάβαριν.
 υνέσιος. 1ὸ σῶρι καὶ ἡ χάλκανθος, ξανθά ; πῶς ; οὐκ ἀγνοεῖς oς
-1. στυπτηρίαν, ici et plus loin] le signe F. l. ἀλλὰ δὴ — 11. εὶ μὴ γὰρ B. — εὶ γὰρ
-de l'alun remplacé dans Fabr. par λας | μὴ ἡν πρ. τὸ ποντικὴν om. Fabr. — ἀν] ν
-ἀμωνιακὸν. — ἐκσηπτωθεῖσαν B, ici et plus ί Fabr. — 12. F. l. ὕδωρ θείου ἀθίκτου. —
-loin ; ἐξιπωθεῖσαν M. — PiZκ. : alumen 15. ἀπολελυμένος A ; - μένον Fabr. — 17.
-combustum etplus loin, al. ustum (Pi22. | ἐκ] ἀπὸ B. — τὸ άπὸ ταύτης om. B. — 20.
-a peut-ètre lu ἐξοπτηθεῖσαν, grillé.) Cp | F. l. ποιεῖ. — 22. κιννάβαριν] le signe du
-ci-dessus I, 1, 7. — σοφία] παρατήρησις B. | cinabre remplacé par ἀμωνιακὸν ἄλα
-2. καὶ om. B. — 3. τάχα δἐ τοῦτο] τοῦτο Fabr. — 23. Peut-être faut-il disposer
-γὰρ B. — 4. γένηται] γένοιτο B. — 6. ἐν om. | ainsi le dialogue : Sn. Tὸ σῶρι κ. τ. λ.
-B. — 7. πυρ. ἀπολ.] rites dissolutus | — Diosc. Πῶς ; — Sn. Oὐκ ἀγνοεῖς ὡς
-Pi22. — 9. ὑποδιαιρῶν B, f. mel. — 10. | χλωρὰ εῖη.
+1. στυπτηρίαν, ici et plus loin] le signe F. l. ἀλλὰ δὴ --- 11. εὶ μὴ γὰρ B. --- εὶ γὰρ
+de l'alun remplacé dans Fabr. par λας | μὴ ἡν πρ. τὸ ποντικὴν om. Fabr. --- ἀν] ν
+ἀμωνιακὸν. --- ἐκσηπτωθεῖσαν B, ici et plus ί Fabr. --- 12. F. l. ὕδωρ θείου ἀθίκτου. ---
+loin ; ἐξιπωθεῖσαν M. --- PiZκ. : alumen 15. ἀπολελυμένος A ; - μένον Fabr. --- 17.
+combustum etplus loin, al. ustum (Pi22. | ἐκ] ἀπὸ B. --- τὸ άπὸ ταύτης om. B. --- 20.
+a peut-ètre lu ἐξοπτηθεῖσαν, grillé.) Cp | F. l. ποιεῖ. --- 22. κιννάβαριν] le signe du
+ci-dessus I, 1, 7. --- σοφία] παρατήρησις B. | cinabre remplacé par ἀμωνιακὸν ἄλα
+2. καὶ om. B. --- 3. τάχα δἐ τοῦτο] τοῦτο Fabr. --- 23. Peut-être faut-il disposer
+γὰρ B. --- 4. γένηται] γένοιτο B. --- 6. ἐν om. | ainsi le dialogue : Sn. Tὸ σῶρι κ. τ. λ.
+B. --- 7. πυρ. ἀπολ.] rites dissolutus | --- Diosc. Πῶς ; --- Sn. Oὐκ ἀγνοεῖς ὡς
+Pi22. --- 9. ὑποδιαιρῶν B, f. mel. --- 10. | χλωρὰ εῖη.
 
 
 ### 0402
@@ -3607,63 +3606,63 @@ Pi22. — 9. ὑποδιαιρῶν B, f. mel. — 10. | χλωρὰ εῖη.
 15 καὶ μάτην δυστυχήσαντες οὶ τάλανες εὶς τὸ πέλαγος τοῦτο ὑπορριπιζό-
 μενοι πολλοῖς κόποις καὶ μογεροῖς ἐμπεσόντες, ἀνόνητοι καθεστῶτες
 ἔσονται.
-] — Καὶ τί πάλιν ὁ ἄφθονος φιλόσοφος καὶ καλὸς διδάσκαλος ἐπή-
+] --- Καὶ τί πάλιν ὁ ἄφθονος φιλόσοφος καὶ καλὸς διδάσκαλος ἐπή-
 γαγε ῥὰ ποντικόν ;
-20 — λέπε ἀφθονίαν ἀνδρός. α εἶπεν αὐτὸ, καὶ ῖνα ἡμᾶς πείση,
+20 --- λέπε ἀφθονίαν ἀνδρός. α εἶπεν αὐτὸ, καὶ ῖνα ἡμᾶς πείση,
 πήαγε τὸ ποντικόν. Τίς γὰρ ἀνδρῶν φιλοσόφων οὐκ οἶδεν ὄτι ὁ Πόντος
 κατάρρους ἐστὶν ἐκ τῶν ποταμῶν πάντοθεν περικλυζό-(f. 77 r.) μενος ;
-— Ἀληθῶς, υνέσιε, ἔφρασας, καὶ ηὕφρανάς μου τὴν ψυχὴν σήμε-
+--- Ἀληθῶς, υνέσιε, ἔφρασας, καὶ ηὕφρανάς μου τὴν ψυχὴν σήμε-
 ρον. Θὐκ ἔστι γρ μέτρια ταῦτα · τοῦτο δέ σε παρακαλῶ ῖνα ἐπιπλεῖόν
 25 με διδάξης. Ἀιὰ τί ἄνω εἶπε χάλκανθον ξανθὴν, ῶδε ἀπροσδιορίστως,
 μετὰ τὴς κυανοῦ χαλκάνθου, ἐπήγαγεν ;
-2. ς ἀποχρωμάτων M. — 7. όρα γρρ ὄρα — 13. γαρ] F. l. δὲ. — 14. ἔχει B. — 18.
-περ Fabr. (A mal lu). — Τῶ διορισμῶ B.— | — Καὶ τί πάλιν] Pas de changementd'in-
-8. M mg. : ση μείωσαι. — Au-dessus | terlocuteur dans M. F. l. δια τί. — 21.
-de κρόκος, signe du mercure BCA. — | ἐπήγαγε] εύθέως ἐπήγαγε B. — τὸ ὰ πόντιον
-9. κνικου mss. partout. — 10. κατα λέξιν B. | A. — πυντικὸν] πόντιον mss. Corr. Fabr.
-— 11. F. l. θαύμασαι γάρ μοι · ού μόνον. .. | — 25. ἄνωθεν B. — ξάνθον A Fabr. — δε]
-— 12. ἀλλὰ καὶ — ἀναγαλλίδος om. Fabr. | ἐνταῦθα δὲ B. — 26. κυανοῦ] F. l. κυανέας.
+2. ς ἀποχρωμάτων M. --- 7. όρα γρρ ὄρα --- 13. γαρ] F. l. δὲ. --- 14. ἔχει B. --- 18.
+περ Fabr. (A mal lu). --- Τῶ διορισμῶ B.--- | --- Καὶ τί πάλιν] Pas de changementd'in-
+8. M mg. : ση μείωσαι. --- Au-dessus | terlocuteur dans M. F. l. δια τί. --- 21.
+de κρόκος, signe du mercure BCA. --- | ἐπήγαγε] εύθέως ἐπήγαγε B. --- τὸ ὰ πόντιον
+9. κνικου mss. partout. --- 10. κατα λέξιν B. | A. --- πυντικὸν] πόντιον mss. Corr. Fabr.
+--- 11. F. l. θαύμασαι γάρ μοι · ού μόνον. .. | --- 25. ἄνωθεν B. --- ξάνθον A Fabr. --- δε]
+--- 12. ἀλλὰ καὶ --- ἀναγαλλίδος om. Fabr. | ἐνταῦθα δὲ B. --- 26. κυανοῦ] F. l. κυανέας.
 TRAITES DEMOCRITAINS
 
 
 ### 0403
 
 67
-SVNESIUS. — DIALOGUE SUR DEMOCRITE
-— λλα ταῦτα, ῶ Ἀιόσκορε, τὰ ἄνθη μηνύουσι, χλωρὰ γὰρ ὐπάρ-
+SVNESIUS. --- DIALOGUE SUR DEMOCRITE
+--- λλα ταῦτα, ῶ Ἀιόσκορε, τὰ ἄνθη μηνύουσι, χλωρὰ γὰρ ὐπάρ-
 γουσιν. Ἐπειδὴ οὕν τὸ ἀνερχόμενον ὕδωρ δεῖται πήξεως, εὐθέως ἐπήγα-
 γεν · κόμι ἀκάνθης. ῖτα ἐπάγει · οὐρον ἄφθορον, καὶ ὕδωρ ἀσβέστου,
 καὶ ὕδωρ σποδοκράμβης, καὶ ὕδωρ στυπτηρίας, καὶ ὕδωρ νίτρου, καὶ
 5 ὕδωρ ἀρσενίκου καὶ θείου. λέπε πῶς πάντα τὰ λυτικὰ καὶ διαφορεῖν
 δυνάμενα προήνεγκεν, τοῦτο δηλονότι διδάσκων ἡμᾶς τὴν ἀνάλυσιν τῶν.
 σωμάτων.
-16] — Nαὶ, καλῶς εῖρηκας. Καὶ πῶς ἐπὶ τέλει εῖρηκε · Κυνὸς
+16] --- Nαὶ, καλῶς εῖρηκας. Καὶ πῶς ἐπὶ τέλει εῖρηκε · Κυνὸς
 γάλα ; Ἄνα σοι δείξη ὄτι ἀπὸ τοῦ κοινοῦ τὸ πᾶν λαμβάνεται ;
-0 — ντως ἐνόησας, Ἀιόσκορε. Πρόσεχε δὲ πῶς λέγει · Ἀὕτη ἡ ὕλη
+0 --- ντως ἐνόησας, Ἀιόσκορε. Πρόσεχε δὲ πῶς λέγει · Ἀὕτη ἡ ὕλη
 τῆς χρυσοποιίας ἐστί.
-— Ποία ὕλη ;
-— 11ς οὐκ οἶδεν ὄτι πάντα φευκτά ἐστιν; Θὕτε γὰρ ὄνειον γάλα, οὕτε
+--- Ποία ὕλη ;
+--- 11ς οὐκ οἶδεν ὄτι πάντα φευκτά ἐστιν; Θὕτε γὰρ ὄνειον γάλα, οὕτε
 κυνὸς γάλα πυριμαχῆσαι δύναται. ὸ γὰρ ὄνειον γάλα, ἐὰν ἀποθήσης
 15 ἐν τόπω ίκανὰς ἡμέρας, ἀφαντοῦται.
-— 1ι οἐ καὶ τὸ εὶπεῖν · αῦτά εὶσι τὰ μεταλλοιοῦντα τὴν ὕλην,
+--- 1ι οἐ καὶ τὸ εὶπεῖν · αῦτά εὶσι τὰ μεταλλοιοῦντα τὴν ὕλην,
 ταῦτα καὶ πυρίμαχα ποιεῖ, φευκτῶν αὐτῶν ὄντων · καί τὸ · Ἐκτὸς
 τούτων οὐδέν ἐστιν ἀσφαλές ;
-— Πνα νομίσωσιν οὶ τάλανες ὄτι ἀληθῆ εὶσι ταῦτα. Ἀλλὰ πάλιν
+--- Πνα νομίσωσιν οὶ τάλανες ὄτι ἀληθῆ εὶσι ταῦτα. Ἀλλὰ πάλιν
 20 ἄκουσον αὐτοῦ τί εἶπεν καὶ ἐπιφέρει. Ἐὰν ἡς νοήμων, καὶ ποιήσης ώς
 γέγραπται (ἀντὶ τοῦ · Ἐαν ἤς σοφὸς, καὶ διακρίνης τὸν λογισμὸν ὼς δεῖ
 κενρῆσθαι), ἔση μακάριος.
-— Καὶ τί ἀλλαχοῦ εἶπε ; Ποῖς ἐχέφροσιν ὑμῖν λέγω. Ἀεῖ οὐν ὑμᾶς
+--- Καὶ τί ἀλλαχοῦ εἶπε ; Ποῖς ἐχέφροσιν ὑμῖν λέγω. Ἀεῖ οὐν ὑμᾶς
 γυμνάζειν τὰς φρένας ὑμῶν, καὶ μὴ ἀπατᾶσθαι, ίνα καὶ τὴν ἀνίατον
-2. δεῖται πήξεως] δεῖ τῆς π. Fabr. — 3. ments d'interlocuteur. F. l. l να. ..
-ἐπάγει] ἐπήγαγεν B. — κόμη M. — 4. M | — 10. ἐνόησας] ἐννόησας BCA ; ἐννοεῖς
-mg. ση μείωσαι. — ὕδωρ στυπτ.] ἄλὸς | Fabr. — 14. πυριμαχῆ A ; πυριμαχεὶν
-ἀμωνιακοῦ Fabr. — νίτρου] μολυβδοχάλκου | Fabr. — 15. ἐν τόπω] F. l. ἐν τῶ πυρὶ. —
-Fabr. — 5. ταῦτα πάντα A. — θείου] χαλ- | ἀφανιοῦται Fabr. — 20. Un point après
-κάνθου Fabr. — τὰ om. B. — 8. Nαὶ] καὶ αύτοῦ dans M. On pourrait lire: Dioscore.
-A (intercalé par le copiste) Fabr. — 9. |
-τί εῖπεν ; — Synésius. Καὶ ἐπιφέρει... —
+2. δεῖται πήξεως] δεῖ τῆς π. Fabr. --- 3. ments d'interlocuteur. F. l. l να. ..
+ἐπάγει] ἐπήγαγεν B. --- κόμη M. --- 4. M | --- 10. ἐνόησας] ἐννόησας BCA ; ἐννοεῖς
+mg. ση μείωσαι. --- ὕδωρ στυπτ.] ἄλὸς | Fabr. --- 14. πυριμαχῆ A ; πυριμαχεὶν
+ἀμωνιακοῦ Fabr. --- νίτρου] μολυβδοχάλκου | Fabr. --- 15. ἐν τόπω] F. l. ἐν τῶ πυρὶ. ---
+Fabr. --- 5. ταῦτα πάντα A. --- θείου] χαλ- | ἀφανιοῦται Fabr. --- 20. Un point après
+κάνθου Fabr. --- τὰ om. B. --- 8. Nαὶ] καὶ αύτοῦ dans M. On pourrait lire: Dioscore.
+A (intercalé par le copiste) Fabr. --- 9. |
+τί εῖπεν ; --- Synésius. Καὶ ἐπιφέρει... ---
 Dans Fabr. la phrase να σοι κ. τ. λ. est | 23. ὑμᾶς] ἡμᾶς Bet Piz2. seulement ; ἡμἄς
-attribuée à Synésius. Les mss. dans tout | puis ὑμῶν conviendraient mieux. — 24.
+attribuée à Synésius. Les mss. dans tout | puis ὑμῶν conviendraient mieux. --- 24.
 ce passage n'indiquent pas les change- | τὴν ἀνίατον πενίαν τῆς νόσου ἐκφύγοιμεν M.
 
 
@@ -3674,8 +3673,8 @@ TRAITES DEMOCRITAINS
 νόσον τῆς πενίας ἐκφύγοι-(f. 77 v.) μεν, καὶ μὴ νικηθῶμεν ὑπ αὐτῆς,
 καὶ εὶς ματαίαν πενίαν ἐμπεσόντες δυστυχήσωμεν, ἀνόνητοι καθεστῶτες ·
 τοῦ γυμνάζεσθαι τὰς φρένας ὁφείλομεν, καὶ ὁξὐν ἔχειν τὸν νοῦν.
-17] — ιὰ τί οὐν ἐπιφέρει τὸ ἐπιβάλλειν ;
-5 — ὐ διαλέγει τὰ προλεγόμενα, ἀλλὰ τὰ ἀπὸ τοῦ νοός. Ἀλλὰ πάλιν
+17] --- ιὰ τί οὐν ἐπιφέρει τὸ ἐπιβάλλειν ;
+5 --- ὐ διαλέγει τὰ προλεγόμενα, ἀλλὰ τὰ ἀπὸ τοῦ νοός. Ἀλλὰ πάλιν
 λέγει ποτἐ μἐν χρυσὸν διὰ τὸν χρυσοκόραλλον, ποτὲ δὲ ἄργυρον
 διὰ τὸν χρυσὸν, ποτὶ δὲ χαλκὸν διὰ τὸν χρυσὸν, ποτἐ δὲ μόλυβδον
 ἡ κασσίτερον διὰ τὸν μολυβδόχαλκον. Πδοὐ αὐτός (ἐστιν] ὑπὸ τοὐς
@@ -3691,27 +3690,27 @@ Aὕτη ἡ ὕλη τῆς χρυσοποιίας εὶρήσθω, ἐπιφέ
 λικοῦ. Καὶ ἄνω μἐν οὕν ἐν τῆ χρυσοποιία · δράργυρος ἡ ἀπὸ
 κινναβάρεως ἐνταῦθα δέ · δράργυρος ἡ ἀπὸ ἀρσενίκου ἡ ψιμμυθίου
 20 καὶ τὰ ἐξῆς.
-— Καὶ πῶς ἐνδέχεται ὑδράργυρον ψιμμύθιον γενέσθαι ;
-— Ἀλλ οὐκ ἀπὸ ψιμμιθίου ὑδράργυρον εἶπεν ῖνα λάβωμεν, ἀλλὰ τὴν
-1. ἐκφύγομεν A ; ἐκφύγωμεν Fabr. — | thume » (Vieeg, 1886) p. 134. (Cita-
-3. τοῦ] τὸ B, f. mel. — 4. ἐπιβάλλειν] | tion de Plutarque : Aὶ μάστιγες αὶ κερ-
+--- Καὶ πῶς ἐνδέχεται ὑδράργυρον ψιμμύθιον γενέσθαι ;
+--- Ἀλλ οὐκ ἀπὸ ψιμμιθίου ὑδράργυρον εἶπεν ῖνα λάβωμεν, ἀλλὰ τὴν
+1. ἐκφύγομεν A ; ἐκφύγωμεν Fabr. --- | thume » (Vieeg, 1886) p. 134. (Cita-
+3. τοῦ] τὸ B, f. mel. --- 4. ἐπιβάλλειν] | tion de Plutarque : Aὶ μάστιγες αὶ κερ-
 κυραῖαι λέγονται δ ι ά φ ο ρ ο ι ειναι π α ρ ὰ
-ἐπιβαλεῖν A ; ἐπιβολὴν Pi22. — 5. M mg. :
-καλ (ό ν en lettres retournées. — ού | τὰς ἄλλας.) — τοῦ om. B. — 6. χρυσὸν]
-διαλέγει] sic A Fabr. ; ού δια (διὰ M), puis | Le signe du cinabre Fabr. 3 fois. —
-la place de 8 à 10 lettres, puis λέγει M | 7. ποτἐ δὲ μολ.] δὲ om. M. — 8. ὑπὸ
-BC. Piz2. semble avoir lu οὐ διὰ τοῦτο | ἐπ B. — 9. τῆς τέχνης — είς βόθρον] μὴ
-λέγει « non ob id dicit. . . .. sed animi | οὑν εὶς βάραθρον A Fabr. — 16. λέγοντος
-sensus explicat ». F. l. οὐ διά φορα λέγει | om. BC ; A add. supra versum. — 1ι.
-παρα τὰ προλεγόμενα. « I ne se con- | θείου] χαλκάνθου Fahr. — 19. κινναβάρεως]
-tredit pas. » Cp. « Les textes grecs | ἀλὸς ἀμωνιακοῦ Fabr. — δὲ] λέγει A Fabr.
+ἐπιβαλεῖν A ; ἐπιβολὴν Pi22. --- 5. M mg. :
+καλ (ό ν en lettres retournées. --- ού | τὰς ἄλλας.) --- τοῦ om. B. --- 6. χρυσὸν]
+διαλέγει] sic A Fabr. ; ού δια (διὰ M), puis | Le signe du cinabre Fabr. 3 fois. ---
+la place de 8 à 10 lettres, puis λέγει M | 7. ποτἐ δὲ μολ.] δὲ om. M. --- 8. ὑπὸ
+BC. Piz2. semble avoir lu οὐ διὰ τοῦτο | ἐπ B. --- 9. τῆς τέχνης --- είς βόθρον] μὴ
+λέγει « non ob id dicit. . . .. sed animi | οὑν εὶς βάραθρον A Fabr. --- 16. λέγοντος
+sensus explicat ». F. l. οὐ διά φορα λέγει | om. BC ; A add. supra versum. --- 1ι.
+παρα τὰ προλεγόμενα. « I ne se con- | θείου] χαλκάνθου Fahr. --- 19. κινναβάρεως]
+tredit pas. » Cp. « Les textes grecs | ἀλὸς ἀμωνιακοῦ Fabr. --- δὲ] λέγει A Fabr.
 publiés par Ch. Graux ; édition pos- | F. l. ἐνταῦθα δὲ λέγει · ὑδρ.
 
 
 ### 0405
 
 69
-OLVMPIODORE. — SUR L'ART SACRE
+OLVMPIODORE. --- SUR L'ART SACRE
 λεύκωσιν τῶν σωμάτων, εῖτουν ἀνάκαμψιν αὶνιττόμενος εἶρηκεν ωοε
 γαρ τὰ λευκὰ πάντα εἶπεν · ἐκεῖ δὲ τὰ ξανθα, ῖνα νοήσωμεν. Θρα
 πῶς εἶπεν · Σῶμα μαγνησίας χρυσοκόραλλον · ἐνταῦθα δὲ σῶμα
@@ -3723,29 +3722,29 @@ OLVMPIODORE. — SUR L'ART SACRE
 ὁμόχροα ἀποτελεῖσθαι εὶς ἐν χρῶμα · καὶ τὰ μἐν δύο ὑδράργυρα ὑδραρ-
 10 γυρίζονται καὶ εὶς σῆψιν ἀποχωρίζονται. Θεοῦ δὲ βοηθοῦντος ἄρξομαι
 ὑπομνηματίζειν.
-II. I. — ΟLΥΜΡΟΟΟRE.
-Transcrit sur M, f. 163 r. — Collationné sur A, f. 197 r. ; — sur K (copie prob-
+II. I. --- ΟLΥΜΡΟΟΟRE.
+Transcrit sur M, f. 163 r. --- Collationné sur A, f. 197 r. ; --- sur K (copie prob-
 blement directe de M.), f. 7 r., seulement les premiers feuillets, pίus quelques son-
-ages ; — sur L ou La, f. 1 r.
+ages ; --- sur L ou La, f. 1 r.
 OAΥIΟ)ΟΡΟΥ OΣOO ΕΣ
 ΤΟ ΖΣIΙO ΟA Λ0 Ο ΣΟΥ ΝΙΣΝ ψIΟΣOΣΝ
 IIΣΝA.
 1] Γίνεται δὲ ἡ ταριχεία ἀπὸ μηνὸς μεχὶρ κε (καὶ] ἔώς μεσωρὶ
-1. εῖτ ' οὄν M ; ἡ Fabr. — ῶδε] ἐνταῦθα | (βασιλέαν A) Ἀρμενίας περὶ τῆς θείας καὶ
-B. — 2. τὰ om. A Fabr. — 3. Après | ἰερᾶς τέχνης τοῦ λίθου τῶν φιλοσόφων, puis
-μαγνησίας] μόνον add. A mg. sup. Fabr. — | dans L : καὶ εὶς τὸ κ. ἐ. . καὶ εὶς ὄσα ἀπὸ
-χρυσοκόρ. — σῶμα μαγν. om. B ; A l'ajoute | Lρμοῦ κ. τ. λ. (comme dans MK). —
-de 1e main à la mg. sup. — 8. δεt] χρὴ | 13. ἀπὸ] F. l. ὑπὸ. — 14. Tίνεται — ἀπο-
-A Fabr. — ἐν ταῖς χ. A ; καὶἐν τ. χ. Fabr. | κείμενα] Texte reproduit dans III, xxιx,
-— ὁμοχρόους M. — 9. ὑδραργυρίζοντα Fabr, | 9, avec quelques variantes que l'on a
-F.l. ἀργυρίζονται — Pi22. traduit ταριχ. r | indiquées au passage cité. Cp. les textes
+1. εῖτ ' οὄν M ; ἡ Fabr. --- ῶδε] ἐνταῦθα | (βασιλέαν A) Ἀρμενίας περὶ τῆς θείας καὶ
+B. --- 2. τὰ om. A Fabr. --- 3. Après | ἰερᾶς τέχνης τοῦ λίθου τῶν φιλοσόφων, puis
+μαγνησίας] μόνον add. A mg. sup. Fabr. --- | dans L : καὶ εὶς τὸ κ. ἐ. . καὶ εὶς ὄσα ἀπὸ
+χρυσοκόρ. --- σῶμα μαγν. om. B ; A l'ajoute | Lρμοῦ κ. τ. λ. (comme dans MK). ---
+de 1e main à la mg. sup. --- 8. δεt] χρὴ | 13. ἀπὸ] F. l. ὑπὸ. --- 14. Tίνεται --- ἀπο-
+A Fabr. --- ἐν ταῖς χ. A ; καὶἐν τ. χ. Fabr. | κείμενα] Texte reproduit dans III, xxιx,
+--- ὁμοχρόους M. --- 9. ὑδραργυρίζοντα Fabr, | 9, avec quelques variantes que l'on a
+F.l. ἀργυρίζονται --- Pi22. traduit ταριχ. r | indiquées au passage cité. Cp. les textes
 liquefacere etχω (νεύ) σεσι par conflatio- | analogues contenus dans les mss. La,
-nibus (coulées). — 10. ἀποχωρίζοντα Fabr. |
-( p. 175 et Lc, p. 341. — δὲ om. A. —
-— δὲ om. Fabr. — ἄρχομαι ὑπομνηματίζειν] | καὶ est probablement une répétition
-τὸπᾶν (καὶ τὸ πᾶν A) τοῦ λόγου τετέλεσται BC | altérée de κε. — μεσωρὶ] μετοπωρινῆς A.
-A Fabr. — A mg. ἀρξ. ὑπομνημ., avec | — Réd. de L :... μεχὶρ, ἤγουν τοῦ φεξρυα-
-renvoi à βοηθοῦντας. — 12. Titre dans | ρίου είκοστῆς πέμπτης, ἐως μεσωρὶ ἤγουν τοῦ
+nibus (coulées). --- 10. ἀποχωρίζοντα Fabr. |
+( p. 175 et Lc, p. 341. --- δὲ om. A. ---
+--- δὲ om. Fabr. --- ἄρχομαι ὑπομνηματίζειν] | καὶ est probablement une répétition
+τὸπᾶν (καὶ τὸ πᾶν A) τοῦ λόγου τετέλεσται BC | altérée de κε. --- μεσωρὶ] μετοπωρινῆς A.
+A Fabr. --- A mg. ἀρξ. ὑπομνημ., avec | --- Réd. de L :... μεχὶρ, ἤγουν τοῦ φεξρυα-
+renvoi à βοηθοῦντας. --- 12. Titre dans | ρίου είκοστῆς πέμπτης, ἐως μεσωρὶ ἤγουν τοῦ
 AL : Ολ. φιλ. πρὸς Πετάσιον τὸν βασιλέα | αὐγούστου.
 
 
@@ -3775,26 +3774,26 @@ TRAITES DÉMOCRITAINS
 20 (f. 163 v.) τὰ οὐ φυσικὰ πράγματα μεθοδεύσωσιν, ὁ δὴ καὶ γέγονεν.
 κ τῶν ἐξῆς γὰρ ὁ παρν δηλώσει τρόπος.
 1. ταρίχευε και πλύνε ταῦτα πρότερον καὶ ἐνυποκειμένω M ici et presque partout.
-ἄφες αύτὰ L. — ἔως] ς M. — τὰ αὐτὰ] αὐτὰ | — ἐν ὑποκ. εἰναι, τὸδὲσυμβ. L. — Aριστοτέ-
-A, f. mel. — 2.ἀγγείοις] ἄγγεσιν A. — δύνn] | λης γὰρ] Cp. Aristote, Catégories 5, p. 2a
-δυνείσοι (pour δυνήση ?) A. — 3. κάλλιστα καὶ | 11. — 13. Iλάτων δὲ] Cp. Alcinous, sur
-σοφώτατα L. — 5. M mg. : φάρμουθι, ἀπριλλ les dialogues de Platon (dans le Platon
-(Main du XVe siècle). — 6. Après ἀπο- | de la collection Didot, t. III, p. 232). —
-κρύπτειν] ὡς ἔοικεν add. L. — δὲ ὅτι] γὰρ | Après ποιεῖ] Réd. de L : κατὰ μἐν γὰρ τὸ
-L. — Après ταύτας] καὶ φιλοσοφικς add. ἐν ὑποκ. τ. ο. ποιεῖ, κατὰ δὲ τὸ ούκ ἐν ὑποκ.
-L. — 9. ἐπὶ τοῦ ἐναποκειμένου A. — ἐπὶ τὸ συμβεβηκὸς εἶναι. — 17. πράγματος] συγ
-τοῦ ἐνυποκειμένω L 2 fois.. — καὶ ούκ ἐν | κράματος (pour συγγράμματος ) A. — 18.
-ὑποκ. A. — 10. ῶ φιλόσοφε δέσποτα L. — | θεωριῶν ταύτην ἐκθέσθαι L. — 19. τῶν μὴ
-εὶς τοῦτο γὰρ αὐτὸ Πλάτων καὶ Ἄριστοτέλης φυσικῶν L. — ἀκοντίσαντες] ἐλκύσαντες L.
-ἀλληγοροῦσι L. — ἀλληγοροῦνται A. — 11. | — 20. γέγονεν — παρών] Réd. de L :
-διαφέρονται πρὸς ἀλλήλους L. — 12. Aρισ- | γέγονεν αὐτοῖς · τὰ δὲ πάντα ἐκ τῶν ἐξῆς ὁ
-τοτ. μἐν γρ L. — φησὶν τὴν ούσίαν L. — | παρών. ....
+ἄφες αύτὰ L. --- ἔως] ς M. --- τὰ αὐτὰ] αὐτὰ | --- ἐν ὑποκ. εἰναι, τὸδὲσυμβ. L. --- Aριστοτέ-
+A, f. mel. --- 2.ἀγγείοις] ἄγγεσιν A. --- δύνn] | λης γὰρ] Cp. Aristote, Catégories 5, p. 2a
+δυνείσοι (pour δυνήση ?) A. --- 3. κάλλιστα καὶ | 11. --- 13. Iλάτων δὲ] Cp. Alcinous, sur
+σοφώτατα L. --- 5. M mg. : φάρμουθι, ἀπριλλ les dialogues de Platon (dans le Platon
+(Main du XVe siècle). --- 6. Après ἀπο- | de la collection Didot, t. III, p. 232). ---
+κρύπτειν] ὡς ἔοικεν add. L. --- δὲ ὅτι] γὰρ | Après ποιεῖ] Réd. de L : κατὰ μἐν γὰρ τὸ
+L. --- Après ταύτας] καὶ φιλοσοφικς add. ἐν ὑποκ. τ. ο. ποιεῖ, κατὰ δὲ τὸ ούκ ἐν ὑποκ.
+L. --- 9. ἐπὶ τοῦ ἐναποκειμένου A. --- ἐπὶ τὸ συμβεβηκὸς εἶναι. --- 17. πράγματος] συγ
+τοῦ ἐνυποκειμένω L 2 fois.. --- καὶ ούκ ἐν | κράματος (pour συγγράμματος ) A. --- 18.
+ὑποκ. A. --- 10. ῶ φιλόσοφε δέσποτα L. --- | θεωριῶν ταύτην ἐκθέσθαι L. --- 19. τῶν μὴ
+εὶς τοῦτο γὰρ αὐτὸ Πλάτων καὶ Ἄριστοτέλης φυσικῶν L. --- ἀκοντίσαντες] ἐλκύσαντες L.
+ἀλληγοροῦσι L. --- ἀλληγοροῦνται A. --- 11. | --- 20. γέγονεν --- παρών] Réd. de L :
+διαφέρονται πρὸς ἀλλήλους L. --- 12. Aρισ- | γέγονεν αὐτοῖς · τὰ δὲ πάντα ἐκ τῶν ἐξῆς ὁ
+τοτ. μἐν γρ L. --- φησὶν τὴν ούσίαν L. --- | παρών. ....
 
 
 ### 0407
 
-OLVMPIODORE. — SUR LART SACRE
-2] νεται δὲ ἡ ταριχεία περὶ τῆς πηλώδους γῆς. — Ἐνταῦθα
+OLVMPIODORE. --- SUR LART SACRE
+2] νεται δὲ ἡ ταριχεία περὶ τῆς πηλώδους γῆς. --- Ἐνταῦθα
 διαλέγεται ὁ φιλόσοφος τῆς ὁφειλούσης πλύνεσθαι · πλῦναι γὰρ χρὴ
 καὶ πλῦναι μέχρις ἄν τὸ πηλῶδες ἐξέλθη, κατὰ τὴν θείαν Mαρίαν.
 Πᾶσα γὰρ γῆ τοιαύτη σωματοφόρος, πλυνομένη, εὶς ψάμμον κατα-
@@ -3816,19 +3815,19 @@ o] 1ῶ οἐ « ποιῆσαι τῆς ταριχείας ἐνέργειαν 
 20 πρᾶξιν ἐκλαμβάνεται. Ἄστω σοι γνωστὸν, ώς καὶ ὄτι τις ταριχεύων
 τι τῶν ὄψων καὶ χρόνου τινὸς δεῖται, καὶ ἡ ῶρα χρόνος ἐστίν · αὐτῆ
 γοῦν τῆ ῶρα πλυθεὶς ὁ πηλὸς εὶς τὴν ψάμμον καταλήξας ψύγεται.
-1. M mg. sigle de ὼραῖον. — Tίνεται αύτήν].ἐν αὐτῆ L. — 12. Tὸ γὰρ] F. l. τὸ
-δὲ.. .] Réd. de L Ἀπασα ἡ ἐργασία τῆς | δὲ. — 13. διαστήματος τοῦ ξηρίου παεεν τὴν
-ταριχείας γίνεται. — La phrase Tίνεται — | σκευὴν, καὶ μὴ ἐάσας... L. — 16. ἀποκείμενον
-γῆς est citée dans le morceau II, xxx, MK. — εὶσι] σημαίνει L. — 17. ῶν τινων]
-2, et complétée ainsi : μέχρις ἄν τὸ πηλῶ- ῶν L. — 18. Tῶ δὲ] Τὸ δὲ AL, f. mel. —
-δες ἐξέλθη καὶ είς ψάμμον καταλήξη. — 2. | 20. Après ἔστω σοι] τοίνυν add. L. — ς
-Après ὁ φιλόσοφος] περὶ τῆς γῆς add. L. — καὶ A; om. L. — ὄτι — δεῖται] Réd. de
+1. M mg. sigle de ὼραῖον. --- Tίνεται αύτήν].ἐν αὐτῆ L. --- 12. Tὸ γὰρ] F. l. τὸ
+δὲ.. .] Réd. de L Ἀπασα ἡ ἐργασία τῆς | δὲ. --- 13. διαστήματος τοῦ ξηρίου παεεν τὴν
+ταριχείας γίνεται. --- La phrase Tίνεται --- | σκευὴν, καὶ μὴ ἐάσας... L. --- 16. ἀποκείμενον
+γῆς est citée dans le morceau II, xxx, MK. --- εὶσι] σημαίνει L. --- 17. ῶν τινων]
+2, et complétée ainsi : μέχρις ἄν τὸ πηλῶ- ῶν L. --- 18. Tῶ δὲ] Τὸ δὲ AL, f. mel. ---
+δες ἐξέλθη καὶ είς ψάμμον καταλήξη. --- 2. | 20. Après ἔστω σοι] τοίνυν add. L. --- ς
+Après ὁ φιλόσοφος] περὶ τῆς γῆς add. L. --- καὶ A; om. L. --- ὄτι --- δεῖται] Réd. de
 5. πλύσιν] πλῦσιν M partout ; πλύνσιν AL | L : ὄτι ἡ ταρίχευσις τῶν ὄψ. χρ. τ. δεῖται.
-partout. — 6. Après εὶς τ. ψ] μεταβεβλη- — M mg. : sigle de ὼραῖον et de χρησ-
-μένα add. L. — ἀργυρίζοντα] χρυσίζοντα | τόν, puis : ἀληθ (άληθές). — 22. Après ὁ
-L. — 7. ὁ ἐστιν — λιθάργυρον] Réd. de | πηλὸς] καὶ add. L. — ψύγεται — μεχὶρ]
+partout. --- 6. Après εὶς τ. ψ] μεταβεβλη- --- M mg. : sigle de ὼραῖον et de χρησ-
+μένα add. L. --- ἀργυρίζοντα] χρυσίζοντα | τόν, puis : ἀληθ (άληθές). --- 22. Après ὁ
+L. --- 7. ὁ ἐστιν --- λιθάργυρον] Réd. de | πηλὸς] καὶ add. L. --- ψύγεται --- μεχὶρ]
 L : τουτέστιν ἀργ. ἤ χρυσοῦ, ἤ μολ. χροιὰν | Réd. de A : χαίρεται ἐξ ἀπὸ μηνὸς.
-ἔχοντα · ὄθεν αὐτῆς ἐπέθ. λιθάργ. — 10. εὶς | μχίρ.
+ἔχοντα · ὄθεν αὐτῆς ἐπέθ. λιθάργ. --- 10. εὶς | μχίρ.
 
 
 ### 0408
@@ -3857,26 +3856,26 @@ TRAITES DEMOCRITAINS
 0 ρῶν ῶς τινες νομίζουσιν. γὰρ Ἐρμῆς φησιν · αὌταν λάβη μετὰ
 τὴν μεγάλην θεραπείαν, τουτέστιν τὴν πλύσιν τῆς ψάμμου », ἰδοὐ
 1. ἐσήμανεν] σημαίνει AL, ici et plus variantes) après ἀπολελυμένην (ligne 15).
-loin. — 2. οὐκ εἰπε] οὐ λέγω L. — μετὰ | — 14. οὕν] γρ L. — είρήκασιν] εῖρηκαν M.
-τὸ τέλος...] Réd. de L : μετὰ τὸ τέλος τοῦ | — 15. Après ἀπολελυμένην] Réd. de L :
+loin. --- 2. οὐκ εἰπε] οὐ λέγω L. --- μετὰ | --- 14. οὕν] γρ L. --- είρήκασιν] εῖρηκαν M.
+τὸ τέλος...] Réd. de L : μετὰ τὸ τέλος τοῦ | --- 15. Après ἀπολελυμένην] Réd. de L :
 μεσωρὶ ἤγουν τοῦαύγούστου μηνὸςκαὶ πλύνσεως ί πλύνσιν οὐν ἡθέλησεν ὁ φιλόσοφος φ. ῶστε μὴ
 ἤ μλλον ξηρ. εὶς τὸ πῦρ βάλλεται, ἀλλ ἀπὸ στυπτηρίας τινὰς ἀποβλέπειν καὶ πρὸς τὸ στ.
-τῆς ταρ. ὡς είρηται. — 5. τῶ δὶ] τὸ δὲ L. ἤδη πλανᾶσθαι καὶ ἀκήρατον χρόνον ἐκδαπα-
-— 8. καὶ τὸ τῆς ούσίας είδος. δηλώθη δὲ | νᾶν. — ἀδιάφορος L. — 16. Réd. de L : ἡ
-AL. — 9. τίς ἐστ ν ἡ ταρ. AL. — 10. ς καί γὰρ πλύνσις ἐστὶ κυρία. — 17. Réd. de L :
+τῆς ταρ. ὡς είρηται. --- 5. τῶ δὶ] τὸ δὲ L. ἤδη πλανᾶσθαι καὶ ἀκήρατον χρόνον ἐκδαπα-
+--- 8. καὶ τὸ τῆς ούσίας είδος. δηλώθη δὲ | νᾶν. --- ἀδιάφορος L. --- 16. Réd. de L : ἡ
+AL. --- 9. τίς ἐστ ν ἡ ταρ. AL. --- 10. ς καί γὰρ πλύνσις ἐστὶ κυρία. --- 17. Réd. de L :
 που Ἀημ.] φησὶ δὲ ποῦ ὁ ημ A ; φησὶ δὲ καί καὶ μόνης καλλίστης ἐργασίας πειθήνια ἡ τῶν
-ὁ Ἀημ. L. — 11. ἐξυποριθεὶς A : ἐξιπωθεῖσαν | ὁμ. φ. — ἤ τ ' οὕν M. — 18. Réd. de L :
+ὁ Ἀημ. L. --- 11. ἐξυποριθεὶς A : ἐξιπωθεῖσαν | ὁμ. φ. --- ἤ τ ' οὕν M. --- 18. Réd. de L :
 ..... σωμάτωσις, ἤτοι τῶν ψυχῶν αύτῶν καὶ
 K ; ἐξσηπωθεῖσαν (sic) L ; « F. l. ἐκσηπ-
-τωθεῖοαν. »(M. B.). Cp. p. 44, l. 24. — τῶν πν. τ. δ. μ. τ.φύσεως τελουμένων. — 20.
-Les mots ἐθέλησεν — ἐκδαπανῆσαι sont νομζουσιν restitué par L. — λάβης L. —
+τωθεῖοαν. »(M. B.). Cp. p. 44, l. 24. --- τῶν πν. τ. δ. μ. τ.φύσεως τελουμένων. --- 20.
+Les mots ἐθέλησεν --- ἐκδαπανῆσαι sont νομζουσιν restitué par L. --- λάβης L. ---
 omis ici dans L qui les place (avec 21. ἰδοὐ] οὶ δὲ A ; ἰδοὺ τοίνυν L.
 2
 
 
 ### 0409
 
-OLVMPIODORE. — SUR L'ART SACRE
+OLVMPIODORE. --- SUR L'ART SACRE
 73
 τὴν οὐσίαν ψάμμον ἐκάλεσεν, τὴν δὲ πλύσιν, τουτέστιν τὴν μεγάλην
 θεραπείαν. Καὶ Ἀγαθοδαίμων εὶς τοῦτο συνηγορεῖ. Bαβαὶ τῆς τοῦ
@@ -3884,7 +3883,7 @@ OLVMPIODORE. — SUR L'ART SACRE
 τισεν, καὶ ὁνομαστὶ τὸ εἶδος ἐξεῖπεν, εὶ μὴ οὕτος ὁ ἄριστος καὶ
 5 πάνσοφος ἀνήρ ἡγὰρ καθαρὰ πλύσις δῆλον ὅτι μεγάλη θεραπεία
 ἐστίν. Γποθήσομαι δέ σοι καὶ τὴν τῆς χρυσοκόλλης οὶκονομίαν.
-8] IIΕI XΡΥΣΟΛΟIΣ. — (f. 164 v.) Κρυσόκολλά ἐστιν, του-
+8] IIΕI XΡΥΣΟΛΟIΣ. --- (f. 164 v.) Κρυσόκολλά ἐστιν, του-
 τέστιν τὸν χρυσὸν πρὸς τὸν χρυσὸν κολλῆσαι, ἄ τινά ἐστι τὰ πέταλα
 τοῦ χρυσοῦ τὰ χωρισθέντα ἀπὸ τῶν ψάμμων. Πῶς χρὴ αὐτὰ
 10 ἐνῶσαι, ἤτοι κολλῆσαι, καὶ πρὸς ἐαυτὰ συνελθεῖν, ἶνα τὸ πνεῦμα
@@ -3899,21 +3898,21 @@ OLVMPIODORE. — SUR L'ART SACRE
 πέταλα καλεῖ, τῆ βία τοῦ πυρὸς ἀφυῶς καιόμενα ἐκκαπνίζονται.
 20 9] Mάθοις ἄν, φίλε τῶν Μουσῶν, ὅτι τὸ τῆς οὶκονομίας
 ὄνομα, τί ποτέ ἐστιν. Καὶ μὴ ὑπολάβης ῶς τινες τὴν διὰ χειρῶν
-2. ὁ Aγαθοδαίμων L. — 4. Les mots | Πῶς χρὴ] χρὴ οῦν L. — 10. ἐαυτὰ] F. l.
-καὶ ὁνομαστὶ τὸ είδος ἐξεῖπεν placés plus | αύτὰ.— συνελθεῖν] συζευγνῦναι L. — αύτῆς]
-loin dans L. (avec variantes) — 5. Après | αὐτοῦ A ; αύτῶν L, f. mel. — 11. λέγω
-ἀνήρ] Réd. de L : ὁνομαστὶ γὰρ καὶ ἰδίως | AL. — τὴν χθαμαλωτέραν ἔγλυσιν (pour
-τοῦτο τὸ είδος ἐξεῖπεν · δηλοῖ γὰρ ὄτι ἡ καθαρὰ | ἔκλυσιν) A. — Réd. de L : ...τοῦ πυρὸς,
-πλύνσις μεγ. θεραπεία ἐστίν. — καθαρα] καθα- | ήγουν ἡ χθαμαλωτέρα καῦσις, καὶ ἔκλυσις,
-ρεία M. F. l. καθάριος (καθαρία serait un so- | ίνα.] — 12. τὰ μὴ καθήκοντα.] μὴ τὰ κ.
-lécisme). — 6. καὶ τὸ τῆς χρυσοκ. ἔκθεσις | L. — 14. καίηται] καίεσθαι δεῖ L. — ἐξανα-
-μία A. — οίκονομίαν] ἔκθεσιν L. — 7. A mg., | λιθῆ restitué par L. — ἡ γὰρ νεφ. L. —
+2. ὁ Aγαθοδαίμων L. --- 4. Les mots | Πῶς χρὴ] χρὴ οῦν L. --- 10. ἐαυτὰ] F. l.
+καὶ ὁνομαστὶ τὸ είδος ἐξεῖπεν placés plus | αύτὰ.--- συνελθεῖν] συζευγνῦναι L. --- αύτῆς]
+loin dans L. (avec variantes) --- 5. Après | αὐτοῦ A ; αύτῶν L, f. mel. --- 11. λέγω
+ἀνήρ] Réd. de L : ὁνομαστὶ γὰρ καὶ ἰδίως | AL. --- τὴν χθαμαλωτέραν ἔγλυσιν (pour
+τοῦτο τὸ είδος ἐξεῖπεν · δηλοῖ γὰρ ὄτι ἡ καθαρὰ | ἔκλυσιν) A. --- Réd. de L : ...τοῦ πυρὸς,
+πλύνσις μεγ. θεραπεία ἐστίν. --- καθαρα] καθα- | ήγουν ἡ χθαμαλωτέρα καῦσις, καὶ ἔκλυσις,
+ρεία M. F. l. καθάριος (καθαρία serait un so- | ίνα.] --- 12. τὰ μὴ καθήκοντα.] μὴ τὰ κ.
+lécisme). --- 6. καὶ τὸ τῆς χρυσοκ. ἔκθεσις | L. --- 14. καίηται] καίεσθαι δεῖ L. --- ἐξανα-
+μία A. --- οίκονομίαν] ἔκθεσιν L. --- 7. A mg., | λιθῆ restitué par L. --- ἡ γὰρ νεφ. L. ---
 à l'encre rouge : περὶ χρυσοκόλλεως, et | 16. ἤτοι ὑδράργυρος τῶ πυρὶ] Réd. de L :
-une main. — Pas de titre dans L. — | ἤτοι τὸ ὕδωρ τοῦ ἀργύρου ἤγουν τὸ λειοῦν
-Réd. de AL : χρυσόκολλά ἐστιν ἡ χρυσοῦ | τὸν ἄργυρον, πυρὶ... — 17. οῦτω δὲ καὶ L.
-πρὸς τὴν χρυσὸν κλλησιν (χρυσοκόλλησιν A). | — 18. ἄ τινα] ἄπερ L. — 20. μάθε τοίνυν L.
-— ἄ τινά ἐστιl εὶσὶ δὶ τὰ πέτ. L. — . | — ὄτι om. L. f. mel.
-— ὄτι om. L, f. mel.
+une main. --- Pas de titre dans L. --- | ἤτοι τὸ ὕδωρ τοῦ ἀργύρου ἤγουν τὸ λειοῦν
+Réd. de AL : χρυσόκολλά ἐστιν ἡ χρυσοῦ | τὸν ἄργυρον, πυρὶ... --- 17. οῦτω δὲ καὶ L.
+πρὸς τὴν χρυσὸν κλλησιν (χρυσοκόλλησιν A). | --- 18. ἄ τινα] ἄπερ L. --- 20. μάθε τοίνυν L.
+--- ἄ τινά ἐστιl εὶσὶ δὶ τὰ πέτ. L. --- . | --- ὄτι om. L. f. mel.
+--- ὄτι om. L, f. mel.
 
 
 ### 0410
@@ -3944,29 +3943,29 @@ TRAITÉs DÉMOCRITAINS
 καὶ πολλῆς φλυαρίας ἐκτὸς ὄντα. Ἐνταῦθα τοὐς ἀρχαίους αὶνίττεται
 ώς τινας αὐτῶν φλυαρήσαντας καὶ εὶς ἄπειρον χρόνον τοὐς ζητοῦν-
 1. μόνον ἀρκοῦσαν είναι restitué par L. | ού μόνον δὲ αύτὴ πυρίφευκτός ἐστιν, ἀλλα
-— καὶ restitué par L. — 2. ὄτε] ὄτι mss. | καὶ πάντα τὰ τοῦ καταλόγου. γγ δὲ κ. τ.
-Corr. conj. — 3. προσόχως M. — τὸν | λ. (voir l. 19). — 8. τίνος] τίνι M ; τινα A.
-χρυσὸν ἔξεις — καὶ ἔξεις τὸ ζητούμενον] Réd. | Corr. conj. — 12. ἐκ τούτων οὐσιῶν ἐξιών
-de L : ἐξεις χρυσόν · σχόλαζε δὲ ἀεὶ αὐτ ττ | A. — 17. χρωτῶν] F. l. χρωμάτων(M. B.).
-χρυσικῆ χρήσει καὶ ἔξεις τὸ ζητούμενον. — 6. | — 19. να οῦν — κάλλιστα] Réd. de L :
-καὶ τὸ τῆς οίκ.] τὸ δὲ τῆς οὶκ. L. — 7. δι ὄλων | Iγὼ δὲ διὰ τὸ πλῆθος ού προφέρω σοι τὰς
-τῶν άρχαίων]ὑπὸ πάντων τ. ἀ. L. — κάτοχον | μαρτ. τῶν ἀρχ., όλίγα δὲ σοι παραθήσομαι.
-γρ jusqu'à τὰ τοῦ καταλόγου] Réd. de L : | κάλλιστα. — 22. ὄντα restitué par L, qui
+--- καὶ restitué par L. --- 2. ὄτε] ὄτι mss. | καὶ πάντα τὰ τοῦ καταλόγου. γγ δὲ κ. τ.
+Corr. conj. --- 3. προσόχως M. --- τὸν | λ. (voir l. 19). --- 8. τίνος] τίνι M ; τινα A.
+χρυσὸν ἔξεις --- καὶ ἔξεις τὸ ζητούμενον] Réd. | Corr. conj. --- 12. ἐκ τούτων οὐσιῶν ἐξιών
+de L : ἐξεις χρυσόν · σχόλαζε δὲ ἀεὶ αὐτ ττ | A. --- 17. χρωτῶν] F. l. χρωμάτων(M. B.).
+χρυσικῆ χρήσει καὶ ἔξεις τὸ ζητούμενον. --- 6. | --- 19. να οῦν --- κάλλιστα] Réd. de L :
+καὶ τὸ τῆς οίκ.] τὸ δὲ τῆς οὶκ. L. --- 7. δι ὄλων | Iγὼ δὲ διὰ τὸ πλῆθος ού προφέρω σοι τὰς
+τῶν άρχαίων]ὑπὸ πάντων τ. ἀ. L. --- κάτοχον | μαρτ. τῶν ἀρχ., όλίγα δὲ σοι παραθήσομαι.
+γρ jusqu'à τὰ τοῦ καταλόγου] Réd. de L : | κάλλιστα. --- 22. ὄντα restitué par L, qui
 κάτοχον γὰρ τὶ βουλ. είναι ἐν τῆ τέχνη, ώπερ | omet la suite jusqu'à ἀκοντίσαντας inclus.
-τὰ φεύγοντα κατέχει · τοῦτο δέ ἐστι τὸ πῦρ, | — 23. καὶ — ἀκοντίσαντας om. A. — είς
+τὰ φεύγοντα κατέχει · τοῦτο δέ ἐστι τὸ πῦρ, | --- 23. καὶ --- ἀκοντίσαντας om. A. --- είς
 τὸκατέχον τὴν ὑδράργυρονῆτις ἐστὶν ἡ νεφέλη | ἐπ ᾽ ἄπειρον M.
 
 
 ### 0411
 
-OLVMPIODORE. — SUR L'ART SACRE
+OLVMPIODORE. --- SUR L'ART SACRE
 χ
 τας ἀκοντίσαντας. Πώτω τοίνυν ἡ σὴ πάνσοφος χρηστότης ὄτι
 τρεῖς πίνους ποιοῦσιν οὶ ἀρχάῖοι, ἐνα τὸν ταχέως φεύγοντα, ς τὰ
 θεῖα, ἐνα βραδέως, ὡς τὰ θειώδη, ἔνα μηδὲ ὁλως, ὼς τὰ σώματα
 τὰ χυτὰ καὶ τοὐς λίθους.
 , 12] ΙNΟΣ IIΟΤΟΣ ΟAIΤΟΥ APΣΕΝ Ο BA BAΙNNΟO ΚKΚΟΝ,
-QΣ ΕN ΤOΤΟIΣ. — ρσένικον ὄ ἐστι θεῖον καὶ ταχέως φεῦγον φεύγει
+QΣ ΕN ΤOΤΟIΣ. --- ρσένικον ὄ ἐστι θεῖον καὶ ταχέως φεῦγον φεύγει
 δὲ δηλονότι πρὸς τὸ πῦρ · καὶ ὄσα ὅμοιά εὶσιν τῶ ἀρσενίκω καὶ θεῖα
 λέγονται καὶ φευκτά. Ἡ δὲ σκευὴ οὕτως ἔχει · λαβὼν ἀρσενίκου
 σχιστοῦ τοῦ χρυσίζοντος γ ι, κόψας, σείσας, χνοώδη ποιήσας,
@@ -3983,19 +3982,19 @@ QΣ ΕN ΤOΤΟIΣ. — ρσένικον ὄ ἐστι θεῖον καὶ τα�
 20 αὕτη πηλῶ, ἤτοι φιάλη ἡ φανὸς ὑελοῦς αὐτῶ ἐπικείμενος · καὶ
 ἄνωθεν σκέπεται ἐτέρα φιάλη, καὶ κατασφαλίζεται πανταχόθεν ῖνα
 μὴ καιόμενον τὸ ἀρσένικον διαπνεύση . Καίεται οὐν πολλάκις καὶ
-1. M mg. ση μείωσαι. — γνῶτο M ; | χνοώδη ποισας. AL, f. mel. — 10. ὑέλινον
-γνώτο A. — 2. Après ἀρχαὶοι] Réd. de | A ; ὑάλινον L. — στενοστόμιον M. — 12.
-L : καὶ ὁ μἐν πρῶτός ἐστιν ὁ ταχέως φεύ- | τοῦτο ποιῶν] καὶ τοῦτο ποίει L. — 13. Après
-(ων, ὼς τὰ θεῖα · ὁ δὲ δεύτερός ἐστιν ὁ βρα- | κενώσας] αὐτὸ add. AL. —μέχρις ἄν ἡ όσμὴ
-δέως φεύγων, ὼς τὰ θειώδη · ὁ δἐ τρίτος ἐστὶν | τοῦ ὄξους φύγη L. — 15. συναπόχεε L, f.
-ὁ μηδὲ ὄλως φεύγων, ώς τὰ μέταλλα. καὶ οὶ | mel. — μετὰ τοῦτο om. AL, f. mel. —
-λίθοι καὶ ἡ γῆ. — 3. ἐνα δὲ A. — 5. τὸν | 16. ἤτοι στύψας om. L. — μιγνύεις καὶ συλ-
-χαλκὸν λευκὸν L. — 6. ὡς ἐν τούτοις om. | λειοῖς αὐτὸ M. — 17. τὸ δὲ ἄλας — ἐκάλεσεν
-L. — ὄ om. AL, f. mel. — Réd. de | om. L (3 lignes). — 19. πηλοῦται — κατασ-
+1. M mg. ση μείωσαι. --- γνῶτο M ; | χνοώδη ποισας. AL, f. mel. --- 10. ὑέλινον
+γνώτο A. --- 2. Après ἀρχαὶοι] Réd. de | A ; ὑάλινον L. --- στενοστόμιον M. --- 12.
+L : καὶ ὁ μἐν πρῶτός ἐστιν ὁ ταχέως φεύ- | τοῦτο ποιῶν] καὶ τοῦτο ποίει L. --- 13. Après
+(ων, ὼς τὰ θεῖα · ὁ δὲ δεύτερός ἐστιν ὁ βρα- | κενώσας] αὐτὸ add. AL. ---μέχρις ἄν ἡ όσμὴ
+δέως φεύγων, ὼς τὰ θειώδη · ὁ δἐ τρίτος ἐστὶν | τοῦ ὄξους φύγη L. --- 15. συναπόχεε L, f.
+ὁ μηδὲ ὄλως φεύγων, ώς τὰ μέταλλα. καὶ οὶ | mel. --- μετὰ τοῦτο om. AL, f. mel. ---
+λίθοι καὶ ἡ γῆ. --- 3. ἐνα δὲ A. --- 5. τὸν | 16. ἤτοι στύψας om. L. --- μιγνύεις καὶ συλ-
+χαλκὸν λευκὸν L. --- 6. ὡς ἐν τούτοις om. | λειοῖς αὐτὸ M. --- 17. τὸ δὲ ἄλας --- ἐκάλεσεν
+L. --- ὄ om. AL, f. mel. --- Réd. de | om. L (3 lignes). --- 19. πηλοῦται --- κατασ-
 L : φεύγει δὲ ὑπὸ τοῦ πυρὸς, καὶ ὄσα δὲ ὄμ. | φαλίζεται] Réd. de L : iτα πηλωσον τὴν
-είσιν τῶ ἀρσενίκω] L. — 7. τοῦ ἀρσενίκου M. | φιάλην καὶ κατασφάλιζε. — 20. ὕελος mss.
-— 8. ἔχει · λαβών om. MA. — 9. ιδ] δ | — ἐαυτῶ mss. Corr. conj. — 21. σκέπε-
-AL ; ιδ MK. — καὶ κόψας, καὶ σείσας καὶ | ται] F. l. σκήπτεται.
+είσιν τῶ ἀρσενίκω] L. --- 7. τοῦ ἀρσενίκου M. | φιάλην καὶ κατασφάλιζε. --- 20. ὕελος mss.
+--- 8. ἔχει · λαβών om. MA. --- 9. ιδ] δ | --- ἐαυτῶ mss. Corr. conj. --- 21. σκέπε-
+AL ; ιδ MK. --- καὶ κόψας, καὶ σείσας καὶ | ται] F. l. σκήπτεται.
 
 
 ### 0412
@@ -4010,7 +4009,7 @@ TRAITÉS DÉMOCRITAINS
 ,ί l
 ρίου μιλιαρίσιον ἐν δια τὸ συγκραθῆναι τὴν βαφήν. Μετὰ τοῦτο πάλιν
 ἐπιρρίπτεις ἐν τῆ χώνη άλατος βραχύ τι · καὶ ἔξεις ἄσημον κάλλιστον.
-13] IIINΟΣ ΤΡΟΣ O BΡΛΕΣ ΤΕΥΙΝ. — τῶν μαργάρων
+13] IIINΟΣ ΤΡΟΣ O BΡΛΕΣ ΤΕΥΙΝ. --- τῶν μαργάρων
 χαλκὸς κεκαυμένος καὶτὸσήρικον καὶτὰ τοιαῦτα φεύγουσι μèν, οὐ ταχέως
 10 δὲ, ἀλλὰ βραδέως · καὶχρὴ εὶδέναι ἐκ τῆς ποιήσεως τοῦ σμαράγδου ἡ-
 τις ἔχει οὕτως · κρυστάλλου καλοῦ γ δύο, χαλκοῦ κεκαυμένου S γ
@@ -4026,24 +4025,24 @@ TRAITÉS DÉMOCRITAINS
 ἔρχεται εὶς τὸ χωρῆσαι αὐτὸν ἐκεῖθεν, καὶ κλ αὐτόν. Θέλει δὲ συμ-
 ψυγῆναι εὶς τὸ καμίνιον, καὶ οὕτως ἐπαρθῆναι, ἐπεὶ ζέοντος αὐτοῦ ἐὰν
 ἐπάρης, εὐθέως κλᾶται.
-1. λειοῦ L. — γένηται L, f. mel. — 2. L. | καὶ τὸν χαλκὸν τὸν κεκαυμένον κ. τὸ σρικον
-om. les mots ειτα— κάλλιστον(6lignes). — | εὶς θυίαν καὶ χώνευε αύτὰ εὶς τὸ πῦρ · καὶ
-3. λαμβάνει M. — 6. τῆ βαφῆ A. — 7. ἀση- |
+1. λειοῦ L. --- γένηται L, f. mel. --- 2. L. | καὶ τὸν χαλκὸν τὸν κεκαυμένον κ. τὸ σρικον
+om. les mots ειτα--- κάλλιστον(6lignes). --- | εὶς θυίαν καὶ χώνευε αύτὰ εὶς τὸ πῦρ · καὶ
+3. λαμβάνει M. --- 6. τῆ βαφῆ A. --- 7. ἀση- |
 περιπηλύσας καὶ πωμάσας... καὶ ἐα κ. τ. λ.
-μον καλλ.] ἄσιμον καλλ. M ; κάλλιστον ἄργυ- | — θυίαν M partout. — 14. καθάρειον M. —
-ρον en signe) A. — 8. M. mg. : Sigle | αὐτόν M. — 15. χύνευε AL. — 17. όφείλοντα
-de ραῖον (beau passage). — 9. μἐν] ἡμᾶς | MA. — 19. κρεῖττον δὲ — εύθέως κλᾶται om.
-A. — 10. ἐκ] F. l. ἐπὶ. — τῶν σμαράγδων | L. — 21. ἐκειθεν] εὶς θυίαν A. — 22. Mmg.:
-L. — 11. avant κρυστάλλου (κρουστάλου | ψυχρανθῆναι (main du XIε.XIIIe siècle),
-M)] λάίε add. L. — καὶ πρότερον L. — avec renvoi au mot συμψυγῆναι. — ζέοντα
-12. κρούσταλλον M. — βάλε L. — 13. εθ ᾽ | αὐτὸν M. — 23. κλᾶται] κλάτε A, qui aj.
+μον καλλ.] ἄσιμον καλλ. M ; κάλλιστον ἄργυ- | --- θυίαν M partout. --- 14. καθάρειον M. ---
+ρον en signe) A. --- 8. M. mg. : Sigle | αὐτόν M. --- 15. χύνευε AL. --- 17. όφείλοντα
+de ραῖον (beau passage). --- 9. μἐν] ἡμᾶς | MA. --- 19. κρεῖττον δὲ --- εύθέως κλᾶται om.
+A. --- 10. ἐκ] F. l. ἐπὶ. --- τῶν σμαράγδων | L. --- 21. ἐκειθεν] εὶς θυίαν A. --- 22. Mmg.:
+L. --- 11. avant κρυστάλλου (κρουστάλου | ψυχρανθῆναι (main du XIε.XIIIe siècle),
+M)] λάίε add. L. --- καὶ πρότερον L. --- avec renvoi au mot συμψυγῆναι. --- ζέοντα
+12. κρούσταλλον M. --- βάλε L. --- 13. εθ ᾽ | αὐτὸν M. --- 23. κλᾶται] κλάτε A, qui aj.
 οὕτως λειοις...] Réd. de L : ειταλειοῦ αὐτὸν | εὶς πολλὰ δια τοῦτο ἔα ψυχρανθῆναι.
 
 
 ### 0413
 
-OLVMPIODORE. — SUR L'ART SACRE
-14] ΙΝΟΣ O MHaE ΟΑΣΣ Εra. — Oεύγειν δὲ εὶρήκασι
+OLVMPIODORE. --- SUR L'ART SACRE
+14] ΙΝΟΣ O MHaE ΟΑΣΣ Εra. --- Oεύγειν δὲ εὶρήκασι
 δηλονότι πρὸς τὸ πῦρ · καὶ ἐκτίθενται δύο μυστήρια, ἐν τὸ φεῦγον καὶ ἐν
 τὸ διῶκον · ώς καί που Δημόκριτος τοὐς ἀρχαίους τρεῖς ἐποίησεν · ἔνα
 μἐν ταχέως φεύγοντα, τουτέστιν ἐν τῆ ἀναγωγἤ τῶν ὑγρῶν, ἤγουν ἐν τῆ
@@ -4066,22 +4065,22 @@ OLVMPIODORE. — SUR L'ART SACRE
 νόει συνοῦσαν ἀδιάσπαστον καὶ μένουσαν ἀεί · τοῦτο δέ ἐστιν τὸ
 2. πρὸς τὸ πῦρ] ἐκ τοῦ πυρὸς ἅλλως πρὸς τὸ | μηδὶ ὄλως φεύγοντος, λέγει ὄτι οὕτός ἐστιν
 πῦρ L(c'est-à-dire, variante : πρὸς τὸ πῦρ). | ἀληθῶς καὶ κυρίως πῖνοςὁ τρίτος, ὡς τὰσίματα
-Glose insérée dans le texte. — καὶ ἐκτί-
+Glose insérée dans le texte. --- καὶ ἐκτί-
 | τὰ χυτὰ καὶ μεταλλικά · μετὰ γαρ τὸ οίκονο-
-θενται δ. μ.] διὸ καὶ δ. μ. ἐκτίθ. L. — 3. | μῆσαι κ. τιθ. ἡμᾶς, ταῦτα μερ. γίνονται
-ἐν τὸ διῶκον] ἄλλο τὸ διῶκον L. — ἐποίη- | (γίνοντα L ; corr. conj.) ἀφ. τὰ φ. . καὶ
-σώματα τὰ ἀσώματα. — 11. οίκονομηκέναι
-σεν om. M. — Réd. de L : (0 ημύκρι-
-τος δέ φησι περὶ τοῦ ταχέως φεύγοντος ὄτι ἐν | mss. — 12. Καὶ τοῦτο γαρ L. — ἀλλα
+θενται δ. μ.] διὸ καὶ δ. μ. ἐκτίθ. L. --- 3. | μῆσαι κ. τιθ. ἡμᾶς, ταῦτα μερ. γίνονται
+ἐν τὸ διῶκον] ἄλλο τὸ διῶκον L. --- ἐποίη- | (γίνοντα L ; corr. conj.) ἀφ. τὰ φ. . καὶ
+σώματα τὰ ἀσώματα. --- 11. οίκονομηκέναι
+σεν om. M. --- Réd. de L : (0 ημύκρι-
+τος δέ φησι περὶ τοῦ ταχέως φεύγοντος ὄτι ἐν | mss. --- 12. Καὶ τοῦτο γαρ L. --- ἀλλα
 τῆ άναγωγἤ τῶν ὑγρῶν φεύγει, ἤγουν κ. τ. λ. |
-τότε δὴ κατὰ πρόσβασιν MA. — 15. καὶ om.
-— 4. ἤτουν MA. — 6. ἐὰν δὶ ραδέως...] | AL ; f. l. καταδιώκοντος. — τὸ πριν —
-Réd. de L. : περὶ δὲ τοῦ ραδίως φεύγοντος, | φευκτὰ] πρότερον (ὄτε ῆσαν φευκτὰ) L. — 17.
-λέγει τὴν κατ ᾽ ἀρχὴν πῆξιν τῶν αὐτῶν οευκ-| ἔξει] ἐξουσι L. — 18. ἐχρημάτισεν] ἐχαρίσατο
-τῶν καὶ ὑγρῶν. — ώς om. A. f. mel. — 8. |
-ἐχρμ. A ; ἐχαρίσαντο L. — 19. ἐἀν] καὶ
-Après γίνονται] τὰ θειιδη add. L. — φευκ- L. — τύχοι om. L. — 21. νόει συνοῦσαν]
-τῶν — τὰ φευκτὰ] Réd. de L : περὶ δὲ τοῦ | νόησον τὴν υὐσαν L.
+τότε δὴ κατὰ πρόσβασιν MA. --- 15. καὶ om.
+--- 4. ἤτουν MA. --- 6. ἐὰν δὶ ραδέως...] | AL ; f. l. καταδιώκοντος. --- τὸ πριν ---
+Réd. de L. : περὶ δὲ τοῦ ραδίως φεύγοντος, | φευκτὰ] πρότερον (ὄτε ῆσαν φευκτὰ) L. --- 17.
+λέγει τὴν κατ ᾽ ἀρχὴν πῆξιν τῶν αὐτῶν οευκ-| ἔξει] ἐξουσι L. --- 18. ἐχρημάτισεν] ἐχαρίσατο
+τῶν καὶ ὑγρῶν. --- ώς om. A. f. mel. --- 8. |
+ἐχρμ. A ; ἐχαρίσαντο L. --- 19. ἐἀν] καὶ
+Après γίνονται] τὰ θειιδη add. L. --- φευκ- L. --- τύχοι om. L. --- 21. νόει συνοῦσαν]
+τῶν --- τὰ φευκτὰ] Réd. de L : περὶ δὲ τοῦ | νόησον τὴν υὐσαν L.
 
 
 ### 0414
@@ -4109,26 +4108,26 @@ TRAITES DEMOCRITAINS
 χροιαῖς καὶ φύσεσιν ἀλλεπαλλήλοις, ὶδικαῖς καὶ γενικαῖς ἀρρενοθήλη
 20 ὄντα.
 7] Καὶ ταῦτα εὶδότες πάντες οί ἀρχαῖοι διὰ τούτων τὴν τέχνην
-1. Après πάντα (f. l. πάντες)] οὶ ἀρχαῖοι μἐν πράω πυρὶ. — 12. ὄτe] ότι mss. Corr.
-dd. L. — δὲ] γρ L, mel. — 2. τὰ τοῦκατα- | conj. — 13. φυσικῶς M, sur grattage de
-λόγου ὄντα L. — 3. ὑποστατικὰ] ὑπόστατα lL. | φυσικὸς. — 14. Au lieu de ἄνθραξι — ἀρρε-
-— 5. διὰ πολλοῦ πυρὸς L. — νοήμοσι] νοή- | νοθήλη ὄντα. (l. 20), réd. de L : φύσει γρ
-μασι MA. — Après προσομιλ.] οὕτω γεγρ. | τὰἐμπνευματούμενα πάντα, ἅλλαμἐν δεῖται τοῦ
-L. — 6. αὐτοις] αὐτῶν ἐστιν lL. — ὁ Ζώσ.] | πυρὸς. ὡς τὰ μεταλλικὰ. καὶ τ τῆς μαγειρικῆς
+1. Après πάντα (f. l. πάντες)] οὶ ἀρχαῖοι μἐν πράω πυρὶ. --- 12. ὄτe] ότι mss. Corr.
+dd. L. --- δὲ] γρ L, mel. --- 2. τὰ τοῦκατα- | conj. --- 13. φυσικῶς M, sur grattage de
+λόγου ὄντα L. --- 3. ὑποστατικὰ] ὑπόστατα lL. | φυσικὸς. --- 14. Au lieu de ἄνθραξι --- ἀρρε-
+--- 5. διὰ πολλοῦ πυρὸς L. --- νοήμοσι] νοή- | νοθήλη ὄντα. (l. 20), réd. de L : φύσει γρ
+μασι MA. --- Après προσομιλ.] οὕτω γεγρ. | τὰἐμπνευματούμενα πάντα, ἅλλαμἐν δεῖται τοῦ
+L. --- 6. αὐτοις] αὐτῶν ἐστιν lL. --- ὁ Ζώσ.] | πυρὸς. ὡς τὰ μεταλλικὰ. καὶ τ τῆς μαγειρικῆς
 τέχνης, καὶ τὰ ἐξῆς · ἄλλα δὲ δεῖται τοῦ ἀέρος,
-ὁ add. lL. — 7. περὶ add. L. — γνησίω om.
-L ; πλησίω A. — 8. περὶ τοῦ πυρὸς φροντί- | ὡς τὰ ἀεροπόραζῶα · ἄλλαδὲ δεῖται τοῦ ὑδατος
+ὁ add. lL. --- 7. περὶ add. L. --- γνησίω om.
+L ; πλησίω A. --- 8. περὶ τοῦ πυρὸς φροντί- | ὡς τὰ ἀεροπόραζῶα · ἄλλαδὲ δεῖται τοῦ ὑδατος
 ζει L. En bonne grécité, περὶ est inu- | ὡς οὶ ἰχθύες, ἄλλα δὶ δεται τῆς γῆς, ὡς τὰφυ-
-tile. — καὶ γὰρ καὶ πρῶτον L. — Réd. de | τά. Τ δὲ εῖδη τὰ ὄντα ἐν τούτοις τοῖς τέσσαρσι
+tile. --- καὶ γὰρ καὶ πρῶτον L. --- Réd. de | τά. Τ δὲ εῖδη τὰ ὄντα ἐν τούτοις τοῖς τέσσαρσι
 A : καὶ πρῶτον αύτοῖς μ ἡμέρας (en signe) | στοιχείοις, ἀρρενοθήλεα ὄντα, πολλαῖς χροιαὶς
-καὶ μάλιστα. — 10. τυγχάνον] τυγχάνει τὸ | καὶ φύσεσιν ἀλλεπαλλήλαις, μερικαῖς καὶ γενι-
-πὕρ AL. — 11. ἀκριβοῦσθαι AL, puis addi- | καῖς διακέκρινται πρὸς ἄλληλα. Καὶ ταῦτα
-tion de L : ιὸ καὶ ὁ Ἀημόκριτος ἐξέθετο πῆ | είδότες κ. τ. λ. — 21. διὰ τοῦτο AL, f. mel.
+καὶ μάλιστα. --- 10. τυγχάνον] τυγχάνει τὸ | καὶ φύσεσιν ἀλλεπαλλήλαις, μερικαῖς καὶ γενι-
+πὕρ AL. --- 11. ἀκριβοῦσθαι AL, puis addi- | καῖς διακέκρινται πρὸς ἄλληλα. Καὶ ταῦτα
+tion de L : ιὸ καὶ ὁ Ἀημόκριτος ἐξέθετο πῆ | είδότες κ. τ. λ. --- 21. διὰ τοῦτο AL, f. mel.
 
 
 ### 0415
 
-OLVMΡPIODORE. — SUR L'ART SACRE
+OLVMΡPIODORE. --- SUR L'ART SACRE
 79
 ἐκάλυψαν τῆ πολυπληθεία τῶν λόγων. Πάντως γὰρ δεῖται ἡ τέχνη
 τινὸς τούτων · ἐκτὸς (f. 167 r.) γὰρ τούτων οὐδέν ἐστιν ἀσφαλές. ησὶ
@@ -4156,15 +4155,15 @@ OLVMΡPIODORE. — SUR L'ART SACRE
 Ἐῖπωμεν τοίνυν πῶς ἡ ἀρχὴ καθολικωτέρα ἐστὶ τῶν στοιχείων ·
 αὕτη γὰρ τὸ πᾶν τῆς τέχνης ἀναφέρεται ς καὶ γαθοδαίμων
 2. Les mots φησὶ γὰρ ὁ ημ. placés dans | τοίνυν ἡ ὑμετέρα άγχ. ὄτι π. όν. οί ἀρχαὶο ἐχρ.
-L après χωρὶς τούτων. — 4. γέγραφα L. — | — 14. παρενδήσω M. — σὐ om. M. — 15.
+L après χωρὶς τούτων. --- 4. γέγραφα L. --- | --- 14. παρενδήσω M. --- σὐ om. M. --- 15.
 5. ού μόνον] ού μόν L. Corr. conj. ; om. | Réd. de Al. : οἰδα γάρ σου τὸ ἔμπειρον τῶν
-MA. — Καὶ μή με μέμφεσθαι νέοι τὸ L. — | φρ. — 16. Après ἀγ.] καὶ τὸom. M: τὸ om.
-6. εύχαῖς ὑμῶν om. L. — λεν] ἀλλ' | A. — 19. ἀποκρ. τοῖς νοήμοσι L.— 20. M mg.
-ῖλεως L. — τοῦτο τὸ σύγγ. συγγράψαι L. | Renvoi à εύορκοῦσιν, puis : μυστηρὶ ξε (μυσ-
-— 7. Après γένοιτο] τὸθείον add. A. — αῦται | τήριον ξένον), main du XI.ΝV siècle.
-γοῦν εὶσιν αὶ Aίγ. γρ. L. — 9. ἐπὶ add. L. | — Après ἔργα] Laj. : καὶ ἐν τούτοις ἐφορκοῦσι
-— ἐν πέρας τὸ προκ. καταλήγει l. — 11. όνό- | τὸμυστήριον.— 24. αὕτη γὰρ] εὶς αὐτὴν γὰρ l.,
-μασί τε πολλοῖς M. — Réd. de L : γνώτω | f. mel. — ςςκαὶ Ἀν. καὶ νὰο καὶ ὁ νν l
+MA. --- Καὶ μή με μέμφεσθαι νέοι τὸ L. --- | φρ. --- 16. Après ἀγ.] καὶ τὸom. M: τὸ om.
+6. εύχαῖς ὑμῶν om. L. --- λεν] ἀλλ' | A. --- 19. ἀποκρ. τοῖς νοήμοσι L.--- 20. M mg.
+ῖλεως L. --- τοῦτο τὸ σύγγ. συγγράψαι L. | Renvoi à εύορκοῦσιν, puis : μυστηρὶ ξε (μυσ-
+--- 7. Après γένοιτο] τὸθείον add. A. --- αῦται | τήριον ξένον), main du XI.ΝV siècle.
+γοῦν εὶσιν αὶ Aίγ. γρ. L. --- 9. ἐπὶ add. L. | --- Après ἔργα] Laj. : καὶ ἐν τούτοις ἐφορκοῦσι
+--- ἐν πέρας τὸ προκ. καταλήγει l. --- 11. όνό- | τὸμυστήριον.--- 24. αὕτη γὰρ] εὶς αὐτὴν γὰρ l.,
+μασί τε πολλοῖς M. --- Réd. de L : γνώτω | f. mel. --- ςςκαὶ Ἀν. καὶ νὰο καὶ ὁ νν l
 
 
 ### 0416
@@ -4191,28 +4190,28 @@ TRAITES DEMOCRITAINS
 καὶ τὰ ἄτομα ἀρχαὶ μέν εὶσι κατά τινας, στοιχεῖα δὲ οὐκ εὶσίν.
 19] Γἐρε δὴ εῖπωμέν πως ἡ τε ἐστίν · ἡ ἀρχὴ τοίνυν παντὸς
 20 πράγματος κατά τινας ἡ μία ἐστὶν, ἡ πολλαὶ, καὶ εὶ μέν ἐστι μία,
-1. δράκοντα γὰρ ούροβόρον L. — 2. οὐ | A. — 12. Réd. de L : Καὶ ταῦτα δέ μοι
-φθονῶν — άμύητοι] Réd. de L : οὐ φθ. τοῦτο | εῖρ., φησὶν ὁ Ἀγαθοδαίμων περὶ τῆς ἀρχῆς.
-λέγει, ώς νομίζουσί τινες ἀμ. — 3. μύστα ὄτι | — ὄς καὶ] ῶστε A. — ἐντίθησιν A. — 13.
-πλ. L. — M mg. : Renvoi a ὼά puis : | καὶ] ἡμεῖς δὲ L. — 15. λέγωμεν AL. —
-περὶ χαλκοῦ (en signe). — ώά] ὁ νοῦς A ; ὁ | τοῦτον καὶ ἡ ἀρχὴ A. — 16. ούκέτι δὲ ἀρχὴ.
-νοῦς άκούεται L. — 4. ὄτι add. L. — ἄρα | A. — μεταξὐ] ἄμα A ; μετ. καὶ τὸ ἄμα
-τις] τῆς ἀρετῆς AL. — Réd. de A : ός | L. — 19. Réd. de A : εῖπωμεν πότερον
+1. δράκοντα γὰρ ούροβόρον L. --- 2. οὐ | A. --- 12. Réd. de L : Καὶ ταῦτα δέ μοι
+φθονῶν --- άμύητοι] Réd. de L : οὐ φθ. τοῦτο | εῖρ., φησὶν ὁ Ἀγαθοδαίμων περὶ τῆς ἀρχῆς.
+λέγει, ώς νομίζουσί τινες ἀμ. --- 3. μύστα ὄτι | --- ὄς καὶ] ῶστε A. --- ἐντίθησιν A. --- 13.
+πλ. L. --- M mg. : Renvoi a ὼά puis : | καὶ] ἡμεῖς δὲ L. --- 15. λέγωμεν AL. ---
+περὶ χαλκοῦ (en signe). --- ώά] ὁ νοῦς A ; ὁ | τοῦτον καὶ ἡ ἀρχὴ A. --- 16. ούκέτι δὲ ἀρχὴ.
+νοῦς άκούεται L. --- 4. ὄτι add. L. --- ἄρα | A. --- μεταξὐ] ἄμα A ; μετ. καὶ τὸ ἄμα
+τις] τῆς ἀρετῆς AL. --- Réd. de A : ός | L. --- 19. Réd. de A : εῖπωμεν πότερον
 (lire ώς) καὶ τινὶς μυθ. ὄτι ἀρχ. ἐ. καὶ πάντων | ἐστὶν ἀρχὴ τοίνυν κατά τοινας (lire τινας)
-π. παλ. — Réd. de L : ὁν κ. τ. μυθ. | παντὸς πράγματος ἡ μία ἐστὶν ἡ πολλαὶ.
-άρχαῖον είναι τ. π. παλ. τῶν ἐν ίγύπτω φιλο- | — 20. κατά τινα σημεῖα ML — Après
-σοφησάντων. — 7. Aγαθοδαίμονα...] ἀγαθὸν | σημεια] ἤ οὕ, καὶ εὶ μία ἐστὶν ἢ πολλαὶ L. —
-δαίμονα. έγω δὶ ἀγαθὸν τῆς ὶγύπτου L. — | Réd. et ponctuation proposées : έρε
+π. παλ. --- Réd. de L : ὁν κ. τ. μυθ. | παντὸς πράγματος ἡ μία ἐστὶν ἡ πολλαὶ.
+άρχαῖον είναι τ. π. παλ. τῶν ἐν ίγύπτω φιλο- | --- 20. κατά τινα σημεῖα ML --- Après
+σοφησάντων. --- 7. Aγαθοδαίμονα...] ἀγαθὸν | σημεια] ἤ οὕ, καὶ εὶ μία ἐστὶν ἢ πολλαὶ L. ---
+δαίμονα. έγω δὶ ἀγαθὸν τῆς ὶγύπτου L. --- | Réd. et ponctuation proposées : έρε
 8. Réd. de L : πάλιν δέ τινες αύτὸν ούρανὸν | δὴ εῖπωμέν πως ἤτε ἐστιν ἡ ἀρχή · τοίνυν παν-
 |τὸς πράγματος κατά τινας, ἡ μία ἐστὶν, ἡ
-L. — ῶδε] τόδε L. — 11. τὸ (pour τ) σ- |
-ματι αὐτοῦ L. — αὐτῆ M. — καταστ. ποι- | πολλαὶ, καὶ, εὶ μέν ἐστι μία, ἡ ἀκίν., ἤ ἄπ.,
-οῦσι ποὸς τ. δ. L. — ὑπάρχων M ; ὑπερέχων | ἡ πεπ. Cp. Aristot. Phys. I, 2, p. 184 b.
+L. --- ῶδε] τόδε L. --- 11. τὸ (pour τ) σ- |
+ματι αὐτοῦ L. --- αὐτῆ M. --- καταστ. ποι- | πολλαὶ, καὶ, εὶ μέν ἐστι μία, ἡ ἀκίν., ἤ ἄπ.,
+οῦσι ποὸς τ. δ. L. --- ὑπάρχων M ; ὑπερέχων | ἡ πεπ. Cp. Aristot. Phys. I, 2, p. 184 b.
 
 
 ### 0417
 
-OLVMPIODORE. — SUR L'ART SACRE
+OLVMPIODORE. --- SUR L'ART SACRE
 81
 ἡ ἀκίνητός ἐστιν, ἡ ἄπειρος, ἡ πεπερασμένη · ὡσαύτως καὶ εὶ μèν
 πολλαὶ ἀρχαί εὶσιν, πάλιν αὕται ἡ ἀκίνητοί εὶσιν, ἤ πεπερασμέναι,
@@ -4231,25 +4230,25 @@ OLVMPIODORE. — SUR L'ART SACRE
 15 γάρ που δῆλον ώς πεπερασμένης ἐστὶ δυνάμεως τὰ ὑπὸ Θεοῦ προα-
 γόμενα · πεπερασμένης δὲ δυνάμεως, ἄκουε τὰ φθειρόμενα, πλὴν τῶν
 νοερῶν πραγμάτων. λλα τούτους τοὐς δύο, τὸν Μιλήσιόν φημι
-1. ἡ (3 fois)] ἡ M. — Avant ὡσαύτως] | καὶ ἀπειροδ. Καὶ γὰρ τὸ θ. οὐδεὶς. — 7. τὸ
-καὶ gratté M. — 3. Réd. de A : Mίαν | θεῖον om. L. — 9. Réd. de L : Mίαν δὲ
+1. ἡ (3 fois)] ἡ M. --- Avant ὡσαύτως] | καὶ ἀπειροδ. Καὶ γὰρ τὸ θ. οὐδεὶς. --- 7. τὸ
+καὶ gratté M. --- 3. Réd. de A : Mίαν | θεῖον om. L. --- 9. Réd. de L : Mίαν δὲ
 τοίνυν ἀρχὴν άκίν. ἄπ. πάντων. Réd. de L : | καὶ ἀκίν. καὶ ἄπειρον δύν. ἐλ. ὁ lIαρμ. καὶ
-Mίαν τοίνυν ἀκίν. ἀρχ. καὶ ἄπ. π. τ. ὄ. ἐδόξα- | ἄλλην πεπερασμένην τὸ θεον. — 10. ἀρχὴν]
-ζον οὶ ἀρχαῖοι. — 4. Réd. de A : ἄπειρον L. — Réd. de A : ἀρχαὶ, τοσοῦτον
-μιλήσει σοι τὸ ὼὸν λέγει ὄτι τὸ ὼὸν ὕδωρ τὸ | γἀρ ὰ αὶ βίζαι καὶ ἐν γἤ καὶ ἀκίνητον. . —
+Mίαν τοίνυν ἀκίν. ἀρχ. καὶ ἄπ. π. τ. ὄ. ἐδόξα- | ἄλλην πεπερασμένην τὸ θεον. --- 10. ἀρχὴν]
+ζον οὶ ἀρχαῖοι. --- 4. Réd. de A : ἄπειρον L. --- Réd. de A : ἀρχαὶ, τοσοῦτον
+μιλήσει σοι τὸ ὼὸν λέγει ὄτι τὸ ὼὸν ὕδωρ τὸ | γἀρ ὰ αὶ βίζαι καὶ ἐν γἤ καὶ ἀκίνητον. . ---
 (puis les signes du θεον ἄπυρον et de | 11. πεπερασμένη δέ ἐστιν ἡ ἀπ᾽αὐτοῦ ἐνέργεια
-l'or) ἐστιν. Réd. de L : ιὸ καὶ ὁ Θαλῆς | L. — 12. ὁ θαλῆς L. — 13. ἄπειρον καὶ
-ὁ Mιλήσιος ἐν εὶναι τὸ ὁν ἐλεγεν. Ἀρα καὶ | ἀπειροδύναμον · ἀπειροδύναμος γρ L. —
+l'or) ἐστιν. Réd. de L : ιὸ καὶ ὁ Θαλῆς | L. --- 12. ὁ θαλῆς L. --- 13. ἄπειρον καὶ
+ὁ Mιλήσιος ἐν εὶναι τὸ ὁν ἐλεγεν. Ἀρα καὶ | ἀπειροδύναμον · ἀπειροδύναμος γρ L. ---
 τὸ ὁν ἡμέτερον, ὕδωρ θεῖον ἐστὶ καὶ χρυσὸς, | 14. Après πεπερασμένον] κατὰ τὴν δύναμιν
-καὶ ἐν ἐστιν δν καλὸν καὶ ἀκίνητον. — τὸ ὸν] | add. L. — πάντη M partout. — 15. ς]
-τὸ ῶν 2 fois M. Corr. d'après A (M. B.). | ὅτι L. — 17. τὸν Mιλήσιον]. Il faut lire
-— 5. ὕδωρ θείου ἀπύρου] signe du θεῖον | τὸν Mέλισσον. Aristote, De Caelo, lII, 1,
+καὶ ἐν ἐστιν δν καλὸν καὶ ἀκίνητον. --- τὸ ὸν] | add. L. --- πάντη M partout. --- 15. ς]
+τὸ ῶν 2 fois M. Corr. d'après A (M. B.). | ὅτι L. --- 17. τὸν Mιλήσιον]. Il faut lire
+--- 5. ὕδωρ θείου ἀπύρου] signe du θεῖον | τὸν Mέλισσον. Aristote, De Caelo, lII, 1,
 ἄπυρον puis θ avec boucle à la partie | p. 298 b 17 : Oί περὶ Mελισσόν τε καὶ
-inférieure (signe de l'or, altéré ?) M. — | Παρμενίδην, οὐς, εὶ καὶ τὰλλα λέγουσι καλῶς,
+inférieure (signe de l'or, altéré ?) M. --- | Παρμενίδην, οὐς, εὶ καὶ τὰλλα λέγουσι καλῶς,
 Réd. de A : οῦτο γὰρ και ἔν ἐστιν ὼὸν | ἀλλ ού φυσικῶς γε δεῖ νομίσαι λέγειν. Sextus
-καλὸν καὶ ἀκίνητον. — 6. M mg. : ῶδε (sic) | Empiricus rappelle (Adν. Dogm., lV,
+καλὸν καὶ ἀκίνητον. --- 6. M mg. : ῶδε (sic) | Empiricus rappelle (Adν. Dogm., lV,
 ζήτημα μέγα (en abrégé, à l'encre rose : | 46) qu'Aristote donne à Mélissus et
-main du XVeXVIe siècle. — Réd. de | à Parménide l'épithète de ἀφύσικοι
+main du XVeXVIe siècle. --- Réd. de | à Parménide l'épithète de ἀφύσικοι
 AL : λλὰ μὶν πρὸς τούτω καὶ ἄπ. ἐστιν | (Fragm. Aristot. éd. Didot, ne 33).
 
 
@@ -4278,26 +4277,26 @@ TRAITÉS DÉMOCRITAINS
 ται εἶναι ἡ ἀρχὴ τῶν γινομένων ὑπ αὐτὴν πλέον, ὡς δέ τινες (f. 168
 20 V.) λέγουσι, καὶ γόνιμόν ἐστιν τὸ πῦρ γίνεται γὰρ ἐν τῶ ὑπεκκαύματι.
 2] ν γὰρ γῆν οὐδεὶς ἐδόξασεν εἶναι ἀρχὴν, εὶ μὴ ξενοφάνης
-1. χώρου M. — ὁ om. M. — 2. ἐκ- | τοῦτο. ..] βάλλοις ἄν αὐτὸ, τοῦτο πρὸς αύτὸ
-βάλλειν om. MA. — ὴλλοτρίωνται M ; άλλο- | διαπλ. L. qui om. τὸ ὕδωρ. — πρὸς ξέσ-
-τριούται A ; ἀλλοτριοῦνται L. Corr. conj. | την φημὶ L. — 11. ἐως θέλεις M ; οίον ἐθέ-
-3. Après δογμάτων] εἶναι add. L. — παρὰ | λης A. — ἡ άρχὴ αὐτοῦL. — 12. καὶ πεπε-
-F. l. περὶ. Confusion fréquente dans ρασμένον ὑπάρχει καὶ ούκ ἀίδιον L. — 13.
-les mss. — 4. Après κινοὕνται] πάντα | Ο δὲ ιογένης. ..] Aristote, Métaps.,
-add. L. — φύσις γρ. ..] Cp. Aristot. | p. 984 a 5. — ὸν ἀέρα ἐδόξαζεν ἀρχήν l.
-De Caelο, II, ]2, p. 3o1 b 17. — 5. | — 14. εὐδιάπλ. εὑρίσκεται L. — 15. ἐστιν
-δἐ] γρ A. — ἀρχ. πεπ. AL. — ὁ Θαλῆς | καὶ αὐτὸς κ. κιν. L. — 17. ἐδόξαζον L. Aris-
-AL. Cp. Aristote, Métaps., I, 3, | tote, ibid. — 18. Après δραστικὸν] πάν-
-p. 983 b. 20. — 6. οὕτω] ἐστιν L. | των add. L. — δὲ] γὰρ L. — 19. ὑπ
-— 7. δὲ] τε A. — Réd. de L : εὐδιά- | αὐτὴν] ἐπ ' αὐτῶν A ; ὑφ ἐαυτὴν L. — 20.
+1. χώρου M. --- ὁ om. M. --- 2. ἐκ- | τοῦτο. ..] βάλλοις ἄν αὐτὸ, τοῦτο πρὸς αύτὸ
+βάλλειν om. MA. --- ὴλλοτρίωνται M ; άλλο- | διαπλ. L. qui om. τὸ ὕδωρ. --- πρὸς ξέσ-
+τριούται A ; ἀλλοτριοῦνται L. Corr. conj. | την φημὶ L. --- 11. ἐως θέλεις M ; οίον ἐθέ-
+3. Après δογμάτων] εἶναι add. L. --- παρὰ | λης A. --- ἡ άρχὴ αὐτοῦL. --- 12. καὶ πεπε-
+F. l. περὶ. Confusion fréquente dans ρασμένον ὑπάρχει καὶ ούκ ἀίδιον L. --- 13.
+les mss. --- 4. Après κινοὕνται] πάντα | Ο δὲ ιογένης. ..] Aristote, Métaps.,
+add. L. --- φύσις γρ. ..] Cp. Aristot. | p. 984 a 5. --- ὸν ἀέρα ἐδόξαζεν ἀρχήν l.
+De Caelο, II, ]2, p. 3o1 b 17. --- 5. | --- 14. εὐδιάπλ. εὑρίσκεται L. --- 15. ἐστιν
+δἐ] γρ A. --- ἀρχ. πεπ. AL. --- ὁ Θαλῆς | καὶ αὐτὸς κ. κιν. L. --- 17. ἐδόξαζον L. Aris-
+AL. Cp. Aristote, Métaps., I, 3, | tote, ibid. --- 18. Après δραστικὸν] πάν-
+p. 983 b. 20. --- 6. οὕτω] ἐστιν L. | των add. L. --- δὲ] γὰρ L. --- 19. ὑπ
+--- 7. δὲ] τε A. --- Réd. de L : εὐδιά- | αὐτὴν] ἐπ ' αὐτῶν A ; ὑφ ἐαυτὴν L. --- 20.
 πλαστον δὲ ὄτι δύναται διαπλασθῆναι ῶσπερ | γίνεται γὰρ. ..] γίνονται γρ καὶ ζῶντα ζῶα L.
-ἄν βούλη · καὶ γὰρ τὸ ὕδωρ. .. — 9. βάλης — 21. γαο] δἐ L, f. mel. — ὁ ενοο. I..
+ἄν βούλη · καὶ γὰρ τὸ ὕδωρ. .. --- 9. βάλης --- 21. γαο] δἐ L, f. mel. --- ὁ ενοο. I..
 
 
 ### 0419
 
 83
-OLVMPIODORE. — SUR L'ART SACRE
+OLVMPIODORE. --- SUR L'ART SACRE
 ὁ Κολοφώνιος · δια δὲ τὸ μὴ εἶναι αὐτὴν γόνιμον, οὐδεὶς αὐτὴν
 στοιχεῖον ἐδόξασεν. Καὶ ἀκριβούτω ὁ πάσης ἀρετῆς ἐντὸς γενόμενος
 τὸ τὴν γῆν μὴ δοξάζεσθαι ὑπὸ τῶν φιλοσόφων στοιχεῖον εἶναι, ώς
@@ -4320,18 +4319,18 @@ OLVMPIODORE. — SUR L'ART SACRE
 20 λαβόντες συνέταξαν. Ζώσιμος τοίνυν, τὸ στέφος τῶν φιλοσόφων, ἡ
 ώκεανόβρυτος γλῶσσα, ὁ νέος θεηγόρος, Μελίσσω τὸ πλεῖστον ἀκο-
 λουθήσας κατὰ τὴν τέχνην ώς καὶ θεὸς εἶς, μίαν τὴν τέχνην ἔλεγεν
-1. δἐ] γρ L, f. mel. — 2. ἀκρι- | — τῶν ἀτμῶν. . . τῶν καπνῶν mss. Corr.
-βούτω] ἀκρίβουλος A, avec un trait hori- | conj. — 13. δὲ om. MA. — 14. τὸ δὲ AlL,
-Zontal au-dessus du mot, comme si f. mel. — καπνὸς ἐστιν A. — 18. δείξωμεν
-c'était un nom propre. — 4. εὶς] πρὸς | L, f. mel. — 19. Après φιλόσοφων] μερι-
-L. — 5. ὁ ρμῆς AL. — φησίν που L. | κῶς A. — ὶ ἡμέτ. οῖκοθεν φιλόσοφοι L. —
-—7. κινουμένην AL, f. mel. — 8. ἐδόξαζεν | 20. Après συνέταξαν] grand astérisque
-AL. Cp. Aristote, ibid., p. 984 a. — 9. | dans M, et à sa marge, semblant in-
-καὶ ὄτι...] καὶ ἐπειδὴ κατ ᾽ ἔκροιαν L. — | diquer une lacune, qui est peut-être
-κατέκρυαν MK ; κατέκριναν A. — 11. Ἀνα- | comblée par l'addition de L : τὴν φυσικὴ
-ξίμανδρος..] Cp. Aristot. Pνs., l, 4, p. | ἡμῶν τέχνην. — τὸ στέφος] καὶ στέφανος A.
-187 a ; Métaphs. XI, 1, p. 106o b. | — 21. τὰ πλεῖστα κατακολουθήσας L. — 22.
-— λένω λέγει AL. — 12. ἡ] καὶ L, f. mel. | ὁ Θεὸς εἶς ἐστι L. f. mel.
+1. δἐ] γρ L, f. mel. --- 2. ἀκρι- | --- τῶν ἀτμῶν. . . τῶν καπνῶν mss. Corr.
+βούτω] ἀκρίβουλος A, avec un trait hori- | conj. --- 13. δὲ om. MA. --- 14. τὸ δὲ AlL,
+Zontal au-dessus du mot, comme si f. mel. --- καπνὸς ἐστιν A. --- 18. δείξωμεν
+c'était un nom propre. --- 4. εὶς] πρὸς | L, f. mel. --- 19. Après φιλόσοφων] μερι-
+L. --- 5. ὁ ρμῆς AL. --- φησίν που L. | κῶς A. --- ὶ ἡμέτ. οῖκοθεν φιλόσοφοι L. ---
+---7. κινουμένην AL, f. mel. --- 8. ἐδόξαζεν | 20. Après συνέταξαν] grand astérisque
+AL. Cp. Aristote, ibid., p. 984 a. --- 9. | dans M, et à sa marge, semblant in-
+καὶ ὄτι...] καὶ ἐπειδὴ κατ ᾽ ἔκροιαν L. --- | diquer une lacune, qui est peut-être
+κατέκρυαν MK ; κατέκριναν A. --- 11. Ἀνα- | comblée par l'addition de L : τὴν φυσικὴ
+ξίμανδρος..] Cp. Aristot. Pνs., l, 4, p. | ἡμῶν τέχνην. --- τὸ στέφος] καὶ στέφανος A.
+187 a ; Métaphs. XI, 1, p. 106o b. | --- 21. τὰ πλεῖστα κατακολουθήσας L. --- 22.
+--- λένω λέγει AL. --- 12. ἡ] καὶ L, f. mel. | ὁ Θεὸς εἶς ἐστι L. f. mel.
 
 
 ### 0420
@@ -4360,25 +4359,25 @@ rRAIES DEMOCRITAINS
 ὴκολούθησαν οὶ πλεῖστοι τῶν ταύτην τὴν τέχνην φιλοσοφησάντων.
 20 Καὶ γὰρ Ἐρμ ῆς περὶ τοῦ καπνοῦ φησιν, ώς δῆθεν περὶ τῆς μαγνη-
 σίας λέγων · « Ἀφες αὐτὴν, φησὶν, ἀπέναντι τῆς καμίνου καίεσθαι
-1. καὶ διὰ ταῦτα L. — θεηγορε] δημι- | — 13. τοῦτο γἀρ — οὐδἐν τὸ πἄν.] Réd. de L:
-γορὶ A ; συνηγορεῖ L. — 2. καὶ ἀληθής | καὶ εὶ μὴ τὸ πᾶν ἔχη τὸ πᾶν, οὐδέν ἐστι τὸ
-ἐστιν ὁ λόγος αὐτοῦ L. — αύτὴν] αὐτὸν MA ; | πᾶν. — 15. Après ὕλην] λαλοῦσι add. L.
-ἡμᾶς L. Corr. conj. — ἀπὸ τῆς πολυπλ. lL. | — Réd. de L : Ἀναξιμένην ἀποβλέπων,
-— 4. Après παραινεῖ] Réd. de L : διὸ καὶ | πέρας ποιεῖ τὸν ἀέρα. Ο δὲ ναξίμανδρος
+1. καὶ διὰ ταῦτα L. --- θεηγορε] δημι- | --- 13. τοῦτο γἀρ --- οὐδἐν τὸ πἄν.] Réd. de L:
+γορὶ A ; συνηγορεῖ L. --- 2. καὶ ἀληθής | καὶ εὶ μὴ τὸ πᾶν ἔχη τὸ πᾶν, οὐδέν ἐστι τὸ
+ἐστιν ὁ λόγος αὐτοῦ L. --- αύτὴν] αὐτὸν MA ; | πᾶν. --- 15. Après ὕλην] λαλοῦσι add. L.
+ἡμᾶς L. Corr. conj. --- ἀπὸ τῆς πολυπλ. lL. | --- Réd. de L : Ἀναξιμένην ἀποβλέπων,
+--- 4. Après παραινεῖ] Réd. de L : διὸ καὶ | πέρας ποιεῖ τὸν ἀέρα. Ο δὲ ναξίμανδρος
 φησιν πρός τινα γυναὶκα φιλόσοφον οὕτως. | ἔλεγε τὸ μεταξὸ τῶν ἀτμῶν καὶ τῶν καπνῶν
-— 6. ς καὶ τι δαιμόνιον A ; ὡς καὶ τὸδαιμ. | εἰναι πέρας. — 17. O Aγαθοδαίμων δὲ
-L ; ς τὸ corrigé en ῶς τε M (main du | ὄλως. .. L, f. mel. — 18. Après ώσιμος]
-copiste ?). — 7. καθεζομένη — 9. ὄντως] | καὶ ἄλλοι add. L, f. mel. — 19. φιλοσοφη-
-οὕτως A. — τὸ πανταχοῦ om. L. — | σάντων] ἐμφιλοσόφως παραδόντων L. — 20.
-ὄν] ῶν MKA. Corr. conj. — 10. τότε | ὁ ρμῆς L. — 21. αὐτὴν] αὐτοὐς M. —
-καὶ ἐπιγν. L. — μόνον ὄντιως ὄντα L. — | Après καίεσθαι] λευκῶ πυρὶ add. A ; λευκῶ
-11. καὶ τῶν φυσικῶν D. — 12. μης] | πυοὶ ἐν add. L., f. mel.
-Κύμης M ; ὁ ήμης L. — ἐξακολουθήσας L.
+--- 6. ς καὶ τι δαιμόνιον A ; ὡς καὶ τὸδαιμ. | εἰναι πέρας. --- 17. O Aγαθοδαίμων δὲ
+L ; ς τὸ corrigé en ῶς τε M (main du | ὄλως. .. L, f. mel. --- 18. Après ώσιμος]
+copiste ?). --- 7. καθεζομένη --- 9. ὄντως] | καὶ ἄλλοι add. L, f. mel. --- 19. φιλοσοφη-
+οὕτως A. --- τὸ πανταχοῦ om. L. --- | σάντων] ἐμφιλοσόφως παραδόντων L. --- 20.
+ὄν] ῶν MKA. Corr. conj. --- 10. τότε | ὁ ρμῆς L. --- 21. αὐτὴν] αὐτοὐς M. ---
+καὶ ἐπιγν. L. --- μόνον ὄντιως ὄντα L. --- | Après καίεσθαι] λευκῶ πυρὶ add. A ; λευκῶ
+11. καὶ τῶν φυσικῶν D. --- 12. μης] | πυοὶ ἐν add. L., f. mel.
+Κύμης M ; ὁ ήμης L. --- ἐξακολουθήσας L.
 
 
 ### 0421
 
-OLVMPIODORE. — SUR I'ART SACRE
+OLVMPIODORE. --- SUR I'ART SACRE
 85
 λεπύροις φοινίκων κωβαθίων · ὁ γὰρ καπνὸς τῶν κωβαθίων, λευκὸς
 ῶν, λευκαίνει τὰ σώματα · ὁ γὰρ καπνὸς μεταξύ ἐστιν θερμοῦ καὶ
@@ -4403,19 +4402,19 @@ OLVMPIODORE. — SUR I'ART SACRE
 Iστε γὰρ αὐτοὶ πάντα τὰ τοῦ καταλόγου ὅσα ἀπὸ τοῦ πυρὸς, καὶ
 ἀέρος, καὶ ὕδατος, καὶ γῆς συνέστηκεν. Οπως δὲ ἡ ἀκρίβεια τοῦ
 παντὸς σκευάζηται, εὕξασθε παρὰ Θεοῦ μαθεῖν, φησὶν ὁ Ζώσ ιμος
-1.φ. τῶν κωβαθίων L. — 2.θερμῶνκαὶ ξηρῶν | τοι] πολυπράγμονες add. lL, f. mel. Réd.
-L. —3. κακεῖμἐν καὶ είμἐνA. — πάνταόμοίως | de A : Ἐῖρηκεν γρ ἡμῖν ὁ μέγιστος. — διὰ]
-AL. — ἀτμὸς] καπνὸς A. — 4. θερμοῦ καὶ | F. l. περὶ (διὰ amené sans doute par le
-ὑγροῦ A. — καὶ σημαίνει δὲ L. — οἰον] ς | voisinage de ῖστε γὰρ ὄτι διὰ. ..). — 15.
-L. — 6. καὶ ῖνα δὲ L. — 9. ἐννέα] ἐνιέα M ; | Après άρχαῖοι] τὴν τέχνην γίνεσθαι add. L.
-ἐνιέα A; ἐνιαία L. Corr. conj. — κεφαλὴ | M mg. groupe de points avec renvoi
-καὶ ῥητόρων L. — ἐν τούτοις] ἐπὶ τούτοις L. | à ἀρχαῖοι (indice de lacune ?). ῖσται γὰρ
-— 10. μαθήση δὲ δι ᾽ εύτ. γρ. L. — 11. | ἰσται (pour ῖστε) ὄτι... A. 16. — τῆδε ]
-Après πειρται] ὁΘεὸς add. L. — τὴν θεο- | τοῖαδε A. — 20. Après συνέκλεισαν] μετὰ
-σέυειαν A. — Après γνώριμον] βούλεταί σε | ἐν κόσμω add. A. — ἐν κόσμω add. L. —
-ποιεν add. L. — 12. ὡς] καὶ A. — 13. | κοσμοφοριῶν A. — 23. τοῦ παντὸς συνήμα-
-υντοιία| υυττιιη Arr ένννπ | - — r cνίἶ.
-συντομίας] συντόμου M. — 14. Après μέγισ-
+1.φ. τῶν κωβαθίων L. --- 2.θερμῶνκαὶ ξηρῶν | τοι] πολυπράγμονες add. lL, f. mel. Réd.
+L. ---3. κακεῖμἐν καὶ είμἐνA. --- πάνταόμοίως | de A : Ἐῖρηκεν γρ ἡμῖν ὁ μέγιστος. --- διὰ]
+AL. --- ἀτμὸς] καπνὸς A. --- 4. θερμοῦ καὶ | F. l. περὶ (διὰ amené sans doute par le
+ὑγροῦ A. --- καὶ σημαίνει δὲ L. --- οἰον] ς | voisinage de ῖστε γὰρ ὄτι διὰ. ..). --- 15.
+L. --- 6. καὶ ῖνα δὲ L. --- 9. ἐννέα] ἐνιέα M ; | Après άρχαῖοι] τὴν τέχνην γίνεσθαι add. L.
+ἐνιέα A; ἐνιαία L. Corr. conj. --- κεφαλὴ | M mg. groupe de points avec renvoi
+καὶ ῥητόρων L. --- ἐν τούτοις] ἐπὶ τούτοις L. | à ἀρχαῖοι (indice de lacune ?). ῖσται γὰρ
+--- 10. μαθήση δὲ δι ᾽ εύτ. γρ. L. --- 11. | ἰσται (pour ῖστε) ὄτι... A. 16. --- τῆδε ]
+Après πειρται] ὁΘεὸς add. L. --- τὴν θεο- | τοῖαδε A. --- 20. Après συνέκλεισαν] μετὰ
+σέυειαν A. --- Après γνώριμον] βούλεταί σε | ἐν κόσμω add. A. --- ἐν κόσμω add. L. ---
+ποιεν add. L. --- 12. ὡς] καὶ A. --- 13. | κοσμοφοριῶν A. --- 23. τοῦ παντὸς συνήμα-
+υντοιία| υυττιιη Arr ένννπ | - --- r cνίἶ.
+συντομίας] συντόμου M. --- 14. Après μέγισ-
 
 
 ### 0422
@@ -4444,27 +4443,27 @@ TRAITÉS DEMOCRITAINS
 τήρησιν εὶσιόντων τῆ τέχν.
 20 29] Ταῦτα δέ μοι εὶρηται διὰ τὸ γιγνώσκειν ὑμὰς ὄτι αί μυρίαι
 1. Entre καὶ et φθονοῦσι, M et K ont | ὑπάρχει ὁ, sur grattage, à l'encre rose
-un signe, doublé, ressemblant au signe | M. (main du XIe siècle?) — 10. ἐμ-
-du vinaigre (ὄξος). MK mg. : renvoi à ce | μείνω M. — καὶ οὐκ ἀποκ. AL. — 11.
-signe. A cette place, A donne le signe | συμβίω MA. — ἀγαθῶ add. L. — ἐνφιλο-
+un signe, doublé, ressemblant au signe | M. (main du XIe siècle?) --- 10. ἐμ-
+du vinaigre (ὄξος). MK mg. : renvoi à ce | μείνω M. --- καὶ οὐκ ἀποκ. AL. --- 11.
+signe. A cette place, A donne le signe | συμβίω MA. --- ἀγαθῶ add. L. --- ἐνφιλο-
 de δαίμων, doublé (a lire δαίμονες ?). Réd. | σόφοις] φιλοσοφικαῖς L. F. l. ἐμφιλοσόφοις.
-de L : παραδιδ. · ἀλληλοις γὰρ φθονοῦσι. | — 12. ῶν σοφῶν τοίνυν L. — 14. ἡμε-
-— 3. γίνεται add. L. — .. μόχθω καὶ | τέρα A. — 15. καὶ ἐν τούτοις AL. —
-πολέμω A. — M mg. : dessin d'une fiole | χρωμάτων] γραμμάτων A; σωμάτων L. f.
-avec renvoi à μάχη. Réd. de M : μάχη | mel. — καὶ ώμῶν L. — 16. Réd. de
-καὶ ία καὶ πολέμω. — ἔσται om. MA. — | L : καὶ ἐν τῶ ὸπτἄσθαι ταῦτα ἀναδεικνύουσι
-6. ποτἐ μἐν.. ποτὲ δὲ L. — 7.. ἀπροσδοκησίαν | τ χρώματα, τὴν ποιότητα · ἐναλλάσσον-
-AL. — ἄλλοτε δὲ καὶ L. — λύπας L. — | ται γὰρ τὰ χρώματα διὰ τῆς ποιώσεως,
-8. ποτὶ δὲ καὶ ζημίας ῶστε καὶ L. — | τὸ μὶν λαύρφ πυρὶ, τῶ δὲ πράω, πολλῆς
-Après ἡμᾶς] τῆς ἐγχειρήσεως add. L. — | παρατηρήσεως οὕσης ἐν τἤ τέχνη. — 17.
-Réd. de L : ηλλ ἐγώ πρὸς αὐτὸν ἐρῶ · | πρὸς om. A. — 18. λαύρω] Il faut lire
-ὄς τις ἄν ὑπάογοις. ῶ δαίωνίςν — 2..
-ὄς τις ἄν ὑπάρχοις, ῶ δαίμων(sic). — 9. καὶ
+de L : παραδιδ. · ἀλληλοις γὰρ φθονοῦσι. | --- 12. ῶν σοφῶν τοίνυν L. --- 14. ἡμε-
+--- 3. γίνεται add. L. --- .. μόχθω καὶ | τέρα A. --- 15. καὶ ἐν τούτοις AL. ---
+πολέμω A. --- M mg. : dessin d'une fiole | χρωμάτων] γραμμάτων A; σωμάτων L. f.
+avec renvoi à μάχη. Réd. de M : μάχη | mel. --- καὶ ώμῶν L. --- 16. Réd. de
+καὶ ία καὶ πολέμω. --- ἔσται om. MA. --- | L : καὶ ἐν τῶ ὸπτἄσθαι ταῦτα ἀναδεικνύουσι
+6. ποτἐ μἐν.. ποτὲ δὲ L. --- 7.. ἀπροσδοκησίαν | τ χρώματα, τὴν ποιότητα · ἐναλλάσσον-
+AL. --- ἄλλοτε δὲ καὶ L. --- λύπας L. --- | ται γὰρ τὰ χρώματα διὰ τῆς ποιώσεως,
+8. ποτὶ δὲ καὶ ζημίας ῶστε καὶ L. --- | τὸ μὶν λαύρφ πυρὶ, τῶ δὲ πράω, πολλῆς
+Après ἡμᾶς] τῆς ἐγχειρήσεως add. L. --- | παρατηρήσεως οὕσης ἐν τἤ τέχνη. --- 17.
+Réd. de L : ηλλ ἐγώ πρὸς αὐτὸν ἐρῶ · | πρὸς om. A. --- 18. λαύρω] Il faut lire
+ὄς τις ἄν ὑπάογοις. ῶ δαίωνίςν --- 2..
+ὄς τις ἄν ὑπάρχοις, ῶ δαίμων(sic). --- 9. καὶ
 
 
 ### 0423
 
-OLXMPIODORE. — SUR L'ART SACRE
+OLXMPIODORE. --- SUR L'ART SACRE
 87
 τάξεις, ἀς ἐκτίθενται οὶ ἀρχαῖοι δια τούτων καὶ ἄλλων μυρίων
 παρέρχονται λειώσεων ἡ ἐψήσεων ἡ σήψεων διαφόρων, θερμῶν καὶ
@@ -4482,27 +4481,27 @@ OLXMPIODORE. — SUR L'ART SACRE
 (. 170 v.), τουτέστιν ἐν τῆ εὶσβολῆ τοῦ ίεροῦ εὑρίσκεις λέγοντα
 15 τὴν λευκὴν οὐσίαν · ἐν δὲ σκίθη καὶ ἐν Τερενούθι, ἐν τῶ ίερῶ τῆς
 σιδος, ἐν τῆ δυτικῆ εὶσβολῆ τοῦ iεροῦ, εὐρήσεις ξανθὴν ψάμμον
-2. σήψεων om. A. — θερμῶν τε καὶ δρο- | τὴν μέλανσιν, τῆ δὲ άνατολῆ τὴν λεύκανσιν. τἤ
-σίμων αὶθρ. L. — 3. Καὶ] διὸ καὶ L. — 4. | δἐ μεσημβρία τὴν ῖωσιν, τῆ δὲ δύσει τὴν ξάνθω-
+2. σήψεων om. A. --- θερμῶν τε καὶ δρο- | τὴν μέλανσιν, τῆ δὲ άνατολῆ τὴν λεύκανσιν. τἤ
+σίμων αὶθρ. L. --- 3. Καὶ] διὸ καὶ L. --- 4. | δἐ μεσημβρία τὴν ῖωσιν, τῆ δὲ δύσει τὴν ξάνθω-
 Réd. de MA : καὶ τῶν ἀφάτων οὶκονομιῶν | σιν. lIάλιν δὲ τῆ μἐν ἀνατολἤ ἀπένειμαν τὴν
-συγχέεται. — 5. Καὶ] ἀλλὰ L, f. mel. — | λευκὴν οὐσίαν, ἤγουν τὸν ἄργυρον, τῆ δὲ δύσει
-6. ὑμᾶς] ἡμᾶς AL. — ἀποκατέστησεν AL, f. | τὴν ξανθὴν, ἤγουν τὸν χρυσόν. bησὶ γὰρ ὁ
+συγχέεται. --- 5. Καὶ] ἀλλὰ L, f. mel. --- | λευκὴν οὐσίαν, ἤγουν τὸν ἄργυρον, τῆ δὲ δύσει
+6. ὑμᾶς] ἡμᾶς AL. --- ἀποκατέστησεν AL, f. | τὴν ξανθὴν, ἤγουν τὸν χρυσόν. bησὶ γὰρ ὁ
 ρμ ῆς οὕτως · α χρυσωρυχεῖα τοῦ ἀρσε-
-mel. — 8. καὶ οὐκ ἐξέρχ...]διὸ καὶ οὐ διεξέρχ.
-τὸν ζητούμενον φανερῶς L. — τὸ ζητούμε- | νοήτου ἐν τῆ ἀνατολικῆ θύρα είσὶ, τουτέστιν
-νον A. — καὶ ού μόνον μυρία L, f. mel. — | ἐν τῆ εὶσβολῆ τοῦ ἰεροῦ τῆς Τσιδος εύρήσεις
-9. ἀλλὰ γὰρ ἰεράτ. MA. — 10. ἀλλὰ om. | γράμματα λέγοντα τὴν λευκὴν σύσίαν · ἐν δὲ
-L, f. mel. — τῶν εὶσβάσεων αὐτῶν A. — | δυτικἤ είσβολἤ τοῦ ἰεροῦ εὑρήσεις τὴν ξανθὴν
+mel. --- 8. καὶ οὐκ ἐξέρχ...]διὸ καὶ οὐ διεξέρχ.
+τὸν ζητούμενον φανερῶς L. --- τὸ ζητούμε- | νοήτου ἐν τῆ ἀνατολικῆ θύρα είσὶ, τουτέστιν
+νον A. --- καὶ ού μόνον μυρία L, f. mel. --- | ἐν τῆ εὶσβολῆ τοῦ ἰεροῦ τῆς Τσιδος εύρήσεις
+9. ἀλλὰ γὰρ ἰεράτ. MA. --- 10. ἀλλὰ om. | γράμματα λέγοντα τὴν λευκὴν σύσίαν · ἐν δὲ
+L, f. mel. --- τῶν εὶσβάσεων αὐτῶν A. --- | δυτικἤ είσβολἤ τοῦ ἰεροῦ εὑρήσεις τὴν ξανθὴν
 Réd. de L : τῶν εὶσβ. καὶ ἐκβάσεων αὐτῶν | ψάμμον κατ ᾽ ὄρυγμα πηχῶν τριῶν, τοῦ δὶ
-ἐποιήσαντο. — 11. ἀφορῶντες] ἀφοροῦντας | πήχεως εὶς τὸ ἤμισυ εύρσεις ζώνην μέλαιναν.
-M ; ἀφιρώντος A. — M mg. : Dessin d'un | ἤ χλωράν · καὶ ἄρον σὸ, καὶ οὶκονόμει. Ἄκουε
+ἐποιήσαντο. --- 11. ἀφορῶντες] ἀφοροῦντας | πήχεως εὶς τὸ ἤμισυ εύρσεις ζώνην μέλαιναν.
+M ; ἀφιρώντος A. --- M mg. : Dessin d'un | ἤ χλωράν · καὶ ἄρον σὸ, καὶ οὶκονόμει. Ἄκουε
 cone incliné à droite, reproduit sur le | δὲ καὶ τοῦ Ἀπόλλωνος λέγοντος ὄτι ἡ ψάμμος
 mot ἀφοροῦντας. (Indication probable | οίκονομείσθω, ἐωθεν λαμβανομένη. ν Τὸ δὲ
-d'une autre rédaction.) — ποῦμἐν —ούσία] | ἐωθεν ν δηλοῖ ὄτι πρὸ τῆς ἀνατολῆς ἐστιν ὁ
+d'une autre rédaction.) --- ποῦμἐν ---ούσία] | ἐωθεν ν δηλοῖ ὄτι πρὸ τῆς ἀνατολῆς ἐστιν ὁ
 Réd. de A : πουμἐν τῆ ἀνατολῆ διδώντος τὴν | πρὸ τῆς λευκώσεως καιρὸς τοῦ παντὸς ἔργου
-λευκὴν ούσίαν, τῆ δὲ διαίτη ξανθῆ καὶ τὰχ. (La | καὶ ἡ καταρχή. — 14. εύρίσκει A. — 15. ἐν
+λευκὴν ούσίαν, τῆ δὲ διαίτη ξανθῆ καὶ τὰχ. (La | καὶ ἡ καταρχή. --- 14. εύρίσκει A. --- 15. ἐν
 suite comme dans M, sauf les variantes | δὲ σκ. καὶ ἐν Τερ.] ἀπὸσυνθεῖναι ἐτίραν νυύ-
-indiquées). Réd. de l, jusqu'a la fin du | θην A. — 16. M mg. ῶδε (en lettres re-
+indiquées). Réd. de l, jusqu'a la fin du | θην A. --- 16. M mg. ῶδε (en lettres re-
 paragraphe : Πἤ μἐν γὰρ ᾶρκτω ἀπένειμαν | tournées).
 
 
@@ -4534,22 +4533,22 @@ TRAITES DEMOCRITAINS
 σκωριδίου, εὐτελοῦς τῶ εῖδει · ὁν, φησὶν, ἐπεθύμησαν ἰδεῖν οὶ Ἀὶγυπ-
 τίων προφῆται.
 32] Καὶ ὄρα ὄτι ὁ σκοπὸς οὕτος ὁ τῶν ψάμμων ἀλληγορία
-1. μετὰ ὸρύγματος] ὄρυγμα A. — οῦ δὲ | M mg. : groupe de trois demi-cercles
-πίχεως είς τοὐς ὑμίση τῶν γ πιχῶν A. — | avec point au centre de chacun d'eux,
-2. μελάνην M. — ἄρα σὐ οὶκονόμει A. — 3. | à l'encre rose ; guillemets jusqu'a la
-καὶ ταῦτα ἐν τῶ ἀπηλ. A. — 4. πάντα] ταῦτα | ligne 23 inclusivement. — τὸ δὲ ἐπὶ τῶν
-A, f. mel. — ἐν τῶ μυστ. γεγραμμένα A. — | τριῶν πηχῶν L. — 19. Après μέλαιναν] ἤ
-5. παρατήρει] παρὰ τὸ ὄρη A. — 6. M mg. : | χλωρὰν add. L. — 20. μολίβδου M, ici et
-ὕδε (sic) en lettres retournées. — 11. | plus loin. — τουτέστιν περὶ τνῦ μολ. L. —
-ἀρχομένην M. — 13. αλλ ὶερε] ἀλόγως | Après ἡμῶν] ἤγουν add. L. — 21. θερ-
-ρμῆς A. F. l. ἀλλ ᾽ εὶ ἐρεις... — 17. | μοσήψεως AL. — 22. Après φησιν] μόλυβ-
-δὲ] F. l. δὴ. — 18. τὸ πλήρωμα AL. — | δον add. L. — οὶ τῶν Λίγ. πρ. L.
+1. μετὰ ὸρύγματος] ὄρυγμα A. --- οῦ δὲ | M mg. : groupe de trois demi-cercles
+πίχεως είς τοὐς ὑμίση τῶν γ πιχῶν A. --- | avec point au centre de chacun d'eux,
+2. μελάνην M. --- ἄρα σὐ οὶκονόμει A. --- 3. | à l'encre rose ; guillemets jusqu'a la
+καὶ ταῦτα ἐν τῶ ἀπηλ. A. --- 4. πάντα] ταῦτα | ligne 23 inclusivement. --- τὸ δὲ ἐπὶ τῶν
+A, f. mel. --- ἐν τῶ μυστ. γεγραμμένα A. --- | τριῶν πηχῶν L. --- 19. Après μέλαιναν] ἤ
+5. παρατήρει] παρὰ τὸ ὄρη A. --- 6. M mg. : | χλωρὰν add. L. --- 20. μολίβδου M, ici et
+ὕδε (sic) en lettres retournées. --- 11. | plus loin. --- τουτέστιν περὶ τνῦ μολ. L. ---
+ἀρχομένην M. --- 13. αλλ ὶερε] ἀλόγως | Après ἡμῶν] ἤγουν add. L. --- 21. θερ-
+ρμῆς A. F. l. ἀλλ ᾽ εὶ ἐρεις... --- 17. | μοσήψεως AL. --- 22. Après φησιν] μόλυβ-
+δὲ] F. l. δὴ. --- 18. τὸ πλήρωμα AL. --- | δον add. L. --- οὶ τῶν Λίγ. πρ. L.
 
 
 ### 0425
 
 89
-OLVMIODORE. — SUR L'ART SACRE
+OLVMIODORE. --- SUR L'ART SACRE
 ἐστὶν, οὐχὶ τὴν (f. 171 r.) ψάμμον αὶνίττονται, ἀλλὰ τὰς οὐσίας.
 Πόθεν δὲ στηριζόμεθα ὅτι ἡ ἀνατολὴ τῶ ἄρρενι ἀπενεμήθη, ἡ δὲ
 δύσις τῆ θηλεία; καὶ ἐκ τοῦ Ἀδάμ · οὕτος γὰρ πάντων ἀνθρώπων
@@ -4569,22 +4568,22 @@ lῦ χυτὰ, τὰ δὲ ἀσώματα, λίθους · οῖον ἀνού
 Παύσηρην · « Θέλεις ῖνα βάλωμεν αὐτὸν εὶς τὴν θάλασσαν πρὶν ἡ συλ-
 λάβη τὰ μίγματα; » Καὶ φησὶν ὁ Ἑρμῆς · « Καλῶς ἔφης καὶ ἀκρι-
 βέστατα » · Π δὲ θάλασσά ἐστιν, ῶς φησιν ὁ Ζώσιμος, ἀρρενόθηλυς.
-1. ούχὶ γρ τὴν ψ. L. — αὶνίττεται L. | ἐγω σοι προσφ. καὶ καλῶ τὸν E. ἀληθῆ μάρ-
-— 2. πόθεν] ὄθεν A ; ἔτι δὲ L. — 3. καὶ ἐκ | τυρα λέγοντα. — 11. M mg. : περὶ σίτου.
-τοῦ Ἀδάμ — ἐγένετο] Réd. de L : Καὶ γὰρὁ | — ἔλεγον] λέγω AL. — 12. ὄτι τὰς οὐσίας L.
-δὰμ πάντων τῶν ἀνθρ. πρ. ἐγ. — 4. Après — 13. M mg. : σώματα, en lettres re-
+1. ούχὶ γρ τὴν ψ. L. --- αὶνίττεται L. | ἐγω σοι προσφ. καὶ καλῶ τὸν E. ἀληθῆ μάρ-
+--- 2. πόθεν] ὄθεν A ; ἔτι δὲ L. --- 3. καὶ ἐκ | τυρα λέγοντα. --- 11. M mg. : περὶ σίτου.
+τοῦ Ἀδάμ --- ἐγένετο] Réd. de L : Καὶ γὰρὁ | --- ἔλεγον] λέγω AL. --- 12. ὄτι τὰς οὐσίας L.
+δὰμ πάντων τῶν ἀνθρ. πρ. ἐγ. --- 4. Après --- 13. M mg. : σώματα, en lettres re-
 στοιχείων] addition de L : καὶ δέδωκεν αύτῶ | tournées, sur une ligne verticale descen-
-ὁ Θεὸς τὴν ἀνατολὴν, καλεῖται κ. τ. λ. — | dant jusqu'au bas de la page du ms. —
-M mg. : groupe de 5 points, en rose, | 14. ἀμφότερον A. — διαδέχεται AL. — τὰ
-répété sur καλεῖται. — 5. καὶ πυρ γῆ om. | μἐν γὰρ σώμ. L. — 15. τὰ δὲ ἀσώματα —
-AL. F. l. πυρρὰ γῆ. — αίματώδης γῆ L qui | ψάμμους] Réd. de L : τὰ δὲ ἀσώμ. τὰς ψάμ-
+ὁ Θεὸς τὴν ἀνατολὴν, καλεῖται κ. τ. λ. --- | dant jusqu'au bas de la page du ms. ---
+M mg. : groupe de 5 points, en rose, | 14. ἀμφότερον A. --- διαδέχεται AL. --- τὰ
+répété sur καλεῖται. --- 5. καὶ πυρ γῆ om. | μἐν γὰρ σώμ. L. --- 15. τὰ δὲ ἀσώματα ---
+AL. F. l. πυρρὰ γῆ. --- αίματώδης γῆ L qui | ψάμμους] Réd. de L : τὰ δὲ ἀσώμ. τὰς ψάμ-
 ajoute : τῆ δὲ υα ἐδόθη ἡ δύσις. Cp. Zo- | μους · ἀνούσια γὰρ σώματα καλοῦμεν τὰς ψ.
-sime, Instruments et fourneaux, ci-après | — M. mg. en rose : περὶ λίθ — 16. τὰ
-III, XLX, 5. — 6. ἐν ταῖςτοῦ Πτολ. AL. — | δὲ] τὸ δὲ L. — A mg. : σῆ. — O ελ.
-καὶ ταῦτα δέ μοι L. — 7. ς διὰ τὸ μὴ παρ. | δέ φ. L. — 17. M mg. : χ., signe répété
-A ; ώστε παρ. ὑμῖν L. — 8. ἡ τι τῶν ὄντων A. | sur θέλεις. — Πάνσηριν AL. — βάλλωμεν
-— τῆ δὲ θ. ἡ δύσις om. L. — Kαὶ ώσιμος | AL. — 18. Καὶ φ. ὁ Ερμῆς] καὶ οὕτος άπε-
-— λέγοντα] Réd. de L : Καὶ ὁ Z. ἐν τἤ κατ | κρίνατο L. — 19. δὲ] F. l. γρ. — ἀρρενο-
+sime, Instruments et fourneaux, ci-après | --- M. mg. en rose : περὶ λίθ --- 16. τὰ
+III, XLX, 5. --- 6. ἐν ταῖςτοῦ Πτολ. AL. --- | δὲ] τὸ δὲ L. --- A mg. : σῆ. --- O ελ.
+καὶ ταῦτα δέ μοι L. --- 7. ς διὰ τὸ μὴ παρ. | δέ φ. L. --- 17. M mg. : χ., signe répété
+A ; ώστε παρ. ὑμῖν L. --- 8. ἡ τι τῶν ὄντων A. | sur θέλεις. --- Πάνσηριν AL. --- βάλλωμεν
+--- τῆ δὲ θ. ἡ δύσις om. L. --- Kαὶ ώσιμος | AL. --- 18. Καὶ φ. ὁ Ερμῆς] καὶ οὕτος άπε-
+--- λέγοντα] Réd. de L : Καὶ ὁ Z. ἐν τἤ κατ | κρίνατο L. --- 19. δὲ] F. l. γρ. --- ἀρρενο-
 έν. αύτοῦ βίβλω τοῦ καταλόνου οησίν · | εν f οl
 ἐν. αὐτοῦ ββλω τοῦ καταλόγου φησίν · Oῦτως
 
@@ -4615,27 +4614,27 @@ TRAITES DMOCRITAINS
 20 36] Καὶ Συνέσιος πρὸς Ἀιόσκορον γράφων φησὶ περὶ τῆς ὑδραρ-
 γύρου τῆς ἐτησίας τῆς νεφέλης, ἐπειδὴ οῖδασιν αὐτὴν πάντες οὶ
 ἀρχαῖοι λευκὴν καὶ φευκτὴν καὶ ἀνυπόστατον, δεχομένην δὲ πᾶν
-1. Οτι οίκον. — τὴν δρόσον] Réd. de | 13. μαρτυρίας τινὰς L. — 14. ὁ ώσιμος L.
-L : Τὸ δὲ οίκονομείσθω σημαίνει τὸ ἐωθεν | — ἀποχἤ] πηγῆ A. — 15. λον τὸ τῆς Aίγύπ-
-λαμβανέσθω καὶ ἐχέτω ἐτι τὴν δρόσον. — 4. | του...] Citation du traité de Zosime pu-
-ὁ 'πόλλων L. — 5. λέγω] λέγω δὲ L. | blié ci-après (II, Ln1, 1-3). Voir, au dé-
-F. l. λέγω δὴ. — ἀέριον] ἔριον M ; ἐναέριον | but de ce même traité, la note relative
-AL. Corr. conj. — καὶ ἰδοὺ] ίδοὐ τοίνυν | aux variantes fournies par le texte
-L. — μαρτυρίαι εὶσὶν L. — 6. δεῖται τὸ | d'Olympiodore. — 16. τριῶν] δύο. MA.
-τοιοῦτον σύνθημα AL. — ῖνα, ώς φησὶν AL. | — 20. Réd. de L : ὁ Συνέσιος πρὸς τὸν
-— 10. M mg. : κατάλογος () en abrégé ; | Λιόσκ. γράφει περὶ τῆς τῆς ὑδρ. καὶ νεφ. αὶτίας.
-main du Ve siècle. — 12. πρὸς τοὐς | — 21. τῆς ἐτησίας] αὶτίας A. — 22. φευκτὴν
-Aίγυπτίους ποιοὕνται τοὐς λόγους L. — παρα- | — σῶμα] Réd. de L : φευκτὴν καὶ ἀνυπ.
+1. Οτι οίκον. --- τὴν δρόσον] Réd. de | 13. μαρτυρίας τινὰς L. --- 14. ὁ ώσιμος L.
+L : Τὸ δὲ οίκονομείσθω σημαίνει τὸ ἐωθεν | --- ἀποχἤ] πηγῆ A. --- 15. λον τὸ τῆς Aίγύπ-
+λαμβανέσθω καὶ ἐχέτω ἐτι τὴν δρόσον. --- 4. | του...] Citation du traité de Zosime pu-
+ὁ 'πόλλων L. --- 5. λέγω] λέγω δὲ L. | blié ci-après (II, Ln1, 1-3). Voir, au dé-
+F. l. λέγω δὴ. --- ἀέριον] ἔριον M ; ἐναέριον | but de ce même traité, la note relative
+AL. Corr. conj. --- καὶ ἰδοὺ] ίδοὐ τοίνυν | aux variantes fournies par le texte
+L. --- μαρτυρίαι εὶσὶν L. --- 6. δεῖται τὸ | d'Olympiodore. --- 16. τριῶν] δύο. MA.
+τοιοῦτον σύνθημα AL. --- ῖνα, ώς φησὶν AL. | --- 20. Réd. de L : ὁ Συνέσιος πρὸς τὸν
+--- 10. M mg. : κατάλογος () en abrégé ; | Λιόσκ. γράφει περὶ τῆς τῆς ὑδρ. καὶ νεφ. αὶτίας.
+main du Ve siècle. --- 12. πρὸς τοὐς | --- 21. τῆς ἐτησίας] αὶτίας A. --- 22. φευκτὴν
+Aίγυπτίους ποιοὕνται τοὐς λόγους L. --- παρα- | --- σῶμα] Réd. de L : φευκτὴν καὶ ἀνυπ.
 θσω] παραδίδωσιν A ; παραθήσομαί σοι L. | καὶ λευκὴν καὶ δεχ. πν σῶμα.
 
 
 ### 0427
 
-OLVMPIODORE. — SUR L'ART SACRE
+OLVMPIODORE. --- SUR L'ART SACRE
 91
 σῶμα χυτὸν καὶ εὶς ἐαυτὴν ἔλκουσαν, ὡς καὶ ἡ πεῖρα ἐδίδαξεν, καὶ
 φησὶν οὕτως ·« ὰν βούλη τὸ ἀκριβἐς γνῶναι κ. τ. λ. ....
-« Καὶ διὰ τοῦτο Πηβίχιος πολλὴν συγγένειαν ἔχειν ἔλεγεν. —
+« Καὶ διὰ τοῦτο Πηβίχιος πολλὴν συγγένειαν ἔχειν ἔλεγεν. ---
 Καλῶς ἐδίδαξας, φιλόσοφε. »
 O] 1ούτων πλέον τί ἔχομεν ἀκοῦσαι ; ὶς ὄτι ἡ ὑδράργυρος
 φιλοτεχνουμένη ὑποστατικὴ γίνεται, ἀνυποστάτου αὐτῆς οὕσης συμ-
@@ -4655,21 +4654,21 @@ g εἶναι. Ἀιὰ τοῦτο μέλανσις · καὶ ἐν τῆ ἐ�
 ζητούμενον · οἶδα σοῦ τὸ ἀνεξίκακον τῆς σοφίας.
 20 38] Τοσαύτη κλεῖς λόγου τῆς ἐγκυκλίου τέχνης ἡ σύνοψις. Mὴ
 παραδράμης τι τῶν ἐνθάδε · ἀνοίξει γάρ σοι πύλας τοῦ θεωρητικοῦ
-1. ἐλκουσαν αύτὸ L. — ἡμς ἐδίδαξεν L. | f. mel. — ἐθέλης L. — καὶ ἐγκατασπ. L.
-— 2. ν βούλη κ. τ. λ.] Citation de | — 11. τὸ σῶμα τὸ ὑποστατικὸν L. — 13.
-Synésius (p. 238, éd. Fabricius et ci- | ώς καὶ οί τῶν δαιμ. L. — 14. τέφρας · καὶ
-dessus, II, 1u1, fin du s 7, 8S 8 et 9.) | ἡ Mαρία γὰρ ἐξ ἀρχς A. — ἐξαρχῆς M
-Voir, sur les variantes de cette cita- | partout. — Réd. de L : ... τέφρας · καὶ ἡ
-tion, page 61, notes de la ligne 18. — | Mαρία δὲ ἐξ ἀρχῆς αύτὸν οἶδε τὸν μολυβδον.
-5. Tούτων] τούτου A ; τούτου τοίνυν L. — | — 15. ἤτοι λεύκωσις γίνεται L. — 16. οὐδἐν
-ὡς ὄτι] ς om. A ; ἡ ὄτι L. — 6. φιλο- | — λεύκωσις om. A ; οὐδἐν — μέλανος om.
-τεχνουμένη ὑφ ᾽ ἡμῶν AL. — οὕσης] ὑπαρ- | L. — 18. αὶχμάλωτον mss. Corr. conj.
-χούσης AL. — Après συμμεταβαλλομένη] |— ἀπὸ τῶν αὶώνων L. — 20. Réd. de L:
-δὲ add. L. — 7. χυτῶ — γίνεται om. | Tοσ. ἐστὶν ἡ κλεῖς τοῦ λόγου καὶ τῆς ἐγκ. τ.
-L. — 8. οὕτως — ἡ ὄσα φημίζουσιν] Réd. | — Καὶ μὴ AL. — 21. παραδράμης] παράβεις
-de L : οῦτω δὲ καὶ ἡ ἡμετέρα μαγν. καὶ τὸ | (παραβῆς?) A. — Après πύλας] ἐντεῦθενadd.
-στ. καὶ ἡ ψάμμος καὶ ὁ πυρίτης καὶ ὄσα φημ. | L. — Réd. de L : τοῦ θεωρ. κ. πρακτ. αὐτ
-— 10. αύτοματαρείφ] αύτῶ τῶ βοταρί AL, | ἡ τέχνη · καὶμαθήση ὄτι τὰ σκωρ.
+1. ἐλκουσαν αύτὸ L. --- ἡμς ἐδίδαξεν L. | f. mel. --- ἐθέλης L. --- καὶ ἐγκατασπ. L.
+--- 2. ν βούλη κ. τ. λ.] Citation de | --- 11. τὸ σῶμα τὸ ὑποστατικὸν L. --- 13.
+Synésius (p. 238, éd. Fabricius et ci- | ώς καὶ οί τῶν δαιμ. L. --- 14. τέφρας · καὶ
+dessus, II, 1u1, fin du s 7, 8S 8 et 9.) | ἡ Mαρία γὰρ ἐξ ἀρχς A. --- ἐξαρχῆς M
+Voir, sur les variantes de cette cita- | partout. --- Réd. de L : ... τέφρας · καὶ ἡ
+tion, page 61, notes de la ligne 18. --- | Mαρία δὲ ἐξ ἀρχῆς αύτὸν οἶδε τὸν μολυβδον.
+5. Tούτων] τούτου A ; τούτου τοίνυν L. --- | --- 15. ἤτοι λεύκωσις γίνεται L. --- 16. οὐδἐν
+ὡς ὄτι] ς om. A ; ἡ ὄτι L. --- 6. φιλο- | --- λεύκωσις om. A ; οὐδἐν --- μέλανος om.
+τεχνουμένη ὑφ ᾽ ἡμῶν AL. --- οὕσης] ὑπαρ- | L. --- 18. αὶχμάλωτον mss. Corr. conj.
+χούσης AL. --- Après συμμεταβαλλομένη] |--- ἀπὸ τῶν αὶώνων L. --- 20. Réd. de L:
+δὲ add. L. --- 7. χυτῶ --- γίνεται om. | Tοσ. ἐστὶν ἡ κλεῖς τοῦ λόγου καὶ τῆς ἐγκ. τ.
+L. --- 8. οὕτως --- ἡ ὄσα φημίζουσιν] Réd. | --- Καὶ μὴ AL. --- 21. παραδράμης] παράβεις
+de L : οῦτω δὲ καὶ ἡ ἡμετέρα μαγν. καὶ τὸ | (παραβῆς?) A. --- Après πύλας] ἐντεῦθενadd.
+στ. καὶ ἡ ψάμμος καὶ ὁ πυρίτης καὶ ὄσα φημ. | L. --- Réd. de L : τοῦ θεωρ. κ. πρακτ. αὐτ
+--- 10. αύτοματαρείφ] αύτῶ τῶ βοταρί AL, | ἡ τέχνη · καὶμαθήση ὄτι τὰ σκωρ.
 
 
 ### 0428
@@ -4696,26 +4695,26 @@ TRAITES DEMOCRITAINS
 ἀνεξίκακον πρὸς τὸ ῥάθυμον τῆς πολυφλοίσβου σπουδῆς, οὐ τὴν σπου-
 δὴν λοιδορῶν μὴ γένοιτο, ἀλλὰ τὸ ῥάθυμον τῆς σπουδῆς. Tοίνυν τὸ
 20 διακριτικόν ἐστιν τὸ λευκόν · τὸ γὰρ λευκὸν χρῶμα οὐ λέγεται κυρίως
-1. γνοὐς] μάθης δὲ A. — ἐστι M. — | ἔνθεος Ζώσιμος en petites onciales M. —
-μυστήριον] Voir III, ὑis, Appendice 1. | ῶς φ. καὶ ὁ ἐ. Ζώσ. A. — 12. στηρζω régit
-— 2. ὄλοι] πάντες L. — M mg. : σῆ. | d'ordinaire le datif et non le génitif ;
-— 3. αύτὰ] αὐτῶ A. F. l. αὐτὸ. — 4. A | f. l. ἐπὶ πάσης ἀλ. ἐστ. κ. γν. — 13.
-mg. : une main. — 7. παραφέρει] περιφέ- | ὁρατὸν AL. — M mg. : σῆ, de première
-ρει L, qui ajoute ἤ μᾶλλον εὶπεῖν τὰ τρία | main. — Réd. de A : ... κόσμον ἐν
-χρώματα τοῦ όφθαλμοῦ. (Glose marginale | ἐαυτῶ μηκέτι ἐπιδεικνύουσα. — Réd. de
-insérée dans le texte ?) — Τὴν ούρανίαν] | L : κόσμον ἐν ἐ. ούκ ἔτι ἐπιδεικνύει, τουτ. ἡ
-τοῦ ούρανοῦ AL. — 8. ἀνόητοι] F. l. ἀμύη- | ψυχὴ αύτοῦ, ἀλλ᾽ ὡς. .. — 14. ἐπιδείκνυσιν L.
-τοι, ut infra (p. 93 l. 3). — 9. αὐτὸ] ἐαυτὸ | — ἐπὶ τοῦ ἀργ. AL. — 15. πυρροῦν] πυρὸν
-L. — κατακομιζόμενον et l. 1, κατακομίζε- | A ; πυρρὸν L. — τουτ. τοῦ χρυσοῦ AL.
-ται] κατακυμ. M. — Réd. de L : ἐστὶν, ὄπερ | — 16. ώ ἀφθ. — ἐστι τὸ λευκὸν om. L. —
+1. γνοὐς] μάθης δὲ A. --- ἐστι M. --- | ἔνθεος Ζώσιμος en petites onciales M. ---
+μυστήριον] Voir III, ὑis, Appendice 1. | ῶς φ. καὶ ὁ ἐ. Ζώσ. A. --- 12. στηρζω régit
+--- 2. ὄλοι] πάντες L. --- M mg. : σῆ. | d'ordinaire le datif et non le génitif ;
+--- 3. αύτὰ] αὐτῶ A. F. l. αὐτὸ. --- 4. A | f. l. ἐπὶ πάσης ἀλ. ἐστ. κ. γν. --- 13.
+mg. : une main. --- 7. παραφέρει] περιφέ- | ὁρατὸν AL. --- M mg. : σῆ, de première
+ρει L, qui ajoute ἤ μᾶλλον εὶπεῖν τὰ τρία | main. --- Réd. de A : ... κόσμον ἐν
+χρώματα τοῦ όφθαλμοῦ. (Glose marginale | ἐαυτῶ μηκέτι ἐπιδεικνύουσα. --- Réd. de
+insérée dans le texte ?) --- Τὴν ούρανίαν] | L : κόσμον ἐν ἐ. ούκ ἔτι ἐπιδεικνύει, τουτ. ἡ
+τοῦ ούρανοῦ AL. --- 8. ἀνόητοι] F. l. ἀμύη- | ψυχὴ αύτοῦ, ἀλλ᾽ ὡς. .. --- 14. ἐπιδείκνυσιν L.
+τοι, ut infra (p. 93 l. 3). --- 9. αὐτὸ] ἐαυτὸ | --- ἐπὶ τοῦ ἀργ. AL. --- 15. πυρροῦν] πυρὸν
+L. --- κατακομιζόμενον et l. 1, κατακομίζε- | A ; πυρρὸν L. --- τουτ. τοῦ χρυσοῦ AL.
+ται] κατακυμ. M. --- Réd. de L : ἐστὶν, ὄπερ | --- 16. ώ ἀφθ. --- ἐστι τὸ λευκὸν om. L. ---
 κατακομίζεται ὑπὸ τῶν ἰδ. σωμάτων. Κατα- | 17. Après ἀμυντηρίοις] χρώμασιν add. A.
-κοιμιζεται. γὰρ ἡ φύσις τ. μολύβδου ὑ. τ. ὑ. | — 20. Après κυρίως] χρῶμα add. L.
-ούσίας καθώς φησιν. .. — 11. ς οησὶν ὁ
+κοιμιζεται. γὰρ ἡ φύσις τ. μολύβδου ὑ. τ. ὑ. | --- 20. Après κυρίως] χρῶμα add. L.
+ούσίας καθώς φησιν. .. --- 11. ς οησὶν ὁ
 
 
 ### 0429
 
-OLVMPIODORE. — SUR L'ART SACRE
+OLVMPIODORE. --- SUR L'ART SACRE
 93
 πᾶν γὰρ χρῶμα δέχεται καὶ διακρίνει · τὸ γὰρ μέλαν χρῶμά ἐστι
 κυρίως, καὶ τοῦ μέλανος πολλαὶ διαφοραί. Καὶ περὶ χρωμάτων δια-
@@ -4740,17 +4739,17 @@ OLVMPIODORE. — SUR L'ART SACRE
 οὐκέτι δυνάμει, ἀλλὰ καὶ ἐνεργεία. « Ἐγὼ δὲ λέγω αὐτὸν, φησὶν ἡ
 Mαρία, χαλκὸν μόλυβδον εἶναι δια οὶκονομίας ὄντα. » Π οὕν οὶκονο-
 μία τῶν σκωριδίων, ἡ διδαχή ἐστιν αὕτη. Ἐτήσιον ἡ λιθοφρύγιον
-1. Après διακρίνει] ἐν ἐαυτῶ add. L. — | insérée dans le texte). — καὶ τὰ ἀσώματα
-Réd. de L : Tὸ δὲ (mel.)μέλαν χρ. μόνον ἐστὶ | σωμ. om. M A. — 15. Au-dessus de δύο]
-κυρ. χρῶμα, καὶ πολλαί είσιν αὶ διαφ. τοῦ | πῶς M (XVe siècle). — 18. M mg. : ῶδε,
-μέλ. puis addition : πηγὴ γάρ ἐστι πάντων | en lettres retournées. — λίθος ἐστίν L.
-τῶν ἄλλων χρωμάτων τὸ μέλαν χρῶμα · διὸ | — καὶ ἐξ ῖσου L. — 19. πάντα om. L. —
-καὶ περὶ χρ. ιαλεγομένων ἡμῶν. .. — 4. μὴ | 20. εὕροις] βουλήση L. — Après ξανθῶσαι]
-om. AL. — 7. εὶς ἐαυτὸν A. — 10. ἡ om. | εύρήσεις add. L. — 22. τὸν μόλυβδον χαλκὸν
-M. — 13. μολίβδου mss. — ἀλλὰ περὶ τοῦ | MKL ; signes du cuivre et du plomb
-γιν. AL. — 14. Au-dessus de σώματα] | A. Corr. conj. — 23. τῶν δύο σκωρ. AL.
-πῶς M (main du XVe siècle. — Après | — καὶ ἡ διδ. L. — λιθοφρύγιον · ὄξυνε δὲ καὶ
-σώματα] πῶς δἐ γένοιτ ᾽ ἄν ; add. L. (Glose | πρ. L. — ὄξει καὶ A.
+1. Après διακρίνει] ἐν ἐαυτῶ add. L. --- | insérée dans le texte). --- καὶ τὰ ἀσώματα
+Réd. de L : Tὸ δὲ (mel.)μέλαν χρ. μόνον ἐστὶ | σωμ. om. M A. --- 15. Au-dessus de δύο]
+κυρ. χρῶμα, καὶ πολλαί είσιν αὶ διαφ. τοῦ | πῶς M (XVe siècle). --- 18. M mg. : ῶδε,
+μέλ. puis addition : πηγὴ γάρ ἐστι πάντων | en lettres retournées. --- λίθος ἐστίν L.
+τῶν ἄλλων χρωμάτων τὸ μέλαν χρῶμα · διὸ | --- καὶ ἐξ ῖσου L. --- 19. πάντα om. L. ---
+καὶ περὶ χρ. ιαλεγομένων ἡμῶν. .. --- 4. μὴ | 20. εὕροις] βουλήση L. --- Après ξανθῶσαι]
+om. AL. --- 7. εὶς ἐαυτὸν A. --- 10. ἡ om. | εύρήσεις add. L. --- 22. τὸν μόλυβδον χαλκὸν
+M. --- 13. μολίβδου mss. --- ἀλλὰ περὶ τοῦ | MKL ; signes du cuivre et du plomb
+γιν. AL. --- 14. Au-dessus de σώματα] | A. Corr. conj. --- 23. τῶν δύο σκωρ. AL.
+πῶς M (main du XVe siècle. --- Après | --- καὶ ἡ διδ. L. --- λιθοφρύγιον · ὄξυνε δὲ καὶ
+σώματα] πῶς δἐ γένοιτ ᾽ ἄν ; add. L. (Glose | πρ. L. --- ὄξει καὶ A.
 
 
 ### 0430
@@ -4780,23 +4779,23 @@ TRAITES DEMOCRITAINS
 σεως l πόθεν ἤτις ἡ τῶν ἐχθρῶν ἀπροσδόκητος φιλία ;
 42] Πάλιν οί χρησμοὶ τοῦ Ἀπόλλωνος συνηγοροῦσι · ταφὴν
 γὰρ, ὶσίρεως ὐποτίθενται. δὲ ταφὴ τοῦ ὶσίρεως τί ἐστιν ;
-1. καὶ χλιάνας L. — λείοι M ; συλλείου | δὲ καὶ L. — 11. καὶ ἡμέτερον L. — ῶς φ. ὁ
-L. — ὁ ημόκρ. AL. — 2. κατὰ παντὸς | ἄργυρος ἤγουν ὁ ἄσ. L. — 12. ὁ χρυσὸς L.
-κατασπᾶν τὸν μολ. L. — καὶ παρεγγ.] καὶ | — 13. M mg. ·. τὸ μἐν σῶμα, avec ren-
-om. AL. — 3. λέγω AL. — 4. Ἀγαθ. δὲ | voi à γράμμα. — τὸ μὶν γὰρ σῶμα, γράμμα
-L. — σκευάζεται AL. — 5. Après μολύῦ- | A. Cp. Paul, II, Corinthiens, III, 6. —
-δου] ποιῶν καὶ add. L. — ἐξυδατειν A ; ἐξυ- | 14. τοῦτο δὲ L. — 16. μὴ λογιζ.] καὶ μὴ
-δατῶν L, f. mel. — 7. ἰδὸυ πάντες σκ. A ; | λογιομένοις L. — 17. χιμείας M. F. l.
-ίδοὺ δὲ λως πάντες σκ. L. — 8. κοινὸς μἐν | χημείας. — φησὶν — φιλία (ligne 21) om.
-μόλ. L. — 9. αὐτοῦ] αὐτῶ L. — Après | L. — 22. πάλιν] ἐτι δὲ καὶ L. — 23.
-τοιούτου] τινὸς πρότερον add. L. — καὶ ἡ | Οσίριδος L 2 fois. Oσιρις, ιδος, est la
-πεῖρα διδ. A ; ἡ π. δὲ διδ. ἔσται L. — πάλιν | forme usuelle. — ὑποτίθ. εἶναι L.
+1. καὶ χλιάνας L. --- λείοι M ; συλλείου | δὲ καὶ L. --- 11. καὶ ἡμέτερον L. --- ῶς φ. ὁ
+L. --- ὁ ημόκρ. AL. --- 2. κατὰ παντὸς | ἄργυρος ἤγουν ὁ ἄσ. L. --- 12. ὁ χρυσὸς L.
+κατασπᾶν τὸν μολ. L. --- καὶ παρεγγ.] καὶ | --- 13. M mg. ·. τὸ μἐν σῶμα, avec ren-
+om. AL. --- 3. λέγω AL. --- 4. Ἀγαθ. δὲ | voi à γράμμα. --- τὸ μὶν γὰρ σῶμα, γράμμα
+L. --- σκευάζεται AL. --- 5. Après μολύῦ- | A. Cp. Paul, II, Corinthiens, III, 6. ---
+δου] ποιῶν καὶ add. L. --- ἐξυδατειν A ; ἐξυ- | 14. τοῦτο δὲ L. --- 16. μὴ λογιζ.] καὶ μὴ
+δατῶν L, f. mel. --- 7. ἰδὸυ πάντες σκ. A ; | λογιομένοις L. --- 17. χιμείας M. F. l.
+ίδοὺ δὲ λως πάντες σκ. L. --- 8. κοινὸς μἐν | χημείας. --- φησὶν --- φιλία (ligne 21) om.
+μόλ. L. --- 9. αὐτοῦ] αὐτῶ L. --- Après | L. --- 22. πάλιν] ἐτι δὲ καὶ L. --- 23.
+τοιούτου] τινὸς πρότερον add. L. --- καὶ ἡ | Οσίριδος L 2 fois. Oσιρις, ιδος, est la
+πεῖρα διδ. A ; ἡ π. δὲ διδ. ἔσται L. --- πάλιν | forme usuelle. --- ὑποτίθ. εἶναι L.
 
 
 ### 0431
 
 95
-OLVMPIODORE. — SUR L'ART SACRE
+OLVMPIODORE. --- SUR L'ART SACRE
 Nεκρός ἐστιν κηρίαις κατισχημένος, τὸ πρόσωπον μόνον γυμνὸν ἔχων.
 Καί φησιν ἐρμηνεύων ὁ χρησμὸς τὸν ὶσιριν · « ὶσιρίς ἐστιν ἡ
 ταφὴ ἐσφιγμένη, κρύπτουσα πάντα τὰ ὶσίριδος μέλη, μόνον πρό-
@@ -4820,19 +4819,19 @@ Nεκρός ἐστιν κηρίαις κατισχημένος, τὸ πρόσ�
 πληξίας καὶ ἀναιδείας τὸν μόλυβδον (εἶναι εἶπεν ὄτι οὶ θέλοντες
 μαθεῖν (f. 175 r.) μανίαν περιπίπτουσι διὰ τὴν ἄγνοιαν.
 1. κηρ. δεδεμένος καὶ κατεσχημένος L. | θεῖον jusqu'à ἀγκαλούμενος (l. 15)] Réd.
-— 2. A mg. : une main. — 3. Réd. de | de L : ὕδωρ δὲ θ. τοῦτο καὶ πικρύν ἐστι,
+--- 2. A mg. : une main. --- 3. Réd. de | de L : ὕδωρ δὲ θ. τοῦτο καὶ πικρύν ἐστι,
 L. πάντα τὰ τοῦ Oσ. μ. καὶ μ. τὸ προσ. | καὶ εὶδος ἐστυμμένον, καὶ ἰὸν κύπριον καὶ
-— 4. ἐθαύμασεν AL. — 5. αὐτὸς] αὐτῆς | αὶγύπτιον χρυσοβόστρυχον, καὶ χυλὸν κα-
-A ; αὐτὴ L. — ἐστιν ἀρχὴ πάσης ὑγ. ούσίας | λοῦσι · καὶ σὐν τούτφ χρίε τὰ πέτ. τῆς φ. θ.
-L. — ύπάρχουσα L. — 6. αύτὸς] αὕτη L. | τῆς κυπρ. καὶ χώνευε χρ. ἀγαλλόμενος. —
-— κάτοχος] F. l. ἐγκάτοχος. — τοῦ μολύβ- | 15. ἀγκαλούμενος] ἀγαλώμενος A. — πάλιν
-δου L. — 8. λάβε] λαβὼν MA. — A | δὲ καὶ ὁ Iετ. L. — 16. τὰ αὐτὰ συνάδει L.
-mg. : guillemets jusqu'à χώνευε χρυσὸν | — 18. διὰ τῆς μολύβδου ἐργασίας L, f. mel.
-ἀγκ. (l. 15). — 10. τὸν χρυσὸν τῆς Aίθ. |
-— 19. τοῦ ἀρσενικοῦ ὕδατος L. — 21.
-AL. — M. mg. : grosse étoile. — 11. | τοῦ μολύβδου L. — ὄτι οὶ θέλοντες — περι-
-ἐκφέρει τε χρυσὸν L. — θἐς σὶν αὐτῶ] τίθητι | πίπτουσι] Réd. de L : ῶστε τος θέλον-
-ἐν αὐτῶ L. — 12. ἔως ν L. — ὕδωρ δὲ | τας μαθεῖν είς μανίαν περιπίπτειν.
+--- 4. ἐθαύμασεν AL. --- 5. αὐτὸς] αὐτῆς | αὶγύπτιον χρυσοβόστρυχον, καὶ χυλὸν κα-
+A ; αὐτὴ L. --- ἐστιν ἀρχὴ πάσης ὑγ. ούσίας | λοῦσι · καὶ σὐν τούτφ χρίε τὰ πέτ. τῆς φ. θ.
+L. --- ύπάρχουσα L. --- 6. αύτὸς] αὕτη L. | τῆς κυπρ. καὶ χώνευε χρ. ἀγαλλόμενος. ---
+--- κάτοχος] F. l. ἐγκάτοχος. --- τοῦ μολύβ- | 15. ἀγκαλούμενος] ἀγαλώμενος A. --- πάλιν
+δου L. --- 8. λάβε] λαβὼν MA. --- A | δὲ καὶ ὁ Iετ. L. --- 16. τὰ αὐτὰ συνάδει L.
+mg. : guillemets jusqu'à χώνευε χρυσὸν | --- 18. διὰ τῆς μολύβδου ἐργασίας L, f. mel.
+ἀγκ. (l. 15). --- 10. τὸν χρυσὸν τῆς Aίθ. |
+--- 19. τοῦ ἀρσενικοῦ ὕδατος L. --- 21.
+AL. --- M. mg. : grosse étoile. --- 11. | τοῦ μολύβδου L. --- ὄτι οὶ θέλοντες --- περι-
+ἐκφέρει τε χρυσὸν L. --- θἐς σὶν αὐτῶ] τίθητι | πίπτουσι] Réd. de L : ῶστε τος θέλον-
+ἐν αὐτῶ L. --- 12. ἔως ν L. --- ὕδωρ δὲ | τας μαθεῖν είς μανίαν περιπίπτειν.
 
 
 ### 0432
@@ -4862,22 +4861,22 @@ TRAITES DEMOCRITAINS
 τουτέστιν χρυσόν.
 4] Πδοὐ πᾶσαι μαρτυρίαι κατὰ τὸ δυνατὸν ἀντὶ) τῶν πολλῶν
 ὁμιλιῶν ἐκκόψας ὡς διὰ τὸν γάρτην, οὐχ ὄτι σπανιοῦμεν τοῦ
-1. 'δοὐ ἐξ ἀ.] τοίνυν τὸ ἐξ ἀρχῆς L. — 2. | φεύγειν om. L. — 15. καὶ πάλιν L. — 17.
-τῶν om. L. — 3. σπερ φησὶν ὁ Ζώσιμος | Réd. de L : ἡ τὸ πῦρ; τὸ δὲ ἐν τἤ σφαιρο-
-AL. — Réd. de L : τὸ δὶ πᾶν τοῦ μολύβδου | ειδεῖ φιάλη ὁν ἀνεξόδευτον ἔχον... — 19. καὶ
-χρόνω καταλήγει. — 5. A mg. . guillemets | ἐν τῆ ἀναλήψει L. — 20. Après γεννήσασα]
-jusqu'à οῖς βούλεται (l. 9). — ψάμμον L. — | F. suppl. ἡ φύσις. — γεννῆσαν L. — 21.
-6. τοῦς ψάμμους A. — 8. καὶ ἐπιδωθεῖσα A ; | τὸν χρυσόν L. — 22. Τδοὐ τοίνυν L. —
-ἐπιδεθεtσα L. — 9. ὄτι τέχνη A. — Réd. de | πᾶσαι αί μαρτ. AL. — 23. Réd. de L :
+1. 'δοὐ ἐξ ἀ.] τοίνυν τὸ ἐξ ἀρχῆς L. --- 2. | φεύγειν om. L. --- 15. καὶ πάλιν L. --- 17.
+τῶν om. L. --- 3. σπερ φησὶν ὁ Ζώσιμος | Réd. de L : ἡ τὸ πῦρ; τὸ δὲ ἐν τἤ σφαιρο-
+AL. --- Réd. de L : τὸ δὶ πᾶν τοῦ μολύβδου | ειδεῖ φιάλη ὁν ἀνεξόδευτον ἔχον... --- 19. καὶ
+χρόνω καταλήγει. --- 5. A mg. . guillemets | ἐν τῆ ἀναλήψει L. --- 20. Après γεννήσασα]
+jusqu'à οῖς βούλεται (l. 9). --- ψάμμον L. --- | F. suppl. ἡ φύσις. --- γεννῆσαν L. --- 21.
+6. τοῦς ψάμμους A. --- 8. καὶ ἐπιδωθεῖσα A ; | τὸν χρυσόν L. --- 22. Τδοὐ τοίνυν L. ---
+ἐπιδεθεtσα L. --- 9. ὄτι τέχνη A. --- Réd. de | πᾶσαι αί μαρτ. AL. --- 23. Réd. de L :
 L : πεδήσας αύτὴν ἤ μέλανι, ἡ λευκῶ, ἡ ξανθῶ. | ὁμιλιῶν σοὶ ἐστωσαν ἄλις. Κατέλιπον δὲ καὶ
-— 12. Réd. de L : τουτέστιν τοῦ χαλκοῦ | ἄλλα πολλὰ οὐχ ὄτι σπανιζόμεθα χάρτου ·
+--- 12. Réd. de L : τουτέστιν τοῦ χαλκοῦ | ἄλλα πολλὰ οὐχ ὄτι σπανιζόμεθα χάρτου ·
 κ. τοῦ σιδήρου, καὶ τοῦ κασσιτέρου, καὶ τοῦ | ἀλλ ᾽ ῖνα μὴ σοὶ φορτικοὶ δόξωμεν · πόσος
-μολύβδου, καὶ συντελευτς... — 14. ἄτε δὴ — | γρ...
+μολύβδου, καὶ συντελευτς... --- 14. ἄτε δὴ --- | γρ...
 
 
 ### 0433
 
-OLVMPIODORE. — SUR L'ART SACRE
+OLVMPIODORE. --- SUR L'ART SACRE
 97
 χάρτου : ποῖος γὰρ χάρτης δυνήσηται τὰς τηλικαύτας δυνάμεις τῶν
 ἐγκωμίων τῆς τέχνης; Τοσοῦτον δέ μοι (f. 175 v.) χάρτην ἐτοίμασον
@@ -4902,18 +4901,18 @@ OLVMPIODORE. — SUR L'ART SACRE
 ἀληθῆ · ἀλλὰ συγγνώμης τύχω · δυνατὸν γὰρ τὸ ἐμὸν ἀμάρτημα δι
 ὑμῶν κατορθοῦσθαι, καὶ γενέσθαι πάλιν κάλυμμα οἶς οὐ θέμις.
 1. M mg. : grosse étoile (signe de la- | ἔκλεκταἀπὸ τῶν ἐξ ἀρχῆς είρημένων, καὶ ἀναλο-
-cune ?). — 2. Réd. de L: οσοῦτον χάρτ. τῆς | γίαν ποιούμενος τῶν παρατεθέντων σοι πάντων,
-τέχν. περιλαβεῖν; ούδἐ γὰρ εῖπερ ἔχοιμι ἄν ὄσος | κστὰ δύναμιν καὶ προαίρεσιν ἐξέθηκα. — 12.
-ἐστιν ὁ οὐρ. ἐν τι μόριον δυναίμην ἄν τῆν θείας | περὶ] παρὰ A. — 13. ποιεῖ] ἐμποιεῖ L. — 15.
-ταύτηςτέχνηςἐντάξαιτούτω ὄσον κατὰτὴνἐνσω- | Καὶ τὰ δύο δὲ ἐναντία... L. — 16. ἐμφέρεσθαι
-μονῦλην. ῶ γὰρ τελεί καὶ ἀρρτω νῶ ὁμοία | AL. — 17. Τοσαύτης — ἀλλ οὐ νο (l. 19)]
-ἐστὶν αὕτη ἡ τέχνη. — 6. ἀφομ. ἐστιν] om. L | Réd. de L : Oησὶ γὰρ τοσαύτης γέμοντα δαι-
+cune ?). --- 2. Réd. de L: οσοῦτον χάρτ. τῆς | γίαν ποιούμενος τῶν παρατεθέντων σοι πάντων,
+τέχν. περιλαβεῖν; ούδἐ γὰρ εῖπερ ἔχοιμι ἄν ὄσος | κστὰ δύναμιν καὶ προαίρεσιν ἐξέθηκα. --- 12.
+ἐστιν ὁ οὐρ. ἐν τι μόριον δυναίμην ἄν τῆν θείας | περὶ] παρὰ A. --- 13. ποιεῖ] ἐμποιεῖ L. --- 15.
+ταύτηςτέχνηςἐντάξαιτούτω ὄσον κατὰτὴνἐνσω- | Καὶ τὰ δύο δὲ ἐναντία... L. --- 16. ἐμφέρεσθαι
+μονῦλην. ῶ γὰρ τελεί καὶ ἀρρτω νῶ ὁμοία | AL. --- 17. Τοσαύτης --- ἀλλ οὐ νο (l. 19)]
+ἐστὶν αὕτη ἡ τέχνη. --- 6. ἀφομ. ἐστιν] om. L | Réd. de L : Oησὶ γὰρ τοσαύτης γέμοντα δαι-
 (Glose marginale insérée dans le texte | μονοπληξίας καὶ ἀκαθαρσίας καὶ αὐθ. τ. μολ.,
-de MA?) — Αιὸ γυμν. ὸφ. om. L. — 7. ὡς | ῶστε τοὺς θέλοντας μαθ. είς μανίαν περιπ., ἀλλ
-καὶ ὁ Zώσ. L. — 8. ἔσχες] ἔχεις L. — ἡ γὰρ | ούκ εὶς νοῦν. — 19. γαθἐ — φῶς en oncia-
-τέχνη] καὶ τέχνη, φησὶν A; καὶ γὰρἡ τέχνη, | les M; om. L. — 20. Oῖδασι — δυνατὸν] Réd.
-φησὶν L. — 10. ὄτι] ὑς L ; om. A. — | de L : Oῖδασι γ. οὶ φιλόσοφοι εὶναι τῆς ἀφθ.
-σοι om. L. — καθέστηκεν — πάντων l. 14)] ἀρχ. κατὰ πάντα ἀληθῆ · ἀλλὰ συγγν. ἄν τύχοιμι
+de MA?) --- Αιὸ γυμν. ὸφ. om. L. --- 7. ὡς | ῶστε τοὺς θέλοντας μαθ. είς μανίαν περιπ., ἀλλ
+καὶ ὁ Zώσ. L. --- 8. ἔσχες] ἔχεις L. --- ἡ γὰρ | ούκ εὶς νοῦν. --- 19. γαθἐ --- φῶς en oncia-
+τέχνη] καὶ τέχνη, φησὶν A; καὶ γὰρἡ τέχνη, | les M; om. L. --- 20. Oῖδασι --- δυνατὸν] Réd.
+φησὶν L. --- 10. ὄτι] ὑς L ; om. A. --- | de L : Oῖδασι γ. οὶ φιλόσοφοι εὶναι τῆς ἀφθ.
+σοι om. L. --- καθέστηκεν --- πάντων l. 14)] ἀρχ. κατὰ πάντα ἀληθῆ · ἀλλὰ συγγν. ἄν τύχοιμι
 Réd. de L : ὄθεν κάγ ἀναλεξάμενος τὰ | πάντως ἀληθοῦς · δυν. γάρ ἐστιν κ. τ. λ.
 
 
@@ -4943,24 +4942,24 @@ TRAITEs DEMOCRITAINS
 20 Καὶ ἡμεῖς μἐν ἀδύνατοι ὄντες πέρας ἐπιθῆναι τῶ λόγω διὰ τὴν
 ἄφατον εὕκλειαν τῶν ἐγκωμίων τῆς τέχνης, ὁ λόγος ἐαυτὸν σεμνύ-
 νας ἐαυτῶ πέρας ἐπέθηκεν · καὶ οἶκον αὶνίττεται φιλοσόφων ψυχῶν,
-1. γὰρ] δὲ L, f. mel. — ἀνατίθησιν ὁ | rouge) :un cercle avec une longue barre
-Πετάσιος L. — 3. λευκὸς — μέλας] μέλας | horizontale sur le côté de gauche. —
-καὶ λευκὸς καὶ ξανθὸς L. — ἀλλὰ — διάφορα | τοῖς θεωμ.] τοῖς τοῦτο θεωμ. L. — 15. Après
-om. L. — 5. Καὶ δικαίως — τέχνην] F. l. | καταφρονούμενον] Add. de L : είς αὐτὸ
-Καὶ δικ. αὐτῶ ἀνατιθέασιν τ. τέχνην. — ψεῦ- | ὑπάρχον ζητεῖν ἀκριβῶς καὶ. — 16. συμπᾶσι
-δος] F. l. ψευδῶς. — αὐτῶ] αῦτη A ; αύτῆ | M. — 17. τεχνητεύειν mss. (τεχνήτης est
-L. — 6. ὡς ἀλήθεια] τῆ ἀληθεία L. — τὸ | connu). — δειλανθῆς] λαφθῆ L. — 18.
-αύτὸ ἀστέρι] τὸ ἐν τῶ ἀέρι L. — 8. εὶς αὐτὸν | φησὶ γὰρ ὁ Ζώσ. L. — πάντα] τὰ πάντα L.
-τόν μόλυβδον ἀνατιθέασι L. — Tὸ δὲ πν] | — τε ῖδης f. l. ὄτι ἐὰν ἰδης. On trou-
-Nυν δὲ τὸ πᾶν L. — 11. Réd. de AL : | vera cette citation de Zosime dans le
+1. γὰρ] δὲ L, f. mel. --- ἀνατίθησιν ὁ | rouge) :un cercle avec une longue barre
+Πετάσιος L. --- 3. λευκὸς --- μέλας] μέλας | horizontale sur le côté de gauche. ---
+καὶ λευκὸς καὶ ξανθὸς L. --- ἀλλὰ --- διάφορα | τοῖς θεωμ.] τοῖς τοῦτο θεωμ. L. --- 15. Après
+om. L. --- 5. Καὶ δικαίως --- τέχνην] F. l. | καταφρονούμενον] Add. de L : είς αὐτὸ
+Καὶ δικ. αὐτῶ ἀνατιθέασιν τ. τέχνην. --- ψεῦ- | ὑπάρχον ζητεῖν ἀκριβῶς καὶ. --- 16. συμπᾶσι
+δος] F. l. ψευδῶς. --- αὐτῶ] αῦτη A ; αύτῆ | M. --- 17. τεχνητεύειν mss. (τεχνήτης est
+L. --- 6. ὡς ἀλήθεια] τῆ ἀληθεία L. --- τὸ | connu). --- δειλανθῆς] λαφθῆ L. --- 18.
+αύτὸ ἀστέρι] τὸ ἐν τῶ ἀέρι L. --- 8. εὶς αὐτὸν | φησὶ γὰρ ὁ Ζώσ. L. --- πάντα] τὰ πάντα L.
+τόν μόλυβδον ἀνατιθέασι L. --- Tὸ δὲ πν] | --- τε ῖδης f. l. ὄτι ἐὰν ἰδης. On trou-
+Nυν δὲ τὸ πᾶν L. --- 11. Réd. de AL : | vera cette citation de Zosime dans le
 ῖοικεν τἤ χωνεία ἐκφερομένω τῆς χρυσοψάμμου | morceau II, xLV1, 2, depuis ἐὰν γὰρ
-(l'iota souscrit en moins dans A). — 13. | ῖδης, jusqu'à la fin du mème S 2, avec
-τὴν τέχνην add. L. — 14. A mg. (à l'encre l les variantes du passage supprimé ici.
+(l'iota souscrit en moins dans A). --- 13. | ῖδης, jusqu'à la fin du mème S 2, avec
+τὴν τέχνην add. L. --- 14. A mg. (à l'encre l les variantes du passage supprimé ici.
 
 
 ### 0435
 
-OLVMPIODORE. — SUR L'ART SACRE
+OLVMPIODORE. --- SUR L'ART SACRE
 99
 καί φησιν · « Θῖκος ἤν σφαιροειδὴς ἡ ώοειδὴς ταῖς δυσμαῖς βλέπων
 εὶς ἀς εὶχεν τὴν εῖσοδον, κοχλιοειδὴς ὑπάρχων · εὐρήσεις δὲ αὐτοῦ
@@ -4986,16 +4985,16 @@ OLVMPIODORE. — SUR L'ART SACRE
 καταλόγφ τοῦ ξαν-(f. 177 r.) θοῦ βοτάνας καὶ μέταλλα, καὶ ζωμοὐς
 δύο, ἐνα ἐν τῶ ξανθῶ, καὶ ἐνα ἐν τῶ λευκῶ · καὶ ἐν μἐν τῶ ξανθῶ
 ζωμῶ, τὰ δια τῶν ξανθῶν βοτανῶν, οἶον κρόκου καὶ ἐλυδρίου, καὶ
-1. φασὶν M. — Réd. de L : οἰκος ἡν σφ., | τιώσιν A. — αύξάνουσιν] λαμβάνεται καὶ αὐ-
-βλέπων πρὸς δυσμὰς, πρὸς ἄς ἔχει τὰς εὶσό- | ξανομένη A ; λαμβάνεσθαι αὐξανομένη L. —
-δους. — 4. Πάλιν δἐ άναφ. L. — 6. ούτου | Καὶ μεμν. πολλοὶ] ιὸ καὶ π. μεμν. L. —
-A. — 7. Réd. de L : ταριχ. δέ τινες τοῦφαρμ. | 16. ἡ Mαρία καὶ ὁ Αημ. L. — ὄτι] λέγουσι
-μ. ἐ. ἤγουν τοῦ ἀπριλίου ἐκαστον. — 8. M | γὰρ L. — 17. ἔως ἄν AL. — στίμμεος L. —
+1. φασὶν M. --- Réd. de L : οἰκος ἡν σφ., | τιώσιν A. --- αύξάνουσιν] λαμβάνεται καὶ αὐ-
+βλέπων πρὸς δυσμὰς, πρὸς ἄς ἔχει τὰς εὶσό- | ξανομένη A ; λαμβάνεσθαι αὐξανομένη L. ---
+δους. --- 4. Πάλιν δἐ άναφ. L. --- 6. ούτου | Καὶ μεμν. πολλοὶ] ιὸ καὶ π. μεμν. L. ---
+A. --- 7. Réd. de L : ταριχ. δέ τινες τοῦφαρμ. | 16. ἡ Mαρία καὶ ὁ Αημ. L. --- ὄτι] λέγουσι
+μ. ἐ. ἤγουν τοῦ ἀπριλίου ἐκαστον. --- 8. M | γὰρ L. --- 17. ἔως ἄν AL. --- στίμμεος L. ---
 mg. : φαρμουθὶἀπολ (main du XVe siècle). | 19. Καὶ πάλιν περὶ τῆς λευκς καὶ ξανθῆς AL.
-— είς λευκὸν καὶ λινοῦν καὶ στερεὸν L. — 12. | — 20. καί φησιν · δύο] Ἀιὸ κ. φησιν · δύο
-ῶν] ῶς AL. — ὁ Ἐρμῆς L. — ὄτι] λέγει | τοίνυν L. — 21. ξηρὸν τε καὶ ὑγ. L. — 22.
-γρ αὐτὸς L. — 13. καὶ αύτὸς δικαίως L. — | τοῦ ξανθοῦ] τῶ ξανθὸν A. F. l. τῶν ξανθῶν.
-15. σπερμάτωσιν] σπερματιάσαι M ; σπερμα- | — βοτάνας] εώρήσεις βοτ. L, f. mel.
+--- είς λευκὸν καὶ λινοῦν καὶ στερεὸν L. --- 12. | --- 20. καί φησιν · δύο] Ἀιὸ κ. φησιν · δύο
+ῶν] ῶς AL. --- ὁ Ἐρμῆς L. --- ὄτι] λέγει | τοίνυν L. --- 21. ξηρὸν τε καὶ ὑγ. L. --- 22.
+γρ αὐτὸς L. --- 13. καὶ αύτὸς δικαίως L. --- | τοῦ ξανθοῦ] τῶ ξανθὸν A. F. l. τῶν ξανθῶν.
+15. σπερμάτωσιν] σπερματιάσαι M ; σπερμα- | --- βοτάνας] εώρήσεις βοτ. L, f. mel.
 
 
 ### 0436
@@ -5024,23 +5023,23 @@ vεγυμνασμένοι ἐν τούτοις. Πμεῖς μèν γὰρ πά�
 ψύλλους καὶ φθεῖρας, καὶ (ἔνυδρα] ἔλμιγγας. Ἑχει ὁ μέγας κόσμος
 ποταμοὐς, πηγὰς, θαλάσσας · ἔχει ὁ ἄνθρωπος τὰ ἔντε-(f. 177 v.)
 ρα. Ἐχει ὁ μέγας κόσμος τὰ ἀέρια ζῶα · ἔχει καὶ ὁ ἄνθρωπος
-1. καὶ ἐν τῶ] ἐν δὲ τῶ AL, f. mel. — | — καὶ κόνιν] καὶ om. L. — 15. κατὰ τ. θ.
-2. γῆν κρητικὴν, κιμωλίαν L. — 5. ἐν τούτοις | om. L. — 17. αὶ λίμναι L. — 18. ( δὲ
-(avec A) ποιοῦνται τ. φρ. L. — . καταφρονοῦν- | lρμῆς L, qui om. τοίνυν. — 19. Ἐχει
-τες AL. —9. Réd. de L: ἐν τῶ δευτ. λόγ τί | ὁ μέγας κόσμος ζ. χ. καὶ ἐν.] Réd. de A :
-φ. ὁ Ζώσιμος.— 10. ἡ μία δ. λ. κ. ἡ ἐτέρα L. | Ἄlχει κ. μεγάλα (avec A) ζ. χ. καὶ ἐν. ὁ κ.
-11. οὕν] δὲ L. — γίνεται ἡμν πρώτη L. — | μεγάλα(aνecAA καὶμικρὰζ..χ. καὶ ἔν. — Voir
+1. καὶ ἐν τῶ] ἐν δὲ τῶ AL, f. mel. --- | --- καὶ κόνιν] καὶ om. L. --- 15. κατὰ τ. θ.
+2. γῆν κρητικὴν, κιμωλίαν L. --- 5. ἐν τούτοις | om. L. --- 17. αὶ λίμναι L. --- 18. ( δὲ
+(avec A) ποιοῦνται τ. φρ. L. --- . καταφρονοῦν- | lρμῆς L, qui om. τοίνυν. --- 19. Ἐχει
+τες AL. ---9. Réd. de L: ἐν τῶ δευτ. λόγ τί | ὁ μέγας κόσμος ζ. χ. καὶ ἐν.] Réd. de A :
+φ. ὁ Ζώσιμος.--- 10. ἡ μία δ. λ. κ. ἡ ἐτέρα L. | Ἄlχει κ. μεγάλα (avec A) ζ. χ. καὶ ἐν. ὁ κ.
+11. οὕν] δὲ L. --- γίνεται ἡμν πρώτη L. --- | μεγάλα(aνecAA καὶμικρὰζ..χ. καὶ ἔν. --- Voir
 13. τοῦίεροῦ οῖκουom. L. (Glose marginale | la réd. suivie de L (jusqu'à la fin du para-
-insérée dans le texte de M ?). — ἐφ ῖσα | graphe), un peu plus loin (Appendice i).
-τὰ μέρη] ἐκφύσα τ. μ. A ; ἐκφύσα φησὶ τὰ | — 21. καὶ φθεῖρας, καὶ ἐτερα ἐλμίγκας A. — 22.
-μέρη L. — πανταχόθεν] καὶ παντ. εὶκότως | τὰνντερα] τὰom.AL.. AAprèsἔντερα] φλέβας
-L. — 14. παρεστήκεισαν A; περίκεινται L. l καὶ ἐξέδρας add. AL. — 23. ἀέρια ἄγρια A.
+insérée dans le texte de M ?). --- ἐφ ῖσα | graphe), un peu plus loin (Appendice i).
+τὰ μέρη] ἐκφύσα τ. μ. A ; ἐκφύσα φησὶ τὰ | --- 21. καὶ φθεῖρας, καὶ ἐτερα ἐλμίγκας A. --- 22.
+μέρη L. --- πανταχόθεν] καὶ παντ. εὶκότως | τὰνντερα] τὰom.AL.. AAprèsἔντερα] φλέβας
+L. --- 14. παρεστήκεισαν A; περίκεινται L. l καὶ ἐξέδρας add. AL. --- 23. ἀέρια ἄγρια A.
 TRAITES DÉMOCRITAINS
 
 
 ### 0437
 
-OLVMPIODORE. — SUR LART SACRE
+OLVMPIODORE. --- SUR LART SACRE
 IOI
 τοὐς κώνωπας. Ἄχει ὁ μέγας κόσμος πνεύματα ἀναδιδόμενα, οῖον
 ἀνέμους ἔχει καὶ ὁ ἄνθρωπος τὰς φύσας, οἶον τῶδε. Ἑχει ὁ μέγας
@@ -5062,21 +5061,21 @@ IOI
 ἀσπάλακος, ὄτι καὶ αὐτὸς ἄνθρωπος ἡν · καὶ ἐγένετο θεοκατάρατος,
 ὡς ἐξειπὼν τὰ τοῦ ἡλίου μυστήρια. Καὶ ἐποίησεν αὐτὸν τυφλόν. A-
 20 μέλει καὶ ἐὰν φθάση θεωρηθῆναι ὑπὸ τοῦ ἡλίου, οὐ δέχεται αὐτὸν ἡ γῆ
-1. Après κώνωπας] μυίας (μύγας A) καὶ τὰ | — 11. μὴν] μὴ M, avec second accent
-ἐξῆς add. AL. — 2. Après ἀνέμους] βρόν- | grave à l'encre rose, sans doute pour
-τας καὶ ἀστραπὰς add. AL. — φύσας] φύσεις | corriger ἡ en ὴν; μὴ AK. — ἐπιβαλεῖν] ἐπι-
-M. Corrigé d'après L. — τῶδε] ἀσθενείας | βάλαι MΚ ; ἐπιβάλλον φησὶν A. Corr. conj.
-καὶ κινδύνους AL. — 3. Après κόσμος] τοὐς | 13. πυραμίδι] κυριανίδη A; κυρανίδι K. —
-δύο φωστῆρας add. AL. — 6. όστέα καὶ | τὸ ώὸν] ώὸν gratté M ; espace blanc K ;
-κρέας AL. — Après ούρανόν] καὶ τοὐς | τόσον A. — 14. Tὸ ὡὸν. Καὶ γὰρ τὸ ώὸν
-ἀστέρας add. AL. — 7. Après κεφαλὴν] | προκαλεῖται] τὸ (ώὸν gratté). Καὶ γ. τὸ ζωὸν
-καὶ τὰ ῶτα add. AL. — ἔχει καὶ ούρανὸς | πρ. M ; τόσον τὸ ζῶον πρὸς καλὴ (l. προσκα-
-— καὶ τοῦτο] même rédaction dans A. | λεῖ ?) A. — 15. τὸ ώὸν] τὸ ζῶον MK; τόσον
-que dans L (voir l'Appendice 11), puis | A. Corr. conj. (M. B.). — χρυοόκομον
+1. Après κώνωπας] μυίας (μύγας A) καὶ τὰ | --- 11. μὴν] μὴ M, avec second accent
+ἐξῆς add. AL. --- 2. Après ἀνέμους] βρόν- | grave à l'encre rose, sans doute pour
+τας καὶ ἀστραπὰς add. AL. --- φύσας] φύσεις | corriger ἡ en ὴν; μὴ AK. --- ἐπιβαλεῖν] ἐπι-
+M. Corrigé d'après L. --- τῶδε] ἀσθενείας | βάλαι MΚ ; ἐπιβάλλον φησὶν A. Corr. conj.
+καὶ κινδύνους AL. --- 3. Après κόσμος] τοὐς | 13. πυραμίδι] κυριανίδη A; κυρανίδι K. ---
+δύο φωστῆρας add. AL. --- 6. όστέα καὶ | τὸ ώὸν] ώὸν gratté M ; espace blanc K ;
+κρέας AL. --- Après ούρανόν] καὶ τοὐς | τόσον A. --- 14. Tὸ ὡὸν. Καὶ γὰρ τὸ ώὸν
+ἀστέρας add. AL. --- 7. Après κεφαλὴν] | προκαλεῖται] τὸ (ώὸν gratté). Καὶ γ. τὸ ζωὸν
+καὶ τὰ ῶτα add. AL. --- ἔχει καὶ ούρανὸς | πρ. M ; τόσον τὸ ζῶον πρὸς καλὴ (l. προσκα-
+--- καὶ τοῦτο] même rédaction dans A. | λεῖ ?) A. --- 15. τὸ ώὸν] τὸ ζῶον MK; τόσον
+que dans L (voir l'Appendice 11), puis | A. Corr. conj. (M. B.). --- χρυοόκομον
 A continue ainsi : κριὸν συναρμομένα (lire | κόσμον] κόσμον précédé du signe de l'or
 ουνηρμοσμένα?) ἐπὶ (lire ἀπὸ ?) τοῦ σώματος | MA ; χρυσόκομον L. Corr. conj. (M. B.)
-αὐτοῦ ἐως κάτω τῶν ποδῶν τοὶς ἰχθύας. — | — 16. ἡλίου] ou χρυσοῦ. C'est le mème
-9. δ] οὕ L. mel. — 10. τοῦτο ἐστιν jus- | signe (M. B.). — 17. ἐν αύτῶ] ἐνταῦθα A.
+αὐτοῦ ἐως κάτω τῶν ποδῶν τοὶς ἰχθύας. --- | --- 16. ἡλίου] ou χρυσοῦ. C'est le mème
+9. δ] οὕ L. mel. --- 10. τοῦτο ἐστιν jus- | signe (M. B.). --- 17. ἐν αύτῶ] ἐνταῦθα A.
 qu'à συμφωνοῦσιν (p. suiv.. l 8) oη 1
 
 
@@ -5105,26 +5104,26 @@ Mαρία · εύξατε ἄρρενα καὶ θήλειαν, καὶ εὐρ�
 λον τὸ μήνης. .. » Καὶ ἀλλαχοῦ · « Τὸ πέταλον τῆς κηροτακίδος. ..
 20 κηροτακίδα καλήσασα τὴν θάλψιν τὴν διὰ πετάλου. Καὶ γὰρ τὸ πέτα-
 λον ῥάκος ἐκ βοτάνης ἐστὶν εὶργασμένον. .. » Καὶ ἀλλαχοῦ ἡ αὐτή ·
-1. ἡλίου ὁποία] ποιὶας précédé du signe | 64, l. 12. — 11. Tὸ γὰρ — ἀλλὰ om.
-de l'or et du soleil A. Le copiste a | L. — 12. Ορος MA. — 13. πάντα τὰ
-voulu écrire χρυσοποιίας. — 2. μελαίνη | ἀρρενοθήλυα ὑπάρχουσιν A ; παντὰ δὲ ἀρ-
-γἤ] μέλανι δὴ γῆ M ; μελανιδήγη A; μελα- | ρενοθήλεα ὑπάρχουσιν L. — 14. Z. γ. φ.
-νίδη γῆ K. Corr. conj. — 4. ἔσω γινώσ- | ἄρρ. καὶ θλεα L. — θηλειαν] θλυ A. —
-κων] ἔσο γιν. M ; ἔσο ἐπὶ γινώσκον A. F. l. | εύρήσετε L. f. mel. — M. mg. : groupe
-ἐπιγίνωσκε. — 5. διαφέρει A, f. mel. — | de points. — 15. οίκονομικῆς συζ L, f.
-ὑπ ' αὐτοῦ A. — 6. κατὰ] F. l. κἄν τε. — | mel. — 16. τἤ φύσει] τὴν φύσιν AL. —
-7. κν τε] καὶ A. — κἄν] καὶ A. — 8. O | 18. ἡ Mαρία AL. — τέρπει L. — 19. τὸ
-δὲ ἄνθρωπος — προτετίμηται] Réd. de L : | μηνης (sic) M; τὸ μύνης A ; τὸ μήνης K.
-Λιὸ καὶ ὁ Συνέσιος πρὸς Αιόσκ. διαλεγόμε- | — αὶ ἀλλαχοῦ] καὶ πάλιν ἡ αὐτὴ L. —
-νός φησιν · ἄνθρ. προτ. — 9. τιμιώτερον | 20. κηρ. δἐ καλεῖ L. — πετάλων AL — Καὶ
-π. τ. κτηνῶν ζ. A. — 10. μνήμη · πάλιν. .. | γὰρ τὸ πέταλον] Réd. de L : πέτ. δέ ἐστι
-A. — Après φησὶν ; point rouge A. — | καὶ βοτάριον είργασμένον · καὶ ἀλλαχοῦ πάλιν
+1. ἡλίου ὁποία] ποιὶας précédé du signe | 64, l. 12. --- 11. Tὸ γὰρ --- ἀλλὰ om.
+de l'or et du soleil A. Le copiste a | L. --- 12. Ορος MA. --- 13. πάντα τὰ
+voulu écrire χρυσοποιίας. --- 2. μελαίνη | ἀρρενοθήλυα ὑπάρχουσιν A ; παντὰ δὲ ἀρ-
+γἤ] μέλανι δὴ γῆ M ; μελανιδήγη A; μελα- | ρενοθήλεα ὑπάρχουσιν L. --- 14. Z. γ. φ.
+νίδη γῆ K. Corr. conj. --- 4. ἔσω γινώσ- | ἄρρ. καὶ θλεα L. --- θηλειαν] θλυ A. ---
+κων] ἔσο γιν. M ; ἔσο ἐπὶ γινώσκον A. F. l. | εύρήσετε L. f. mel. --- M. mg. : groupe
+ἐπιγίνωσκε. --- 5. διαφέρει A, f. mel. --- | de points. --- 15. οίκονομικῆς συζ L, f.
+ὑπ ' αὐτοῦ A. --- 6. κατὰ] F. l. κἄν τε. --- | mel. --- 16. τἤ φύσει] τὴν φύσιν AL. ---
+7. κν τε] καὶ A. --- κἄν] καὶ A. --- 8. O | 18. ἡ Mαρία AL. --- τέρπει L. --- 19. τὸ
+δὲ ἄνθρωπος --- προτετίμηται] Réd. de L : | μηνης (sic) M; τὸ μύνης A ; τὸ μήνης K.
+Λιὸ καὶ ὁ Συνέσιος πρὸς Αιόσκ. διαλεγόμε- | --- αὶ ἀλλαχοῦ] καὶ πάλιν ἡ αὐτὴ L. ---
+νός φησιν · ἄνθρ. προτ. --- 9. τιμιώτερον | 20. κηρ. δἐ καλεῖ L. --- πετάλων AL --- Καὶ
+π. τ. κτηνῶν ζ. A. --- 10. μνήμη · πάλιν. .. | γὰρ τὸ πέταλον] Réd. de L : πέτ. δέ ἐστι
+A. --- Après φησὶν ; point rouge A. --- | καὶ βοτάριον είργασμένον · καὶ ἀλλαχοῦ πάλιν
 Cp. Synésius, ci-dessus II, 1, P. | ἡ αὐτή · μὴ θέλε κ. τ. λ. (p. suiv., l. ).
 
 
 ### 0439
 
-OLVMPIODORE. — SR L'ART SACRE
+OLVMPIODORE. --- SR L'ART SACRE
 103
 τῶ αὐτῶ μωταρίω τῆς ξανθῆς σανδαράνη. Πδοὐ καὶ θηλυκὸν ὄνομα
 σανδαράχη τὰ γὰρ μωτάρια, ὡς ῖστε, ἐκ ράκους εὶσὶν, καὶ ἐν τῆ στήλη
@@ -5151,12 +5150,12 @@ OLVMPIODORE. — SR L'ART SACRE
 μόλυβδος καὶ κασσίτερος καὶ γαῖ καὶ λίθοι καὶ μέταλλα ἐκ τῆς γῆς
 εὶσιν καὶ χρήσιμα τυγχάνουσι ; Καὶ ἐκ τούτων τὴν συγγραφὴν ἐποιή-
 25 σαντο, ποιήσαντες καὶ ζωμοὐς ἐκ βοτανῶν χυλῶν καὶ ὁπῶν, δένδρων
-. μωταρί] βοταρίω A, f. mel. — 2. σαν- | αῦτη ἡ τέχνη, καὶ ού κοινὴ. Puis omission
-δαραχῆς A, f. mel. — 3. ἀρσενοειδοῦς] F.l. | des mots ῶς τινες δοκοῦσιν jusqu'à καὶ τῶν
-ἀρσενοήτου. Cp. le paragraphe 39. — 4. | είδῶν (l. 17). — 11. κρίσει] ἀδιακρίτως
-πύρινον] F. l. πυρεῖον (M. B.). — 5. χει- | A. F. l. διακρίτως. — 16. ὄρος MK ; ὁ ἐρος.
-ροῖν] χεροῖν M ; χερσὶν AL. Corr. conj. — | Corr. conj. — 17. Avant μικρὸν] Ἐγώ δὲ
-Réd. de L : Oύ γὰρ ἐκ γένους εὶ ἀβρα- | add. L. — 18. Après ποιησάμενος]. Voir
+. μωταρί] βοταρίω A, f. mel. --- 2. σαν- | αῦτη ἡ τέχνη, καὶ ού κοινὴ. Puis omission
+δαραχῆς A, f. mel. --- 3. ἀρσενοειδοῦς] F.l. | des mots ῶς τινες δοκοῦσιν jusqu'à καὶ τῶν
+ἀρσενοήτου. Cp. le paragraphe 39. --- 4. | είδῶν (l. 17). --- 11. κρίσει] ἀδιακρίτως
+πύρινον] F. l. πυρεῖον (M. B.). --- 5. χει- | A. F. l. διακρίτως. --- 16. ὄρος MK ; ὁ ἐρος.
+ροῖν] χεροῖν M ; χερσὶν AL. Corr. conj. --- | Corr. conj. --- 17. Avant μικρὸν] Ἐγώ δὲ
+Réd. de L : Oύ γὰρ ἐκ γένους εὶ ἀβρα- | add. L. --- 18. Après ποιησάμενος]. Voir
 μιαίου · καὶ γὰρ εὶ μὴ ἐκ τ. γ. ἡμῶν ἡ (lire | ci-après, Appendice 1, la rédaction de
 εὶ), οὐ δύνασαι ψαῦσαι, ὄτι μεριὴ ἐστὶν | L jusqu'à la fin dutexte d'Olympiodore.
 
@@ -5173,14 +5172,14 @@ TRAITÉS DEMOCRITAIΝS
 ὁμορρευστήσανταν οὐδἐν ἄλλο σημαίνει, ἡ τὸὁμοῦ καὶ κατ αὐτὸν ῥεύ-
 σαντα, δηλονότι διὰ τοῦ πυρός.
 10
-II. v E. — ΟΕS.
+II. v E. --- ΟΕS.
 APΡΕΝDΙC
-5 38. — (Voir p. 92.
+5 38. --- (Voir p. 92.
 Nous croyons devoir donner ici une page écrite en tête du 1e folio du ms.
 M, d'une main du XVe siecle et dans un dialecte presque barbare, texte dont
 nous tentons la restitution. Cette page est suivie par des termes magiques,
 puis par la formule de l'Ecrevisse, avec interprétation ; enfin par les mots
-15 ἰστέον ὄτι τὰ λεγόμενα σκωρίδιά είσιν τὸ ὄλον μυστήριον. — Les variantes intro-
+15 ἰστέον ὄτι τὰ λεγόμενα σκωρίδιά είσιν τὸ ὄλον μυστήριον. --- Les variantes intro-
 duites dans ce texte sont toutes des corrections conjecturales.
 Λαβὼν τὴν ἀπομένουσαν ξηρὰν καὶμελανουμένην τρυγέαν, λεύκανον
 οὕτως. .. Ἐστω σοί τινι προκατεσκευασμένον τὸ δι᾽ἀσβέστου ὕδωρ, ἤτοι
@@ -5189,18 +5188,18 @@ duites dans ce texte sont toutes des corrections conjecturales.
 τῶ ὕδατι γένηται · καὶ ῆθοῦ · κατάγγιζε τὸ ὕδωρ ἀπ αὐτοῦ. Ἐτερον
 ἐπίβαλον καὶ, εὶ βούλει, προκαταχώσας ἡμέρας τινὰς, ὴθοῦ τὸ ἀγ-
 γείον · πλῦνον ὁμοίως κατὰ τὴν προδηλωθεῖσαν τάξιν. Ἐἶτα καταγγίσας
-3. διελόντες] δικωντας (λων écrit de 1re | ὁμορ. om. A. — ποιεῖ] F. l. ποίει. — 6.
-main au-dessus de κων M; διήκωντας Κ ; | ἡ τὸ] ἤτοι A. F. l. ἡ τὰ. — — 18. Après
-διάκεινται A. Corr. conj. Dans le passage | οὕτως, espace blanc dans le ms. — στω
-correspondant (Appendice 1), L a διῆκον. | σοι τίνι] ἐστοσιτινη ms. — 19. στάκτη ms. —
-— 4. ὁμορευστ. mss. ici et l. suiv. — M | 21. κατάγγυζε ms. — 22. εὶ βούλει] ἡ βου*
-mg. : groupe de points. — 5. χρύσοπτα | ms. — 23. κατεγγύσας ms.
+3. διελόντες] δικωντας (λων écrit de 1re | ὁμορ. om. A. --- ποιεῖ] F. l. ποίει. --- 6.
+main au-dessus de κων M; διήκωντας Κ ; | ἡ τὸ] ἤτοι A. F. l. ἡ τὰ. --- --- 18. Après
+διάκεινται A. Corr. conj. Dans le passage | οὕτως, espace blanc dans le ms. --- στω
+correspondant (Appendice 1), L a διῆκον. | σοι τίνι] ἐστοσιτινη ms. --- 19. στάκτη ms. ---
+--- 4. ὁμορευστ. mss. ici et l. suiv. --- M | 21. κατάγγυζε ms. --- 22. εὶ βούλει] ἡ βου*
+mg. : groupe de points. --- 5. χρύσοπτα | ms. --- 23. κατεγγύσας ms.
 
 
 ### 0441
 
 105
-OLVMPIODORE. — APPENDICES
+OLVMPIODORE. --- APPENDICES
 αὕθις, τὸ μελανίζον γὰρ ὕδωρ ἐπὶ τὸ ἄλλο μέρος συνεπίβαλε. Ἐτα
 χώσας τοσαύτας ἡμέρας, ὴθοῦ τος ἀνῖγε(), καὶ πλῦνον. Καὶ τοῦτο ποιῶν
 ἀναλίσκεται ἡ μελάνωσις δι ᾽ ἐπιφανείας, καὶ λευκόχροος γίνεται. Τὰ
@@ -5227,13 +5226,13 @@ S 51 (après le mot ἔνυδρα). Rédaction de L. (Voir p. 100, l. 19.)
 Cχει καὶ ὁ ἄνθρωπος ψύλλους κ. φθ., χερσαῖα, καὶ ἐλμινθας,
 25 ἔνυδρα. χει ὁ μέγας κόσμος ποτ., πηγ., θαλ. · ἔχει κ. ὁ ἄνθρ.
 ἔντερα, φλέβας, ἐξέδρας. Ἐχει ὁ μ. κ. ἀέρια ζ. · ἔχει κ. ὁ ἄνθρ.
-1. ἐπὶ τὸ ἀλλον (sic) μέρος οῦν ἐπίβαλε ms. | ms. F. l. ἀραιωθῆ τε. — 14. παραλειοῦται]
-— 2. ἤθοῦ τος ἀνῖγε] F. l. ἡθοῦ τὸ ἀγγεῖον | παραλίετε ms. — 15. γινομένου ms. — 17. εὶ
-(ut supra). — 5. ἄνιγε] F. l. ἄναγε. — 7. | δἐ] ἡ δὲ ms. — βούλιον μέτα] F. l. βουλοί-
-αύτοῖς ἐκ τὸν προητημασμένον]F. l. αὐτῆς ἔκτον | μεθα. — 21. lουστιανοῦ ms. — 24. κ. φθ.]
-(sc. μέροςὶ προκατεσκευασμένον. — θ. κτήσεται | Nous abrégeons la plupart des mots
-καίρουσις τασηντα ms. — 11. ἄχρις οῦ τετκα | existant dans le texte d'Olympiodore
-διαθεισα ms. — 12. ἀραιωθεῖσα] ἀρεοθίσαν | publié ci-dessus.
+1. ἐπὶ τὸ ἀλλον (sic) μέρος οῦν ἐπίβαλε ms. | ms. F. l. ἀραιωθῆ τε. --- 14. παραλειοῦται]
+--- 2. ἤθοῦ τος ἀνῖγε] F. l. ἡθοῦ τὸ ἀγγεῖον | παραλίετε ms. --- 15. γινομένου ms. --- 17. εὶ
+(ut supra). --- 5. ἄνιγε] F. l. ἄναγε. --- 7. | δἐ] ἡ δὲ ms. --- βούλιον μέτα] F. l. βουλοί-
+αύτοῖς ἐκ τὸν προητημασμένον]F. l. αὐτῆς ἔκτον | μεθα. --- 21. lουστιανοῦ ms. --- 24. κ. φθ.]
+(sc. μέροςὶ προκατεσκευασμένον. --- θ. κτήσεται | Nous abrégeons la plupart des mots
+καίρουσις τασηντα ms. --- 11. ἄχρις οῦ τετκα | existant dans le texte d'Olympiodore
+διαθεισα ms. --- 12. ἀραιωθεῖσα] ἀρεοθίσαν | publié ci-dessus.
 14
 
 
