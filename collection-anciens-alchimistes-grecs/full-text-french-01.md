@@ -1222,19 +1222,46 @@ _Publié par Bernard, dans son édition de Palladius_, De Febribus ; _et par Emm
 
 #### 1\. --- 2. Lexique.
 
-Transcrit sur M, f. 131 r. --- Collationné sur B, f. 2 v. ; --- sur A, f. 19 r. ; --- sur E
-(copie de A), f. 163 v. --- sur L, page 249 ; --- sur l'edition de Bernard (E Bn). ---
-Dans M, beaucoup de noms de corps sont surmontés de leurs signes. A moins
-d'indication contraire, les leçons de M et de Bn (transcrit sur M) sont identiques.
+_Transcrit sur_ M, f. 131 r. --- _Collationné sur_ B, f. 2 v. ;--- _sur_ A, f. 19 r. ;--- _sur_ E (copie de A), f. 163 v. --- _sur_ L, page 249 ;--- _sur l'edition de Bernard_ (= Bn). --- _Dans_ M, _beaucoup de noms de corps sont surmontés de leurs signes. A moins d'indication contraire, les leçons de_ M _et de_ Bn (_transcrit sur_ M) _sont identiques_.
 
-ΛΕΣΙΚΟΝ ΚΑΑ ΣΟΟΙΕΙΟΝ ΤΗΣ XΡΥΣΟΙΙΟΙΑΣ
+##### ΛΕΞΙΚΟΝ ΚΑΤΑ ΣΤΟΙΧΕΙΟΝ ΤΗΣ ΧΡΥΣΟΠΟΠΑΣ
 
 **A**
 
-Ἀφροδίτης σπέρμα ἐστὶν ἄνθος χαλκοῦ.
-λάβαστρός ἐστιν ἄσβεστος, ἀπὸ τῶν φλοιῶν τῶν ώῶν, καὶ ἄλας
-15 ἄνθιον, καὶ άλας ἀμμωνιακὸν, καὶ άλας κοινόν.
-11. Titre dans B : Λεξ. κ. στ. τῆς ίερᾶς | de suite en tête de chaque lettre, sauf
+Ἀφροδίτης σπέρμα ἐστὶν ἄνθος χαλκοῦ.  
+λάβαστρός ἐστιν ἄσβεστος, ἀπὸ τῶν φλοιῶν τῶν ώῶν, καὶ ἄλας  
+15 ἄνθιον, καὶ άλας ἀμμωνιακὸν, καὶ άλας κοινόν.  
+Ἄσβεστος Ἑρμοῦ τῶν ὡῶν ἐστιν ἡ αὶθαλουμένη δι ᾽ ὄξους καὶ  
+ἡλιαζομένη · κρείττων γάρ ἐστιν χρυσοῦ.  
+Aλας ἄνθιόν ἐστι θάλασσα, καὶ ἅλμη καὶ ἁλὸς ἄχνη.  
+(f. 131 v.) Ἀφρὸς παντὸς εἴδους ἐστὶν ὑδράργυρος.  
+5 Ἀργύρεον νᾶμα, αὶθάλη θείου καὶ ὑδραργύρου.  
+Ἄσημός ἐστιν ὁ ἰὸς ὁ ἀπὸ τῆς αὶθάλης.  
+Ἀχίας, ἄνθος λαχάς ἐστιν.  
+Ἄνθος χαλκοῦ καλάκανθος καὶ χαλκιτάριν καὶ πυρίτης καὶ θεῖον  
+λευκὸν οὶκονομηθέν ἐστιν.  
+10 Ἅλας ἐστὶ τὸ ὄστρακον τοῦ ώοῦ, τὸ θεῖον δὲ, τὸ λευκὸν αὐτοῦ,  
+χάλκανθον δὲ, ὁ κρόκος αὐτοῦ.  
+Ἀνδροδάμας ἐστὶ πυρίτης καὶ ἀρσένικον.  
+Ἀφαίρεμά ἐστι πίτυρα σίτου.  
+Aἰθάλη ἐστὶν ὕδωρ θείου καὶ μολυβδοχάλκου.  
+15 Ἀφροσέληνόν ἐστι κώμαρις καὶ κουφόλιθος.  
+Ἀκρατοφόρος ἄγγος ἐστὶν ὀστράκινον.  
+Ἀφροσύαλον ὑδράργυρός ἐστιν ἡ ἀπὸ ἀργύρου καὶ λίθος σκυθερίτης.  
+Ἀποσπερματισμὸς δράκοντός ἐστιν ὑδράργυρος.  
+Ἄρρηκτον ἐστιν ἄφευκτον.  
+20 Ἀετίτης λίθος ἐστὶν χρυσόλιθος, καὶ πορφυρίτης, καὶ πορφυρόχρωμος  
+μακεδωνικὸς καὶ πολύχρωμος.  
+Ἀκαύστωσίς ἐστι λεύκωσις.  
+Ἄσκιος χαλκός ἐστιν ἄνθος χαλκοῦ.  
+Ἀλλοίωσίς ἐστι βαφή.  
+25 Ἁλμυρία ἐστὶ χρυσόκολλα.  
+Ἀργυρόλιθός ἐστιν ἀφροσέληνον.  
+Ἅπασα ὑδράργυρος λέγεται ἡ διὰ τριῶν θείων ἀπύρων σύνθετος.  
+*Ἅθικτον, τὸ καθαρὸν καὶ ἀμόλυντον.  
+*Ἅθικτον κυρίως λέγεται τὸ ἀψηλάφητον καὶ ἀσκίαστον, καὶ χρυσάνθεμον.
+
+*) Titre dans B : Λεξ. κ. στ. τῆς ίερᾶς | de suite en tête de chaque lettre, sauf
 τέχνης. --- Titre dans AE : Λεξ. κ. στ. | que E supprime le plus souvent les
 τῆς ίερᾶς τέχνης, πρῶτον ἐλληνιστὶ μετα- | mots ἀρχὴ τοῦ. M écrit en rouge l'initiale
 λευτικὸν, τῶν δὲ (τῶν τε E) σημείων καὶ τῶν | du premier mot. --- B a perdu le com-
@@ -1244,37 +1271,7 @@ d'indication contraire, les leçons de M et de Bn (transcrit sur M) sont identiq
 ταύτη βίβλφ. --- 12. Au-dessus de Ἀφρο- | Après ἀμμωνιακὸν] ἄλας ἀρωνιακὸν add.
 δίτης, AEL donnent Ἀρχὴ τοῦ A, et ainsi | BAL, pour ἀρμωνιακὸν (M. B.).
 
-
-### 0341
-
-LEXIQUE
-Ἄσβεστος Ἑρμοῦ τῶν ὡῶν ἐστιν ἡ αὶθαλουμένη δι ᾽ ὄξους καὶ
-ἡλιαζομένη · κρείττων γάρ ἐστιν χρυσοῦ.
-Aλας ἄνθιόν ἐστι θάλασσα, καὶ ἅλμη καὶ ἁλὸς ἄχνη.
-(f. 131 v.) Ἀφρὸς παντὸς εἴδους ἐστὶν ὑδράργυρος.
-5 Ἀργύρεον νᾶμα, αὶθάλη θείου καὶ ὑδραργύρου.
-Ἄσημός ἐστιν ὁ ἰὸς ὁ ἀπὸ τῆς αὶθάλης.
-Ἀχίας, ἄνθος λαχάς ἐστιν.
-Ἄνθος χαλκοῦ καλάκανθος καὶ χαλκιτάριν καὶ πυρίτης καὶ θεῖον
-λευκὸν οὶκονομηθέν ἐστιν.
-10 Ἅλας ἐστὶ τὸ ὄστρακον τοῦ ώοῦ, τὸ θεῖον δὲ, τὸ λευκὸν αὐτοῦ,
-χάλκανθον δὲ, ὁ κρόκος αὐτοῦ.
-Ἀνδροδάμας ἐστὶ πυρίτης καὶ ἀρσένικον.
-Ἀφαίρεμά ἐστι πίτυρα σίτου.
-Aἰθάλη ἐστὶν ὕδωρ θείου καὶ μολυβδοχάλκου.
-15 Ἀφροσέληνόν ἐστι κώμαρις καὶ κουφόλιθος.
-Ἀκρατοφόρος ἄγγος ἐστὶν ὀστράκινον.
-Ἀφροσύαλον ὑδράργυρός ἐστιν ἡ ἀπὸ ἀργύρου καὶ λίθος σκυθερίτης.
-Ἀποσπερματισμὸς δράκοντός ἐστιν ὑδράργυρος.
-Ἄρρηκτον ἐστιν ἄφευκτον.
-20 Ἀετίτης λίθος ἐστὶν χρυσόλιθος, καὶ πορφυρίτης, καὶ πορφυρόχρωμος
-μακεδωνικὸς καὶ πολύχρωμος.
-Ἀκαύστωσίς ἐστι λεύκωσις.
-Ἄσκιος χαλκός ἐστιν ἄνθος χαλκοῦ.
-Ἀλλοίωσίς ἐστι βαφή.
-25 Ἁλμυρία ἐστὶ χρυσόκολλα.
-Ἀργυρόλιθός ἐστιν ἀφροσέληνον.
-1. Rédaction de BAL : Ἄσβ. Ἑ. | κόμαρος EL. --- 16. ἐ. ἄγγ. L. --- 5. Après
+*) Rédaction de BAL : Ἄσβ. Ἑ. | κόμαρος EL. --- 16. ἐ. ἄγγ. L. --- 5. Après
 ἐ. ἡ αὶθάλη τῶν ὼῶν ἡ λυομένη διὰ ὄξους | δρ.] ἡ ἀπὸ κινναβάρεως add. BAL. ---
 καὶ ἡλ. --- 11. χάλκανθος BAL. --- 13. | 20. ὁ χρυσόλ. AL. --- 21. Après πολύ-
 Premier article dans B. --- 14. Rédac- | χρωμος] καύστωσις καὶ βαφή. Ἁλμυρία κ.
@@ -1282,15 +1279,8 @@ tion de BAL : Aίθ. ἐ. ῦδ. κασσιτέρου καὶ
 τ. λ. L.
 μολύβδου καὶ χαλκοῦ. --- 15. κόμαρις MBA ;
 
+**B**
 
-### 0342
-
-Ἅπασα ὑδράργυρος λέγεται ἡ διὰ τριῶν θείων ἀπύρων σύνθετος.
-*Ἅθικτον, τὸ καθαρὸν καὶ ἀμόλυντον.
-*Ἅθικτον κυρίως λέγεται τὸ ἀψηλάφητον καὶ ἀσκίαστον, καὶ χρυ-
-σάνθεμον.
-INDICATIONS GÉNÉRALES
-B
 (f. 132 r.) Βατράχιόν ἐστι χρυσόκολλα, καὶ χρυσόπρασον.
 Βῶλος θεῖόν ἐστιν ώμόν.
 Βοστρυχίτης, πυρίτης καὶ ἐτήσιος καὶ χρυσόλιθός. ἐστιν.
@@ -1427,7 +1417,7 @@ l. 6, note. ---7. Article ajouté dans AE.
 ἀφροσέλινον A. --- 10. όπρος, le signe de
 l'or, puis μμος sans esprit ni accent
 χρύσαμμός) ἐστιν χρυσόλιθος (en signe)
-M ; --- Kόπρος ἐστὶ χρυσὸς (signe de l'or):
+M ;--- Kόπρος ἐστὶ χρυσὸς (signe de l'or):
 καὶ ἄμ. ἐ. χρυσόλ. BA; Κόπρος ἐ. χρυσὸς (en
 toutes lettres), καὶ ἅμ. καὶ χρυσόλ. L. ---
 11. κασσίτηρος M presque partout. --- 14.
@@ -1737,8 +1727,8 @@ Cange, deux articles plus loin, a lu le | d'rectm2nt de P
 18
 INDICATIONS GENÉRALES
 l. uI. --- ΠΕΡΙ ΤΟΥ QΟΥ ΟΙ ΠΑΑΑΙΟΙ ὁΑΣΙΝ ΟΥΤΟΣ.
-Transcrit sur M, f. 106 v. --- Collationné sur A, f. 24 r. ; --- sur E (copie de A), f.
-179 r. ; --- sur Lc (copie de E), p. 193. --- ans M il a un certin nombre de
+Transcrit sur M, f. 106 v. --- Collationné sur A, f. 24 r. ;--- sur E (copie de A), f.
+179 r. ;--- sur Lc (copie de E), p. 193. --- ans M il a un certin nombre de
 mots grattés. O ne mentionne les leçons de E que lorsqu'elles diffèrent de A.
 1] Θi μἐν λίθον χάλκιον, οί δὲ λίθον ἐγκέφαλον, οὶ δὲ λίθον
 ἐτήσιον · ἔτεροι λίθον τὸν οὐ λίθον · ἄλλοι λίθον αὶγύπτιον · ἔτεροι
@@ -1955,7 +1945,7 @@ marge extérieure. (Cp. p. 22, l. 9.) --- | lettres à l'encre rouge du ms. par 
 24
 INDICATIONS GENERALES
 I. VI1. --- LlSΓΕ ΡLΝEAIE ΟΕS ΜΕΤΑUΧ.
-Transcrit sur A, f. 28o r. --- Collationné sur E, f. 213 v. ; --- sur L (copie de E),
+Transcrit sur A, f. 28o r. --- Collationné sur E, f. 213 v. ;--- sur L (copie de E),
 f 21 r. : --- sur R, fol. 46v.
 BK MN ΜEPΙN
 1] Signe de Saturne. Mόλυβδος · λιθάργυρος · λίθοι μηλίται,
@@ -2006,7 +1996,7 @@ NOMs DES FAISEURS D'OR
 δρα · γῆ λευκὴ, καὶ τὰ ὄμοια.
 I. X. --- ΝΟΜS ΟΕS 0R.
 Transcrit sur A, f. 195 v. (--- A). --- Collationné sur A, f. 294 r. (--- A). ---
-sur E, f. 213 v. ; --- sur L, f. 245 r. --- Rapprocner de ce orceau la liste insérée
+sur E, f. 213 v. ;--- sur L, f. 245 r. --- Rapprocner de ce orceau la liste insérée
 dans M, f. 7 v. et traduite dans les α Origines de l'Alcnimie ν, p. 128, texte dont
 nous donnons les variantes.
 1] νωσκε, ὼ φίλε, καὶ τὰ ὁνόματα τῶν ποιητῶν. Ἀρχή.] Πλά-
@@ -2079,8 +2069,8 @@ LES SERMENTS
 ἄγγος, ἐψοῦσιν ἐν καμίνω ἡμερόνυκτα πέντε, ἔχον τὸ ἄγγος πόρον
 δια τὴν ἔξοδον.
 . XI. --- ΟP.
-Transcrit sur M, f. 128 v. --- Collationné sur A, f. 109 v. ( A); --- sur A, f. 298 r.
-(π A) ; ---sur E, f. 36 v. ; --- sur Lb, p. 127. --- Cap. 27 dans E, suite du cnap. 28
+Transcrit sur M, f. 128 v. --- Collationné sur A, f. 109 v. ( A);--- sur A, f. 298 r.
+(π A) ;---sur E, f. 36 v. ;--- sur Lb, p. 127. --- Cap. 27 dans E, suite du cnap. 28
 dans Lb, de la compilation du α Philosophe Cnrétien ν.
 5 1]Θμνυμί σοι, καλὲ παῖ, τὴν μακαρίαν καὶ σεβασμίαν Τριάδα
 ὼς οὐδἐν ἀπέκρυψα τῶν ἐμοὶ παρ᾽ αὐτῆς δεδομένων ἐν ταμείοις ψυ-
@@ -2389,7 +2379,7 @@ L'ASSEMBLÉE DES PHILOSOPHES
 les variantes indiquées.)
 I. XIV. --- ΠΟΙΟΝ ΕΙΝΑΙ ΧΡΗ ΤΟΙΣ ΗΘΕΣΙ ΤΟΝ
 ΜΕΤΙΟΝΤΑ ΤΗΝ ΕΠΙΣΤΗΜΗΝ.
-Transcrit sur M, f. 128 r. --- Collationné sur A, f. 109 v. ; --- sur E, f. 36 v. ; ----
+Transcrit sur M, f. 128 r. --- Collationné sur A, f. 109 v. ;--- sur E, f. 36 v. ;----
 sur Lb (copie de E), page 127. --- (Cnap. 26 dans E, 28 dans Lb, de la compilation
 du Pilosopne chrétien.)
 10 ρεών εἶναι τὸν μετιόντα τὴν ἐπιστήμην πρῶτον μἐν φιλόθεον
@@ -2434,7 +2424,7 @@ o) Καὶ οὐδἐν ἐξάξει εὶς ἔξοδον εὶς ν δηνά�
 λάμβανε τὸ ἔ- (f. 2υὸ v.) λαιον τὸ ἐπάνω τοῦ λίθου, καὶ ὁ λίθος μένει
 κρύσταλλος · καὶ λαβὼντὸ αὐτὸ ὄξος, αὐτό ἐστιν τὸ ὄξος τῶν φιλοσόφων.
 I. XVI. --- ΠΕΡΙ ΠΟΙΗΣΕΟΣ ΑΣΗΜΟΥ.
-Transcrit sur M, f. 106 r. --- Collationné sur B, f. 159 v.; --- sur A. f. 146 r. ; ---
+Transcrit sur M, f. 106 r. --- Collationné sur B, f. 159 v.;--- sur A. f. 146 r. ;---
 sur K, f. 32 v. --- La rédaction de M, lorsqu'elle differe de celle de BAK, a été con-
 signée en marge de Κ, d'une ecriture élégante, contemporaine de celle du texte,
 ici et dans plusieurs autres morceau.
@@ -2594,8 +2584,8 @@ DEUΧΙΕME PRTIE
 TRAITES DEMOCRITAΙΝS
 V
 II. 1. --- ΑΜΟΚΡΙΤΟΥ ΟΥΣΙΚA AΠ
-Transcrit sur M, f. 66 v. --- Collationné sur B, f. 8 v. ; --- sur C (copie de B),
-f. 7 v. ; --- sur A (copie de C ?), f. 24 v. ; --- sur D (copie de C ), f. 1 ; --- sur S
+Transcrit sur M, f. 66 v. --- Collationné sur B, f. 8 v. ;--- sur C (copie de B),
+f. 7 v. ;--- sur A (copie de C ?), f. 24 v. ;--- sur D (copie de C ), f. 1 ;--- sur S
 (copie de A ?), f. 1. --- Cp. Berthelot, origines de l'Alchimie, p. 359, ou les 11et 2
 ont été publiés aνec traduction franςise et annotation critique. --- Les νariantes
 de C A D S ne sont pas indiquées lorsqu elles sont identiques aνec celles de B.
@@ -3201,10 +3191,10 @@ A. --- Réd. proposée: ούκ ἐκ χωνῶν τῶν τεχν. | assez fréq
 TRAITES DEMOCRITAINS
 20 II. I. --- ΣΥΝΕΣΙΟΥ ΙΛΟΣΟΟΥ ΠΡΟΣ ΑΙΟΣΚΟΡΟΝ ΕΙΣ
 ΤΗΝ ΕΙΕΟΝ ΑΗΜΟΚΡΙΤΟΥ, ΩΣ ΕΝ ΣΧΟΑ
-Transcrit sur M, f. 72 v. --- Collationné sur B, f. 20 r. ; --- sur C, f. 14 jusqu'à lα
-n du 5 5) ; --- sur A, f. 31 r. ; --- sur S, congénère de B (passim) ; --- sur lédition de
+Transcrit sur M, f. 72 v. --- Collationné sur B, f. 20 r. ;--- sur C, f. 14 jusqu'à lα
+n du 5 5) ;--- sur A, f. 31 r. ;--- sur S, congénère de B (passim) ;--- sur lédition de
 Fabricius (Bibl. gr. vI11, p. 233 Fabr.) --- (Contenu aussi dans Laur. e arti-
-cle ; --- le ms. de Vienne ; --- le cod. Ambrosianus de Milan.) --- L'eéd. de
+cle ;--- le ms. de Vienne ;--- le cod. Ambrosianus de Milan.) --- L'eéd. de
 1. --- ὁμοῦ] F. l. ώμοῦ. --- 3. ὁλικομιξάνθου | dans le ms. --- λεκυνθίω A. --- 15. διή-
 A. --- 4. τῆρεισάσεις A. --- πράγμαν A. --- | γητον κ. τ. λ.] Cp. Berthelot, Orig. de
 6. ἐστροὕλον A. (Corrigé par M. B.). --- | l'alchimie, p. 162. --- 17. οὐσίσασιν A. ---
@@ -3582,7 +3572,7 @@ a peut-ètre lu ἐξοπτηθεῖσαν, grillé.) Cp | F. l. ποιεῖ. --
 ci-dessus I, 1, 7. --- σοφία] παρατήρησις B. | cinabre remplacé par ἀμωνιακὸν ἄλα
 2. καὶ om. B. --- 3. τάχα δἐ τοῦτο] τοῦτο Fabr. --- 23. Peut-être faut-il disposer
 γὰρ B. --- 4. γένηται] γένοιτο B. --- 6. ἐν om. | ainsi le dialogue : Sn. Tὸ σῶρι κ. τ. λ.
-B. --- 7. πυρ. ἀπολ.] rites dissolutus | --- Diosc. Πῶς ; --- Sn. Oὐκ ἀγνοεῖς ὡς
+B. --- 7. πυρ. ἀπολ.] rites dissolutus | --- Diosc. Πῶς ;--- Sn. Oὐκ ἀγνοεῖς ὡς
 Pi22. --- 9. ὑποδιαιρῶν B, f. mel. --- 10. | χλωρὰ εῖη.
 
 
@@ -3660,7 +3650,7 @@ mg. ση μείωσαι. --- ὕδωρ στυπτ.] ἄλὸς | Fabr. --- 14. �
 Fabr. --- 5. ταῦτα πάντα A. --- θείου] χαλ- | ἀφανιοῦται Fabr. --- 20. Un point après
 κάνθου Fabr. --- τὰ om. B. --- 8. Nαὶ] καὶ αύτοῦ dans M. On pourrait lire: Dioscore.
 A (intercalé par le copiste) Fabr. --- 9. |
-τί εῖπεν ; --- Synésius. Καὶ ἐπιφέρει... ---
+τί εῖπεν ;--- Synésius. Καὶ ἐπιφέρει... ---
 Dans Fabr. la phrase να σοι κ. τ. λ. est | 23. ὑμᾶς] ἡμᾶς Bet Piz2. seulement ; ἡμἄς
 attribuée à Synésius. Les mss. dans tout | puis ὑμῶν conviendraient mieux. --- 24.
 ce passage n'indiquent pas les change- | τὴν ἀνίατον πενίαν τῆς νόσου ἐκφύγοιμεν M.
@@ -3723,9 +3713,9 @@ OLVMPIODORE. --- SUR L'ART SACRE
 10 γυρίζονται καὶ εὶς σῆψιν ἀποχωρίζονται. Θεοῦ δὲ βοηθοῦντος ἄρξομαι
 ὑπομνηματίζειν.
 II. I. --- ΟLΥΜΡΟΟΟRE.
-Transcrit sur M, f. 163 r. --- Collationné sur A, f. 197 r. ; --- sur K (copie prob-
+Transcrit sur M, f. 163 r. --- Collationné sur A, f. 197 r. ;--- sur K (copie prob-
 blement directe de M.), f. 7 r., seulement les premiers feuillets, pίus quelques son-
-ages ; --- sur L ou La, f. 1 r.
+ages ;--- sur L ou La, f. 1 r.
 OAΥIΟ)ΟΡΟΥ OΣOO ΕΣ
 ΤΟ ΖΣIΙO ΟA Λ0 Ο ΣΟΥ ΝΙΣΝ ψIΟΣOΣΝ
 IIΣΝA.
