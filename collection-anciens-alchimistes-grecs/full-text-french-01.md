@@ -1281,7 +1281,7 @@ _Transcrit sur_ M, f. 131 r. --- _Collationné sur_ B, f. 2 v. ;--- _sur_ A, f. 
 
 *) θτ | συν M, et au-dessus : σύνθετα (main du copiste ? ) ; συνθέτου A. Leçon conj.
 
-*) L'astérisque désigne ici les articles qui ne figurent pas dans M. --- Cet article-ci et le suivant sont des additions de AEL. --- L réunit les deux articles additionnels en un seul et les rédige ainsi : Ἄθ. ἐστι τ. καθ. κ. ἀμ., κυρίως δὲ λέγ. κ. τ. λ.
+*) L'astérisque ⋆ désigne ici les articles qui ne figurent pas dans M. --- Cet article-ci et le suivant sont des additions de AEL. --- L réunit les deux articles additionnels en un seul et les rédige ainsi : Ἄθ. ἐστι τ. καθ. κ. ἀμ., κυρίως δὲ λέγ. κ. τ. λ.
 
 **B**
 
