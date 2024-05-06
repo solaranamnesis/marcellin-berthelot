@@ -1173,6 +1173,66 @@ La transmutation était d'autant plus aisée à concevoir dans les idées du tem
 
 *) Le nom même du laiton vient d'_electrum_, qui avait pris ce sens pendant le moyen âge, d'après du Cange.
 
+Au point de vue de l'imitation ou de la reproduction de l'or et de l'argent, le plus important alliage était l'_asèm_, identifié souvent avec l'électrum, alliage d'or et d'argent qui se trouve dans la nature : mais le sens du mot _asèm_ est plus compréhensif. Le papyrus X offre à cet égard beaucoup d'intérêt, en raison des formules multipliées d'asèm qu'il renferme. C'est sur la fabrication de l'asèm en effet que roule surtout l'imitation de l'or et de l'argent, d'après les recettes du papyrus : c'est aussi sa fabrication et celle du molybdochalque, qui sont le point de départ des procédés de transmutation des alchimistes. Toute cette histoire tire un singulier jour des textes du papyrus qui précisent nettement ce qu'il était déjà permis d'induire à cet égard* : je les rapprocherai des textes des vieux alchimistes que j'ai spécialement étudiés.
+
+*) _Origines de l'Alchimie_. Les métaux chez les Égyptiens, p. 211 et suivantes.
+
+Abordons donc de plus près la discussion du papyrus. Nous y trouvons d'abord des _recettes pour la teinture superficielle des métaux_* : telles que la dorure et l'argenture, destinées à donner l'illusion de l'or et de l'argent véritables et assimilées soit à l'écriture en lettres d'or et d'argent, soit à la teinture en pourpre, dont les recettes suivent. Tantôt on procédait par l'addition d'un liniment ou d'un vernis : tantôt, au contraire, on enlevait à la surface du bijou les métaux autres que l'or, par une cémentation qui en laissait subsister à l'état invisible et caché le noyau composé (v. p. 16).
+
+*) _Ibid._, p. 238.
+
+On y rencontre aussi des recettes destinées à accomplir une imitation plus profonde : par exemple, en alliant au métal véritable, or ou argent, une dose plus ou moins considérable de métaux moins précieux ; c'était l'opération de la _diplosis_, qui se pratique encore de nos jours.* Mais l'orfèvre égyptien croyait ou prétendait faire croire que le métal vrai était réellement multiplié, par une opération comparable à la fermentation ; deux textes du papyrus [_masse inépuisable_, recettes (7) et (60), etc.] le montrent clairement. C'est là d'ailleurs la notion même des premiers alchimistes, clairement exposée dans Enée de Gaza.*
+
+*) Manilius, poète latin du 1er siècle de l'ère chrétienne, en parle aussi dans un vers dont l'authenticité a été contestée autrefois par des raisons _à priori_ : la diplosis étant réputée inconnue avant le moyen âge. Mais la connaissance positive de cette opération chez les anciens, établie par le papyrus de Leide, tend à rétablir la valeur du texte de Manilius. --- Voir _Origines de l'Alchimie_, p. 70.
+
+*) _Origines de l'Alchimie_, p. 75.
+
+Enfin la falsification est parfois complète, l'alliage ne renfermant pas trace d'or ou d'argent initial. C'est ainsi que les alchimistes espéraient réaliser une transmutation intégrale.
+
+Dans ces diverses opérations, le mercure joue un rôle essentiel, rôle qui a persisté jusqu'à nos jours, où il a été remplacé pour la dorure par des procédés électriques. L'arsenic, le soufre et leurs composés apparaissent aussi comme agents tinctoriaux : ce qui complète l'assimilation des recettes du papyrus avec celles des alchimistes.
+
+Les divers procédés employés dans le papyrus, pour _reconnaître la pureté des métaux_ (docimasie, 43, 44, 64, 32) ; pour les affiner et les purifier (15, or), (26, argent), (2, 3, 4, étain), (21, 22, asèm) ; pour les décaper, opération qui précède la soudure ou la dorure (46, 48, 65, 66, 20, 20 _bis_), sont rappelés ici seulement pour mémoire.
+
+En ce qui touche la _soudure des métaux_, il n'y a que deux recettes relatives à la soudure d'or (chrysocolle). Observons que ce nom a plusieurs sens très différents chez les anciens : il signifie tantôt la malachite,* tantôt un alliage de l'or avec l'argent,* ou avec le plomb, parfois avec le cuivre ; ces divers corps étant d'ailleurs mis en œuvre simultanément. Enfin on le trouve appliqué dans Olympiodore à l'opération même, par laquelle on réunissait en une masse unique les parcelles ou paillettes métalliques. C'est un alliage de l'or et du cuivre, associé à l'argent ou à l'asèm, qui est désigné sous ce nom dans notre papyrus, recettes (31) et (33).
+
+*) Dioscoride, _Mat. méd._, 5. 104.
+
+*) Pline, _Hist. Nat._, 33, 29.
+
+Venons aux procédés pour dorer, argenter, teindre et colorer les métaux superficiellement. Deux formules de décapage rappelées plus haut (19, 20, 20 _bis_) ont déjà cette destination ; dans un but de tromperie, ce semble, en modifiant l'apparence de la monnaie. La recette (25) tend vers le même but : c'est à peu près celle du cément royal, au moyen duquel on séparait l'or de l'argent et des autres métaux (p. 11). Employée comme ci-dessus, elle a pour effet de faire apparaître l'or pur à la surface de l'objet d'or, le centre demeurant allié avec les autres métaux. C'est donc un procédé de fraude (v. p. 16). Maison pouvait aussi s'en servir pour lustrer l'or.
+
+Aujourd'hui encore les orfèvres emploient diverses recettes analogues, pour donner à l'or une belle teinte :
+
+« Or mat, salpêtre, alun, sel ; »
+
+« Or fin, avec addition d'acide arsénieux ; »
+
+« Or rouge, par addition d'un sel de cuivre ; »
+
+« Or jaune, par addition de salpêtre, de sel ammoniac. »
+
+« _Pour lustrer et polir_. Tartre brut, 2 onces ; soufre en poudre, 2 onces ; sel marin, 4 onces ; faites bouillir dans parties égales d'eau et d'urine ; trempez-y l'or, ou l'ouvrage doré. » (_Manuel Roret_, t. 2, p. 188 ; 1832).
+
+Le soufre et l'urine se retrouvent ici, dans le manuel Roret, comme chez les alchimistes égyptiens.
+
+Voici maintenant des procédés de dorure véritable. L'un d'eux (38) est remarquable, parce qu'il procède sans mercure, au moyen d'un alliage de plomb : il représente peut-être une pratique antérieure à la connaissance du mercure, dont il n'est pas question jusqu'au 5e siècle avant notre ère.
+
+En tout cas, c'est toujours un procédé pour tromper l'acheteur, comme le texte le dit expressément.
+
+Un autre procédé (57) est destiné à dorer l'argent, par application avec des feuilles d'or et du mercure. L'objet, dit l'auteur, peut subir l'épreuve de l'or régulier (la pierre de touche) : c'est donc un procédé de fraude.
+
+D'autres recettes donnent seulement l'apparence de l'or : on la communique au cuivre par l'emploi du cumin par exemple (28) ; avec des variantes (47) et (77).
+
+Rappelons ici les recettes pour écrire en couleur d'or avec l'aide du safran, du carthame et de la bile de veau ou de tortue (39), (63), (74). Pline explique également que l'on colore le bronze en or avec le fiel de taureau (_H. N._ 28, 146).
+
+Une autre recette est destinée à dorer sans or un vase d'argent ou de cuivre, au moyen du natron jaune, substance mal connue (49) : c'était peut-être un sulfure, capable de teindre superficiellement les métaux (v. p. 39).
+
+Une recette pour dorer l'argent (51) repose sur l'emploi de la sandaraque (c'est-à-dire du réalgar), du cinabre et du misy (sulfates de cuivre et de fer basiques). Elle constate ainsi l'apparition des composés arsénicaux pour teindre en or. Mais ces composés semblent employés ici seulement par application, sans intervention de réactions chimiques, telles que celles qui font au contraire la base des méthodes de transmutation par l'arsenic chez les alchimistes.
+
+Une apparence de dorure superficielle (69) et (76) repose sur l'emploi du misy grillé, de l'alun et de la chélidoine, avec addition d'urine.
+
+Ces procédés de teinture superficielle sont devenus un procédé de transmutation dans le Pseudo-Démocrite (_Physica et Mystica_, qui s'exprime ainsi :
+
 ...
 
 # Texte Grec.
