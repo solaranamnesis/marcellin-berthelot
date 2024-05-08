@@ -1231,7 +1231,175 @@ Une recette pour dorer l'argent (51) repose sur l'emploi de la sandaraque (c'est
 
 Une apparence de dorure superficielle (69) et (76) repose sur l'emploi du misy grillé, de l'alun et de la chélidoine, avec addition d'urine.
 
-Ces procédés de teinture superficielle sont devenus un procédé de transmutation dans le Pseudo-Démocrite (_Physica et Mystica_, qui s'exprime ainsi :
+Ces procédés de teinture superficielle sont devenus un procédé de transmutation dans le Pseudo-Démocrite (_Physica et Mystica_), qui s'exprime ainsi :
+
+« Rendez le cinabre* blanc au moyen de l'huile, ou du vinaigre, ou du miel, ou de la saumure, ou de l'alun ; puis jaune, au moyen du misy, ou du sory, ou de la couperose, ou du soufre apyre, ou comme vous voudrez. Jetez le mélange sur de l'argent et vous obtiendrez de l'or, si vous avez teint en or ; si c'est du cuivre, vous aurez de l'électrum : car la nature jouit de la nature. »
+
+*) Ce mot semble signifier ici le minium (oxyde de plomb), sens que l'on trouve dans Dioscoride.
+
+Cette recette est reproduite avec plus de détails un peu plus loin, dans le même auteur.
+
+Ailleurs le Pseudo-Démocrite donne un procédé fondé sur l'emploi du safran et de la chélidoine, pour colorer la surface de l'argent ou du cuivre et la teindre en or : ce qui est conforme aux recettes pour écrire en lettres d'or exposées plus haut.
+
+La chélidoine apparaît aussi associée à l'orpiment, dans l'une des recettes du papyrus pour écrire en lettres d'or sur papier, sur parchemin, ou sur marbre (74).
+
+A la suite figure un procédé de dorure par vernissage, fondé sur l'emploi simultané des composés arsénicaux, de la bile et du mercure (75).
+
+Ce procédé rappelle à certains égards le vernis suivant, pour donner une couleur d'or à un métal quelconque (_Manuel Roret_, t. 2, p. 192 ; 1832) :
+
+« Sangdragon, soufre et eau, faire bouillir, filtrer ; on met cette eau dans un matras avec le métal qu'on veut colorer. On bouche, on fait bouillir, on distille. Le résidu est une couleur jaune, qui teint les métaux en couleur d'or. On peut encore opérer avec parties égales d'aloès, de salpêtre et de sulfate de cuivre. »
+
+Les procédés suivants sont des procédés d'argenture, tous fondés sur une coloration apparente, opérée sans argent. Ainsi (42), sous le nom d'_enduit de cuivre_, on enseigne à blanchir le cuivre en le frottant avec du mercure : c'est encore aujourd'hui un procédé pour donner à la monnaie de cuivre l'apparence de l'argent et duper les gens inattentifs.
+
+De même un amalgame d'étain, destiné à blanchir le cuivre (27).
+
+De même le procédé pour colorer l'argent (81).
+
+La teinture en couleur d'asèm (80) et (67), intermédiaire entre l'or et l'argent, est répétée deux fois.
+
+Citons encore une recette pour blanchir le cuivre par l'arsenic (23).
+
+Au lieu de teindre la surface des métaux, pour leur donner l'apparence de l'or ou de l'argent, les orfèvres égyptiens apprirent de bonne heure à les teindre à fond, c'est-à-dire en les modifiant dans toute leur masse. Les procédés employés par eux consistaient à préparer des alliages d'or et d'argent conservant l'apparence du métal : c'est ce qu'ils appelaient la _diplosis_, l'art de doubler le poids de l'or et de l'argent (V. plus haut p. 56) ; expression qui a passé aux alchimistes, en même temps que la prétention d'obtenir ainsi des métaux, non simplement mélangés, mais transformés à fond. Le mot actuel de _doublé_ se rapporte au même ordre d'idées, mais avec un sens tout différent, puisqu'il s'agit aujourd'hui de deux lames métalliques superposées. Chez les anciens la signification était plus extensive. En effet, le mot _diplosis_ impliquait autrefois, tantôt la simple augmentation de poids du métal précieux, additionné d'un métal de moindre valeur qui n'en changeait pas l'apparence, (16) et (17), (56), (87) et (88) ; tantôt la fabrication de toutes pièces de l'or et de l'argent, par la transmutation de nature du métal surajouté ; tous les métaux étant au fond identiques, conformément aux théories platoniciennes sur la matière première. L'agent même de la transformation est une portion de l'alliage antérieur, jouant le rôle de ferment.
+
+Toutes ces préparations sont aussi claires et positives, sauf l'incertitude sur le sens de quelques mots, que nos recettes actuelles. Il n'en est que plus surprenant de voir naître, au milieu de procédés techniques si précis, la chimère d'une transmutation véritable ; elle est corrélative d'ailleurs avec l'intention de falsifier les métaux. Le faussaire, à force de tromper le public, finissait par croire à la réalité de son œuvre ; il y croyait, aussi bien que la dupe qu'il s'était d'abord proposé de faire. En effet, la parenté de ces recettes avec celles des alchimistes peut être aujourd'hui complètement établie.
+
+J'ai déjà signalé l'identité de quelques recettes de dorure du papyrus avec les recettes de transmutation du Pseudo-Démocrite ; je poursuivrai cette démonstration tout à l'heure en parlant de l'asèm. Elle est frappante pour la _diplosis_ de Moïse,* recette aussi brève, aussi claire que celle des papyrus de Leide et tirée probablement des mêmes sources ; du moins si l'on en juge par le rôle de Moïse dans ces mêmes papyrus (ce volume, p. 16).
+
+*) _Manuscrit_ **299** _de Saint-Marc_ (M), f. 185, recto.
+
+Le procédé de Moïse, exposé en quelques lignes, est celui-ci :
+
+« Prendre du cuivre, de l'arsenic (orpiment), du soufre et du plomb* ; on broie le mélange avec de l'huile de raifort ; on le grille sur des charbons jusqu'à désulfuration ; on retire ; on prend de ce cuivre brûlé 1 partie et 3 parties d'or ; on met dans un creuset ; on chauffe ; et vous trouverez le tout changé en or, avec le secours de Dieu. »
+
+*) Ou bien du soufre natif ; d'après le symbole du manuscrit.
+
+C'est un alliage d'or à bas titre, analogue à ceux signalés plus haut.
+
+Les soudures d'argent des orfèvres de nos jours sont encore exécutées au moyen des composés arsénicaux. On lit par exemple dans le _Manuel Roret_, t. 2, p. 186 (1832) :
+
+« 3 parties d'argent, 1 partie d'airain : fondez ; jetez-y un peu d'orpiment en poudre. »
+
+« Autre : argent fin, 1 once ; airain mince, 1 once ; arsenic, 1 once. On fond d'abord l'argent et l'airain et l'on y ajoute l'arsenic. »
+
+« Autre : argent, 4 onces ; airain, 3 onces ; arsenic, 2 gros. »
+
+« Autre : argent, 2 onces ; clinquant, 1 once ; arsenic, 4 gros ; couler de suite ; bonne soudure. »
+
+On remarquera que l'énoncé même de ces formules de nos jours affecte une forme analogue à celui des formules du papyrus (23 notamment) et des manuscrits. C'est d'ailleurs par des recettes analogues que l'on prépare aujourd'hui le _tombac blanc_ ou cuivre blanc, et le faux argent des Anglais. En tous cas, le cuivre est teint dans le papyrus au moyen de l'arsenic, comme chez les alchimistes ; le tout dans une intention avouée de falsification.
+
+La formule d'Eugenius, qui suit dans le manuscrit de Venise, est un peu plus complexe que celle de Moïse.
+
+Elle repose aussi sur l'emploi du cuivre brûlé, mêlé à l'or et fondu, auquel on ajoute de l'orpiment : ce composé traité par le vinaigre est exposé au soleil pendant deux jours, puis on le dessèche ; on l'ajoute à l'argent, ce qui le rend pareil à l'électrum ; le tout ajouté à l'or, par parties égales, consomme l'opération.
+
+C'est toujours le même genre d'alliages, que l'auteur prétend identifier finalement avec l'or pur.
+
+#### 3\. --- _Fabrication de l'Asèm._
+
+Le nœud de la question est dans la fabrication de l'asèm.
+
+L'asèm* des Égyptiens désignait à l'origine l'électrum, alliage d'or et d'argent, qui se trouve dans la nature et qui se produit aisément dans les traitements des minerais. Son nom a été traduit chez les Grecs anciens par celui de ἄσημον, ἄσημος, ou ἀσήμη, qui était aussi celui de l'argent sans marque, c'est-à-dire sans titre, lequel est devenu chez les Grecs modernes le nom même de l'argent. De là une confusion extrême dans les textes. Mais à l'origine l'_asèm_ égyptien avait un sens propre, comme le montrent, sans doute possible, les papyrus de Leide. D'après Lepsius, d'ailleurs, l'asèm était regardé comme un métal distinct, comparable à l'or et à l'argent ; il est figuré à côté d'eux sur les monuments égyptiens. Il a été placé de même sous le patronage d'une divinité planétaire, Jupiter, qui, plus tard, fut attribuée à l'étain, vers le 5e ou 6e siècle de notre ère, lorsque l'électrum disparut de la liste des métaux.
+
+*) _Origines de l'Alchimie_, p. 215.
+
+Cependant ce métal prétendu variait notablement dans ses propriétés, suivant les doses relatives d'or, d'argent et des autres corps simples, alliés dans sa constitution : mais alors la chose ne paraissait pas plus surprenante que la variation des propriétés de l'airain, nom qui comprenait à la fois et notre cuivre rouge, et les bronzes et les laitons d'aujourd'hui.
+
+Ce n'est pas tout : l'asèm jouissait d'une faculté étrange : suivant les traitements subis, il pouvait fournir de l'or pur, ou de l'argent pur, c'est-à-dire être changé en apparence en ces deux autres métaux.
+
+Enfin, et réciproquement, on pouvait le fabriquer artificiellement, en alliant l'or et l'argent entre eux, voire même sans or, et sans argent et en outre avec association d'autres métaux, tels que le cuivre, l'étain, le zinc, le plomb, l'arsenic, le mercure, qui en faisaient varier la couleur et les diverses propriétés : on va citer tout à l'heure de nombreux exemples de ce genre de fabrication (v. aussi p. 54 et 56, les formules des monnaies falsifiées).
+
+C'était donc à la fois un métal naturel et un métal factice. Il établissait la transition de l'or et de l'argent entre eux et avec les autres métaux et semblait fournir la preuve de la transmutation réciproque de toutes ces substances, métaux simples et alliages. On savait d'ailleurs en retirer dans un grand nombre de cas l'or et l'argent, au moins par une analyse qualitative, et l'on y réussissait même dans des circonstances, telles que le traitement du plomb argentifère, où il ne semblait pas qu'on eût introduit l'argent à l'avance dans les mélanges capable de fournir ce métal.
+
+Tels sont les faits et les apparences qui servaient de bases aux pratiques, aux conceptions et aux croyances des orfèvres des papyrus de Leide, comme à celles des alchimistes gréco-égyptiens de nos manuscrits. On voit par là que, étant donné l'état des connaissances d'alors, ces conceptions et ces croyances n'avaient pas le caractère chimérique qu'elles ont pris pour nous ; maintenant que les métaux simples sont définitivement distingués, les uns par rapport aux autres, comme par rapport à leurs alliages. La seule chose surprenante, c'est la question de fait : je veux dire que les praticiens aient cru si longtemps à la réalité d'une transmutation complète, alors qu'ils fabriquaient uniquement des alliages ayant l'apparence de l'or et de l'argent, alliages dont nous possédons maintenant, grâce au papyrus de Leide, les formules précises. Or ces formules sont les mêmes que celles des manuscrits alchimiques. En fait, c'étaient là des instruments de fraude et d'illusion vis-à-vis du public ignorant. Mais comment les gens du métier ont-ils pu croire si longtemps qu'ils pouvaient réellement, par des pratiques d'artisan, ou par des formules magiques, réussir à changer ces apparences en réalité ? Il y a là un état intellectuel qui nous confond. Quoi qu'il en soit, il est intéressant de pousser la connaissance des faits jusqu'à son dernier degré, et c'est ce que je vais essayer de faire.
+
+Le nombre des recettes relatives à l'asèm s'élève à 28 ou 30 ; c'est plus du quart du nombre total des articles du papyrus. Elles comprennent des procédés pour la fabrique de toutes pièces ; des procédés pour faire l'asèm noir, correspondant à ce que nous appelons l'argent oxydé ; des procédés pour teindre en asèm ; pour faire des lettres de cette couleur, pour essayer l'asèm ; enfin des procédés pour doubler et multiplier la dose de l'asèm, pour le diluer, etc. : ce qui répond à la _diplosis_ de l'or, signalée plus haut (p. 56 et 60).
+
+Entrons dans quelques détails, en commençant par les procédés de fabrication, qui mettent en pleine évidence le caractère réel de l'asèm. On trouve désignés sous ce nom, indépendamment de l'asèm naturel ou électrum, alliage d'or et d'argent figuré sur les monuments égyptiens :
+
+1° Un alliage d'étain et d'argent (3).
+
+C'est un procédé de _diplosis_ de l'argent.
+
+2° Un amalgame d'étain, (5) et (86).
+
+Ici il s'agit uniquement de simuler l'argent.
+
+Dans une autre recette (37), l'étain affiné est simplement additionné d'un peu de mercure : ce qui montre que la dose de ce dernier variait.
+
+3° L'étain affiné a été parfois identifié à l'asèm (v. p. 55), comme le montre la recette suivante, tirée du manuscrit 299 de Saint-Marc (M, fol. 106, recto) :
+
+« Prenez de l'étain affiné, fondez-le et, après cinq fusions, jetez du bitume à sa surface dans le creuset ; et chaque fois que vous le refondrez, coulez-le dans du sel ordinaire, jusqu'à ce qu'il devienne un asèm parfait et abondant. »
+
+C'est la formule (3) du papyrus, dans lequel elle précède la fabrication d'un alliage d'étain et d'argent. En tous cas, elle montre la similitude parfaite des recettes du papyrus et de celles du manuscrit de Saint-Marc.
+
+4° Le nom de l'asèm paraît avoir été aussi appliqué à un alliage de plomb et d'argent, obtenu dans la fusion des minerais de plomb ; ainsi que l'établit le texte suivant,* tiré du manuscrit de Saint-Marc (fol. 106, recto) :
+
+*) Le titre est : Sur la fabrication de l'asèm ; tandis que le signe employé dans le courant du texte est celui de l'argent. (Texte grec ci-après, 1, 16.)
+
+« Prenez du plomb fusible, tiré des minerais lavés. Le plomb fusible est très compact. On le fond à plusieurs reprises, jusqu'à ce qu'il devienne asèm. Après avoir obtenu l'asèm, si vous voulez le purifier, jetez dans le creuset du verre de Cléopâtre et vous aurez de l'asèm pur ; car le plomb fusible fournit beaucoup d'asèm. Chauffez le creuset sur un feu modéré et pas trop fort. »
+
+Et un peu plus bas :
+
+« On tire l'asèm du plomb purifié, comme il est écrit sur la stèle d'en haut.* Il faut savoir que cent livres de plomb ordinaire fournissent dix livres d'asèm. »
+
+*) Il s'agit évidemment de la recette précédente, inscrite probablement dans le temple sur une stèle ou colonne.
+
+Dans les autres recettes, le cuivre intervient toujours ; on rapprochait par là l'apparence et les propriétés de l'alliage de celles de l'or. L'asèm formait dès lors, aussi bien que l'électrum naturel, la transition entre l'or et l'argent. Toutefois, dans aucune des recettes, sauf la dernière (90), l'or n'est ajouté ; ce qui montre bien l'intention d'imitation, ou plutôt de fraude.
+
+5° Un alliage d'étain et de cuivre, sorte de bronze où l'étain dominait (30) ; ou bien il était pris à parties égales (29) et (14).
+
+6° Un alliage analogue, avec addition d'asèm antérieur (8) et (40).
+
+L'intention de fraude est ici très explicitement avouée.
+
+Dans cette formule, il n'est pas question des fondants et des tours de main pour affiner l'alliage, mais ils sont décrits en détail dans une autre recette (19), par laquelle on augmente la proportion de cuivre dans l'asèm déjà préparé : ce qui devait rapprocher le bronze obtenu de la couleur de l'or. De même (83), dans une recette où l'on décrit les précautions pour éviter l'oxydation.
+
+7° Un alliage d'argent, d'étain et de cuivre (41).
+
+Une recette analogue, un peu plus détaillée et avec moitié moins d'étain, se termine par ces mots : « Employez-le comme de l'asèm, préférable au véritable (59). »
+
+8° Un amalgame de cuivre et d'étain (9) et (29).
+
+9° Un amalgame de cuivre, d'étain et d'asèm (13) et (18).
+
+C'est une variante de la formule précédente.
+
+Ces recettes paraissent se rapporter à ces prescriptions fondamentales du Pseudo-Démocrite : « Fixe le mercure avec le corps (ou métal) de la magnésie. » La magnésie était, à proprement parler, tantôt la pierre d'aimant, avec addition de divers métaux et oxydes métalliques, tantôt un sulfure métallique contenant du fer, du cuivre, du plomb, etc.
+
+10° Un alliage de plomb, de cuivre, de zinc et d'étain (11) ; avec ces mots à la fin : « On s'en sert comme de l'asèm naturel. »
+
+On voit paraître ici l'idée d'imiter par l'art le métal naturel, par analogie avec la reproduction artificielle des pierres précieuses.
+
+11° Un alliage de plomb, de cuivre et d'asèm (84), désigné sous le nom d'_asèm égyptien, d'après la recette de Phiménas le Saïte_, personnage qui est le même que le Pamménès des alchimistes. En effet, il est expressément cité par le Pseudo-Démocrite, comme artiste en Chrysopée, au début d'une série de recettes pour la fabrication de l'asèm (p. 24).
+
+Cet ordre d'alliages rappelle le _métal anglais_ de nos jours, formé de 80 parties de cuivre ; 4, 3 de plomb ; 10, 1 d'étain ; 5, 6 de zinc.
+
+De même _l'alliage indien_ : 16 parties de cuivre ; 4 parties de plomb ; 2 parties d'étain ; 16 parties de zinc ;
+
+Ou bien le _métal du prince Robert_ : 4 parties de cuivre et 2 de zinc ;
+
+Les alliages de cuivre et de zinc (100 cuivre, 8 à 14 zinc) ;
+
+Les alliages de cuivre (100 parties), de zinc et d'étain (de 3 à 7 parties de chacun) ;
+
+_L'argentan_, le _packfong_, le _cuivre blanc des Chinois_, le _maillechort_ ; alliages de cuivre (de 3 à 5 parties) avec le zinc et le nickel (parties égales, formant la moitié ou les deux tiers du poids du cuivre), additionnés d'un peu de plomb ;
+
+Et un grand nombre d'alliages complexes et du même ordre, cuivres, bronzes et laitons blancs et jaunes encore usités dans l'industrie : la variété en est infinie.
+
+12° Un alliage d'asèm et d'orichalque (laiton) arsénical, décrit à la suite du précédent (85).
+
+Cette recette compliquée, où l'arsenic intervient, rappelle tout à fait celle des alchimistes. On lit, par exemple, dans le Pseudo-Démocrite (_Physica et Mystica_, Texte grec, 1, 7) :
+
+« _Fabrication de l'or jaune._ --- Prenez du claudianon,* rendez-le brillant et traitez-le suivant l'usage, jusqu'à ce qu'il devienne jaune. Jaunissons donc : je ne dis pas avec la pierre, mais avec sa portion utile. Vous jaunirez avec l'alun décomposé,* avec le soufre, ou l'arsenic (sulfuré), ou la sandaraque (réalgar), ou le titanos (calcaire), ou à votre idée : si vous y ajoutez de l'argent, vous aurez de l'or ; si vous mettez de l'or, vous aurez du corail d'or* ; car la nature victorieuse domine la nature. »
+
+*) Alliage de plomb et d'étain avec le zinc et le cuivre.
+
+*) Dans le langage des alchimistes grecs, ce mot s'applique non seulement à notre alun plus ou moins pur, mais à l'acide arsénieux, provenant du grillage des sulfures : cette signification est donnée dans les textes d'une façon très explicite.
+
+*) Quintessence de l'or. Ce mot est, parfois synonyme de _coquille d'or_, dénomination conservée dans le langage des orfèvres par le mot _or en coquilles_, c'est-à-dire or en poudre, dont le sens, actuel n'est peut-être pas le même que celui des anciens.
+
+Le procédé semble le même ; mais il est moins clair chez l'alchimiste et il est devenu une méthode de transmutation. Une recette analogue se retrouve un peu plus loin dans le même auteur.
+
+Voici encore un résumé de la recette d'Olympiodore, auteur alchimiste du 5e siècle, laquelle est très claire.
 
 ...
 
