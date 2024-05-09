@@ -36,6 +36,8 @@
 
 ### [Explication des Recettes du Papyrus de Leide.](#explication-des-recettes-du-papyrus-de-leide-1)
 
+## [2. --- Relations entre les Métaux et les Planètes.](#2-----relations-entre-les-métaux-et-les-planètes-1)
+
 ...
 
 # [Texte Grec.](#texte-grec-1)
