@@ -38,6 +38,8 @@
 
 ## [2. --- Relations entre les Métaux et les Planètes.](#2-----relations-entre-les-métaux-et-les-planètes-1)
 
+## [3. --- La Sphère de Démocrite et les Médecins Astrologues.](#3-----la-sphère-de-démocrite-et-les-médecins-astrologues-1)
+
 ...
 
 # [Texte Grec.](#texte-grec-1)
