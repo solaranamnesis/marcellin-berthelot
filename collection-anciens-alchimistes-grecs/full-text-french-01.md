@@ -1550,6 +1550,90 @@ Proclus, philosophe néoplatonicien du 5e siècle de notre ère, dans son commen
 
 L'expression définitive de ces doctrines astrologico-chimiques et médicales se trouve dans l'auteur arabe Dimeschqî, cité par Chwolson (_sur les Sabéens_, t. 2, p. 380, 396, 411, 544). D'après cet écrivain, les sept métaux sont en relation avec les sept astres brillants, par leur couleur, leur nature et leurs propriétés : ils concourent à en former la substance. Notre auteur expose que chez les Sabéens, héritiers des anciens Chaldéens, les sept planètes étaient adorées comme divinités ; chacune avait son temple, et, dans le temple, sa statue faite avec le métal qui lui était dédié. Ainsi le Soleil avait une statue d'or ; la Lune, une statue d'argent ; Mars, une statue de fer ; Vénus, une statue de cuivre ; Jupiter, une statue d'étain ; Saturne, une statue de plomb. Quant à la planète Mercure, sa statue était faite avec un assemblage de tous les métaux, et dans le creux on versait une grande quantité de mercure. Ce sont là des contes arabes, qui rappellent les théories alchimiques sur les métaux et sur le mercure, regardé comme leur matière première. Mais ces contes reposent sur de vieilles traditions défigurées, relatives à l'adoration des planètes, à Babylone et en Chaldée, et à leurs relations avec les métaux.
 
+Il existe, en effet, une liste analogue dès le second siècle de notre ère. C'est un passage de Celse, cité par Origène (_Opera_, t. 1, p. 646 ; _Contra Celsum_, livre 6, 22 ; édition de Paris, 1733). Celse expose la doctrine des Perses et les mystères mithriaques, et il nous apprend que ces mystères étaient exprimés par un certain symbole, représentant les révolutions célestes et le passage des âmes à travers les astres. C'était un escalier, muni de 7 portes élevées, avec une 8e au sommet.
+
+La première porte est de plomb ; elle est assignée à Saturne, la lenteur de cet astre étant exprimée par la pesanteur du métal.*
+
+*) _Saturni sidus gelidæ ac rigentis esse naturæ_. Pline, _H. N._, 2, 6.
+
+La seconde porte est d'étain ; elle est assignée à Vénus, dont la lumière rappelle l'éclat et la mollesse de ce corps.
+
+La troisième porte est d'airain, assignée à Jupiter, à cause de la résistance du métal.
+
+La quatrième porte est de fer, assignée à Hermès, parce que ce métal est utile au commerce, et se prête à toute espèce de travail.
+
+La cinquième porte, assignée à Mars, est formée par un alliage de cuivre monétaire, inégal et mélangé.
+
+La sixième porte est d'argent, consacrée à la Lune ;
+
+La septième porte est d'or, consacrée au soleil ; ces deux métaux répondent aux couleurs des deux astres.
+
+Les attributions des métaux aux planètes ne sont pas ici tout à fait les mêmes que chez les Néoplatoniciens et les alchimistes. Elles semblent répondre à une tradition un peu différente et dont on trouve ailleurs d'autres indices. En effet, d'après Lobeck (_Aglaophamus_, p. 936, 1829), dans certaines listes astrologiques, Jupiter est de même assigné à l'airain, et Mars au cuivre.
+
+On rencontre la trace d'une diversité plus profonde et plus ancienne encore, dans une vieille liste alchimique, reproduite dans plusieurs manuscrits alchimiques ou astrologiques et où le signe de chaque planète est suivi du nom du métal et des corps dérivés ou congénères, mis sous le patronage de la planète. Cette liste existe également dans le Ms. 2419 de notre Bibliothèque Nationale (fol. 46 verso), où elle fait partie d'un traité astrologique d'Albumazar, auteur du 9e siècle, avec des variantes et des surcharges qui ne sont pas sans importance : une partie des mots grecs y sont d'ailleurs écrits en caractères hébreux, comme s'ils avaient un sens mystérieux (_voir_ dans ce volume, _texte grec_, p. 24). Dans cette liste, la plupart des planètes répondent aux mêmes métaux que dans les énumérations ordinaires, à l'exception de la planète Hermès, à la suite du signe de laquelle se trouve non le nom d'un métal, mais celui d'une pierre précieuse : l'émeraude. Le mercure est cependant inscrit vers la fin de l'énumération des substances consacrées à Hermès, mais comme s'il avait été ajouté après coup. Or, chez les Égyptiens, d'après Lepsius, la liste des métaux comprenait, à côté de l'or, de l'argent, du cuivre et du plomb, les noms des pierres précieuses, telles que le _mafek_ ou émeraude, et le _chesbet_ ou saphir, corps assimilés aux métaux à cause de leur éclat et de leur valeur.*
+
+*) Voir les métaux égyptiens, dans mon ouvrage sur les _Origines de l'Alchimie_, p. 221 et 233, Steinheil, 1885.
+
+Dans le roman égyptien de Satni-Khâm-Ouas, le livre magique de Tahout est renfermé dans sept coffres concentriques, de fer, de bronze, de bois de palmier, d'ivoire, d'ébène, d'argent et d'or.* La rédaction primitive de ce roman remonterait aux dernières dynasties ; sa transcription connue, au temps des Ptolémées. Tout ceci concourt à établir que la liste des sept métaux n'a été arrêtée que fort tard, probablement vers l'époque des Antonins.
+
+*) _Histoire ancienne de l'Orient_, par Fr. Lenormant, 9e édition, t. 3, p. 158 (1883).
+
+C'est ici le lieu de parler des tablettes métalliques trouvées à Khorsabad. Dans le cours des fouilles, en 1854, M. Place découvrit, sous l'une des pierres angulaires du palais assyrien de Sargon, un coffret contenant sept tablettes. C'étaient des tablettes votives, destinées à rappeler la fondation de l'édifice (706 ans avant J.-C.), et à lui servir en quelque sorte de Palladium. Quatre de ces tablettes se trouvent aujourd'hui au Musée du Louvre. J'en ai fait l'analyse, et les résultats de mon étude sont consignés plus loin dans le présent volume. Je me borne à dire ici que les quatre tablettes sont constituées en fait par de l'or, de l'argent, du bronze et du carbonate de magnésie pur, minéral rare que l'on ne supposait pas connu des anciens, et dont l'emploi reposait sans doute sur quelque idée religieuse. Les noms des matières des tablettes, tels qu'ils sont indiqués dans les inscriptions qui les recouvrent, sont d'après M. Oppert, l'or (_hurasi_), l'argent (_kaspi_), le cuivre (_urudi_ ou _er_ [bronze]), puis, deux mots (_anaki_ et _kasazatiri_ ou _abar_) que les interprètes ont traduit par plomb et étain, bien que l'un d'eux semble en réalité désigner la 4e tablette signalée plus haut (carbonate de magnésie), et enfin deux noms de corps portant le déterminatif des pierres, et traduits par marbre (_sipri_ ou _zakour_) et albâtre (_gis-sin-gal_). Rien d'ailleurs n'indique des attributions planétaires, si ce n'est le nombre sept. Ajoutons toutefois que, d'après un renseignement que m'a fourni M. Oppert, deux métaux étaient désignés par les Assyriens et les Babyloniens sous des dénominations divines : le fer sous le nom de Ninip, Dieu de la guerre : ce qui rappelle l'attribution ultérieure du métal à Mars ; et le plomb, sous le nom du Dieu Anu, Dieu du ciel que l'on pourrait rapprocher de Saturne : toutefois ce ne seraient pas là des Dieux planétaires.
+
+Voilà ce que j'ai pu savoir relativement à l'interprétation des noms métalliques contenus dans ces tablettes. Un des points les plus essentiels qui résultent de leur étude, c'est l'assimilation de certaines pierres ou minerais aux métaux, précisément comme chez les Égyptiens.
+
+Il y a là le souvenir de rapprochements très différents des nôtres, mais que l'humanité a regardé autrefois comme naturels, et dont la connaissance est nécessaire pour bien concevoir les idées des anciens. Toutefois l'assimilation des pierres précieuses aux métaux a disparu de bonne heure ; tandis que l'on a pendant longtemps continué à ranger dans une même classe les métaux purs, tels que l'or, l'argent, le cuivre, et certains de leurs alliages, par exemple l'électrum et l'airain. De là des variations importantes dans les signes des métaux et des planètes.
+
+Retraçons l'histoire de ces variations ; il est intéressant de les décrire pour comprendre les écrits alchimiques.
+
+Olympiodore, néoplatonicien du 6e siècle, attribue le plomb à Saturne ; l'électrum, alliage d'or et d'argent regardé comme un métal distinct, à Jupiter ; le fer à Mars ; l'or au Soleil ; l'airain ou cuivre à Vénus ; l'étain à Hermès (planète Mercure) ; l'argent à la Lune. Ces attributions sont les mêmes que celle du scoliaste de Pindare cité plus haut ; elles répondent exactement et point pour point, à une liste du manuscrit alchimique de Saint-Marc, écrit au 11e siècle, et qui renferme des documents très anciens.
+
+Les symboles alchimiques qui figurent dans les manuscrits comprennent les métaux suivants, dont l'ordre et les attributions sont constants pour la plupart :
+
+1° L'or correspondait au Soleil, relation que j'ai exposée plus haut (p. 77 ;--- voir aussi fig. 3, Pl. 1, l. 1, à gauche).
+
+Le signe de l'or est presque toujours celui du Soleil, à l'exception d'une notation isolée où il semble répondre à une abréviation (ms. 2327, fol. 17 verso, l. 19 ; ce volume, fig. 8, Pl. 6, l. 19).
+
+2° L'argent correspondait à la Lune et est toujours exprimé par le signe planétaire (ce volume, fig. 3, Pl. 1, l. 2).
+
+3° L'électrum, alliage d'or et d'argent : cet alliage était réputé un métal particulier chez les Égyptiens qui le désignaient sous le nom d'_asèm_ : nom qui s'est confondu plus tard avec le mot grec _asemon_ (ἄσημον), argent non marqué. Cet alliage fournit à volonté, suivant les traitements, de l'or ou de l'argent. Il est décrit par Pline, et il fut regardé jusqu'au temps des Romains comme un métal distinct. Son signe était celui de Jupiter (ce volume, fig. 3, Pl. 1, l. 4), attribution que nous trouvons déjà dans Zosime, auteur alchimique du 3e ou 4e siècle de notre ère.
+
+Quand l'électrum disparut de la liste des métaux, son signe fut affecté à l'étain, qui jusque-là répondait à la planète Mercure (Hermès). Nos listes de signes portent la trace de ce changement. En effet la liste du manuscrit de Saint-Marc porte (ce volume, fig. 3, Pl. 1, l. 4) : « Jupiter resplendissant, électrum, » et ces mots se retrouvent, toujours à côté du signe planétaire, dans le manuscrit 2327 de la Bibliothèque nationale de Paris, fol. 17 recto, l. 16 (ce volume, fig. 7, Pl. 5, l. 16) ; la première lettre du mot Zeus, figurant sous deux formes différentes (majuscule et minuscule). Au contraire un peu plus loin, dans une autre liste du dernier manuscrit (fol. 18, verso l. 5 ; ce volume, fig. 10, Pl. 8, l. 5), le signe de Jupiter est assigné à l'étain. Les mêmes changements sont attestés par la liste planétaire citée plus loin.
+
+4° Le plomb correspondait à Saturne : cette attribution n'a éprouvé aucun changement ; quoique le plomb ait plusieurs signes distincts dans les listes (ms. de Saint-Marc, fol. 6, dernière ligne à gauche et ce volume, fig. 3, Pl. 1, l. 3 ; ms. 2327, fol. 17 recto, l. 11 et 12 et ce volume, fig. 9, Pl. 7, l. 11 et 12). Le plomb était regardé par les alchimistes égyptiens comme le générateur des autres métaux et la matière première de la transmutation ; ce qui s'explique par ses apparences, communes à divers autres corps simples et alliages métalliques.
+
+En effet, ce nom s'appliquait à l'origine à tout métal ou alliage métallique blanc et fusible ; il embrassait l'étain (plomb blanc et argentin, opposé au plomb noir ou plomb proprement dit, dans Pline), et les nombreux alliages qui dérivent de ces deux métaux, associés entre eux et avec l'antimoine, le zinc, le bismuth, etc. Les idées que nous avons aujourd'hui sur les métaux simples ou élémentaires, opposés aux métaux composés ou alliages, ne se sont dégagées que peu à peu dans le cours des siècles. On conçoit d'ailleurs qu'il en ait été ainsi, car rien n'établit à première vue une distinction absolue entre ces deux groupes de corps ;
+
+5° Le fer correspondait à Mars. Cette attribution est la plus ordinaire. Cependant, dans la liste de Celse, le fer répond à la planète Hermès.
+
+Le signe même de la planète Mars se trouve parfois donné à l'étain dans quelques-unes des listes (ms. 2327, fol. 16 verso, l. 12, 3e signe [ce volume, fig. 6, Pl. 4, l. 12] ; fol. 17 recto, l. 12, 3e signe [ce volume, fig. 7, Pl. 5, l. 12]). Ceci rappelle encore la liste de Celse, qui assigne à Mars l'alliage monétaire. Mars et le fer ont d'ailleurs deux signes distincts, quoique communs au métal et à la planète, savoir : une flèche avec sa pointe, et un θ, abréviation du mot θουράς, nom ancien de la planète Mars (ce volume, fig. 3, Pl. 1, l. 5) ; parfois même avec adjonction d'un π abréviation de πυρόεις, l'enflammé, autre nom ou épithète de Mars (ce volume, fig. 7, Pl. 5, l. 17) ;
+
+6° Le cuivre correspondait à Aphrodite (Vénus), ou Cypris, déesse de l'île de Chypre, où l'on trouvait des mines de ce métal ; déesse assimilée elle-même à Hathor, la divinité égyptienne multicolore, dont les dérivés bleus, verts, jaunes et rouges du cuivre rappellent les colorations diverses. Le signe du cuivre est en effet celui de la planète Vénus (ce volume, fig. 3, Pl. 1, l. 6, et fig. 8, Pl. 6, l. 3) ; sauf un double signe qui est une abréviation (ce volume, fig. 8, Pl. 6, l. 4).
+
+Toutefois la liste de Celse attribue le cuivre à Jupiter et l'alliage monétaire à Mars, etc. La confusion entre le fer et le cuivre, ou plutôt l'airain, aussi attribué à la planète Mars, a existé autrefois ; elle est attestée par celle de leurs noms : le mot _æs_ qui exprime l'airain en latin dérive du sanscrit _ayas_ qui signifie le fer.* C'était sans doute, dans une haute antiquité, le nom du métal des armes et des outils, celui du métal dur par excellence.
+
+*) _Origines de l'Alchimie_, p. 225.
+
+7° L'étain correspondait d'abord à la planète Hermès ou Mercure. Quand Jupiter eut changé de métal et fut affecté à l'étain, le signe de la planète primitive de ce métal passa au mercure (ce vol. fig. 10, Pl. 8, l. 6).
+
+La liste de Celse attribue l'étain à Vénus ; ce qui rappelle aussi l'antique confusion du cuivre et du bronze (airain).
+
+8° Mercure. Le mercure, ignoré, ce semble, des anciens Égyptiens, mais connu à partir du temps de la guerre du Péloponnèse et par conséquent à l'époque alexandrine, fut d'abord regardé comme une sorte de contre-argent et représenté par le signe de la lune retourné (ce volume, fig. 3, Pl. 1, l. 19). Il n'en est pas question dans la liste de Celse (2e siècle). Entre le 6e siècle (liste d'Olympiodore le Philosophe, citée plus haut) et le 7e siècle de notre ère (liste de Stéphanus d'Alexandrie, qui sera donnée plus loin), le mercure prit (fig. 10, Pl. 8, l. 6) le signe de la planète Hermès, devenu libre par suite des changements d'affectation relatifs à l'étain. Dans la liste planétaire, il a été également ajouté après coup, à la suite des dérivés de cette planète, spécialement affectée à l'émeraude (voir p. 79).
+
+Ces attributions nouvelles et ces relations astrologico-chimiques sont exprimées dans le passage suivant de Stephanus : « Le démiurge plaça d'abord Saturne, et vis-à-vis le plomb, dans la région la plus élevée et la première ; en second lieu, il plaça Jupiter vis-à-vis de l'étain, dans la seconde région ; il plaça Mars le troisième, vis-à-vis le fer, dans la troisième région ; il plaça le Soleil le quatrième, et vis-à-vis l'or, dans la quatrième région ; il plaça Vénus la cinquième, et vis-à-vis le cuivre, dans la cinquième région ; il plaça Mercure, le sixième, et vis-à-vis le vif-argent, dans la sixième région ; il plaça la lune la septième, et vis-à-vis l'argent, dans la septième et dernière région.* » Dans le manuscrit, au-dessus de chaque planète, ou de chaque métal, se trouve son symbole. Mais, circonstance caractéristique, le symbole de la planète Mercure et celui du métal ne sont pas encore les mêmes, malgré le rapprochement établi entre eux ; le métal étant toujours exprimé par un croissant retourné. Le mercure et l'étain ont donc chacun deux signes différents dans nos listes, suivant les époques.
+
+*) Manuscrit 2327, folio 73 verso.
+
+La copie de la liste planétaire donnée par Albumasar (9e siècle) et traduite en hébreu et en grec dans le manuscrit 2419 (fol. 46 verso) porte aussi la trace de ces changements (texte grec, 1, 8, p. 24, notes). Non seulement le signe de la planète Hermès répond à l'émeraude, le nom de Mercure étant ajouté après coup et tout à fait à la fin, comme il e été dit plus haut ; mais l'auteur indique que les Persans affectent l'étain à la planète Hermès. De même, la planète Jupiter étant suivie de l'étain, l'auteur ajoute également que les Persans ne font pas la même affectation, mais assignent cette planète au métal argenté* ; ce qui se rapporte évidemment à l'asèm ou électrum, dont l'existence était déjà méconnue au 9e siècle. Ce sont là des souvenirs des attributions primitives.
+
+*) Οἱ δὲ Πέρσαι οὐχ οὕτως, ἀλλὰ διάργυρος : Texte grec 1, 8, p. 24 (notes).
+
+Voilà les signes planétaires des métaux fondamentaux, signes qui se retrouvent dans ceux des corps qui en dérivent ; chacun des dérivés étant représenté par un double signe, dont l'un est celui du métal, et l'autre répond au procédé par lequel il a été modifié (division mécanique, calcination, alliage, oxydation, etc.).
+
+Les principes généraux de ces nomenclatures ont donc moins changé qu'on ne serait porté à le croire, l'esprit humain procédant suivant des règles et des systèmes de signes qui demeurent à peu près les mêmes dans la suite des temps. Mais il convient d'observer que les analogies fondées sur la nature des choses, c'est-à-dire sur la composition chimique, telle qu'elle est démontrée par la génération réelle des corps et par leurs métamorphoses réalisées dans la nature ou dans les laboratoires ; ces analogies, dis-je, subsistent et demeurent le fondement de nos notations scientifiques ; tandis que les analogies chimiques d'autrefois entre les planètes et les métaux, fondées sur des idées mystiques sans base expérimentale, sont tombées dans un juste discrédit. Cependant leur connaissance conserve encore de l'intérêt pour l'intelligence des vieux textes et pour l'histoire de la science.
+
+## 3. --- La Sphère de Démocrite et les Médecins Astrologues.
+
 ...
 
 # Texte Grec.
