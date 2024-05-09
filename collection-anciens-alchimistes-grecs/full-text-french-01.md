@@ -1401,6 +1401,153 @@ Le procédé semble le même ; mais il est moins clair chez l'alchimiste et il e
 
 Voici encore un résumé de la recette d'Olympiodore, auteur alchimiste du 5e siècle, laquelle est très claire.
 
+« _Première teinture teignant le cuivre en blanc._ --- L'arsenic est une espèce de soufre qui se volatilise au feu. Prenez de l'arsenic doré, 14 onces ; porphyrisez, faites tremper dans du vinaigre deux ou trois jours et faites sécher à l'air, mêlez avec 5 onces de sel de Cappadoce* ; l'emploi de ce sel a été proposé par Africanus. On place au-dessus du vaisseau qui contient le mélange une fiole ou vase de verre et au-dessus une autre fiole, assujettie de tous côtés, pour que l'arsenic brûlé ne se dissipe pas.* Faites brûler à plusieurs reprises, jusqu'à ce qu'il soit devenu blanc : on obtient ainsi de l'alun blanc et compact.* Ensuite on fait fondre du cuivre avec de la cendre de chêne de Nicée,* puis vous prenez de la fleur de natron,* vous en jetez au fond du creuset 2 ou 3 parties pour ramollir. Ensuite vous projetez la poudre sèche (arsenic) avec une cuiller de fer, 1 once pour 2 onces de cuivre ; puis vous ajoutez dans le creuset un peu d'argent, pour rendre la teinture uniforme ; vous projetez encore un peu de sel. Vous aurez ainsi un très bel asèm. »
+
+*) Sel gemme.
+
+*) Cette description répond à celle de l'aludel.
+
+*) Ce nom s'appliquait donc à l'acide arsénieux.
+
+*) Flux blanc.
+
+*) Fondant.
+
+On voit que les recettes des premiers alchimistes ne sont nullement chimériques, mais pareilles à celles du papyrus et même aux recettes des orfèvres et métallurgistes de nos jours.
+
+Venons aux procédés de _diplosis_ proprement dite, destinés à augmenter le poids de l'asèm, envisagé comme un métal défini, procédés analogues aux _diplosis_ de l'or et de l'argent décrites plus haut et donnant des alliages plus ou moins riches en cuivre (6), (10) et (90).
+
+Dans le dernier procédé, il semble qu'il s'agisse d'accroître le poids de l'asèm et d'en modifier la couleur. On le ramollit par amalgamation, afin d'y pouvoir incorporer de l'or, de l'argent, du soufre, de l'arsenic et du cuivre. Les derniers métaux sont tirés de leurs sulfures, dissous ou désagrégés par le polysulfure de calcium, qui forme l'eau de soufre : le tout, avec le concours des grillages et d'une nouvelle amalgamation finale. C'est là tout à fait un procédé d'alchimiste transmutateur.
+
+Une mention spéciale est due à la substance appelée ὕδωρ θεῖον : ce qui veut dire _eau de soufre_, ou _eau divine_, substance qui a un rôle énorme chez les alchimistes, lesquels jouent continuellement sur le double sens de ce mot. Cette liqueur est désignée dans le lexique alchimique sous le nom de _bile de serpent_ ; dénomination qui est attribuée à Pétésis, seul auteur cité dans ce lexique, lequel figure aussi dans Dioscoride, ainsi que Phiménas ou Pamménès, désigné à la fois dans le papyrus et dans le Pseudo-Démocrite. Ces noms représentent deux personnages réels, deux de ces prophètes ou prêtres chimistes qui ont fondé notre science.
+
+L'eau de soufre apparaît pour la première fois dans le papyrus X (89). La recette est très claire : elle désigne la préparation d'un polysulfure de calcium. Dans la recette consécutive (90), qui est fort compliquée, on met en œuvre la liqueur ci-dessus.
+
+Cette liqueur préparée avec du soufre natif (ὕδωρ θείου ἀθίκτου) se trouve décrite dans divers passages des alchimistes, par exemple dans le petit résumé de Zosime intitulé : γνησία γραφή, _écrit authentique_. Rappelons ici que les descriptions de Zosime se rapportent en divers endroits à des liqueurs chargées d'acide sulfhydrique.*
+
+*) _Sur la même eau divine_ ; on y lit le passage suivant : découvrant l'alambic, tu te boucheras le nez à cause de l'odeur, etc.
+
+Une semblable eau de soufre possède une activité remarquable, surtout vis-à-vis des métaux, activité qui a dû frapper vivement ses inventeurs. Non seulement elle donne des précipités ou produits colorés en noir, en jaune, en rouge, etc., avec les sels et oxydes métalliques : mais les polysulfures alcalins exercent une action dissolvante sur la plupart des sulfures métalliques ; ils colorent directement la surface des métaux de teintes spéciales ; enfin ils peuvent même, par voie sèche à la vérité, dissoudre l'or.
+
+Dans ces procédés de _diplosis_ et dans la plupart des fabrications d'asèm, l'auteur ajoute toujours au mélange une certaine dose d'asèm préexistant, pour faciliter l'opération. Il y a là une idée analogue à celle d'un ferment et qui est exposée d'une façon plus explicite dans deux articles spéciaux (7) et (60).
+
+Quelques mots maintenant sur l'asèm noir, préparation analogue à notre argent oxydé (36). C'est un alliage noirci par des sulfures métalliques. Pline dit de même (_Hist. nat._, 33, 46) :
+
+« L'Egypte colore l'argent, pour voir dans les vases son Anubis ; elle peint l'argent, au lieu de le ciseler. Cette matière a passé de là aux statues triomphales ; et, chose étrange, elle augmente de prix en voilant son éclat. Voici comment on opère. On mêle avec un tiers d'argent deux parties de cuivre de Chypre très fin, nommé coronaire, et autant de soufre vif que d'argent. On combine le tout par fusion, dans un vase de terre luté avec de l'argile ... On noircit aussi avec un jaune d'œuf durci ; mais cette dernière teinte est enlevée par l'emploi de la craie et du vinaigre. »
+
+Ainsi Pline opère avec de l'argent pur, tandis que le papyrus met en œuvre un alliage plombifère.
+
+#### 4\. --- _Recettes du Pseudo-Démocrite._
+
+Pour achever de caractériser ces colorations de métaux en or et en argent, ainsi que tonte l'industrie des orfèvres et métallurgistes égyptiens qui a donné naissance à l'Alchimie, il semble utile de donner les recettes des premiers alchimistes eux-mêmes. J'en ai déjà reproduit quelques-unes (p. 59, 61, 62, 64, 65, 67). Les plus vieilles de ces recettes sont exposées dans le Traité du Pseudo-Démocrite, intitulé _Physica et Mystica_ ; je les ai étudiées et j'ai réussi à en tirer un sens positif, à peu près aussi clair que pour les procédés décris par Pline ou Dioscoride. Or leur comparaison fournit les résultats les plus dignes d'intérêt.
+
+Après un fragment technique sur la teinture en pourpre et un récit d'évocation, ce Traité poursuit par deux Chapitres, l'un sur la Chrysopée ou art de faire de l'or ; l'autre sur la fabrication de l'asèm, assimilée à l'art de faire de l'argent. Ces deux Chapitres sont en réalité des collections de recettes ayant le même caractère pratique, c'est-à-dire relatives tant à la préparation de métaux teints superficiellement, qu'à celle d'or et d'alliages d'argent. Les recettes mêmes sont comparables de tous points à celles du papyrus de Leide, à cela près que chacune d'elles se termine par les refrains mystiques : La nature triomphe de la nature ; la nature jouit de la nature ; la nature domine la nature, etc. Cependant il n'y a ni magie, ni mystère dans le corps même des recettes. Donnons-en le résumé en quelques lignes.
+
+**Art de faire de l'or**. --- _Première recette_. --- On éteint le mercure, en l'alliant avec un autre métal ; ou bien en l'unissant au soufre, ou au sulfure d'arsenic ; ou bien en l'associant avec certaines matières terreuses. On étend cette pâte sur du cuivre pour le blanchir. En ajoutant de l'électrum ou de l'or en poudre, on obtient un métal coloré en or. Dans une variante, on blanchit le cuivre au moyen des composés arsénicaux, ou du cinabre décomposé. Il s'agit donc, en somme, d'un procédé d'argenture apparente du cuivre, précédant une dorure superficielle.
+
+_Deuxième recette_. --- On traite le sulfure d'argent naturel par la litharge de plomb, ou par l'antimoine, de façon à obtenir un alliage ; et l'on colore en jaune par une matière non définie.
+
+_Troisième recette_. --- On grille la pyrite cuivreuse, on la fait digérer avec des solutions de sel marin, et l'on prépare un alliage avec de l'argent ou de l'or.
+
+Le claudianon (alliage de cuivre, d'étain et de plomb avec le zinc) est jauni parle soufre, ou l'arsenic, puis allié à l'argent ou à l'or.
+
+_Quatrième recette_. --- Le cinabre, décomposé par divers traitements, teint l'argent en or, le cuivre en électrum.
+
+_Cinquième recette_. --- On prépare un vernis jaune d'or avec la cadmie, ou la bile de veau, ou la térébenthine, ou l'huile de ricin, ou le jaune d'œuf (v. p. 56, 58, 59).
+
+_Sixième recette_. --- On teint l'argent en or, par une sulfuration superficielle, obtenue au moyen de certaines pyrites, ou de l'antimoine oxydé, joints à l'eau de soufre (polysulfure de calcium) et au soufre même.
+
+_Septième recette_. --- On prépare d'abord un alliage de cuivre et de plomb (molybdochalque) et on le jaunit, de façon à obtenir un métal couleur d'or.
+
+_Huitième recette_. --- On teint le cuivre et l'argent à la surface en jaune, au moyen de la couperose verte altérée. Puis vient une recette d'affinage de l'or, rappelant le cément royal.
+
+_Neuvième recette_. --- Même recette appliquée à la cémentation superficielle, qui donne aux parties extérieures du métal les caractères de l'or.
+
+Vient après une petite déclamation de l'auteur sur les phénomènes chimiques et sur la nature de sa science ; puis trois recettes de vernis, pour teindre en or par digestion avec certains mélanges de substances végétales, safran, chélidoine, carthame, etc., recettes qui rappellent le procédé tiré du _Manuel Roret_, que j'ai exposé plus haut (p. 60). L'auteur dit finalement : « Cette matière de la Chrysopée accomplie par des opérations naturelles est celle de Pamménès, qu'il enseignait aux prêtres en Égypte. »
+
+**Art de faire de l'asèm**. --- Il expose ensuite la fabrication de l'asèm, ou Argyropée (c'est-à-dire l'art de faire de l'argent).
+
+_Première recette_. --- On blanchit le cuivre par les composés volatils de l'arsenic ; cette action opérée par sublimation étant assimilée à celle du mercure.*
+
+*) De là, l'idée des deux mercures, l'un tiré du cinabre, l'autre de l'arsenic, qui se trouve souvent chez les alchimistes.
+
+_Deuxième recette_. --- Le mercure sublimé est éteint avec de l'étain, du soufre et divers autres ingrédients ; et l'on s'en sert pour blanchir les métaux.
+
+_Troisième recette_. --- Analogue à la précédente et appliquée à un alliage de cuivre, d'orichalque et d'étain.
+
+_Quatrième recette_. --- Sulfure d'arsenic et soufre employés pour blanchir et modifier les métaux.
+
+_Cinquième recette_. --- Préparation d'un alliage blanc à base de plomb.
+
+_Sixième recette_. --- C'est un simple vernis superficiel pour donner au cuivre, au plomb, au fer, l'apparence de l'argent ; ce vernis étant fixé par décoction et enduits sans l'action du feu (v. p. 52).
+
+_Septième recette_. --- Elle représente une teinture par amalgamation, et la 8e _recette_ un simple vernis.
+
+On voit que toutes ces recettes du Pseudo-Démocrite et d'Olympiodore, aussi bien que celles du papyrus de Leide, sont réelles, positives, sans mélange de chimère. Plus tard sont venus les philosophes et les commentateurs, étrangers à la pratique et animés d'espérances mystiques, qui ont jeté une grande confusion dans la question. Mais le point de départ est beaucoup plus clair, comme le montrent les textes que je viens analyser.
+
+J'ai cru utile de développer cette étude de l'asèm, parce qu'elle est nouvelle et parce qu'elle jette beaucoup de lumière sur les idées des Égyptiens du 3e siècle de notre ère, relativement à la constitution des métaux. On voit en effet qu'il n'existe pas moins de douze ou treize alliages distincts, désignés sous ce même nom d'asèm, alliages renfermant de l'or, de l'argent, du cuivre, de l'étain, du plomb, du zinc, de l'arsenic. Leur caractéristique commune était de former la transition entre l'or et l'argent, dans la fabrication des objets d'orfèvrerie. Rien n'était plus propice qu'une semblable confusion pour donner des facilités à la fraude : aussi a-t-elle dû être entretenue soigneusement par les opérateurs. Mais, par un retour facile à concevoir, elle a passé des produits traités dans les opérations jusqu'à l'esprit des opérateurs eux-mêmes. Les théories des écoles philosophiques sur la matière première, identique dans tous les corps, mais recevant sa forme actuelle de l'adjonction des qualités fondamentales exprimées par les quatre éléments, ont encouragé et excité cette confusion. C'est ainsi que les ouvriers habitués à composer des alliages simulant l'or et l'argent, parfois avec une perfection telle qu'eux-mêmes s'y trompaient, ont fini par croire à la possibilité de fabriquer effectivement ces métaux de toutes pièces, à l'aide de certaines combinaisons d'alliages, et de certains tours de main, complétés par l'aide des puissances surnaturelles, maitresses souveraines de toutes les transformations.
+
+## 2. --- Relations entre les Métaux et les Planètes.
+
+### Le Nombre Sept.*
+
+*) Cet article a été publié dans mon ouvrage intitulé : _Science et Philosophie_. Toutefois j'ai cru devoir le reproduire ici avec certains développements nouveaux, parce qu'il est indispensable pour l'intelligence des textes et des notations alchimiques.
+
+« Le monde est un animal unique, dont toutes les parties, quelle qu'en soit la distance, sont liées entre elles d'une manière nécessaire. » Cette phrase de Jamblique le Néoplatonicien ne serait pas désavouée par les astronomes et par les physiciens modernes ; car elle exprime l'unité des lois de la nature et la connexion générale de l'Univers. La première perception de cette unité remonte au jour où les hommes reconnurent la régularité fatale des révolutions des astres : ils cherchèrent aussitôt à en étendre les conséquences à tous les phénomènes matériels et même moraux, par une généralisation mystique, qui surprend le philosophe, mais qu'il importe pourtant de connaître, si l'on veut comprendre le développement historique de l'esprit humain. C'est la _chaîne d'or_ qui reliait tous les êtres, dans le langage des auteurs du moyen âge. Ainsi l'influence des astres parut s'étendre à toute chose, à la génération des métaux, des minéraux et des êtres vivants, aussi bien qu'à l'évolution des peuples et des individus. Il est certain que le soleil règle, par le flux de sa lumière et de sa chaleur, les saisons de l'année et le développement de la vie végétale ; il est la source principale des énergies actuelles ou latentes à la surface de la terre. On attribuait autrefois le même rôle, quoique dans des ordres plus limités, aux divers astres, moins puissants que le soleil, mais dont la marche est assujettie à des lois aussi régulières. Tous les documents historiques prouvent que c'est à Babylone et en Chaldée que ces imaginations prirent naissance ; elles ont joué un rôle important dans le développement de l'astronomie, étroitement liée avec l'astrologie dont elle semble sortie. L'alchimie s'y rattache également, au moins par l'assimilation établie entre les métaux et les planètes, assimilation tirée de leur éclat, de leur couleur et de leur nombre même.
+
+Attachons-nous d'abord à ce dernier : c'est le nombre sept, chiffre sacré que l'on retrouve partout, dans les jours de la semaine, dans l'énumération des planètes et des zones célestes, dans celle des métaux, des couleurs, des cordes de la lyre et des tons musicaux, des voyelles de l'alphabet grec, aussi bien que dans le chiffre des étoiles de la grande ourse, des sages de la Grèce, des portes de Thèbes et des chefs qui l'assiègent, d'après Eschyle.
+
+L'origine de ce nombre paraît être astronomique et répondre aux phases de la lune, c'est-à-dire au nombre des jours qui représentent le quart de la révolution de cet astre. Ce n'est pas là une opinion _a priori_. On la trouve en effet signalée dans Aulu-Gelle, qui l'a attribuée à Aristide de Samos.* Dans le papyrus W de Leide, il est aussi question (p. 17) des 28 lumières de la lune.
+
+*) _Noctes Atticæ_, 3, 10. Lunæ curriculum confici integris quatuor septenis diebus ... auctorem que hujus opinionis Aristidem esse Samium.
+
+L'usage de la semaine était ancien en Egypte et en Chaldée, comme en témoignent divers monuments et le récit de la création dans la Genèse. Mais il n'existait pas dans la Grèce classique et il ne devint courant à Rome qu'au temps des Antonins.* C'est seulement à l'époque de Constantin et après le triomphe du Christianisme qu'il fut reconnu comme mesure légale de la vie civile : depuis il est devenu universel chez les peuples européens.
+
+*) _Dion Cassius_, Histoire Romaine, 37, 18.
+
+Le hasard fit que le nombre des astres errants (planètes), visibles à l'œil nu, qui circulent ou semblent circuler dans le ciel autour de la terre s'élève précisément à sept : ce sont le Soleil, la Lune, Mars, Mercure, Jupiter, Vénus et Saturne. A chaque jour de la semaine, un astre fut attribué en Orient : les noms même des jours, tels que nous les prononçons maintenant, continuent à traduire, à notre insu, cette consécration babylonienne.
+
+A côté des sept Dieux des sphères ignées, les Chaldéens invoquaient les sept Dieux du ciel, les sept Dieux de la terre, les sept Dieux malfaisants, etc.
+
+D'après François Lenormant les inscriptions cunéiformes mentionnent les sept pierres noires, adorées dans le principal temple d'Ouroukh en Chaldée, bêtyles personnifiant les sept planètes. C'est au même rapprochement que se rapporte, sans doute, un passage du roman de Philostrate sur la vie d'Apollonius de Tyane (3, 41), dans lequel il est question de sept anneaux, donnés à ce philosophe par le brahmane Iarchas.
+
+La connaissance des divinités planétaires de la semaine ne se répandit dans le monde gréco-romain qu'à partir du 1er siècle de notre ère.* On a trouvé à Pompéi une peinture représentant les sept divinités planétaires. De même divers autels sur les bords du Rhin. Une médaille à l'effigie d'Antonin le Pieux, frappée la 8me année de son règne, représente les bustes des sept Dieux planétaires avec les signes du zodiaque, et au centre le buste de Sérapis.*
+
+*) _Lunæ cursum stellarumque septem imagines_. Petrone, _Satyricon_, 30.
+
+*) De Witte, _Gazette archéologique_, 1877 et 1879.
+
+Une autre coïncidence, aussi fortuite que celle du nombre des planètes avec le quart de la révolution lunaire, celle du nombre des voyelles de l'alphabet grec, nombre égal à sept, a multiplié ces rapprochements mystiques, surtout au temps des gnostiques les pierres gravées de la Bibliothèque nationale de Paris et les papyrus de Leide en fournissent une multitude d'exemples. Ce n'est pas tout : les Grecs, avec leur esprit ingénieux, ne tardèrent pas à imaginer entre les planètes et les phénomènes physiques des relations pseudo-scientifiques, dont quelques-unes, telles que le nombre des tons musicaux et des couleurs se sont conservées. C'est ainsi que l'école de Pythagore établit un rapport géométrique des tons et diapasons musicaux avec le nombre et les distances mêmes des planètes.*
+
+*) Pline, _H. N._, 2, 20. --- Th. H. Martin, _Timée de Platon_, t. 2, p. 38.
+
+Le nombre des couleurs fut pareillement fixé à sept. Cette classification arbitraire a été consacrée par Newton et elle est venue jusqu'aux physiciens de notre temps. Elle remonte à une haute antiquité. Hérodote rapporte (_Clio, 98_) que la ville d'Ecbatane avait sept enceintes, peintes chacune d'une couleur différente : la dernière était dorée ; celle qui la précédait, argentée. C'est, je crois, la plus vieille mention qui établisse la relation du nombre sept avec les couleurs et les métaux. La ville fabuleuse des Atlantes, dans le roman de Platon, est pareillement entourée par des murs concentriques, dont les derniers sont revêtus d'or et d'argent ; mais on n'y retrouve pas le mystique nombre sept.
+
+Entre les métaux et les planètes, le rapprochement résulte, non seulement de leur nombre, mais surtout de leur couleur. Les astres se manifestent à la vue avec des colorations sensiblement distinctes : _suus cuique color est_, dit Pline (_H. N._ 2, 16). La nature diverse de ces couleurs a fortifié le rapprochement des planètes et des métaux. C'est ainsi que l'on conçoit aisément l'assimilation de l'or, le plus éclatant et le roi des métaux, avec la lumière jaune du soleil, le dominateur du Ciel. La plus ancienne indication que l'on possède à cet égard se trouve dans Pindare. La cinquième ode des Isthméennes débute par ces mots : « Mère du Soleil, Thia, connue sous beaucoup de noms, c'est à toi que les hommes doivent la puissance prépondérante de l'or. »
+
+Μᾶτερ Ἁλίου, πολυώνυμε Θεία,  
+σέο γ ʹἕκατι καὶ μεγασθενῆ νόμισαν,  
+χρυσὸν ἄνθρωποι περιώσιον ἄλλων.
+
+Dans Hésiode, Thia est une divinité, mère du soleil et de la lune, c'est-à-dire génératrice des principes de la lumière (_Théogonie_, 371, 374). Un vieux scoliaste commente ces vers en disant : « de Thia et d'Hypérion vient le soleil, et du soleil, l'or. A chaque astre une matière est assignée. Au Soleil, l'or ; à la Lune, l'argent ; à Mars, le fer ; à Saturne, le plomb ; à Jupiter, l'électrum ; à Hermès, l'étain ; à Vénus, le cuivre.* » Cette scolie remonte à l'époque Alexandrine. Elle reposait à l'origine sur des assimilations toutes naturelles.
+
+*) Pindare, édition de Bœckh, t. 2, p. 540, 1819.
+
+En effet, si la couleur jaune et brillante du soleil rappelle celle de l'or
+
+... orbem  
+Per duodena regit mundi sol aureus astra* ;
+
+la blanche et douce lumière de la lune a été de tout temps assimilée à la teinte de l'argent. La lumière rougeâtre de la planète Mars (_igneus_, d'après Pline ; πυρόεις d'après les alchimistes) a rappelé de bonne heure l'éclat du sang et celui du fer, consacrés à la divinité du même nom. C'est ainsi que Didyme, dans son commentaire sur l'Iliade (l. 5), commentaire un peu antérieur à l'ère chrétienne, parle de Mars, appelé l'astre du fer. L'éclat bleuâtre de Vénus, l'étoile du soir et du matin, rappelle pareillement la teinte des sels de cuivre, métal dont le nom est tiré de celui de l'île de Chypre, consacrée à la déesse Cypris, l'un des noms grecs de Vénus. De là le rapprochement fait par la plupart des auteurs. Entre la teinte blanche et sombre du plomb et celle de la planète Saturne, la parenté est plus étroite encore et elle est constamment invoquée depuis l'époque Alexandrine. Les couleurs et les métaux assignés à Mercure l'étincelant (στίλβων ; _radians_, d'après Pline ; apparence due à son voisinage du soleil), et à Jupiter le resplendissant (Φαέθων), ont varié davantage, comme je le dirai tout à l'heure.
+
+*) Virgile, _Géorgiques_, 1, 432.
+
+Toutes ces attributions sont liées étroitement à l'histoire de l'astrologie et de l'alchimie. En effet, dans l'esprit des auteurs de l'époque Alexandrine ce ne sont pas là de simples rapprochements ; mais il s'agit de la génération même des métaux, supposés produits sous l'influence des astres dans le sein de la terre.
+
+Proclus, philosophe néoplatonicien du 5e siècle de notre ère, dans son commentaire sur le _Timée_ de Platon, expose que « l'or naturel et l'argent et chacun des métaux, comme des autres substances, sont engendrés dans la terre sous l'influence des divinités célestes et de leurs effluves. Le Soleil produit l'or ; la Lune, l'argent ; Saturne, le plomb, et Mars, le fer » (p. 14. C).
+
+L'expression définitive de ces doctrines astrologico-chimiques et médicales se trouve dans l'auteur arabe Dimeschqî, cité par Chwolson (_sur les Sabéens_, t. 2, p. 380, 396, 411, 544). D'après cet écrivain, les sept métaux sont en relation avec les sept astres brillants, par leur couleur, leur nature et leurs propriétés : ils concourent à en former la substance. Notre auteur expose que chez les Sabéens, héritiers des anciens Chaldéens, les sept planètes étaient adorées comme divinités ; chacune avait son temple, et, dans le temple, sa statue faite avec le métal qui lui était dédié. Ainsi le Soleil avait une statue d'or ; la Lune, une statue d'argent ; Mars, une statue de fer ; Vénus, une statue de cuivre ; Jupiter, une statue d'étain ; Saturne, une statue de plomb. Quant à la planète Mercure, sa statue était faite avec un assemblage de tous les métaux, et dans le creux on versait une grande quantité de mercure. Ce sont là des contes arabes, qui rappellent les théories alchimiques sur les métaux et sur le mercure, regardé comme leur matière première. Mais ces contes reposent sur de vieilles traditions défigurées, relatives à l'adoration des planètes, à Babylone et en Chaldée, et à leurs relations avec les métaux.
+
 ...
 
 # Texte Grec.
