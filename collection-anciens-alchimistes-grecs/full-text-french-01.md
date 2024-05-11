@@ -2112,6 +2112,286 @@ Mercure --- feuilles d'or --- or calciné ou fondu.
 
 Soudure d'or --- mélange ou alliage d'or.
 
+Terre ou minerai d'argent --- soudure d'or et d'argent --- argent calciné ou fondu --- cuivre de Chypre --- terre de cuivre.
+
+Limaille de cuivre --- feuille de cuivre.
+
+Cuivre calciné --- rouille de cuivre --- orichalque (bronze et alliages analogues).
+
+Cuivre --- étain (quatre signes) --- plomb.
+
+Saturne brillant --- molibdochalque (alliage de cuivre et de plomb) --- terre ou minerai de plomb.
+
+Limaille de plomb --- plomb calciné.
+
+Autre signe de l'étain --- terre ou minerai d'étain --- limaille d'étain ---feuille d'étain --- étain
+
+calciné --- brouillard ou vapeur condensée --- litharge concrétion blanche --- vapeur concrétée jaune.
+
+Litharge --- soufre apyre, n'ayant pas subi l'action du feu.
+
+matières sulfureuses --- soufre
+
+natif --- sélénite --- vin d'Amina.
+
+Huile de raifort --- huile de ricin --- natron (deux signes).
+
+Alun en lamelles --- (alun) arrondi --- pyrite.
+
+Cadmie --- magnésie --- sel --- sel
+
+commun --- sel ammoniac (en abrégé) --- chaux (deux signes), chaux vive.
+
+Vermillon du Pont --- autre signe --- couperose.
+
+Chalcite (minerai pyriteux de cuivre) --- pierres (en abrégé) --- Chélidoine.
+
+Eaux marines --- eaux de pluie --- eau
+
+Jours --- nuits --- heures --- un jour et une nuit.
+
+[Figure 7. --- Planche 5.]()
+
+**Planche 5, feuille 17 du manuscrit, recto.**
+
+Fer --- minerai de fer --- limaille de fer.
+
+Feuille de fer --- rouille de fer.
+
+Chalque (poids et monnaie) --- mer --- fleuve --- noir.
+
+Air et astérite (pierre précieuse) --- feuille de noyer.
+
+Drachme --- poignée (mesure) --- mercure (deux signes qui précèdent le mot).
+
+Terre de Cimole et suc de figuier (sans signe) --- feuilles --- arbouse.
+
+Sandaraque et arsenic --- sandaraque (au-dessus de la ligne) --- chaux --- litharge.
+
+Mine (poids) --- safran --- œuf--- coucher du soleil --- urine.
+
+Soufre --- vinaigre --- scrupule (fraction de l'once) --- levain.
+
+Sélénite --- stimmi (antimoine) de Coptos mélangé.
+
+Soufre apyre commun --- le plomb a quatre signes.
+
+Puis vient une ligne de signes se rapportant au plomb, à Jupiter, deux signes (électrum), à l'étain, trois signes.
+
+Hermès en a trois autres (trois signes) --- l'or est tel --- le cuivre.
+
+Le soufre natif et le soufre brûlé parle feu (fondu ? ) et Saturne, c'est-à-dire le plomb, s'écoulant de lui-même (cette ligne n'a pas de signe spécial).
+
+L'eau de plomb et la vapeur condensée blanche qui se dit mercure.
+
+Saturne brillant --- Jupiter resplendissant --- électrum.
+
+Mars enflammé (deux signes) --- Vénus lumineuse.
+
+Mercure étincelant ; étain (pas de signe) --- claudianon --- cinabre.
+
+Safran --- ochre --- arsenic (autre signe double).
+
+Sandaraque --- séricon (soie ? ou couleur rouge ? ) --- orcanette.
+
+Sandaraque de Laodicée. --- autre signe --- misy --- sory.
+
+Laccha --- céruse --- molibdochalque.
+
+Les blancs --- œil --- les œufs --- coquille d'œuf.
+
+Bleu --- verre --- coupellation --- ayant pris.
+
+Antimoine --- fleuve --- vinaigre --- ferment ou septique ( ? ).
+
+Botarion (vase à digestion) --- fumier --- plante --- vapeur (céleste --- le signe est à la page suivante).
+
+[Figure 8. --- Planche 6.]()
+
+**Planche 6, feuille 17 du manuscrit, verso.**
+
+Ciel --- creuset --- matras de terre cuite --- fleur jaune du cnécos (plante assimilée parfois au carthame) --- cnécos (sans signe).
+
+Sélénite ou talc --- terre --- vapeurs sublimées.
+
+Nombre --- bile --- suc --- or --- cuivre (deux signes).
+
+Plomb --- mercure d'arsenic.
+
+Vinaigre (deux signes) --- (vinaigre) piquant --- eau de pluie --- eau de mer.
+
+Séricon (pigment rouge) --- cuivre (répété deux fois --- deux signes).
+
+Mposiris* : c'est le signe de l'eau précédent, avec un ρ ; ou peut-être le même signe que l'or à la ligne 19 --- le noir de myrrhe --- ferrugineux.
+
+*) Mp est ici pour B.
+
+Autre liste --- stylet --- écris --- mer sacrée.
+
+Ensemble --- encensoir ou parfum --- papier --- sacré --- mystère.
+
+Signe caractéristique --- ange --- démon --- rouille de l'or --- rouille de l'argent --- rouille de cuivre.
+
+Électrum --- corail --- discours (ou rapport) --- vinaigre --- litharge.
+
+Cinabre --- herbes--- fabrication.
+
+Livre (poids) --- mines (poids) --- eau --- un peu --- commun.
+
+Ou bien --- demi --- coquille --- mercure.
+
+Mines (poids) --- setier --- commun --- ensemble (deux signes).
+
+Arsenic (deux signes) --- feuille --- sacré --- apyre.
+
+Composition --- sec --- pulvérisez --- divisez en lamelles.
+
+Vapeurs, fumées --- or --- plante --- limaille.
+
+Autre liste --- raclure --- fer --- camphre --- arèn (mâle, ou arsenic ?, ou Mars ? ? ).
+
+Ensemble --- cyclamen --- porc (ou utérus ? ) --- semences.
+
+Argenté --- sel --- encens --- pulvérisez.
+
+Zizi nazé (gingembre ? ) deux fois répété avec signes --- mastic --- partie supérieure de la tête ? ou rassemblement ?
+
+Cœur --- foie --- estomac --- signe
+
+Larynx --- aloès --- lunule ou sélénite --- safran.
+
+Poivre --- arsenic --- pyrèthre --- Aromate ?
+
+Pulvérisez.
+
+[Figure 9. --- Planche 7.]()
+
+**Planche 7, folio 18 du manuscrit, recto.**
+
+Roquette (eruca) --- fortement --- antidote --- plante.
+
+Natron --- homme --- fils --- comme --- si --- il est (deux signes).
+
+De ou de la part --- sur --- triturez --- couperose.
+
+Cathmie ou cadmie --- grand --- magnésie --- oiseau --- ortie.
+
+Eau --- encens --- fleur --- plomb (signe double).
+
+Cuivre --- écailles ou écorces --- pétasite (plante) --- blanc.
+
+Amas de terre --- frisson ou arcane fleuve --- bain.
+
+Pomme --- sec --- il dit --- nard --- racine.
+
+Yeux --- arrondi --- long --- or
+
+Asemos --- soufre --- terre --- ciel --- temps.
+
+Terrestre --- natron --- dans le --- et --- car --- et car.
+
+Séricon --- fruit de myrte --- lune --- polype (ou fougère).
+
+Scammonée --- marrubium ( ? ) --- agaric.
+
+Coloquinte --- fleur de thym --- amome --- galbanum.
+
+Myrrhe --- Ladanum (gomme aromatique) --- amidon (farine).
+
+Clou de girofle --- musc --- noix muscade.
+
+Ambre --- safran --- acacia --- galanga.
+
+Momion (bitume) --- cardame --- huile --- axonge.
+
+Vin --- décoction --- opoponax.
+
+Lis --- rue des bois --- corne ? --- soie ou pigment rouge.
+
+Arcos, plante* ? --- valériane --- stachys --- véronique.
+
+*) Voir Salmasius, _de Homonymis Hyles Iatricæ_, p. 52, a, C. --- Dioscoride, _Matière médicale_, livre 4, chap. 104 et 105.
+
+Meum (ombellifère) --- coagulum, lait caillé --- une fois --- pêche ( ? ).
+
+Jusquiame --- pavot --- semence de lune.
+
+Camphre --- concombre --- feuille.
+
+Air --- fruit--- tapis, couche --- chaux.
+
+Sucre --- farine --- ricin --- manne (le signe est à la page suivante).
+
+[Figure 10. --- Planche 8.]()
+
+**Planche 8, folio du manuscrit, verso.**
+
+(En haut et hors ligne) pulvérisez --- vapeurs condensées --- océan (ou le bleu ? ). --- le pompholix ? (signe seul) --- santal --- rhubarbe --- aloès.
+
+Miel rosat --- sumac --- avoine.
+
+Grande centaurée --- serpentaire --- pierre --- hématite (deux fois, sans signe).
+
+Myrte --- autre liste (les signes précèdent ici les mots) --- le plomb, de Saturne --- l'étain --- le fer.
+
+L'or --- le cuivre --- le mercure --- l'argent.
+
+(Puis les mots précèdent de nouveau les signes) --- soufre --- natron --- partiel --- vert --- vers.
+
+Mercure --- demi --- eau --- soufre.
+
+Suc (des plantes) --- divisez (ou parties) --- faites fondre --- livre --- pyrite.
+
+Couperose --- livre --- quatrième ou quart (d'once ? ) --- le cyathe (mesure de poids).
+
+Scrupules (poids) --- cuillerée (mesure) --- obole --- chême (mesure de capacité).
+
+Demi-obole --- triblios ou cotyle (mesure de capacité) --- deux oboles --- chénice (mesure) --- trois oboles --- le carat (tiers d'obole) --- quart d'obole --- l'holque (poids) --- la drachme.
+
+Cuillerée (mesure) --- le setier --- le chalque (monnaie) --- la cotyle.
+
+Le statère --- le denier --- les chalques (mesure).
+
+La fève (mesure) --- chalcite ou calamine --- le chaud --- cathmie (pour cadmie).
+
+Le premier jour du mois ( ? ) --- ensemble --- la bile --- le sel.
+
+Le suc (des viandes) --- couperose (misy) --- partie --- calciné.
+
+Céruse --- semence --- litharge --- antimoine.
+
+Ronde --- pyrite --- arsénicaux.
+
+Fer --- sandaraque --- écorce ou écaille --- argent.
+
+Couperose --- cœur --- des longues ( ? ) --- complet.
+
+Emeri --- gingembre ? selon d'autres myrrhe --- vénérable --- autour.
+
+Brasier --- vie heureuse --- polype ou fougère.
+
+Volatil --- oiseaux (œufs d') --- oison --- champignon.
+
+Porcin --- désirable --- sec.
+
+Quelques mots, en finissant, sur la date à laquelle remontent les signes que nous venons de reproduire. Les signes des planètes figurent déjà dans les papyrus astronomiques du Louvre, qui remontent au temps des Antonins ; ainsi que dans ceux de Leide, un peu plus récents. Dans ces derniers, ils sont en outre appliqués à l'or,* à l'argent et à des noms de plantes et de minéraux, comme dans nos manuscrits. Certains autres signes, celui de l'eau par exemple, sont des hiéroglyphes. Le nom d'Osiris (Pl. 6, l. 7) était employé, d'après Stephanus (_Origines de l'Alchimie_, p. 32), pour désigner le plomb et le soufre (mime signe pour ces deux corps, Pl. 5, l. 11) chez les Égyptiens ; dans notre planche 6, ce signe rappelle aussi un signe spécial de l'or, situé plus bas (Pl. 6, l. 19).
+
+*) Le Soleil (et l'or) sont parfois désignés par un cercle avec un point central, surtout chez les astronomes ; l'électrum et Jupiter de même (fig. 7, l. 13). Ce signe représente aussi l'œuf (fig. 4, l. 26), l'œil (fig. 9, l. 9), le ciel, tout objet rond (fig. 9, l. 9), tel qu'une variété d'alun, par exemple ; mais il est généralement affecté au cinabre, ingrédient fondamental de l'œuf philosophique, dans nos manuscrits (fig. 4, l. 13 ; fig. 8, l. 13).
+
+Les signes de matière médicale sont plus modernes que ceux des métaux et des planètes. Je ne les ai pas trouvés, par exemple, dans les pages reproduites par Lambecius (_Comm. de Biblioth. Cœs._, Liv. 2, p. 135 et suivantes) et par Montfaucon (_Paléographie grecque_, p. 202), d'après un manuscrit célèbre de Dioscoride, écrit vers la fin du 5e siècle pour Juliana Anicia, fille d'Olybrius, l'un des derniers empereurs d'Occident.*
+
+*) Lambecius, p. 222 ; Montfaucon, p. 204. Le nom même de Juliana figure dans la liste du ms. de Saint-Marc, _Pl. 3_, avant-dernière ligne, p. 110 du présent Volume.
+
+---
+
+En raison de l'importance de ces signes, pour la lecture des manuscrits alchimiques et médicaux, j'ai cru utile de faire un petit lexique des mots contenus dans les tableaux précédents, avec indication de la planche et de la ligne correspondante : les mots ont été conservés, pour plus de sincérité, tels qu'ils existent dans le Manuscrit, sans en corriger les fautes et sans les ramener soit à leur forme régulière, soit au nominatif.
+
+### Lexique des Notations Alchimiques.
+
+...
+
+## 5. --- Figures d'Appareils et Autres Objects.
+
 ...
 
 # Texte Grec.
