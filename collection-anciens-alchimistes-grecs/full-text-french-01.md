@@ -42,6 +42,8 @@
 
 ## [4. --- Signes et Notations Alchimiques.](#4-----signes-et-notations-alchimiques-1)
 
+## [5. --- Figures d'Appareils et Autres Objects.](#5-----figures-dappareils-et-autres-objects-1)
+
 ...
 
 # [Texte Grec.](#texte-grec-1)
