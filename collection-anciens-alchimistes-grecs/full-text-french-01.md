@@ -1636,6 +1636,480 @@ Les principes généraux de ces nomenclatures ont donc moins changé qu'on ne se
 
 ## 3. --- La Sphère de Démocrite et les Médecins Astrologues.
 
+La sphère de Démocrite, inscrite dans le papyrus V de Leide, représente l'œuvre de l'un de ces Ἰατρομαθηματικοί, ou médecins astrologues dont parlent les anciens. Ils prédisaient l'issue des maladies. Horapollon (1, 38) cite ce genre de calculs, et il existe un traité attribué à Hermès sur ce sujet, dans les _Physici et medici græci minores_ d'Ideler.* La prédiction se faisait d'ordinaire à l'aide d'un cercle ou d'une table numérique ; elle reposait sur un calcul, dans lequel l'âge du malade, la somme des valeurs numériques répondant aux lettres de son nom, la durée de sa maladie, etc., se combinaient avec le jour du mois et les phases de la révolution lunaire. J'ai retrouvé six figures de ce genre dans les manuscrits alchimiques et astrologiques de la Bibliothèque nationale.
+
+*) T. 1, p. 387 et 430. Le traité a été imprimé deux fois sous des titres un peu différents, par une singulière négligence.
+
+Donnons d'abord le texte du papyrus V.
+
+« Sphère de Démocrite, pronostic de vie et de mort. Sache sous quelle lune (dans quel mois) le malade s'est alité et le nom de sa nativité.* Ajoute le calcul de la lune,* et vois combien il y a de fois trente jours, prends le reste et cherche dans la sphère : si le nombre tombe dans la partie supérieure, il vivra ; si c'est dans la partie inférieure, il mourra. »
+
+*) Le nom donné le jour de la naissance, afin de calculer le nombre représenté par les lettres de ce nom.
+
+*) C'est-à-dire, ajoute le nombre du jour du mois où il s'est alité au nombre représenté par le nom du malade.
+
+La sphère est représentée ici par un tableau qui contient les trente premiers nombres (nombre des jours du mois), rangés sur trois colonnes et d'après un certain ordre. La partie supérieure contient trois fois six nombres ou dix-huit ; la partie inférieure en renferme trois fois quatre ou douze.
+
+Le mot sphère répond à la forme circulaire qui devait être donnée au tableau, comme on le voit dans certains manuscrits (voir les figures ci- dessous).
+
+Il existait en Egypte un grand nombre de tableaux analogues. Ainsi dans le manuscrit 2327 de la Bibliothèque nationale, consacré à la collection des alchimistes, on trouve au folio 293 (recto) :
+
+L'instrument d'Hermès trismégiste, renfermant 35 nombres, partagés en trois lignes : « on compte depuis le lever de l'étoile du Chien (Sothi ou Sirius), c'est-à-dire depuis Épiphi, 25 juillet, jusqu'au jour de l'alitement ; on divise le nombre ainsi obtenu par trente-six* et on cherche le reste dans la table. »
+
+*) Ce chiffre rappelle les 36 décans qui comprennent les 360 jours de l'année.
+
+Certains des nombres représentent _la vie_, d'autres _la mort_, d'autres _le danger_ du malade. C'est un principe de calcul différent.
+
+Dans le manuscrit grec 2419 de la Bibliothèque nationale, collection astrologico-magique et alchimique, il y a deux grands tableaux de ce genre, plus voisins de la sphère de Démocrite, et deux petits tableaux. Les deux grands sont circulaires et attribués au vieil astrologue Pétosiris, qui avait déjà autorité du temps d'Aristophane.
+
+L'un d'eux, dédié (fol. 32) par Pétosiris au roi Necepso,* se compose d'un cercle représenté entre deux tableaux verticaux. Les tableaux renferment le comput des jours de la lune ; le cercle principal renferme un autre cercle plus petit, partagé en quatre quadrants. Entre les deux cercles concentriques se trouvent les mots : _grande vie, petite vie, grande mort, petite mort_. En haut et en bas : _vie moyenne, mort moyenne_. Ces mots s'appliquent à la probabilité de la vie ou de la mort du malade. Les nombres de 1 à 29 sont distribués dans les quatre quadrants et sur une colonne verticale moyenne formant diamètre.
+
+*) Ces deux noms sont associés pareillement dans Pline l'Ancien, _Hist. nat._, l. 2, 21 et l. 7, 50.
+
+Voici la photogravure de ce tableau :
+
+[Figure 1. --- Cercle de Pétosiris.]()
+
+L'autre cercle de Pétosiris (fol. 156), dédié aussi au très honoré roi Necepso, porte extérieurement et en haut : _Levant_, au-dessus de la terre, entre les deux mots _grande vie, petite vie_ ; en bas : _Couchant_, au-dessous de la terre, entre les deux mots _grande mort, petite mort_ ; mots précisés par les inscriptions contenues entre les deux cercles concentriques :
+
+En haut : « ceux-ci guérissent de suite --- ceux-ci guérissent en 7 jours. »
+
+En bas : « ceux-ci meurent de suite --- ceux-ci meurent en 7 jours. »
+
+Les diagonales sont terminées par les mots : air, terre, feu, eau.
+
+Entre les deux régions, sur le diamètre horizontal : « limites de la vie et de la mort. »
+
+A l'une des extrémités de ce diamètre : « Nord --- milieu de la terre, »
+
+A l'autre extrémité : « Midi --- milieu de la terre. »
+
+Sur les octants : « Nord, au-dessus de la terre, (région) de Borée. --- Midi, au dessus de la terre, (région) de Borée. --- Nord, au-dessus de la terre, (région) du Notus. --- Midi, au-dessus de la terre, (région) du Notus. »
+
+Les nombres de 1 à 30 sont distribués suivant les huitièmes de circonférence et dans la colonne verticale moyenne.
+
+Voici la photogravure de ce tableau :
+
+[Figure 2. --- Autre Cercle de Pétosiris.]()
+
+Quant aux bases et procédés de calcul, il est inutile de nous y arrêter.
+
+Les personnes qui s'y intéresseraient trouveront sur ce point des renseignements très intéressants dans une notice publiée par M. Paul Tannery : _Sur des fragments d'Onomatomancie arithmétique_ (Notices et Extraits des manuscrits de la Bibliothèque nationale, t. 31, 2e partie, 1885). Il y montre l'origine de la preuve par neuf, d'après un passage fort curieux des _Philosophumena_, où l'on enseigne à prendre le résidu par 9 ou par 7 de la valeur numérique des lettres du nom propre, en diversifiant le procédé de calcul suivant des conventions arbitraires. On calculait ainsi, d'après les nombres des noms propres : soit la vie d'un malade ; soit le succès d'un combat entre deux guerriers ; soit le résultat de diverses autres alternatives relatives au vol, au mariage, aux voyages, à la survivance, etc. Ce mode de divination était attribué à Pythagore.
+
+M. P. Tannery donne, d'après les manuscrits 2009, 2256, 2419 et 2426 de la Bibliothèque nationale, une prétendue lettre de Pythagore à Telaugès (ou à Laïs, ou à Hélias, suivant les manuscrits), avec table divinatoire annexée, table fondée sur de pures combinaisons numériques,* sans données astrologiques proprement dites. Plus loin, il présente le texte et la traduction des deux petits tableaux dont je vais parler.
+
+*) « Calcule le nom du malade et le jour de son alitement. Si le nom du malade l'emporte, il vivra ; si c'est le jour de l'alitement qui l'emporte, il mourra, etc. »
+
+En effet, au folio 33 du manuscrit 2419 se trouvent deux tableaux qui ressemblent beaucoup plus que les précédents à la sphère de Démocrite et à l'instrument d'Hermès. Le premier, sous la rubrique ψῆρος δόκιμος ... (calcul éprouvé ... ), consiste en trois lignes, renfermant chacune douze nombres horizontaux de 1 à 36, par tranches verticales. Vis-à-vis la première ligne : ζωή (vie) ; vis-à-vis la seconde : état moyen (μέσα) ; vis-à-vis la troisième ligne : θάνατος (mort).
+
+Voici le résumé du texte :
+
+« Calcule le jour où le malade s'est alité, où l'enfant est né, où le fugitif a disparu, où l'on s'est embarqué, enfin opère pour tout ce que tu désires ; comptes aussi depuis le 18 mai* jusqu'au jour donné, et du nombre obtenu retranche 36 autant de fois que possible. Prends le reste. Si le nombre se trouve dans la première ligne, le malade vivra, l'événement sera heureux (ἀγαθά), etc. ; dans la troisième ligne, c'est la mort ou le malheur (ἐναντία) ; sur la seconde ligne, la maladie sera longue, etc. (εἰς μακρόν). » --- Ce tableau est une variante de l'instrument d'Hermès contenu dans le manuscrit alchimique.
+
+*) Epoque de l'entrée du soleil dans les Gémeaux et commencement de l'été, au temps de l'Empire romain.
+
+Le second tableau est sous la rubrique : ψῆφος ἑβδοματικὴ ἡμερῶν διαγνωστικὴ ζωῆς καὶ θανάτου ; calcul d'après les jours de la semaine pour diagnostiquer la vie ou la mort. Ce sont deux colonnes verticales, chacune de 15 chiffres, de 1 à 30, l'une ayant pour titre : vie ; l'autre : mort. Le calcul est à peu près le même, sauf variantes,* que celui de la sphère de Démocrite du Papyrus de Leide, traduite plus haut. De plus, il n'y a que deux colonnes dans le manuscrit 2419, tandis qu'il en existe trois dans le Papyrus.
+
+*) Telles que l'addition du nombre 10 et l'omission du 1er jour de la maladie.
+
+Il m'a paru de quelque intérêt de rapprocher ces divers tableaux et cercles de la sphère de Démocrite, contenues dans le Papyrus V, ainsi que l'instrument d'Hermès, transcrit au manuscrit 2327. En effet les noms d'Hermès et de Démocrite, ainsi que l'existence du tableau du Papyrus, établissent l'antiquité de ces pratiques, contemporaines des premiers alchimistes : elles en montrent l'origine orientale et spécialement égyptienne.
+
+On voit en même temps, par une nouvelle preuve, comment le nom de Démocrite, dans l'Egypte hellénisante était devenu celui du chef d'une école d'astrologues et de magiciens ; le tout conformément aux traditions que j'ai exposées et discutées ailleurs.*
+
+*) _Origines de l'Alchimie_, p. 156 et suivantes.
+
+## 4. --- Signes et Notations Alchimiques.
+
+Les alchimistes avaient, comme les chimistes de nos jours, des notations et des nomenclatures particulières : ces notations étaient construites, en partie du moins, d'après des méthodes précises et qui rappellent même, à certains égards, nos conventions actuelles. La difficulté que présente la lecture des vieux textes alchimiques, qui remontent jusqu'au temps de l'Égypte romaine et des Antonins, résulte souvent du peu d'intelligence que nous avons de ces notations.
+
+Elles sont cependant nécessaires à connaître, pour ceux qui veulent faire des recherches sur les doctrines et les pratiques de la Chimie, de la Médecine, de la Pharmacie, de la Métallurgie et de la Minéralogie, dans l'antiquité et au moyen âge. C'est ce qui m'a engagé à les reproduire ici.
+
+Un seul auteur jusqu'à présent a essayé de les figurer : c'est le savant Du Cange, au 17e siècle, dans son Glossaire du grec au moyen âge. Mais cette publication est très incomplète, très négligée et très incorrecte. Il n'était pas facile d'ailleurs de transcrire ces signes avec une précision parfaite, à une époque où les procédés fondés sur la photographie n'étaient pas connus. En outre, le plus vieux et le plus beau manuscrit qui existe, celui de Saint-Marc, à Venise (fin du 10e ou commencement du 11e siècle), ne paraît pas avoir été connu de Du Cange.
+
+Ayant eu occasion depuis quelques années d'étudier d'une manière approfondie les textes manuscrits des alchimistes grecs, pour la composition de mon ouvrage sur « _les Origines de l'Alchimie_, » j'ai fait reproduire en photogravure les symboles des manuscrits, en prenant comme types ceux du manuscrit de Saint-Marc (11e siècle) et ceux du manuscrit n° 2327, le plus complet qui existe à la Bibliothèque nationale de Paris, lequel a été copié en 1478.
+
+Ces symboles, de même que ceux de la Chimie actuelle, sont placés en tête des manuscrits. Ils ont été construits suivant deux règles différentes : l'une applicable aux métaux et à leurs dérivés, l'autre aux substances minérales et aux produits de matière médicale, ainsi qu'à certains mots d'usage courant.
+
+Les symboles des métaux sont purement figuratifs : ce sont les mêmes que ceux des planètes, auxquelles les métaux étaient respectivement dédiés par les Babyloniens ; c'est-à-dire des astres sous l'influence desquels les métaux étaient supposés produits dans le sein de la Terre (voir p. 78). Parmi ces symboles, ceux du Soleil et de la Lune (or et argent) figurent déjà dans les papyrus de Leide, qui remontent au 3e siècle de notre ère (voir p. 25 et 47).
+
+J'ai reproduit sur ce point les opinions de Proclus, du Scoliaste de Pindare (p. 81), ainsi que la vieille liste de Celse (p. 77 et 78), et les attributions d'Olympiodore le Philosophe (p. 81), correspondant à la liste du manuscrit de Saint-Marc, figurée dans la colonne droite de notre planche 1.
+
+Rappelons brièvement les notations et symboles suivants :
+
+1° Or, correspondant au Soleil et représenté par le même signe ;
+
+2° Argent, correspondant à la Lune et représenté par le même signe ;
+
+3° Electrum ou asèm, dont le signe était celui de Jupiter.
+
+Cependant, dans les vieux textes, où l'asèm est confondu avec l'argent, il en affecte quelquefois le signe, à savoir un croissant dont l'ouverture est tournée vers la droite.
+
+L'asèm ou électrum ayant cessé d'être regardé comme un métal particulier, vers le 6e siècle de notre ère (p. 84), le signe de Jupiter fut affecté à l'étain qui, jusque-là, répondait à la planète Mercure (Hermès). Nos listes portent la trace de ce changement (ce vol. fig. 3, Pl. 1, l. 4, à droite ; fig. 7, Pl. 5, l. 16, signes de l'électrum ; fig. 10, Pl. 8, l. 5, signe de l'étain).
+
+On trouve, notamment dans la fig. 7, Pl. 5, l. 12 et 13 : deux signes pour la planète Jupiter et son métal (p. 82) ; trois autres signes pour l'étain, et trois autres signes, semblables aux derniers, pour la planète Hermès.
+
+4° Plomb, correspondant à Saturne ; il a plusieurs signes dans les listes. (fig. 7, Pl. 5, l. 11 et 12). Le nom même du plomb comprenait à l'origine la plupart des métaux ou alliages, blancs et fusibles (p. 83).
+
+5° Fer, correspondant à Mars.
+
+Cependant le fer et l'étain sont représentés par des signes pareils dans notre fig. 6, Pl. 4, l. 12 (troisième signe de l'étain), comparée à la fig. 7, Pl. 5, l. 1, 12 et 13 (Cf. p. 83).
+
+6° Cuivre, correspondant à Vénus et représenté par le même signe (p. 83).
+
+Ce nom s'étendait à diverses variétés de bronze, confondues sous le nom d'airain.
+
+7° Étain, correspondant d'abord à la planète Hermès ou Mercure, plus tard à Jupiter (p. 84).
+
+Le signe de Jupiter semble avoir eu à un certain moment un caractère générique : du moins on le trouve en outre associé à celui de Mercure dans l'une des listes (fig. 7, Pl. 5, l. 5).
+
+8° Mercure, d'abord représenté par le signe de la Lune (argent) retourné, c'est-à-dire par un croissant dont la convexité est tournée vers la droite (fig. 3, Pl. 1, col. de droite, l. 19 ; fig. 6, Pl. 4, l. 5). Nous avons dit (p. 84) comment, entre le 5e siècle (liste d'Olympiodore le Philosophe) et le 7e siècle de notre ère (liste de Stephanus d'Alexandrie), le mercure prit le signe de la planète Hermès, auparavant affecté à l'étain (fig. 10, Pl. 8, l. 6).
+
+Cette affectation nouvelle figure aussi dans la liste planétaire du Traité d'Albumazar (9e siècle), transcrite par le manuscrit 2419 (fol. 46 verso).
+
+Le mercure et l'étain ont donc chacun deux signes différents dans nos listes, suivant leur époque.
+
+L'étain a encore d'autres signes (fig. 7, Pl. 5, l. 13), et ceux du plomb sont multiples, comme il a été dit.
+
+Le fer, métal plus moderne que les autres, a également plusieurs signes (fig. 3, Pl. 1, l. 21 ; fig. 7, Pl. 5, l. 1) dans les listes.
+
+Mais les signes fondamentaux de l'or, de l'argent, du cuivre, ne semblent pas avoir varié, du moins depuis l'époque où nos tableaux ont été établis.
+
+Tels sont les signes des corps simples ou radicaux, comme nous dirions aujourd'hui.
+
+Ces signes sont le point de départ de ceux d'un certain nombre de corps, dérivés de chaque métal et répondant aux divers traitements physiques ou chimiques qui peuvent en changer l'état ou l'apparence.
+
+Par exemple, la limaille, la feuille, le corps calciné ou fondu, d'une part ; et, d'autre part, la soudure, le mélange, les alliages, le minerai, la rouille ou oxyde (Pl. 5, col. de gauche).
+
+Chacun de ces dérivés possède un signe propre, qui se combine avec le symbole du métal : exactement comme on le fait dans la nomenclature chimique de nos jours. Quand le nom du métal reparaît dans celui d'un alliage, d'une dissolution, d'une évaporation, d'un précipité, d'un minéral, ou d'une plante, il est remplacé par son symbole.
+
+Le symbole de la litharge mot à mot, pierre d'argent), renferme, par exemple, celui de l'argent (argyrion) ; la sélénite, celui de ce même argent, c'est-à-dire de la Lune (séléné) ; quoique le nom du métal n'ait été introduit dans ces dénominations et ne leur ait été appliqué que par analogie. La concrétion blanche renferme aussi le signe de l'argent ; la concrétion jaune, celui de l'or (fig. 3, Pl. 1, l. 21 et 22, à droite). Le signe du molybdochalque, alliage de plomb et de cuivre, renferme celui du cuivre (fig. 6, Pl. 4, l. 13). Le signe du plomb se trouve dans celui de l'antimoine (sulfuré), par suite d'une certaine confusion entre les deux métaux (fig. 7, Pl. 5, l. 10). Le symbole d'un métal figure également dans les noms de certains minéraux, dont ce métal peut être extrait : par exemple, le signe du vermillon du Pont renferme celui du mercure (fig. 6, Pl. 4, l. 24, 2e signe). Tous ces rapprochements, les derniers surtout, rappellent nos nomenclatures.
+
+Les listes alchimiques ne contiennent pas seulement les noms des métaux, mais aussi ceux des substances minérales et des produits employés, soit dans l'industrie, soit dans la matière médicale. Les signes correspondants ont été formés toujours suivant une règle pareille à celle qui préside aujourd'hui à la formation des symboles de nos corps simples et de nos radicaux composés ; je veux dire en prenant les premières lettres ou les lettres principales du nom que l'on voulait exprimer : c'est ce qu'on peut voir dans les planches qui suivent.
+
+Les listes inscrites dans ces planches se rapportent à des époques très diverses ; les plus anciennes remontent au commencement du moyen âge. Mais elles ont été remaniées à plusieurs reprises : chaque copiste ajoutant à la suite tous les signes qu'il connaissait, ou qu'il trouvait dans d'autres ouvrages, sans craindre de donner trois ou quatre signes distincts pour le même nom plusieurs fois répété. Il est facile de reconnaître ces additions ou intercalations, soit d'après le changement de sujet, soit d'après le mot ἄλλως (autrement), parfois écrit dans les manuscrits avec une initiale rouge.
+
+L'analyse des signes du manuscrit 2327, comparés avec ceux du manuscrit de Saint-Marc, du manuscrit 2325, du manuscrit 2419 et de quelques autres, permet d'y reconnaître dans la liste fondamentale au moins neuf listes partielles de ce genre, successivement ajoutées.
+
+Développons cette discussion.
+
+1°\. On distingue d'abord une première liste, très courte et très ancienne, laquelle renferme seulement les signes des sept planètes, suivies des noms des sept métaux correspondants, donnés en sept lignes dans le manuscrit de Saint-Marc (Pl. 1, col. de droite, l. 1 à 7). Dans le manuscrit 2327, on retrouve les cinq derniers métaux : plomb, électrum, fer, cuivre, étain, suivant le même ordre et avec les mêmes épithètes (Pl. 5, de la l. 15, dernier mot, à la l. 18), l'or et l'argent ayant été inscrits auparavant et séparément. Seulement les signes des métaux sont à la suite des noms, au lieu de les précéder comme dans le reste des planches. Les cinq mêmes métaux, désignés pareillement, sans l'or, ni l'argent, existent aussi, à la suite d'une liste différente, dans le manuscrit 2325. Cette première liste ne comprend ici que les métaux et les planètes et elle répond à une autre liste beaucoup plus développée, dans laquelle se trouvent, à la suite de chaque signe planétaire, les diverses substances dérivées du métal correspondant ou consacrées à sa planète. Nous y reviendrons tout à l'heure. Observons encore que dans la liste présente de Saint-Marc l'électrum figure avec le signe de Jupiter et l'étain avec le signe d'Hermès. Dans le fragment de liste correspondant du manuscrit 2327 (Pl. 5, l. 15 à 18), Jupiter et l'électrum sont représentés par deux signes distincts ; mais celui de l'électrum dérive en réalité de celui de Zeus, déformé par le copiste, comme le montre sa comparaison avec le manuscrit de Saint-Marc (voir la planche 1, l. 14) ; d'autre part, l'étain a perdu son signe : le copiste transcrivait machinalement des symboles qu'il ne comprenait plus.
+
+2°\. Une seconde liste, plus longue et plus méthodique, comprend les noms des métaux et de leurs dérivés : or, argent, cuivre, fer, plomb, étain, mercure. Elle est très claire et très nette dans le manuscrit de Saint-Marc (Pl. 1, col. de gauche, l. 1 à 26, et col. de droite, l. 10 à 19). Cette liste est plus moderne que la précédente ; car l'électrum n'y figure plus comme un métal spécial, mais comme un dérivé de l'or (chrysélectron, l. 5) avec un symbole complexe, dérivé de ceux de l'or et de l'argent : la nature chimique véritable de la variété d'électrum à base d'or était donc reconnue. Le mercure est inscrit à la suite de l'étain, mais à part et sans dérivés particuliers ; son signe est celui de l'argent retourné, et non celui de la planète Hermès : ce qui répond aussi à une époque intermédiaire, quoique antérieure à celle où Hermès est affecté définitivement au mercure.
+
+Cette liste manque dans le manuscrit 2325, le plus ancien après celui de Saint-Marc ; tandis qu'elle forme le début de celle du manuscrit 2327 (Pl. 4., l. 4 à 17). Seulement l'argent a été intercalé ici au milieu des dérivés de l'or, ainsi que le mercure, placé à côté de l'argent. Le chrysélectron a disparu ; deux des dérivés de l'argent (feuille et limaille) sont omis à la fin des dérivés du cuivre. Après ὠρίχαλκος (Pl. 4, l. 11) vient le mot χαλκὸς, puis κασσίτηρος (l. 12) ; à la place du fer et de ses dérivés, inscrits dans la liste du manuscrit de Saint-Marc. Ceux-ci sont rejetés plus loin dans le manuscrit 2327 (Pl. 5, l. 1 et 2), avec des noms identiques, et des signes différents. Mais le manuscrit 2327 reprend par le plomb (Pl. 5, l. 11), dont le nom est suivi par les mots intercalés : κρόνος φαίνων ; puis viennent les dérivés du plomb, les mêmes dans les deux manuscrits (sauf une inversion). L'article étain, coupé en deux par le plomb intercalé, reprend, dans le manuscrit 2327 (Pl. 5, l. 15), par le second des signes de ce métal, donné dans le manuscrit de Saint-Marc (Pl. 1, col. de droite, l. 14) et précédé de même du mot ἄλλως (autrement). Bref, toute cette liste est évidemment la même dans les deux manuscrits ; mais elle est régulière dans le manuscrit de Saint-Marc ; elle est transcrite, au contraire, avec une certaine confusion dans le manuscrit 2327.
+
+3°\. Les noms et les signes des métaux sont suivis dans le manuscrit de Saint-Marc (Pl. 1, col. de droite, l. 20-27, et Pl. 2, col. droite d'abord ; puis col. de gauche, l. 1 à 2), par des mois tels que νεφέλη, etc., se rapportant aux dérivés du mercure (Pl. 1, l. 20 à 22), à la litharge, au soufre, à la sélénite, à la couperose, etc., jusqu'aux mots : un jour et une nuit, puis πέταλα (Pl. 2, col. de gauche, l. 11).
+
+Tout ceci manque dans le manuscrit 2325, aussi bien que la seconde liste.
+
+Dans le manuscrit 2327, au contraire, la même suite de mots forme la fin de la planche 4, lignes 17 à 27, jusqu'à πέταλα exclusivement, et sauf des variantes de dialecte et autres, peu importantes.
+
+Cette troisième liste peut être regardée comme la suite de la seconde, puisqu'elle coexiste dans les mêmes manuscrits. Mais elle n'a pas subi les inversions et les confusions qui distinguent la seconde dans le manuscrit 2327. Le manuscrit 2275, dans ces premières parties, est exactement conforme au manuscrit 2327* ; identité d'autant plus remarquable, qu'il n'en reproduit pas les figures, mais celles du manuscrit 2325. Il y a donc eu une source commune, antérieure aux trois manuscrits.
+
+*) Le manuscrit 2275 est antérieur de 13 ans au manuscrit 2327 ; c'est presque toujours une copie directe de 2325, faite avant la mutilation de ce dernier.
+
+4°\. Le manuscrit 2325 débute par une liste toute différente des trois précédentes ; laquelle manque dans le manuscrit de Saint-Marc, mais se retrouve dans le manuscrit 2327. Dans ce dernier (Pl. 5, l. 3), le fer et ses dérivés, transposés comme il a été dit plus haut, sont suivis du mot χαλκίον, qui manque ailleurs. Puis vient le mot θάλασσα, début de ce qui nous reste de la liste mutilée du manuscrit 2325, jusqu'à λευκὴ αἰθάλη ἡ ὑδράργυρος λέγεται (Pl. 5, l. 15). Tout ceci est commun aux manuscrits 2325, 2275 et 2327, mais manque dans le manuscrit de Saint-Marc.
+
+Ensuite on trouve dans les trois premiers les noms des cinq métaux, autres que l'or et l'argent (plomb, électrum, fer, cuivre, étain), conformes par les épithètes à la première liste de Saint-Marc ; on a déjà signalé ce rapprochement. La similitude des manuscrits 2325 et 2327 è cet égard atteste une certaine communauté d'origine.
+
+5°\. Les quatre manuscrits de Saint-Marc, 2325, 2275 et 2327, contiennent ensuite une même liste, faisant suite à la troisième dans le premier manuscrit. Elle débute par κλαυδιανόν (Pl. 2, col. gauche, l. 12) ; (Pl. 5, l. 18) et se poursuit sans variante importante, jusqu'à χυλὸς (Pl. 3, l. 16, et Pl. 6, l. 3). Cette liste renferme à la fois des mots de Chimie et de Minéralogie, des mots de Botanique et de matière médicale, et certaines abréviations d'usage plus commun. Les listes du manuscrit de Saint-Marc sont ainsi épuisées. On voit qu'elles se retrouvent entièrement dans le manuscrit 2327 ; mais non dans le manuscrit 2325.
+
+6°\. A la suite de la précédente, on lit dans les manuscrits 2325, 2275 et 2327 une petite liste, en cinq lignes (Pl. 6, l. 3 à 7), contenant les noms des métaux et divers autres, depuis χρυσός jusqu'à σιδήρεως. Le cuivre y figure deux fois, l'une avec son signe ordinaire, l'autre avec deux signes, dont l'un n'est autre que la première lettre du mot χαλκός. Ceci accuserait une origine plus moderne. Mais, par contre, le mot μπόσιρις semble répondre à une source égyptienne. On y voit encore ici le mystérieux mercure d'arsenic (l. 4) lequel était probablement notre arsenic métallique, corps sublimable, susceptible d'être extrait par l'action de divers agents réducteurs du sulfure d'arsenic, et aussi capable d'être fixé par sublimation sur le cuivre qu'il blanchit : le tout à la façon du mercure ordinaire, extrait de son sulfure.
+
+7°\. Cette liste est suivie par une autre, existant dans les manuscrits 2325, 2275 et 2327, et qui débute par le mot caractéristique ἄλλο (Pl. 6, l. 8 à 20). C'est une série d'abréviations très diverses, et plus modernes, comme en témoigne le mot νερόν, qui signifie _eau_ dans le grec actuel. Les symboles de l'ange et du démon semblent indiquer que cette liste a été tirée de quelque livre magique. L'or y est désigné par un signe nouveau (l. 19).
+
+Là s'arrêtent les listes des manuscrits 2325 et 2275.
+
+8°\. Le manuscrit 2327 renferme ensuite une huitième liste, comprenant des matières médicales et débutant par le mot ἄλλως (Pl. 6, l. 20 à 25).
+
+Elle se termine au mot ἀλόη. --- Ce qui définit cette liste comme distincte c'est son existence séparée dans le manuscrit 2419 de la Bibliothèque nationale (fol. 274, verso 6). Là les signes seuls y sont dessinés, sans interprétation, à l'exception des mots καρδία (cœur) et ἧπαρ (foie).
+
+Cependant la suit du manuscrit 2327 (Pl. 6, l. 26 ; Pl. 7, Pl. 8, l. 1 à 4) n'accuse aucune transition brusque ; sauf peut-être au mot pompholyx (Pl. 8, l. 1).
+
+Cette liste paraît d'ailleurs formée par diverses juxtapositions, comme le montre la répétition de certains mots (camphre, aloès).
+
+Il existait en effet bien des listes de ce genre au moyen âge : je citerai, par exemple, une liste de signes et abréviations, transcrite dans le manuscrit 2419, (fol. 154,) tout à fait distincte par l'ordre des mots qu'elle renferme ; quoique ceux-ci soient en somme les mêmes et répondent pour la plupart aux mêmes symboles ou abréviations : par exemple l'or, l'argent, le fer, le cuivre, l'étain, le plomb, le ciel, etc. Il y a cependant quelques signes différents, tels que ceux de l'ange, du démon, de la couperose. La céruse notamment est exprimée au moyen d'un μ barré par une ligne verticale, etc. Mais revenons au manuscrit 2327.
+
+9°\. Le mot  ἄλλως (Pl. 8, l. 4) marque dans ce manuscrit le début d'une dernière liste, probablement composite comme la précédente. Elle débute par les noms des métaux. Elle est plus moderne, car l'électrum a disparu et l'étain s'y trouve avec le signe de la planète Jupiter, au lieu du signe de la planète Hermès, qu'il possédait dans les premières listes. Au contraire le mercure a pris le symbole de la planète Hermès.
+
+En résumé, ces listes multiples semblent avoir été tirées de manuscrits distincts par l'époque et la composition, dans lesquels elles figuraient d'abord ; elles ont été mises bout à bout en tête de la collection du manuscrit 2327.
+
+Celle du manuscrit de Saint-Marc est la plus ancienne et a passé entièrement dans le manuscrit 2327 : ce qui est fort important pour les questions de filiation ; mais elle a subi des intercalations et transpositions, qui témoignent de remaniements considérables.
+
+Je donnerai maintenant le résumé des comparaisons entre les signes multiples d'un même corps, et spécialement d'un métal, telles qu'elles résult en de l'examen de ces tableaux.
+
+Les métaux sont représentés surtout par les signes des planètes correspondantes. Cependant, à côté des signes planétaires des métaux, on en trouve d'autres, qui sont de simples abréviations, réduites parfois à l'initiale du nom de la planète ou du métal ; tels que :
+
+Or (Pl. 6, l. 19) ;
+
+Cuivre (Pl. 6, l. 3 et 6) ;
+
+Fer (Pl. 5, l. 1 et 17) ;
+
+Mercure (Pl. 6, l. 15) ;
+
+Étain (Pl. 5, l. 12 et 16).
+
+De même le nom de l'eau est tantôt figuré par son hiéroglyphe (Pl. 2, l. 5 ; Pl. 4, l. 26 ; Pl. 5, l. 3) ; tantôt par l'abréviation du mot grec correspondant (Pl. 6, l. 5). De même le mot fleuve (Pl. 3, l. 1 ; Pl. 5, l. 25 ; comparées avec Pl. 7, l. 7).
+
+Le nom de la litharge a aussi deux signes : l'un, dérivé de l'argent, l'autre, simple abréviation (Pl. 4, l. 19 et Pl. 8, l. 20).
+
+Le signe générique des rouilles (oxydes) métalliques offre deux variantes (Pl. 1, l. 19 et 25 ; Pl. 6, l. 11), etc.
+
+Signalons maintenant les répétitions.
+
+Tous les noms des métaux existent dans les listes de Saint-Marc, deux fois ; une fois séparément, une fois dans la liste planétaire. En outre, le nom de l'or se retrouve cinq fois dans la seconde liste, celle du manuscrit 2327 (Pl. 4, l. 4 ; Pl. 6, l. 3 et 19 ; Pl. 7, l. 9 ; Pl. 8, l. 5). Son signe est toujours celui du Soleil, à l'exception d'un signe figuré dans la planche 6, l. 19, qui est double et semble une abréviation.
+
+Le nom de l'argent se lit trois fois dans la seconde liste (Pl. 4, l. 4 ; Pl. 8, l. 6 et 22). Son signe n'a pas de variante, si ce n'est que le croissant est placé horizontalement à la dernière place.
+
+Le nom du cuivre est écrit six fois dans la deuxième liste (Pl. 4, l. 9 ; Pl. 6, l. 3, 6, 11 ; Pl. 7, l. 6 ; Pl. 8, l. 6). Son signe offre six variantes, dont l'une répond à l'un des signes du fer (Pl. 5, l. 12).
+
+Le nom du fer est transcrit quatre fois dans la deuxième liste (Pl. 5, l. 1 et 17 ; Pl. 6, l. 20 ; Pl. 8, l. 5 et 22). Son, signe offre quatre variantes principales. En effet, le nom du fer est représenté par quatre signes principaux. L'un d'eux une flèche avec sa pointe, semble une abréviation du signe planétaire. Un autre signe, un θ, est nous l'avons vu l'initiale du mot θουράς, nom ancien de la planète Mars ; parfois avec adjonction d'un π, abréviation du πυρόεις, l'enflammé, autre nom ou épithète de Mars (Pl. 5, l. 17).
+
+Le nom du plomb figure six fois dans la deuxième liste (Pl. 4, l. 11 ; Pl. 5, l. 11 et 16 ; Pl. 6, l. 4 ; Pl. 7, l. 6 ; Pl. 8, l. 5) ; son signe offre six variantes. Aucun métal n'a plus de signes que le plomb, matière première de la transmutation chez les Égyptiens. Dans l'une des planches (Pl. 7, l. 6), le signe ordinaire est doublé par l'adjonction du signe du cuivre. Un autre signe du plomb (Pl. 6, l. 4) se retrouve à peine modifié, comme signe de cuivre (Pl. 6, l. 6), et même comme signe adjoint au mercure (Pl. 6, l. 15). Ce signe rappelle encore l'un de ceux du soufre (Pl. 4, l. 18), désigné comme le plomb par le nom d'Osiris, chez les Egyptiens.
+
+Le nom de l'étain se voit quatre fois dans la deuxième liste (Pl. 4, l. 12 ; Pl. 5, l. 13 et 18 ; Pl. 8, l. 5). Son signe offre cinq variantes. Dans l'une d'elles, on retrouve l'un des signes du cuivre (Pl. 5, l. 13) ; dans une autre, l'un des signes du fer (Pl. 5, l. 13).
+
+Le nom du métal mercure est signalé cinq fois dans la deuxième liste (Pl. 4, l. 5 : Pl. 5, l. 5 ; Pl. 6, l. 15 ; Pl. 8, l. 6 et 8). Son signe offre trois variantes, savoir : le signe de l'argent retourné ; le signe de la planète Hermès, plus moderne (Pl. 8, l. 6) ; enfin le double signe de l'eau-argent, avec le croissant ordinaire. (Pl. 6, l. 15). On trouve encore le nom du mercure associé à celui de l'arsenic (Pl. 6, l. 4), et représenté par un double signe, dont la première partie est le signe du mélange ou alliage d'or ; la seconde, le signe de l'arsenic retourné. Il y là une idée se rattachant à la transmutation des métaux et à la fabrication de l'or par l'intermédiaire du mercure, réputé former l'essence des métaux, et de l'arsenic, regardé comme l'un de leurs principes colorants (_Origines de l'Alchimie_, p. 238 et 279).
+
+Le nom de l'arsenic (sulfures arsénicaux) est tracé quatre fois dans la deuxième liste (Pl. 5, l. 19 ; Pl. 6, l. 17 et 26 ; Pl. 8, l. 21), avec trois ou quatre signes différents. Le signe de la planche 6, ligne 26, est le plus moderne ; car il est employé couramment dans le manuscrit 2419. Le nom même de l'arsenic est associé deux fois (Pl. 5, l. 7 et 9) à celui de la sandaraque (sulfure analogue), laquelle est confondue parfois sous le même signe (Pl. 5, l. 7). Ailleurs la sandaraque est exprimée par le signe du soufre (Pl. 8, l. 22) ce qui montre que les alchimistes en avaient bien saisi les analogies complexes.
+
+Le signe de l'antimoine (sulfure d'antimoine) existe deux fois dans la deuxième liste (Pl. 5, l. 10 et 25) ; la première fois, il est associé à celui du plomb, probablement parce que l'on avait aperçu l'analogie des deux métaux.
+
+Les mots : _matras, sel, vapeurs sublimées_, etc., donnent lieu à des remarques analogues, mais sur lesquelles il paraît superflu de s'étendre.
+
+Nous allons reproduire maintenant ces listes, d'après des photogravures prises sur les manuscrits. L'échelle exacte a été conservée pour le manuscrit 2327 : mais elle a été un peu réduite pour le manuscrit de Saint-Marc.
+
+J'ai donné la traduction, aussi exacte que j'ai pu dans une matière si obscure, de tous les mots qui figurent dans ces listes.
+
+Je me suis aidé à cet effet des œuvres de Dioscoride (édition Sprengel) ; de celles de Vitruve, de Pline (édition Sillig) et des Commentaires de Saumaise (_Plinianæ Exercitationes_, 1689). Je laisse à d'autres le soin des remarques grammaticales sur ces textes, me bornant à faire observer que l'iotacisme est bien plus marqué dans le second manuscrit que dans le plus ancien.
+
+Pour le manuscrit de Saint-Marc, dont l'écriture est très différente de celle du grec moderne, j'ai cru utile de fournir en même temps le texte grec en lettres actuelles : ce qui m'a paru superflu pour le manuscrit 2327.
+
+Voici ces textes :
+
+Les planches 1, 2 et 3 reproduisent les folios 6 et 7 du manuscrit de St-Marc, à Venise. Les signes sont tracés à l'encre rouge dans le manuscrit.
+
+Plusieurs signes ont été ajoutés à des époques postérieures à la première transcription du manuscrit ; les uns au 14e siècle, les autres au 15e. Ils se distinguent par la forme des caractères et la couleur de l'encre. Je les noterai en passant.
+
+Les planches 4, 5, 6, 7 et 8 sont la reproduction identique des fol. 16, 17 et 18 du manuscrit 2327 de la Bibliothèque nationale de Paris.
+
+La traduction répond ligne pour ligne, au texte placé vis-à-vis.
+
+[Figure 3. --- Planche 1.]()
+
+### Signes Alchimiques.
+
+**Planche 1, première colonne, à gauche.**
+
+_Photogravure d'après le manuscrit de Saint-Marc, fol. 6._
+
+Σημεῖα τῆς ἐπιστήμης τῶν ἐγκειμένων ἐν τοῖς τεχνικοῖς συγγράμμασι τῶν φιλοσόφων, καὶ μάλιστα τῆς μυστικῆς παρ᾽ αὐτοῖς λεγομένης φιλοσοφίας.
+
+« Signes de la Science, qui se trouvent dans les écrits techniques des philosophes : ce sont surtout les signes de ce que ceux-ci appellent la Philosophie mystique. »
+
+|                    |                                                                            |
+|--------------------|----------------------------------------------------------------------------|
+| Χρυσός             | Or.                                                                        |
+| Χρυσοῦ ῥίνημα      | Limaille d'or.                                                             |
+| Χρυσοῦ πέταλα      | Feuilles d'or --- avec second signe à droite, d'une écriture plus récente. |
+| Χρυσὸς κεκαυμένος  | Or calciné (fondu).                                                        |
+| Χρυσήλεκτρον       | Electrum --- avec 2e signe plus récent.                                    |
+| Χρυσόκολλα         | Soudure d'or.                                                              |
+| Μάλαγμα χρυσοῦ     | Mélange d'or.                                                              |
+| Ἄργυρος            | Argent.                                                                    |
+| Ἀργύρου γῆ         | Terre d'argent.                                                            |
+| Ἀργύρου ῥίνημα     | Limaille d'argent.                                                         |
+| Ἀργύρου πέταλα     | Feuilles d'argent.                                                         |
+| Ἀργυροχρυσόκολλα   | Soudure d'or et d'argent ---avec second signe récent.                      |
+| Ἄργυρος κεκαυμένος | Argent calciné (fondu).                                                    |
+| Χαλκὸς κύπριος     | Cuivre de Chypre --- avec second signe d'une ancienne écriture.            |
+| Χαλκοῦ γῆ          | Terre de cuivre (minerai).                                                 |
+| Χαλκοῦ ῥίνημα      | Limaille de cuivre.                                                        |
+| Χαλκοῦ πέταλα      | Feuilles de cuivre.                                                        |
+| Χαλκὸς κεκαυμένος  | Cuivre calciné (oxydé).                                                    |
+| Ἰὸς χαλκοῦ         | Rouille de cuivre.                                                         |
+| Ὀρείχαλκος         | Orichalque.                                                                |
+| Σίδηρος            | Fer. --- Ἄλλως, autre signe.                                               |
+| Σιδήρου γῆ         | Terre de fer (minerai).                                                    |
+| Σιδήρου ῥίνημα     | Limaille de fer.                                                           |
+| Σιδήρου πέταλον    | Feuille de fer.                                                            |
+| Σιδήρου ἰός        | Rouille de fer.                                                            |
+| Μόλιβος (_sic_)    | Plomb.                                                                     |
+
+**Planche 1, deuxième colonne, à droite.**
+
+|                          |                                   |
+|--------------------------|-----------------------------------|
+| Ἥλιος χρυσός             | Soleil, or.                       |
+| Σελήνη ἄργυρος           | Lune, argent.                     |
+| Κρόνος φαίνων μόλιβος    | Saturne brillant, plomb.          |
+| Ζεὺς φαέθων ἤλεκτρος     | Jupiter resplendissant, électrum. |
+| Ἄρης πυρόεις σίδηρος     | Mars enflammé, fer.               |
+| Ἀφροδίτη φωσφόρος χαλκός | Vénus lumineuse, cuivre.          |
+| Ἑρμῆς στίλβων κασσίτηρος | Mercure brillant, étain.          |
+
+La suite forme le commencement du verso de la feuille 6 dans le manuscrit ; elle a été ajoutée par le graveur sur la planche 1, après les noms des planètes, lesquels sont effectivement à droite du recto de la feuille 6 dans le manuscrit.
+
+|                       |                                                 |
+|-----------------------|-------------------------------------------------|
+| Μολίβδου γῆ           | Terre de plomb (minerai).                       |
+| Μολιβδόχαλκος         | Molybdochalque.                                 |
+| Μολίβδου ῥίνημα       | Limaille de plomb.                              |
+| Μόλιβδος κεκαυμένος   | Plomb calciné.                                  |
+| Κασσίτηρος (_sic_)    | Étain. --- Ἄλλο, autre signe.                   |
+| Κασσιτήρου γῆ         | Terre d'étain (minerai).                        |
+| Κασσιτήρου ῥίνημα     | Limaille d'étain.                               |
+| Κασσιτήρου πέταλα     | Feuilles d'étain.                               |
+| Κασσίτηρος κεκαυμένος | Étain calciné.                                  |
+| Ὑδράργυρος            | Mercure.                                        |
+| Νεφέλη                | Brouillard (vapeur condensée).                  |
+| Λευκὴν παγεῖσαν       | Concrétion (coagulum) blanche.                  |
+| Ξανθὴν παγεῖσαν       | Concrétion jaune.                               |
+| Λιθάργυρος            | Litharge.                                       |
+| Θεῖον ἄπυρον          | Soufre apyre, n'ayant pas subi l'action du feu. |
+| Θεῖον, θεῖα           | Soufre. --- Matières sulfureuses.               |
+| Θεῖον ἄθικτον         | Soufre natif.                                   |
+| Ἀφροσέληνον           | Sélénite.                                       |
+
+Le verso de la feuille 6 du manuscrit n'étant pas inséré en entier dans ce qui précède, on a ajouté et intercalé les signes qui suivent avec leur interprétation, dans la colonne de droite, sur la planche 2.
+
+[Figure 4. --- Planche 2.]()
+
+**Première colonne, à gauche.**
+
+La colonne gauche de la planche 2 renferme les signes du folio 7 recto du manuscrit, et la colonne droite la fin du folio 6 verso.
+
+|                 |                                                                                   |
+|-----------------|-----------------------------------------------------------------------------------|
+| Χάλκανθος       | Couperose.                                                                        |
+| Χαλκίτης        | Minerai pyriteux de cuivre.                                                       |
+| Λίθοι           | Pierres.                                                                          |
+| Ἐλύδριον        | Chélidoine.                                                                       |
+| Θαλάσσια ὕδατα  | Eaux marines.                                                                     |
+| Ὄμβρια          | Eaux pluviales.                                                                   |
+| Ὕδωρ            | Eau.                                                                              |
+| Ἡμέραι          | Jours --- 2e s. anc.                                                              |
+| Νύκτες          | Nuits. --- Ὧραι. heures.                                                          |
+| Ἡμερονυχθήμερα  | 1 jour et 1 nuit.                                                                 |
+| Πέταλα          | Feuilles.                                                                         |
+| Κλαυδιανόν      | Claudianon (alliage) --- 2e signe plus moderne.                                   |
+| Κιννάβαρις      | Cinabre.                                                                          |
+| Κρόκος          | Safran.                                                                           |
+| Ὤχρα            | Ochré.                                                                            |
+| Ἀρσένικον       | Arsenic --- autre signe ancien.                                                   |
+| Σίρικον (_sic_) | Couleur rouge particulière --- 2e signe plus moderne.                             |
+| Ἄγχουσα         | Orcanette. --- 2e signe plus mod. --- autre signe ancien : λαδικίνη, de Laodicée. |
+| Σανδαράχη       | Sandaraque (autre signe anc.).                                                    |
+| Μίσυ            | Misy (couperose jaune).                                                           |
+| Σῶρι (_sic_)    | Sori (corps analogue) --- ξανθόν, jaune ; signe d'écriture plus moderne.          |
+| Λαχάς           | Laccha, sorte d'orcanette.                                                        |
+| Ψιμύθιον        | Céruse.                                                                           |
+| Λευκά           | Les blancs. --- Ξανθόν, jaune ; signe ancien.                                     |
+| Ὄφθαλμος        | Œil.                                                                              |
+| Ὠά              | Les œufs.                                                                         |
+| Ὄστρακον ὠῶν    | Coquille des œufs --- répété avec d'autres signes plus moderne.                   |
+| Κύανον          | Bleu.                                                                             |
+| Ὕελος           | Verre --- autre signe plus mod.                                                   |
+| Ὠβρύζωσις       | Épreuve des métaux (coupellation) --- autre signe plus mod.                       |
+| Λαβών           | Ayant pris.                                                                       |
+| Στήμη (_sic_)   | Antimoine.                                                                        |
+
+**Deuxième colonne, à droite.**
+
+|                       |                                       |
+|-----------------------|---------------------------------------|
+| Οἶνος ἀμηνέος         | Vin doux.                             |
+| Ῥαφάνινον ἔλαιον      | Huile de raifort.                     |
+| Κίκινον ἔλαιον        | Huile de ricin.                       |
+| Νίτρον                | Natron.                               |
+| Στυπτηρία σχιστή      | Alun en lamelles.                     |
+| Στυπτηρία στρογγύλη   | Allun arrondi.                        |
+| Πυρίτης               | Pyrite.                               |
+| Καδμία                | Cadmie.                               |
+| Μαγνησία              | Magnésie.                             |
+| Ἅλας                  | Sel.                                  |
+| Ἅλας κοινόν           | Sel commun.                           |
+| --- ἀμονιακόν (_sic_) | Sel ammoniac.                         |
+| Τίτανος               | Chaux, plâtre.                        |
+| Ἄσβεστος              | Chaux vive --- 2e signe ancien.       |
+| Σίνωπις ποντική       | Rubrique du Pont --- 2e signe ancien. |
+
+[Figure 5. --- Planche 3.]()
+
+**Folio 7 verso. --- Planche 3.**
+
+|                   |                                                                                                                                         |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Ποταμός           | Fleuve. --- ξανθόν, jaune --- signe plus mod.                                                                                           |
+| Ὄξος              | Vinaigre.                                                                                                                               |
+| Σῆψον             | Faites fermenter.                                                                                                                       |
+| Βοτάριον          | Botarion (vase de digestion ? )                                                                                                         |
+| Βόλβιτα           | Fumier, fiente --- signe plus moderne.                                                                                                  |
+| Βοτάνη            | Plante.                                                                                                                                 |
+| Αἰθάλη οὐρανοῦ    | Vapeur céleste.                                                                                                                         |
+| Χώνη              | Creuset.                                                                                                                                |
+| Λωπὰς κύθρα       | Matras de terre cuite.                                                                                                                  |
+| Κνίκανθον (_sic_) | Fleur de cnécos ou carthame.                                                                                                            |
+| Κώμαρις           | Sélénite ou talc.                                                                                                                       |
+| Γῆ                | Terre.                                                                                                                                  |
+| Αἰθάλαι           | Vapeurs sublimées, fumées.                                                                                                              |
+| Ἀριθμός           | Nombre --- répété avec signe plus moderne. λίτρα, livre (poids), signes plus mod. ἄσβεστος, chaux vive, signes plus mod. τρίβε, broyez. |
+| Χωλή              | Bile.                                                                                                                                   |
+| Χυλός             | Suc.                                                                                                                                    |
+| Σύνθεμα ὅλον      | Formule complète.                                                                                                                       |
+
+Ὀνόματα τῶν φιλοσόφων τῆς θείας ἐπιστήμης καὶ τέχνης.
+
+_Noms des Philosophes de la Science et de l'Art divins._
+
+|               |              |
+|---------------|--------------|
+| Μωσῆς         | Moïse.       |
+| Δημόκριτος    | Démocrite.   |
+| Συνέσιος      | Synésius.    |
+| Παύσηρις      | Pauséris.    |
+| Πηβίχιος      | Pébichius.   |
+| Ξενοκράτης    | Xénocrate.   |
+| Ἀφρίκανος     | Africanus.   |
+| Λουκάς        | Lucas.       |
+| Διογένης      | Diogène.     |
+| Ἵππασος       | Hippasus.    |
+| Στέφανος      | Stephanus.   |
+| Χίμης         | Chimès.      |
+| Χριστιανός    | Le Chrétien. |
+| Μαρία         | Marie.       |
+| Πετάσιος      | Pétasius.    |
+| Ἑρμῆς         | Hermès.      |
+| Θεοσέβεια     | Théosébie.   |
+| Ἀγαθοδαίμων   | Agathodémon. |
+| Θεόφιλος      | Théophile.   |
+| Ἠσίδωρος      | Isidore.     |
+| Θαλής (_sic_) | Thalès.      |
+| Ἡράκλειτος    | Héraclite.   |
+| Ζώσιμος       | Zosime.      |
+| Φιλάρετος     | Philarète.   |
+| Ἰουλιανή      | Juliana.     |
+| Σέργιος       | Sergius.     |
+
+Cette dernière liste a un intérêt historique, plutôt que technique. Son commentaire se trouve dans l'ouvrage sur les _Origines de l'Alchimie_, cité plus haut, p. 128 et suivantes.
+
+[Figure 6. --- Planche 4.]()
+
+### Signes du Manuscrit 2327.
+
+**Planche 4, feuille 16 du manuscrit, verso.**
+
+Vois ces signes et comprend-les bien :
+
+Interprétation des signes de l'art sacré et du livre sur la matière de l'or.
+
+Au commencement : or --- limaille d'or --- argent.
+
+Mercure --- feuilles d'or --- or calciné ou fondu.
+
+Soudure d'or --- mélange ou alliage d'or.
+
 ...
 
 # Texte Grec.
