@@ -40,6 +40,8 @@
 
 ## [3. --- La Sphère de Démocrite et les Médecins Astrologues.](#3-----la-sphère-de-démocrite-et-les-médecins-astrologues-1)
 
+## [4. --- Signes et Notations Alchimiques.](#4-----signes-et-notations-alchimiques-1)
+
 ...
 
 # [Texte Grec.](#texte-grec-1)
