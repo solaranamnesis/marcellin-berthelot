@@ -2394,6 +2394,228 @@ En raison de l'importance de ces signes, pour la lecture des manuscrits alchimiq
 
 ## 5. --- Figures d'Appareils et Autres Objects.
 
+Les manuscrits alchimiques renferment un certain nombre de figures d'appareils et autres objets, destinés à faire comprendre les descriptions du texte. Ces figures offrent un grand intérêt. Quelques-unes ont varié d'ailleurs dans la suite des temps ; sans doute parce que les expérimentateurs qui se servaient de ces traités en ont modifié les figures, suivant leurs pratiques actuelles. Le tout forme, avec les figures de fourneaux et appareils d'une époque plus récente, tels qu'ils sont reproduits dans la _Bibliotheca Chemica_ de Manget, un ensemble très important pour l'histoire de la Chimie. Je me bornerai à étudier les plus vieux de ces appareils ; car ce serait sortir du sujet de la présente publication que d'en discuter la suite et la filiation jusqu'aux temps modernes ; il serait d'ailleurs nécessaire de rechercher les intermédiaires chez les Arabes et les auteurs latins du moyen âge.
+
+Les figures symboliques mériteraient à cet égard une attention particulière, par leur corrélation avec certains textes de Zosime, dans son traité _sur la vertu_, etc. Je citerai, par exemple, de très beaux dessins coloriés, contenus dans le manuscrit latin 7147 de la Bibliothèque nationale de Paris, représentant les métaux et les divers corps, sous l'image d'hommes et de rois, renfermés au sein des fioles où se passent les opérations (fol. 80, 81 et suivants). Dans la _Bibl. Chemica_ de Manget, on voit aussi des figures du même genre (t. 1, p. 938, pl. 2, 8, 11, 13, etc. ; Genève, 1702). Il y a là une tradition mystique, qui remonte très haut et sans doute jusqu'au symbolisme des vieilles divinités planétaires.
+
+Mais ce côté du sujet est moins intéressant pour notre science chimique que la connaissance positive des appareils eux-mêmes. En ce qui touche ceux-ci, je ne veux pas sortir aujourd'hui de l'étude des alchimistes grecs. J'ai relevé tous les dessins qui se trouvent dans le manuscrit de Saint-Marc (11e siècle), dans le manuscrit 2325 de la Bibliothèque nationale (13e siècle), et dans le manuscrit 2327 (15e siècle), ainsi que dans les manuscrits 2249, 2250 à 2252, 2275, 2329, enfin dans les deux manuscrits alchimiques grecs de Leide et dans le manuscrit grec principal du Vatican. J'ai fait exécuter des photogravures de ceux de Paris et de celui de Venise, afin d'éviter toute incertitude d'interprétation. Ce sont ces figures qui vont être transcrites ici : on y renverra dans l'occasion, lors de l'impression des textes correspondants.
+
+**Figures du manuscrit de Saint-Marc.**
+
+Je donnerai d'abord les figures les plus anciennes, celles du manuscrit de Saint-Marc, savoir :
+
+La Chrysopée de Cléopâtre, formée de plusieurs parties corrélatives les unes des autres, les unes d'ordre pratique et les autres d'ordre mystique ou magiques : c'est la figure 11.
+
+La figure 12 en est l'imitation grossière (partielle), tirée du manuscrit 2325, et la figure 13, tirée du manuscrit 2327, dérive du même type, avec des variantes considérables et caractéristiques.
+
+Les figures 14 et 14 _bis_ reproduisent l'alambic à deux récipients (_dibicos_), déjà dessiné dans les précédentes, mais avec diverses variantes.
+
+La figure 15 est celle de l'alambic à trois récipients (_tribicos_).
+
+La figure 16 représente un appareil distillatoire, sans dôme ou condensateur supérieur, et muni d'un seul récipient.
+
+La figure 17 est celle du tribicos, d'après le manuscrit 2325.
+
+La figure 18 a l'apparence d'une chaudière distillatoire.
+
+La figure 19, à peine ébauchée, semble le chapiteau d'un appareil analogue.
+
+Les figures 20 et 21 sont des appareils à digestion, en forme de cylindres.
+
+La figure 22 est un bain-marie à kérotakis (palette pour amollir les métaux).
+
+La figure 23 en est la reproduction, d'après le manuscrit 2325.
+
+La figure 24 est un autre bain-marie à kérotakis.
+
+Les figures 25, 26, 27 reproduisent des variantes et détails des appareils précédents.
+
+Le manuscrit de Saint-Marc ne renferme pas seulement des figures d'appareils, mais aussi divers dessins mystiques ou magiques, comme la Chrysopée de Cléopâtre en a déjà fourni l'exemple : je les ai fait également reproduire.
+
+Ce sont :
+
+Fig. 28 : la formule de l'écrevisse (ou du scorpion), qui semble résumer une transmutation.
+
+Fig. 29 : deux alphabets magiques ou cryptographiques.
+
+Fig. 30 : le Labyrinthe de Salomon, d'une écriture plus moderne.
+
+Fig. 31 : un symbole en forme de cœur renversé, contenant le signe de l'or, du mercure, etc.
+
+La plupart de ces figures du manuscrit de Saint-Marc ont été recopiées dans le manuscrit 2249 de la Bibliothèque Nationale de Paris ; dans le Voss, de Leide, dans le principal manuscrit du Vatican et dans divers autres ; quelques-unes ont été imitées d'après les manuscrits 2249 et autres, dans l'histoire de la Chimie de Hœfer et dans les _Beiträge_ de H. Kopp. Il m'a paru intéressant d'en donner les types originaux et complets, tels qu'ils ont été dessinés à la fin du 10e ou au commencement du 11e siècle, sans nul doute d'après une tradition beaucoup plus vieille ; car ils répondent exactement aux descriptions de Zosime, de Synésius et d'Olympiodore l'alchimiste. Je les rassemblerai donc tous ici, bien que certains d'entre eux s'appliquent à des traités qui paraîtront seulement dans les livraisons suivantes : remarque applicable aussi aux figures tirées des manuscrits 2325 et 2327, dont il va être question.
+
+Le manuscrit 2327, en effet, a été écrit en 1478, quatre ou cinq siècles après le manuscrit de Saint-Marc ; les figures des mêmes appareils y reparaissent, mais profondément modifiées ; elles ne répondent plus exactement au texte, mais sans doute à des pratiques postérieures.
+
+Le manuscrit 2325 (13e siècle) reproduit au contraire les formes des appareils du manuscrit de Saint-Marc, quoique avec des variantes importantes.
+
+**Figures du manuscrit 2327.**
+
+Dans le manuscrit 2327, on trouve, outre la figure 13 déjà présentée, deux grandes figures du serpent Ouroboros, variantes développées de celle de la Chrysopée de Cléopâtre. Il suffira d'en donner une seule : c'est la figure 34.
+
+La figure 35 reproduit le signe d'Hermès, grossièrement dessiné, d'après le même manuscrit.
+
+La figure 36 est celle de quatre images géométriques, d'après les manuscrits 2325 et 2327.
+
+La figure 32 est un dessin mystique, tiré du manuscrit 2327.
+
+La figure 33, tirée du manuscrit 2325, reproduit le même dessin. Ce dessin singulier semble une variante du symbole cordiforme de la figure 31.
+
+Les figures qui suivent représentent des appareils ; elles sont tirées des manuscrits 2325 et 2327, mais dessinées d'une façon bien plus grossière que dans le manuscrit de Saint-Marc.
+
+Ainsi la figure 37 comprend l'alambic à trois récipients (tribicos de la fig. 17) ; plus un alambic à un seul récipient, et des vases à digestion.
+
+La figure 38 reproduit quelques variantes de la précédente.
+
+La figure 39 est tirée du manuscrit Ru. 6 de Leide : c'est un vase à digestion et à sublimation, correspondant à l'un de ceux des figures 37 et 38.
+
+La figure 40, tirée de la _Bibliotheca Chemica_ de Manget, est l'aludel décrit dans Geber ; instrument qui répond de très près aux figures 38 et 39 et en donne l'interprétation.
+
+La figure 41 représente un petit alambic, tiré du manuscrit 2327.
+
+La figure 42, l'alambic de Synésius, d'après le même manuscrit.
+
+La figure 43, le même alambic de Synésius, d'après le manuscrit 2325.
+
+La figure est une simple fiole (2327).
+
+La figure 45, un alambic avec appendice à 6 pointes (2327).
+
+**Figures du manuscrit 2325.**
+
+Enumérons spécialement les figures du manuscrit 2325, figures dont plusieurs viennent d'être transcrites. On y trouve :
+
+L'alambic de Synésius, qui forme la figure 43.
+
+Le dessin mystique de la 3e leçon de Stéphanus (fol. 46, verso ; représenté figure 33) ;
+
+On y voit aussi les quatre dessins géométriques (fol. 3) de la figure 36 ;
+
+Ainsi que (fol. 83) la formule de l'Écrevisse de la figure 28.
+
+Puis vient un alambic à une pointe, avec deux petits appareils à _fixation_,* dessinés dans la figure 12, qui répond à la figure 11 de Saint-Marc.
+
+*) Opération qui avait pour but de durcir les métaux mous, de solidifier les métaux liquides, de rendre fixes les métaux volatils ; enfin de communiquer aux métaux imparfaits une teinture stable (_fixe_) d'or ou d'argent.
+
+Citons aussi le tribicos, dont nous avons reproduit les variantes (fig. 17, 37 et 38) : le tout répond à la figure 13 ;
+
+Quant à l'appareil distillatoire de la figure 16, qui se trouve aussi dans le manuscrit 2325, il nous a paru inutile de le reproduire.
+
+Nous avons donné, toujours d'après le manuscrit 2325, un appareil à digestion, sphérique et à kérotakis (fig. 23) ; qui répond à la figure 22, tirée de Saint-Marc.
+
+---
+
+Telle est l'énumération des figures différentes qui sont dessinées dans les manuscrits fondamentaux. J'ai cru devoir les reproduire toutes, afin de fournir un fondement solide à la double étude technique et historique des appareils et des opérations décrits dans les textes.
+
+Je vais transcrire maintenant ces figures, en accompagnant chacune d'elles de commentaires et de renseignements spéciaux.
+
+_Figure 11._ --- Elle est reproduite en photogravure, d'après le manuscrit de Saint-Marc (fol. 188, verso), avec une réduction d'un cinquième environ. Elle porte le titre de _Chrysopée de Cléopâtre_, Κλεοπάτρης Χρυσοποιία.
+
+[Figure 11. --- Chrysopée de Cléopâtre.]()
+
+Commentons les diverses portions de cette grande figure :
+
+1° Au-dessous du titre se trouve un premier dessin, formé de trois cercles concentriques. Au centre des cercles, les signes de l'or, de l'argent (avec un petit appendice) et du mercure.
+
+Dans l'anneau intérieur : Εἷς ἐστιν ὁ ὄφις ὁ ἔχων τὸν ἰὸν μετὰ δύο συνθέματα : « le serpent est un, celui qui a le venin, après les deux emblèmes. »
+
+Dans l'anneau extérieur : Ἓν τὸ πᾶν καὶ δι᾽ αὐτοῦ τὸ πᾶν καὶ εἰς αὐτὸ τὸ πᾶν καὶ εἰ μὴ ἒχοι τὸ πᾶν οὐδέν ἐστιν τὸ πᾶν.*
+
+*) Cf. Olympiodore, texte grec, p. 84, lig. 13.
+
+« Un est le tout et par lui le tout et vers lui le tout ; et si le tout ne contient pas le tout, le tout n'est rien. »
+
+A droite, le cercle extérieur se prolonge par une sorte de queue, qui montre que ce système est la figuration du serpent mystique.
+
+2° Puis viennent divers appendices et signes d'apparence magique, situés à droite, dont la signification est inconnue. Cependant je serais porté à rapprocher le double cercle incomplet, muni de huit appendices supérieurs, du signe de l'Ecrevisse à huit pattes antérieures, dessiné figure 28 ; lequel est traduit par les mots : molybdochalque (alliage de plomb et de cuivre) brûlé, et argyrochalque (alliage de cuivre et d'argent) brûlé. Ces signes seraient alors les symboles chimiques d'une opération de transmutation du plomb en argent, de même que ceux de la figure 28.
+
+Au-dessous des grands cercles sont des signes répondant à des opérations chimiques, exécutées dans certains appareils que je vais énumérer.
+
+3° Tel est le petit dessin central, représentant un appareil pour _fixer_ les métaux. Il est posé sur un bain-marie, muni de deux pieds recourbés et placé lui-même au-dessus d'un fourneau. Cet appareil est pourvu d'un tube central qui le surmonte, tube destiné sans doute au départ des gaz ou des vapeurs. Ce dessin est reproduit d'une façon plus précise, avec le mot πῆξις, sur le folio 220 du manuscrit 2327 (v. fig. 13, à droite).
+
+4° Le petit dessin, situé à gauche du précédent, représente un appareil analogue, avec un ballon supérieur, destiné à recevoir les vapeurs dégagées par la pointe du tube. Le tout répond à l'alambic de gauche de la figure 13.
+
+5° Les deux petits cercles, situés à droite et munis de trois appendices rectilignes, semblent représenter des appareils avec leurs trépieds posés sur le feu ; tels que celui de gauche des figures 13 et 38. On pourrait en rapprocher aussi le symbole du βοτάριον (fig. 5, l. 4 et fig. 7, l. 27), représentant un vase à digestion sur son fourneau, analogue au dessin situé gauche et en bas de la figure 37 et au dessus situé à droite de la fig. 38.
+
+6° Le cercle inférieur, muni d'un point central, symbolise l'œuf philosophique ( ? ), ou le cinabre (Voir fig. 4, Pl. 2, lig. 13, et la note de la page 122).
+
+7° Vers le bas à gauche, est figuré le serpent Ouroboros, avec l'axiome central : Ἓν τὸ πᾶν ; le tout est un.
+
+8° Sur le côté droit du serpent, un grand alambic à deux pointes (dibicos), posé sur son fourneau, lequel porte le mot : φῶτα, feux. Le récipient inférieur, ou chaudière, s'appelle λωπάς, matras. Le récipient supérieur, dôme ou chapiteau, est la φιάλη, mot qui signifiait autrefois tasse ou coupe mais qui a ici le sens plus moderne de fiole ou ballon renversé.
+
+Voici l'usage de cet alambic. La vapeur monte du matras, par un large tube, dans l'ouverture plus étroite du chapiteau ou ballon renversé ; elle s'y condense et s'échappe goutte à goutte, par deux tubes coniques et inclinés. A côté du tube gauche, se trouvent, les mots ἀνίχειρος σολήν (_sic_) : tube du pouce, ou plutôt contre-tube ; attendu que le rôle de ce tube descendant est inverse du rôle du tube ascendant, qui joint le matras su chapiteau.
+
+La figure de la Chrysopée de Cléopâtre existe, sous le même titre et avec ses diverses portions essentielles, dans les manuscrits copiés directement sur celui de Saint-Marc ; elle en caractérise la filiation.
+
+Dans les manuscrits 2325, 2327 et dans leurs dérivés, le titre a disparu ; mais la figure subsiste encore, moins belle et moins nette, avec les axiomes mystiques qui la caractérisent. Les annexes : alambic à une ou deux pointes, vases à _fixation_ et trépied, y ont été aussi modifiés dans leur forme. Cependant le tout existe à la même place du texte, c'est-è-dire en tête des ouvrages de Zosime sur les instruments (2327, fol. 220 ; 2325, fol. 82).
+
+_Figure 12._ --- Je donne ici le décalque des appareils représentés dans le manuscrit 2325 (fin du 13e siècle) : ces dessins sont bien plus grossiers.
+
+Je n'ai pas cru utile de reproduire la figure même des trois cercles concentriques, qui sont à peu près pareils à ceux de la figure 11 ; mais je vais en indiquer les inscriptions, à cause des variantes.
+
+L'anneau extérieur porte la même inscription, à demi-effacée et avec des suppressions : ἓν τὸ πᾶν δί ᾽ οὗ τὸ πᾶν (καὶ δί ᾽ αὐτοῦ τὸ) πᾶν καὶ ἐν αὐτῷ τὸ πᾶν.
+
+Dans l'anneau intérieur, on lit : εἷς ἐστὶν ὁ ὄφις ὁ ἔχων τὰ δύο συνθέματα καὶ τὸν ἰόν.
+
+Au centre, de droite à gauche, on voit les signes de l'or, de l'argent, du mercure, du plomb. Au-dessus, le cinabre (ou l'œuf philosophique), qui se trouvait en dehors des cercles dans la figure du manuscrit de St-Marc (6°). Venons maintenant à la portion du dessin du manuscrit 2325 que j'ai reproduite dans la figure 12 :
+
+[Figure 12. --- Alambic de vase à fixation (Décalque du Ms. 2325.)]()
+
+A gauche des cercles, on voit l'image grossière d'un alambic à une pointe, avec condensateur supérieur et matras inférieur, le tout de la même forme générale que la portion 8° de la figure du manuscrit de St-Marc. A côté, deux appareils à _fixation_, à pointe tournée vers le haut, lesquels sont évidemment imités des portions 3° et 4° de la fig. 11. Il en est de même d'un dernier reste du petit cercle à 3 appendices ou trépied, coupé dans le manuscrit 2325 par le relieur, mais qui se retrouve intact dans le manuscrit 2275, lequel a toute cette figure.
+
+En effet, le manuscrit 2275 (daté de 1465) reproduit les cercles concentriques, l'alambic à une pointe, les deux vases, et le petit trépied, pris avec des formes qui semblent fidèlement copiées sur le 2325, lequel est d'ailleurs beaucoup plus ancien.
+
+_Figure 13._ --- Elle reproduit les dessins analogues du manuscrit 2327, fol. 220 (15e siècle). Les inscriptions des cercles concentriques sont identiques à celles du manuscrit 2325, sauf l'absence des symboles centraux.
+
+Par contre, au folio 80 du 2327, au début d'une autre copie du même ouvrage de Zosime, les cercles concentriques ont été supprimés, probablement faute de place, par le copiste ; mais il a transcrit à l'encre rouge les axiomes mystiques, suivis des signes du plomb, de l'argent, du mercure et de l'or, surmontés par celui du cinabre (ou de l'œuf), exactement comme dans le manuscrit 2325.
+
+Au verso du fol. 80 (2327) existent les dessins de l'alambic à une pointe, avec condensateur supérieur, φιάλη, et matras, λωπάς, conformes à la figure 11 et à la figure 13 mais mutilés par le relieur. Sur la même page, on voit encore un appareil à _fixation métallique_, semblable à celui de la figure 13.
+
+Il y a des inscriptions sur les divers appareils du folio 80, telles que πῆξις sur l'appareil à fixation ; (καμ) ήνιον, sur son fourneau et sur celui de l'alambic ; λωπάς, sur le matras de ce dernier ; (φι) άλη, deux fois répétés, sur son chapiteau.
+
+[Figure 13. --- Cercle concentrique, Alambic et Vase à fixation (Ms. 2327).]()
+
+La forme même des appareils dans les manuscrits 2325 et 2327 offre des variantes intéressantes pour l'histoire de la Science et sur lesquelles je reviendrai bientôt ; mais ici je veux seulement montrer la filiation des figures. En tout cas, la copie 2325 répond à une tradition postérieure à celle du prototype de Saint-Marc, puisque le nom de la Chrysopée de Cléopâtre a disparu.
+
+On remarque que presque toutes les portions de la Chrysopée de Cléopâtre : cercles mystiques, serpent Ouroboros, alambics, appareils à fixation, trépieds, cinabre, se retrouvent, parfois même agrandis, dans les figures des manuscrits postérieurs. Une seule partie manque, ce sont les signes magiques. Peut-être doit-on en voir la transformation dans la formule de l'Écrevisse, qui se trouve à la fin du même traité de Zosime et qui présente avec les signes magiques certaines analogies singulières. J'y reviendrai tout à l'heure.
+
+En tout cas, la Chrysopée peut être regardée comme le prototype, sans doute fort ancien, des dessins des appareils alchimiques. C'était un type antérieur à Zosime, dessiné sans doute dans les ouvrages perdus de Cléopâtre, cette femme savante,* à laquelle nous devons aussi un traité des poids et mesures gréco-égyptiens venu jusqu'à nous. Ces ouvrages auraient été ensuite fondus dans ceux de ses continuateurs, tels que Zosime. Peut-être même la Chrysopée avait-elle constitué, à une époque plus ancienne encore, un tableau symbolique, complet en soi, et que l'on développait par des explications purement orales ; à peu près comme une page d'aujourd'hui remplie par les symboles des réactions chimiques et des appareils correspondants. Si cette conjecture est fondée, nous aurions ici la trace de divers états successifs de la science.
+
+*) _Origines de l'Alchimie._ p. 173.
+
+_Figures 14 et 14 bis._ --- Ce sont celles d'un alambic à deux pointes. Elles sont tirées du manuscrit de Saint-Marc, folio 193, verso. La forme générale est pareille à celle du même instrument dans la figure 11, sauf les variantes suivantes. Le tube qui joint le matras ou chapiteau est élargi en entonnoir à la partie supérieure ; l'ajustement même des deux tubes coniques, par rapport à cet entonnoir, n'est pas clairement indiqué. Sous la pointe de chacun d'eux se trouve un petit ballon, pour recevoir les liquides distillés.
+
+Le matras inférieur s'appelle toujours λωπάς, avec addition des mots θείου ἀπύρου, matras du soufre apyre. Ces deux mots manquent dans la figure 11 ; à moins qu'ils n'y soient représentés par deux signes inconnus, située au-dessous de λωπάς. En tout cas, ils concordent avec la description du texte, dans lequel il est dit que l'on mettait du soufre dans le matras.
+
+[Figures 14 et 14 bis. --- Alambic à deux récipients (_dibicos_). Réduction aux 2/3.]()
+
+Le tube ascendant porte les mots σωλὴν ὀστράκινος : tube de terre cuite. Le chapiteau ne s'appelle pas φιάλη, mais βῆκος, pour βίκος : amphore.
+
+Les deux petits ballons destinés à recevoir les liquides distillés s'appellent également βικίον et tous deux portent la légende : κείμενον ἐπάνω πλίνθου εἰς ὃ ἀπορρεῖ τὸ ὕδωρ τοῦ θείου : c'est-à-dire « ballon placé au-dessus de la tablette rectangulaire, dans lequel s'écoule l'eau du soufre. »
+
+Ceci, joint à l'inscription de la λωπάς, montre que cet alambic est destiné à la préparation de l' « eau de soufre. »
+
+Cette figure est répétée deux fois dans le manuscrit de Saint-Marc, sauf que les mots βικίον κείμενον sont remplacés par le pluriel βικία κείμενα, et le mot φῦτα par le mot καύστρα : fourneau à combustion ; les mots τοῦ θείου manquent la seconde fois.
+
+_Figure 15 (manuscrit de Saint-Marc, fol. 194, verso)._ --- Cette figure est un alambic à trois récipients (βικία), ou _tribicos_. Le fourneau porte ici les deux mots superposés : καύστρα (lieu de la combustion) et φῶτα (lieu de la flamme). Le matras s'appelle de même : λωπὰς θείου ἀπύρου.
+
+Enfin on distingue le tube ascendant, ou tube index, λιχανὸς σωλήν, c'est-à-dire tube direct du tube, descendant ou tube du pouce, ἀντίχειρος σωλήν, c'est-à-dire tube inverse (par sa direction).
+ 
+[Figure 15. --- Alambic à trois récipients (_tribicos_). Réduction aux 2/3.]()
+
+Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec modifications considérables : je les signalerai tout à l'heure.
+
+_Figure 16._ --- Cette figure (manuscrit de Saint-Marc, fol. 194 verso, au- dessous de la précédente), est un alambic à col de cuivre, χαλκίον, avec un seul tube, σωλήν, gros et fort, coudé à angle droit à sa partie supérieure et conduisant la vapeur, de la λωπάς au petit ballon.
+
+[Figure 16. --- Appareil distillatoire. Réduction aux 2/3.]()
+
+_Figure 17._ --- Les deux figures précédentes sont reproduites dans la même forme générale par le manuscrit 2325 (fol. 84), sauf quelques variantes ; je donne seulement le tribicos. Il existe aussi dans le manuscrit 2275 (fol. 57 verso). Les mêmes figures sont dessinées dans le manuscrit 2327 ; mais la forme en a été profondément modifiée et s'est rapprochée de celle des alambics de verre du siècle dernier, que l'on emploie encore quelquefois aujourd'hui. Je transcrirai ces reproductions un peu plus loin (fig. 37 et 38).
+
+[Figure 17. --- Tribicos. (Ms. 2325) Décalque.]()
+
+_Figure 18._ --- Elle se trouve au folio 10 du manuscrit de Saint-Marc, entre la première et la deuxième leçon de Stephanus ; elle est dessinée à l'encre rouge et contemporaine du texte. La signification en est difficile à préciser avec certitude. Cependant il semble qu'il s'agisse d'une chaudière à tête élargie en forme de chapiteau, et destinée à distiller des liquides qui tombent dans un bassin hémisphérique appelé πόντος : la mer. Ce bassin est porté sur une sorte de fourneau, bain de sable, ou bain-marie. A côté se trouve un instrument inconnu ; à moins qu'il ne s'agisse d'une forme un peu différente de bain de sable. Le texte même de Stephanus, soit à la fin de la première leçon, laquelle est purement déclamatoire et enthousiaste, soit au début de la deuxième leçon, lequel est relatif aux propriétés mystiques de l'Unité numérique ; ce texte, dis-je, ne m'a paru fournir aucune lumière pour l'intelligence de cette figure.
+
+[Figure 18. --- Chaudière distillatoire.]()
+
 ...
 
 # Texte Grec.
