@@ -2616,6 +2616,226 @@ _Figure 18._ --- Elle se trouve au folio 10 du manuscrit de Saint-Marc, entre la
 
 [Figure 18. --- Chaudière distillatoire.]()
 
+_Figure 19._ --- Cette figure (manuscrit de Saint-Marc, fol. 106 verso), est une ébauche à l'encre rouge, d'une écriture plus moderne ; elle est en marge d'un article sur l'œuf philosophique, à côté des mots : τὸ δὲ (ici un mot gratté, ὠοῦ ? ) τούτο ὠμὸν λέγουσιν. Il semble que ce soit le chapiteau d'un alambic. On donne cette figure pour ne rien omettre.
+
+[Figure 19. --- Ébauche d'alambic. Décalque.]()
+
+Les alambics et appareils distillatoires, que nous venons d'étudier, se rattachent à la tradition de la Chrysopée de Cléopâtre, laquelle en contient les plus vieilles figures. Mais il est un autre ordre d'appareils, destinés ceux-ci au traitement des métaux par le mercure, le soufre, les sulfures d'arsenic ; appareils qui avaient été décrits spécialement par une autre femme, Marie l'Alchimiste, de préférence aux appareils distillatoires (manuscrit de Saint-Marc, fol. 186, avant-dernière ligne). Ce sont les appareils à _kérotakis_, c'est-à-dire à palette, avec leurs fourneaux. Ces appareils n'existent pas dans la Chrysopée et semblent plus modernes ; ils ont joué un rôle fort important dans le développement historique des pratiques alchimiques. Le passage rappelé plus haut montre que le traité de Zosime sur les instruments et fourneaux, dont nous possédons des débris, embrassait, ainsi qu'il arrive d'ordinaire dans les matières techniques, les traités antérieurs sur la même question, tels que ceux de Cléopâtre sur les alambics (v. p. 137) et ceux de Marie sur les appareils à kérotakis et leurs fourneaux.
+
+Voici les, figures de ces derniers :
+
+_Figures 20 et 21._ --- Ces figures (manuscrit de Saint-Marc, folio 196 verso), représentent des vases à digestion cylindrique, en terre cuite (ἄγγος ὀστράκινον, vase de terre), placés sur le feu (φῶτα).
+
+[Figures 20 et 21. --- Vases à digestion cylindriques. --- Réduction aux 2/3.]()
+
+Au-dessus du vase était posée une lame ou feuille métallique, κηροτακὶς, sur laquelle on faisait fondre matières fusibles. La forme en était tantôt en parallélogramme et aplatie (fig. 22), avec les extrémités arrondies ; tantôt triangulaire (fig. 24 _bis_). La κηροτακίς paraît n'être autre que la palette des peintres anciens,* qui y faisaient le mélange des couleurs, entr'elles et avec la cire ; ils maintenaient la palette à une douce chaleur, afin d'opérer le mélange, et aussi au moment de s'en servir.
+
+*) Du Cange. _Glossarium mediæ et infimæ græcitatis_.
+
+J'ai déjà insisté sur les analogies que l'on établissait alors* entre la teinture des métaux et celle des étoffes. Les quatre couleurs des peintres grecs, d'après Pline (_H. N. 35_, 31), étaient le blanc, le noir, le jaune, le rouge. Ce sont précisément les quatre couleurs des premiers alchimistes, de Zosime par exemple.* Ils cherchaient à en imprégner les métaux, en ramollissant ceux-ci.
+
+*) _Origines de l'Alchimie_, p. 242 à 246.
+
+*) Même ouvrage, p. 35, 182, 242.
+
+Le mot _ceratio_ (ἐγκήρωσις), employé par les traducteurs latins de Geber et qui a eu cours pendant tout le moyen âge, exprime cette dernière opération, imitée à la fois des pratiques des peintres anciens et de la fabrication de certains médicaments (_cérats_). Elle s'effectuait à l'aide du mercure, du soufre et de l'arsenic (sulfuré), par une digestion lente et une chaleur modérée.*
+
+*) _Bibliotheca chemica_ de Manget, t. 1, p. 540, dans le traité de Geber.
+
+Aux débuts, on opérait sur la palette des peintres (_kérotakis_) ; mais il fallut bientôt la pourvoir de deux appareils accessoires : l'un destiné à réchauffer les mixtures (bains-marie, bains de sable, de cendre ou analogues) ; l'autre, à condenser les vapeurs que l'on voulait retenir. C'était d'abord une coupe ou tasse (φιάλη) renversée, servant de couvercle (ἐπίπωμος), et dont la forme, modifiée graduellement est devenue le ballon ou fiole actuelle : le mot grec lui-même a pris peu à peu ce sens nouveau, dans les textes alchimiques. D'après certaines descriptions, il semble que la lame métallique n'ait pas seulement servi de support aux produits que l'on faisait réagir entre eux et sur les vapeurs sublimées d'en bas ; mais cette lame éprouvait dans sa propre matière, la transformation produite par les fondants et par les vapeurs.
+
+Pendant l'emploi d'un appareil disposé comme il vient d'être dit, une nouvelle circonstance se présenta nécessairement. La kérotakis n'obturait pas l'orifice du récipient inférieur. Elle avait même parfois une forme triangulaire, à en juger d'après le dessin reproduit par la figure 24 _bis_. Dans ces conditions, les matières fusibles déposées sur la kérotakis coulaient à côté et tombaient au-dessous : on fut amené ainsi à placer un récipient (ἄγγος ὀστράκινον), pour les recevoir et les empêcher d'arriver jusqu'au foyer.
+
+Il semble même que l'on ait cherché à ce moment à opérer une certaine séparation entre les matières solides, telles que métaux non ramollis, fragments divers, etc., et les matières liquéfiées ; on y parvenait, soit à l'aide d'un ballon percé de trous (fig. 21), soit à l'aide d'un crible (fig. 20).
+
+Les produits liquéfiés qui tombaient ainsi au fond se rapprochaient sans cesse du foyer (φῶτα). La même chose pouvait arriver au mercure liquide, condensé à la partie supérieure et retombant ensuite par son poids, voire même au soufre et aux sulfures d'arsenic fondus et coulant sur les parois, si la chaleur était suffisante. Mais ces dernières substances, aussi bien que les corps qui déterminaient la liquéfaction des métaux (mercure, soufre, sulfures d'arsenic et autres), en atteignant le fond, éprouvaient un nouveau changement. En effet, les matières sublimables contenues parmi ces corps et substances, lorsqu'elles arrivaient vers le fond de l'appareil, se trouvaient portées à une température élevée ; elles se vaporisaient alors et remontaient vers les parties supérieures.
+
+Le caractère rétrograde de cette opération, qui permettait aux vapeurs d'attaquer de nouveau le métal ou la substance placée sur la kérotakis, paraît avoir frappé les opérateurs : de là sans doute le nom de καρκίνος (écrevisse), c'est-à-dire appareil fonctionnant en sens rétrograde, donné à certains de ces appareils. De là aussi, ce semble, le signe de l'Écrevisse dans la formule de la figure 27, signe surmonté des mots : alliage de plomb et de cuivre brûlé ; alliage d'argent et de cuivre brûlé. L'emploi de ces sublimations réitérées, pour blanchir le cuivre et pour amollir les métaux, c'est-à-dire _per rem cerandam_, est indiqué par les alchimistes du moyen-âge.
+
+Supprimons la kérotakis dans de semblables appareils et nous aurons l'_aludel_, instrument de digestion et de sublimation décrit dans les œuvres de Geber et figuré dans la _Bibliotheca Chemica_ de Manget (t. 1, planche répondant à la page 540). Les figures qui se trouvent dans ce dernier ouvrage tome 1, au bas de la planche 5, p. 938, en haut de la planche 6 à gauche, ainsi qu'au milieu de la planche 14, paraissent avoir une destination analogue. Je citerai encore les dessins qui se trouvent aux folios 179 verso, 180, 181, du vieux et beau manuscrit latin 7156, sur parchemin, de la Bibliothèque nationale de Paris. Dans le manuscrit latin de la même Bibliothèque 7162, folio 64, on voit la figure d'un bain de sable (_arena_). Dans le manuscrit latin 7161 (fol. 58 et fol. 113 verso) existe la figure d'un appareil à digestion, sur son fourneau. Tous ces appareils correspondent à la suite d'une même tradition technique.
+
+Observons ici que les appareils cylindriques pourvus de la kérotakis n'ont été employés que par les plus anciens alchimistes. Ils sont figurés seulement dans le manuscrit de Saint-Marc et dans les copies qui en dérivent ; mais ils n'existent ni dans le manuscrit 2325, ni dans le manuscrit 2275, ni dans le manuscrit 2327.
+
+_Figure 22._ --- Cette figure (manuscrit de Saint-Marc, fol. 195 verso) est aussi un appareil à digestion, appareil sphérique et porté sur trois pieds. Au-dessous de la kérotakis et des vases à condensation supérieurs, il y existe un digesteur, distinct du foyer, et intermédiaire ; le tout fut désigné sous le nom de _fourneau de Marie_ l'alchimiste,* prototype de notre bain-marie.
+
+*) _Origines de l'Alchimie_, p. 171.
+
+[Figure 22. --- Bain-marie à kérotakis. --- Réduit aux 2/3.]()
+
+Le digesteur dessiné sur cette même figure 22 est long d'une palme, comme l'indiquent les mots παλαιστιαῖον καμίνιον. Il semble criblé de trous ; à moins qu'il ne s'agisse d'une ornementation superficielle. C'était là d'abord un bain de cendres, ou un bain de sable. Dans l'une des formules de dorure du Papyrus X de Leide, il est question aussi de l'emploi des cendres (formule 57, ce volume, p. 40).
+
+La palette des préparations, φαρμακον κηροτακης (_sic_), offre ici de grandes dimensions. Elle est chauffée seulement au milieu.
+
+Deux coupes inférieures, placées immédiatement sous la kérotakis, l'une grande et surmontant une coupe plus petite, reçoivent les matières fusibles.
+
+Les produits sublimés sont récoltés dans deux condensateurs supérieurs, concentriques et successifs. L'un est appelé φιάλη (coupe) ; l'autre κυμβάνη (tasse).
+
+_Figure 23._ --- Cette figure, imitation de la précédente avec de légères variantes, est reproduite d'après le manuscrit 2325, folio 84 recto. Elle existe aussi dans le manuscrit 2275, folio 57 verso.
+
+[Figure 23. --- Bain-marie à kérotakis (Ms. 2325). D'après Décalque.]()
+
+_Figure 24._ --- Cette figure (manuscrit de Saint-Marc, fol. 196), est encore un appareil analogue aux précédents, sauf quelques variantes plus importantes.
+
+[Figure 24. --- Autre bain-marie. --- Réduction aux 2/3.]()
+
+La palette porte deux coupes inférieures vers ses extrémités. Dans la coupe supérieure (φιάλη), on lit le mot βάθος (cavité).
+
+_Figure 24 bis._ --- Au-dessous, se trouve la kérotakis, ou palette triangulaire.
+
+[Figure 24 bis. --- Kérotakis. --- Réduction aux 2/3.]()
+
+C'est une seconde forme de cet instrument, distincte de celles qui sont représentées figures 22 et 25.
+
+_Figure 25._ --- Cette figure (manuscrit de Saint-Marc, fol. 112 en marge) représente une disposition différente de l'appareil à digestion sphérique.
+
+Ce dessin et les deux suivants se trouvent à la fin de l'article : Τοῦ χριστιανοῦ περὶ εὐσταθείας τοῦ χρυσοῦ, en marge ; ils sont d'une écriture postérieure au texte courant et presque effacée. Ils paraissent répondre à une description d'appareils, qui forme le dernier paragraphe de cet article.
+
+[Figure 25. --- Vase à kérotakis. --- Décalque. Les inscriptions sont reproduites ici en caractères actuels, mais avec l'orthographe du manuscrit. --- Réduction aux 2/3.]()
+
+A côté de la figure 25 se trouve le mot κάμινος ; au-dessous on lit, en caractères du 16e siècle, une inscription devenue presque illisible, mais dont les lettres restées distinctes répondent sans nulle incertitude au texte suivant : καρκίνος δ᾽ ἐπὶ λευκώσεως · κεῖται δ᾽ ὁ λόγος ἔμπροσθεν c'est-à-dire « écrevisse pour le blanchiment ; l'explication se trouve au-dessus du texte précédent.* »
+
+*) Voir plus loin la formule de voir l'Écrevisse. --- Sur le sens de ce mot appliqué à un appareil chimique, p. 145.
+
+Ce texte précis est tiré du manuscrit 1174 du Vatican, où il accompagne deux dessins à peu près identiques aux figures 25 et 27 ; sa comparaison avec les lettres non effacées du manuscrit de Saint-Marc ne laisse aucun doute sur le sens des mots formés par ces dernières.
+
+Le même appareil est grossièrement dessiné dans le manuscrit 2275, folio 57 verso, avec une inscription similaire. Il existe également dans le manuscrit 2325 (fol. 84), avec la même inscription, laquelle se reconnaît encore, quoique effacée aux trois quarts. Enfin il existe dans un manuscrit grec de Leide. (Voss. in-4°, n° 47, fol. 55 verso).
+
+Le texte que je viens de transcrire semble indiquer un appareil destiné à une opération rétrograde, c'est-à-dire telle que les produits tombés au fond par fusion remontent par volatilisation à la partie supérieure. Il est probable qu'il s'agit de la sublimation du mercure, ou de l'arsenic, destinés à _blanchir_ le cuivre, en s'alliant à lui (p. 145).
+
+La légende intérieure de la figure 25 est plus lisible que l'inscription placée à côté ; l'écriture semble également répondre au 16e siècle, avec un iotacisme poussé à l'extrême : φιλάϊ remplaçant φιάλη, κυροτακίς remplaçant κηροτακίς, etc.
+
+Remarquons que ce dessin ressemble aux figures 22, 23 et 24, sauf quelques variantes plus compliquées. Le système repose de même sur un vase à digestion. L'une des coupes supérieures est en terre : (ἄγγος) ὀστράκινον ; c'est une grande coupe, désignée à l'intérieur sous le nom de ὀξιβάφιον (saucière).
+
+_Figure 26._ --- Les deux condensateurs supérieurs des figures 25 et 27 sont dessinés à côté séparément, avec le mot λωπάς pour le plus grand, et un nom abrégé pour le plus petit, situé au-dessous. Ce mot semble être ιθμ᾽᾽ abréviation avec iotacisme, remplaçant ἠθμὸς, couvercle percé de trous.
+
+[Figure 26. --- Récipients supérieurs des figures 25 et 27. Décalque. --- Réduction aux 2/3. --- Caractères actuels.]()
+
+_Figure 27._ --- Dans ce dessin il n'y a pas de vase à digestion et l'action du foyer s'exerce directement. Le mot κυροτακίς est inscrit sur la portion verticale du dessin, au-dessus du feu ; mais il est probable que c'est faute de place pour l'inscrire sur la partie horizontale et supérieure. Cet appareil doit être rapproché des figures 20 et 21, c'est-à-dire des aludels, plutôt que des bains-marie des figures 22, 23, 24 et 25.
+
+[Figure 27. --- Autre vase à kérotakis. Décalque. --- Réduction aux 2/3. Les inscriptions sont reproduites en caractères actuels.]()
+
+Les appareils 25, 26 et 27 n'existaient pas sur le manuscrit initial de Saint-Marc ; ils ont été ajoutés plus tard, vers le 16e siècle, sans doute, d'après un autre manuscrit comparable au 2325 (13e siècle), mais qui n'existe plus.
+
+Les dessins multipliés de ces appareils à κηροτακίς, dans les divers manuscrits, montrent que ces appareils ont été d'un usage étendu et prolongé. Ils représentent les premiers essais de bains-marie, bains de sable, et surtout bains de cendre, employés même aujourd'hui dans nos laboratoires pour les digestions. Mais c'étaient à l'origine des appareils beaucoup plus compliqués et où s'opéraient à la fois certaines séparations de substances, par fusion et sublimation, et certaines réactions lentes des produits fondus ou sublimés, entre eux, ou sur d'autres matières placées dans les appareils. --- Il est probable qu'il serait possible de retrouver d'autres traces de ces appareils dans les pharmacopées du moyen âge ; peut-être même existent-ils encore quelque part en Orient. Cependant il est digne de remarque qu'ils ont disparu dans le manuscrit 2327, pour faire place à des digesteurs d'une toute autre forme, sans doute inventés postérieurement, et que nous examinerons tout à l'heure.
+
+Nous avons donné toutes les figures relatives aux appareils du manuscrit de Saint-Marc ; joignons-en quelques autres, d'un caractère différent.
+
+_Figure 28._ --- Il s'agit d'abord de la formule de l'Écrevisse, ou du Scorpion, formule mystérieuse, qui était réputée contenir le secret de la transmutation. Elle se trouve* à la fin des Mémoires de Zosime (manuscrit de Saint-Marc, fol. 193). Son interprétation est donnée, en même temps que sa répétition, sur la première page de garde du manuscrit de Saint-Marc, dans un texte d'une autre écriture, plus moderne (14e siècle) que le reste. Le tout se trouve aussi dans le manuscrit de Leide, Voss., in-4°, n° 47, fol. 70.
+
+*) Voir aussi manuscrits 2249, folio 100 --- 2325, folio 83 --- 2327, folio 80 et répétition au verso ; folio 220 verso. --- Leide, Voss., n° 47, fol. 70.
+
+[Figure 28. --- Formule de l'Écrevisse. --- Réduction aux 2/3.]()
+
+La première page de Saint-Marc débute par la description du traitement des scories, lequel paraît se rapporter au changement d'une scorie noire et métallique, telle que celle du plomb, en un composé blanc (carbonate ou sulfate), sous l'influence prolongée de l'eau et de l'air. La description, écrite dans un grec barbare, se termine par ces mots : « Ainsi a été accomplie avec le secours de Dieu, la pratique de Justinien. » (_Texte grec_, 2, 4 _bis_, appendice 1). Puis viennent le nom de la tutie, ou oxyde de zinc impur, suivi par des mots magiques, analogues à ceux qui figurent dans les Papyrus de Leide, dans Jamblique et dans le manuscrit 2419.
+
+Les voici :
+
+Τουτία. μαραζὴ. ασενκὴρ. αζὴ. ναπράτετ. μηρηχαντῆτ. χαντήτ. μουχάναρ. πουμὰν. ναιμαρὶχ. τεχμηριζοχρὰ. ροσουχ. ταρὴτ. χηλσὶ. χηρςὶ. τζιάλπησιν. παρά. κολπαχσρὶ.
+
+Il semble que ce soient là des formules que l'on récitait au moment du traitement de la tutie, minerai de zinc (mêlé de plomb et de cuivre) employé dans l'opération de la diplosis, c'est-à-dire de la transmutation. En effet, à la suite, se trouve la formule de l'Écrevisse, surmontée de mots qui en interprètent chacun des signes.* J'ai numéroté les signes dans la figure, pour donner plus de clarté aux explications.
+
+*) J'ai déjà donné cette interprétation : _Origines de l'Alchimie_, p. 348. --- Mais la lecture actuelle est plus correcte.
+
+Le premier signe (n° 1) se traduit (fig. 8, Pl. 6, l. 24) par σημεῖον ou σημείωσαι = notez : c'est un signe employé fréquemment à la marge des manuscrits, pour désigner un passage important. Au-dessus, ce signe.est ici répété, avec le mot παῖ ; c'est-à-dire : Attention ! initié.
+
+Le second signe (n° 2) est traduit au-dessus par τὸ πᾶν ; ce qui veut dire la composition ou le mélange complet. Ce mot signifie aussi le molybdochalque (plomb et cuivre, sans doute associés au zinc), d'après un passage de Zosime. Cet alliage métallique résultait en effet de la réduction de la cadmie ou de la tutie impure, substance dérivée du grillage de certains sulfures métalliques et qui semble avoir été désignée parfois, en extension d'une dénomination appliquée à ces sulfures eux-mêmes, par le nom de _magnésie_. On peut le conclure avec probabilité, d'après un passage de Geber sur les esprits ou matières volatiles, et d'après quelques textes des alchimistes grecs.
+
+Le troisième signe (n° 3) est celui du cuivre. Il est traduit au-dessus par χαλκοῦ ἰὸς : la rouille du cuivre. On introduisait sans doute cette rouille dans le mélange contenant de la tutie, avec l'intention d'y augmenter la dose du cuivre : ce qui rapprochait la teinte de l'alliage de la couleur de l'or.
+
+Le quatrième signe (n° 4) répond à celui du cuivre, deux fois répété et assemblé par le signe du plomb ; ainsi que le montre la traduction superposée : μολιβόχαλκος κεκαυμένος, molybdochalque (cuivre-plomb) brûlé.
+
+Le cinquième signe (n° 5) est celui de l'Écrevisse, ou du Scorpion, pourvu de huit pattes antérieures. Dans certains manuscrits (Saint-Marc), la queue se termine par un dard, à la façon du Scorpion ; dans d'autres (2325 et 2327 par exemple), par un demi-cercle, formant une sorte de pince. Ce signe porte au-dessus les mots : ἀργυρόχαλκος κεκαυμένος καὶ πεπηγμένος. Mais le dernier mot correspond au sixième signe. Le tout veut dire argyrochalque (cuivre-argent) brûlé et fixé.
+
+Le signe de l'Écrevisse se rapporte probablement à l'opération par laquelle on préparait un semblable alliage, formé avec le cuivre uni au plomb que l'on prétendait changer en argent, sans doute en le blanchissant de façon à lui donner la couleur de l'argent. Si cette interprétation était acceptée, il s'agirait d'un blanchiment par le mercure ou par l'arsenic, blanchiment opéré per sublimation et opération rétrograde dans l'appareil appelé καρκίνος, lequel est représenté par la figure 25. On justifierait ainsi le signe de l'Écrevisse, appliqué à la fabrication de l'alliage actuel.
+
+Le septième signe (n° 7) est traduit par ἐμέριτος (divisé en parties ? ), --- mot dont le sens est incertain.
+
+Le huitième signe (n° 8) par δραγμαὶ : dragme (poids).
+
+Le neuvième signe (n° 9) signifie 14, et s'applique probablement au poids dont l'unité vient d'être indiquée : soit 14 dragmes.
+
+Le dixième signe (n° 10) est une abréviation, traduite par τίτανος χαλκὸς τὸ πᾶν ὄστρακον : chaux-cuivre (peut-être en un seul mot), toute la coquille (de l'œuf philosophique).
+
+Le onzième signe (n° 11) est traduit par τὸ πᾶν ὄστρακον, qui répète les derniers mots du signe précédent.
+
+Le douzième signe (n° 12) est traduit par τίτανος et est suivi par
+
+Le treizième (n° 13) χαλκοῦ : de cuivre : mot à mot, chaux de cuivre.
+
+Puis viennent en caractères ordinaires, les mots ὁ νοήσας μακάριος : celui qui aura compris sera heureux.
+
+Dans cette formule, il s'agit de divers alliages et oxydes métalliques, ainsi que de l'œuf philosophique. Mais elle ne présente pas par elle-même un sens défini. C'était sans doute un mémento hiéroglyphique, destiné à être complété par des explications orales. Elle figure dans un traité de Zosime, et semble le dernier débris d'un ancien symbolisme, antérieur aux écrits alchimiques explicites que nous possédons, et qui représenterait le mode le plus ancien de la transmission traditionnelle de la science (v. p. 137). Le sens a dû s'en conserver longtemps par tradition orale, comme le prouve le fait même de sa transcription sur la première feuille de garde du manuscrit, avec des formules magiques, que l'on prononçait sans doute pendant certaines des opérations. Une partie de ces dernières est même indiquée par le texte qui précède, lequel semble relatif au traitement des scories de plomb ; puis viennent les mots magiques et la formule.
+
+Au-dessous, toujours sur la même page de garde, se trouve reproduit un passage correspondant d'Olympiodore sur les scories : « Sachez que les scories dont on parle ci-dessus sont tout le mystère, etc. » Ce passage est imprimé dans le Traité d'Olympiodore (_Texte grec_, 2, 4) et on adonné en appendice (_Texte grec_, 2, 4 _bis_) le texte même qui le précède.
+
+Voici le moment de rappeler les signes magiques de la Chrysopée de Cléopâtre (figure 11), placée précisément en tête du traité de Zosime, à la fin duquel figure la formule de l'Écrevisse. Ces signes, en effet, comparés à la formule, donnent lieu à quelques rapprochements utiles à noter. On y remarque, par exemple, un grand croissant pourvu de huit appendices linéaires, qui rappellent étrangement le signe de l'Écrevisse. La signification de ce double croissant semblerait dès lors la même ; c'est-à-dire qu'il représenterait la transformation (_fixation_) du cuivre amalgamé ou arsenié en argent, au sein d'un appareil à marche rétrograde. Le signe même de l'argent, ou plutôt celui du mercure, serait alors exprimé par le croissant régulier et sans appendice, situé à côté. Doit-on voir aussi dans les signes de la Chrysopée placés à côté du serpent, les symboles (3) et (4) du cuivre et du molybdochalque de la formule de l'Écrevisse ? Quoi qu'il en soit, il y a là un rapprochement singulier et digne d'intérêt, au point de vue de la filiation historique des symboles alchimiques.
+
+_Figure 29._ --- Cette figure (manuscrit de Saint-Marc. fol. 193) reproduit deux alphabets magiques ou cryptographiques, à demi effacés, avec leur traduction (telle qu'elle est donnée dans le manuscrit). Au-dessus du premier se trouve le mot : ἑλινηκὰ, c'est-à-dire (lettres) _helléniques_, écrit avec l'alphabet correspondant. Au-dessus du second : ἱερογλυφικὰ, c'est-à-dire (lettres) _hiéroglyfiques_, écrit de même. A côté, en marge, le mot ἀλφάβητος, écrit avec les lettres du premier alphabet.
+
+[Figure 29. --- Alphabets magiques. --- Réduction à 1/2. --- D'après décalque.]()
+
+En réalité, aucun de ces alphabets n'a rien de commun avec les hiéroglyphes. Ce sont simplement deux alphabets cryptographiques, formés avec des lettres grecques plus ou moins défigurées, mais sans modification dans leur nombre ou leur valeur.
+
+Il existait un grand nombre d'alphabets analogues au moyen âge. On trouve notamment une page entière d'alphabets de ce genre dans le manuscrit 2419, folio 279. Le premier alphabet de ce folio ressemble beaucoup au premier du manuscrit de Saint-Marc, donné plus haut ; le sixième du manuscrit 2419 ressemble aussi, quoique d'un peu plus loin, au second du manuscrit de Saint-Marc. Les alphabets du manuscrit 2419 semblent, d'après leur traduction superposée en lettres rouges presque effacées, répondre à l'alphabet latin de préférence à l'alphabet grec.
+
+C'étaient là en réalité des jeux d'esprit individuels, plutôt que des alphabets usuels. En tout cas, il m'a paru intéressant de reproduire les spécimens ci-dessus, surtout le premier, qui se retrouve à peu près pareil dans deux manuscrits dissemblables de composition et d'origine.
+
+_Figure 30._ Cette figure (manuscrit de Saint-Marc, folio 102 verso) représente le Labyrinthe de Salomon, avec un commentaire en vers le tout d'une encre et d'une denture plus modernes, probablement du 14e siècle.
+
+[Figure 30. --- Labyrinthe de Salomon. --- Réduction à 1/2.]()
+
+On donnera ailleurs (_Texte grec_, 1, 20) ce commentaire.
+
+_Figure 31._ --- Cette figure (manuscrit de Saint-Marc, fol. 5) est un symbole cordiforme, avec les signes de l'or, de l'argent, et peut-être d'autres métaux* ; il se trouve à côté de la première ligne de Stéphanus, écrit à l'encre rouge ; il est contemporain du texte. Il semble que ce soit là un symbole de l'art de fabriquer l'or et l'argent. On croit utile d'en rapprocher la figure suivante.
+
+*) Le cercle droit d'en bas renferme dans le manuscrit quatre signes mal définis, dont un χ, lequel a disparu dans la figure actuelle, par suite d'un accident de gravure.
+
+[Figure 31. --- Symbole cordiforme. --- Décalque.]()
+
+_Figures 32 et 33._ --- C'est un dessin mystique, formé par l'assemblage de divers signes destinés à représenter une opération chimique ; on dirait une sorte d'équation chimique, analogue aux équations atomiques et renfermant comme les nôtres les symboles des corps intervenants. Elle se trouve au folio 47, verso, du manuscrit 2327, vers la fin de la troisième leçon de Stephanus, vis-à-vis des mots : οὗτος ἐστὶν ὁ ἐτήσιος ὁ πάρερμος ὁ πολύχρωμος. « C'est la pierre étésienne, le support polychrome (des teintures ? ). » Puis vient tout un développement mystique sur la pierre philosophale.
+
+[Figure 32. --- Dessin mystique (2327). Décalque.]()
+
+[Figure 33. --- Dessin mystique (2325). Décalque.]()
+
+Le relieur du manuscrit, au 16e siècle, a coupé une partie de la branche gauche du dessin. Mais il n'y avait là rien de particulier, comme le montre le manuscrit 2325 qui contient la manie figure (fol. 46, verso). On a reproduit cette dernière à côté (fig. 33).
+
+Telles sont les figures fournies par le manuscrit de Saint-Marc et les dessins congénères de ces figures, reconnus dans les autres manuscrits.
+
+**Figures du manuscrit 2327.**
+
+Étudions maintenant les figures propres du manuscrit 2327, en commençant par les figures mystiques.
+
+_Figure 34._ --- Cette figure (manuscrit 2327, fol. 196) est celle du serpent Ouroboros,* en tête d'un article reproduit dans le _Texte grec_ (1, 5). Il est formé de trois cercles concentriques, comme la figure supérieure de la Chrysopée de Cléopâtre ; mais de plus il a ici trois oreilles et quatre pattes. La tête, les oreilles et l'anneau extérieur sont peints en rouge vif (_r r r_) ; le blanc de l'œil est blanc, la pupille noire ; le premier anneau est écailleux. Le second anneau (moyen) est écailleux et jaune (_j j j_). L'anneau intérieur est d'un vert continu (_v v_), ainsi que les pattes. Ces couleurs d'ailleurs ne répondent pas exactement une description de Stéphanus (Lettre à Théodore), d'après laquelle l'origine de la queue est blanche comme du lait ; le ventre et le dos, couleur de safran, la tête noir verdâtre. Il devait y avoir bien des variantes.
+
+*) _Origines de l'Alchimie_, p. 59 et 256.
+
+[Figure 34. --- Serpent Ouroboros. --- D'après décalque.]()
+
+Au folio 279 du même manuscrit se trouve une seconde figure du serpent, avec un texte un peu différent : celui-ci n'a que deux anneaux ou cercles ; ses écailles sont mieux marquées.
+
+_Figure 35._ --- Cette figure (manuscrit 2327, fol. 297 verso) représente le signe d'Hermès, assez informe ; le folio a été remonté sur une bande blanche.
+
+[Figure 35. --- Signe d'Hermès. Décalque.]()
+
+_Figure 36._ --- Cette figure renferme quatre images géométriques, destinées à commenter le texte du folio 106 recto (manuscrit 2327). Elles existent aussi au manuscrit 2325 (fol. 111), au manuscrit 2275 (fol. 78 verso), etc.
+
+Les figures qui suivent concernent des appareils nouveaux, dont il convient de comparer soigneusement les formes avec celles des figures correspondantes du manuscrit de Saint-Marc.
+
+[Figure 36. --- Images géométriques. Décalque.]()
+
+_Figure 37._ --- Cette figure (manuscrit 2327, folio 81 verso) contient deux alambics et deux vases à digestion.
+
+1° A gauche, on voit l'alambic à trois pointes (_tribicos_), dont la forme générale (sauf le nombre de becs) s'est rapprochée de celle des alambics modernes en verre, usités au siècle dernier, et dont on fabrique encore aujourd'hui quelques échantillons.
+
+Le matras ou chaudière porte d'ailleurs la même inscription que la figure 15 (λωπὰς θείου ἀπύρου : matras contenant le soufre apyre) ; il est posé de même sur le feu (φῶτα).
+
+Le chapiteau est surmonté du mot χαλκίον (vase de cuivre), et les trois tubulures sont figurées cylindriques : l'un des trois récipients a été coupé par le relieur.
+
+2° A côté se trouve un alambic à un seul bec, posé sur un fourneau (καμήνιον, _sic_) ; la forme générale en est la même. On doit le regarder comme équivalent à celui de la figure 16 ; à cela près que le tube de ce dernier (σωλήν) est remplacé par un chapiteau (χαλκίον).
+
+On donnera tout à l'heure une figure similaire (fig. 38), d'après le manuscrit 2327 (fol. 221) ; laquelle n'est pas identique à la précédente et se rapproche de celle de Saint-Marc, plutôt que de nos alambics actuels.
+
 ...
 
 # Texte Grec.
