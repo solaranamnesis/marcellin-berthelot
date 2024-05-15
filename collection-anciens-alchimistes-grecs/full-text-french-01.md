@@ -44,6 +44,8 @@
 
 ## [5. --- Figures d'Appareils et Autres Objects.](#5-----figures-dappareils-et-autres-objects-1)
 
+## [6. --- Renseignements et Notices sur quelques Manuscrits Alchimiques.](#6-----renseignements-et-notices-sur-quelques-manuscrits-alchimiques-1)
+
 ...
 
 # [Texte Grec.](#texte-grec-1)
