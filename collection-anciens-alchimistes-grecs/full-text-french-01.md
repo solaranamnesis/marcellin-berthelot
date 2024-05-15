@@ -3017,6 +3017,122 @@ Quoi qu'il en soit, on voit que ces diverses figures jettent un grand jour sur l
 
 ## 6. --- Renseignements et Notices sur quelques Manuscrits Alchimiques.
 
+Il existe dans les catalogues imprimés des bibliothèques publiques d'Europe des notices sur le contenu des manuscrits alchimiques de ces bibliothèques. M. H. Kopp a réuni et rapproché ces notices dans ses _Beiträge zur Geschichte der Chemie_ (1869), p. 256 à 315 ; mais sans prendre une connaissance directe des textes eux-mêmes. J'ai donné moi-même dans mes _Origines de l'Alchimie_, p. 335 à 385, une analyse plus détaillée du manuscrit 2327 de la bibliothèque de Paris et du vieux manuscrit de la bibliothèque de Saint-Marc, à Venise.
+
+Je les avais comparés entre eux, et avec les manuscrits 2325, 2275 et 2249, que j'ai eus aussi entre les mains, ainsi qu'avec les manuscrits de la Laurentienne à Florence et quelques autres ; ces derniers, d'après les catalogues imprimés. La publication présente rendra inutile ces analyses pour les cinq premiers manuscrits ; mais j'ai cru utile de préciser davantage la connaissance de certains autres, tels que les manuscrits du Vatican, que j'ai fait examiner sur place par mon fils, M. André Berthelot ; les deux manuscrits de Leide, celui de Gotha et divers manuscrits des Bibliothèques d'Allemagne, examinés également par mon fils ; ceux de l'Escurial, que M. de Loynes, secrétaire d'Ambassade à Madrid, a bien voulu collationner pour certains passages importants ; le manuscrit 2419 de la Bibliothèque nationale de Paris, que j'ai étudié moi-même ; enfin un manuscrit arabe d'Ostanès, appartenant à la même Bibliothèque et dont j'ai fait traduire quelques pages. --- Ce sont ces renseignements que je vais communiquer. Je les ferai précéder par quelques données précises, tirées des manuscrits eux-mêmes et spécialement du manuscrit de Saint-Marc, lesquelles fournissent des indications nouvelles sur le mode suivi dans leur composition, sur l'ordre relatif et la filiation de leurs copies, et sur les accidents survenus pendant leurs transcriptions successives. Le tout forme une douzaine de petites notices sur les manuscrits alchimiques.
+
+### 1. --- _Ancienne liste du manuscrit de Saint-Marc._
+
+En tête du manuscrit de Saint-Marc se trouve une liste de traités alchimiques, qui ne coïncide avec le contenu même du manuscrit, ni par les titres des traités, ni par leur disposition ; quoique la majeure partie des traités s'y retrouve. L'examen et la discussion de cette liste sont essentiels pour établir la filiation des manuscrits actuels.
+
+Donnons d'abord la liste elle-même. Elle a été imprimée en 1745 par Bernard dans son édition du Traité de Palladius _de Febribus_, p. 114 à 116. Il suffira d'en fournir ici la traduction :
+
+1\. Voici la table du livre des sages, avec l'aide de Dieu.
+
+2\. Stéphanus d'Alexandrie, philosophe œcuménique et maître, sur l'art sacré de la fabrication de l'or (1re leçon).
+
+3\. 2e leçon, du même.
+
+4\. Lettre du même à Théodore.
+
+5\. Sur le monde matériel, 3e leçon.
+
+6\. Sur ce qui concerne l'acte (ἐνέργεια), 4e leçon.
+
+7\. 5e leçon,
+
+8\. 6e leçon,
+
+9\. 7e leçon.
+
+10\. Sur la division de l'art sacré, 8e leçon.
+
+11\. Enseignement du même à l'Empereur Héraclius, 9e leçon.
+
+12\. Héraclius Empereur, sur la chimie, à Modestus, préfet de la ville sainte (Constantinople)
+
+13\. Du même Héraclius, onze chapitres sur la fabrication de l'or.
+
+14\. Colloque du même Héraclius sur la question des philosophes, relative à cet art sacré.
+
+15\. Lettre de l'Empereur Justinien.
+
+16\. Du même Justinien, cinq chapitres sur l'art sacré et entretien avec les philosophes.
+
+17\. Entretien de Comérius le philosophe avec Cléopâtre.
+
+18\. Dialogue des philosophes et de Cléopâtre.
+
+19\. Héliodore le philosophe à l'Empereur Théodose, sur l'art divin : vers iambiques.
+
+20\. Théophraste le philosophe, sur cet art : vers iambiques.
+
+21\. Hiérothée le philosophe, sur cet art divin : vers.
+
+22\. Archelaüs le philosophe, sur cet art divin et sacré : vers.
+
+23\. Pélage le philosophe ; Chrysopée.
+
+24\. Ostanès le philosophe à Pétasius sur l'art sacré.
+
+25\. Démocrite sur la pourpre et la fabrication de l'or, _Physica et mystica_.
+
+26\. Du même, sur la fabrication de l'asèm.
+
+27\. Synésius le philosophe à Dioscorus (commentaire sur le livre de Démocrite) : dialogue relatif au livre du divin Démocrite.
+
+28\. Le philosophe Anonyme, sur l'eau divine du blanchiment.
+
+29\. Du même, sur la Chrysopée, exposant l'enchaînement de la Chrysopée, conformément à la pratique, avec le secours de Dieu.
+
+30\. Zosime le divin, de Panopolis, sur la vertu.
+
+31\. Chapitre d'Agathodémon (principalement sur la fabrication du tout).
+
+32\. Chapitres d'Hermès, Zosime, Nilus, Africanus.
+
+33\. Du Chrétien, sur l'eau divine.
+
+34\. Zosime le philosophe à Eusébie, sur l'art sacré et divin, 34 chapitres.
+
+35\. Olympiodore le philosophe, sur la Chrysopée.
+
+36\. Pappus le philosophe, sur l'art divin.
+
+37\. Moïse, sur la diplosis de l'or.
+
+38\. Chapitres d'Eugénius et de Hiérothée.
+
+39\. Zosime, sur les instruments et fourneaux.
+
+40\. Du même, sur l'eau divine.
+
+41\. Du même, sur les instruments et fourneaux. Mémoires authentiques.
+
+42\. Trempe ou changement du pyrochalque, en vue de l'astrochalque.
+
+43\. Trempe et fabrication du fer indien.
+
+44\. Trempe pour les épées et instruments pour tailler la pierre.
+
+45\. Fabrication de l'asèm, du mercure et du cinabre.
+
+46\. Extrait de l'ouvrage de Cléopâtre sur les poids et mesures.
+
+47\. Du Chrétien, sur la bonne constitution (εὐστάθεια) de l'or.
+
+48\. Du même, sur la Chrysopée, 30 chapitres.
+
+49\. Περὶ φύρμων καὶ τόλων.
+
+50\. Sur la diversité du plomb et sur les feuilles d'or.
+
+51\. Lexique de la Chrysopée, par ordre alphabétique.
+
+52\. Autres chapitres de divers opérateurs sur la Chrysopée.
+
+Cette liste représente une rédaction plus ancienne que le manuscrit de Saint-Marc qu'elle précède, du moins tel que nous le possédons. Elle en diffère par la composition et par l'ordre relatif.
+
 ...
 
 # Texte Grec.
