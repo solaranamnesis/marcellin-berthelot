@@ -2967,6 +2967,54 @@ En somme, ces cinq dessins sont les mêmes que ceux des figures 37 et 38 ; ils r
 
 Toute la filiation des figures apparaît ainsi, de plus en plus clairement, grâce au détail des dessins et des inscriptions.
 
+L'étude des dessins de la feuille 22 du manuscrit 23 Ru. 6 de Leide permet de pousser plus loin et d'établir d'une façon directe la relation entre les appareils des alchimistes grecs et ceux des Arabes, tels qu'ils figurent dans les ouvrages de Geber. Ces dessins sont une sorte de doublets de ceux de la feuille 21 ; précisément comme dans le manuscrit 2327, les dessins de la figure 38 (fol. 221 verso) sont les doublets de ceux de la figure 37 (fol. 81 verso). Cette répétition du même système d'appareils, qui semblerait à première vue due à une inadvertance du copiste spécial du manuscrit 2327, doit en réalité résulter d'une répétition plus ancienne, puisqu'elle se retrouve dans un manuscrit en somme assez différent, quoique de même famille. Décrivons ces dessins du manuscrit Ru. de Leide.
+
+On y voit :
+
+1° Un tribicos, avec son matras (λωπάς θείου ἀπύρου), son chapiteau (χαλκείον), ses trois tubulures et récipients, et son fourneau (καμίνιον). La jonction du chapiteau au matras indique très clairement, comme plus haut, l'emboîtement de deux vases tout à fait distincts.
+
+2° A droite, le dessin d'un alambic à une seule tubulure, reproduction du numéro 1° de la série précédente, c'est-à-dire des figures 13, 37, 38, portant notamment les trois inscriptions du dessin central de la figure 37.
+
+3° Au-dessous, à gauche, le matras (λωπὰς) à digestion (ὄπτησις), posé sur le παλαιστιαῖον καμίνιον.
+
+4° Les deux dernières figures sont si caractéristiques, que je vais les reproduire.
+
+_Figure 44._ ---Vase à digestion.
+
+[Figure 44. --- Vase à digestion. --- D'après un dessin.]()
+
+La figure de droite reproduit l'appareil à digestion des figures 37 et 38, placé de même sous une enveloppe générale en forme de cloche. Pour plus de précision, je remarquerai que mon dessinateur a raccourci les petites oreilles, situées à droite et à gauche de la lettre β. Dans le manuscrit, ces oreilles s'étendent jusqu'à l'enveloppe et la touchent, de façon à marquer la division de cette enveloppe en deux portions superposées, telles qu'elles sont dessinées en effet dans les figures 37 et 38. Cette enveloppe générale semble avoir été symbolisée par la dénomination de l'œuf philosophique. D'autre part, les trois portions intérieures de cet appareil à digestion sont dessinées à côté, séparées et superposées, de façon à en montrer nettement tout l'ajustement.
+
+Avant d'en discuter la signification, donnons les inscriptions correspondantes. Elles sont d'une grécité de très basse époque. Sur le dessin de droite, la panse du matras y porte les mots : ὅμοιον ἔνε τοῦτο μετὰ τρία κομάτια (_sic_), c'est-à-dire : « ceci reproduit les trois segments séparés du dessin qui est à côté. »
+
+Sur le fourneau, on lit : ἐν βολβίτοις καμίνιον, c'est-à-dire : « fourneau entouré de fumier. »
+
+Au-dessous de l'ensemble de ce dessin : καρκινοειδὲς κεῖται δὲ ὁ λόγος ἔμπροσθεν : « appareil rétrograde ; la description est au-dessus. » --- Rappelons que ces mots caractéristiques se trouvent à côté du matras analogue des figures 37 et 38 et de l'appareil à kérotakis de la figure 25.
+
+Sur le côté, on lit, inscrits verticalement, les mots : ἐναταλωνάσι φιλίαζη κατὰ τὰ τρία κομάτια, c'est-à-dire : « dans les trois segments, on ramollit et on combine (les matières). »
+
+Venons au dessin de gauche, qui représente les trois segments séparés, avec lettres correspondantes. On lit à côté, inscrits verticalement, les mots : τοῦτ ʹ ἐμπνέης τὸ ἄλον καὶ τὸ ἄλον ἐντάλῳ ἠ πρῶτος, δεύτερον, τρίτον (_sic_) ; c'est-à-dire : « voici l'un des vases où l'on évapore, et l'autre où l'on ramollit ; c'est-à-dire le 1er, le 2e, le 3e (segment). »
+
+Ces inscriptions confirment exactement les opinions émises plus haut, relativement à l'usage de cet appareil. D'après lesdites inscriptions en effet il répond aux figures 22, 24, 25, c'est-à-dire aux appareils à kérotakis. Il suffit d'imaginer que les appareils placés au sommet des figures 22 et 25 ont été enveloppés par la sphère de la partie inférieure, pour comprendre les figures 38 et 37 : c'est toujours là l'appareil rétrograde, destiné au blanchiment du cuivre par le mercure ou par l'arsenic sublimé. Ajoutons que, les trois segments intérieurs ne sont autre chose que les trois parties des figures 20 et 21 du manuscrit de Venise, représentant des vases à digestion cylindriques. --- De même la figure 27, qui en exprime une forme un peu différente, donnant en quelque sorte la transition entre la figure 20 et les figures 22, 24 et 25.
+
+Mais la figure 44 nous permet d'aller plus loin et d'établir que ces appareils correspondent à l'aludel de Geber et des alchimistes arabes. Il suffit, pour s'en assurer, de jeter un coup d'œil sur les dessins des aludels, figure 45.
+
+Nous avons ici les trois segments à digestion des alchimistes grecs ; avec cette différence pourtant que les deux segments inférieurs sont réunis en un seul morceau dans les dessins des aludels. Le couvercle s'ajustait à frottement doux sur la paroi de la région moyenne : et cela dans une portion considérable de sa hauteur. Les deux morceaux extrêmes sont terminés chacun par une couronne ou bague extérieure, l'une se superposant à l'autre, de façon à compléter la jonction. Tout ceci est décrit en détail dans l'ouvrage de Geber.
+
+[Figure 45. --- Aludel des Arabes.]()
+
+Le couvercle offre deux formes différentes : l'une hémisphérique, l'autre conique. Ces aludels étaient en verre.
+
+Cette figure est tirée de la _Bibliotheca Chemica_ de Manget (t. 1, p. 540, fig. 2 --- Genève, 1702).
+
+Dans la même planche de l'ouvrage précédent, sont représentés (fig. 1) le fourneau, au centre duquel l'on plaçait l'aludel (fig. 3), ainsi qu'un autre type d'aludel, changé en alambic par l'adaptation d'un tube à son chapiteau, le tout chauffé à la partie inférieure à l'aide d'un fourneau, etc.
+
+La description de ces appareils existe, en traduction latine, dans le second livre de l'ouvrage de Geber, intitulé : _De principiis magisterii et perfectione_. Ce livre peut servir sur quelques points de commentaire aux traités de Zosime sur les fourneaux et instruments ; il continue et développe la tradition des alchimistes grecs ; non sans y ajouter d'ailleurs bien des choses nouvelles. Mais cette comparaison nous mènerait trop loin.
+
+Quoi qu'il en soit, on voit que ces diverses figures jettent un grand jour sur les pratiques et appareils des anciens alchimistes, sur les changements que ces appareils ont éprouvé dans le cours des temps, ainsi que sur la filiation des manuscrits.
+
+## 6. --- Renseignements et Notices sur quelques Manuscrits Alchimiques.
+
 ...
 
 # Texte Grec.
