@@ -2836,6 +2836,137 @@ Le chapiteau est surmonté du mot χαλκίον (vase de cuivre), et les trois
 
 On donnera tout à l'heure une figure similaire (fig. 38), d'après le manuscrit 2327 (fol. 221) ; laquelle n'est pas identique à la précédente et se rapproche de celle de Saint-Marc, plutôt que de nos alambics actuels.
 
+
+[Figure 37. --- Alambic et Vase à digestion.]()
+
+Par contre, la forme de l'alambic est devenue à peu près identique à celle de nos vieux instruments (en verre), dans la figure, unique d'ailleurs et mal faite, du manuscrit 2252, copié au 17e siècle. Dans ce manuscrit, au-dessous des trois cercles concentriques et au début des Mémoires authentiques (γνήσια ὑπομνήματα) de Zosime, on aperçoit un alambic (βύκος ὑέλινος) sur un foyer (καύστρα), et un récipient condensateur à col étroit, λοπὰς ἢ ἄγγος στενόστομον (_sic_). On voit qu'il y a de légères variantes dans les inscriptions.
+
+3° A gauche et en bas, dans la figure 37 du manuscrit 2327, se trouve un appareil à digestion ou à cuisson, formé d'une fiole sur un bain de sable, chauffé par un fourneau (πῦρ).
+
+La fiole est désignée par un mot coupé en deux par le relieur, et terminé par les syllabes τησις, tel que ὄπτησις (cuisson). L'inscription qui désigne le fourneau est également coupée en deux ; mais on lit sur les trois lignes superposées les syllabes finales λαι --- αῖον --- μίνιον. Il est facile de reconnaître ici l'inscription de la figure 22 : (πα) λαι (στι) αῖον (κα) μίνιον.
+
+Il paraît donc que c'est là l'équivalent du bain de cendres, destiné à chauffer la palette ou κηροτακίς. Mais la palette est tombée en désuétude et les opérations effectuées à l'origine avec son concours ont été simplifiées dans le cours des temps, et réduites à de simples digestions ; celles-ci sont opérées également sur un bain de sable ou de cendres. La matière même, au lieu d'être placée sur une palette métallique, est déposée soit sur une pièce plate (fig. 38) ou conique (fig. 37), au-dessous du bouchon, soit même au fond de la fiole. Dans ces conditions, l'emploi de la palette constituait une complication inutile.
+
+4° C'est ce que confirment le dessin et l'inscription placés à droite de la figure 37. Nous avons ici une fiole, le mot φυάλη (_sic_) ayant passé du sens ancien _coupe_ au sens moderne _fiole_.
+
+Cette fiole est surmontée d'un bouchon ou tête, assez compliqué, au-dessous duquel il semble qu'il reste quelque indice de la kérotakis, sous l'apparence d'une pièce conique peu distincte. Le tout est enfermé dans une enceinte, formée d'un cylindre inférieur, posé sur le fourneau, καμήνιον (_sic_), et d'une coupe hémisphérique renversée, qui constitue le haut du cylindre.
+
+Il serait difficile de reconnaître à première vue que cet appareil a remplacé celui de la figure 25, ou plutôt ceux des figures 20 et 21 ; car la kérotakis a disparu. Mais la filiation des appareils résulte des inscriptions qui les accompagnent. En effet, on lit au-dessus du dessin (4°) de la figure 37, les mots : καρκινοειδὲς κεῖται δὲ ὁ λόγος ἔμπροσθεν ; c'est-à-dire la même inscription que sur la figure 25. Ce serait donc là encore un appareil à digestion et distillation rétrograde, dans lequel les produits sublimés retombent sur la matière inférieure qui les a fournis : ainsi qu'il arriverait dans un appareil disposé pour blanchir le cuivre par la sublimation réitérée du mercure ou de l'arsenic (p. 145).
+
+Ajoutons qu'on lit au-dessous de l'ensemble de ces appareils la formule mystiques des opérations qui s'y accomplissaient : « en haut les choses célestes, en bas les terrestres ; par le mâle et la femelle l'œuvre est accomplie » (manuscrit 2327, fol. 81 verso) : ἄνω τὰ οὐράνια, κάτω τὰ ἐπιγηία δι᾽ ἄρενος καὶ θήλεος πληρούμενον τὸ ἔργον.
+
+_Figure 38._ --- Cette figure (manuscrit 2327, fol. 221 verso) reproduit le dessin de la figure 37, sauf variantes.
+
+[Figure 38. --- Alambic et Vase à digestion.]()
+
+1° Le dessin à gauche et en haut (_tribicos_) est à peu près le même.
+
+2° Le dessin de l'alambic à un seul bec offre une variante, qui le rapproche de la figure 16. Cette forme existe aussi, grossièrement dessinée, dans le manuscrit 2275 (fol. 57 verso).
+
+3° Le dessin de la fiole à digestion, reporté ici tout-à-fait à gauche, est à peu près le même que dans la figure 37.
+
+4° Mais le dessin voisin est un peu différent. Le bouchon de la fiole offre des traits dissemblables, et peut-être un dernier reste de lame horizontale, répondant à la kérotakis. Il porte d'ailleurs la même inscription, caractéristique d'un appareil à opération rétrograde, que la figure 37 ; sauf la substitution du mot ἀλλαχοῦ (ailleurs) au mot ἔμπροσθεν.
+
+5° A gauche, en bas, un vase à digestion (aludel mal fait ? ) sur un grand trépied, avec l'inscription : ἤγουν τὸ παρὸν καμίνον ἐστὶν καρκινοειδὲς ὁ λόγος κεῖται. « Le présent fourneau est rétrograde ; la description est ici. » (V. p. 134.)
+
+_Figure 39._ --- Cette figure (manuscrit 2327, fol. 289 verso), répétée deux fois, est un alambic à tubulure unique.
+
+[Figure 39. --- Petit alambic. Décalque.]()
+
+_Figure 40._ --- Cette figure (manuscrit 2327, fol. 33 verso), fait partie de l'ouvrage de Synésius et répond exactement au texte de l'auteur : c'est l'une des plus intéressantes, en raison de la date de cet ouvrage (4e siècle). Elle représente un alambic, sur une marmite servant de bain-marie (λέβης), portée elle-même sur un trépied. Elle rappelle tout à fait la disposition de nos appareils modernes.
+
+A côté se trouvent les mots caractéristiques : συναρμόζεται τῷ βοταρίῳ ὑάλινον ὄργανον ἔχων μαστάριον. « On ajuste au matras inférieur (βοτάριον) un instrument de verre, en forme de mamelle (μαστάριον). » Cet instrument est muni d'une gorge, ou rainure circulaire, destinée à récolter les liquides condensés dans le chapiteau et à les conduire dans la tubulure qui aboutit au récipient. C'est un appareil qui est encore en usage aujourd'hui. Le sens jusqu'ici obscur des mots βοτάριον et μαστάριον se trouve précisé par ce texte et cette figure.
+
+La figure manque d'ailleurs dans le manuscrit de Saint-Marc, quoique le texte soit le même ; mais elle existe dans le manuscrit 2325 (13e siècle). Le manuscrit 2275 la reproduit (fol. 16).
+
+[Figure 40. --- Alambic de Synésius. Décalque.]()
+
+_Figure 41._ --- Elle reproduit le dessin fort élémentaire du même alambic, d'après le manuscrit 2325.
+
+Tout ceci est fort important pour l'histoire de la distillation. A l'origine, on distilla le mercure, en le condensant simplement dans un chapitre au posé sur un pot (Dioscoride, Pline). Ce n'est que plus tard que l'on adapta une gorge à la partie inférieure, pour empêcher les liquides condensés de retomber dans le pot ; puis cette gorge fut pourvue d'une tubulure, destinée à conduire au dehors le liquide condensé. On voit par le texte et par la figure conforme de Synésius que ces progrès étaient réalisés dès la fin du 4e siècle de notre ère. Rappelons que Synésius, dans une lettre à Hypatie, publiée parmi ses œuvres connues, a décrit aussi l'aréomètre, œuvre d'une science déjà avancée.
+
+[Figure 41. --- Alambic de Synésius. (Ms. 2325.) Décalque.]()
+
+_Figure 42._ --- Cette figure (manuscrit 2327, fol. 112 verso), répétée deux fois, est une simple fiole.
+
+[Figure 42. --- Fiole. Décalque.]()
+
+_Figure 43._ --- Cette figure (manuscrit 2327, fol. 184 verso), malheureusement coupée par le relieur, se trouve vers la fin du poème de Théophraste. On y discerne un alambic, mais avec un appendice supérieur, fort singulier dont la position rappelle la κηροτακίς. Il est muni de six lignes verticales, répondant au texte suivant : φέροντας τὰς ἕξ ζώνας ὡς τίγμα (_sic_) φάγαι. « Portant six ceintures (enveloppes) pour absorber la matière fondue. »
+
+[Figure 43. --- Alambic avec six appendices. Décalque.]()
+
+**Figures du manuscrit 2325.**
+
+Les figures du manuscrit 2325 sont très intéressantes parce qu'elles répondent à une époque intermédiaire (13e siècle) entre celui de Saint-Marc et le n° 2327 de Paris. Elles sont en général conformes à celles du manuscrit de Saint-Marc, bien que le manuscrit 2325 n'en dérive certainement pas directement, comme je le montrerai. Il résulte de cette double circonstance que la date des dessins du 2325 est antérieure à la copie actuelle du manuscrit de Saint-Marc, et même à la date de ses prototypes immédiats ; cependant ils doivent dériver tous les deux de quelque source commune et plus ancienne. Quant au détail, le nombre, la forme et la dimension des parties des appareils sont assez différents, pour quelques-uns du moins. Le manuscrit 2325 contient en plus l'alambic de Synésius, figure 41, et le dessin (fig. 33) mystique de la 3e leçon de Stéphanus. Par contre, les appareils à digestion y sont moins multipliés.
+
+Nous avons donné les figures essentielles de ce manuscrit, telles que : la figure 41 (fol. 23 verso) représentant l'alambic de Synésius, avec la chaudière (λέβης), et le feu (πῦρ).
+
+La figure 17 (tribicos), est analogue à celle du manuscrit de Saint-Marc (fig. 15). Toutefois les dimensions relatives du matras à soufre (λωπὰς θείου ἀπύρου), du tube vertical, du condensateur supérieur et des ballons qui recueillent le produit distillé sont différentes ; le dessin de l'un de ces ballons a même disparu. --- En outre, le mot πῦρ (feu) a remplacé καύστρα (foyer). La figure du tribicos, de même que toutes celles du manuscrit 2325, est beaucoup plus grossière que celles du manuscrit de Saint-Marc.
+
+A côté se trouve également, très grossièrement dessiné, l'appareil distillatoire à large tube de cuivre (χαλκίον), de la figure 16 ; mais j'ai jugé inutile de reproduire ce dessin du manuscrit 2325.
+
+Au-dessous du tribicos, on voit la figure 23 donnée plus haut : c'est celle d'un appareil à kérotakis, analogue à celui de la figure 22. Mais le fourneau (παλαιστιαῖον καμίνιον) est plus petit et les condensateurs supérieurs (φιάλη), sur l'extérieur, sont plus gros. Les ponctuations, indicatrices de trous sur le bain-marie, couvrent un espace bien moindre. Le mot de kérotakis n'y figure pas.
+
+Enfin, au-dessous du σωλὴν et du χαλκίον, on voit un autre appareil à kérotakis, reproduisant le καρκίνος de la figure 25, avec des variantes trop légères pour que j'aie cru utile de le donner.
+
+On remarquera que les figures sont moins nombreuses dans le manuscrit 2325 que dans le manuscrit de Saint-Marc ; elles sont d'ailleurs concentrées en tête du mémoire de Zosime, dans le manuscrit 2325 aussi bien que dans le manuscrit 2327. Ce mode de distribution est évidemment plus moderne que celui du manuscrit de Saint-Marc.
+
+**Figures des  manuscrits de Leide.**
+
+L'histoire des appareils alchimiques tire une nouvelle lumière de l'examen des manuscrits alchimiques grecs de Leide. L'un d'eux (Codex Vossianus, in-4°, n° 47), fort mal écrit d'ailleurs, reproduit presque toutes les figures du manuscrit de Saint-Marc, entre autres :
+
+Nos trois planches 1, 2, 3 (fig. 3, 4, 5), sauf quelques inversions ;
+
+La Chrysopée de Cléopâtre de la figure 11 (fol. 49 verso) ;
+
+La double figure 14 et 14 _bis_ du dibicos (fol. 50 verso) ;
+
+La figure 15 du tribicos (fol. 51 verso) ;
+
+La figure 16 de l'appareil distillatoire (fol. 51 verso) ;
+
+La figure 18 de la chaudière distillatoire (fol. 58 recto) ;
+
+Les deux appareils cylindriques de nos figures 20 et 21 (fol. 53 verso) ;
+
+Les kérotakis de nos figures 22 et 24 (fol. 52 verso) ;
+
+La palette de la figure 24 _bis_ (fol. 53 recto) ;
+
+La figure 25 du vase à kérotakis, portant à côté le mot καρκινοειδὲς (fol. 55 verso) ;
+
+Les récipients de la figure 26 (fol. 55 verso) ;
+
+Le vase à kérotakis cylindrique de la figure 27 (fol. 55 verso) ;
+
+La figure 31 cordiforme (fol. 51 recto) ;
+
+La formule magique de l'Écrevisse (fig. 28), avec son explication (fol. 70 recto), fidèlement copiée.
+
+Il est clair qu'il s'agit dans tout ceci d'une simple copie, directe ou indirecte, des figures du manuscrit de Saint-Marc.
+
+L'autre manuscrit de Leide est noté 23. Ru. 6 (ayant appartenu à Ruhnkenius) ; il a été écrit au 17e siècle et est fort analogue par sa table, laquelle forme une grande partie de son contenu, à notre manuscrit 2327. Il en reproduit textuellement tout le tableau des signes, c'est-à-dire les cinq pages qui forment nos figures 6 à 10, planches 4 à 8.
+
+Aux folios 21 et 22, il renferme diverses figures pareilles, avec des variantes dans les inscriptions et dans les dessins, dont quelques-unes fort importantes. Je vais les signaler :
+
+Folio 21 : alambic de Synésius, conforme à la figure 40 ci-dessus ; mais il porte quatre mots, au lieu du seul mot λέβης inscrit au manuscrit 2327, mot qui se retrouve d'ailleurs aussi sur la marmite, dans le manuscrit Ru. On y lit en outre : λωπὰς sur le matras, φιάλη sur le chapiteau, δοχεῖον sur le récipient.
+
+Au-dessous on voit 5 dessins intéressants, savoir, de gauche à droite :
+
+1° Un alambic à une pointe, correspondant à celui des figures 13 et 37. Il porte les mots καμίνιον sur le fourneau, λωπάς sur le matras. La forme du chapiteau indique très nettement que c'est une fiole renversée, dont le col entoure celui du matras, les lignes des deux cols n'étant pas confondues. --- Cette différence ne m'a pas paru assez grande pour exiger la reproduction du dessin.
+
+2° Un alambic, sans chapiteau, mais à large tube, répondant à celui des figures 16 et 38. On y lit les mots καμίνιον sur le fourneau, φιάλη sur le matras, χαλκείον (_sic_) sur le gros tube ; le récipient n'a pas de nom. Ces mots ne coïncident pas exactement avec ceux des figures z6 et 38 ; ce qui montre que le manuscrit Ru. n'a pas été copié directement sur les nôtres.
+
+3° Au-dessous de ce dessin, un matras à digestion (φιάλη), sur un bain de sable, chauffé sur un fourneau (παλαιστιαῖον καμίνιον), avec l'indication ὄπτησις, comme dans la figure 37.
+
+4° Une fiole à digestion, recouverte d'une sorte de cloche, reproduisant à peu près identiquement la fiole de la figure 38, avec les mêmes appendices à la partie supérieure ; appendices dérivés, comme je l'ai établi, de la kérotakis (fig. 22 et 25). La seule inscription qui existe dans ce dessin est placée sur le fourneau : καμίνιον παλαιστιαῖον. Ces mots confirment l'opinion qu'il s'agît d'une transformation de l'appareil des figures 22 à 25.
+
+5° Enfin, à la droite on voit le petit trépied de la Chrysopée de Cléopâtre (fig. 11). Au-dessous sont les mots ἐν βολβίτοις (dans le fumier). Ces mots sont caractéristiques. En effet, ils montrent qu'il s'agit d'un appareil destiné à être maintenu en digestion à une douce chaleur, au milieu du fumier en fermentation. Cet appareil est posé sur un trépied et paraît identique à celui qui est dessiné à gauche, au-dessous du tribicos, dans la figure 38.
+
+En somme, ces cinq dessins sont les mêmes que ceux des figures 37 et 38 ; ils répondent à ceux des figures 12 et 13, lesquels sont eux-mêmes des dérivés faciles à reconnaître des dessins de la figure 11 (Chrysopée de Cléopâtre).
+
+Toute la filiation des figures apparaît ainsi, de plus en plus clairement, grâce au détail des dessins et des inscriptions.
+
 ...
 
 # Texte Grec.
