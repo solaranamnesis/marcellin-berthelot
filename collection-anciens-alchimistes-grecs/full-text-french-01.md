@@ -3213,6 +3213,396 @@ Le manuscrit 2327 dérive d'un manuscrit antérieur à la destruction de ces feu
 
 Mais cette explication ne suffit pas pour rendre un compte complet de l'état présent des textes ; attendu qu'il a disparu, en outre, les traités d'Héraclius et de Justinien, signalés par la vieille liste, et dont le manuscrit 2327, pas plus que le manuscrit de Saint-Marc, n'offre aucune trace. Le prototype du manuscrit 2327 devait donc appartenir, soit à une souche distincte de celle qui répondrait à la vieille liste de Saint-Marc, et ne contenant pas le cahier qui renfermait les traités d'Héraclius et de Justinien ; soit à un dérivé intermédiaire, tiré de la même souche que cette vieille liste, quoique déjà privé de ce cahier, mais renfermant en plus, par rapport au manuscrit de Saint-Marc actuel, la fin de Stephanus et les traités de Comarius et de Cléopâtre.
 
+Ce n'est pas tout : la finale du manuscrit 2325, le passage intercalaire signalé dans le manuscrit 2327, la confusion dans le texte du manuscrit de Saint-Marc concernant les relations des métaux et des planètes, texte resté intact dans le manuscrit 2327, la finale du manuscrit de Saint-Marc, ainsi que la finale du manuscrit 2329 et celle du manuscrit de Leide, Voss. n° 47, semblent indiquer que les manuscrits de Stéphanus ont éprouvé autrefois dans leurs derniers feuillets de grandes perturbations.
+
+Enfin, il a subsisté, en dehors de ces divers manuscrits, des fragments des traités de Justinien, tel que celui contenu dans le manuscrit de Leide, Voss. n° 47, qui sera reproduit tout à l'heure. Il ne me paraît pas opportun de développer en ce moment les hypothèses subsidiaires qui rendraient compte de tous ces détails.
+
+### 3. --- _Diverses lacunes et transpositions du manuscrit de Saint-Marc._
+
+Voici diverses autres comparaisons que j'ai eu occasion de faire et qui peuvent également être utiles, pour rapprocher les textes et en établir la filiation :
+
+1° Je rappellerai qu'un ancien relieur du manuscrit de Saint-Marc a interposé après le folio 103 (traité de Chrétien sur l'eau divine) les folios 104 à 118 ; le texte du folio 119 faisant en effet suite au folio 103. Ceci peut servir à distinguer les copies faites sur ce manuscrit, après la reliure en question.
+
+2° Dans les folios 104 à 118 règne une grande confusion. Les articles 42., 43., 44. de l'ancienne liste, sur la trempe du fer, sont coupés en deux, au début et à la fin du cahier, et les articles sur l'asèm, le mercure et le cinabre, qui les suivaient dans l'ancienne liste 45., se trouvent interposés.
+
+3° Les traités de Cléopâtre et du Chrétien 46. et 47. sont intervertis, et le dernier auteur est coupé en deux ; enfin les traités sur la fabrication du verre, de la bière, etc., ont été ajoutés. Il semble que ces modifications résultent d'un certain trouble, survenu à un moment donné dans les feuillets du manuscrit type, qui répondait à la vieille liste de Saint-Marc.
+
+4° Le texte d'Agatharchide est brusquement interrompu à la fin du folio 140, comme si un ou plusieurs feuillets avaient disparu. --- Cette lacune est corrélative de la suivante.
+
+5° Les mémoires de Zosime, annoncés dans la vieille liste de Saint-Marc (n° 34), ne figurent plus parmi les titres du manuscrit actuel. Cependant ils y existent réellement. En effet, le titre et les premières lignes seules, lesquels sont transcrits dans le manuscrit 2327 (fol. 112), ont disparu dans celui de Saint-Marc. Mais le texte transcrit au folio 141 est resté. Car le manuscrit de Saint-Marc débute à la 3e ligne du folio 112 verso du manuscrit 2327 et poursuit de même jusqu'au folio 159, répondant au folio 133 verso du manuscrit 2327. --- Il manque donc à cette place, je le répète, dans le manuscrit de Saint-Marc un ou plusieurs folios entiers, disparus avant l'époque où la pagination actuelle a été numérotée.
+
+6° Les articles d'Agatharchide ne débutent pas au commencement d'une page, mais à la 4e ligne du folio 138 recto. Or les trois premières lignes appartiennent à la suite d'un article « sur le jaunissement » (Saint-Marc, fol. 137 verso), article qui ne comprend que 14 lignes, dont 11 sur le folio 137 verso ; les 3 dernières forment le commencement du folio 138 verso.
+
+Ce dernier article occupe deux feuillets de plus dans le manuscrit 2327 (fol. 110 à 112) : il se trouve donc mutilé par un arrêt brusque dans le manuscrit de Saint-Marc, et sans que le copiste s'en soit aperçu, puisque le copiste a entamé un autre article, ayant son titre spécial. Il semble que cette solution de continuité répondait, dans un manuscrit antérieur à celui de Saint-Marc, à une fin de cahier ou de folio, dont la suite aurait disparu ; tandis que cette suite s'est conservée dans un manuscrit prototype du manuscrit 2327.
+
+7° Les articles d'Agatharchide d'ailleurs semblent réellement une intercalation faite dans le manuscrit primitif ; car l'article du jaunissement dans le manuscrit 2327 est suivi précisément par les Mémoires authentiques de Zosime, comme dans le manuscrit de Saint-Marc ; à cela près que le titre et les cinq premières lignes manquent dans le manuscrit de Saint-Marc.
+
+8° Au folio 115 (recto) du manuscrit de Saint-Marc se trouve un titre : Περὶ φώτων (sur les feux), suivi d'une seule ligne : Ἐλαφρὰ φῶτα πᾶσαν τὴν τέχνην ἀναφέρει. « Tout l'art consiste dans un feu léger. » C'est tout ce qui reste à cette place d'un traité qui existe _in extenso_ dans le manuscrit 2327, folio 264 recto : la ligne précédente s'y retrouve, dans les 9e et 10e lignes qui suivent le titre. Il y a encore là l'indice d'un ancien résumé, ou d'une mutilation, faite sur un prototype qui s'est conservé dans le manuscrit 2327, et dont le manuscrit de Saint-Marc n'a gardé qu'une trace.
+
+Toutes ces lacunes et ces défauts de soudure sont, je le répète, utiles pour constater l'histoire des manuscrits.
+
+Signalons encore quelques additions faites, à diverses époques, sur des pages ou demi-pages blanches du manuscrit de Saint-Marc ; additions dont la reproduction dans les autres manuscrits peut servir à attester qu'ils dérivent, directement ou indirectement, de ce manuscrit type. Tels sont :
+
+9° Le Labyrinthe de Salomon, avec ses 24 vers (v. _Texte grec_ 1, 20), ajouté, vers le 14e ou 15e siècle, sur une page blanche, dont le recto porte divers petits articles de l'ancienne écriture : le tout intercalé au milieu d'un traité du Chrétien. On ne comprend pas bien pourquoi ce verso avait été laissé en blanc à l'origine.
+
+10° L'article sur la tutie, au folio 188 recto : écriture du 15e ou 16e siècle.
+
+11° La fabrication de l'argent, texte ajouté au bas du folio 194 verso : écriture du 15e siècle.
+
+12° Diverses additions initiales : traité de Nicéphore sur les songes, par ordre alphabétique ; cercles astrologiques, etc., sur les feuilles de garde* et les marges.
+
+*) Une partie de celles-ci sont palimpsestes, la vieille écriture ayant été grattée.
+
+13° Je signalerai encore les additions sur les scories et la formule de l'Ecrevisse, en écriture du 15e siècle, sur la première feuille de garde (v. p. 152).
+
+14° Une addition du 15e siècle, ayant pour titre : Διάγραμμα τῆς μεγάλης ἡλιουργίας, au folio 62 recto.
+
+15° L'étude comparative des figures tracées dans les divers manuscrits fournit aussi des renseignements très intéressants pour l'histoire des sciences, comme pour la filiation des manuscrits. A ce dernier point de vue, je signalerai, par exemple, un petit alambic, figuré en marge du traité de Synésius, dans le manuscrit 2325 (fol. 23 verso), et dans le manuscrit 2327 (fol. 33 verso) ; tandis qu'il manque dans le manuscrit de Saint-Marc, à la même place (fol. 74 recto).
+
+Les figures de la Chrysopée de Cléopâtre, celles des appareils à distillation et des appareils à digestion dans les divers manuscrits donnent aussi lieu à une discussion très importante : je l'ai développée plus haut dans un article spécial.
+
+### 4. --- _Manuscrits de l'Escurial._
+
+Il existe à l'Escurial deux manuscrits alchimiques qui soulèvent des questions intéressantes. Ces manuscrits, les seuls sur cette matière qui aient survécu à un incendie de la Bibliothèque survenu en 1671, proviennent de la Bibliothèque de Hurtado de Mendoza ; ils ont été copiés au 16e siècle. Ils ont été visités en 1843 par Emm. Miller, qui a publié un catalogue de leur contenu.
+
+L'un d'eux, Φ-Ι-11 (Miller, p. 146), reproduit les titres et l'ordre du manuscrit 2327 de la Bibliothèque de Paris, même dans les additions intercalaires faites après coup* ; il les reproduit avec une telle fidélité que je ne doute pas qu'il n'ait été copié directement sur ce manuscrit.
+
+*) Par exemple, l'article de Zosime sur l'asbestos, intercalé entre la lettre de Psellus et le traité de Cléopâtre sur les poids et mesures, dans des feuilles originairement blanches du manuscrit 2327.
+
+L'autre mérite un examen plus approfondi ; car on a supposé qu'il contenait les traités perdus de Justinien et d'Héraclius. Miller, dans son ouvrage sur les manuscrits grecs de l'Escurial, page 416, le désigne, d'après le catalogue officiel, par les signes Ψ-Ι-13. Il s'exprime ainsi.
+
+« Voici le détail de tous les ouvrages contenus dans le manuscrit :
+
+1\. Traité d'Étienne d'Alexandrie sur l'art de faire de l'or.
+
+2\. De la chimie, adressé par l'empereur Héraclius à Modeste d'Hagiopolis.
+
+3\. De la fabrication de l'or, par l'empereur Héraclius.
+
+4\. Σύλλογος sur ceux qui cherchent la pierre philosophale, par l'empereur Héraclius.
+
+5\. Lettre de l'empereur Justinien sur l'alchimie.
+
+6\. De l'art divin, par Justinien.
+
+7\. Διάλεξις adressée aux philosophes par l'empereur Justinien.
+
+8\. Sur la fabrication de l'or, par Comarius.
+
+9\. Dialogue des philosophes et de Cléopâtre.
+
+10\. Poème d'Héliodore sur l'art sacré.
+
+11\. Vers iambiques de Théophraste sur l'art sacré.
+
+12\. Vers iambiques de Hiérothée sur l'art sacré.
+
+13\. Vers iambiques de Archélaüs sur l'art sacré.
+
+14\. Pélagius sur la Chrysopée.
+
+15\. Ostanès à Pétasius sur l'art sacré.
+
+16\. Démocrite _de porphyrâ_, etc.
+
+17\. Démocrite, περὶ ἀσήμου ποιήσεως.
+
+18\. Scholies de Synésius sur la physique de Démocrite, à Dioscorus.
+
+19\. De l'eau sacrée, par un anonyme.
+
+20\. De la Chrysopée, par un anonyme.
+
+21\. Zosime, περὶ ἀρετῆς, κ. τ. λ.
+
+22\. Chapitre d'Agathodémon.
+
+23\. Chapitres d'Hermès, Zosime, Nilus, Africanus.
+
+24\. Zosime à Eusebia, sur l'art sacré.
+
+25\. Olympiodore sur Zosime.
+
+26\. Zosime à Théodore, vingt-cinq chapitres.
+
+27\. De la Chrysopée, par un anonyme.
+
+28\. Pappus, sur l'art sacré.
+
+29\. Moïse, περὶ διπλώσεως χρυσοῦ.
+
+30\. Chapitres d'Eugénius et d'Hiérothée.
+
+31\. Zosime, περὶ ὀργάνων καἱ καμίνων.
+
+32\. Zosime, sur l'eau sacrée.
+
+33\. Zosime, περὶ ὀργάνων καἱ καμίνων γνήσια ὑπομνήματα.
+
+« Les articles suivants ne se trouvent pas dans le manuscrit ; mais ils sont indiqués dans une table placée en tête du volume, comme existant primitivement.
+
+34\. Βαφὴ ἤτοι μεταβολὴ πυροχάλκου πρὸς ἀσπροχάλκου.
+
+35\. Βαφὴ καὶ ποίησις τοῦ ἰνδικοῦ σιδήρου.
+
+36\. Βαφὴ πρὸς ξίφη καὶ ἐργαλεῖα λαξευτικά.
+
+37\. Περὶ ἀσήμου καὶ ὑδραργύρου καὶ κινναβάρεως ποίησις.
+
+38\. Extrait de Cléopâtre sur les mesures.
+
+39\. Περὶ εὐσταθείας τοῦ χρυσοῦ, par un philosophe chrétien.
+
+40\. De la Chrysopée, par le même.
+
+41\. Περὶ φουρμῶν καὶ τίλων ποιήσεως.
+
+42\. Περὶ διαφορᾶς μολίβδου καὶ περὶ χρυσοπετάλων.
+
+43\. Lexique pour la Chrysopée.
+
+44\. Autres chapitres de différents poètes sur la Chrysopée.
+
+(Puis deux articles indiqués comme existant dans le manuscrit.)
+
+45\. Vers de Nicéphore sur les songes.
+
+46\. Synésius suries songes. »
+
+Cette liste est fort étrange, dans la forme même donnée par Miller. C'est un mélange de mots grecs, de mots latins et de mots français traduits du grec ; mélange dont on ne comprend pas bien l'utilité, si les titres ont été relevés fidèlement par Millet. Les mots traduits contiennent eux-mêmes de singuliers contresens. Par exemple, à l'article 2., au lieu de Modeste d'Hagiopolis, il y a dans la vieille liste grecque de Saint-Marc : Μόδεστον ἱέραρχον τῆς ἁγίας πόλεως : Modestus, préfet de la ville sacrée, c'est-à-dire de Constantinople.
+
+L'article 18. porte : scholies de Synésius sur la physique de Démocrite ; ces derniers mots traduisent τὰ φυσικὰ, dont le sens est tout différent.
+
+De même à l'article 44 il ne s'agit pas de « poètes, » mais de chimistes opérateurs (ποιητῶν). Ιl semble que Miller ait copié un vieux catalogue, dû à un auteur qui ne savait pas bien le grec, sans se donner la peine de le refaire lui-même.
+
+Si nous examinons la liste en elle-même, nous la trouvons, comme titres et ordre relatif (sauf légères variantes), parfaitement conforme à la vieille liste qui se trouve en tête du manuscrit de Saint-Marc (fol. 2 à 5), liste que j'ai transcrite dans l'un des articles précédents (p. 174). Or le contenu actuel du manuscrit de Saint-Marc ne concorde pas avec cette liste, ni comme matière, ni comme ordre relatif.
+
+Ces détails étant donnés, une question capitale se présente : le manuscrit de l'Escurial renferme-t-il réellement, comme le catalogue de Miller semblerait l'indiquer, six à huit traités qui manquent dans tous les autres ? La question avait beaucoup d'importance pour la présente publication.
+
+J'aurais désiré la vider en examinant moi-même le manuscrit de l'Escurial. Mais le prêt à l'étranger, d'après ce qui m'a été répondu, est absolument interdit aux bibliothèques espagnoles. Heureusement j'ai pu y suppléer et résoudre complètement la question, grâce à l'obligeance de notre ambassadeur, de M. de Laboulaye, et de l'un des secrétaires de l'ambassade, M. de Loynes. Je lui ai adressé les titres exacts, en grec et en latin, des 18 premiers articles de la vieille liste de Saint-Marc, avec prière de vérifier s'ils existaient dans le manuscrit de l'Escurial ; et, dans ce cas, de relever la première et la dernière ligne de chacun d'eux ; enfin de rechercher dans la 9e leçon un passage caractéristique, celui où la leçon de Stéphanus est interrompue brusquement dans le manuscrit de Saint-Marc, sans aucun indice apparent de solution de continuité ; le manuscrit donnant à la suite la fin du dialogue des philosophes et de Cléopâtre. Cette lacune et cette juxtaposition font suite, comme je l'ai dit plus haut (p. 182) aux mots : καὶ ἕκαστον αὐτῶν ἐν τῇ γῇ κέκρυπται ἐν τῇ ἰδίᾳ δόξῃ, et la suite débute aussitôt par : καὶ ὐμεῖς, ὦ φίλοι, ὅταν τὴν τέχνην ταύτην τὴν περικαλῆ βούλεσθε ...
+
+M. de Loynes a eu l'obligeance de passer deux jours à l'Escurial pour faire cette vérification et cette recherche.
+
+Il a transcrit exactement les 17 premiers articles du catalogue grec placé en tête du manuscrit Ψ-Ι-13, catalogue qui se trouve exactement conforme à la vieille liste de Saint-Marc, tel que je l'ai reproduit ci-dessus (p. 174) : la traduction donnée par Miller est donc incorrecte. Puis il a relevé les neuf leçons et la lettre de Stéphanus, en en transcrivant le titre, la première ligne, la dernière ligne et en indiquant le nombre des folios de chacune d'elles : le tout concorde très exactement avec le texte du manuscrit de Saint-Marc, sauf quelques variantes d'orthographe sans importance. Les 10 premiers numéros étant ainsi reconnus identiques, M. de Loynes a vérifié que les huit numéros suivants de la vieille liste (nos **12** à **18** de la p. 174) manquent absolument dans le manuscrit de l'Escurial. La dernière ligne de la dernière leçon de Stéphanus s'y trouve suivie immédiatement par le poème d'Héliodore, lequel forme notre numéro **19** : le titre, le premier et le dernier vers ont été relevés.
+
+Les traités disparus dans le manuscrit de Saint-Marc n'existent donc pas davantage dans le manuscrit de l'Escurial.
+
+Ce n'est pas tout : la lacune et la juxtaposition finales de la 9e leçon de Stéphanus se retrouvent exactement, avec les mêmes mots, dans le manuscrit de l'Escurial ; ce dernier poursuit de même, sur une étendue comparable, et la 9e leçon se termine, par les mêmes mots : ἐνταῦθα γὰρ τῆς φιλοσοφίας ἡ τέχνη πεπλήρωται.*
+
+*) Voir page 182.
+
+Il y a plus : en marge, après les mots ἰδίᾳ δόξῃ du manuscrit de l'Escurial, il existe un renvoi d'une autre écriture, postérieure au manuscrit, lequel contient les mots suivants, que M. de Loynes a eu l'obligeance de décalquer sur un papier transparent : ἐντεῦθεν ἄρχεται τὰ κομαρίου τοῦ φιλοσόφου καὶ ἀρχιέρεως διδάσκοντος κλεοπάτρας ; c'est-à-dire « ici commence l'écrit de Comarius, philosophe et grand prêtre, maître de Cléopâtre. » Quelqu'un des lecteurs du manuscrit s'était donc aperçu de la lacune et de la juxtaposition ; probablement d'après l'autre manuscrit, copié, ainsi que je l'ai dit, d'après le 2327, où cette lacune n'existe pas.
+
+La question de savoir si les manuscrits de l'Escurial ont une valeur originale et renferment quelque traité perdu, qui n'aurait pas subsisté ailleurs, est donc ainsi vidée. En fait, l'un de ces manuscrits est une copie du 2327 et l'autre, une copie du manuscrit de Saint-Marc.
+
+### 5. --- _Manuscrits alchimiques grecs du Vatican et des Bibliothèques de Rome._
+
+Ces manuscrits ont été en 1885 l'objet d'un examen détaillé par mon fils André Berthelot, membre de l'École française de Rome, examen consigné dans un rapport publié cette année dans les Archives des Missions scientifiques (3e série, t. 13, p. 819 à 854). J'en extrais les indications suivantes. Le principal manuscrit est à la bibliothèque du Vatican. Il porte le numéro 1174. Il est écrit sur papier et parait être du 15e siècle. Il comprend 155 folios, de 21 à 22 lignes à la page. 100 folios seulement appartiennent au texte original ; 18 ont été recopiés à une époque tout a fait récente. Il a beaucoup souffert et renferme de graves lacunes, dont certaines ont été comblées par Angelo Maï, au 19e siècle. Plusieurs folios ont été ajoutés.
+
+Ce manuscrit a été connu par Leo Allatius, dans son état originel et il formait probablement l'une des bases du projet (non exécuté) que ce savant avait formé, relativement à la publication des manuscrits alchimiques grecs. Les traités qu'il renferme sont les mêmes que ceux des autres manuscrits, mais avec des différences très notables dans l'ordre relatif. En outre, il a été mutilé. Il y manque une partie de Zosime, de Stéphanus, des poètes, ainsi que les traités de Comarius, Pélage, Sophé, Ostanès, etc.
+
+Il comprend :
+
+1 et 3. --- Les _Physica et mystica_ de Démocrite, en deux fragments distincts ; la teinture en pourpre (fol. 33 à 35) étant séparée du reste (fol. 1 à 10).
+
+2 et 10. --- Deux fragments d'Olympiodore (fol. 11 à 33 et fol. 71 à 73). Le second fragment forme le début du traité, tel qu'il existe dans le manuscrit de Saint-Marc. Entre deux, il manque trois paragraphes (χρυσόκολλα, πίνoς πρῶτος, πίνoς δεύτερος).
+
+4\. --- Un traité de l'Anonyme dédié à l'empereur Théodose, sur l'œuf (fol. 35 à 42). Le nom de Théodose ne figure pas dans le manuscrit de Saint-Marc.
+
+5\. --- Un traité de Zosime sur les fourneaux (fol. 42 et suiv.). La fin a disparu. Il est interrompu après ces mots : « Marie a décrit beaucoup d'appareils, non destinés à la distillation des eaux ; mais elle a donné beaucoup de figures de kérotakis et d'appareils de fourneaux.* »
+
+*) Manuscrit de Saint Marc, folio 186, avant-dernière ligne.
+
+6\. --- Un fragment intercalaire (fol. 45 à 49), transcrit plus récemment.
+
+7 et 9. --- La neuvième leçon de Stephanus (fol. 54 à 68), avec la même lacune que dans le manuscrit de Saint-Marc. Le texte est à peu près conforme à celui d'Ideler, avec addition finale des mots ἐνταῦθα γὰρ τῆς φιλοσοφίας ἡ τέχνη πεπλήρωται. La finale et la lacune (7°, p. 182) sont caractéristiques. La fin de la lettre de Stéphanus à Théodose (fol. 70), complétée de la main d'Angelo Maï, forme le 9.
+
+8\. --- Le poème d'Héliodore : 49 vers seulement (fol. 69).
+
+11\. --- Le traité de l'Anonyme : sur l'eau du blanchiment (fol 73 à 75).
+
+12\. --- Autre traité de l'Anonyme (fol. 75 et suiv.), incomplet.
+
+13\. --- Synésius (fol. 79 à 91.)
+
+14\. --- Le lexique (fol. 91 à 93), jusqu'à la lettre K.
+
+--- Puis vient une lacune (fol. 94 à 101).
+
+15\. --- Petits traités techniques (fol. 102 à 112).
+
+--- Les folios 120 à 126 sont en blanc. --- Le texte reprend aux folios 127 jusqu'à 130. --- Aux folios 131 à 132, lacune. --- Puis le texte recommence (fol. 133-134).
+
+Ces petits traités techniques existent dans les autres manuscrits connus. J'en reproduis ici la liste, à cause de la dédicace de certains de ces traités à Théodose, dédicace qui manque dans le manuscrit de Saint-Marc : ce qui indique que le manuscrit 1174 du Vatican dérive directement, ou indirectement, d'une source un peu différente :
+
+Économie du corps de la magnésie --- Calcination des corps --- L'ochre --- Eau de soufre --- Sur les mesures, adressé au grand Empereur Théodose --- Sur le soufre, adressé au même empereur --- Ce qui est substance et non substance --- L'art parle d'une seule teinture, adressé à Théodose --- Les quatre éléments nourrissent les teintures (les sept dernières lignes de ce traité manquent) --- Ensuite il existe une lacune --- Puis vient la fin d'un fragment : Diversité du cuivre brûlé --- Eau divine tirée de tous les liquides (avec figures, connues d'ailleurs) --- Recettes diverses.
+
+16\. --- Traité de Cléopâtre sur les poids et mesures ; incomplet (fol. 134 à 136.) --- Lacune (fol. 137 à 144).
+
+17\. --- Liste des signes (fol. 145 à 146).
+
+18\. --- Fin du Lexique (fol. 146 à 147).
+
+19\. --- Chapitres de Zosime à Théodore (fol. 147).
+
+20\. --- Traités techniques (fol. 148 à 150). --- Chrysopée de Cléopâtre et serpent Ouroboros, muni de pattes --- Lacune (fol. 151 à 152).
+
+--- Fragments (fol. 153-155).
+
+Ces textes sont en général conformes au manuscrit de Saint-Marc, à la famille duquel ils se rattachent, quoique avec de notables différences, lesquelles indiquent une dérivation non identique, quoique parallèle. On trouvera à cet égard des détails circonstanciés dans la publication de M. André Berthelot, à laquelle je me borne à renvoyer.
+
+### 6. --- _Manuscrits de Gotha ou d'Altenbourg et de Munich._
+
+Le manuscrit de Gotha se trouvait à l'origine à Altenbourg : de là deux noms distincts d'origine pour un même manuscrit, lesquels ont amené quelques erreurs. La liste des opuscules qu'il renferme a été publiée dans les _Beiträge zur altern Litteratur_ ... (Bibliothèque de Gotha) _von Fr. Jacobs und F. A. Ukert_, Leipzig, 1835, p. 216. J'ai collationné cette liste avec soin. Le manuscrit lui-même a été examiné par mon fils André Berthelot, ainsi que celui de Munich. Il résulte de cet examen que le manuscrit de Gotha est copié purement et simplement sur celui de Munich, ainsi que les manuscrits de Weimar et de Leipzig, examinés pareillement. Celui de Munich lui-même a été copié en majeure partie sur le manuscrit de Saint-Marc.
+
+Les deux copies de Gotha et de Munich répondent aux folios 8-195 du manuscrit de Saint-Marc. Mais le copiste a ajouté à la suite et comme compléments (fol. 204 à 215 du manuscrit de Gotha) sept morceaux qui manquent dans le manuscrit de Saint-Marc, notamment la lettre de Psellus, une partie des signes, une 2e copie d'Ostanès, la lettre de Démocrite à Leucippe le discours d'Isis à son fils, suivi par le mélange du remède blanc, et les noms des faiseurs d'or. Les morceaux nouveaux existent d'ailleurs dans le manuscrit 2327 et ils ont dû être empruntés soit à ce manuscrit, soit à un manuscrit pareil.
+
+Grüner, vers la fin du 18e siècle et au commencement du 19e siècle, a tiré de ce manuscrit quelques petits articles : sur la bière et l'huile aromatique (attribués à tort à Zosime) ; la première leçon de Stéphanus ; les serments hermétiques ; sur la trempe du bronze ; sur la trempe du fer ; ces derniers ont été reproduits dans les _Eclogæ physicæ_ de Schneider, p. 95, 96) ; sur la cadmie (Καθμίας πλύσις) ; sur la fabrication du verre. Enfin l'éditeur a copié à la suite un morceau tout différent, ayant pour titre : ὁ οἶκος ὁ περὶ συνάζων πάντα (v. manuscrit 2327, fol. 90 verso). Ces petits articles, publiés dans des dissertations inaugurales et dans des programmes universitaires, sont très difficiles à trouver. Plusieurs renferment, comme il vient d'être dit, des confusions singulières.
+
+Les manuscrits de Vienne et de Breslau, exécutés par Cornélius de Naupile, à la fin du 16e siècle, appartiennent à la famille du manuscrit de Venise, avec quelques différences dans l'ordre relatif des traités. Le manuscrit de la Laurentienne (Florence) est au contraire fort analogue au 2327.
+
+### 7. --- _Comparaison du contenu du manuscrit de Saint-Marc, avec ceux du n° 2325 et du n° 2327 de la Bibliothèque nationale de Paris._
+
+Attachons-nous à comparer les trois manuscrits fondamentaux que nous avons surtout employés dans notre publication, savoir celui de Saint-Marc (11e siècle), le numéro 2325 (13e siècle) et le numéro 2327 (15e siècle), de Paris. J'ai déjà donné une analyse développée du premier et du dernier de ces manuscrits, dans mes _Origines de l'Alchimie_ ; mais je me propose de serrer de plus près les comparaisons.
+
+Il est facile de voir que ces manuscrits appartiennent à deux types très différents. Voici quelques-uns de leurs caractères différentiels :
+
+1° Le manuscrit de Saint-Marc contient des traités qui manquent dans les deux autres, tels que le traité d'Ostanès (fol. 66), et les chapitres de Zosime à Théodore (fol. 179 et suiv.).
+
+2° La liste des signes y est plus ancienne et moins étendue ; question sur laquelle je renverrai à la discussion qui a été développée dans ce volume, p. 96 et suivantes.
+
+3° Les figures des alambics ont une forme plus ancienne, ainsi que les figures des digesteurs avec kérotakis ; ce dernier instrument ayant disparu dans les figures du manuscrit 2327 (voir la discussion que j'en ai faite p. 150 et 160).
+
+4° La liste des opérateurs manque dans le manuscrit 2325. Dans le manuscrit de Saint-Marc, elle offre des différences très sensibles par rapport au manuscrit 2327 : parmi ces différences, je rappellerai le nom de Juliana. Il s'agit probablement de cette Juliana Anicia, pour laquelle fut faite à la fin du 5e siècle de notre ère une copie de Dioscoride, copie célèbre et magnifique, conservée autrefois à Constantinople avec un soin religieux et qui existe aujourd'hui à Vienne. Il semble donc que les premiers auteurs de la liste des opérateurs, inscrite dans le manuscrit de Saint-Marc, aient eu connaissance du manuscrit de Dioscoride.
+
+5° Les articles relatifs à la trempe des métaux (fol. 104 et 118) sont plus développés dans le manuscrit de Saint-Marc que dans les manuscrits 2325 et 2327. Mais ils ne contiennent pas la mention caractéristique du bronze des portes de Sainte-Sophie,* laquelle existe dans ces deux manuscrits.
+
+*) _Origines de l'Alchimie_, page 103.
+
+6° Le passage d'Agatharchide sur les mines d'or existe (sauf la fin) dans le manuscrit de Saint-Marc, et il est conforme au fragment plus considérable du même auteur, conservé par Photius. Il a probablement été transcrit sur le texte même de Photius, car il n'offre que des variantes insignifiantes.
+
+Dans le manuscrit 2325, ce passage manque.
+
+Dans le manuscrit 2327, il a été remplacé par un résumé, qui en modifie profondément la signification.
+
+7° La Chrysopée de Cléopâtre, avec ses figures multiples, forme une page entière du manuscrit de Saint-Marc, page que nous avons reproduite (p. 132 du présent volume). Dans les manuscrits 2325 et 2327, ce titre a disparu. Mais la figure principale, formée de trois cercles concentriques, avec ses axiomes mystiques, est à la même place ; c'est-à-dire en tête du mémoire de Zosime sur les instruments et fourneaux, avec lequel elle s'est confondue. C'est là l'indice d'une rédaction plus moderne, pour cette partie du moins, dans les 2325 et 2327. Toute cette comparaison a été développée, p. 134 à 137.
+
+8° Au contraire, le labyrinthe de Salomon, figure cabalistique, offre une physionomie très postérieure. Il a été transcrit vers le 14e siècle et après coup dans le manuscrit de Saint-Marc (v. p. 157). Mais il manque dans les manuscrits 2325 et 2327. L'existence simultanée dans un même manuscrit de la Chrysopée de Cléopâtre et du labyrinthe de Salomon peut être regardée comme une preuve sans réplique, propre à établir que ce manuscrit a été copié (par voie directe ou indirecte) sur celui de Saint-Marc.
+
+9° Dans la Chrysopée de Cléopâtre, on aperçoit le serpent Ouroboros, figuré simplement, avec l'axiome central ἓν τὸ πᾶν, au-dessous des cercles concentriques. Mais ce serpent n'accompagne pas les trois cercles concentriques dans les manuscrits 2325 et 2327. En outre, dans Saint-Marc, il n'a pas de pattes. Dans le manuscrit 1174 du Vatican, on trouve aussi une figure simple du serpent, mais avec quatre pattes. Dans le manuscrit 2327, il y a deux grandes figures du serpent, avec quatre pattes, l'une avec deux anneaux, l'autre avec trois anneaux coloriés (figure 34, p. 157), sans légende intérieure, mais avec une page entière de commentaires (_Texte grec_, 1, 5, et 1, 6), tirés en partie de Zosime et d'Olympiodore.
+
+10° Plusieurs traités de l'Anonyme, sans dédicace dans le manuscrit de Saint-Marc, sont adressés à l'empereur Théodose dans d'autres manuscrits, tel que celui du Vatican (v. p. 192). Il y a là l'indice d'une filiation spéciale.
+
+Le nom de Sergius, auquel sont adressés quelques traités du Philosophe Chrétien, donne lieu à des remarques analogues ; car il n'existe pas dans tous les manuscrits.
+
+11° Le manuscrit 2325 ne renferme pas les poètes ; ceux-ci devaient donc former à l'origine une collection à part.
+
+12° Le manuscrit 2325 ne renferme aucun traité de vieil auteur important, qui ne soit dans le manuscrit de Saint-Marc.
+
+Il contient en moins le traité d'Ostanès, les chapitres de Zosime à Théodore, le serment de Pappus, le traité de Cléopâtre (poids et mesures) et quelques autres articles ; articles qui manquent également dans le manuscrit 2327.
+
+La liste des signes offre certaines confusions et diversités (v. pages 97 et 98 du présent volume).
+
+Le manuscrit 2325 ne contient aucune trace des traités de Comarius.
+
+Il contient en plus, par rapport à Saint-Marc, certains traités techniques, tel que celui de l'arabe Salmanas sur les perles, et la fabrication des émeraudes et autres pierres colorées, d'après le livre du Sanctuaire. La Chrysopée de Cosmas est ajoutée à la suite, d'une écriture plus moderne et presque effacée.
+
+Dans le manuscrit 2325, l'ordre relatif est absolument, et du commencement à la fin, le même que celui du manuscrit 2327. Ce dernier dérive évidemment d'un type commun, mais complété par des intercalations et additions considérables.
+
+Au contraire, l'ordre relatif est très différent entre ces deux manuscrits et le manuscrit de Saint-Marc : on y reviendra.
+
+13° Examinons les traités qui manquent dans le manuscrit de Saint-Marc et qui existent dans le manuscrit 2327. Parlons d'abord de ceux qui portent des noms d'auteurs.
+
+Le manuscrit 2327 débute par la lettre de Psellus adressée à Xiphilin. Dans certains manuscrits, cette lettre est adressée à Michel Cérularius ; l'identité complète des deux lettres aurait besoin d'être vérifiée.
+
+Le traité de Comarius se trouve dans le manuscrit 2327, sous sa forme la plus complète.
+
+Je signalerai encore :
+
+Le traité de Jean l'archiprêtre, qui manque dans le 2325 ;
+
+Le traité de Salmanas et celui des émeraudes, qui s'y trouvent au contraire, ainsi que la Chrysopée de Cosmas, transcrite à la suite et à une époque postérieure dans le 2325 ;
+
+Les livres de Sophé (Chéops) ;
+
+La lettre d'Isis à Horus ;
+
+Le livre de Démocrite à Leucippe ;
+
+Le traité d'Agathodémon sur l'oracle d'Orphée ;
+
+La coction excellente de l'or, avec les procédés de Jamblique ;
+
+La chimie domestique de Moïse ;
+
+14° Enfin, parmi les articles anonymes manquant dans le manuscrit de Saint-Marc, et existant dans le manuscrit 2327, on peut citer :
+
+La liste des faiseurs d'or (manquant dans le 2325).
+
+Ainsi que tous les articles et traités consécutifs, tels que :
+
+Le serpent figuré, avec commentaires ;
+
+Le travail des quatre éléments ;
+
+L'assemblée des philosophes ;
+
+L'énigme alchimique, dont les vers existent cependant à l'état séparé dans une addition postérieure du manuscrit 2325 ;
+
+La liste planétaire des métaux ;
+
+La liste des mois ;
+
+Le traité de la fusion de l'or.
+
+Et diverses additions finales (voir _Origines de l'Alchimie_, p. 346).
+
+15° La lettre d'Isis à Horus mérite d'être signalée, comme élément de classification des manuscrits, autres que celui de Saint-Marc. En effet, elle existe sous deux rédactions très différentes dans le manuscrit 2327 et dans le manuscrit 2250 (Texte grec, 1, 13 et 1, 13 _bis_). Il y a aussi de grandes différences entre les divers textes d'Olympiodore.
+
+16° Au point de vue de l'ordre relatif, les parties communes de la plupart des manuscrits offrent souvent de très grandes différences. Le manuscrit 2327, en particulier, présente un essai de coordination systématique, qui fait défaut dans les parties semblables de celui de Saint-Marc. En effet, on y voit, à la suite de la lettre de Psellus, sorte de préface, des indications générales, telles que : le traité de Cléopâtre sur les poids et mesures, lequel figure au contraire au milieu du manuscrit de Saint-Marc, et qui était même placé vers la fin dans l'ancienne liste de ce dernier.
+
+Puis viennent dans le manuscrit 2327 : les signes, lesquels sont au début du manuscrit de Saint-Marc ;
+
+Et le lexique, qui ne se trouve que vers les deux tiers de ce dernier manuscrit (presqu'à la fin dans l'ancienne liste).
+
+Dans le manuscrit 2327, on lit ensuite les traités de Démocrite, de Synésius et de Stéphanus, le premier étant le plus ancien, et les autres représentant des commentaires successifs de ce traité.
+
+Tandis que dans le manuscrit de Saint-Marc, on débute par Stephanus ; les poètes ; Pélage, qui est rejeté vers la fin du manuscrit 2327 ; Ostanès, qui y manque ; puis viennent Démocrite et Synésius : c'est-à-dire qu'il n'existe aucun ordre systématique dans ce manuscrit.
+
+17° Les poètes, qui suivent Stéphanus dans le manuscrit de Saint-Marc, sont placés beaucoup plus loin, et avant la liste des faiseurs d'or, dans le manuscrit 2327. Leur texte offre des différences considérables, suivant les manuscrits.
+
+18° Le serpent et Olympiodore manquent dans le manuscrit 2325.
+
+Le dernier texte est à part dans les manuscrits qui le contiennent et il offre des variantes très notables.
+
+19° Les traités de Zosime sur les fourneaux et appareils viennent pareillement après. Seulement, dans le manuscrit 2327, c'est une répétition de traités déjà transcrits une première fois à la suite de Stephanus ; ce qui indique que le copiste puisait à deux sources différentes (v. p. 169 sur le manuscrit Ru. 6 de Leide). Le texte de ces traités offre de grandes variantes, qui vont parfois jusqu'à des rédactions distinctes, quoique parallèles.
+
+20° Les additions initiales et finales, faites sur les pages de garde, marges et parties blanches des manuscrits, sont très importantes pour en marquer la filiation. Je citerai : dans le manuscrit de Saint-Marc l'addition de la première feuille sur la scorie, avec paroles et signes magiques (v. p. 151), et le traité sur les songes de Nicéphore ;
+
+Dans le manuscrit 2327, la lettre de Psellus au début, les fragments sur la colle, sur l'asbestos,* etc., et vers la fin, le dire de Rinaldi Telanobebila (Arnaud de Villeneuve), etc. ... (voir _Origines de l'Alchimie_, p. 336 et 346).
+
+*) C'est l'article : Zosime dit sur la Chaux, ajouté sur des pages blanches, entre la préface de Psellus et le traité de Cléopâtre.
+
+Il y a encore bien d'autres différences de détail dans la distribution des traités du Chrétien et de l'Anonyme, mais moins importantes. Les remarques précédentes sont d'ailleurs assez nombreuses et minutieuses pour permettre de caractériser les filiations des manuscrits.
+
+### 8. --- _Hypothèses générales sur l'origine et la filiation des manuscrits alchimiques grecs._
+
+D'après l'ensemble des observations que j'ai recueillies, l'origine des manuscrits alchimiques grecs pourrait être établie avec quelque probabilité de la manière suivante :
+
+1° Il existait en Egypte, avant l'ère chrétienne, des groupes de recettes techniques, relatives à l'orfèvrerie, à la fabrication des alliages et des métaux pour les armes et les outils, à la fabrication du verre et des émaux, à la teinture des étoffes, à la matière médicale.
+
+L'emploi de ces recettes était accompagné par certaines formules magiques.
+
+Le tout était transmis traditionnellement, comme secret de métier, depuis une époque fort reculée, avec le concours de signes hiéroglyphiques, destinés à servir de mémentos, plutôt qu'à exposer le détail des opérations.*
+
+*) Voir ce que j'ai dit sur la Chrysopée de Cléopâtre et sur la formule de l'Ecrevisse, pages 137 et 153 à 155.
+
+Ces signes étaient inscrits sur des stèles ; ils étaient anonymes, comme toute la science égyptienne d'alors. Il semble qu'il y avait aussi des textes écrits en démotique sur papyrus ; tels étaient le Livre du Sanctuaire, cité à plusieurs reprises, et le texte transcrit dans le papyrus V de Leide (p. 8 du présent ouvrage).
+
+2° Vers l'ère chrétienne, on commença à écrire en grec (sur papyrus), les recettes et les formules magiques, d'une façon précise et détaillée. Une partie de ces recettes nous ont été transmises dans les écrits de Dioscoride, de Pline et de Vitruve.
+
+Les papyrus de Leide, écrits au 3e siècle, mais dont le texte est plus ancien, fournissent le détail précis et authentique de quelques-unes d'entre elles (ce volume, article 1). La plupart de ces recettes sont claires, positives ; elles concernent l'imitation, parfois frauduleuse, de l'or et de l'argent, ainsi que la fabrication de l'asèm, alliage doué de propriétés intermédiaires. Dioscoride et le papyrus V ont conservé le nom de certains des auteurs d'alors, tels que Phiménas (Pammenès) et Pétésis. Il existait un grand nombre de papyrus analogues ; mais la plupart ont été détruits systématiquement par les Romains, vers le temps de Dioclétien. Cependant il est incontestable qu'un certain nombre de recettes relatives à l'asèm et à d'autres sujets, conservées dans nos manuscrits actuels, offrent un caractère semblable à celui du papyrus et remontent probablement à la même époque. Le traité des émeraudes et pierres vitrifiées, « d'après le Livre du Sanctuaire, » a été reproduit sans doute de vieux textes analogues, et il en est probablement de même du traité des perles, qui nous est venu sous le nom de l'arabe Salmanas : c'est vraisemblablement l'auteur des derniers remaniements de ce traité technique.
+
 ...
 
 # Texte Grec.
