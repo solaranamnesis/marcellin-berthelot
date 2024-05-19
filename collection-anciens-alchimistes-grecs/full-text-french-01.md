@@ -3603,6 +3603,457 @@ Ces signes étaient inscrits sur des stèles ; ils étaient anonymes, comme tout
 
 Les papyrus de Leide, écrits au 3e siècle, mais dont le texte est plus ancien, fournissent le détail précis et authentique de quelques-unes d'entre elles (ce volume, article 1). La plupart de ces recettes sont claires, positives ; elles concernent l'imitation, parfois frauduleuse, de l'or et de l'argent, ainsi que la fabrication de l'asèm, alliage doué de propriétés intermédiaires. Dioscoride et le papyrus V ont conservé le nom de certains des auteurs d'alors, tels que Phiménas (Pammenès) et Pétésis. Il existait un grand nombre de papyrus analogues ; mais la plupart ont été détruits systématiquement par les Romains, vers le temps de Dioclétien. Cependant il est incontestable qu'un certain nombre de recettes relatives à l'asèm et à d'autres sujets, conservées dans nos manuscrits actuels, offrent un caractère semblable à celui du papyrus et remontent probablement à la même époque. Le traité des émeraudes et pierres vitrifiées, « d'après le Livre du Sanctuaire, » a été reproduit sans doute de vieux textes analogues, et il en est probablement de même du traité des perles, qui nous est venu sous le nom de l'arabe Salmanas : c'est vraisemblablement l'auteur des derniers remaniements de ce traité technique.
 
+3° A la même époque, c'est-à-dire vers la fin du règne des Ptolémées, il existait des écoles gréco-égyptiennes, participant dans une certaine mesure de la science hellénique : j'ai signalé spécialement une école démocritaine, à laquelle appartenait Bolus de Mendès : cette école mit ses écrits sous le patronage du nom vénéré de Démocrite (_Origines de l'Alchimie_, p. 156 et suiv.). Il nous en est parvenu un traité (_Physica et mystica_), formé de trois fragments, l'un magique, l'autre relatif à la teinture en pourpre, le dernier à la fabrication, ou plutôt à l'imitation de l'or et de l'argent. Les recettes du dernier fragment sont analogues à celles du papyrus de Leide ; quelques-unes même identiques. Mais, dans les écrits de cette école, les recettes positives sont associées à des interprétations, mystiques, association que l'on ne trouve pas dans les papyrus de Leide ; quoique la magie abonde dans ces derniers.
+
+4° L'École Démocritaine d'Égypte a créé une tradition scientifique, spécialement en alchimie ; tradition qui s'est prolongée jusqu'au 7e siècle de notre ère, par toute une suite d'écrits originaux et de commentaires, lesquels forment la partie principale de nos collections actuelles.
+
+Les auteurs qui l'ont continuée au début étaient des gnostiques, des païens et des juifs, qui ont développé de plus en plus le symbolisme mystique.
+
+Le principal auteur venu jusqu'à nous, Zosime, semble avoir constitué vers la fin du 3e siècle, une sorte d'encyclopédie chimique, reproduisant spécialement les traités de Cléopâtre, sur la distillation, ceux de Marie la Juive, sur les appareils à digestion, ceux de Pamménès et de Pétésis, sur les alliages métalliques, etc. Nous possédons près de 150 pages tirées des ouvrages de Zosime, sous la forme d'extraits faits plus tard par des Byzantins, non sans quelques additions ou interpolations, dues aux commentateurs.
+
+Les écrits d'Africanus, auteur aujourd'hui perdu, seraient du même temps que Zosime. Nous en avons quelques fragments dans nos textes alchimiques.
+
+5° Vers la même époque que Zosime et Africanus remontent les écrits pseudonymes attribués à Sophé (Chéops), qui rappellent un texte d'Africanus, compilé par Eusèbe.*
+
+*) _Origines de l'Alchimie_, p. 58. Les traités astrologiques et autres de Zoroastre, Manéthon, Pythagore, seraient aussi du même temps.
+
+Avant Zosime également, ou vers le même temps, ont été écrits les fragments attribués à Hermès, à Agathodémon, les écrits du Pseudo-Moïse, les recettes de Jamblique, ainsi que la lettre d'Isis à Horus.
+
+6° Entre le faux Démocrite et Zosime, semblent aussi se placer les écrits d'Ostanès, de Pélage, de Comarius, de Jean l'Archiprêtre. Mais, sous la forme où nous les possèdons, ces écrits manquent d'authenticité. Il est difficile d'y distinguer la trame originale des interpolations successives faites par les moines chrétiens d'Alexandrie et de Byzance.
+
+7° C'est au même temps que remonterait la première rédaction des textes actuels des traités techniques sur le verre, les perles artificielles, la trempe des métaux, etc. ; textes qui se rattachent à une tradition beaucoup plus ancienne, mais qui ont été remaniés à diverses reprises, pendant le cours des siècles.
+
+8° Vers le temps des deux empereurs Théodose, on trouve le commentaire de Synésius sur Démocrite, qui est l'ouvrage le plus philosophique de toute la série, et le groupe des poètes, complété plus tard.
+
+9° Olympiodore, auteur un peu postérieur, se rattache aussi aux commentateurs Démocritains.
+
+10° La tradition se continue par le Philosophe Chrétien, par l'Anonyme, et par Stéphanus, jusqu'au 7e siècle de notre ère. Les traités pseudonymes d'Héraclius et de Justinien, aujourd'hui perdus, seraient aussi de cette dernière époque ; car ils ont précédé les Arabes, qui citent fréquemment Héraclius.
+
+11° Vers le 7e ou le 8e siècle de notre ère s'est constituée une première collection, qui semble avoir été formée autour du commentaire de Stéphanus, avec adjonction des auteurs de l'École Démocritaine et des premiers commentateurs. Cette collection, grossie par celle des poètes et par plusieurs autres dont j'ai donné la liste (p. 178), et reprise parmi les 53 séries de Constantin Porphyrogénète, au 10e siècle, aurait servi à constituer le prototype, duquel dérivent la vieille liste de Saint-Marc et le manuscrit de Saint-Marc.
+
+Cependant un certain nombre de mémoires d'auteurs renommés, de recettes partielles et plusieurs traités techniques n'étaient pas compris dans cette collection. Ils sont entrés plus tard dans d'autres collections, fondues avec la principale dans le manuscrit 2325, et depuis, avec des additions plus étendues, dans le manuscrit 2327.
+
+Les traités de Cosmas et de Blemmydès sont postérieurs.
+
+12° Je pourrais essayer d'expliquer maintenant plus en détail, comment la collection primitive, modifiée par des additions successives, a constitué plusieurs prototypes, dont le principal **O** répondait au manuscrit qui a précédé la liste initiale du manuscrit de Saint-Marc.
+
+De ce prototype a dérivé un manuscrit **P**, répondant à cette liste.
+
+Mais il a perdu plus tard les cahiers qui renfermaient les traités attribués à Héraclius et à Justinien et il a formé alors un autre type **Q**.
+
+C'est à cet autre type que se rattache le manuscrit 2327, quoique non directement. En effet, il a été grossi par l'adjonction de traités tirés d'un autre prototype, contenant par exemple Jean l'Archiprêtre, la lettre d'Isis, etc. ;
+
+A un certain moment, le type **Q** a éprouvé une mutilation, vers la fin des leçons de Stéphanus, et il a perdu plusieurs feuillets, comprenant cette fin et le commencement du traité de Comarius. Cette mutilation n'a pas coïncidé avec la première, attendu que le manuscrit 2327 contient la fin de Stéphanus et le traité de Comarius ; tandis que les traités d'Héraclius et de Justinien y manquent.
+
+C'est plus tard qu'un copiste ignorant, ayant transcrit à la suite le manuscrit mutilé, sans s'apercevoir de la lacune, a constitué le type **R**, qui est celui du manuscrit actuel de Saint-Marc ; une lacune analogue y a mutilé le traité du jaunissement, etc. ;
+
+Le manuscrit de Saint-Marc a perdu dans le cours des siècles un ou plusieurs folios, à la fin des fragments d'Agatharchide ;
+
+Il a eu plusieurs cahiers transposés par le relieur, cahiers qu'il a conservés d'ailleurs ;
+
+Enfin il a éprouvé diverses additions, telles que le Labyrinthe de Salomon et quelques autres, aux 15e et 16e siècles. C'est ainsi qu'il nous est parvenu.
+
+La filiation des manuscrits 2325 et 2327 est plus complexe. Rappelons d'abord que le contenu et l'ordre relatif du manuscrit 2325, le plus ancien des deux (13e siècle), se retrouve exactement dans le manuscrit 2327 (15e siècle). Mais ce dernier est plus étendu et renferme un grand nombre de traités techniques ou mystiques, qui manquent dans le manuscrit de Saint-Marc et qui ont été tirés de prototypes tout différents. Aussi, quoiqu'il représente sur certains points une rédaction plus moderne que celui de Saint-Marc, il en est d'autres où il répond à des souches antérieures. Le manuscrit 2275 paraît la copie directe du 2325 ; le manuscrit 2329, le second manuscrit de l'Escurial, le manuscrit de la Laurentienne et celui de Turin, dérivent du manuscrit 2327, ou d'une souche commune.
+
+Les manuscrits 2250, 2251, 2252, qui appartiennent à une même copie faite au 17e siècle,* accusent une souche distincte à certains égards des précédentes : par exemple, pour la rédaction de la lettre d'Isis à Horus. Le manuscrit du Vatican et celui de Leide, Voss. n° 47, offrent aussi d'assez grandes diversités, quoique dérivés en somme de la même souche que le manuscrit de Saint-Marc.
+
+*) Mise au net du 2329 corrigé, pour la majeure partie.
+
+Sur le manuscrit de Saint-Marc, ont été copiés directement ou indirectement* presque tous ceux qui existent en Allemagne, d'après ce que j'ai pu savoir : tels celui de Munich, qui a servi à la publication d'Ideler, celui de Gotha, probablement ceux de Vienne et de Breslau ; de même le numéro 2249 de la Bibliothèque de Paris, celui sur lequel Pizimenti a fait sa traduction latine, l'un de ceux de l'Ambroisienne, l'un de ceux de l'Escurial, etc.
+
+*) Avec certaines additions finales, tirées des autres souches, telles que la lettre de Psellus, le traité de Démocrite à Leucippe, la lettre d'Isis à Horus, etc.
+
+Pour pousser plus loin la discussion détaillée de toute cette filiation, il serait nécessaire de faire une comparaison minutieuse de tous les manuscrits, comparaison dont je ne possède pas encore les éléments complets ; je ne crois donc pas utile d'en dire davantage.
+
+### 9. --- _Sur le manuscrit grec 2419 de la Bibliothèque nationale de Paris._
+
+Ce manuscrit in-folio, transcrit vers 1460 par Georges Midiates (fol. 288), est des plus précieux pour l'histoire de l'Astronomie, de l'Astrologie, de l'Alchimie et de la Magie au moyen âge ; c'est une réunion indigeste de documents de dates diverses et parfois fort anciens, depuis l'Almageste de Ptolémée et les auteurs arabes jusqu'aux écrivains de la fin du moyen âge. L'écriture en est souvent difficile à déchiffrer. La table des matières de ce manuscrit a été imprimée dans le Catalogue de ceux de la Bibliothèque nationale de Paris. Aussi je me bornerai à relever les morceaux et traités qui offrent quelque intérêt pour les études auxquelles le présent volume est consacré.
+
+Au folio 1 se trouve une grande figure astrologique du corps humain, dessinée avec soin, placée au milieu de deux cercles concentriques, avec indication de la relation entre ses parties et les signes du Zodiaque. Cette figure répondant à des textes d'Olympiodore* et de Stéphanus, je crois utile d'en donner la description.
+
+*) _Texte grec_, p. 101 et 106.
+
+En haut : le Bélier. Puis se trouvent deux séries parallèles, l'une à droite, l'autre à gauche.
+
+A droite :
+
+Le Taureau commande le cou.
+
+L'Ecrevisse ... la poitrine.
+
+La Vierge ... l'estomac et le ventre.
+
+Le Scorpion ... les parties génitales.
+
+Le Capricorne ... les genoux.
+
+A gauche :
+
+Les Gémeaux commandent les épaules.
+
+Le Lion ... le cœur.
+
+La Balance ... les deux fesses.
+
+Le Sagittaire ... les deux cuisses.
+
+Le Verseau ... les jambes.
+
+Au bas, les Poissons commandent les pieds.
+
+On peut voir un texte analogue dans la _Bibl. Chem._ de Manget, 1, 917.
+
+Au folio 32, on rencontre le cercle de Pétosiris, pour prévoir l'issue des maladies ; cercle donc j'ai donné (p. 88) la photogravure et la description.
+
+Au folio 33, on lit deux tableaux horizontaux analogues, que j'ai également décrits, à cause de leur similitude avec le tableau d'Hermès du manuscrit 2327 (p. 87) et avec la sphère de Démocrite du papyrus de Leide (p. 86).
+
+Ils accompagnent des traités de l'astrologue Pythagoras et divers calculs pour connaître le vainqueur d'un combat singulier.
+
+Au folio 46 verso, on rencontre la liste des relations entre les planètes et les métaux et autres corps subordonnés à ces astres. Cette liste est la même qui figure dans plusieurs manuscrits alchimiques ; les noms en sont également grecs ; quelques-uns sont transcrits en caractères hébraïques. La liste fait partie d'un traité d'Albumazar, astronome arabe du 9e siècle (800 à 885) de notre ère (v. p. 79 du présent volume et _Texte grec_, p. 24, notes). J'y relève deux indications caractéristiques.
+
+Le signe de la planète Hermès comprend parmi les corps dérivés, vers la fin de son paragraphe, le nom du mercure, ὑδράργυρος, et à la suite les mots : οἱ δὲ πέρσαι κασσίτερον ; « les Persans rangent sous ce signe l'étain. »
+
+Le signe de Jupiter comprend l'étain et à la suite les mots : οἱ δὲ πέρσαι οὐχ οὕτως ἀλλὰ διάργυρος. « Les Persans ne l'entendent pas ainsi, mais rangent sous ce signe le métal argentin » c'est-à-dire l'asèm ou électrum. Ceci est conforme à ce qui a été dit ailleurs sur les changements successifs des notations métalliques et planétaires (pages 81 à 85).
+
+A la suite vient une liste des animaux répondant à chaque planète.
+
+Au folio 86 verso : sur les sorts royaux, traité attribué à Nécepso.
+
+Au folio 99-100 : figures de comètes.
+
+Au folio 119 : traité divinatoire de Zoroastre.
+
+Au folio 153 : tableau des mesures antiques.
+
+Au folio 154 : tableau des signes et abréviations. Ils sont semblables en général à ceux de la fin de la liste du manuscrit 2327, sauf un petit nombre de différences : par exemple, pour les mots ange et démon (voir p. 100) ; mais l'ordre n'est pas le même.
+
+Puis vient un ouvrage de Bothrus, qui s'intitule roi de Perse ; c'est un astrologue, inconnu d'ailleurs.
+
+Au folio 156 : autre cercle médical de Pétosiris, dont j'ai donné la photogravure et la description (p. 90).
+
+Au folio 265 verso : liste des plantes qui répondent aux 12 signes du Zodiaque, d'après Hermès Trismégiste.
+
+Au folio 271 verso et au folio 272 : préparations chimiques.
+
+Au folio 273 : mots magiques, analogues à ceux qui figurent dans Jamblique, dans les papyrus de Leide, au-dessus de la formule de l'Ecrevisse dans le manuscrit de Saint-Marc (p. 153), etc. ; sans qu'aucun m'ait paru identique, à première vue du moins.
+
+Au folio 274 : une page renfermant un grand nombre d'alphabets magiques, lesquels ne sont autres que des alphabets grecs altérés (v. p. 156), analogues à ceux du manuscrit de Saint-Marc. Dix-sept de ces alphabets figurent au recto, cinq au verso. La traduction existe à l'encre rouge, presque effacée, dans les intervalles des lignes.
+
+Au folio 274 verso : liste des signes, en 4 lignes, sans traduction, sauf pour quelques mots tels que ceux-ci : cœur et foie. Cette liste se retrouve exactement transcrite, vers la fin de celles du manuscrit 2327, Pl. 6, l. 20 à 25, jusqu'à ἀλόη (v. p. 100).
+
+Au folio 279 commence un ouvrage considérable intitulé : « la voie droite vers l'art de l'Alchimie, par le grand maître Pierre Théoctonicos. »
+
+Cet ouvrage se poursuit jusqu'au folio 287 verso, où la fin est indiquée à l'encre rouge. « Voici la fin de la route pure du frère Ampertos Théoctonicos, le grand philosophe de l'Alchimie, transcrite par Georges Midiates. »
+
+Ce traité va être décrit tout à l'heure plus en détail.
+
+Au folio 288 : suite de préparations chimiques. Figure d'un entonnoir à filtration et d'une fiole à fond rond.
+
+Aux folios 319 à 341 : lexique étendu, donnant l'interprétation des noms des opérations, substances, plantes, maladies. Ce lexique renferme un certain nombre de mots arabes. Il y a beaucoup de noms chimiques.
+
+Revenons maintenant à l'ouvrage manuscrit de Théoctonicos, personnage qui a donné lieu à diverses discussions de la part d'Hœfer, lequel lui attribue le prénom de Jacob, et de la part de H. Kopp. L'examen direct de son traité m'a paru utile pour éclaircir la question. Elle n'est pas sans intérêt ; car c'est un des rares auteurs de quelque importance, cités dans les histoires de la chimie et sur lesquels nous ne possédions pas encore de lumière suffisante.
+
+Le titre exact de l'ouvrage est le suivant :
+
+Ἀρχὴ τῆς εὐθείας ὁδοῦ τοῦ μεγάλου διδασκάλου Πέτρου τοῦ Θεοκτονίκου πρὸς τὴν τέχνην τῆς ἀρχημίας, titre déjà traduit plus haut ; et au bas de la page : ἐγὼ ὁ Πέτρος Θεοκτόνικος τῶν φιλοσόφων ὁ ἐλάχιστος ; c'est-à-dire :
+
+« Moi Pierre Théoctonicos, le moindre des philosophes. »
+
+A la fin du traité, il est désigné sous le nom de τοῦ ἀδελφοῦ Ἀμπέρτου τοῦ Θεοκτονίκου.
+
+La dernière forme rappelle le latin _Albertus Teutonicus_, personnage identifié en général par les vieux auteurs avec Albert le Grand et sous le nom duquel il existe un ouvrage latin d'Alchimie, désigné parfois par les mots : _Semita recta_.
+
+Cet ouvrage latin se trouve au tome 21 des œuvres d'Albert le Grand, qui est regardé ici comme un pseudonyme, et il est imprimé dans le tome 2 du _Theatrum Chemicum_. Les deux textes latins concordent très exactement, comme je l'ai vérifié. L'ouvrage est écrit avec assez de sincérité ; il date du 13e ou 14e siècle. Les articles techniques qui le terminent sont complétés par des additions faites par quelques copistes plus modernes, d'après Geber, Razès, Roger Bacon, maître Joi (_sic_, pour Jean ? ) de Meun, expressément nommés. Il semble même en certains endroits qu'il y ait deux étages d'additions.
+
+Or le traité de Théoctonicos est une traduction grecque du traité attribué à Albert le Grand, traduction antérieure aux textes latins imprimés que je viens de citer, et qui renferme certaines indications spéciales et différentes ; mais qui, par contre, ne contient pas les additions. C'est ce qui résulte de l'examen détaillé auquel je me suis livré.
+
+En effet, j'ai d'abord constaté la conformité générale du texte latin et du texte grec, en les comparant ligne par ligne jusqu'à la fin.
+
+Je me bornerai à la citation suivante, qui est caractéristique. Dans le grec : Εὗρον πάλιν ὑπερέχοντας μονάχους καὶ πρεσβυτέρους καὶ κανονικοὺς, κληρικοὺς, φιλοσόφους καὶ γραμματεῖς. Dans le latin :
+
+_Inveni autem prœdivites litteratos, abbates, præpositos, canonicos, physicos et illiteratos, etc._
+
+C'est-à-dire (d'après le grec) :
+
+« J'ai trouvé des moines éminents, des prêtres, des chanoines, des clercs, des philosophes et des grammairiens. »
+
+Le texte grec est plus ferme que le texte latin ; cependant il est difficile de refuser d'admettre que la phrase précédente ait été traduite du latin.
+
+A la page suivante, folio 279 verso, on retrouve pareillement dans les deux langues la phraséologie ordinaire des alchimistes :
+
+« Voulant écrire pour mes amis, de façon que ceux qui voient ne voient pas, et que ceux qui entendent ne comprennent pas, je vous conjure, au nom de Dieu, de tenir ce livre caché aux ignorants. »
+
+Le texte grec est plus développé que le latin dans le passage suivant (même page) :
+
+« J'ai écrit moi-même ce livre, tiré des livres de tous les philosophes de la science présente, tels que Hermès, Avicenne, Rhazès, Platon et les autres philosophes, Dorothée, Origène, Geber ( ? ), beaucoup d'autres, et chacun a montré sa science ; ainsi que Aristote, Hermès* et Avicenne. » Cette suite de noms propres et d'autorités manquent dans le latin.
+
+*) Figuré par le symbole de la planète Mercure.
+
+Le traité poursuit pareillement, en expliquant dans les deux langues qu'il faut réduire les métaux à leur matière première.
+
+Puis commence un autre chapitre, qui débute par ces mots singuliers (fol. 280), en grec : Ἀρχημία ἔστιν πρᾶγμα παρὰ τῶν ἀρχαίων εὑρισκομένην, χιμία δὲ λέγεται ῥωμαιστὴ, φραγγικὰ δὲ μᾶζα (_sic_).
+
+« L'Alchimie est une chose découverte par les anciens : on l'appelle Chimie en romaïque, Maza en langue franque. »
+
+Dans le texte latin on lit, dans les deux publications citées : « _Alchimia est ars ab Alchimo inventa et dicitur ab archymo græcè, quod est massa latinè._ »
+
+« L'Alchimie est un art découvert par Alchimus ; c'est d'après le mot grec _archymus_ qu'elle a été nommée, mot qui signifie _massa_ en latin. »
+
+Cette phrase étrange se trouve aussi dans le _Liber trium verborum Kalid_ (_Bibliotheca Chemica_ de Manget, t. 2, p. 189) « _Alchimia ab Alchimo inventa. Chimia autem græcè, massa dicitur latinè._ »
+
+Pic de la Mirandole, au 16e siècle, cite aussi cet Alchimus, en répudiant l'étymologie précédente. Il y a là sans doute quelque réminiscence de l'ancien Chymès.* Quant au mot μᾶζα ou _massa_, il existe comme synonyme de la Chimie dans le _Lexicôn Alchemiæ Rulandi_ (au mot _Kymus_).
+
+*) _Origines de l'Alchimie_, p. 167.
+
+Le latin explique ensuite que les métaux diffèrent seulement par une forme accidentelle et non essentielle, dont on peut les dépouiller :
+
+_Formâ accidentali tantum, nec essentiali : ergo possibilis est spoliatio accidentum in metallis_. Mais le grec est ici plus vague.
+
+Au contraire, le grec développe davantage la génération des métaux et parle de la terre vierge,* comme l'ancien Hermès : διὰ γῆς παρθένου καὶ σαθρῆς ; ce que le latin traduit simplement par _terra munda_, la terre pure.
+
+*) _Origines de l'Alchimie_, p. 63.
+
+Les deux textes se suivent ainsi parallèlement, avec des variantes considérables et des développements inégaux. Puis viennent la description des fourneaux (fol. 282), celle des quatre esprits volatils : le mercure (signe de la planète Hermès), le soufre, l'arsenic (même signe que celui de la Pl. 6, l. 26), le sel ammoniac. Le nom ancien de l'orpiment, ἀρσένικον, est changé ici en ἀοριπήγματον : ce qui est une transcription littérale du latin _auri pigmentum_, transcription montrant par une nouvelle preuve que le texte original a été écrit en latin. Divers sels, le tartre, le vert-de-gris, le cinabre, la céruse, le minium figurent ici.
+
+Puis viennent les opérations, dont la description fournit des équivalences intéressantes entre les mots grecs du 14e siècle et les mots latins ; équivalences dont plusieurs sont distinctes des anciennes expressions contenues dans les premiers alchimistes.
+
+Par exemple (fol. 285).
+
+ῥίνισμα, qui voulait dire à l'origine limaille, est traduit par _sublimatio_. --- Il y a ici l'idée de l'atténuation extrême de la matière, exprimée plus tard par le mot alcoolisation, qui voulait dire réduction à l'état de poudre impalpable.
+
+Ἀσβέστωμα. --- _Calcinatio._ --- Ce mot nouveau a remplacé l'ancien ἴωσις ; et le mot ἄσβεστος, ou _calx_ (chaux métallique), s'est substitué à ἰός.
+
+Πῆγμα. --- _Coagulatio._ --- Solidification d'un corps liquide.
+
+Πῆξις. --- _Fixio._ --- Fixation d'un corps volatil.
+
+Ἀνάλυμα. --- _Solutio._ --- Dissolution.
+
+Στάλαγμα --- _Sublimatio._ --- C'est la distillation, opérée par vaporisation, ou par filtration.
+
+Κήρωμα. --- _Ceratio._ --- Ramollissement.
+
+Ἕψησις. --- _Decoctio._ --- Cuisson, emploi de fondants.
+
+Les deux textes se suivent jusqu'au bout.
+
+Ainsi le traité de Théoctonicos n'est autre chose que la traduction grecque de l'ouvrage latin d'Alchimie attribué à Albert le Grand. Ce fait de la traduction en grec d'un ouvrage latin, au moyen âge, est exceptionnel. Peut-être s'explique-t-il par l'époque même où il s'est produit, qui est celle du contact forcé établi entre les Grecs et les Latins, par suite des croisades et de l'occupation de Constantinople.
+
+On trouve d'ailleurs des textes grecs de la même époque, inspirés également des Arabes, parmi les manuscrits du Vatican, tels que le n° 914 (Recettes pour écrire en lettres d'or, etc.) ; le n° 1134, daté de 1378, sur le τίτανος, l'ἐλεξὶρ, l'arsenic, le sel ammoniac, les aluns, la cadmie, etc.*
+
+*) Rapport sur les manuscrits alchimiques de Rome, par A. Berthelot, dans les Archives des missions scientifiques, 3e s., t. 13, p. 835 et suiv.
+
+Je rappellerai encore la page d'Arnaud de Villeneuve, traduite en grec, qui se trouve ajoutée à la fin du manuscrit 2327 de Paris (fol. 291).
+
+### 10. --- _Manuscrits alchimiques de Leide._
+
+Il existe à Leide des manuscrits alchimiques grecs, signalés par divers auteurs et dont il m'a paru utile de prendre une connaissance plus approfondie. Mon fils, André Berthelot, déjà préparé par l'examen des manuscrits du Vatican, et des bibliothèques allemandes (p. 191 et 193), s'est chargé de ce travail. Je vais en donner le résumé.
+
+Il y a deux manuscrits alchimiques grecs de quelque importance à Leide, l'un intitulé : _Codex Vossianus Græcus_, n° 47, in-4°, 72 folios, très mal écrit, daté de 1440 ; l'autre provenant des livres de Ruhnkenius, savant helléniste du dernier siècle, inscrit sous la rubrique 23, Ru. 6, in-4°, 30 folios ; sur papier, écrit au 17e siècle. J'appellerai pour abréger le premier : Voss. et le second : Ru.
+
+Ces manuscrits sont tous deux intéressants : le premier, Voss., parce qu'il renferme quelques fragments qui n'existent pas ailleurs ; le second, Ru., en raison de certaines de ses figures, qui établissent complètement le passage entre les appareils des vieux manuscrits et l'aludel des Arabes. Je les ai données plus haut, avec commentaires (p. 167 à 173).
+
+_Codex Ru. 6._ Quant au texte même, le Ru. paraît, d'après une collation rapide mais précise, ne rien renfermer qui ne soit déjà contenu dans le manuscrit 2327 et plus spécialement dans celui de la Laurentienne. Il représente d'ailleurs, non les textes mêmes, mais surtout une table des matières, suivie de quelques extraits. Il paraît donc inutile d'entrer ici dans plus de détails.
+
+Disons seulement que dans ce manuscrit le texte alchimique proprement dit comprend 20 folios, dont les quatre derniers consacrés au traité de Psellus. Puis vient un traité mutilé sur la musique (fol. 23-24) et un traité sur les oiseaux (fol. 25-29), déjà édité dans _Rei Accipitrariæ Scriptores_, pages 243 à 255 (sauf que l'ordre des chapitres diffère). --- Les signes du manuscrit 2327, c'est-à-dire nos planches 4, 5, 6, 7 et 8 (v. page 168) figurent textuellement dans Ru. ; ce qui établit la filiation.
+
+_Codex Vossianus._ Ce manuscrit mérite une attention spéciale ; car il se distingue à certains égards de tous les autres manuscrits alchimiques connus. Les textes chimiques commencent (fol. 4-11) par un abrégé des leçons de Stéphanus, se terminant par les mots : μετὰ τὸ ἔα κάτω καὶ γέλεσαν ; mots qui répondent à la fin des mêmes leçons dans le manuscrit 2325 (sauf γενήσεται au lieu de γέλεσαν). Cette circonstance joue un rôle essentiel dans la classification des manuscrits (v. p. 179 à 181). Puis vient une feuille blanche, suivie des mots : ἐκ τοῦ διαλόγου Κλεοπάτρας οὗ ἡ ἁρχὴ λείπει. La phrase du début : Ἡ πλάνη ἐσπάρη ἐν τῷ κόσμῳ διὰ τὸ πλῆθος τῶν ἐπωνύμων, se trouve dans la 9e leçon de Stéphanus, imprimée par Ideler (t. 2, p. 247, l. 25). Cette phrase y est séparée du mot γέλεσαν par deux lignes de texte, supprimées dans Voss.
+
+Rappelons que j'ai établi plus haut (p. 192), comment la fin de la 9e leçon de Stéphanus et le milieu du Dialogue de Cléopâtre ont été confondus et mis bout à bout dans le manuscrit de Saint-Marc, ainsi que dans le texte d'Ideler, par suite d'une erreur fort ancienne des copistes. La même confusion a lieu dans le Voss. ; à cela près qu'il y manque les dix lignes (14 à 24) de la page 248 d'Ideler, depuis le mot προσεγγίσαι qui y marque le début du fragment du Dialogue, jusqu'aux mots θανατώσηται. Βλέπετε τὸ θεῖον ὔδωρ τὸ ποτίζον αὐτὰ καὶ τὴν νεφέλην, lesquels font en effet partie du Dialogue de Cléopâtre, dans le manuscrit 2327. --- Dans Ideler, on les retrouve à la ligne 23 de la page 248.
+
+Tout ceci indique une confusion analogue, mais qui n'est pas identique dans les diverses copies. La dernière ligne du Dialogue dans le Voss. est la même que celle d'Ideler.
+
+Au folio 24 sont les extraits des poètes ; puis ceux de Pélage (fol. 14-17), d'Ostanès (fol. 17), de Synésius : ce dernier déjà reproduit par Reuvens (lettre à M. Letronne). La plupart de ces extraits ont un caractère technique très manifeste. L'auteur abrège ou supprime la phraséologie mystique, conservant au contraire _in extenso_ les recettes proprement dites.
+
+Puis vient Démocrite (_Physica et Mystica_), l'Anonyme, Zosime, sur la vertu (extrait, fol. 31 verso), et une série de petits écrits sur l'ἄσβεστος et autres, qui se trouvent au long dans le manuscrit de Venise. Le tout se poursuit dans le Voss. sans rien de spécial, jusqu'au folio 49, περὶ ὀργάνων, de Zosime. --- On rencontre alors la Chrysopée de Cléopâtre et des figures pareilles à celles du manuscrit de Venise.
+
+La similitude des figures est si grande que l'on ne saurait douter d'une origine commune ; le Voss. reproduit en effet (fol. 49 verso) la Chrysopée (notre fig. 11), avec ces mots en face : ὄτι ἀπὸ ἀσκιάστου χαλκοῦ ἰὸς.
+
+Et plus bas : Ἔχει δὲ οὗτος βήκος, ὕελος, σωλὴν :
+
+Puis (fol. 50 verso) les deux figures de dibicos (nos fig. 14 et 14 _bis_) ; au folio 51 recto, les mots ἑξῆς τό τρίβηκον ὑπόγραφε, et au bas de la page : οἱ δὲ τύποι οὕτως ; puis les mots ἔστιν ἀρχὴ, et la figure en cœur (notre fig. 31) ;
+
+Au folio 51 verso, la figure du tribicos (notre fig. 15) et celle de l'appareil distillatoire (notre fig. 16).
+
+Au folio 52 recto, en face : ἕτερον ποίησις καὶ ἕτερον ἄρσις.
+
+Au folio 52 verso : les kérotakis (nos fig. 22 et 24).
+
+Au folio 53 recto : la palette (notre fig. 24 _bis_).
+
+Au folio 53 verso : les deux appareils à digestion (nos fig. 20 et 21).
+
+Au folio 55 verso : les trois autres figures de kérotakis, ajoutées sur les marges du manuscrit de Saint-Marc (nos fig. 25, 26 et 27), avec les mots : ὁπὰν ἔχει τὸ ὀσράκινον ἄγγος καλύπτον τὴν φιάλην τὴν ἐπὶ τὴν κηροτακίδα ἵνα περιβλέπη.
+
+Puis viennent les figures et les mots :
+
+ἐκ φι ἔστι τὸ πλυν (_sic_ ; mots abrégés).  
+ἐκ τῶν ἰουδαικῶν γράφων.
+
+Au folio 58 recto, la figure de la chaudière et du πόντος (notre fig. 18), qui n'existe dans aucun autre que celui de Saint-Marc.
+
+Aux folios 54 et 55, on lit quelques petits morceaux, d'un caractère spécial, qui débutent ainsi :
+
+τὰ τὴν ἀπὸ τοῦ χρυσορρόου ποταμοῦ σύμφυραν ἀφαιρέματι ...  
+πρὸς μίξεις οὗ ποίησει φύραμα εἰς λεκάνην ὀστρακίνην ...  
+ὥς φύραμα ἀργύρου ...
+
+Les articles qui suivent : sur les feux, le cuivre brûlé, la trempe du fer persan, et celle du fer indien, les poids et mesures (fol. 56 à 64), ne diffèrent pas du manuscrit de Venise.
+
+La liste des signes (fol. 70 à 72) reproduisant nos figures 3, 4, 5, Pl. 1, 2, 3, est très significative ; car c'est celle des signes du manuscrit de Saint-Marc, modifiée par des interversions, dues évidemment au copiste qui a embrouillé l'ordre des colonnes. La liste finale des noms des philosophes est exactement la même.
+
+A la fin on lit (fol. 70) la formule de l'Ecrevisse (notre fig. 28), avec son explication et le texte qui l'accompagne, dans l'addition faite au début du manuscrit de Saint-Marc (v. p. 152 à 155). Ce dernier texte est terminé de même par les mots : « Ainsi a été accomplie, avec l'aide de Dieu, la pratique de Justinien. »
+
+Formule et texte sont précédés par un autre morceau sur l'œuf, attribué à Justinien et que je vais reproduire, comme formant avec la phrase précédente les seuls débris qui nous restent de ces traités alchimiques de Justinien, indiqués dans la vieille liste du manuscrit de Saint-Marc (p. 176). Il semble que c'était l'œuvre pseudonyme d'un commentateur, analogue à l'Anonyme et à Stéphanus. En tout cas, l'existence de ce morceau prouve que le Voss. a dû puiser dans des sources perdues aujourd'hui. Cependant, sauf quelques petits fragments, on vient de voir que son contenu n'apporte rien d'essentiellement nouveau. Peut-être vaudra-t-il plus tard la peine d'être collationné avec le texte grec de la publication présente.
+
+_Codex Vossianus_ (Leide), n° 47, in-4° --- fol. 69 verso :
+
+Ὁ Ἰουστινιανὸς οὕτως κέκληται τὰ πρὸς τὸ ὠὸν ἕκαστα.  
+Τὸν κρόκον ὤχραν ἀττικήν. σινωπίδην πόντιον. νίτρον ῥούσιον. χαλκίτην ὀπτήν. κυανὸν ἀρμένιον, κρόκον κιλίκιον. ἐλύδριον.  
+Τὸ δὲ ὄστρακον, χαλκὸν, σίδηρον, κασσίτηρον, μόλιβδον.* σῶμα στερέον.  
+ Τὴν δὲ ἄσβεστον, γῆν χίαν. ἀστερίτην. ἀφροσέληνον. κόμην ἀκάνθης. ὀπὸν συκῆς. ὀπὸν τιθύμαλου. μαγνησίαν λευκὴν. ψιμμύθιον.  
+Τὸ δὲ ξανθὸν ὕδωρ κυανόχρωον. ὕδωρ θείου ἀπὺρου. ὕδωρ ἀρσενίκου. ὕδωρ κίτριον. κογχύλην. ἀριστολοχίαν. ὕδωρ χρυσοπυρίτου. ὕδωρ φέκλης. καὶ ἄλλα ἕτερα.  
+Τὸ δὲ λευκὸν ὕδωρ ἐκάλεσε θεῖον ὕδωρ. ἀπολελυμένον ὄξος. ὕδωρ στυπτηρίας. ὕδωρ ἀσβέστου. ὕδωρ σποδοῦ κράμβης. οὖρον. γάλα καινόν θηλυζουσα. γάλα αἰγός. γάλα σποδοῦ λευκῶν ξύλων. γάλα φοινίκης. ἀργυροζώμιον. ὕδωρ νίτρου λευκόν. καὶ ἕτερα.
+
+*) Le nom de chaque métal est suivi de son signe dans le manuscrit.
+
+« Justinien met ainsi en lumière chacune des parties relatives à l'œuf (philosophique ; v. _Texte grec_, 1, 3 et 1, 4) : »
+
+« Le jaune, c'est l'ocre attique ; le vermillon du Pont ; le nitre roux ; la chalcite grillée ; le bleu d'Arménie, le safran de Cilicie, la chélidoine. »
+
+« La coquille, c'est le cuivre, le fer, l'étain, le plomb, le corps solide. »
+
+« La chaux, c'est la terre de Chio, la pierre scintillante, la sélénite ; la gomme d'acanthe ; le suc du figuier ; le suc du tithymale ; la magnésie blanche ; la céruse. »
+
+« L'eau jaune qui teint en bleu, c'est l'eau du soufre apyre, l'eau d'arsenic, l'eau citrine, le coquillage, l'aristoloche, l'eau de la pyrite dorée, l'eau de lie, et les autres choses. »
+
+« Il a appelé l'eau blanche : eau divine obtenue par écoulement, vinaigre, eau d'alun, eau de chaux, eau de cendres de choux, urine, lait nouveau produit par une femelle ( ? ), lait de chèvre, lait de la cendre des bois blancs, lait de palmier, liqueur argentine, eau de nitre blanc, et le reste. »
+
+### 11. --- _Manuscrits divers._
+
+Je relaterai, pour ne rien omettre, dans le manuscrit 113 de la Bibliothèque du Métoque du Saint-Sépulcre, à Constantinople, un petit traité περὶ χημικῶν, ainsi que la lettre de Psellus au patriarche Michel sur l'art chimique : ces indications m'ont été fournies par M. J. Psichari, qui a visité cette Bibliothèque l'an dernier.
+
+Enfin M. Ludwig Stem a publié dans la _Zeitschrift für ægypt. Sprache_, pages 102-119, 3e livraison, 1885, des fragments d'un Traité copte, écrit à la fin du moyen âge et composé surtout d'une série de courts articles, qui semblent avoir un caractère purement technique.
+
+### 12. --- _Manuscrit arabe d'Ostanès._
+
+Il existe à la Bibliothèque Nationale de Paris un manuscrit alchimique arabe, renfermant un Traité attribué à Ostanès (n° 972 de l'ancien fonds). Ce manuscrit est d'une très belle écriture ; il a été transcrit au 14e ou au 15e siècle. Un savant très compétent a bien voulu en traduire verbalement pour moi quelques pages, que j'ai prises sous sa dictée, et que je vais reproduire, à titre de renseignement :
+
+« _Livre des Douze Chapitres d'Ostanès le Sage sur la Science de la Pierre illustre. Introduction._ --- Au nom de Dieu, etc., le sage Ostanès dit : ceci est l'interprétation du livre du Contenant, dans lequel on trouve la science de l'œuvre, sa composition et sa dissolution, sa synthèse et son analyse, sa distillation et sa sublimation, sa combustion et sa cuisson, sa pulvérisation et son extraction, son grillage, son blanchiment et son noircissement, l'opération qui la rend rouge, sa fabrication avec des éléments provenant des règnes minéral, végétal, animal, et la constitution de l'or philosophique, lequel est le prix du monde : ainsi que l'acide et la composition du sel et le dégagement de l'esprit ; la synthèse des mercures et l'analyse des soufres, et tout ce qui se rapporte à la méthode de l'œuvre. »
+
+Avant l'introduction, il est dit que l'ouvrage a été traduit du pehlvi, du grec, etc., etc., et le traducteur prétendu ajoute :
+
+« La première partie renferme : un chapitre sur la description de la pierre philosophique et un chapitre sur la description de l'eau ;--- sur les préparations ;--- sur les animaux. »
+
+« La seconde partie renferme un chapitre sur les plantes ;--- sur les tempéraments ;--- sur les esprits ;--- sur les sels ;--- un chapitre sur les pierres ;--- sur les poids ;--- sur les préparations ;--- sur les signes secrets. »
+
+« J'ai donné, ces choses, dit-il, d'après les paroles d'Ostanès le Sage et j'ai ajouté à la fin deux chapitres, d'après les paroles d'Hercule (Héraclius) le Romain, les paroles d'Abu-Alid l'Indien, les paroles d'Aristote l'Égyptien, les paroles d'Hermès, les paroles d'Hippocrate, et les paroles de Géber, et les paroles de l'auteur d'Emèse. »
+
+Ailleurs, il cite Aristote comme son contemporain : « j'ai entendu Aristote dire ... » Il cite aussi Platon (fol. 34), Galien (fol. 19 verso), Romanus (fol. 17 verso et 23 verso), les livres des anciens en langue grecque (fol. 14 verso), Abubekr,* alchimiste arabe du 4e siècle de l'Hégire (fol. 23 verso), Djamhour, autre alchimiste arabe (fol. 3).
+
+*) C'est Rhazès. --- Voir _Rufus d'Ephèse_, édition de 1879, préface, p. 48.
+
+La personne qui me traduisait ces pages n'a pas retrouvé dans le manuscrit les chapitres techniques annoncés plus haut et qui auraient offert beaucoup d'intérêt. Voici seulement quelques extraits, qu'elle a eu l'obligeance de me dicter :
+
+« 1er Chapitre : Sur la description de la pierre, tirée du livre du Contenant* ; le sage dit : »
+
+*) Ce titre est le même que celui de l'ouvrage médical de Rhazès.
+
+« La première chose qu'il faut chercher, c'est la connaissance de la pierre qui fut recherchée par les anciens, et dont ils acquirent le secret avec le tranchant du sabre. Et il leur fut interdit de la nommer, ou s'ils la mentionnaient nominativement, c'est par un nom vulgaire. Et ils conservaient le secret jusqu'à ce qu'ils pussent le révéler aux âmes pures. »
+
+Et plus loin :
+
+« La pierre, on l'a décrite en disant qu'elle est l'eau courante, l'eau éternelle ;--- qu'elle est le feu ardent, le feu glacé, la terre morte, la pierre dure, la pierre douce ;--- c'est l'esclave fugitif ; le stable et le rapide ; la chose qui fait, celle qui est faite ; celle qui lutte contre le feu, celle qui tue par le feu ; celui qui a été tué injustement, qui a été pris de force ; l'objet précieux, l'objet sans valeur ; la plus haute magnificence, la plus basse abjection ; il exalte celui qui le connaît ; il illustre celui qui s'y applique ; il dédaigne celui qui l'ignore ; il abaisse celui qui ne le connaît pas ; il est proclamé chaque jour par toute la terre. O vous, cherchez-moi, prenez-moi --- et faites-moi mourir, puis après m'avoir tué, brûlez-moi : après tout cela, je ressuscite et j'enrichis celui qui m'a, tué et qui m'a brûlé. S'il m'approche vivant du feu, je le rends glacé. Si l'on me sublime entièrement et qu'on me lie fortement, je retiens alors la vie dans mes convulsions extrêmes et par Dieu je ne m'arrête que lorsque je suis saturé du poison qui doit me tuer. »
+
+« Je t'ai montré ces sources (de la connaissance) en principe et non pas en fait ... Et je n'ai rien caché, Dieu m'en est témoin ... Je l'ai posée d'une façon exacte dans le but. --- Il ne faut pas que tu le dépasses ... »
+
+Ce langage mystique et déclamatoire rappelle à la fois Zosime et les vieux alchimistes arabes du moyen âge, cités dans Vincent de Beauvais.
+
+Au folio 62 on lit un second ouvrage, attribué aussi à Ostanès. En voici un extrait : « Le sage Ostanès dit en réfléchissant et en regardant cette œuvre : L'amour de cette œuvre est entré dans mon cœur et en même temps le souci a pénétré en moi, de sorte que le sommeil a fui mes yeux et j'ai perdu le boire et le manger : par là mon corps s'est affaibli et j'ai changé de couleur. Lorsque je vis cela, je m'adonnai à la prière et au jeûne. »
+
+« Il a prié Dieu, et il a vu, étant couché, une apparition qui lui dit : Lève-toi et elle le conduisit à un lieu où il vit sept portes. Mon guide me dit : ce sont les trésors de ce monde que tu recherches. Je lui dis : Donne moi la faculté d'y pénétrer --- Il répondit : il faut l'aile de l'aigle et la queue du serpent. »
+
+« Il vit plusieurs tablettes : sur l'une était écrit ce qui suit. C'était un livre persan, plein de science, où il était dit : l'Égypte est une contrée tout à fait privilégiée. Dieu lui a donné la sagesse et la science en toute chose. Quant à la Perse, les habitants de l'Égypte et des autres contrées lui sont redevables : rien ne réussit sans son concours. Tous les philosophes ont été en Perse, etc. »
+
+Il est difficile de distinguer dans ces citations ce qui appartient en propre à l'auteur arabe et ce qui pourrait provenir d'une source grecque, plus ou moins éloignée. Mais le dernier morceau a une physionomie singulière ; on y voit alors une apparition, conformément aux vieilles traditions magiques du persan Ostanès ; l'éloge de la Perse semble pareillement l'indice d'une antique tradition. On peut aussi rapprocher les paroles relatives à l'Egypte, de celles qui concernent la terre de l'Ethiopie dans le dialogue grec de Comarius (Ideler, T. 2, p. 253, lig. 11), dialogue où Ostanès est également cité (même ouvrage, 2, p. 248, lig. 27).
+
+## 7. --- Sur quelques Métaux et Minéraux provenant de l'Antique Chaldée.
+
+En poursuivant mes études sur les origines de l'Alchimie et sur les métaux antiques, j'ai eu occasion d'examiner diverses matières, provenant, les unes du palais de Sargon, à Khorsabad, les autres des fouilles de Tello par M. de Sarzec. C'est grâce à l'extrême obligeance de notre confrère, M. Heuzey, conservateur au musée du Louvre, que j'ai pu étudier les échantillons, tirés des précieuses collections de notre grand Musée national. Je vais présenter les résultats de mes analyses, et j'exposerai ensuite divers documents nouveaux ou peu connus, relatifs à l'origine de l'étain employé par les anciens dans la fabrication du bronze.
+
+Commençons par les objets provenant de Khorsabad.
+
+Dans le cours de ses fouilles, en 1854, M. Place découvrit, sous l'une des pierres angulaires du palais de Sargon, un coffre de pierre contenant des tablettes votives, couvertes d'inscriptions cunéiformes très nettes, destinées à rappeler la fondation de l'édifice (706 av. J.-C.). D'après M. Place, ces tablettes auraient été au nombre de cinq ; mais les inscriptions indiquent formellement qu'il y en avait sept, désignées nominativement. Quatre seulement de ces tablettes se trouvent aujourd'hui au musée du Louvre. Les trois autres sont perdues. Les quatre tablettes qui restent portent des inscriptions longues et détaillées. M. Oppert a publié la traduction de trois d'entre elles, dans l'ouvrage intitulé : _Ninive et l'Assyrie, par V. Place_ (t. 2, p. 303 ; 1870). Le sens en est à peu près le même pour les trois et il se rapporte à la construction du palais. D'après cette traduction, les tablettes étaient en or, argent, cuivre, en deux autres corps dont les noms ont été identifiés avec le plomb et l'étain, ce dernier plus douteux, d'après M. Oppert : enfin en deux derniers corps portant le déterminatif des pierres employées comme matériaux de construction, et qui sont regardés comme du marbre et de l'albâtre. Malheureusement, chaque tablette ne contient pas à part le nom de la matière dont elle est faite.
+
+J'ai examiné les quatre tablettes actuellement existantes au Louvre. Elles sont rectangulaires et épaisses de plusieurs millimètres. La lame d'or est la plus petite ; elle se reconnaît aisément, quoiqu'elle ait perdu son éclat. Elle pèse environ 167 gr. Elle a été façonnée au marteau. Le métal n'est pas allié avec un autre en proportion notable.
+
+La lame d'argent est également pure, ou à peu près. Elle est légèrement noircie à la surface, en raison de la formation d'un sulfure, comme il arrive à l'argent exposé pendant longtemps aux agents atmosphériques. Elle pèse environ 435 gr. Je donne ces poids à titre de renseignements, sans préjuger la question de savoir s'ils répondaient aux valeurs relatives des métaux à l'époque de la fondation du palais. On sait que le rapport de valeur de l'or à l'argent a varié beaucoup suivant les temps et les lieux.
+
+La lame réputée de cuivre est profondément altérée et en partie exfoliée par l'oxydation. Elle pèse, dans son état présent, environ 952 gr. Ceci joint à la densité du métal, moindre que celle de l'or et de l'argent, suffit pour montrer que les dimensions en sont beaucoup plus considérables que celles des deux autres. La couleur en est rouge foncé, déterminée surtout par la présence du protoxyde de cuivre. Cependant ce n'est pas du cuivre pur, mais du bronze. En effet, un échantillon prélevé à la lime sur les bords renfermait, d'après l'analyse :
+
+Étain|10,04 ;  
+Cuivre|85,25 ;  
+Oxygène, etc.|4,71 ;  
+|100,00
+
+Il n'y a ni plomb, ni zinc ou autre métal en quantité notable. La proportion de l'étain répond à celle d'un bronze jaune d'or ; mais la présence du protoxyde de cuivre a altéré la couleur. Cette composition se retrouve d'ailleurs dans un grand nombre de bronzes antiques. Je citerai seulement un miroir égyptien, datant du 17e ou du 18e siècle avant notre ère, et que j'ai analysé autrefois pour M. Mariette. Il renfermait 9 parties d'étain et 91 de cuivre.
+
+La quatrième tablette est la plus intéressante de toutes, à cause de sa composition. Elle pèse environ 185 gr. Elle est constituée par une matière d'un blanc éclatant, opaque, compacte, dure, taillée et polie avec soin. Elle a été réputée jusqu'ici formée par un oxyde métallique et désignée même à l'origine sous le nom de _tablette d'antimoine_, d'autres disent _d'étain_ ; d'après l'opinion qu'elle aurait été fabriquée autrefois avec un métal que le temps aurait peu à peu oxydé. Cependant, ni l'antimoine ni l'étain ne possèdent la propriété de s'altérer de cette façon, surtout lorsqu'ils sont contenus dans un coffre de pierre. Tout au plus le plomb ou le zinc sont-ils susceptibles de se changer en oxyde, ou en carbonate, dans un milieu humide ; mais alors ils se désagrègent et tombent en poussière, tandis que la tablette est parfaitement compacte et couverte d'une inscription très fine et d'une extrême netteté. Sa nature réelle constituait donc une véritable énigme.
+
+Pour l'examiner de plus près, nous avons d'abord pratiqué avec précaution un sondage, et constaté qu'il n'existait pas de feuille de métal centrale dans l'épaisseur de la tablette. L'analyse chimique a indiqué ensuite que la matière de la tablette est du carbonate de magnésie pur et cristallisé, substance bien plus résistante aux acides étendus et aux agents atmosphériques que le carbonate de chaux. Le poli de cette tablette paraît avoir été complété à l'aide d'une trace presque insensible de matière grasse, laquelle se manifeste par calcination.
+
+Observons ici que notre magnésie et ses sels étaient inconnus dans l'antiquité et au moyen âge, le nom de magnésie ayant eu autrefois des sens très différents, multiples d'ailleurs.*
+
+*) Voir ce volume, p. 28, 66, 153 et plus loin.
+
+Dans Pline, ce mot désigne divers minéraux noirs, blancs, ou roux, provenant des villes et provinces du même nom : en particulier la pierre d'aimant ou pierre magnétique (qui en a conservé la dénomination) ; un minéral qui parait être notre oxyde de manganèse (autre transformation du même nom) ; enfin les pyrites de fer, de cuivre, peut-être d'étain et de plomb. Par extension, le nom de magnésie fut ensuite appliqué aux produits successifs : oxydes et même alliages, provenant du grillage et du traitement de ces diverses pyrites.
+
+Le sens du mot a changé encore chez les Alchimistes, qui l'ont étendu à certains alliages et amalgames, parfois argentifères. C'est seulement vers le 18e siècle qu'il a été donné aux mélanges de sulfate et de carbonate de chaux, renfermant souvent des sels de magnésie ; et finalement au carbonate précipité du sel d'Epsom : dernière attribution qui a conduit le mot magnésie à sa signification actuelle.
+
+Quoi qu'il en soit, le carbonate de magnésie pur et cristallisé est un minéral fort rare, que Haüy ne connaissait pas encore au commencement de ce siècle. Son association intime avec le carbonate de chaux engendre la _dolomie_, roche au contraire fort répandue. On rencontre surtout le carbonate de magnésie proprement dit, en veines intercalées dans les schistes talqueux, serpentines et autres silicates magnésiens ; il résulte de la décomposition lente de ces schistes par les agents naturels. La matière de la tablette du palais de Sargon renferme en effet quelques traces de silice, qui trahissent la même origine.
+
+Le choix d'un minéral aussi exceptionnel, pour fabriquer une tablette sacrée, n'a pas dû être fait au hasard : il répondait sans doute à quelque idée religieuse particulière. En tous cas, il prouve que les Assyriens connaissaient le carbonate de magnésie comme une substance propre. A quel mot répondait réellement cette tablette dans l'inscription, où elle paraît figurer sous l'un des noms réputés jusqu'ici métalliques ? Malgré l'absence d'une dénomination spéciale sur cette tablette, M. Oppert a bien voulu me dire qu'elle était désignée par le mot _a-bar_, pris auparavant pour celui de l'étain.
+
+Il m'a semblé utile, pour tâcher d'obtenir quelque lumière nouvelle à cet égard, d'analyser la matière même avec laquelle sont construits les grands taureaux du musée du Louvre et de rechercher surtout si elle contiendrait de la dolomie. Mais j'ai vérifié que c'est du carbonate de chaux cristallisé, présentant la constitution physique soit du marbre, soit plutôt de cette variété de calcaire, confondue autrefois sous le nom d'albâtre avec le sulfate de chaux anhydre. Il ne m'appartient pas de discuter davantage la question philologique de la vraie dénomination de ces matières (v. ce volume, p. 80).
+
+Pendant que j'étudiais les tablettes de Khorsabad, M. Heuzey appela mon attention sur certains objets métalliques, provenant des fouilles faites à Tello par M. de Sarzec : c'étaient un fragment d'un vase et une figurine votive.
+
+Le fragment représente une portion d'un cordon circulaire cylindrique, de 7 mm. à 8 mm. de diamètre, qui formait l'orifice d'un vase moulé, préparé par fusion et coulage. On voit encore une partie de la gorge qui séparait ce cordon du corps du vase proprement dit. La forme en est très simple et sans aucuns linéaments délicats, ni inscription. La surface est couverte d'une très légère patine, d'un noir jaunâtre. La masse est formée par un métal brillant, noir, dont la cassure présente des cristaux volumineux et miroitants. La matière même est très dure, mais fragile. D'après l'analyse, elle est constituée par de l'antimoine métallique, sensiblement pur et ne renfermant à dose notable ni cuivre, ni plomb, ni bismuth, ni zinc, mais seulement quelques traces de fer. La patine paraît être un oxysulfure, formé par l'action des traces d'hydrogène sulfuré qui existent dans l'atmosphère.
+
+L'existence d'un fragment brisé de vase moulé en antimoine pur a quelque chose de singulier ; car l'industrie actuelle n'emploie pas ce métal pur à un semblable usage, quoiqu'elle se serve fréquemment de ses alliages, et je n'ai vu aucun autre exemple analogue dans les ustensiles, soit du temps présent, soit des temps passés.
+
+Cependant on m'avait affirmé que les Japonais l'emploient dans leurs fabrications et l'on m'a même remis un petit dauphin ailé, réputé constitué par de l'antimoine. Mais l'analyse exacte de ce dauphin a montré qu'il contenait du zinc et divers métaux associés (étain, bismuth, fer), mais qu'il était loin d'être formé par l'antimoine pur. Si l'antimoine pur a été réellement employé par les Japonais, ce dont je doute, il y aurait là un rapprochement singulier avec les antiques industries chaldéennes.
+
+C'est d'ailleurs une circonstance extrêmement curieuse que la trouvaille authentique d'un tel fragment travaillé d'antimoine, faite à Tello, lieu demeuré inhabité depuis le temps des Parthes, et qui renferme les débris de la plus vieille civilisation chaldéenne. L'antimoine, en effet, est réputé ne pas avoir été connu des anciens et avoir été découvert seulement vers le 15e siècle. Cependant on doit observer que les anciens connaissaient parfaitement notre sulfure d'antimoine, minéral naturel auquel ils donnaient le nom de _stibium_ ou _stimmi_ et qu'ils employaient à de nombreux usages, particulièrement en Médecine. Il existe même dans Dioscoride un passage reproduit par Pline et dont je crois pouvoir conclure que l'antimoine métallique avait déjà été obtenu à cette époque. On lit en effet dans Dioscoride (_Matière médicale_, liv. 5, ch. 99) : « On brûle ce minéral en le posant sur des charbons et en soufflant jusqu'à incandescence ; si l'on prolonge le grillage, il se change en plomb (μολυβδοῦται). » Pline dit de même (_Histoire naturelle_, liv. 33, chap. 34) : « Il faut surtout le griller avec précaution, pour ne pas le changer en plomb (_ne plumbum fiat_). » Ces observations répondent à des phénomènes bien connus des chimistes. En effet, le grillage ménagé du sulfure d'antimoine, surtout en présence du charbon, peut aisément le ramener à l'état d'antimoine fusible et métallique, substance que Pline et ses contemporains confondaient, au même titre que tous les métaux noirs et facilement fusibles, avec le plomb. L'existence du vase de Tello prouve que l'on avait également en Mésopotamie, et dès une époque probablement beaucoup plus ancienne, essayé de préparer des vases moulés avec cette prétendue variété de plomb, moins altérable que le plomb ordinaire.
+
+Depuis la première publication de ces analyses, j'ai reçu une lettre de M. R. Virchow, qui m'annonce avoir imprimé, dans le _Bulletin de la Société anthropologique de Berlin_,* une Note sur de petits ornements en antimoine, trouvés dans une ancienne nécropole transcaucasienne (Redkin-Lager), datant probablement du temps de la première introduction du fer. C'est là un autre exemple de l'antique connaissance de l'antimoine.
+
+*) _Verhandlungen der Berliner Anτhropologischen Gesellschafft_, Sitzung vom 19 Januar 1884. Les dessins sont aux pages 129 et 130.
+
+La figurine métallique votive de Tello donne lieu à des observations non moins intéressantes. Elle représente un personnage divin, agenouillé, tenant une sorte de pointe ou cône métallique. Elle porte le nom gravé de Goudéah, c'est-à-dire qu'elle répond à l'époque la plus ancienne à laquelle appartiennent les objets trouvés jusqu'ici en Mésopotamie. M. Oppert lui attribuerait une antiquité de quatre mille ans avant notre ère. Nous nous trouvons ainsi reportés aux temps les plus reculés de la métallurgie historique.* Cette figurine est recouverte d'une épaisse patine verte. Au-dessous de la patine se trouve une couche rouge, constituée par le métal, profondément altéré et oxydé dans la majeure partie de son épaisseur. Puis vient un noyau métallique rouge, qui offre l'apparence et la ténacité du cuivre proprement dit : c'est le dernier reste du métal primitif, progressivement détruit par les actions naturelles.
+
+*) La figurine est dessinée dans l'ouvrage intitulé : _Découvertes en Chaldée_, par E. de Sarzec (Pl. 28, figures 3 et 4).
+
+J'ai analysé ces différentes parties.
+
+La patine verte superficielle est un mélange de carbonate de cuivre et d'oxychlorure de cuivre hydraté. Ce dernier composé est bien connu des minéralogistes sous le nom d'_atakamite_. Il résulte de l'altération du métal par les eaux saumâtres, avec lesquelles la figurine s'est trouvée en contact pendant la suite des temps.
+
+La couche moyenne est du protoxyde de cuivre à peu près pur, ne renfermant ni étain, ni antimoine, ni plomb ou métal analogue, ni zinc, à dose notable ; elle résulte d'une altération lente du cuivre métallique.
+
+Enfin le noyau est constitué par du cuivre métallique, très sensiblement pur.
+
+L'absence de tout métal autre que le cuivre dans cette figurine mérite d'être notée ; car les objets de ce genre sont d'ordinaire fabriqués avec du bronze, alliage d'étain et de cuivre, plus dur et plus facile à travailler que ses composants. L'absence même de l'étain dans le cuivre de Tello pourrait offrir une signification historique toute particulière. En effet, l'étain est bien moins répandu que le cuivre à la surface de la terre et son transport a toujours été, dans l'antiquité comme de nos jours, l'objet d'un commerce spécial. En Asie notamment, on n'avait, jusqu'à ces derniers temps, signalé d'autres gîtes d'étain un peu abondants que ceux des îles de la Sonde et des provinces méridionales de la Chine. Le transport de cet étain vers l'Asie occidentale se faisait autrefois par mer, jusqu'au golfe Persique et à la mer Rouge, au moyen d'une navigation longue et pénible ; et il était transmis de là sur les côtes de la Méditerranée, où il venait faire concurrence à l'étain des îles anglaises (îles Cassitérides), transporté soit à travers la Gaule, soit par le détroit de Gadès ; ainsi qu'à celui des gîtes moins abondants de la Gaule centrale,* où l'étamage du cuivre fut d'abord pratiqué* ; enfin à l'étain des gîtes de la Thrace, peut-être aussi à celui de la Saxe et de la Bohême, et autres provenances locales, répondant à des gîtes peu abondants, mais dont la connaissance par les anciens est incertaine. L'importance de ces gîtes locaux a été spécialement discutée dans l'ouvrage de M. A. B. Meyer sur des fouilles en Carinthie, intitulé : _Gurina in Obergailthales_ (_Kärinthen_) 1885 (p. 65 et suivantes) ; ouvrage que l'auteur a bien voulu m'adresser. Elle mérite d'autant plus notre attention que des voyages aussi longs et aussi pénibles, des navigations si difficiles n'ont dû s'établir qu'après bien des siècles de civilisation. Les Phéniciens, venus autrefois des bords du golfe de Persique à ceux de la Méditerranée, paraissent avoir été les premiers promoteurs de cette navigation, du moins en Occident (Strabon, liv. 3, chap. 5, 2).
+
+*) Strabon le signale aussi en Lusitanie (Liv. 3, ch. 2, 8).
+
+*) Pline, _H. N._, l. 34, 48.
+
+En fait, j'ai eu connaissance récemment de deux documents, qui sont de nature à fixer une origine moins lointaine à l'étain des bronzes de l'Assyrie et de l'Égypte.* En effet, d'après une Note publiée par M. G. Bapst, dans les Comptes rendus de l'Académie des inscriptions (1886), un voyageur russe, M. Ogorodnikoff, aurait appris des habitants de Meched qu'il existait, à 120 kilomètres de cette ville et dans divers points du Khorassan,* des mines d'étain, actuellement en exploitation. Ces renseignements sont regardés par l'auteur comme sujets à caution, en raison de l'incertitude de témoignages de cet ordre, purement oraux et fournis par des Tatars.
+
+*) Quelques auteurs ont supposé qu'il avait dû exister autrefois des minerais d'étain dans l'Ibérie du Caucase. Mais les géologues n'en ont jamais trouvé jusqu'ici dans cette région. Voir sur cette question : _Recherches anthropologiques dans le Caucase_, par E. Chantre, t. 1. p. 81 (1885), et _Age du bronze_, t. 2, p. 305.
+
+*) L'existence de mines d'étain au Khorassan a été signalée par Von Baer, _Archiv für Anthropologie_, t. 9, 1876.
+
 ...
 
 # Texte Grec.
