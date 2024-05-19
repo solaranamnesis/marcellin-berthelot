@@ -4056,6 +4056,130 @@ En fait, j'ai eu connaissance récemment de deux documents, qui sont de nature �
 
 *) L'existence de mines d'étain au Khorassan a été signalée par Von Baer, _Archiv für Anthropologie_, t. 9, 1876.
 
+Cependant, circonstance remarquable, ils se trouvent en certain accord avec un passage de Strabon, que m'a indiqué M. P. Tannery. Strabon signale en effet (liv. 15, chap. 2, 10) des mines d'étain dans la Drangiane, région qui répond au sud du Khorassan, au-dessous d'Hérat, vers les limites occidentales de notre Afghanistan. Mais le transport de l'étain de ce point jusqu'à la Chaldée aurait encore exigé un voyage par terre, de longue durée, à travers des régions où les modernes eux-mêmes ne parviennent que bien difficilement. A la vérité, les métaux usuels et leurs alliages semblent avoir été transportés autrefois à travers le monde par des fondeurs nomades, analogues aux Tziganes et qui passaient partout.
+
+La principale difficulté que l'on puisse objecter à ces petits gîtes et à ces transports individuels d'étain, c'est l'abondance et la diffusion universelle des armes de bronze, pendant de longs siècles. Les hypothèses précédentes ne semblent pas répondre aux besoins d'une fabrication aussi prolongée, aussi générale et aussi considérable. Pour y satisfaire, il a dû exister des transports réguliers de masses d'étain, venant de mines abondantes et inépuisables.
+
+Si l'étain est rare dans le monde, il n'en est pas de même du cuivre. Les minerais de cuivre se trouvent sur un grand nombre de points. Les mines du Sinaï, pour ne pas en citer de plus lointaines, sont célèbres dans la vieille Egypte. L'extraction du cuivre métallique à l'aide de ses minerais est d'ailleurs facile.
+
+En raison de ces circonstances, plusieurs archéologues ont supposé qu'un âge du cuivre pur, c'est-à-dire un âge ou l'on fabriquait avec ce métal les armes et les ustensiles, avait dû précéder l'âge du bronze. Le bronze, plus dur et plus résistant, aurait ensuite remplacé le cuivre, dès qu'il fut découvert. Pour juger de cette hypothèse et pour établir la date à laquelle ont commencé ces transports lointains et cette vieille navigation, il serait nécessaire de posséder l'analyse des objets les plus anciens qui aient une date certaine, parmi les débris de l'antiquité venus jusqu'à nous. Or le bronze à base d'étain existait déjà en Egypte, près de deux mille ans avant notre ère, d'après les analyses de ce genre (v. p. 220).
+
+L'analyse de la figurine de Tello semble indiquer, au contraire, que l'étain n'était pas encore connu, à l'époque reculée de la fabrication de cet objet, l'étain n'arrivant pas alors jusqu'au golfe Persique.
+
+Ce n'est là d'ailleurs qu'une induction, quelque circonstance religieuse ou autre ayant pu déterminer l'emploi exclusif du cuivre dans cette figurine : il faudrait examiner des objets plus nombreux et plus variés pour arriver à cet égard à une certitude. Mais il m'a paru intéressant de signaler les problèmes d'ordre général soulevés par l'analyse des métaux de Tello.
+
+---
+
+## 8. --- Notices de Minéralogie, de Métallurgie et Diverses.
+
+Durant le cours de mes recherches sur les Alchimistes, j'ai recueilli dans les auteurs anciens et dans ceux du moyen âge, un grand nombre de renseignements intéressants sur la minéralogie et sur la métallurgie des anciens ; renseignements qui n'ont pu trouver une place suffisante dans les articles de l'Introduction, ou dans les notes de la Traduction. C'est pourquoi il m'a semblé utile de les reproduire ici dans un article spécial, lequel ne sera pas, je l'espère, sans quelque fruit pour les personnes qui étudieront le présent ouvrage. J'en donne d'abord, pour plus de clarté, la liste alphabétique ; puis viendront les notices elles-mêmes.
+
+**Liste Alphabétique des Notices.**
+
+**Æs**, **Airain**, **Bronze**, **cuivre**, χαλκός et dérivés. --- _Ærugo, viride æris, æruca_ --- _rubigo_ --- Ἰὸς χαλκοῦ. Ἰὸν ξυστόν --- _scolex_ --- _Flos_, ἄνθος χαλκοῦ --- _æs ustum_ χαλκὸς κεκαυμένος --- _scoria, lepis_ --- _squama_ --- _stomoma_ --- _smegma_, --- _diphryges_ --- _fæx æris_ --- craie verte, _théodotion_.
+
+**Aétite**, pierre d'aigle.
+
+**Alchimistes grecs** (tradition au moyen âge.)
+
+**Alphabets** et écritures hermétiques.
+
+**Alun**, στυπτηρία.
+
+**Ammoniac** (sel).
+
+**Antimoine** (sulfuré), στίμμι, larbason, alabastrum --- soufre noir --- antimoine brûlé, --- métallique, --- blanc, --- rouge.
+
+**Arsenic** (sulfuré) --- jaune, orpiment --- rouge, sandaraque, réalgar ; Kermès minéral --- métallique --- second mercure --- l'hermaphrodite.
+
+**Cadmie** --- naturelle (minerais de cuivre et de laiton) --- artificielle, ou des fourneaux --- ses espèces : _capnitis, pompholyx_ ; _botruitis, placitis, zonitis, onychitis, ostracitis_ --- _cathmia_ --- _nihil album_ --- _spodos, lauriotis_ --- _antispode_ --- tutie --- magnésie.
+
+**Chalcanthon** --- couperose --- vitriol --- sens multiples --- _Misy, sory_ --- colcothar --- _melanteria_.
+
+**Chalcitis**.
+
+**Chaux**, ἄσβεστος --- titanos --- gypse.
+
+**Chrysocolle** --- _ærugo_ --- _santerna_ --- soudure des orfèvres --- sens multiples. --- _Malachite_ --- _Azurite_ --- _armenium_ --- sens actuel.
+
+**Chrysolithe** --- moderne, ancienne.
+
+**Cinabre**.
+
+**Claudianos**.
+
+**Clefs** (les) de l'art.
+
+**Cobalt**, _cobathia, kobold_.
+
+**Coupholithe**, talc et analogues.
+
+**Éléments actifs**.
+
+**Esprits**, πνεύματα --- _corps_ et _âmes_ ; sens de ces mots. --- Les esprits : mercure, sel ammoniac, soufre, arsenic, marcassite, magnésie, tutie, wismath --- explication de ces mots.
+
+**Étain** --- κασσίτερος --- _stannum_ --- plomb blanc.
+
+**Étymologies chimiques doubles** : asèm, chimie, sel ammoniac.
+
+**Fer** et dérivés --- basalte --- _rubigo_ ou _ferrugo_, ἰός, rouille --- _squama_ --- _scoria_ --- _sideritis_ --- aimant, _magnes_ ou pierre magnétique, --- _ferrum vivum_ --- hématite --- pierre schisteuse --- ocres --- pyrites --- chalcopyrite.
+
+**Feu** (vertus).
+
+**Figures géométriques** des saveurs et des odeurs.
+
+**Fixation** du mercure et des métaux.
+
+**Gagates** (jais), --- pierre de Memphis --- asphalte.
+
+Ἰός, _virus_. --- Ἴωσις, plusieurs sens.
+
+**Magnésie** --- sens multiples --- pierre d'aimant --- minerai du molybdochalque --- sulfures, oxydes, alliages et amalgames divers --- magnésie noire --- magnésie calcaire, --- sens moderne.
+
+**Marcassites**.
+
+**Massa**.
+
+**Mercure**, _argentum vivum_ et _hydrargyrum_ --- sa sublimation dans l'_ambix_ --- αἱθάλη. --- Anecdote d'Aristote --- idées et synonymes alchimiques --- dialogue de l'or avec le mercure.
+
+**Métaux** --- Génération d'après Aristote --- d'après les Arabes et les alchimistes --- odeur des métaux.
+
+**Minium**, **rubrique** ou matière rouge --- μίλτος --- oxydes de fer (sanguine, ocre brûlée, hematite), de plomb, de mercure, de cuivre ---sulfures métalliques --- _sinopis_, --- terre de Lemnos --- minium, sens multiples --- fausse sandaraque --- cinabre --- _Sandyx, sericum_ --- découverte de Callias --- couleurs bleues : _cœruleum_ ; _armenium_ --- couleurs vertes : chrysocolle, verdet --- couleurs jaunes --- ocre --- _sil_, etc.
+
+**Nitrum** --- natron --- _spuma nitri_, ἁφρὸς νίτρου.
+
+**Opérations alchimiques**.
+
+**Or** --- coupellation par le soufre d'antimoine (loup des métaux, bain du roi, etc.).
+
+**Paros et Porus**.
+
+**Plomb** et dérivés --- plomb noir et plomb blanc --- _stannum_ --- galène --- plomb lavé --- plomb brûlé --- scorie --- spode --- pierre plombeuse --- molybdène --- scorie d'argent --- _helcysma_ --- _encauma_ --- litharge --- _chrysitis_ --- _argyritis_ --- écume d'argent --- céruse --- minium.
+
+**Pseudargyre**.
+
+**Samos** (pierre de).
+
+**Sélénite**, _aphroselinon_.
+
+**Sel** --- fossile --- de Cappadoce --- factice. --- _lanugo_ --- _muria_, saumure --- _flos_ --- _favilla_.
+
+**Soufre** --- apyre.
+
+**Terres diverses**.
+
+**Trempe** et **teinture** --- Βαφή.
+
+**Tutie**.
+
+Æs, _Airain, Bronze, Cuivre_, χαλκὸς.
+
+Ce mot était employé pour représenter à la fois le cuivre pur et les alliages très divers qu'il forme par son association avec l'étain, le zinc, le plomb, le nickel, l'arsenic et divers autres métaux ; c'est-à-dire les bronzes et les laitons des modernes. Le mot cuivre, même de nos jours, est parfois usité dans un sens aussi compréhensif : cuivre rouge, cuivre jaune, cuivre blanc, etc. ; tandis que le mot airain, dans la langue de nos orfèvres, a fini par désigner un alliage particulier, formé de 9 parties de cuivre et 3 de zinc. Mais le sens ancien du mot airain était synonyme de celui du cuivre.
+
+Le nom même du cuivre vient d'une épithète appliquée à l'airain de Chypre (Κύπριος) ; notre cuivre pur n'était pas désigné par un mot unique chez les anciens peuples, pas plus chez les Orientaux, que chez les Grecs, ou chez les Romains ; du moins jusqu'au 3e siècle de notre ère, époque où apparaît le mot _cuprum_.
+
+Insistons sur ce point que ni les Grecs, ni les anciens Romains n'ont employé deux mots distincts et spécifiques pour le cuivre et le bronze, et que l'on ne doit pas chercher deux noms de ce genre chez les vieux Orientaux. Le mot _æs_, airain, s'appliquait indifféremment au cuivre et à ses alliages avec l'étain, le plomb, le zinc. Pour bien comprendre les textes anciens, il convient d'écarter de notre esprit les définitions précises, acquises par la chimie de notre temps ; car les corps simples n'ont, à première vue, aucun caractère spécifique qui les distingue de leurs composés. Personne dans l'antiquité n'a regardé le cuivre rouge comme un élément qu'il fallût isoler, avant de l'associer aux autres. Les anciens, je le répète, n'ont pas conçu ces alliages comme nous, en les ramenant à l'association de deux ou trois métaux élémentaires, tels que notre cuivre, notre étain, notre plomb, métaux élémentaires que nous fondons ensemble pour obtenir les bronzes et les laitons. Mais ils opéraient surtout sur les minerais de ces métaux, plus ou moins purs, minerais appelés _cadmies_, ou _chalcites_ ; ils les mélangeaient, avant d'opérer la fabrication et la fonte du métal proprement dit ; parfois, quoique plus rarement, ils unissaient entre eux les alliages et métaux obtenus du premier jet.
+
 ...
 
 # Texte Grec.
