@@ -46,6 +46,8 @@
 
 ## [6. --- Renseignements et Notices sur quelques Manuscrits Alchimiques.](#6-----renseignements-et-notices-sur-quelques-manuscrits-alchimiques-1)
 
+## [7. --- Sur quelques Métaux et Minéraux provenant de l'Antique Chaldée.](#7-----sur-quelques-métaux-et-minéraux-provenant-de-lantique-chaldée-1)
+
 ...
 
 # [Texte Grec.](#texte-grec-1)
