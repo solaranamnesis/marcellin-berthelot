@@ -4182,6 +4182,222 @@ Le nom même du cuivre vient d'une épithète appliquée à l'airain de Chypre (
 
 Insistons sur ce point que ni les Grecs, ni les anciens Romains n'ont employé deux mots distincts et spécifiques pour le cuivre et le bronze, et que l'on ne doit pas chercher deux noms de ce genre chez les vieux Orientaux. Le mot _æs_, airain, s'appliquait indifféremment au cuivre et à ses alliages avec l'étain, le plomb, le zinc. Pour bien comprendre les textes anciens, il convient d'écarter de notre esprit les définitions précises, acquises par la chimie de notre temps ; car les corps simples n'ont, à première vue, aucun caractère spécifique qui les distingue de leurs composés. Personne dans l'antiquité n'a regardé le cuivre rouge comme un élément qu'il fallût isoler, avant de l'associer aux autres. Les anciens, je le répète, n'ont pas conçu ces alliages comme nous, en les ramenant à l'association de deux ou trois métaux élémentaires, tels que notre cuivre, notre étain, notre plomb, métaux élémentaires que nous fondons ensemble pour obtenir les bronzes et les laitons. Mais ils opéraient surtout sur les minerais de ces métaux, plus ou moins purs, minerais appelés _cadmies_, ou _chalcites_ ; ils les mélangeaient, avant d'opérer la fabrication et la fonte du métal proprement dit ; parfois, quoique plus rarement, ils unissaient entre eux les alliages et métaux obtenus du premier jet.
 
+Tout métal et alliage rouge ou jaune, altérable au feu, s'appelait χαλκὸς ou _æs_ ; tout métal et alliage blanc, fusible et altérable au feu, s'appelait à l'origine _plomb_. Plus tard on distingua deux variétés : le plomb noir, qui comprenait notre plomb et, plus rarement, notre antimoine, etc. ; et le plomb blanc, qui comprenait notre étain et certains alliages de plomb et d'argent.
+
+Quant au χαλκὸς ou _æs_, on en distinguait les variétés d'après le lieu de provenance* : cuivre de Délos, d'Egine, de Chypre, de Syracuse, de Cordoue ; ou d'après le nom du propriétaire de la mine : cuivre Sallustien, Marien, Livien* ; sans que l'on attachât à l'une de ces variétés, le caractère d'un métal plus simple, plus élémentaire que les autres. Les seules distinctions précises que nous lisions dans les auteurs anciens sont celles de l'orichalque, et de l'airain de Corinthe. L'orichalque, mot dont l'étymologie est inconnue, est regardée par Hésiode et par Platon comme un métal précieux.* D'après Pline, sa découverte fit tomber le cuivre de Chypre en discrédit ; mais le minerai qui le fournissait s'épuisa. Le cuivre Marien en approchait, et était employé de préférence pour les monnaies les plus chères, telles que les sesterces et les doubles as ; le cuivre de Chypre étant réservé pour les monnaies plus viles, telles que les as. On sait ailleurs que la valeur de l'orichalque a été double à une certaine époque de celle du cuivre ordinaire : c'était sans doute quelque bronze plus beau et plus résistant.
+
+*) Pline, _H. N._, l. 34.
+
+*) Le Claudianos était probablement un métal analogue (v. ce mot).
+
+*) _Origines de l'Alchimie_, p. 226.
+
+Quant à l'airain de Corinthe, c'était un alliage du χαλκὸς avec l'argent et l'or. On distinguait trois variétés : la blanche, où l'argent dominait ; la jaune, où l'or dominait ; et une troisième, formée à parties égales avec les trois métaux ; il y avait encore une variété de couleur hépatique.
+
+L'airain avait des dérivés assez nombreux, que nous allons énumérer et définir d'après les textes. Ajoutons que la distinction absolue de ces dérivés entre eux ne paraît pas possible en toute rigueur, parce que leur identification avec les composés définis de la chimie actuelle ne peut être qu'imparfaite, nos composés n'ayant été ni isolés, ni spécifiés par les anciens.
+
+_Ærugo_ ; parfois _rubigo_, _viride æris_. _Æruca_. Ἰὸς χαλκοῦ. Ἰὸν ξυστόν. --- vert de gris --- raclure de cuivre.*
+
+*) Diosc., _Mat. méd._, l. 5, 91. --- Pline, _H. N._, l. 34, 26 ; l. 33, 29. --- Vitruve, l. 7, chap. 7. --- Vincent de Beauvais (_Spec. majus_), 8, 30. --- _Lexicon Alch. Rulandi_, page 14 et suivantes.
+
+Le mot _ærugo_ désignait :
+
+1° Des produits naturels formés dans les mines de cuivre, les uns par efflorescence ; les autres par déliquescence, ou imbibition. Les produits étaient lavés, séchés, grillés dans un plat neuf. _Ærugo fossilis_ était une matière congénère de la _chalcitis_ (pyrite cuivreuse), du vitriol bleu et de la _chrysocolle_ (malachite et autres sels basiques de cuivre, de couleur verte). Pour la soudure de l'or, les orfèvres opéraient avec de l'urine d'enfant impubère, broyée dans un mortier de cuivre (v. ce volume, p. 46) ; opération qui produisait un sel de cuivre basique, aux dépens du mortier.
+
+2° Des produits factices et spécialement le _verdet_ (acétate de cuivre basique), substance dont Dioscoride et Pline décrivent la préparation au moyen des lames de cuivre et de la vapeur du vinaigre, ou bien du marc de raisin.
+
+_Scolex_ : Ἰοῦ σκώληξ, rouille vermiculaire.* --- Matière native et factice, congénère de la précédente. On la préparait avec du cuivre, ou l'un de ses minerais, associé avec du vinaigre, de l'alun, du sel, ou du natron ; le mélange était exposé au soleil. Ces préparations pouvaient fournir, suivant la nature et la proportion des ingrédients, des acétates, sulfates, oxychlorures, carbonates basiques de cuivre.
+
+*) Diosc., _Mat. méd._, l. 5, 92. --- Pline, _H. N._ l. 34, 28.
+
+_Æris flos_,* ἄνθος χαλκοῦ. Fleur de cuivre.* --- Matière rejetée par le cuivre fondu, sous la forme d'écailles légères projetées par le vent du soufflet pendant la coulée. On l'obtenait aussi sous l'influence de l'eau, projetée à sa surface.
+
+*) Diosc. _Mat. méd._, 5, 88. --- Pline, _H. N._, l. 34, 24. --- _Lexicon Alchem Rulandi_, page 12.
+
+*) Le mot _flos_ dans Pline signifie couleur --- _floridus_, d'une couleur vive.
+
+On la définit encore : Paillette des vieux clous de cuivre ; elle devient rouge sous le pilon. Ceci paraît être du protoxyde de cuivre, souillé sans doute par des oxydes de métaux étrangers.
+
+Le nom de _flos æris_ a été appliqué plus tard au vert de gris. Ce corps, pas plus que les précédents, ne doit pas être identifié avec le χάλκανθον, couperose ou vitriol, qui est notre sulfate de cuivre. Mais les deux produits sont congénères et les deux noms ont été souvent confondus dans les manuscrits, confusion rendue plus facile par les abréviations des copistes.
+
+_Æs ustum_,* κεκαυμένος χαλκός. --- Cuivre brûlé. Pour le préparer, on chauffait du vieux cuivre avec du soufre et du sel, placés au-dessous et au-dessus, dans un vase de terre crue, à couvercle luté ; ou bien, avec de l'alun, du soufre et du vinaigre. On l'obtenait encore cri chauffant le cuivre seul, pendant longtemps ; ou bien parfois, en l'aspergeant de vinaigre de temps en temps. On lavait à l'eau de pluie, avec broyage et décantation, jusqu'à ce que le produit eût pris l'aspect du minium. On le fabriquait à Memphis et à Chypre.
+
+*) Diosc., _Mat. méd._, l. 5, 87. --- Pline, _H. N._, l. 34, 23, 24.
+
+Ceci paraît répondre à notre protoxyde de cuivre. On sait aujourd'hui que ce corps peut être obtenu en chauffant, dans un vase fermé, 24 parties de sulfate de cuivre sec et 29 parties de fil de cuivre.
+
+L'action de la chaleur sur l'_ærugo_ fournissait le même produit.
+
+_Scoria_. --- Obtenue par l'action de l'air sur le cuivre chauffé ; corps congénère du précédent.
+
+_Lepis_, λεπίς. --- _Squama_.* Matière détachée par le marteau des clous forgés avec les pains de cuivre de Chypre ; congénère de la fleur, qui se détachait d'elle-même, et du _stomoma_, duvet plus fin que la _lepis_.
+
+*) Diosc., _Mat. méd._, l. 5, 89. --- Pline, _H. N._ l. 34, 24, 25, Vincent de Beauvais, _Sp. m._ 8, 29. --- _Lexicon Alch. Rulandi_, p. 12, 18.
+
+Le _stomoma_ s'obtenait aussi par la macération du cuivre dans l'urine d'enfant. Le vinaigre changeait la _lepis_ en vert-de-gris.
+
+Ce sont encore là des sous-oxydes de cuivre, ou des sels basiques, tels que acétates, phosphates, sous-chlorures, etc.
+
+_Smegma_.* --- Matière projetée par le vent du soufflet sur le cuivre fondu, entouré de charbons.
+
+*) Pline, _H. N._, l. 34, 36.
+
+_Diphryges_ --- _fæx æris_.* --- « Le cuivre coule ; la scorie sort du fourneau ; la fleur surnage ; le diphryge reste. » C'est donc le résidu, qui n'a pas fondu pendant le traitement. Ce nom est aussi attribué à la pyrite grillée, jusqu'à transformation en matière rouge (peroxyde de fer ou sulfate basique) ; ainsi qu'au limon d'une caverne de Chypre, séché et calciné (c'était probablement un oxyde, ou un sel basique de fer hydraté).
+
+*) Diosc., _Matière médicale_, l. 5, 119. --- Pline, _H. N._, l. 34, 37.
+
+La _craie verte_ paraît être soit un hydrocarbonate de cuivre, soit de la cendre verte. La meilleure variété, nommée θεοδότιον, venait de Smyrne (Vitruve, l. 8, chap. 7.)
+
+**Aétite** ou _pierre d'aigle_.*
+
+*) Pline, _H. N._, l. 10, 4 ; l. 31, 39. --- Diosc., _Mat. méd._, l. 5, 160. --- _Lexicon Alchemiæ Rulandi_, p. 21 (1612). --- _Salmasii Plinianæ exercitationes_, p. 177, 501, 502 (1689).
+
+Variété géodique de fer hydroxydé, ou d'argile ferrugineuse, jaune ou rougeâtre, contenant un noyau mobile, qui résonne quand on agite la pierre. Cette pierre, grosse en apparence d'une pierre plus petite, était réputée par analogie avoir une influence sur les grossesses des femmes ; préjugé qui s'est perpétué jusqu'à notre époque chez les gens ignorants. On pensait qu'elle était employée par les aigles dans la construction de leurs aires ; de là le nom de pierre d'aigle. Le nom d'aétite semble avoir été employé pour toute géode renfermant un noyau mobile. Pline en distingue quatre espèces. On a même étendu le sens de ce mot aux pierres renfermant un liquide.
+
+D'après Solin (ch. 37), le son produit par cette pierre était attribué à un esprit ou âme intérieure et Zoroastre regardait l'aétite comme ayant une grande puissance magique. On trouve un passage analogue dans les Alchimistes. Un aigle tenant une pierre exprimait la sécurité chez les Égyptiens, suivant Horapollon.
+
+**Alchimistes Grecs** (tradition au moyen âge).
+
+Les noms et la tradition directe des Alchimistes grecs ne se retrouvent que peu ou point chez les Alchimistes latins, lesquels se rattachent eux-mêmes directement aux Arabes. Les noms de ces Grecs ne reparaissent pas d'une manière explicite et détaillée avant le 15e siècle, époque où les manuscrits grecs se répandirent en Occident. Il n'en est que plus intéressant de signaler les quelques réminiscences qui s'y rapportent chez les latins du moyen âge. Quant aux Arabes, j'en ai signalé ailleurs la filiation immédiate avec les Grecs d'après le Kitab-al-Fihrist* ; et je donnerai plus loin certains autres souvenirs analogues, en parlant des alphabets hermétiques.
+
+*) _Origines de l'Alchimie_, p. 130.
+
+Dans la _Bibliotheca Chemica_ de Manget, t. 2, il existe des planches indiquant la figure des divers philosophes alchimiques, d'après la tradition du moyen âge : chaque figure est accompagnée par une sentence, à peu près comme dans la _Turba philosophorum_. J'y relève les noms suivants : Hermès, Cléopâtre, reine d'Égypte, Anaxagore, Zamolxis, Michel Psellus, Marie l'Hébreuse, Démocrite le Grec, Pythagore, Platon, Hercule (c'est-à-dire Héraclius), roi sage et philosophe, Stephanus le philosophe chimique, Albert le Grand, une multitude d'Arabes, etc.
+
+La _Turba philosophorum_ relate de même la plupart de ces noms, mais à ce qu'il semble, à travers une transmission arabe. Je n'insisterai pas sur Hermès, dont le nom est toujours resté étroitement lié aux spéculations de l'Alchimie et de l'astrologie. Mais les autres auteurs étaient moins connus.
+
+Dans le Traité _De Mineralibus_, attribué à Albert le Grand (l. 3, traité 1, ch. 4), on rencontre une mention de Démocrite l'alchimiste, d'après lequel la chaux et la lessive (_lixivium_ ou _aqua acuta_) seraient la matière des métaux. Dans un autre passage, on lui attribue cette opinion que les pierres ont une âme, un principe intérieur de vie. Callisthène y est cité comme alchimiste. Rappelons aussi quelques indications tirées du traité de Théoctonicos, traduction grecque de l'ouvrage d'Alchimie attribué à Albert le Grand (ce volume, p. 209 et suiv.).
+
+Les Traités alchimiques du Pseudo-Aristote arabe, tels qu'on les connaît par des traductions latines, me paraissent toucher de très près, sur certains points du moins, à la tradition des alchimistes grecs. --- Donnons encore cette citation, tirée de la _Bibl. chem._ de Manget, t. 1, 917 : « Le secret est dans le plomb, d'après Pythagore et Hermès, etc. »
+
+**Alphabets et écritures hermétiques.**
+
+Dans Zosime et dans Olympiodore, les inscriptions hiéroglyphiques sont regardées comme ayant un sens alchimique. Ces inscriptions étaient aussi réputées des talismans, destinés à protéger les trésors contenus dans les chambres des pyramides. Il semble même que la description de certaines opérations chimiques ait été réellement consignée sur des stèles* : mais c'était là une circonstance rare, car aucune de ces stèles n'a été retrouvée jusqu'à présent. Cette circonstance, généralisée par suite d'une hypothèse fort répandue, aurait donné lieu au préjugé précédent. Il a duré jusqu'à notre temps ; en effet, d'après Sylvestre de Sacy, « les Orientaux regardent les monuments Egyptiens comme destinés à des opérations alchimiques, magiques, etc. ; ils appellent écritures hermétiques les hiéroglyphes, convaincus qu'ils renferment la révélation du secret de ces opérations. » (Sylvestre de Sacy, _Magasin encyclopédique_, p. 145 ; novembre 1819.)
+
+*) _Origines de l'Alchimie_, p. 23, 29, etc. --- Voir _Texte grec_ : Jean l'Archiprêtre.
+
+De là l'imagination des alphabets hermétiques, destinés à l'interprétation des écritures secrètes. On peut voir divers exemples de ces alphabets mystérieux dans un ouvrage intitulé : _Anciens alphabets et caractères hiéroglyphiques_, expliqués en arabe par Ahmed ben Abubekr ben Wahschijich, et en anglais, par J. Hammer, Londres, 1806.
+
+Ce livre, soi-disant trouvé au Caire, renferme 80 alphabets imaginaires, mais dont les noms mêmes indiquent la préoccupation de l'auteur et des lecteurs. Tels sont les alphabets des philosophes : Hermès, Platon, Pythagore, Asclépius, Socrate, Aristote, etc. ; --- de Ptolémée le grec ;--- de Hermès, père de Tat (Toth), qui a écrit sur le grand œuvre ;--- de Dioscoride, qui a écrit sur les herbes, les plantes, leurs vertus, etc. ;--- du sage Démocrite, lequel l'a reçu, dans un souterrain, du génie qui préside à la planète Mercure ;--- du sage Zosime l'Hébreu, écriture mystique pour les traités sur le grand œuvre --- Le nom de Théosébie, congénère de Zosime, se trouve un peu plus loin. --- On y rencontre encore les alphabets des anciens rois, parmi lesquels Kimas l'hermétique (le Chymès des textes Grecs) ;--- les alphabets des sept planètes des douze constellations --- une interprétation des hiéroglyphes, etc.
+
+Tous les signes de cet ouvrage ne représentent guère que des jeux d'esprit individuels ; mais les noms propres auxquels ils sont attribués témoignent que le souvenir même des vieux alchimistes avait été conservé en Égypte par une certaine tradition.
+
+Nous avons signalé précédemment (p. 207) les alphabets magiques du manuscrit de Saint-Marc (p. 156) et ceux du manuscrit 2419 : ils ne portent aucun nom propre. La formule de l'Écrevisse dans Zosime (p. 152) se rattache de plus près à la tradition des symboles alchimiques.
+
+**Alun**, στυπτηρία. _Alumen_.*
+
+*) Diosc., _Mat. méd._, l. 5, 122. --- Pline, _H. N._, l. 33, 25 ; l. 35, 52 ; l. 36, 37. --- _Lexicon Alch. Rulandi_, p. 32 et suiv.
+
+L'alun était employé comme fondant et purificateur des métaux. On distinguait, d'une part : l'alun blanc et l'alun noir, corps en réalité de teinte voisine du blanc, mais probablement ainsi nommé parce qu'il noircissait au contact de certains sucs végétaux, en raison de la présence de fer dans l'alun, et du tannin dans les sucs. Ces corps étaient employés pour purifier l'or.
+
+D'autre part, les auteurs indiquent : l'alun lamelleux (schiste), blanchâtre ;--- l'alun rond ;--- l'alun capillaire, appelé aussi schisteux, lequel peut être rapproché de notre alun de plume, efflorescence mêlée de sels de fer et d'alumine.
+
+L'alun liquide, solution de sulfate d'alumine plus ou moins pur, et l'alun calciné étaient aussi employés.
+
+Les alchimistes désignaient encore sous le nom d'alun, l'acide arsénieux, comme on peut le voir dans Olympiodore (ce volume, p. 67 et 68).
+
+**Ammoniac (sel)**.
+
+Dans la Cyrénaïque, ce sel se trouve sous le sable, en longues aiguilles sans transparence, d'après Pline (_H. N._, l. 31, 39). Cette indication rappelle un carbonate de soude fossile, et non notre chlorhydrate d'ammoniaque. Dioscoride (l. 5, 125) nomme le sel ammoniac, en disant qu'il se distingue par un clivage facile et suivant des directions droites : ce qui semble aussi le caractère d'un sel cubique, c'est-à-dire du sel gemme.
+
+Dans le Pseudo-Aristote (Manget, _Bibliotheca Chemica_, t. 1, p. 648) il est dit que le sel ammoniac, chauffé sur une lame de métal, doit fondre sans répandre de fumée ; ce qui répond au carbonate ou au chlorure de sodium, mais non au chlorhydrate d'ammoniaque. Cependant ailleurs le même auteur en indique la sublimation (Manget, 1, 645) : ce qui répond bien à notre chlorhydrate. Le mot de sel ammoniac a donc désigné deux substances très différentes. Le sens actuel du sel ammoniac sublimable est indiqué expressément dans ce passage d'Avicenne (11e siècle), cité par Vincent de Beauvais (_Speculum majus_, 8, 60) : « Il y a quatre esprits (c'est-à-dire quatre corps sublimables), le soufre, l'arsenic, le sel ammoniac et le mercure. » On trouve déjà une indication analogue dans Geber (_Summa perfectionis_, l. 1, ch. 10, etc. _Bibl. chemica_ de Manget, t. 1, p. 525, 1re colonne). La préparation même en est décrite dans l'ouvrage intitulé : _Libri investigationis_ (p. 559 du t. 1. de la _Bibliotheca_ de Manget), ouvrage attribué au même auteur. Le sel ammoniac véritable aurait donc été connu au 9e siècle. (Voir aussi le présent volume, p. 45, Note.)
+
+**Antimoine**, στίμμι, stibi, larbason, chalcédoine ; élément féminin (par opposition avec l'arsenic, élément masculin ? ).
+
+C'est notre sulfure d'antimoine, le soufre noir des alchimistes. D'après Dioscoride,* c'est un corps brillant, rayonné, fragile et exempt de parties terreuses. On le brûle en le recouvrant de farine ; ou bien, en l'exposant sur des charbons allumés, jusqu'à ce qu'il rougisse (oxysulfure ? ). Si on prolonge, ajoute l'auteur, il prend les caractères du plomb (c'est-à-dire que l'antimoine métallique ou régule se produit). D'après Pline (_H. N._, l. 33, 33), on l'appelle stibi, alabastrum, larbason mâle et femelle ; il est blanc et brillant. S'il devenait ainsi blanc, c'est sans doute après un grillage qui l'avait changé en oxyde d'antimoine, corps confondu souvent chez les anciens chimistes avec notre minium blanchi par certains traitements.
+
+*) _Mat. méd._, l. 5, 99.
+
+L'antimoine oxydé se trouve d'ailleurs dans la nature, ainsi que l'oxysulfure rouge (Kermès minéral). Ce dernier a du être pareillement confondu avec la sandaraque, le minium, la sanguine et le cinabre, substances que l'on trouve souvent prises les unes pour les autres.
+
+**Arsenic**.
+
+D'après Dioscoride,* ce corps est terreux et doré : c'est donc un sulfure d'arsenic (voir ce volume, p. 43) ; une autre variété est rougeâtre, d'après Pline (_H. N._, l. 34, 56). C'est l'orpiment (voir aussi Vincent de Beauvais, 8, 69, 70). Le nom même de l'orpiment figure textuellement dans le texte grec de Théoctonicos, auteur du 13e ou 14e siècle (ce volume, p. 210).
+
+*) _Mat. méd._, l. 5, 120.
+
+_Sandaraque._ --- D'après Dioscoride (_Mat. Méd._, 5, 121), c'est une matière rouge, brillante, couleur de cinabre (voir aussi Pline, _H. N._, l. 34, 55 ; l. 35, 22). C'est le réalgar ; peut-être, aussi dans certains cas, le Kermès minéral ou oxysulfure d'antimoine.
+
+Rappelons que le nom de sandaraque est appliqué aujourd'hui à une résine d'une composition toute différente, dérivée de la colophane, et que les anciens ne connaissaient pas sous ce nom.
+
+Il a été employé aussi par les anciens pour le cinabre et pour le minium. Vitruve, notamment, indique la préparation de la sandaraque par la cuisson de la céruse au four.
+
+Notre arsenic métallique a été entrevu par les alchimistes, qui l'ont regardé comme un second mercure,* de nature analogue au vif argent, sublimable comme lui et communiquant pareillement sa volatilité à ses dérivés, spécialement aux sulfures. La sandaraque (réalgar) a été ainsi assimilée au cinabre. Le rapprochement entre le mercure et l'arsenic se complète à ce point de vue, si l'on remarque que l'arsenic blanchit le cuivre par sublimation, comme le fait le mercure, et qu'il attaque de même à chaud la plupart des métaux.
+
+*) Voir notamment notre Pl. 6, l. 4, et ce volume, p. 99.
+
+L'arsenic est parfois appelé l'hermaphrodite, en tant que réputé intermédiaire entre l'or et l'argent et composé, comme eux, de soufre et de mercure.* Mais ce sens ne lui est pas propre.
+
+*) Manget. _Bibl. Chem._, t. 1, p. 920.
+
+**Cadmie**.*
+
+*) Diosc., _Mat. méd._, l. 5, 84. --- Pline, _H. N._, l. 34, 2, 22. --- Vincent de Beauvais, 8, 28. --- _Lexicon Alchemiæ Rulandi_, p. 110 et suiv. --- _Dict. de Chimie_ de Macquer, 1778.
+
+Chez les anciens ce mot avait deux sens ; il désignait :
+
+1° Un produit naturel, tel que la pierre dont on tire le cuivre, ou plutôt le laiton : par exemple notre aurichalcite, carbonate de zinc et de cuivre ; notre hydrosilicate de zinc, notre carbonate de zinc ou calamine, etc.
+
+2° Un produit artificiel, sorte de fumée des métaux, soulevée dans les fourneaux de cuivre par l'action de la flamme et du soufflet. Ce produit adhérait aux parois, au sommet, et à l'orifice du fourneau.
+
+Le grillage de la pyrite des monts de Soli (Chypre) en fournissait aussi. Les fourneaux d'argent en développaient un autre plus blanc, moins pesant.
+
+On distinguait la _capnitis_, c'est-à-dire la cadmie plus tenue, recueillie à la bouche de sortie des gaz, laquelle doit être rapprochée du _pompholyx_ ;
+
+La _botruitis_, suspendue en forme de grappes, cendrées ou rouges ;
+
+La _placitis_ ou _placodes_, agglomérée en croûtes, le long des parois ; parfois elle était entourée de zônes, et dite alors _zonitis_ ;
+
+L'_onychitis_, bleuâtre à la surface, avec des veines intérieures plus blanches, rappelant l'onyx ; elle se trouvait aussi dans les vieilles mines ;
+
+L'_ostracitis_, mince, noirâtre, d'apparence testacée.
+
+Macquer (_Dict. de Chimie_, 1778) distingue de même la _cadmie naturelle_, ou fossile, qui est la calamine employée à la fabrication du laiton ; et la _cadmie des fourneaux_, sublimé produit dans la fusion des minerais de zinc, laquelle éprouve une demi-fusion et forme incrustation aux parois des fourneaux. Il ajoute que quelques-uns appellent aussi cadmie fossile un minerai de cobalt (répondant à notre arséniosulfure actuel).
+
+En réalité, ce nom était donné à toute suie et sublimé métallique, s'élevant dans la fonte en grand du cuivre et des autres métaux. Au point de vue de la Chimie moderne, la cadmie des fourneaux serait de l'oxyde de zinc, mêlé d'oxyde de cuivre, de plomb, parfois d'oxyde d'antimoine et d'acide arsénieux ; ces oxydes étant en outre unis quelquefois au soufre, sous forme d'oxysulfures ou de sulfates basiques.
+
+Dans les livres du moyen âge, on trouve encore ce mot _Cathmia_ ou _Cathimia_ appliqué à certaines veines des mines d'or ou d'argent ; aux sublimés des fourneaux d'or ou d'argent ; à l'écume échappée de l'argent, de l'or, du cuivre, etc.
+
+Les modernes, suivant un usage courant en chimie et en minéralogie, mais très fâcheux pour l'histoire de la science, ont détourné le mot cadmie de son sens primitif et l'ont appliqué à un métal nouveau, le _cadmium_, inconnu des anciens.
+
+Il convient de rapprocher de la cadmie certaines substances congénères, telles que le _pompholyx_,* devenu depuis le _nihil album_ des auteurs du moyen âge, et confondu avec la _spodos_ blanche, laquelle s'envole au loin et va s'attacher aux toits. D'après un texte de Pline, le pompholyx se produit pendant la purification de l'airain ; ou bien encore, en projetant le jet des soufflets sur la cadmie.
+
+*) Diosc., _Mat. méd._, l. 5, 85. --- Pline, _H. N._, l. 34, 34. --- _Lexicon Alch. Rulandi_, p. 442.
+
+La _spodos_ ou _spodion_ (cendre) est au contraire, d'après Dioscoride, la partie plus lourde et plus noire, qui tombe sur la sole des fourneaux de cuivre, où on la balaie ensuite. Elle est mêlée de paille, de poils et de terre, dont on la débarrasse par des lavages. La spode des fourneaux d'argent s'appelle _lauriotis_ (nom qui vient des mines du Laurium). L'or, le plomb en produisent aussi. Elle peut être de couleur cendrée, jaune, verte, rouge, noire.
+
+Le _Lexicon Alchemiæ_ assimile la spode au vert de gris (_ærugo æris, ios æris_).
+
+L'_antispode_,* est un produit que l'on substituait au spode pour les usages médicaux. C'était la cendre de divers végétaux, incinérés dans une marmite de terre crue, à couvercle percé de trous, puis lavés.
+
+*) Diosc., _Mat. méd._, l. 5, 86. --- Pline, _H. N._, l. 34, 35.
+
+Le nom de la cadmie a été remplacé pendant le cours du moyen âge par celui de _tutie_, donné de même à toute fumée métallique. Nous appliquons aujourd'hui ce nom de tutie à l'oxyde de zinc ; mais il avait autrefois un sens plus compréhensif.
+
+La magnésie de Démocrite, de Geber et de certains alchimistes est, dans certains cas, équivalente à la cadmie ou tutie, mais réputée plus volatile qu'elle ; sa réduction fournissait le molybdochalque, alliage renfermant du plomb et du cuivre et analogue à certains bronzes.
+
+**Chalcanthon**, χάλκανθον, couperose, vitriol, noir de cordonnier.*
+
+*) Diosc., _Mat. méd._, l. 5, 113. --- Pline, _H. N._, l. 32, 32. --- Vincent de Beauvais, _Spec. Majus_, 8, 32.
+
+Cette matière se préparait avec une liqueur résultant de la macération spontanée ou provoquée des minerais dans l'eau, à l'intérieur des mines de cuivre.
+
+Le premier produit obtenu par évaporation spontanée était du sulfate de cuivre, bleu, demi-transparent, lancéolé. On l'obtenait aussi en concentrant la liqueur au feu, et l'abandonnant à la cristallisation dans des bacs de bois, sur des cordes ou des barres suspendues. Après le sel pur, venaient des sulfates plus ou moins basiques et ferrugineux. Le nom de vitriol apparaît au 13e siècle, dans Albert le Grand.
+
+Observons les sens divers de ce mot couperose, ou de son équivalent vitriol, tels que :
+
+Vitriol bleu : sulfate de cuivre.
+
+Vitriol vert : sulfate de fer, et sulfate de cuivre basique.
+
+--- jaune et rouge : sulfates de fer basiques.
+
+--- blanc : sulfate de zinc ; sulfate d'alumine, voire même alun.
+
+La décomposition spontanée des pyrites peut fournir tous ces composés, suivant leur degré d'impureté.
+
+Le cuivre contenu dans les eaux mères résultant de cette décomposition en est précipité aujourd'hui sous forme métallique, au moyen des débris de fer de toute origine, lesquels fournissent des dépôts de cuivre, reproduisant souvent la forme et l'apparence des morceaux de fer. De là cette opinion, très répandue parmi les alchimistes, que le vitriol peut transmuter le fer en cuivre. Elle reposait sur un phénomène réel, mais mal compris.
+
 ...
 
 # Texte Grec.
