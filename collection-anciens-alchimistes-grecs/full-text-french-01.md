@@ -4398,6 +4398,110 @@ La décomposition spontanée des pyrites peut fournir tous ces composés, suivan
 
 Le cuivre contenu dans les eaux mères résultant de cette décomposition en est précipité aujourd'hui sous forme métallique, au moyen des débris de fer de toute origine, lesquels fournissent des dépôts de cuivre, reproduisant souvent la forme et l'apparence des morceaux de fer. De là cette opinion, très répandue parmi les alchimistes, que le vitriol peut transmuter le fer en cuivre. Elle reposait sur un phénomène réel, mais mal compris.
 
+_Misy_.*
+
+*) Diosc., _Mat. méd._, l. 5, 116. --- Pline, _H. N._, l. 34, 31. --- _Lexicon Alch. Rulandi_, p. 336.
+
+D'après les anciens, le misy de Chypre est doré, dur, et scintille quand on l'écrase.
+
+C'était de même une concrétion naturelle ou minerai, à cassure dorée, qui a été décrite sous le nom de misy dans les mines de Gozlar au 17e siècle. Le vitriol, ajoutait-on, se change aisément en misy.
+
+A la fin du 18e siècle, on appelle misy une matière vitriolique jaune, lui-sante, en pierre, ou en poudre non cristallisée* et assimilée à la couperose jaune.
+
+*) Macquer, _Dict. de Chimie_, t. 4, p. 85 ; 1778.
+
+En somme, c'est toujours là un sulfate de fer basique, renfermant du sulfate de cuivre et parfois du sulfate d'alumine, résultant de la décomposition spontanée des pyrites.
+
+_Sory_.* --- On appelait de ce nom une matière congénère du misy, plus grasse, à odeur vireuse, de couleur rouge, tournant au noir.
+
+*) Diosc., _Mat. méd._, l. 5, 118. --- Pline, _H. N._, l. 34, 30. --- _Lexicon Alch. Rulandi_, p. 142. --- _Salmasii Plin. Exerc._, p. 814, 6 E.
+
+Les Arabes désignaient sous ce même nom de sory le vitriol rouge (voisin du colcothar).
+
+Enfin les Grecs modernes ont assimilé parfois le sory à la céruse brûlée (minium).
+
+_Melanteria_.* --- On appelait ainsi une sorte d'efflorescence saline, développée dans l'orifice des mines de cuivre ; une autre partie apparaissait à leur face supérieure. Elle se trouvait sous terre en Cilicie. Elle présentait, ajoute-t-on, une couleur de soufre légère et noircissait aussitôt au contact de l'eau (présence du manganèse ? ).
+
+*) Diosc., _Mat. méd._, l. 5, 117. --- _Lexicon Alch. Rulandi_. p. 329.
+
+D'après Rulandus, c'est une sorte de vitriol, dont la couleur dépend des terres qui l'ont produite et varie du jaune au bleu.
+
+**Chalcitis** * : minerai de cuivre, pyrite cuivreuse spécialement.
+
+*) Diosc., _Mat. méd._, l. 5, 115 v. --- Pline, _H. N._, l. 34, 29. --- Vincent de Beauvais, 8. --- _Lexicon Alch. Rulandi_, p. 141.
+
+On en tirait le cuivre métallique, le misy, le sory, etc.
+
+En fait, la pyrite de fer, sous l'influence de l'air et de l'eau, se délite et s'oxyde, en formant des sulfates de cuivre, de fer, d'alumine et de l'alun. Le sel de fer ainsi produit devient bientôt basique, en se suroxydant.
+
+**Chaux vive** : ἄσβεστος --- _titanos_ : chaux, ou plutôt pierre calcaire.
+
+_Gypse_, γύψος, plâtre.
+
+**Chrysocolle** --- _ærugo_ --- _santerna_ --- soudure des orfèvres.*
+
+*) Pline, _H. N._, l. 33, 26, 27, 28, 29. --- Diosc., _Mat. méd._, l. 5, 104. --- Voir le présent volume, p. 57.
+
+Ce mot a plusieurs sens, il désigne :
+
+1° L'opération même de la soudure de l'or.
+
+2° Les matières employées pour cette opération, telles que certains alliages d'or, encore usités chez les orfèvres. Dans le Lexique alchimique, on interprète molybdochalque (alliage de cuivre et de plomb) par chrysocolle.
+
+3° Un sous-sel de cuivre mêlé de fer, provenant de la décomposition d'une veine métallique par l'eau ; décomposition spontanée, ou provoquée en introduisant l'eau dans la mine en hiver jusqu'au mois de juin ; on laissait sécher en juin et juillet. Le produit natif était jaune.
+
+4° La Malachite proprement dite, sous-carbonate de cuivre vert :
+
+L'azurite, carbonate de cuivre bleu congénère, était désigné sous le nom _d'arménium_ ; probablement parce qu'on la tirait d'Arménie.* Peut-être aussi le bleu de Chypre (κυανός) a-t-il été parfois exprimé par le même nom.
+
+*) Diosc., _Mat. méd._, l. 5, 105, 106. --- Pline, _H. N._, l. 35, 28.
+
+5° Le produit obtenu en faisant agir sur le vert de gris l'urine d'un garçon impubère et le natron. L'urine apportait ici des phosphates, des chlorures et des sels ammoniacaux.
+
+Ajoutons que nos traités de minéralogie moderne ont détourné le mot chrysocolle pour l'appliquer arbitrairement à un hydrosilicate de cuivre.
+
+**Chrysolithe**.
+
+La chrysolithe moderne est le péridot : mais ce corps n'a rien de commun avec le sens ancien du mot.
+
+La chrysolithe ancienne désignait la topaze et divers autres minéraux jaunes et brillants, qu'il est d'ailleurs difficile de préciser complètement.
+
+**Cinabre**. --- Ce mot s'applique aujourd'hui à une variété de sulfure de mercure, appelée aussi _anthrax_ autrefois ; mais chez les Grecs et chez les Alchimistes, il a eu des sens plus complexes. Il a exprimé également :
+
+Notre oxyde de mercure ;
+
+Notre minium, mot employé par les anciens dans des sens multiples (voir les articles plomb et rubrique) ;
+
+Notre réalgar (sulfure d'arsenic) ;
+
+Tous les sulfures, oxydes, oxysulfures métalliques rouges ;
+
+Enfin le sang dragon, matière végétale qui est le suc du _dracæna draco_.
+
+Le signe (Pl. 2, l. 13) du cinabre est un cercle avec un point central. Mais le même signe a été plus tard et à la fin du moyen âge employé pour l'œuf philosophique, pour le soleil, ainsi que pour l'or : de là diverses confusions, contre lesquelles on doit se tenir en garde (v. ce volume, p. 122).
+
+**Claudianos** ou _claudianon_.
+
+C'était un alliage de cuivre et de plomb, renfermant probablement du zinc. Il n'en est question que chez les alchimistes. Ce nom semble dériver du mot latin _Claudius_. S'agissait-il d'un corps fabriqué au temps de cet empereur et analogue aux cuivres Marien, Livien, etc. ? Pline n'en parle pas.
+
+**Clefs** (les).
+
+Le mot _clefs_ est employé comme titre d'ouvrages, dès l'époque alexandrine (après l'ère chrétienne, dans Hermès,* Zosime, etc.). Les Arabes s'en servent fréquemment et il a été fort usité au moyen âge.
+
+*) Cité par Lactance et par Stobée (v. ce volume, p. 16, note).
+
+Dans le sens alchimique, voici quelles sont les clefs de l'art, d'après Roger Bacon* : _sunt igitur claves artis : congelatio, resolutio, inceratio, proportio ; sed alio modo, purificatio, distillatio, separatio, calcinatio et fixio._
+
+*) _Bibl. chem._ de Manget, t. 1, p. 623.
+
+C'est-à-dire : « les clefs de l'art sont la solidification, la résolution (à l'état liquide ou dissous), le ramollissement, l'emploi des proportions convenables (dans les matières, ou dans les agents, tels que le feu) ; ou d'une autre façon, la purification, la distillation (par évaporation ou filtration, d'après l'ancien sens de ce mot : couler goutte à goutte), la séparation, la calcination et la fixation (des métaux fusibles ou volatils, ramenés à l'état solide et résistant au feu). »
+
+De même dans Vincent de Beauvais (_Speculum majus_, 8, 88) : « les clefs ou les pratiques de cet art sont la mortification (amortissement des métaux), la sublimation, la distillation, la solution, la congélation, la fixation, la calcination. » Basile Valentin parle aussi des douze clefs de l'art.
+
+**Cobalt** --- _cobathia_ --- _kobold._ --- Le cobalt est réputé avoir été découvert en 1742 par Brandes, qui l'isola sous forme métallique. Son nom même est tiré de celui de certains de ses minerais, appelés _kobalt_ ou _kobold_, et constitués par des arséniosulfures complexes. Ce nom de kobold a été expliqué jusqu'ici par celui de certains démons trompeurs, habitant les mines : c'est, dit-on, une allusion à la difficulté de traiter ces minerais et aux tentatives infructueuses que l'on avait faites pour en extraire du cuivre, métal indiqué par la production des verres bleus, qui dérivent de ce minerai.
+
+En fait, le bleu de cobalt était connu des anciens. H. Davy a trouvé ce métal dans certains verres bleus, d'origine grecque et romaine, et M. Clemmer dans des perles égyptiennes. Le bleu mâle de Théophraste, opposé au bleu femelle, ne serait autre que du bleu de cobalt, opposé aux dérivés bleus du cuivre. L'étymologie même du mot cobalt semble remonter au grec. En effet, dans le _Lexicon Alchemiæ Rulandi_, p. 158, on lit : _Cobatiorum fumus est kobolt_ ; c'est-à-dire « la fumée des _cobatia_, c'est le kobolt. » Cette expression « fumée des cobathia » figure dans un passage d'Hermès cité par Olympiodore (_texte grec_, p. 85). Elle est traduite dans le Lexique alchimique (_texte grec_, p. 9, note) par « les vapeurs de l'arsenic (sulfuré) : » il s'agit donc bien d'un composé arsenical. Il y aurait eu dès lors pour l'étymologie du cobalt une confusion entre un mot grec ancien et un mot allemand, analogue à celle qui s'est produite entre l'égyptien et le grec, pour les mots chimie, sel ammoniac, etc. : ces mots n'auraient pas d'ailleurs eu le sens précis de notre cobalt au début, mais ils l'auraient acquis par une extension postérieure.
+
 ...
 
 # Texte Grec.
