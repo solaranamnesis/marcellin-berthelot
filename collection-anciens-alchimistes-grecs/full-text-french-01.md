@@ -4502,6 +4502,314 @@ De même dans Vincent de Beauvais (_Speculum majus_, 8, 88) : « les clefs ou le
 
 En fait, le bleu de cobalt était connu des anciens. H. Davy a trouvé ce métal dans certains verres bleus, d'origine grecque et romaine, et M. Clemmer dans des perles égyptiennes. Le bleu mâle de Théophraste, opposé au bleu femelle, ne serait autre que du bleu de cobalt, opposé aux dérivés bleus du cuivre. L'étymologie même du mot cobalt semble remonter au grec. En effet, dans le _Lexicon Alchemiæ Rulandi_, p. 158, on lit : _Cobatiorum fumus est kobolt_ ; c'est-à-dire « la fumée des _cobatia_, c'est le kobolt. » Cette expression « fumée des cobathia » figure dans un passage d'Hermès cité par Olympiodore (_texte grec_, p. 85). Elle est traduite dans le Lexique alchimique (_texte grec_, p. 9, note) par « les vapeurs de l'arsenic (sulfuré) : » il s'agit donc bien d'un composé arsenical. Il y aurait eu dès lors pour l'étymologie du cobalt une confusion entre un mot grec ancien et un mot allemand, analogue à celle qui s'est produite entre l'égyptien et le grec, pour les mots chimie, sel ammoniac, etc. : ces mots n'auraient pas d'ailleurs eu le sens précis de notre cobalt au début, mais ils l'auraient acquis par une extension postérieure.
 
+Quant au cobalt métallique, sa connaissance remonte au-delà du 18e siècle. En effet, on lit dans le _Lexicon Alchemiæ Rulandi_, ouvrage publié à Francfort, en 1612, p. 271, un texte latin, suivi d'un texte allemand équivalent, dont voici la traduction : « Kobolt ; kobalt ou collet : c'est une matière métallique, plus noire que le plomb et le fer, grisâtre, ne possédant pas l'éclat métallique ; elle peut être fondue et laminée (au marteau). » Puis viennent des indications relatives au minerai, exprimé par le même nom. « C'est un soufre donnant des fumées, et sa fumée entraîne le bon métal. --- C'est aussi une cadmie fossile d'où l'on tire un airain utile en médecine, etc. » La première phrase désigne évidemment le cobalt impur, l'un de ces demi-métaux dont Brandes reprit plus tard l'étude. Observons que les alchimistes du moyen âge traitaient les minerais métalliques par les mêmes procédés de grillage, réduction et fonte que les modernes, et dès lors ils ont dû obtenir les mêmes métaux ; mais ils n'avaient pas nos règles scientifiques pour les purifier, les définir et les distinguer avec exactitude. J'ai déjà mis en évidence la connaissance du régule d'antimoine dès l'antiquité, mais il était confondu avec le plomb. Le cobalt et le nickel ont dû être confondus aussi, soit avec le fer, soit avec le cuivre et ses alliages (v. _Pseudargyre_).
+
+**Coupholithe**. --- Ce mot semble avoir été appliqué au talc et à des silicates tendres, analogues. Le nom de coupholithe est resté parmi les noms des pierres usitées par les orfèvres.* Il est aussi appliqué en Minéralogie à une variété de prehnite (silicate d'alumine et de chaux ferrugineux et hydraté) qui se présente tantôt en lames minces blanches, analogues au sulfate de chaux ; tantôt en masses fibreuses un peu verdâtres.
+
+*) _Manuel Roret_ du Bijoutier, t. 1, p. 130, 1832.
+
+Il semble d'ailleurs que ce soit là un vieux nom, conservé à l'une des substances auxquelles il s'appliquait autrefois ; et non une dénomination ancienne transportée à une substance moderne, comme il est arrivé trop souvent, en Minéralogie. Autrement on ne comprendrait ni la persistance de ce nom chez les orfèvres, ni sa spécialisation à une simple variété.
+
+**Éléments actifs**.
+
+D'après Aristote (_Météorol._ l. 4), il y a deux éléments actifs, le chaud et le froid ; deux passifs, le sec et l'humide.
+
+Ailleurs il s'agit de simples qualités, mises en relation avec les quatre éléments ordinaires (_de Generatione_, L. 2, ch. 3 et 4). Le feu est chaud et sec ; l'air chaud et humide ; l'eau froide et humide ; la terre froide et sèche ; etc., etc. Ces éléments se transforment les uns dans les autres. Stephanus expose à peu près la même théorie. Ces idées ont joué un grand rôle en médecine. Aristote dit encore (_Météorol._ l. 3, ch. 7) : « il y a deux exhalaisons (ἀναθυμίασεις), l'une vaporeuse (ἀτμιδώδης), l'autre enfumée (καπνώδης).
+
+« L'exhalaison sèche et brûlante produit les matières fossiles (ὀρυκτά), telles que les pierres infusibles, la sandaraque, l'ocre, la rubrique, le soufre, etc. L'exhalaison humide produit les minéraux (μεταλλευτά), c'est-à- dire les métaux fusibles et ductiles, comme le fer, le cuivre, l'or, etc. En général, ils sont détruits par le feu (πυροῦται) et contiennent de la terre, car ils renferment une exhalaison sèche. L'or seul n'est pas détruit par le feu ... » --- On voit ici l'origine de certaines idées alchimiques. C'est ainsi que Stéphanus (6e leçon dans Ideler, t. 2, p. 224, l. 7), dit, presque dans les mêmes termes qu'Aristote :
+
+« Il y a deux choses qui sont les matières et les causes de tout, la vapeur qui s'élève et l'exhalaison fuligineuse des corps, en laquelle est la cause des modifications en question. La vapeur est la matière de l'air ; la fumée, la matière du feu, etc. »
+
+**Esprits** (πνεύματα).
+
+Les mots _esprits, corps, âmes_, sont fréquemment employés par les alchimistes dans un sens spécial, qu'il importe de connaître pour l'intelligence de leurs écrits. Les passages suivants, quoique d'une époque plus moderne, jettent beaucoup de lumière sur ce point.
+
+On lit dans le traité _de Mineralibus_, prétendu d'Albert le Grand (l. 1, tr. 1, ch. 1er) : « ce qui s'évapore au feu est esprit, âme, accident ; ce qui ne s'évapore pas, corps et substance. » Cet auteur attribue encore à Démocrite l'opinion qu'il y a dans les pierres une âme élémentaire, laquelle est la cause de leur génération (l. 1, tr. 1, ch. 4).
+
+Le Pseudo-Aristote* définit de même les corps et les esprits, et il ajoute : « les corps volatils sont des accidents, parce qu'ils ne manifestent leurs qualités et vertus que s'ils sont associés aux substances ou corps fixes : pour opérer cette association, il faut purifier les uns et les autres. » Il y a là un mélange de pratiques matérielles et d'idées mystiques.
+
+*) _De perfecto magisterio, Bibl. chem._ de Manget, t. 1, p. 638.
+
+Vincent de Beauvais, _Speculum majus_ (8, 60), donne sous le nom d'Avicenne l'exposé suivant.
+
+« Il y a quatre esprits minéraux : le soufre, l'arsenic, le sel ammoniac, le mercure, distincts par leur aptitude à être sublimés ; et six corps métalliques : l'or, l'argent, le cuivre, l'étain, le fer, le plomb. Les premiers sont des esprits, parce que leur pénétration dans le corps (métallique) est nécessaire, pour accomplir sa réunion avec l'âme » --- « _Spiritus, inquam, sunt quia per eos imprimitur corpus ut possit cum animâ conjungi._ » Et plus loin (8, 62) : « Nulle chose ne peut être sublimée sans le concours d'un esprit. La pierre ne s'élève pas d'elle-même par l'action du feu ; tandis que les esprits s'élèvent d'eux-mêmes, c'est-à-dire se subliment, se dissolvent et déterminent la dissolution des autres substances ; ils brûlent, refroidissent, dessèchent et humectent les quatre éléments. » Cette dernière phrase attribue aux esprits le rôle des qualités aristotéliques citées plus haut.
+
+« Ce qui ne fuit pas le feu, » dit encore Avicenne, « est dit fixe : tels sont les corps des pierres et des métaux. »
+
+Dans la langue même de notre temps, le nom d'esprits volatils est encore appliqué à certaines substances, tels que l'ammoniaque, l'alcool, les essences, etc.
+
+D'après Geber* il y a sept esprits, dont voici les noms, rangés dans l'ordre de leur volatilité : le mercure, le sel ammoniac, le soufre, l'arsenic, (c'est-à-dire son sulfure, placé auprès du soufre par l'auteur), la marcassite, la magnésie et la tutie.
+
+*) Voir aussi _Lexicon Alchemiæ Rulandi_, p. 442.
+
+Geber dit encore :
+
+« Les esprits (corps volatils) seuls et les matières qui les contiennent en puissance, sont capables de s'unir aux corps (métalliques) ; mais ils ont besoin d'être purifiés pour produire une teinture parfaite, et ne pas gater, brûler, noircir les produits. Il y a des esprits corrosifs et brûlants, tels que le soufre, l'arsenic (sulfuré), la pyrite ; d'autres sont plus doux, tels que les diverses espèces de tutie (oxydes métalliques volatils). C'est par la sublimation qu'on les purifie. » --- Cette sublimation se compliquait de l'action oxydante de l'air, spécialement dans le cas de la pyrite et du sulfure d'arsenic.
+
+L'Aludel, appareil destiné à ces sublimations, devait être construit en verre, ou en une substance analogue, non poreuse, et capable de retenir les esprits (matières volatiles) et de les empêcher de s'échapper, d'être éliminés par le feu. Les métaux ne conviennent pas, parce que les esprits s'y unissent, les pénètrent, et même les traversent. Tout ceci est très clair pour nous.
+
+Le Pseudo-Aristote donne la même liste* des esprits que Geber, en assimilant ces êtres aux planètes.
+
+*) _De Perfecto Magisterio, Bibl. chem._ de Manget, t. 1, p. 638.
+
+Dans Rulandus, qui développe la même énumération, la magnésie est remplacée par le _wismath_, lequel semble être un sulfure métallique, se rattachant aux minerais d'étain et de plomb. Ce nom a été détourné de son vieux sens, pour être appliqué parles modernes à un métal nouveau, inconnu des anciens, le bismuth ; de même que le nom de cadmie a été détourné de son sens pour être appliqué au cadmium. Mais ce n'était pas là la signification ancienne du mot.
+
+Revenons aux esprits de Geber et d'Avicenne, afin de tâcher de comprendre les idées d'autrefois et les faits qui leur correspondaient. Les uns de ces esprits, tels que le mercure, le sel ammoniac, le soufre, le sulfure d'arsenic, sont en effet des substances susceptibles de sublimation pure et simple. Les autres sont réputés secondaires : la sublimation n'ayant lieu que par l'effet d'une opération complexe, et mal comprise, mais dont la complexité avait été entrevue par les alchimistes. En effet la marcassite, ou pyrite, chauffée dans un appareil distillatoire en terre, donne d'abord du soufre, en laissant un résidu ; ce résidu s'oxyde peu à peu sous l'influence de l'air, qui pénètre dans l'appareil, et une partie du produit se sublime à son tour peu à peu, à une température plus haute, en fournissant des oxydes métalliques, blancs ou colorés. Geber distingue nettement ces deux phases du phénomène (_Bibl. Chemica_ de Manget, t. 1, p. 534).
+
+La tutie était réputée le moins volatil des esprits ; la magnésie était intermédiaire entre la tutie et la marcassite : enfin la sublimation de la tutie et celle de la magnésie étaient assimilées à la seconde phase de celle de la marcassite, phase dans laquelle l'action de l'air développait les oxydes métalliques.
+
+On voit par là que la magnésie de Geber, comme celle du Pseudo-Démocrite, et, plus tard, la tutie, désignaient à la fois certains minerais sulfurés de zinc, de plomb, d'étain, de cuivre, etc., ainsi que le mélange des oxydes formés par sublimation lente aux dépens de ces minerais de zinc, de plomb, de cuivre, etc. ; c'est-à-dire que cette magnésie se rattache à la famille des cadmies, dans laquelle on rencontre également le double sens de minerai naturel et de ses dérivés obtenus par grillage. Les sens du mot magnésie sont d'ailleurs plus compréhensifs encore, comme il sera dit plus loin.
+
+**Étain** --- κασσίτερος --- _Stannum_ --- plomb blanc.*
+
+*) Pline, _H. N._, l. 34, 47.
+
+Dans Homère, le mot κασσίτερος désigne un alliage d'argent et de plomb (ou d'étain ? ). Le sens actuel du métal étain n'a peut-être été acquis à ce mot d'une manière précise et exclusive que vers le temps d'Alexandre et des Ptolémées, bien que le métal même ait été employé comme composant du bronze depuis les époques préhistoriques. De même le mot _stannum_ est donné par Pline au plomb argentifère (H. N., l. 34, 47), aussi bien qu'au plomb blanc, qui était l'étain véritable. Dans la lecture des anciens auteurs, il faut se méfier continuellement de ces sens multiples et variables avec les temps des dénominations métalliques qu'ils emploient. Pour pouvoir tirer d'un mot des conséquences certaines, au point de vue des connaissances chimiques d'une certaine époque, il est nécessaire, en général, de posséder des objets, armes, statues, ou instruments, répondant exactement à cette époque et à ce mot. En dehors de cette règle, on est exposé aux erreurs et aux confusions les plus étranges.
+
+Pline ajoute qu'on contrefait l'étain avec un mélange renfermant 1/3 de cuivre blanc et 2/3 de plomb blanc ; ou bien avec poids égaux de plomb blanc et de plomb noir : c'est ce qu'on appelait alors plomb argentaire. Ces fraudes sont encore usitées aujourd'hui, les fabricants d'objets d'étain mêlant le plus de plomb qu'ils peuvent à l'étain pur, à cause du bas prix du plomb.
+
+**Étymologies chimiques doubles**. --- C'est une circonstance digne d'intérêt qu'un certain nombre de mots chimiques ont deux étymologies : l'une égyptienne, qui paraît la véritable ; l'autre grecque, qui semble fabriquée après coup et pour rendre compte de la transcription hellénique du mot ancien.
+
+Je citerai, par exemple, les mots _asèm, chimie, sel ammoniac_.
+
+Le mot _asèm_ désignait un alliage métallique particulier imitant l'or et l'argent et spécialement ce dernier métal (p. 62 et suiv.). Il a été traduit en grec par les mots : ἄσημος, ἄσημον, ἀσήμη lesquels signifiaient d'abord l'argent sans titre, et ont pris, en grec moderne, le sens complet de l'argent. La confusion entre ces mots est l'une des origines des idées de transmutation.
+
+Le mot _chimie_ paraît dérivé du mot égyptien _chemi_, qui est le nom de l'Egypte elle-même. Mais les Grecs l'ont rattaché soit à χυμός (suc), soit à χέω (fondre), parce que c'était l'art du fondeur en métaux.
+
+Le nom du _sel ammoniac_ (carbonate de soude d'abord, plus tard chlorhydrate d'ammoniaque (p. 45), est dérivé de celui du dieu égyptien Ammon. Mais il a été rattaché aussi par les Grecs au mot ἄμμον, sable, etc.
+
+Ces fausses étymologies rappellent le système de Platon pour les cas analogues.
+
+**Fer**.
+
+Le basalte était désigné par le nom du fer chez les Egyptiens.
+
+On distinguait parmi les dérivés du fer, les corps suivants :
+
+_Rubigo_ ou _ferrugo_, ἰός, la rouille, c'est-à-dire l'oxyde de fer hydraté et les sels basiques de même teinte.* A l'état anhydre ce corps est devenu le colcotar du moyen âge, qui est à proprement parler le résidu de la calcination des sulfates de fer.
+
+*) Pline, _H. N._, l. 34, 45. --- Diosc. _Mat. méd._, l. 5, 93.
+
+_Squama._ --- C'est l'écaille tirée des armes pendant leur fabrication, _ex acie aut mucronibus_.* Il semble que ce corps répondait à notre oxyde des batitures.
+
+*) Pline, _H. N._, l. 34, 46.
+
+_Scoria_,* autre résidu ferrugineux. --- Elle est appelée aussi _sideritis_.
+
+*) Diosc., _Mat. méd._, l. 5, 94.
+
+Au fer se rattachent l'_aimant_ ou pierre magnétique, l'_hématite_, la _pierre schisteuse_, les _ocres_, les _pyrites_, ainsi que la _rubrique_.
+
+Donnons quelques détails sur ces différentes matières.
+
+_Aimant_ ou _magnes_, dénommé parfois également _sideritis_.*
+
+*) Diosc., _Mat. méd._, l. 5, 147. --- Pline, _H. N._, l. 34, 42, et l. 36, 25. --- _Lexicon Alch. Rulandi_, p. 275, 314.
+
+L'aimant était appelé _ferrum vivum_ et assimilé à un être vivant, à cause de son action attractive sur le fer. On distinguait le mâle et le femelle. On en reconnaissait plusieurs espèces : les uns roux, les autres bleuâtres, qui étaient les meilleurs ; d'autres noirs, sans force ; d'autres blancs et n'attirant pas le fer. L'aimant tirait son nom de _magnes_, de celui de Magnésie, qui appartenait à une province de Thessalie et à deux villes d'Asie (v. _Magnésie_).
+
+_Hématite._* --- Le sens moderne de ce mot est resté à peu près le même que le sens antique : fer oligiste et fer oxydé hydraté. La _pierre schiste_ est congénère* : c'est l'hématite fibreuse.
+
+*) Diosc., _Mat. méd._, l. 5, 143. --- Pline, _H. N._, l. 36, 25.
+
+*) Pline, _H. N._, l. 34, 37.
+
+_Ocres._* --- L'ocre, brûlée dans des pots neufs, donnait la rubrique (sanguine). Les mots _sil_, _usta_* ont un sens analogue. On les obtenait aussi en brûlant l'hématite.*
+
+*) Diosc., _Mat. méd._, l. 5, 108. --- Pline, _H. N._, l. 35, 16, 20, 22.
+
+*) Pline, _H. N._, l. 35, 32 ; l. 33, 56, 57.
+
+*) Vitruve, l. 7, ch. 7. --- Pline, _H. N._, l. 36, 37.
+
+_Pyrites._* --- Ce mot désignait les sulfures de fer et de cuivre et les corps congénères : sens qu'il a conservés. La pyrite blanche et la pyrite dorée notamment sont distinguées par Pline. La chalcite, ou minerai de cuivre répondait surtout à la pyrite cuivreuse.
+
+*) Diosc., _Mat. méd._, l. 5, 142. --- Pline, _H. N._, l. 36, 30.
+
+D'après Pline, le même nom était donné à la meulière et à la pierre à briquet, que l'on supposait contenir le feu produit par leur intermédiaire.
+
+Le mot _Chalcopyrite_, qui désignait sans doute à l'origine la pyrite cuivreuse, a changé de sens plus tard : il aurait signifié le plomb (ou plutôt l'un de ses minerais) chez les alchimistes, d'après le _Lexicon Alch. Rulandi_.
+
+Le mot _marcassite_ a remplacé celui de pyrite au moyen âge, avec un sens encore plus étendu. (Voir ce mot.)
+
+_Rubrique._ --- Ce mot désignait la sanguine ; mais on l'appliquait aussi au minium, au vermillon et même parfois au cinabre.
+
+**Feu** (les vertus du).
+
+D'après Pline : _Ignis accipit arenas, ex quibus alibi vitrum, alibi argentum, alibi minium, alibi plumbi genera, alibi medicamenta fundit. Igne lapides in æs solvuntur, igne ferrum gignitur ac domatur, igne aurum perficitur, etc._*
+
+*) Pline, _H. N._, l. 36, 68.
+
+Ce passage aurait pu être écrit par un alchimiste. On lit déjà dans un hymne chaldéen au feu, traduit par M. Oppert « O toi qui mêles ensemble le cuivre et le plomb* ; ô toi qui donne la forme propice à l'or et à l'argent, etc. »
+
+*) Ou l'étain, suivant d'autres interprètes.
+
+**Figures géométriques des saveurs et des odeurs**.
+
+Démocrite leur a attribué des figures. On lit aussi dans Théophraste, _de Causis Plantarum_, l. 6, ch. 1 :
+
+La saveur douce résulte de matières rondes et grosses ;
+
+--- acerbe et aigre, de matières polyédriques, âpres ;
+
+--- aiguë --- de certains corps pointus, petits, courbes ;
+
+--- âcre --- de corps ronds, petits, courbes ;
+
+--- salée --- de corps anguleux, grands, tordus, etc. ;
+
+--- amère --- de corps ronds, légers, tordus, petits ;
+
+--- grasse --- de corps ténus, ronds, petits ;
+
+**Fixation des métaux**.
+
+Ce terme est employé comme synonyme de transmutation ; il signifie, à proprement parler :
+
+1° L'acte qui consiste à ôter au mercure sa mobilité, soit en l'associant à d'autres métaux ou bien au soufre, soit en l'éteignant à l'aide de divers mélanges.
+
+2° L'opération par laquelle on ôte au mercure et plus généralement aux métaux très fusibles, tels que le plomb et l'étain, leur fusibilité, de façon à les rapprocher de l'état de l'argent.
+
+3° L'opération par laquelle on ôte au mercure sa volatilité.
+
+Les métaux étant ainsi fixés et purifiés de leur élément liquide,
+
+4° On leur communiquait une teinture solide, fixe, qui les amenait à l'état d'argent ou d'or. Arrivés au dernier état, ils étaient définitivement fixés, c'est-à-dire rendus incapables d'une altération ultérieure.
+
+**Gagates** (**pierre**), notre jais* ?  Pierre de Memphis,* sorte d'asphalte.
+
+*) Pline, l. 36, 34. --- Diosc., _Mat. Méd._, l. 5, 145.
+
+*) Diosc., _Mat. méd._, l. 5, 157.
+
+Ios --- ἰός --- _virus_.
+
+Ces mots ont des sens très divers chez les anciens.
+
+_Virus_ s'applique dans Pline à certaines propriétés ou vertus spécifiques des corps, telles que : l'odeur* du cuivre, du sory, de la sandaraque* ;--- leur action vénéneuse.
+
+*) Quelque chose de ce sens s'est conservé dans les mots « odeur vireuse, » usités en botanique et en chimie.
+
+*) _H. N._, l. 34, 30, 48, 55.
+
+L'action médicale des cendres d'or* ;
+
+*) Pline, _H. N._, l. 33, 25.
+
+La vertu magnétique communiquée au fer par l'aimant.*
+
+*) Id., l. 34, 42.
+
+Ἰός signifie plus particulièrement la rouille ou oxyde des métaux, ainsi que le venin du serpent, parfois assimilé à la rouille dans le langage symbolique des alchimistes. La pointe de la flèche, symbole de la quintessence, l'extrait doué de propriétés spécifiques, la propriété spécifique elle-même ; enfin le principe des colorations métalliques, de la coloration jaune en particulier.
+
+**Iosis**, --- ἴωσις, --- signifie :
+
+1° L'opération par laquelle on oxyde (ou l'on sulfure, etc.) les métaux ;
+
+2° La purification ou affinage des métaux, tels que l'or : c'est une conséquence des actions oxydantes exercées sur l'or impur, avec élimination des métaux étrangers sous forme d'oxydes ;
+
+3° La virulence ou possession d'une propriété active spécifique, communiquée par exemple à l'aide de l'oxydation ;
+
+4° Enfin la coloration en jaune, ou en violet, des composés métalliques, coloration produite souvent par certaines oxydations.
+
+Nous conserverons quelquefois ce mot sans le traduire, afin de lui laisser sa signification complexe.
+
+**Magnésie**. --- C'est l'un des mots dont la signification a le plus varié dans le cours des temps (v. p. 221). Jusqu'au 18e siècle, il n'a rien eu de commun avec la magnésie des chimistes d'aujourd'hui.
+
+A l'époque de Pline et de Dioscoride, la pierre de Magnésie désigna d'abord la pierre d'aimant, l'hématite (voir le mot fer) et divers minéraux appelés aussi _magnes_, de couleur rouge, bleuâtre, noire ou blanche, originaires de la province ou des villes portant le nom de Magnésie ; ils comprenaient certaines pyrites métalliques. Le _magnes_ était l'espèce mâle et la _magnesia_ l'espèce femelle.
+
+Les alchimistes grecs ont appelé de ce dernier nom les mêmes corps et spécialement les minerais, parfois sulfurés, tels que les pyrites, employés dans la fabrication du molybdochalque (voir p. 153), alliage de cuivre et de plomb (Zosime). Ils l'appliquent même au sulfure d'antimoine (voir le Lexique alchimique). Puis, par extension, ce nom a été donné aux cadmies ou oxydes métalliques, au plomb blanc et même aux alliages, provenant du grillage et des traitements des pyrites.
+
+En raison de son rôle dans la transmutation, le molybdochalque, substance appelée aussi _métal de la magnésie_ (τὸ σῶμα τῆς μαγνησίας), est appelée τὸ πᾶν (le tout), en certains endroits de Zosime.
+
+Plus tard, chez les Arabes, le mot magnésie s'applique à des minerais de plomb et d'étain, sulfurés aussi ; ainsi qu'aux marcassites ou pyrites, susceptibles de fournir des sublimés analogues à la cadmie et à la tutie (Geber et le Pseudo-Aristote, _Bibl. chem._ de Manget, t. 1, p. 645, 649, etc.).
+
+Les alchimistes latins* ont désigné sous le nom de magnésie non seulement les pyrites (dont certaines appelées _wismath_), mais aussi l'étain allié au mercure par fusion, et un amalgame d'argent très fusible, de consistance cireuse, appelé la magnésie des philosophes, parce qu'il servait à fabriquer la pierre philosophale. C'était « l'eau mystérieuse congelée à l'air et que le feu liquéfie. »
+
+*) _Lexicon Alch. Rulandi_, p. 316.
+
+D'après un texte du _Lexicon Alch._ de Rulandus (p. 322), la magnésie représentait un certain état intermédiaire de la masse métallique, pendant les opérations de transmutation.
+
+Il est difficile de ramener de semblables notions à la précision de nos définitions modernes.
+
+Dans le Pseudo-Aristote arabe,* on lit pareillement : _Dicitur argentum vivum, quod in corpore magnesiæ est occultatum et in eo gelandum_. Il entendait par là un synonyme du mercure des philosophes, que l'on supposait contenu dans le métal de la magnésie.
+
+*) _Tractatulus ; Bibl. chem._ de Manget, t. 1, 661.
+
+La _magnésie noire_ désignait chez les anciens, tantôt un oxyde de fer, tantôt le bioxyde de manganèse.* Elle est déjà mentionnée comme servant à purifier le verre dans le livre _De Mineralibus_ (L. 2, tr. 2, ch. 2), attribué à Albert le Grand.
+
+*) Le nom même de notre manganèse est une autre transformation moderne du mot _magnes_.
+
+Macquer (_Dictionnaire de Chimie_, 1778), à la fin du 18e siècle, distingue :
+
+1° La _magnésie calcaire_, précipité formé par la potasse (carbonatée) dans les eaux-mères du nitre ou du sel commun : c'était du carbonate de chaux impur, parfois mêlé avec le carbonate de magnésie actuel ;
+
+2° Une autre magnésie calcaire, formée en précipitant les mêmes eaux-mères par l'acide sulfurique ou par les sulfates : c'était du sulfate de chaux ;
+
+3° La _magnésie du sel d'Epsom_ ou _de Sedlitz_, précipité obtenu au moyen du carbonate de potasse : c'était notre carbonate de magnésie, dont l'oxyde a seul retenu définitivement le nom de magnésie, dans la chimie scientifique actuelle. Le carbonate en porte aussi le nom en pharmacie.
+
+**Marcassite**.
+
+Ce mot, regardé parfois comme synonyme de pyrite, est employé par les alchimistes du moyen âge pour désigner les sulfures, arséniosulfures et minerais analogues, de tous les métaux proprement dits : fer, cuivre, plomb et antimoine, étain, argent, or. La marcassite blanche ou pyrite argentine était appelée spécialement _Wismath_ ou magnésie. La marcassite plombée est le sulfure d'antimoine.
+
+**Massa**, μᾶζα.
+
+Ce mot est donné comme synonyme d'Alchimie dans le traité attribué à Albert le Grand et dans sa traduction grecque (Théoctonicos ; v. p. 209). On trouve également dans le _Lexicon Alch. Rulandi : Kymus, id est massa. Kuria vel kymia, id est massa, alchimia_.
+
+**Mercure**.*
+
+*) Dioscoride, _Mat. méd._, l. 5, 110. --- Pline, _H. N._, l. 33, 32-42.
+
+Pline distingue l'_argentum vivum_, métal natif, et l'_hydrargyrum_ ou argent liquide, métal artificiel.
+
+Il prépare celui-ci sans distillation, en broyant le cinabre et le vinaigre dans un mortier de cuivre avec un pilon de cuivre.
+
+On obtenait aussi le mercure en plaçant le cinabre dans une capsule de fer, au milieu d'une marmite de terre, surmontée d'un chapiteau (_ambix_), dans lequel se condensait la vapeur sublimée : (αἰθάλη). On lit dans Dioscoride : Ἡ γὰρ προσίζουσα τῷ ἄμβικι αἰθάλη ἀποξυσθεῖσα καὶ ἀποψυχθεῖσα ὑδράργυρος γίνεται. « La vapeur sublimée adhérente à l'alambix, raclée et refroidie devient mercure. » --- C'est l'origine de l'alambic.
+
+Dans Aristote se trouve le curieux passage que voici :
+
+« Quelques-uns disent que l'âme communique au corps son propre mouvement : ainsi fait Démocrite, lequel parle à la façon de Philippe, auteur comique. Ce dernier dit que Dédale communique le mouvement à une Vénus de bois, en y plaçant de l'argent liquide. » (_De Animâ_, l. 1, ch. 3.)
+
+C'est déjà le principe de l'expérience du culbuteur chinois, que l'on fait aujourd'hui dans les Cours de Physique. Mais on peut aussi voir là l'origine de quelques-unes des idées mystiques des Alchimistes, qui ont pris au sérieux les apparences tournées en plaisanterie par les anciens Grecs.
+
+Le mercure des philosophes, ou matière première des métaux,* représentait pour les Alchimistes une sorte de quintessence du mercure ordinaire ; ces deux corps étant tantôt confondus, tantôt distingués. C'est dans ce sens qu'il convient d'entendre ce qui suit.
+
+*) _Origines de l'Alchimie_, p. 279.
+
+D'après les Alchimistes du moyen âge, le mercure est l'or vivant ; la mère des métaux. Il les engendre par son union avec son mâle, le soufre ; il tue et fait vivre ; il rend humide et sec ; il chauffe et refroidit, etc. ... L'Eau c'est Adam, la Terre est Eve (Rulandus, _Lexicon Alchemiæ_, p. 47), etc.
+
+Tout ceci atteste la persistance des vieilles formules, à travers le moyen âge ; car la dernière assimilation remonte à Zosime et aux gnostiques.
+
+Citons encore quelques-uns des synonymes alchimiques du mercure :
+
+_Aquam autem simplicem, aliàs vocant venenum, argentum vivum, cambar, aquam permanentem, gumma, acetum, urinam, aquam maris, Draconem, serpentem._*
+
+*) Voir _Turba philosophorum_ (_Biblioth. Chem._ de Manget, t. 1, p. 500).
+
+On lit les noms suivants du mercure dans Vincent de Beauvais, _Speculum majus_, 8, 62 :
+
+_Acetum attrahens, et aqua aggrediens et oleum mollificans ... servus quoque fugitivus._*
+
+*) Voir Ostanès, ce v. p. 217.
+
+Puis vient un dialogue entre l'or et le mercure. L'or dit au mercure : « Pourquoi te préfères-tu à moi ? je suis le maître des pierres qui ne souffrent pas le feu. » Et il lui répond : « Je t'ai engendré et tu ne sais pas que tu es né de moi. Une seule partie tirée de moi vivifie un grand nombre des tiennes ; tandis que dans ton avarice tu ne donnes rien de toi dans les traitements. »
+
+Le mercure est présenté comme l'élément de tous les corps métalliques liquéfiables par le feu ; après leur liquéfaction, ils prennent l'apparence rouge.
+
+D'après Avicenne (_Bibl. chem._ de Manget, t. 1, p. 627), « le mercure est le serpent qui se féconde lui-même, engendrant en un jour ; il tue tout par son venin ; il s'échappe du feu. Les sages le font résister au feu : alors il accomplit les œuvres et mutations ... Il se trouve dans tous les minéraux et il possède avec tous un principe commun ; c'est la mère des minéraux.
+
+« Un seul métal tombe au fond, c'est l'or et par là tu connais le plus grand secret, parce que le mercure reçoit dans son sein ce qui est de la même nature que lui. Il repousse les autres, parce que sa nature se réjouit plus avec une nature pareille qu'avec une nature étrangère.* Il est le seul qui triomphe du feu et n'est pas vaincu par lui ; mais il s'y repose amicalement ... Il contient son propre soufre excellent, par lequel on fixe l'or et l'argent, suivant le mode de digestion. »
+
+*) Ceci montre quel intérêt on attachait à des propriétés qui nous paraissent aujourd'hui peu importantes. On remarquera aussi l'axiome du Pseudo-Démocrite sur les natures, reproduit par Avicenne.
+
+**Métaux**. --- _Génération des métaux_.
+
+Aux opinions des anciens, relatives à cette question et rapportées dans mes _Origines de l'alchimie_, il paraît intéressant d'ajouter quelques textes.
+
+Les métaux sont formés d'eau et de terre, d'après Aristote (_Météor._, l. 4, chap. 8) : ce qui exprime leur fusibilité et leur fixité, aussi bien que leur aptitude à être changés en oxydes.
+
+Aristote (_De Generatione_, l. 1, chap. 10) distingue encore les corps en réceptifs ou passifs, et actifs ou donnant la forme : ὡς θάτερον μὲν δεκτικὸν, θάτερον δ᾽ εἶδος. C'est ainsi que l'étain disparaît, en subissant l'influence de la matière du cuivre qui le colore : πάθος τι ὤν ἄνευ ὕλης τοῦ χαλκοῦ σχεδὸν ἀφανίζεται, καὶ μιχθεὶς ἄπεισι χρωματίσας μόνον. Nous touchons ici aux notions alchimiques.
+
 ...
 
 # Texte Grec.
