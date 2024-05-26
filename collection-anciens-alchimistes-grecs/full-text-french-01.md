@@ -4810,7 +4810,275 @@ Les métaux sont formés d'eau et de terre, d'après Aristote (_Météor._, l. 4
 
 Aristote (_De Generatione_, l. 1, chap. 10) distingue encore les corps en réceptifs ou passifs, et actifs ou donnant la forme : ὡς θάτερον μὲν δεκτικὸν, θάτερον δ᾽ εἶδος. C'est ainsi que l'étain disparaît, en subissant l'influence de la matière du cuivre qui le colore : πάθος τι ὤν ἄνευ ὕλης τοῦ χαλκοῦ σχεδὸν ἀφανίζεται, καὶ μιχθεὶς ἄπεισι χρωματίσας μόνον. Nous touchons ici aux notions alchimiques.
 
-...
+J'ai cité plus haut (article _éléments actifs_, p. 246) le passage d'Aristote sur l'exhalaison sèche et sur l'exhalaison humide, laquelle produit les métaux. Une partie de ceci rappelle, sous une forme plus vague, les théories actuelles sur les minéraux de filons, produits par les vapeurs souterraines.
+
+Et ailleurs (_Météor._, l. 4, ch. 2) : « L'or, l'argent, le cuivre, l'étain, le plomb, le verre et bien des pierres sans nom, participent de l'eau : car tous ces corps fondent par la chaleur. Divers vins, l'urine, le vinaigre, a lessive, le petit-lait, la lymphe participent aussi de l'eau, car tous ces corps sont solidifiés par le froid. Le fer, la corne, les ongles, les os, les tendons, le bois, les cheveux, les feuilles, l'écorce, participent plutôt de la terre : ainsi que l'ambre, la myrrhe, l'encens, etc. »
+
+J'ai cité des passages analogues tirés du _Timée_ de Platon.*
+
+*) _Origines de l'Alchimie_, p. 269 à 271.
+
+Tous ces énoncés témoignent de l'effort fait par la science antique pour pénétrer la constitution des corps et manifestent les analogies vagues qui guidaient ses conceptions.
+
+La Théorie des exhalaisons est le point de départ des idées ultérieures sur la génération des métaux dans la terre, que nous lisons dans Proclus (voir _Origines de l'Alchimie_, p. 48), et qui ont régné pendant le moyen âge (voir le présent volume, p. 78). On lit encore, dans Vincent de Beauvais (8, 6) : « D'après Rhazès, les minéraux sont des vapeurs épaissies et coagulées au bout d'un temps considérable. Le vif argent et le soufre se condensent d'abord. Les corps transformés graduellement pendant des milliers d'années dans les mines arrivent à l'état d'or et d'argent ; mais l'art peut produire ces effets en un seul jour. »
+
+Dès les temps les plus anciens, ces idées se sont mêlées avec des imaginations astrologiques, relatives aux influences sidérales (ce volume, p. 73 et suiv.). C'est ainsi qu'on lit dans la _Bibl. Chem._ de Manget, t. 1, p. 913 : « Les métaux et les pierres n'éprouvent pas les influences célestes, sous leur forme même de métaux ou de pierres, mais lorsqu'ils sont sous la forme de vapeurs et tandis qu'ils durcissent. » On voit par là le sens mystique de ces mots attribués à Hermès par Albert le Grand : « la terre est la mère des métaux ; le ciel en est le père. » De même cet autre axiome hermétique : « En haut les choses terrestres ; en bas les choses célestes,* » lequel s'appliquait à la fois à la transformation des vapeurs dans la nature et à la métamorphose analogue que l'on effectuait par l'art dans les alambics.
+
+*) Ce volume, p. 161 et 163, fig. 37.
+
+Avicenne, après avoir décrit le détail supposé de cette création des métaux, ajoute : « Cependant il est douteux que la transmutation effective soit possible. Si l'on a donné au plomb purifié les qualités de l'argent (chaleur, saveur, densité), de façon que les hommes s'y trompent, la différence spécifique ne peut être enlevée parce que l'art est plus faible que la nature (Vincent de Beauvais, 8, 84). »
+
+Albert le Grand (_De Mineralibus_, l. 3, tr. 1, ch. 9) dit de même : « Ceux qui blanchissent par des teintures blanches et jaunissent par des teintures jaunes, sans que l'espèce matérielle du métal soit changée, sont des trompeurs, et ne font ni vrai or, ni vrai argent ... J'ai fait essayer l'or et l'argent alchimiques en les soumettant à six ou sept feux consécutifs ; le métal se consume et se perd, en ne laissant qu'un résidu sans valeur. »
+
+Dans le traité d'alchimie pseudonyme, attribué au même auteur, il est dit que le fer alchimique n'attire pas l'aimant et que l'or alchimique ne réjouit pas le cœur de l'homme et produit des blessures qui s'enveniment ; ce que ne fait pas l'or véritable.
+
+_Odeur des Métaux_ : D'après Aristote (_De sensu et sensilibus_, ch. 5) : « L'or est inodore ; le cuivre, le fer sont odorants ; l'argent et l'étain moins que les autres.
+
+Il y avait un cuivre indien de même couleur que l'or parmi les vases du trésor de Darius ; les coupes de ce métal ne se distinguaient que par l'odeur (_De mirabilibus_, ch. 49).
+
+**Minium**, **Rubrique** ou matière rouge. --- μίλτος ---
+
+Sous ce nom on trouve confondues un grand nombre de substances rouges d'origine minérale, telles que, d'une part :
+
+Les oxydes de fer (sanguine, ocre brûlée ou _usta_, hématite).
+
+Les oxydes de plomb (minium et congénères) et peut-être l'oxyde de mercure (confondu avec le cinabre), ainsi que le protoxyde de cuivre ;
+
+D'autre part, le sulfure de mercure (vermillon, cinabre), le sulfure d'arsenic (réalgar, appelé aussi sandaraque), le sulfure d'antimoine (sulfure artificiel précipité et kermès minéral), son oxysulfure, et divers composés métalliques analogues, que les anciens ne savaient pas bien distinguer les uns des autres (voir plus haut l'article _cinabre_, et plus loin l'article _plomb_).
+
+Ainsi les mots rubrique, _rubrica_ (μίλτος), minium, cinabre, vermillon, sont-ils souvent synonymes dans les anciens auteurs.
+
+La _sinopis_, ou rubrique de Sinope,* était à proprement parler un oxyde de fer naturel et artificiel (_usta_) ; mais ce nom a été aussi donné à notre minium (oxyde de plomb) et à notre sulfure de mercure.
+
+*) Diosc., _Mat. méd._, 5, 111. --- Pline, _H. N._, l. 35, 16 ; 36, 27.
+
+La terre de Lemnos* était aussi une rubrique (probablement un peroxyde de fer hydraté) ; on la vendait sous cachet.
+
+*) Pline, _H. N._, l. 35, 14.
+
+La sinopis, broyée avec du _sil_ brillant (ocre jaune) et du _melinum_ (argile blanche), donnait le _leucophoron_, matière employée pour fixer l'or sur le bois.*
+
+*) Pline, _H. N._, l. 35, 17.
+
+Le _minium_ ou _ammion_ (petit sable) désigne :
+
+Tantôt un oxyde de plomb, dans le sens d'aujourd'hui, oxyde obtenu par la calcination ménagée de la céruse et nommé aussi _usta_, comme l'ocre,* ou bien encore _fausse sandaraque_* ;
+
+*) Pline, _H. N._, l. 35, 20.
+
+*) Le même, 22.
+
+Tantôt le vermillon et le cinabre ou sulfure de mercure.*
+
+*) Vitruve --- Dioscoride, _Mat. méd._, l. 5, 109. --- Pline, _H. N._, l. 33, 37 à 41.
+
+Le minium, chauffé à parties égales avec la rubrique, fournissait le _sandyx_,* nom qui a été appliqué aussi au minium seul.* Cette confusion se retrouve dans certaines dénominations modernes : c'est ainsi que le minium de fer, employé aujourd'hui pour peindre ce métal, est formé de 60 pour cent de minium et de 40 pour cent d'oxyde magnétique.
+
+*) Pline, _H. N._, l. 35, 23.
+
+*) Diosc., _Mat. méd._, l. 5, 103.
+
+Un premier germe des idées alchimiques sur la fabrication de l'or se trouve dans ce fait, rapporté par Théophraste,* que l'Athénien Caillas, au 5e siècle avant notre ère, vers les commencements de la guerre du Péloponèse, découvrit le minium dans les mines d'argent et qu'il espérait obtenir de l'or par l'action du feu sur ce sable rouge.
+
+*) _De Lapidibus_, 58, 59.
+
+Le _sandyx_ mêlé de _sinopis_ constituait le syricum ou _sericum_.*
+
+*) Pline, _H. N._, l. 35, 24.
+
+Ajoutons, pour compléter ce qui est relatif aux couleurs dérivées des métaux dans l'antiquité.
+
+_L'armenium_, matière bleue qui paraît être la cendre bleue, ou l'azurite ;
+
+Et le _ceruleum_ ou azur,* mot qui désigne à la fois une laque bleue, dérivée du pastel, et un _émail bleu_, fritte ou vitrification, obtenu avec du natron, de la limaille de cuivre et du sable fondu ensemble (Vitruve).
+
+*) Pline, _H. N._, l. 33, 57.
+
+Parmi les couleurs vertes, on cite _l'ærugo_, le verdet, la chrysocolle (malachite ; cendres vertes et sous-carbonates de cuivre).
+
+Les _couleurs jaunes_ étaient : l'ocre ou _sil_, parfois mêlé de matières végétales ; l'arsenic ou orpiment ; les sous-sulfates de fer (misy et congénères) ; parfois la litharge, le soufre, l'or en poudre ; enfin diverses matières végétales.
+
+**Nitrum** --- νίτρον --- natron, --- à proprement parler notre carbonate de soude.
+
+C'est par erreur que la plupart des éditeurs des auteurs grecs ou latins traduisent ces mots par nitre ou salpêtre, substance presque inconnue dans l'antiquité, et qui apparaît seulement à partir du 6e siècle à Constantinople, avec le feu grégeois dont elle était la base.*
+
+*) Voir mon ouvrage : _Sur la force des matières explosives_, 3e éd., t. 1, p. 352.
+
+Les anciens parlent aussi du nitrum factice, préparé avec les cendres de chêne, c'est-à-dire du carbonate de potasse.
+
+_Spuma nitri_, ἀφρὸς νίτρου ou ἀφρόνιτρου. --- Se trouve dans des cavernes. Ce devait être dans certains cas du nitre vrai.
+
+**Opérations Alchimiques**. --- Voici le nom de quelques-unes des opérations signalées dans les écrits des Alchimistes Grecs ; j'ai cru utile de les réunir ici pour la commodité du lecteur.*
+
+*) Voir aussi ce volume, p. 210.
+
+ἀναζωπύρωσις|Régénération par le feu ; coupellation.  
+ἀνάλυσις|Dissolution, désagrégation.  
+ἀποσείρωσις|Décantation.  
+ἀχλύωσις|Obscurcissement de la surface brillante d'un métal, par oxydation, sulfuration, etc.  
+ἐκστροφὴ, ἔκστρεψις|Extraction, transformation.  
+ἐλαίωσις|Graissage ; Transformation en huile.  
+ἐξίωσις|Réduction, affinage,  
+ἐξυδάτωσις|Dessiccation ; opération par laquelle on dépouille un corps de sa liquidité.  
+ἐπιβολαί|Projections.  
+ἕψησις|Décoction.  
+ἴωσις||Oxydation ; affinage ; coloration en violet (v. p. 255).  
+καῦσις|Grillage ; calcination.  
+λείωσις|Pulvérisation ; délaiement.  
+λεύκωσις|Blanchiment.  
+μελάνωσις|Teinture en noir.  
+ὄπτησις|Torréfaction.  
+ξάνθωσις|Teinture en jaune.  
+πλύσις|Lavage.  
+σῆψις|Putréfaction, décomposition.  
+ὕλη|Matière.  
+φύσις|Nature, qualité intérieure.
+
+**Or**.
+
+Rappelons sa coupellation par le sulfure d'antimoine, qui en sépare même l'argent. On fond ensemble ; la fonte se sépare en deux couches ; la couche supérieure renferme les métaux étrangers, sous forme de sulfures unis à l'antimoine ; la couche inférieure contient l'or et le régule d'antimoine. On répète la fonte deux ou trois fois ; puis on soumet l'or à un grillage modéré, qui brûle l'antimoine ; en évitant de chauffer trop fort pour ne pas volatiliser l'or.
+
+En raison de ces propriétés l'antimoine était dit au moyen âge le loup dévorant des métaux ; ou bien encore le bain du roi ou du soleil. Mais elles ne sont exposées très explicitement que vers la fin du moyen âge.
+
+**Paros** et **Porus**.*
+
+*) Pline, _H. N._, l. 36, 28.
+
+La pierre appelée _porus_, était blanche et dure comme le marbre de Paros ; mais moins pesante. Ces deux mots sont parfois confondus dans les Papyrus de Leide.
+
+**Plomb** : On distinguait 2 espèces, le noir et le blanc, ce dernier assimilable à notre étain.*
+
+*) Pline, _H. N._, l. 34, 47.
+
+Du plomb noir on extrayait aussi l'argent. --- Il était soudé par l'intermède de l'étain. Le métal de première coulée, obtenu avec le plomb argentifère, s'appelait _stannum_ ; le second, _argent_ ; ce qui restait dans le fourneau, _galène_. La galène refondue produisait du plomb noir.
+
+On voit que le mot _stannum_ signifie ici un alliage d'argent et de plomb. Quant au mot _galène_, il n'avait pas le même sens qu'aujourd'hui, où il veut dire sulfure de plomb.
+
+Chez les anciens, le plomb était souvent confondu avec ses alliages d'étain, aussi bien qu'avec l'antimoine (v. p. 224 et le bismuth, métal plus rare et dont la découverte est moderne.
+
+_Plomb lavé._ --- πεπλυμένος μόλυβδος.*
+
+*) Diosc., _Mat. méd._, l. 5, 95.
+
+Voici la préparation de cette substance.
+
+On broie de l'eau dans un mortier de plomb avec un pilon de plomb, jusqu'à ce que l'eau noircisse et s'épaississe : ce que nous expliquons aujourd'hui par la formation d'un hydrocarbonate de plomb, résultant de l'action de l'air et de l'eau sur le métal. --- On lave par décantation. --- On peut aussi broyer de la limaille de plomb dans un mortier de pierre.
+
+Vincent de Beauvais (_Speculum majus_, 8, 17) décrit la soudure autogène, plomb sur plomb, qui a été regardée comme une invention moderne.
+
+_Plomb brûlé_, --- κεκαυμένος μόλυβδος.* --- Voici la préparation de ce corps :
+
+*) Diosc., _Mat. méd._, l. 5, 96. --- Pline, _H. N._, l. 34, 50.
+
+« On stratifie dans un plat des lames de plomb et de soufre. On chauffe, on remue avec du fer, jusqu'à disparition du plomb, et transformation en une sorte de cendre. D'autres remplacent le soufre par de la céruse, ou par de l'orge. Si l'on chauffe le plomb seul, le produit prend la couleur de la litharge. » --- Le produit obtenu par ces procédés est un sous-oxyde de plomb, mêlé, suivant les cas, de sulfure et de sulfate.
+
+_Scorie_ [de plomb].* --- Corps jaune, vitreux, analogue à la céruse, ou plutôt à notre litharge impure.
+
+*) Diosc., _Mat. méd._, l. 5, 97. --- Pline, _H. N._, l. 34, 49, 51.
+
+_Spode_ [de plomb].* --- V. l'article _Æs_, sur le sens du mot _spode_.
+
+*) Pline, _H. N._, l. 34, 12.
+
+_Pierre plombeuse_.* --- C'est notre galène (sulfure de plomb) ?
+
+*) Diosc., _Mat. méd._, l. 5, 98.
+
+_Galena_. --- Minerai de plomb,* employé dans la fusion de l'argent. On appelait aussi de ce nom le résidu des fontes du plomb argentifère (v. plus haut).
+
+*) Pline, l. 23, 31.
+
+_Molybdène_ --- μολύβδαινα.* « Ce corps est produit dans les fourneaux d'or et d'argent. Il est jaune, et devient rouge par le broiement ; il est semblable à la litharge. » --- Ce nom a été aussi étendu à la plombagine (notre graphite) et à notre galène (sulfure de plomb natif). --- On en a rapproché encore* la _scorie d'argent_, appelée aussi _helcysma_ ou _encauma_.
+
+*) Diosc., _Mat. méd._, l. 5, 100. --- Pline, _H. N._, l. 34, 53.
+
+*) Diosc., l. 5, 101.
+
+Le mot molybdène a été suivant l'usage fâcheux des modernes, détourné de son sens historique par les chimistes de notre temps, pour être appliqué à un métal inconnu de l'antiquité.
+
+_Litharge_.* --- Elle se préparait avec un sable (minerai) plombeux, ou bien elle était obtenue dans la fabrication de l'argent, ou dans celle du plomb. --- La litharge jaune s'appelait _chrysitis_ ; celle de Sicile, _argyritis_ ; celle de la fabrication de l'argent, _lauriotis_ (mot qui rappelle les mines du Laurium) : « ce sont à proprement parler les écumes d'argent, produites à la surface du métal ; la _scorie_ est le résidu qui reste au fond » (Pline).
+
+*) Diosc., _Mat. méd._, 5, 102.
+
+_Céruse_ --- ψιμύθιον.* --- Les anciens ont indiqué le procédé de préparation de la céruse par le plomb et le vinaigre. --- Dioscoride décrit aussi sa torréfaction (ὀπτητέον), sa cuisson (καῦσαι θέλων), laquelle lui donne une couleur rouge et la change en sandyx (minium).
+
+*) Diosc., l. 5, 103. --- Pline, l. 33, 54. --- Vitruve, l. 7, ch. 7.
+
+_Minium_ (v. p. 251, 260 ; Rubrique). --- Rappelons que ce mot a désigné non seulement le sur-oxyde de plomb, appelé aujourd'hui de ce nom, mais aussi le vermillon, le cinabre, le réalgar et certains oxydes de fer.
+
+**Pseudargyre**.
+
+On lit dans Strabon* : « Près d'Andira on trouve une pierre qui se change en fer par l'action du feu. Ce fer, traité par une certaine pierre, devient du _pseudargyre_, lequel, mêlé avec du cuivre, produit ce que l'on appelle orichalque.
+
+Le pseudargyre se trouve aussi près du Tmolus. »
+
+*) Liv. 13, 56.
+
+Était-ce du zinc, ou du nickel, ou un alliage ?
+
+**Samos** (pierre de). --- C'est le tripoli.
+
+**Sel**.* --- Sel fossile naturel, notre sel gemme, ou chlorure de sodium --- sel de Cappadoce, sel factice obtenu par l'évaporation des salines.
+
+*) Diosc., _Mat. méd._, l. 5, 125, 130. --- Pline, _H. N._, l. 31, 39-45.
+
+_Lanugo salis_. --- Ἄχνη ἁλός. --- Paillette écumeuse, produite par l'eau de mer déposée sur les rochers.
+
+_Saumure_ --- _muria_. ---  Ἅλμη
+
+_Flos salis_, --- ἁλὸς ἄνθος. --- Efflorescences salines et odorantes, couleur de safran --- elles surnageaient dans certains étangs, ainsi que dans l'eau du Nil.
+
+_Favilla salis_. --- Efflorescence blanche et légère.
+
+**Sélénite** * ou _aphroselinon_, pierre de lune, pierre spéculaire, glace de Marie ; blanche, légère, translucide.
+
+*) Diosc., l. 5, 158. --- _Lexicon Alch. Rulandi_, p. 289 et 427.
+
+Ce mot désigne notre sulfate de chaux et notre mica, ainsi que divers silicates, lamelleux et brillants.
+
+**Soufre**.* --- Soufre vif, ou apyre.
+
+*) Diosc., l. 5, 123. --- Pline, _H. N._, l. 35, 50.
+
+Pline ajoute : _Ignium vim magnam ei inesse_ ; il renferme beaucoup de feu --- sans doute parce qu'il s'allume aisément.
+
+**Terres**.*
+
+*) Diosc., _Mat. méd._, l. 5, 170 à 180. --- Pline, _H. N._, l. 35, 31, 32, 53 à 55 ; 36, 40, etc. --- _Lexicon Alch. Rulandi_, p. 463.
+
+On désignait sous ce nom divers calcaires et surtout des argiles blanches, ou grisâtres, employées :
+
+Soit comme fondants en métallurgie ;
+
+Soit comme base de poteries en céramique ;
+
+Soit comme ciments dans les constructions ;
+
+Soit comme supports de couleurs en peinture ;
+
+Soit comme collyres, et pour divers autres usages, en matière médicale.
+
+Ces terres étaient lavées à grande eau, mises en trochisques, cuites dans des plats de terre, etc.
+
+On distinguait : la terre de Chio, la terre de Samos et la pierre de Samos, la terre cimolienne, la terre d'Erétrie, la terre de Melos (assimilée au tripoli) la terre de Sélinonte, la terre de Lemnos (v. Rubrique p. 251, 260), le _Parætonium_, la _pignitis_, l'_ampelitis_ ou _schiste_ bitumineux, etc. La terre de Lemnos était une sanguine, ou oxyde de fer hydraté.
+
+**Trempe** --- **Teinture** --- Βαφή.
+
+La _trempe du fer_ était connue de toute antiquité. Homère en fait mention dans l'Odyssée (l. 9, 393). Les alchimistes grecs y ont consacré plusieurs articles que nous reproduirons. La trempe du bronze est aussi décrite par eux.
+
+Il est digne d'intérêt que le même mot Βαφή signifie :
+
+1° La trempe des métaux ;
+
+2° La teinture des étoffes, du verre et des métaux ;
+
+3° Par extension la matière colorante elle-même,
+
+4° Et aussi le bain dans lequel on la fixait.
+
+**Tutie**. --- Le nom de tutie, qui semble ancien,* n'apparaît avec certitude qu'au temps des Arabes. Il a désigné surtout le pompholyx, oxyde de zinc impur. Mais il a été appliqué aussi à toute cadmie, toute fumée des métaux, et il en a souvent remplacé le nom chez les alchimistes du moyen âge. On en a parfois rapproché la magnésie (v. ce mot).
+
+*) On trouve la mention de la _Tutia Alexandrina_ (manuscrit 7161 du fonds latin de la Bibliothèque nationale de Paris, f. 13).
 
 # Texte Grec.
 
