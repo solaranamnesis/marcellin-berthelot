@@ -5373,7 +5373,7 @@ _Transcrit sur_ M, f. 131 r. --- _Collationné sur_ B, f. 2 v. ;--- _sur_ A, f. 
 
 *) ἀφρο, puis le signe de la lune MB : ἀφροσέλινον A. ---
 
-*) Κόπρος, le signe de l'or, puis αμμος sans esprit ni accent (= χρύσαμμός) ἐστιν χρυσόλιθος (en signe) M ;--- Kόπρος ἐστὶ χρυσὸς (signe de l'or): καὶ ἄμ. ἐ. χρυσόλ. BA; Κόπρος ἐ. χρυσὸς (en toutes lettres), καὶ ἄμ. καὶ χρυσόλ. L. ---
+*) Κόπρος, le signe de l'or, puis αμμος sans esprit ni accent (= χρύσαμμός) ἐστιν χρυσόλιθος (en signe) M ;--- Kόπρος ἐστὶ χρυσὸς (signe de l'or) : καὶ ἄμ. ἐ. χρυσόλ. BA; Κόπρος ἐ. χρυσὸς (en toutes lettres), καὶ ἄμ. καὶ χρυσόλ. L. ---
 
 *) κασσίτηρος M presque partout. ---
 
