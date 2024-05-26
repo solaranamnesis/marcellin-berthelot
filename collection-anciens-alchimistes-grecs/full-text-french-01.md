@@ -50,8 +50,6 @@
 
 ## [8. --- Notices de Minéralogie, de Métallurgie et Diverses.](#8-----notices-de-minéralogie-de-métallurgie-et-diverses-1)
 
-...
-
 # [Texte Grec.](#texte-grec-1)
 
 ## [Première Partie.](#première-partie-2)
