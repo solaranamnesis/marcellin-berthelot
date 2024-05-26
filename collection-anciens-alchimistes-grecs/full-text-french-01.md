@@ -5084,7 +5084,26 @@ Il est digne d'intérêt que le même mot Βαφή signifie :
 
 ### Sur les Abréviations, les Sigles des Manuscrits, etc.
 
-...
+Les variantes et autres remarques paléographiques sont indiquées par les abréviations usuelles des mots latins _addit_ (add.), _omittit_ (om.), _correxit_ (corr.), _fortasse legendum_ (f. l.), _fortasse melius_ (f. mel.), _fortasse delendum_ (f. del.). --- Corr. conj. désigne une correction conjecturale.
+
+_Folio_ est abrégé f. ; _recto_, r. ; _verso_, v. ; _page_, p.
+
+Le ms. 240 de St-Marc, à Venise (11e s.), a pour sigle M ;--- les mss. de Paris 2327 (de l'an 1478), A ;--- 2325 (13e s.), B ;--- 2275 (de l'an 1465), C ;--- 2326 (16e s.), D ;--- 2329 (16-17e s.), E ;--- 2249 (16e s.), K ;--- 2250, 2251, 2252 (17e s.), L ou La, Lb, Lc ;--- 2419 (de l'an 1460), R ;--- 1022 du supplément grec (17e s.), S ;--- le ms. de la Laurentienne, à Florence, 86, 16 (de l'an 1492), Laur.
+
+Conformément à l'usage adopté généralement aujourd'hui, les mots placés entre crochets droits [ ] sont ceux dont on propose la suppression ; les mots placés entre crochets obliques < >, ceux que l'on propose de suppléer.
+
+La sigle d'un ms. est suivie de l'abréviation mg. (par ex. : M mg.) lorsque les mots qui suivent sont placés en marge de ce ms.
+
+On a négligé le plus souvent les variantes qui portent : 1° sur le ν final éphelkystique suivi d'une consonne (par ex. : ἔστιν τὸ φάρμακον), d'un usage presque constant dans M ; 2° sur la confusion de voyelles causée par l'iotacisme (βῆκος pour βίκος) ; 3° sur la ponctuation. On n'a reproduit, d'ailleurs, dans les notes, que les variantes qui paraissaient contribuer à l'amélioration du texte. Les autres variantes, qui ont été recueillies, pourront figurer dans une publication à part.
+
+Le texte imprimé est toujours, sauf indication spéciale, conforme à celui du
+manuscrit sur lequel la transcription a été faite.
+
+Lorsque le texte grec n'a pas de titre, on y supplée par la suscription d'un titre en français.
+
+Les renvois d'un morceau à un autre sont effectués au moyen de divisions conventionnelles en Parties, Sections ou Morceaux et Paragraphes. (Ex. : Cp. 1, 3, 5 : Comparez 1re partie, 3e morceau, § 5).
+
+Les notes philologiques suivies des initiales _M. B._ sont de M. Marcelin Berthelot. Les initiales _C. E. R._ signifient Ch.-Émile Ruelle.
 
 ## Première Partie.
 
