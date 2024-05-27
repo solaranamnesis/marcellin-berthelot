@@ -9187,18 +9187,210 @@ S 55 (après le mot ποιησάμενος). Rédaction de L. (Voir p. 103, l. 1
 ρεύσαντα » οὐδὲν ἀλλὸ σημαίνει ἡ τὸ ὁμοῦ καὶ κατὰ ταὐτὸν ῥεύσαντα,
 δηλονότι, διὰ τοῦ πυρός. έλος τοῦ Ολυμπιοδώρου.
 
-...
-
 # Traduction.
 
 ## Note Préliminaire.
 
-...
+_Les sigles des manuscrits et les abréviations sont les mêmes que pour le texte grec. --- Elles ont été indiquées à la page 2 de ce texte._
 
 ## Première Partie.
 
 ### Indications Générales.
 
 #### 1. --- 1. Dédicace.
+
+Regarde ce volume comme renfermant un bonheur secret, qui que tu sois qui es l'ami des Muses. Mais si tu veux en explorer les veines chargées d'or, qui sont habilement cachées ; ouvre l'œil vif de l'esprit et élève-le vers les natures divines, avec une parfaite perspicacité ; parcours ainsi ce très savant écrit, et trouves-y le trésor d'une connaissance supérieure, en cherchant et explorant la nature trois fois heureuse, la seule qui domine les natures d'une manière divine,* la seule qui enfante l'or brillant, celle qui fait tout ; celle que seuls ont découverte par leur esprit inspiré des Muses, les amants de la gnose divine. Celui qui l'a inventée, je ne dirai pas qui il est. Admire l'intelligence, la sagesse de ces hommes divins, créateurs des corps et des esprits* ; (Admire, dis-je) comment ils ont atteint la hauteur sublime de la gnose, de façon à animer, à tuer et à vivifier, à créer des figures et des formes étranges.*
+
+*) C'est la formule favorite du Pseudo-Démocrite.
+
+*) Le mot _corps_, σώματα, s'applique dans la langue des alchimistes, aux métaux régénérés de leurs oxydes et autres minerais. --- Le mot _esprit_, πνεύματα, a un sens plus vague ; il signifie spécialement les substances volatiles que l'on peut fixer sur les métaux, ou en séparer (v. _Introduction_, p. 247).
+
+*) Ces expressions mystiques signifient la production des métaux, leur disparition par oxydation, dissolution, etc., et leur régénération.
+
+O merveille ! ô bien heureuse et souveraine matière ! Celui qui la connaît à fond et qui sait les résultats cachés sous ses énigmes, celui-là, oui, c'est l'intelligence digne de tout honneur, c'est l'esprit éminent de Théodore, qui s'enrichit d'une manière divine, lui le fidèle défenseur des princes. Il a rassemblé, il a fait entrer une collection étrange dans ce volume de conceptions savantes.
+
+En le protégeant, Christ, souverain maître, tiens-le en ta garde !
+
+_Sur le Théodore auquel est adressée cette Dédicace._
+
+L'indication de ce nom, qui se rapporte à un haut fonctionnaire de l'empire byzantin, est la seule que nous possédions sur la formation de la collection alchimique. Elle concerne une époque comprise entre Héraclius et le commencement du 11e siècle, date du ms. de Venise ; époque qui comprend celles des compilations de Photius et de Constantin Porphyrogénète (voir _Origines de l'Alchimie_, p. 98). --- Le nom de Théodore est d'ailleurs trop répandu pour qu'on puisse espérer identifier, sans autre indice, le personnage actuel avec quelque byzantin, connu autrement dans l'histoire. Dans les ouvrages de Zosime, on trouve aussi, sous le titre de « _Chapitres à Théodore_, » un résumé des sommaires de divers traités (_Origines de l'Alchimie_, p. 184). Stephanus écrit pareillement à un Théodore (Ideler, t. 2, p. 208), lequel pourrait être notre personnage : il serait alors contemporain d'Héraclius.
+
+---
+
+#### 1. --- 2. Lexique de la Chrysopée par Ordre Alphabétique.*
+
+*) D'après le manuscrit L : Lexique métallique, par ordre alphabétique, des noms de l'art divin et sacré employés dans ce volume sur la matière d'or. --- D'après A E : Lexique métallique de l'art sacré, par ordre alphabétique, renfermant les signes et les noms, écrit pour la première fois en langue grecque, etc. --- Ce qui semblerait indiquer qu'il aurait été traduit d'une autre langue à l'origine ( ? ).
+
+**Α**
+
+**Semence de Vénus**. --- C'est l'efflorescence du cuivre.*
+
+*) Vert de gris et corps analogues (v. _Introd._, p. 232).
+
+**Albatre** ou **Alabastron**. --- C'est la chaux tirée des coquilles d'œufs, le sel des efflorescences,* le sel ammoniac,* le sel commun.
+
+*) Salpêtre, ou sesquicarbonate de soude, ou sulfate de soude, ou même chlorure de sodium  (v. _Nitrum : Introd._, p. 263), suivant les terrains.
+
+*) Ce mot ne désignait pas à l'origine le chlorhydrate d'ammoniaque ; mais, à ce qu'il semble, une variété de natron. Plus tard il a pris son sens actuel (voir _Introd._, p. 237).
+
+**Chaux d'Hermès**. --- C'est la chaux tirée des œufs,* sublimée par le vinaigre, et exposée au soleil ( ? ) ; elle est meilleure que l'or.*
+
+*) Il s'agit ici des œufs philosophiques et d'une préparation mercurielle. --- D'après BAL : « c'est la vapeur des œufs dissoute par le vinaigre, etc. »
+
+*) Les mots « que l'or » sont omis dans plusieurs ms. --- Au lieu de : « exposée au soleil » il faut peut-être lire : « devenue couleur d'or ; » le même signe représentant l'or et le soleil.
+
+**Sel efflorescent**.* --- C'est la mer, la saumure, la mousse du sel.
+
+*) Voir la note 3. de la page précédente.
+
+**Écume d'une espèce quelconque**. --- C'est le liquide mercuriel.
+
+**Liquide argentin**. --- C'est la vapeur sublimée du soufre et du mercure.*
+
+*) M donne le signe du mercure, puis vient cette phrase :
+
+**Asèm**. --- C'est l'_ios_ provenant de la vapeur sublimée.*
+
+*) Asèm, Electrum, alliage d'or et d'argent (voir _Origines de l'Alchimie_, p. 215 ; et _Introd._, p. 62). Divers alliages et amalgames étaient désignés par le même nom : ce qui explique le rôle attribué ici au mercure (αἰθάλη)-Ιὸς que l'on traduit d'ordinaire par rouille, signifie plutôt ici la matière que l'on prépare au moyen de la vapeur sublimée.
+
+**Fleur d'Achaïe**. --- C'est la laccha.*
+
+*) Orcanette.
+
+**Fleur du cuivre**. --- C'est la couperose, la chalcite,* la pyrite, le soufre blanc après traitement.
+
+*) Minerai de cuivre (_Introd._, p. 243).
+
+**Sel**. --- C'est la coquille de l'œuf ; le soufre est le blanc de l'œuf ; la couperose en est le jaune.*
+
+*) Voir _Texte grec_, ou _Traduction_, 1, 3 et 4.
+
+**Androdamas**. --- C'est la pyrite et l'arsenic.*
+
+*) Pyrite arsenicale et sulfures d'arsenic.
+
+**Ce que l'on met a part**. --- C'est le son du blé.
+
+**Vapeur sublimée**. --- C'est l'eau du soufre et du molybdochalque.*
+
+*) BAL. « C'est l'eau de l'étain et du plomb et du cuivre ; » le mercure des philosophes (_Orig. de l'Alchimie_, p. 272 et 279). Le mercure se retire aussi par sublimation de ses amalgames avec les métaux.
+
+**Aphrosélinon** (Écume d'argent). --- C'est la comaris, la coupholithe.*
+
+*) Syn. de talc, ou de sélénite.
+
+**Amphore a vin**. --- C'est un vase de terre cuite.
+
+**Bave**. --- C'est le mercure tiré de l'argent et la pierre scythérite.
+
+**Éjaculation du Serpent**. --- C'est le mercure.*
+
+*) BAL ajoutent : « Extrait du cinabre. »
+
+**Indestructible**. --- Ce qui ne peut être volatilisé.
+
+**Pierre d'Aigle**. --- C'est la chrysolithe, le porphyre, la pierre pourprée de Macédoine et la pierre polychrome.
+
+**Incombustibilité**. --- C'est le blanchiment.
+
+**Cuivre couvert d'ombre** (ou **obscurci**). --- C'est la fleur du cuivre.
+
+**Changement de nature**. --- C'est la teinture.*
+
+*) Dans L, les articles précédents sont confondus, par suite de quelque erreur de copiste.
+
+**Saumure**. --- C'est la chrysocolle.
+
+**Argyrolithe** (Pierre d'argent). --- C'est la sélénite.
+
+**Tout mercure**. --- Se dit du mercure composé avec les trois soufres apyres.
+
+**Natif** (produit). --- Se dit de ce qui est pur et non souillé. C'est, à proprement parler, ce qui est intact, non obscurci et brillant comme la fleur de l'or.
+
+**Β**
+
+**Renoncule**. --- C'est la chrysocolle et la chrysoprase (aigue-marine).
+
+**Bol** (ou masse pilulaire). --- C'est le soufre cru.
+
+**Bostrychite**. --- C'est la pyrite, la pierre étésienne, la chrysolithe.
+
+**Pierre de touche**. --- C'est la pierre du mortier.
+
+**Teinture** (ou trempe). --- C'est le changement de nature.
+
+**Toutes plantes jaunes**. --- Ce sont les chrysolithes.
+
+**Orge**. --- C'est le germe* de la bière.
+
+*) Orge germée.
+
+**Γ**
+
+**Lait de la vache noire**. --- C'est le mercure extrait du soufre.*
+
+*) C'est-à-dire du sulfure noir de mercure.
+
+**Terre** (dite) **astérite**. --- C'est la pyrite, la terre de Chio, la litharge, le soufre blanc, l'alun, la cadmie blanche, le mastic.*
+
+*) Résine naturelle.
+
+**Terre d'Égypte**. --- C'est la terre à poterie.
+
+**Terre de Samos**. --- C'est l'arsenic et le soufre blanc.
+
+**Lait de tout animal**. --- C'est le soufre.
+
+**Gypse**. --- C'est le mercure solidifié.
+
+**Δ**
+
+**Rosée**. --- C'est le mercure extrait de l'arsenic.*
+
+*) C'est-à-dire l'arsenic sublimé, regardé comme un second mercure, à cause de sa volatilité et de son action sur le cuivre (_Introd._, p. 99 et 239).
+
+**Litière**. --- C'est l'eau du mercure.
+
+**Bile du serpent**. --- C'est le mercure extrait de l'étain (ou du cinabre ; addition de BAL).
+
+**Ε**
+
+**Helcysma**. --- C'est le plomb brûlé.*
+
+*) Pline, _H. N._, l. 33, 35. _Scoriam in argento Græci vocant helcysma_. --- Dioscoride, _Mat. méd._, l. 5, 101, dit aussi : « La scorie d'argent s'appelle helcysma ou encauma. » Ce serait donc une variété de litharge.
+
+**Encéphale**. --- C'est la chaux des coquilles des œufs.
+
+**Décoction**. --- C'est la dispersion, le délaiement, le grillage.
+
+**Adjonction**. --- C'est l'agglomération attractive.
+
+**Huile**. --- Répond aux fleurs* des teintures.
+
+*) Couleur, _flos_.
+
+**Pulvérisation complète**. --- C'est le blanchiment, la mutation, la réduction en mercure (des espèces BAL).
+
+**Raffinage**. --- C'est l'extraction au moyen des liquides, c'est-à-dire la transmutation.
+
+**Pierre étésienne**. --- C'est la chrysolithe.
+
+**Ζ**
+
+**Petit levain**. --- C'est le soufre.
+
+**Levain**. --- C'est la combinaison des corps métalliques avec la vapeur sublimée de l'échoménion* et avec la fleur du carthame.*
+
+*) Basilic ? --- Voir plus loin.
+
+*) Cet article est tiré de L. σώματα signifie les métaux réduits de leurs minerais.
+
+**Liqueur tinctoriale**. --- C'est la couperose traitée suivant les règles (de l'Art., AL.)
+
+**Η**
+
+**Demi-corps**. --- Ce sont les vapeurs sublimées.*
+
+*) Cette expression rappelle les demi-métaux des auteurs du 18e siècle.
 
 ...
