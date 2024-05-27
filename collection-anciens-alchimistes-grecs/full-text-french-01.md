@@ -9393,4 +9393,92 @@ L'indication de ce nom, qui se rapporte à un haut fonctionnaire de l'empire byz
 
 *) Cette expression rappelle les demi-métaux des auteurs du 18e siècle.
 
+**Échoménion**.* --- C'est la fleur de carthame.
+
+*) Ce mot ne se trouve nulle part ailleurs que chez les alchimistes. --- Serait-ce pour Ωκυμένιον : Basilic ? Le Basilic, plante et animal, joue un grand rôle dans les sciences occultes du moyen âge. Il était assimilé au Serpent qui se mord la queue, à la Salamandre, au Phénix, etc. (_Bibl. Chem._ de Manget, t. 1, p. 106 et 706).
+
+**Électrum**. --- C'est la poudre (de projection) parfaite.
+
+**Chevelure du Soleil**. --- C'est le soufre extrait de l'or.
+
+**Disque solaire**. --- C'est le mercure extrait de l'or.
+
+**Θ**
+
+**Soufre blanc**. --- C'est la vapeur sublimée du mercure, fixée avec la composition blanche.
+
+**Soufre blanc**. --- C'est la pierre chrysétésienne, l'hématite.
+
+**Soufre non brulé**. --- C'est la vapeur sublimée et le mercure.
+
+**Soufre liquide** (ou fusible). --- Ce sont les deux antimoines et la litharge.
+
+**Eau de soufre**.* --- Ce sont les blancs d'œufs coagulés ( ? ) et le marbre travaillé.
+
+*) Eau de soufre ou eau divine partout : le mot grec étant le même. Les mêmes signes désignent quelquefois l'eau de plomb. --- Les articles relatifs au soufre offrent de nombreuses variantes et interversions dans les manuscrits. --- On voit par les textes du Lexique que le sens des mots soufre, eau de soufre, etc., était singulièrement flottant.
+
+**Rameaux des palmiers**. --- C'est le soufre blanc.
+
+**Soufre non calciné**. --- L'eau mêlée et blanchie, extraite de l'arsenic et de la sandaraque.*
+
+*) Au-dessus du mot arsenic, on lit son signe ouvert à droite dans M ; au-dessus du mot sandaraque le signe de l'arsenic est retourné et ouvert vers la gauche (ce qui rappelle le signe du mercure opposé à celui de l'argent). Cet article est confondu dans M avec la fin de la ligne 7 (texte grec).
+
+**Soufre natif**. --- C'est le safran tiré des liqueurs.
+
+**Eau de soufre**. --- Celle qu'on tire du plomb.*
+
+*) Rappelons que le même signe exprimait le plomb et le soufre.
+
+**Eau de soufre**. --- C'est celle que l'on extrait par dissolution de la chaux et de l'albâtre.
+
+**Soufre en suspension**.* --- C'est une eau.
+
+*) Cela se rapporte-t-il à l'extrait de Saturne, précipité formé dans l'eau ordinaire par les sels de plomb basiques ?
+
+**Corps sulfureux**. --- Ce sont les minerais métalliques.
+
+**Eau de soufre**. --- C'est la décoction du plomb.*
+
+*) Même sens que plus haut.
+
+**Eau de soufre** (pour le jaunissement, tirée de la sandaraque).* --- C'est le vin aminéen, extrait de la chélidoine.
+
+*) D'après B A. --- Il s'agit de l'acide arsénieux impur, obtenu par le grillage du réalgar.
+
+**Soufre lamelleux**. --- C'est l'arsenic (orpiment).
+
+**Deux soufres** : ce ne sont pas des compositions ; ils accomplissent l'œuvre divine.
+
+**Le Marbre thébaïque**. --- C'est la chaux des œufs ; il est (appelé) aussi titanos ; alun lamelleux --- celui de Mélos est le soufre apyre.
+
+**L'Eau de soufre**. --- C'est notre vinaigre.
+
+**Soufre blanc**. --- C'est le plomb après traitement.
+
+**Soufre**. --- C'est le cuivre après traitement.
+
+**Ι**
+
+**Ios raclé**.* --- C'est la vapeur sublimée et la chrysocolle (soudure d'or).
+
+*) Ios a un sens complexe : c'est la rouille des métaux ; c'est la pointe de la flèche ; c'est le venin, c'est-à-dire le principe actif, l'extrait doué de propriétés spécifiques, et, par extension, le principe de la coloration et la propriété spécifique elle-même, etc. (_Introd._, p. 254).
+
+**Ios**. --- C'est le jaunissement ; l'eau de soufre natif ; le comaris de Scythie ; le pastel de l'Inde ; la renoncule ; la chrysoprase ; la chrysocolle.
+
+**Pierre sacrée**. --- C'est la chrysolithe.
+
+**Pierre sacrée**. --- C'est le mystère caché (A E).
+
+**Κ**
+
+(**Substance**) **brulée de Coptos**. --- C'est la lie, l'écume de l'argent.
+
+**Fiente de l'or et Minerai d'or, chrysammos**. --- C'est la chrysolithe (pierre d'or).
+
+**Étain**. --- C'est le cinabre.
+
+**Eau de Calaïs**. --- C'est l'eau de chaux.
+
+*) Ce mot se trouve appliqué au cuivre dans la _Diplosis_ de Moïse : il semble que ce soit un nom de lieu.
+
 ...
