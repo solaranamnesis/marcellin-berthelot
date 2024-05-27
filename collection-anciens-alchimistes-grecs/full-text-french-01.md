@@ -9481,4 +9481,126 @@ L'indication de ce nom, qui se rapporte à un haut fonctionnaire de l'empire byz
 
 *) Ce mot se trouve appliqué au cuivre dans la _Diplosis_ de Moïse : il semble que ce soit un nom de lieu.
 
+**Cinabre**. --- C'est la vapeur sublimée, obtenue par cuisson dans les marmites.*
+
+*) C'est-à-dire le mercure sublimé (v. Dioscoride, l. 5, 110), ou son sulfuré.
+
+**Cnouphion**.* --- C'est le chapiteau (de l'alambic).
+
+*) Tiré du nom du dieu Cnouphi (voir _Origines de l'Alchimie_, p. 31).
+
+**Fumée des cobathia**. --- Ce sont les vapeurs de l'arsenic (sulfuré).*
+
+*) Rulandus (_Lex. Alch._, p. 158) traduit ce mot par _Kobolt_ ; c'est toujours un composé arsenical (v. _Introd._, p. 245).
+
+**Colle attique**. --- C'est la larme de l'amande.*
+
+*) Le lait fait avec la pâte d'amandes.
+
+**Gomme**. --- C'est le jaune (d'œuf).
+
+**Claudianos**. --- C'est la chaux des œufs, le peuplier noir et le cassia.*
+
+*) Voir _Introd._, p. 244.
+
+**Comaris de Scythie**. --- C'est le soufre et l'arsenic, avec tous ses noms.
+
+**Cadmie**. --- C'est la magnésie.
+
+**Huile de ricin**. --- C'est celle que l'on extrait des figuiers sauvages ; car beaucoup la préparent ainsi.
+
+**Cire solide**. --- Signifie les corps (métalliques) solides.*
+
+*) C'est-à-dire les métaux fusibles ou les amalgames, se solidifiant à la façon de la cire.
+
+**Substance brulée**. --- C'est la substance blanchie.*
+
+*) Par exemple, le zinc, le plomb, l'antimoine, etc., changés en oxydes blancs par le grillage.
+
+**Roseau**. --- C'est le soufre.
+
+**Comaris**. --- C'est l'arsenic.
+
+**Sang de moucheron**.* --- C'est l'eau d'alabastron après traitement.
+
+*) Voir la nomenclature prophétique, dans l'_Introduction_, p. 10 à 12.
+
+**Λ**
+
+**Cuivre d'oseille**.* --- C'est le vinaigre.
+
+*) C'est-à-dire le verdet, acétate de cuivre basique et analogues (v. _Introd._, p. 232).
+
+**Pierre de Dionysios**. --- C'est la chaux.
+
+**Pierre blanche** (leucolithe). --- C'est la pyrite.
+
+**Pierre qui n'est pas une pierre**. --- C'est la chaux et la vapeur sublimée, délayée avec du vinaigre.
+
+**Pierre phrygienne**.* --- C'est l'alun.
+
+*) V. Dioscoride, _Mat. méd._, l. 5, 140. --- Pline, _H. N._, l. 36, 36 ; sorte d'alunite, employée par les teinturiers (v. _Introd._, p. 48).
+
+**Écailles des cobathia**. --- Ce sont les (matières) sulfureuses, et surtout l'arsenic.
+
+**Orcanette**. --- C'est la fleur d'Achaïe.*
+
+*) Je corrige ici le texte en admettant λακχὰ Ἀχαίας. --- (_Orig. de l'Alchimie_, p. 359, 361).
+
+**Litharge blanche**. --- C'est la céruse.
+
+**Cuivre blanc**. --- C'est l'eau de soufre apyre.
+
+**Teinture blanche**. --- C'est ce qui teint profondément et qui ne suinte pas.
+
+**Pierre phrygienne**. --- C'est l'alun et le soufre.*
+
+*) Répétition de l'un des articles précédents. Ceci montre que le lexique de M résulte de la réunion de plusieurs listes plus anciennes.
+
+**Blanc brillant**. --- C'est ce qui pénètre profondément.
+
+**Μ**
+
+**Plomb**. --- C'est le semblable de la céruse.
+
+**Magnésie**. --- C'est le plomb blanc et la pyrite.*
+
+*) V. plus haut : _Cadmie_, au K. --- On voit, que le mot magnésie a plusieurs sens. Il s'applique aussi à l'oxyde de fer magnétique, à la pyrite et au sulfure d'antimoine (v. _Introd._, p. 255).
+
+**Magnésie**. --- C'est le vinaigre non adouci, et l'extraction.
+
+**Magnésie**. --- C'est l'antimoine femelle* de Chalcédoine.
+
+*) B A L : de Macédoine (v. Dioscoride, _Mat. méd._, l. 5, 99.) --- Pline, (_H. N._, 33), distingue l'antimoine femelle, qui est lamelleux et brillant ; c'est notre sulfure d'antimoine natif.
+
+**Emolliens** (ou amalgames). --- C'est toute matière jaune et amenée à perfection.*
+
+*) L : « c'est tout mélange accompli. »
+
+**Nature une**. --- C'est le soufre et le mercure, après traitement différent.
+
+**Noir indien**. --- Est fait d'isatis et de chrysolithe.
+
+**Minium de montagne**. --- C'est le misy jaune, avec celui qui coule tout seul.*
+
+*) Ici il s'agit d'un oxyde de fer analogue à la sanguine, dérivé du misy qui coule tout seul ; c'est-à-dire de la pyrite en décomposition (v. _Introd._, p. 242).
+
+**Miel attique et Plomb**. --- C'est l'eau divine.*
+
+*) Ceci semble faire allusion à la saveur sucrée des sels de plomb.
+
+**Notre Plomb**. --- C'est celui qui se prépare avec les deux antimoines* et avec la litharge.
+
+*) Mâle et femelle : variétés de notre sulfure. En outre, on voit que le régule d'antimoine était confondu avec le plomb (v. _Introd._, p. 224 et 238).
+
+**Molybdochalque**. --- C'est la soudure d'or.
+
+**Mystère de toute pierre métallique**. --- C'est la pyrite.
+
+**Grande plante**. --- C'est l'orge.
+
+**Nuage noir**. --- C'est la vapeur sublimée et la pierre d'or.
+
+**Ν**
+
 ...
