@@ -9952,4 +9952,114 @@ Voici ce que les anciens disent sur l'œuf* :
 
 *) Toute cette fin n'existe pas dans M. Le § 11 rappelle le langage amphigourique et de plus en plus vague, des alchimistes arabes et de ceux du moyen âge occidental.
 
+12\. Quant à toi, aie ceci dans l'esprit : la nature se réjouit de la nature ; la nature maîtrise la nature ; la nature triomphe de la nature. C'est elle qui, mélangée d'en haut, accomplit le mystère cherché et tiré d'un seul (corps). --- Ces phrases signifient que les sulfureux sont maitrisés par les sulfureux, les humides par les humides correspondants. --- Si les corps ne perdent pas l'état corporel et si les corps ne reprennent pas l'état corporel,* ce qui est attendu ne se réalisera pas.
+
+*) C'est-à-dire : si les métaux ne disparaissent pas par oxydation ou métamorphose chimique, et s'ils ne reparaissent pas à l'état métallique. Le § 12 est formé de citations des plus vieux auteurs.
+
+13\. Il y a deux* compositions opérées par les corps métalliques et par les eaux divines et les plantes ; elles transmutent la matière, celle que tu trouveras en poursuivant la chose cherchée. Si deux ne deviennent pas un, et trois un, et toute la composition une, le but cherché ne sera pas atteint.
+
+*) Variantes de AE. « Telles sont les eaux divines, parmi lesquelles je comprends celles qui sont tirées des natures molles, aussi bien que des métaux. Si tu es intelligent, il y a deux compositions, etc. »
+
+**Fin de l'Œuf**
+
+---
+
+#### 1. --- 4. Nomenclature de l'Œuf.*
+
+*) L'article 4 est une variante de 3. J'ai reproduit dans l'Introduction (p. 215), un autre article analogue, attribué à Justinien et tiré du Codex Voss. de Leide. Il en existe encore un autre dans les ouvrages de l'Anonyme, qui seront donnés dans la troisième livraison.
+
+_Nomenclature de l'Œuf_ : c'est le mystère de l'art.
+
+1\. On a dit que l'œuf est composé de quatre éléments, parce qu'il est l'image du monde et qu'il renferme en lui-même les quatre éléments. On l'a nommé aussi « pierre que fait tourner la lune, » pierre qui n'est pas pierre, pierre d'aigle et cerveau d'albâtre.*
+
+*) L'albâtre est la chaux tirée des coquilles d'œuf : (v. _Lexique alchimique_, p. 4). La coquille entoure l'œuf comme le crâne entoure le cerveau ; de là ce symbolisme bizarre.
+
+2\. La coquille de l'œuf est un élément semblable à la terre, froid et sec ; on l'a nommée cuivre, fer, étain, plomb.*
+
+*) Ce sont les quatre métaux imparfaits, qui servent à la transmutation et à la composition de l'or et de l'argent.
+
+Le blanc d'œuf est l'eau divine ; le jaune d'œuf est la couperose ; la partie huileuse est le feu.
+
+3\. On a nommé l'œuf la semence, et sa coquille, la peau ; son blanc et son jaune, la chair ; sa partie huileuse, l'âme ; sa partie aqueuse, le souffle ou l'air.
+
+4\. La coquille de l'œuf, c'est ce qui élève ces choses hors du fumier* pendant dix jours. Délayez-la, avec l'aide de Dieu, dans du vinaigre ; plus vous la broyez, plus vous faites œuvre utile. Lorsque vous aurez battu la composition pendant huit jours, vous ferez fermenter ; et vous préparerez la poudre sèche. Lorsque vous aurez accompli ce travail, jetez-y du mercure, et si vous n'obtenez pas la teinture du premier coup, répétez une seconde et une troisième fois.
+
+*) Dans le bain-marie, chauffé au moyen du fumier. Il y a là la description sommaire d'un procédé pratique, laquelle contraste avec le style vague des autres paragraphes. Le § 4 semble une intercalation.
+
+5\. On a nommé d'abord le jaune de l'œuf : ocre attique, vermillon du Pont, natron d'Égypte, bleu d'Arménie,* safran de Cilicie, chélidoine ; le blanc de l'œuf délayé avec l'eau de soufre est le vinaigre, l'eau d'alun, l'eau de chaux, l'eau de cendres de chou, etc.
+
+*) Dans l'article précédent, ces mots signifient deux bleus distincts, comme dans Dioscoride, _Mat. méd._, l. 5, 105 et 106. --- Ce sont des minerais de cuivre analogues à l'azurite (_Introd._, p. 243).
+
+---
+
+#### 1. --- 5. Le Serpent Ouroboros.
+
+1\. Voici le mystère : Le serpent Ouroboros (mordant sa queue), c'est la composition qui dans son ensemble est dévorée et fondue, dissoute et transformée par la fermentation. Elle devient d'un vert foncé, et la couleur d'or en dérive. C'est d'elle que dérive le rouge appelé couleur de cinabre : c'est le cinabre des philosophes.*
+
+*) Le mot σήψις est plus général, et signifie toute décomposition analogue à une fermentation, ou à une putréfaction.
+
+*) Il est difficile de savoir exactement à quels phénomènes chimiques ces formules mystiques font allusion. On pourrait y voir une allusion à la décomposition des pyrites, fournissant des sels basiques de cuivre verts, tels que la chrysocolle (_Introd._, p. 243) ; puis le misy et le sory, sels basiques de fer et de cuivre, jaunes (_Introd._, p. 242), et l'oxyde de fer rouge (_Introd._, p. 261). Cette décomposition préoccupait beaucoup les alchimistes grecs.
+
+2\. Son ventre et son dos sont couleur de safran ; sa tête est d'un vert foncé ; ses quatre pieds constituent la tétrasomie* ; ses trois oreilles sont les trois vapeurs sublimées.
+
+*) Les quatre métaux imparfaits : Plomb, Cuivre, Étain, Fer, exprimés en un seul mot.
+
+3\. L'Un fournit à l'Autre son sang* ; et l'Un engendre l'Autre. La nature réjouit la nature ; la nature charme la nature ; la nature triomphe de la nature ; et la nature maîtrise la nature* ; et cela non pas pour telle (nature) opposée à telle autre, mais pour une seule et même nature,* (procédant) d'elle-même par le procédé (chimique), avec peine et grand effort.
+
+*) Ou bien selon une autre version : l'Un fait naître l'Autre.
+
+*) Ce sont les axiomes du Pseudo-Démocrite.
+
+*) S'agit-il ici de la transmutation opérée sur un métal unique ; et non sur un alliage ? --- Voir 1, 15 : Assemblée des Philosophes, et la citation du traité _De Mineralibus_ (d'Albert le Grand livre 3, ch. 8), faite dans la _Bibl. Chem._ de Manget, t. 1, p. 934.
+
+4\. Or toi, mon ami très cher, applique ton intelligence sur ces matières et tu ne tomberas pas dans l'erreur ; mais travaille sérieusement et sans négligence, jusqu'à ce que tu aies vu le terme (de ta recherche).
+
+5\. Un serpent est étendu, gardant ce temple (et) celui qui l'a dompté ; commence par le sacrifier, puis écorche-le, et après avoir pris sa chair jusqu'aux os, fais en un marchepied à l'entrée du temple ; monte dessus et tu trouveras là l'objet cherché. Car le prêtre, d'abord homme de cuivre, a changé de couleur et de nature et il est devenu un homme d'argent ; peu de jours après, situ veux, tu le trouveras changé en un homme d'or.*
+
+*) _Origines de l'Alchimie_, p. 60. Zosime a reproduit cet exposé avec plus de développement ; ce qui montre que c'étaient là de vieilles formules, exprimant la transmutation des métaux. On pourrait imiter ces changements par des précipitations galvaniques successives : mais rien ne prouve l'identité des opérations anciennes avec celles là.
+
+---
+
+#### 1. --- 6. Le Serpent.
+
+1\. Voici le mystère : le serpent Ouroboros, c'est-à-dire la dissolution des corps effectuée par son opération.
+
+2\. Les lumières* des mystères de l'art, c'est la teinture en jaune.
+
+*) L'auteur joue sur le mot φῶτα, qui signifie aussi les feux des fourneaux sur lequel on exécute les opérations.
+
+3\. Le vert du serpent, c'est l'_iosis_, c'est-à-dire sa fermentation ; ses quatre pieds, c'est la tétrasomie employée dans la formule de l'art ; ses trois oreilles, ce sont les trois vapeurs et les douze formules ; son _ios_,* c'est le vinaigre.
+
+*) Venin, ou rouille, ou propriété spécifique active (v. _Introd._, p. 254).
+
+4\. Or toi, mon ami très cher, applique ton intelligence sur ces matières.
+
+5\. Un serpent est étendu, gardant le temple (et) celui qui l'a dompté. (La _suite comme au_ § précédent.)
+
+---
+
+#### 1. --- 7. Instrument d'Hermès Trismégiste.*
+
+*) Voir _Introd._, p. 86 : _les médecins astrologues_.
+
+1\. Pour l'amour de l'art, exposons la (méthode) indiquée par Hermès. Il conseille de compter depuis le lever du Chien,* c'est-à-dire depuis Epiphi, 25 juillet, jusqu'au jour où le malade est alité, et de diviser le nombre ainsi obtenu par 36. Maintenant, voyez le reste dans le tableau ci-dessous.
+
+*) Sirius.
+
+2\. La lettre Ζ (ζωή) désigne la vie ; Θ, (θάνατος) la mort ; Κ, (κίνδυνος) le danger.*
+
+*) Ces lettres sont prises en même temps pour leurs valeurs numériques dans le tableau : Ζ signifiant 7 ; Θ, 9 ; Κ est pris pour 11 (au lieu de 20). Le signe du nombre 35 dans le grec est également erroné.
+
+[]()
+
+---
+
+#### 1. --- 8. Liste Planétaire des Métaux.*
+
+*) Cp. _Origines de l'Alchimie_, p. 232 et suivantes. --- Les signes des planètes sont en marge des manuscrits, à côté du nom du métal. --- Voir _Introd._, p. 79, 206 et les notes du _Texte grec_.
+
+**Les Minéraux** *
+
+*) Consacrés à chaque planète, R. voir la note du _Texte grec_.
+
 ...
