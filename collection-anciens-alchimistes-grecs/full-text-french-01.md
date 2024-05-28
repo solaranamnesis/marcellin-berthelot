@@ -9603,4 +9603,311 @@ L'indication de ce nom, qui se rapporte à un haut fonctionnaire de l'empire byz
 
 **Ν**
 
+**Nuage**. --- C'est la vapeur sublimée du soufre.
+
+**Raclure de la pierre de Naxos**. --- C'est la matière à aiguiser des barbiers.*
+
+*) Dioscoride, _Mat. méd._, l. 5, 167.
+
+**Natron**. --- C'est le soufre blanc qui zend le cuivre sans ombre.* La (même substance) se nomme aphronitron* et terre résineuse (ou fluidifiante).
+
+*) Parfaitement brillant. Il s'agit d'un fondant employé dans la réduction du cuivre oxydé ou sulfuré.
+
+*) Il semble qu'il s'agisse ici de notre salpêtre.
+
+**Nuée**. --- C'est l'obscurité des eaux, la vapeur sublimée, l'humidité vaporisée, le précipité qui reste en suspension ( ? ).
+
+**Ξ**
+
+**Vapeur jaune sublimée du cinabre**. --- C'est la vapeur sublimée des substances sulfureuses et l'argent liquide.
+
+**Préparation jaune**. --- C'est le minerai de fer, traité par l'urine (et) le soufre [c'est aussi la cadmie, B A L].
+
+**Ο**
+
+**Coquillage et os de seiche**. --- C'est la chaux des œufs.
+
+**Suc de calpasos**. --- C'est la sève de cette plante.
+
+**Axonge de porc**. --- C'est le soufre non brûlé.
+
+**Vinaigre commun**.* --- C'est celui qu'on obtient par la litharge et par la lie.
+
+*) Cette définition semble signifier l'acétate de plomb. Mais le mot vinaigre avait chez les alchimistes un sens beaucoup plus compréhensif. Il désignait tous les liquides à saveur piquante, tels que :  
+1° Les liquides acides, assimilés à notre vinaigre ;  
+2° Certaines liqueurs alcalines, à saveur piquante, comme le montre l'assimilation de ce mot avec l'urine altérée ;  
+3° Diverses solutions métalliques, acides ou astringentes, à base de plomb, de cuivre, de zinc, de fer, etc.
+
+**Suc de tous arbres et de toutes plantes**. --- C'est l'eau divine* et le mercure.*
+
+*) On voit que le nom d'Eau divine désignait, non seulement les solutions de sulfures alcalins (_Introd._, p. 69), mais aussi tout suc végétal actif.
+
+*) Le mot mercure désigne ici toute liqueur renfermant un principe actif essentiel.
+
+**Ce que tu sais**. --- C'est l'alun.
+
+**Cuisson**. --- C'est la décoction et le jaunissement.
+
+**Osiris**. --- C'est le plomb et le soufre.
+
+**Vase cylindrique**. --- C'est (le mortier L et) le pilon.
+
+**Π**
+
+**Pompholyx**.* --- C'est la fumée de l'asèm.
+
+*) Oxyde de zinc sublimé, et mêlé d'oxyde de cuivre, de plomb, d'antimoine, d'arsenic, etc. (_Introd._, p. 240).
+
+**Fixez**. --- Au Lieu de « renforcez.* »
+
+*) Fixer un métal, c'était lui ôter sa volatilité, sa fluidité, etc. (_Introd._, p. 252).
+
+**Ce que s'évapore au feu**. --- C'est la vapeur sublimée du soufre.
+
+**Pyrite**. --- C'est le sory et la magnésie (et la pierre blanche, A).
+
+**Miel complet**. --- C'est l'eau de soufre.*
+
+*) V. plus haut le miel attique. Allusion au goût sucré des sels de plomb ?
+
+**Teinture** (**Pinos**). --- C'est ce qui teint à l'extérieur.*
+
+*) Πίνος opposé à Βαφή.
+
+**Fixations**. --- Ce sont les opérations chimiques utiles.
+
+**Polychrome**. --- C'est la couleur de pourpre.
+
+**Porphyre**. --- C'est la pierre étésienne et l'androdamas.
+
+**Dissolvant universel**. --- C'est la vapeur sublimée qui émane de toutes choses, c'est-à-dire l'eau native.
+
+**Feuilles qui entourent la couronne**. --- Ce sont la pyrite et la magnésie.
+
+« **Ayant aigri préalablement**. » --- C'est : « ayant baigné dans le vinaigre. »
+
+« **Ayant aigri fortement**. » --- C'est : « ayant passé au feu. »
+
+« **Ayant été torréfiée au soleil.  » --- Cela se fait en 6 jours.
+
+**Limon de Vulcain**. --- C'est l'orge.*
+
+*) Souvenir de la nomenclature prophétique (_Introd._, p. 10).
+
+**Ρ**
+
+**Purifiant**. --- C'est le natron jaune* et l'aphronitron.
+
+*) _Nitrum flavum_ de Pline, _H. N._, l. 31, 46. Il en est aussi question dans le Papyrus de Leide (_Introd._, p. 39).
+
+**Rephecla**.* --- C'est le cyclamen.
+
+*) Mot inconnu.
+
+**Limaille d'or**. --- C'est la soudure d'or.
+
+**Σ**
+
+**Nénuphars desséchés**. --- Ce sont ceux qu'on tire des cours d'eau d'Egypte.
+
+**Lie**. --- C'est la sélénite et l'alun lamelleux.
+
+**Sandyx**.* --- C'est l'or.
+
+*) Couleur rouge (v. _Introd._, p. 260). Pline, _H. N._, l. 35, 23. --- Diosc. l. 7 5, 103, vers la fin. --- Minium préparé en calcinant la céruse. --- Rappelons que l'écarlate figurait au moyen âge, et figure encore l'or dans le blason.
+
+**Alun**. --- C'est le soufre blanc et le cuivre sans ombre.
+
+**Sandaraque**. --- C'est le mercure extrait du cinabre.
+
+**Les (quatre) Corps métalliques**. --- Ce sont le cuivre, le plomb, l'étain et le fer. On en extrait le stibium en coquille.
+
+**Corps intervenant dans la combinaison**. --- On les appelle caméléon : ce qui signifie les quatre métaux imparfaits.
+
+**Stibium**. --- C'est le coquillage ou la coquille.*
+
+*) Voir _Introd._, p. 67.
+
+**Mutation et Régénération**. --- C'est la calcination et le blanchiment.
+
+**Éponge marine**. --- C'est la cadmie, la chrysolithe, la pierre sacrée, le mystère caché, la cendre de la paille, l'émeraude, l'émeril.
+
+**Fer**. --- C'est le tégument de l'œuf.
+
+**Τ**
+
+**Titanos**. --- C'est la chaux de l'œuf.
+
+**Nom propre de la composition liquide**. --- C'est l'eau divine, tirée de la saumure, du vinaigre et des autres matières.
+
+**Nom propre de la composition solide**. --- Ce sont les quatre corps, appelés : le claudianos, le plomb, la pyrite, le mercure.
+
+**Υ**
+
+**Mercure**, fixé au moyen des vapeurs sublimées : blanchit le cuivre et fait l'or.
+
+**Eau scythique**. --- C'est le mercure.*
+
+*) Variante : la sandaraque BAL. --- Il s'agit de l'arsenic métallique sublimé, regardé comme un second mercure. _Introd._ p. 289.
+
+**Eau divine native**. --- C'est le mercure fixé avec les sels.
+
+**Eau de Carthame**. --- C'est l'eau native du soufre.
+
+**Eau lunaire**. --- Eau de cuivre [eau de sel, L], eau ignée, eau de verre, eau d'argent, eau de sandaraque, eau d'arsenic, eau de fleuve ; c'est le nuage. A].
+
+**Eau Fluviale, Eau de Plomb**. --- C'est le soufre et le mercure.*
+
+*) Il y a diverses variantes et interversions dans les articles précédents, suivant les manuscrits.
+
+**Hyssope**. --- C'est le lavage des laines en suint.
+
+**Eau de mercure tinctoriale**.* --- C'est le mercure extrait du cinabre.
+
+*) De la teinture blanche, L.
+
+**Eau de Vénus, de Lune, d'Argent, de Mercure, et eau Fluviale**. --- C'est l'eau divine et le mercure.*
+
+*) Répétition de l'un des articles précédents. Variantes diverses.
+
+**Eau de soufre natif**. --- C'est la composition blanche qui disparaît.
+
+**Eau simple**. --- C'est celle que l'on fabrique avec les trois composés sulfurés, au moyen de la chaux.
+
+**Eau (extraite) de l'Asèm**.* --- Elle est dite écume, rosée, aphroselinon liquide.
+
+*) De l'argent, L, au lieu de l'asèm ; ce qui indique que le texte de L est plus moderne.
+
+**Eau divine tirée du mercure**. --- Elle est appelée,* d'après Pétasius, bile de serpent.
+
+*) Le nuage est dit : eau élevée par distillation, bile de serpent. B. Le mot bile de serpent répond à la nomenclature prophétique (_Introd._, p. 10 à 12). Pétasius ou Petesis, seul auteur cité dans le Lexique, est un nom égyptien, cité aussi par Dioscoride ; il désigne un vieux maître alchimique (_Origines de l'Alchimie_, pages 128, 158, 168, etc. --- _Introd._, p. 11 et 68).
+
+**Eau divine fixée par les transmutations**. --- C'est le mercure (que l'on extrait) du cinabre, c'est-à-dire la tétrasomie.*
+
+*) Réunion des quatre métaux imparfaits.
+
+**Φ**
+
+**Lie**. --- C'est le dépôt du vin, la chaux avantageuse pour les pourpres.*
+
+*) Il s'agit de la crème de tartre, employée pour fixer les matières colorantes sur les étoffes.
+
+**Algue**.* --- C'est la teinture extérieure et brillante.
+
+*) Orseille.
+
+**Préparation**. --- C'est la vapeur sublimée, composée au moyen du traitement.
+
+« **Fais griller**. » --- C'est-à-dire « Fais cuire ou jaunis. »
+
+**(Teinture) que (ne) passe (pas)**. --- C'est la véritable ( ? ).
+
+**Scorie des lentilles**. --- C'est la couperose.
+
+**Χ**
+
+**Scorie du cuivre**. --- C'est la couperose.
+
+**Or**. --- C'est la pyrite, la cadmie et le soufre.*
+
+*) Voir _Introd._, p. 206, et les deux autres définitions de l'or données plus loin.
+
+**Chalkydrion**. --- C'est l'or fabriqué et rouillé par les manipulations de fixation, faites au moyen du soufre.
+
+**Chrysitis**.* --- C'est la composition tirée des vapeurs sublimées.
+
+*) Litharge couleur d'or, dans Pline et dans Dioscoride, _Mat. méd._, l. 5, 102. Peut-être s'agit-il dans le Lexique de l'oxyde de mercure.
+
+**Cuivre médical**. --- C'est le métal blanchi, le soufre et la céruse.
+
+**Sueurs du cuivre**. --- C'est le jus de camomille.
+
+**Chrysocolle et Eau de cuivre**. --- C'est le molybdochalque.*
+
+*) Variantes de L. « Le corail d'or et l'eau de chrysochalque, c'est le plomb et le cuivre. » Cette variante semble résulter d'une interprétation différente des mêmes signes.
+
+**Liqueur d'or, Chélidoine, Coquille d'or, Ios sans ombre**. --- C'est le soufre blanc [ou bien le mercure fixé avec la composition blanche. A L].
+
+**Couperose**. --- C'est le jaune de l'œuf.
+
+**Pierre chrysétésienne**. --- C'est l'hématite.
+
+**Chalcopyrite fulgurante**.* --- C'est l'eau de soufre* ; c'est le soufre tiré du mercure (L).
+
+*) A cause de sa couleur : Pyrite cuivreuse.
+
+*) C'est le soufre, l'eau de mercure, BA.
+
+**Or**.* --- Ce sont tous les fragments et les lamelles jaunis* et amenés à perfection.*
+
+*) Cette définition est caractéristique et conforme aux procédés de teinture en or du Papyrus de Leide. (_Introd._, p. 20.)
+
+*) D'après BAL. Dans M ce sont les minerais, μεταλλά, au lieu des feuilles, πέταλα.
+
+*) Et atténués, AL.
+
+**Limaille d'or, Soudure d'or, Fleur d'or, Liqueur d'or**. --- C'est la chrysitis, la coquille d'or, l'ios, le soufre et le mercure.
+
+**Cuivre**. --- C'est la coquille des œufs.
+
+**Or cuit**. --- Ce sont les vapeurs sublimées jaunes.
+
+**Chalkydrion, Argent liquide, Bile de tout animal**. --- C'est l'ios parfait, le soufre, le cuivre, l'électrum, lorsque leur éclat devient accompli et tourne au jaune et qu'ils se fixent ; c'est le mercure (extrait) du cinabre.
+
+**Chélidoine**. --- C'est l'élydrion.
+
+**On appelle Or** : Le blanc, le sec, le jaune et les (matières) dorées, à l'aide desquelles on fabrique les teintures stables.*
+
+*) Cette définition est caractéristique et conforme aux procédés de teinture en or du Papyrus de Leide. (_Introd._, p. 20.)
+
+**Chrysocolle**. --- C'est le molybdochalque,* c'est-à-dire la composition complète.
+
+*) Répétition.
+
+**Sphère d'Or**. --- C'est le safran de Cilicie [ou bien l'arsenic et la sandaraque, B A L].
+
+**Chrysophite**. --- C'est la vapeur sublimée, après traitement avec le cuivre, pulvérisation et réduction en ios.
+
+**Cuivre de Chypre**. --- C'est le cuivre calciné et lavé ; c'est le terme du blanchiment et le début du jaunissement.
+
+**Ψ**
+
+**Morceaux**. --- C'est ce qui est transformé quant à l'espèce.
+
+**Petit Morceau**. --- Ce sont les cendres délayées dans l'eau, celles qui tapissent le fond du fourneau, à l'épaisseur d'un doigt.
+
+**Sable** (ou minerai). --- C'est la chrysocolle.
+
+**Céruse**. --- Est produite par le plomb.
+
+**Ω**
+
+**Ocres**, obtenues par un mélange de vin et d'huile, sont dites blâmables (ou falsifiées) ?
+
+**Mercure cru**. --- C'est le mercure produit par le plomb [par le molybdochalque, L.].
+
+**Oïtis** (pierre d'œuf ? ). --- Est nommée aussi Terenouthin et Chrysocolle.
+
+**Ocre attique**. --- C'est le jaune de l'œuf.
+
+**Ocre attique**. --- C'est l'arsenic.
+
+**Orichalque de Nicée**. --- C'est celui qu'on obtient par la cadmie.
+
+Le Lexique alchimique, tel que nous venons de le reproduire, est tiré du manuscrit de Saint-Marc (fin du 10e ou commencement du 11e siècle) : il n'a guère été modifié dans les manuscrits postérieurs. Il est formé de portions diverses, ajoutées successivement, comme le prouvent par exemple les articles relatifs au soufre, à l'eau de soufre, à la magnésie, etc. Certains articles remontent jusqu'à la vieille tradition gréco-égyptienne, ainsi que le montrent les rapprochements (cités en note) avec la nomenclature prophétique de Dioscoride et du Papyrus de Leide. Les catalogues du blanc et du jaune, attribués à Démocrite (_Origines de l'Alchimie_, p. 155-156), lesquels formaient la base de la Chrysopée et de l'Argyropée, ainsi que les nomenclatures de l'œuf philosophique, paraissent représenter les premières formes de ce Lexique. Au moyen âge, il a pris une extension considérable et s'est enrichi d'une multitude de mots arabes, en même temps que les mots grecs disparaissaient en partie. On peut en voir une forme nouvelle dans le manuscrit 2419 de Paris, transcrit vers 1460 (v. _Introd._, p. 205). Plusieurs de ces Lexiques ont été rassemblés par Johnson dans la _Bibliotheca Chemica_ de Manget (Genève, 1702), t. 1, p. 217 à 291. Mais l'ouvrage de genre le plus utile à connaître et le mieux rédigé, est le _Lexicon Alchemiæ, auctore Rulando_ (Francfort, 1612). Je l'ai cité fréquemment dans mon _Introduction_.
+
+---
+
+#### 1. --- 3. Sur l'Œuf Philosophique.
+
+Voici ce que les anciens disent sur l'œuf* :
+
+*) Cp. _Origines de l'Alchimie_, p. 24.
+
+1\. Les uns (l'appellent) la pierre de cuivre, [les autres, la pierre d'Arménie, A] ; d'autres, la pierre encéphale ; d'autres, la pierre étésienne ; d'autres, la pierre qui n'est pas une pierre* ; d'autres, la pierre égyptienne ; d'autres, l'image du monde.*
+
+*) Cette expression mystique a été souvent reproduite au moyen âge. Je citerai Roger Bacon : _De Secretis operibus artis et naturæ_ (_Bibl. Chem._ de Manget, t. 1, p. 622). Il attribue à Aristote (_in libro Secretorum_) les paroles suivantes : « O Alexandre, je veux te raconter le plus grand des secrets ... Prends cette pierre qui n'est pas une pierre, présente en tout temps, en tout lieu ... On l'appelle l'œuf philosophique. » De même dans le traité qui porte le nom d'Avicenne (_Bibl. Chem._, t. 1, p. 633) : _est lapis et non lapis_. Dans la _Turba philosophorum_ (même recueil, t. 1, p. 449) : _Hic igitur lapis non est lapis_, etc. (v. aussi _Bibl. Chem._, 1, 935).
+
+*) En marge de M. « Ceci doit être entendu dans un sens mystique et non un sens physique. »
+
 ...
