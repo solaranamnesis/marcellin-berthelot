@@ -9910,4 +9910,46 @@ Voici ce que les anciens disent sur l'œuf* :
 
 *) En marge de M. « Ceci doit être entendu dans un sens mystique et non un sens physique. »
 
+2\. La coquille de l'œuf, c'est la partie* crue, le cuivre, l'alliage de fer et de cuivre, l'alliage de plomb et de cuivre et (plus généralement) les corps* métalliques solides.
+
+*) Ou peut-être l'ensemble (ὁμὸν au lieu de ὠμὸν), par opposition aux parties séparées.
+
+*) Métaux et alliages métalliques.
+
+3\. La coquille calcinée signifie : la chaux vive, l'arsenic, la sandaraque, la terre de Chio, la terre astérite,* la sélénite,* l'argent cuit, l'antimoine de Coptos, la terre de Samos, la terre convenable, la terre Cimolienne, la terre brillante, le bleu* et l'alun.*
+
+*) Pline (_H. N._, l. 37, 47) donne ce nom à une pierre précieuse blanche, à reflet intérieur. Mais il s'agit plutôt de l'une des deux espèces de terre de Samos, désignée sous le nom d'aster, dans Dioscoride, _Mat. Méd._, l. 5, 171.
+
+*) C'est-à-dire notre argent, AL.
+
+*) Sel de cuivre.
+
+*) A ajoute après le bleu : le vermillon de Coptos, la terre de Pont.
+
+4\. Les parties liquides de l'œuf sont dites : les parties séparées, _l'ios et _l'ios_ du cuivre, l'eau verte de cuivre, l'eau du soufre natif, la liqueur de cuivre, la préparation de cuivre à apparence de miel, la vapeur sublimée, les corps réduits en esprits,* la semence universelle. (Ces parties liquides) reçoivent encore beaucoup d'autres dénominations.
+
+*) σῶμα exprime un métal régénéré de son oxyde ou de ses minerais ;--- on pourrait aussi lire : ἀσώματα πνεύματα les esprits séparés des métaux.
+
+5\. Le blanc de l'œuf s'appelle la gomme, le suc du figuier, le suc du mûrier et celui du tithymale.
+
+6\. Le jaune de l'œuf s'appelle le misy, le cuivre, la couperose de cuivre, la couperose cuite, l'ocre attique, le vermillon du Pont, le bleu, la pierre d'Arménie, le safran de Cilicie et la chélidoine.
+
+7\. Le mélange de la coquille des œufs et de l'eau préparée avec la chaux vive, c'est ce que l'on appelle la magnésie et les corps (métaux) de la magnésie, l'alliage de plomb et de cuivre, notre argent,* l'argent commun, la céruse.
+
+*) L'argent des adeptes, opposé à l'argent commun.
+
+8\. Le blanc, on l'appelle l'eau de la mer, parce que l'œuf est rond comme l'océan ; l'eau d'alun, l'eau de chaux, l'eau de cendre de chou, l'eau de chèvre* des anciens. (Prendre _l'eau_ dans le sens du _lait_.)
+
+*) Voir la nomenclature des Prophètes ou prêtres égyptiens dans Dioscoride et dans les Papyrus de Leide (_Introd._, p. 11).
+
+9\. La liqueur jaune, on l'appelle le soufre natif, le mercure, celui qui est dit (extrait) du cinabre ; l'eau du natron roux, l'eau du natron jaune, le vin Aminien.
+
+10\. La composition jaune s'appelle l'or et l'électrum en décomposition, la teinture d'or, la teinture d'argent* extraite des citrons, celle qu'on extrait de l'arsenic et de l'eau du soufre apyre. De même que le citron présente la couleur jaune à l'extérieur, et, à l'intérieur, la saveur acide ; de même aussi, l'eau tirée de l'arsenic. L'eau du soufre apyre est le vinaigre des anciens.
+
+*) M. donne ici un signe dont le sens est inconnu, mais qui ressemble au chrysélectrum, c'est-à-dire à l'électrum. Ce signe est omis dans A, comme si le sens en eût été déjà perdu.
+
+11\. Le blanc de l'œuf* s'appelle mercure, eau d'argent, cuivre blanc, vapeur sublimée blanche, ce qui se volatilise au feu, soufre excellent, eau de soufre natif, écume marine, eau fluviale, rosée, miel attique, lait virginal, lait coulant de lui-même, eau de plomb, _ios_ de cuivre, ferment irrésistible, nuage, soif ardente, astre suspendu de la vapeur sublimée.
+
+*) Toute cette fin n'existe pas dans M. Le § 11 rappelle le langage amphigourique et de plus en plus vague, des alchimistes arabes et de ceux du moyen âge occidental.
+
 ...
