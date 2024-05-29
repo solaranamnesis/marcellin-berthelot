@@ -10281,4 +10281,76 @@ _Mélange des espèces_ : plomb facilement fusible (amalgame), 1 partie ; pierre
 
 *) Ce nom symbolique exprime quelque substance minérale jaune : voir le Lexique, p. 6.
 
+10\. _Mélange de la préparation blanche_, laquelle est le blanchiment de tous les corps (métalliques).* Prends 1 partie de mercure blanchi avec addition de cuivre* ; et prenez 1 partie de magnésie, désagrégée par les eaux (chimiques) ; 1 partie de lie de vin, traitée par le jus de citron ; 1 partie d'arsenic,* délayé avec l'urine d'un enfant impubère ; 1 partie de cadmie ; 1 partie de pyrite, cuite avec de la litharge ; 1 partie de céruse, cuite avec du soufre ; 2 parties de litharge, cuite avec de la chaux ; 1 partie de cendres de _cobathia_.* Délaie tout cela avec du vinaigre blanc très fort et, après avoir fait sécher, tu obtiendras la préparation blanche.*
+
+*) Cette préparation représente un mélange de divers oxydes métalliques (cuivre, mercure, fer, arsenic, zinc, plomb, etc.), salifiés plus ou moins complètement par le bitartrate de potasse et par le _vinaigre_ très fort ; c'est-à-dire par un acide, ou un alcali, ou un autre corps piquant, assimilé au vinaigre ; le tout est ajouté au mercure éteint ou amalgamé. En faisant chauffer ce mélange dans un creuset, avec addition d'un fondant, on obtiendra un alliage complexe. --- Les Recettes d'asèm dans le papyrus de Leide, _Introd._, p. 29 (recettes 5, 6), p. 30 (recette 9), p. 31 (recette 13), p. 32 (recette 18), p. 33 (recette 19), p. 35 (recette 27), p. 37 (recette 37), p. 45 (recettes 84, 85, 86), p. 47 (recette 90) ; sont tout à fait analogues aux descriptions contenues dans les § 10, 11 et 12.
+
+*) Il y a là une inversion : c'est au contraire le cuivre qui est blanchi par le mercure.
+
+*) Orpiment.
+
+*) Voir _Introd._, p. 255.
+
+*) Tout ce paragraphe est une répétition plus développée de la recette contenue dans le précédent.
+
+11\. Ensuite,* prenant du cuivre et du fer, fais-les fondre, puis jettes-y peu à peu les substances que voici, pulvérisées: soufre, 1 partie; magnésie, 10 parties; jusqu'à ce que le fer devienne bien ductile. Après avoir broyé, mets de côté.
+
+*) Le mot « ensuite » signifie simplement que l'auteur passe à une préparation nouvelle ; laquelle ne fait pas nécessairement suite à la précédente. Souvent le copiste, ayant sous les yeux deux recettes semblables, en a mis bout à bout les parties parallèles.
+
+12\. Prenant* un peu de cuivre rendu ductile par la chaleur, fais-en fondre 4 parties, et jettes-y 1 partie de fer broyé,* en l'ajoutant peu à peu et l'agitant, jusqu'à ce que le fer et le cuivre fassent un alliage.
+
+*) Mot à mot : un Kéras ou Kération, c'est-à-dire un Carat, tiers d'obole, poids.
+
+*) Limaille de fer, ou fonte broyée ?
+
+Puis, prenant de cet alliage le poids d'une livre, fais-le fondre, en y projetant 3 onces de la préparation blanche, (ajoutée) peu à peu, jusqu'à ce que la matière broyée devienne blanchâtre. Puis, en la prenant au sortir du creuset, ajoutes-y du mercure : 1 partie pour 2 parties du mélange ; donne-lui l'épaisseur d'un ongle. Si le métal n'est pas tout-à-fait ductile, fais le fondre de nouveau, et il deviendra mou comme la cire.*
+
+*) Ceci paraît encore se rapporter à la formation d'un amalgame. Le § 12 développe la recette du § 11.
+
+13\. Ensuite, après avoir préparé une liqueur pour la dorure,* une liqueur de coquille d'or,* sans couperose, ni résidu de creuset, place les lames dans un vase de verre, mets à part pendant 35 jours, jusqu'à ce que le dépôt soit rassemblé. Puis, enlève et garde le produit.*
+
+*) Il y avait probablement ici le signe de l'or, que le copiste grec a traduit par ἡλιοκόσμιον, pour χρυσοκόσμιον.
+
+*) Le mot d'or en coquille est encore usité chez les bijoutiers.
+
+*) Recette sommaire pour dorer, analogue à celles des Papyrus de Leide (voir _Introd._, p. 70).
+
+14\. Ensuite,* prends la préparation blanche obtenue au moyen du mercure, de la magnésie, de la lie de vin, de l'arsenic, de la cadmie, de la pyrite et de la céruse ; prends aussi du mercure, mêles-y la liqueur du sidérochalque et les espèces susdites. Que la liqueur surnage la préparation de l'épaisseur de deux doigts ; laisse macérer pendant quinze jours à l'ombre, et conserve le dépôt.
+
+*) Ce paragraphe est une variante des précédents.
+
+15\. Lorsque tu veux blanchir quelqu'un des corps métalliques,* procède ainsi : prenant du mercure, de la lessive de chaux, de l'urine, du lait de chèvre, du natron et du sel, délaie et blanchis.
+
+*) C'est une recette pour blanchir les métaux par amalgamation, analogue à l'une des précédentes.
+
+16\. On sait pareillement que les choses qu'il me reste à expliquer,* c'est-à-dire les diplosis, les teintures et tous les traitements, tendent à un seul et même sens, à une seule et même œuvre. Comprends donc, mon enfant, le mystère de la préparation de la veuve.*
+
+*) Ceci semble indiquer l'intention de l'auteur d'exposer tout un ensemble de recettes, dont ce qui précède aurait été seulement le début.
+
+*) Isis, veuve d'Osiris. Ce mot marque la fin de la principale addition.
+
+17\. Voici comment on élève la vapeur sublimée* : prends de l'arsenic,* fais-le bouillir dans l'eau, et le mettant dans un mortier, pile-le avec le stachys et un peu d'huile ; mets le matras et la fiole* sur des charbons. Au-dessus de l'entrée (du fourneau ? ) dispose l'appareil, jusqu'à ce que la vapeur s'en aille. Traite la sandaraque de la même façon.
+
+*) Ceci est une recette, ajoutée à la suite des précédentes. C'est une sublimation, opérée dans l'alambic, au moyen des sulfures d'arsenic, mélangés de divers produits organiques.
+
+*) Orpiment.
+
+*) Voir figure 11, _Introd._, p. 132.
+
+---
+
+#### 1. --- 14. Les Mœurs du Philosophe.
+
+_Quelles doivent être les qualités morales de celui qui poursuit l'étude de la science._*
+
+*) Voir _Origines de l'Alchimie_, pages 119, 160 et 206. Ce morceau est attribué à Démocrite par Cedrenus. Il se retrouve avec développement dans Geber et les alchimistes arabes.
+
+Celui qui poursuit l'étude de la science doit premièrement aimer Dieu et les hommes, être tempérant, désintéressé, repousser le mensonge, toute fraude, toute mauvaise action, tout sentiment d'envie, être enfin un sincère et fidèle enfant de la sainte, consubstantielle et coéternelle Trinité.* Celui qui ne possède pas ces belles qualités, agréables à Dieu, ou qui ne s'efforce pas de les acquérir, celui-là se trompera lui-même, en voulant atteindre les choses inaccessibles ; il ne fera que se nuire à lui-même.
+
+*) C'est le langage des Grecs byzantins de la fin du 4e et du 5e siècle.
+
+---
+
+#### 1. --- 15. Sur l'Assemblée des Philosophes.
+
 ...
