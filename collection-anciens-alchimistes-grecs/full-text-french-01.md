@@ -10062,4 +10062,223 @@ Le blanc d'œuf est l'eau divine ; le jaune d'œuf est la couperose ; la partie 
 
 *) Consacrés à chaque planète, R. voir la note du _Texte grec_.
 
+1° Saturne : Plomb ; litharge ; pierres de miel ; pierres gagates* ; claudianos* et autres substances analogues.
+
+*) Pierre bitumineuse. --- Dioscoride, _Mat. méd._, l. 5, 145. --- _Introd._, p. 254.
+
+*) Alliage métallique. --- _Introd._, p. 244.
+
+2° Jupiter : Etain ; corail* ; toute pierre blanche ; sandaraque ; soufre et autres substances analogues.
+
+*) Dans R : au lieu du corail, le béryl.
+
+3° Mars : Fer ; pierre d'aimant ; pséphis* ; pyrites rousses* et substances analogues.
+
+*) Mot à mot : caillou ; c'est quelque minerai de fer.
+
+*) R : Pierre de feu.
+
+4° Soleil : Or ; escarboucle ; hyacinthe ; diamant ( ? ) ; saphir et substances analogues.
+
+5° Vénus : Cuivre ; perle ; onyx ; améthyste ; naphte ; poix ; sucre ; asphalte ; miel ; (gomme) ammoniaque ; encens.
+
+6° Mercure : Emeraude ; jaspe ; chrysolithe ; hésychios* ; mercure ; ambre ; oliban et mastic.
+
+*) Corps inconnu : Ce mot manque dans R.
+
+7° Lune : Argent ; verre ; antimoine ; cuir ; chandra* ; terre blanche et substances analogues.
+
+*) Corps inconnu.
+
+---
+
+La liste transcrite dans R, c'est-à-dire dans le manuscrit 2419 (traité d'Albumazar) ; _Introd._, p. 79 et 206, mérite une attention particulière. Elle répond à une tradition astrologique plus complète et plus ancienne, remontant probablement aux Chaldéens ; car elle est encadrée entre une liste de plantes et une liste d'animaux, également consacrées aux Planètes.* Un certain nombre de noms de pierres précieuses (saphir, sardoine, jaspe, chrysolithe, perle), de minéraux (pierre d'aimant, litharge), d'alliages (claudianos, asèm ou diargyros), sont transcrits en caractères, hébraïques, comme si l'on avait voulu en interdire la connaissance aux gens non initiés : c'est l'indice d'une vieille tradition mystique.
+
+*) _Texte grec_, p. 24, note.
+
+L'ordre des corps est parfois plus naturel : le sucre, par exemple, n'étant pas interposé entre la poix et l'asphalte, comme dans les manuscrits alchimiques, mais se trouvant à côté de son congénère, le miel.
+
+Le mercure (métal) est placé tout à la fin de la liste de la planète Hermès ; ce qui accuse l'addition de ce métal à une liste plus ancienne, où l'émeraude, mise à la suite du nom de la planète, jouait le rôle d'un métal, comme le _mafek_ égyptien (_Origines de l'Alchimie_, p. 220, 234). L'existence de cette liste antérieure est indiquée plus nettement encore par les mots ajoutés : « les Persans attribuent à cette planète (au lieu du mercure) l'étain. --- De même, dans la liste des matières attribuées à la planète Jupiter, après le mot Etain, on lit : « Les Persans attribuent à cette planète (au lieu de l'étain) le métal argentin ; » ce qui signifie l'asèm ou électrum. Il y a là une indication très remarquable des changements survenus dans les attributions des métaux aux planètes, après que l'asèm ou électrum eut disparu de la liste des métaux, vers le 6e ou 7e siècle de notre ère (v. _Introd._, p. 81 à 85).
+
+---
+
+#### 1. --- 9. Noms des Faiseurs d'Or.*
+
+*) Voir _Origines de l'Alchimie_, p. 128 et suivantes. Voir aussi la liste ancienne du manuscrit de Saint-Marc, donnée dans l'_Introd._, p. 110.
+
+1\. Connais, mon ami, les noms des faiseurs d'or :
+
+Platon, Aristote, Hermès, Jean le grand prêtre dans la divine Evagie* ; Démocrite, Zosime, le grand Olympiodore, Stephanus le philosophe, Sophar le Persan, Synésius, Dioscorus le prêtre du grand Sérapis à Alexandrie, Ostanès l'Egyptien, Comarius l'Egyptien, Marie, Cléopâtre la femme du roi Ptolémée,* Porphyre, Epibechius,* Pélage, Agathodémon, Héraclius l'empereur, Théophraste, Archélaüs, Pétasius,* Claudien, le philosophe anonyme, le philosophe Menos,* Pauséris, Sergius.
+
+*) Cp. _Origines de l'Alchimie_, p. 118.
+
+*) Cléopâtre, la femme alchimiste, a été confondue plus tard avec la reine de ce nom. _Origines de l'Alchimie_, p. 173.
+
+*) _Alias_, Pebechius, Pebichius. C'est Horus l'Epervier : _Origines de l'Alchimie_, p. 168.
+
+*) Ou Pétésis = Isidore en grec. _Introd._, p. 11 et _Lexique alchimique_, traduction, p. 15.
+
+*) E L. « Memnon le philosophe et les autres anonymes. » Il n'est pas question ailleurs de ce Menos. Serait-ce le vieux roi Ménès ? Il existe des écrits alchimiques sous le pseudonyme du roi Chéops (Sophé). --- _Origines de l'Alchimie_, p. 58.
+
+2\. Ce sont là les maîtres partout célèbres et œcuméniques, les nouveaux exégètes de Platon et d'Aristote.
+
+3\. Les pays où l'on accomplit cette œuvre divine sont : l'Egypte, la Thrace, Alexandrie, Chypre et le temple de Memphis.*
+
+*) Le temple de Phtha.
+
+---
+
+#### 1. --- 10. Noms des Villes.
+
+_Sur la pierre métallique ; en quels lieux elle est préparée._*
+
+*) Voir _Origines de l'Alchimie_, p. 129. C'est l'abrégé d'un morceau d'Agatharchide sur l'extraction de l'or de ses minerais ; morceau qui se trouve intercalé au milieu des recettes alchimiques dans M.
+
+1\. Il faut connaître en quels lieux de la terre de Thébaïde se prépare la paillette métallique : Cléopolis (Héracléopolis) ; Alycoprios (Lycopolis) ; Aphrodite ; Apolenos (Apollinopolis) ; Eléphantine.
+
+2\. La pierre métallique ressemble au marbre ; elle est dure, et les hommes qui, dans les lieux précités en font l'extraction avec beaucoup de peine, la préparent à l'intérieur (de la terre) ; ils portent des lampes ... et lorsqu'ils trouvent un filon, ils l'occupent. Leurs femmes broient (la pierre) et en font mouture.
+
+3\. Lorsque, après avoir réduit le minerai en poudre, ils l'ont étalé sur des tables garnies de rainures contrariées et disposées en pente douce, ils y font couler de l'eau ; la partie pulvérisée, légère et inutile, est entraînée par l'eau, tandis que la partie utile, retenue par son poids, est recueillie dans les rainures des planchettes. Alors, pour la cuisson, ils resserrent le dépôt, le placent dans un vase de terre cuite et, faisant un mélange selon la formule,* ils lutent le vase, et le font chauffer sur un fourneau, pendant cinq jours et cinq nuits ; le vase a une issue pour l'extraction (des produits).
+
+*) Cette formule est donnée par Agatharchide, p. 128 (_Geogr. græci_, Éd. Didot).
+
+---
+
+Un _Traité des Poids et Mesures_, attribué à Cléopâtre, se trouve dans la plupart des manuscrits alchimiques grecs. Il a été imprimé d'abord par H. Etienne, au début de son _Thesaurus Græcæ linguæ_, puis reproduit, discuté, commenté par les auteurs qui se sont occupés des mesures antiques, par Hultsch en particulier : ce qui m'a paru en rendre la réimpression superflue.
+
+Je crois au contraire utile de reproduire ici la liste _des mois égyptiens_, avec traduction latine grécisée, d'après le manuscrit A, fol. 280 ; en mettant en regard les noms des mois coptes actuels, qui montrent la permanence des vieilles traditions. (Je les ai tirés de l'_Annuaire du Bureau des Longitudes_, pour 1886, p. 24.)
+
+|            |                        |                           |
+|------------|------------------------|---------------------------|
+| Phamenoth  | Martios (Mars)         | Barmhat.                  |
+| Pharmouthi | Aprilios (Avril)       | Barmudeh.                 |
+| Pachon     | Maïos (Mai)            | Bachones.                 |
+| Payni      | Junios (Juin)          | Bawne.                    |
+| Epiphi     | Julios (Juillet)       | Abib.                     |
+| Mesori     | Augustos (Août)        | Mesori.                   |
+| Thoth      | Septevrios (Septembre) | Tut (7e mois de l'année). |
+| Phaophi    | Octobrios (Octobre)    | Bobeh.                    |
+| Athyr      | Noevrios (Novembre)    | Hatur.                    |
+| Chiak      | Decevrios (Décembre)   | Koyhak.                   |
+| Tybi       | Januarios (Janvier)    | Tubeh.                    |
+| Méchir     | Fevruarios (Février)   | Amchir.                   |
+
+---
+
+#### 1. --- 11. Serment.
+
+1\. Je te jure,* mon honorable initié, par la bienheureuse et vénérable Trinité, que je n'ai rien révélé des mystères de la science qui m'ont été transmis par elle, dans les retraites secrètes de mon âme : toutes les choses dont je tiens la connaissance de la Divinité, relativement à l'art, je les ai déposées sans réserves dans mes écrits, en développant la pensée des anciens d'après mes propres réflexions.
+
+*) Ce serment est tout imprégné des idées de la métaphysique chrétienne des Grecs byzantins, du 4e au 6e siècle ; surtout dans les deux additions finales ; car le commencement pourrait avoir été écrit par un néo-platonicien.
+
+2\. Toi-même, aborde tous ces écrits dans un esprit de piété et de prudence ; si nous avons dit quelque chose d'erroné, par ignorance, mais sans mauvaise intention, corrige nos fautes dans ton intérêt et dans l'intérêt des lecteurs fidèles à Dieu, exempts de ma lice et honnêtes, qualités qui sont en vérité difficiles à rencontrer.* Salut ! au nom de la sainte et consubstantielle Trinité ; je veux dire le Père, le Fils et le Saint-Esprit.* La Trinité dans l'unité, c'est le Fils, qui s'est incarné sans péché parmi les hommes, pour la glorification de la dyade,* à laquelle il participe lui-même ; il a revêtu la nature humaine, tout en demeurant irréprochable ; la voyant sujette à faillir, il l'a redressée.
+
+*) La suite manque dans plusieurs manuscrits : c'est une addition.
+
+*) C'est une formule finale. La suite manque dans l'une des copies de A ; elle répond sans doute à une seconde addition postérieure.
+
+*) Le Père et le Saint-Esprit.
+
+---
+
+#### 1. --- 12. (Serment) du Philosophe Pappus.*
+
+*) Appelé aussi Pappoas.
+
+1\. Je te jure par le grand serment, qui que tu sols : j'entends le Dieu unique, par l'espèce et non par le nombre, celui qui a fait le ciel et la terre et le quaternaire* des éléments et les substances qui en dérivent ; ainsi que nos âmes rationnelles et intelligentes, en les harmonisant avec le corps ; le dieu que portent les chars des chérubins, et que célèbrent les légions des anges.
+
+*) La Tétractys, formule pythagoricienne.
+
+2\. Quelques-uns* ont délayé le jaune d'œuf* avec les liquides du même genre, jetant une cotyle* d'eau dans une once du corps (en question) ; après avoir renfermé (ce mélange), ils l'ont soumis à l'action des étuves ; l'opération accomplie, ils ont enlevé l'_ios_ ;--- après l'avoir exposé à l'air, ils l'ont incorporé à la cire et au soufre. Ayant ainsi soumis le mélange à l'action de la chaleur, pour parfaire l'opération dans des étuves régulières, c'est-à-dire par des dissolutions ou des cuissons, ils ont déposé le produit solide dans des vases de verre, suspendus dans un local chaud et recevant de préférence la lumière du côté du levant, ou du couchant et du midi, plutôt que du nord ; ainsi que l'a prescrit en détail Stephanus, très aimé de Dieu, et comme nous l'avons exposé en abrégé dans notre traité dédié à Moïse, le trois fois bienheureux.
+
+*) Cette fin est étrangère au serment. Peut-être est-ce une recette, dont la révélation devait être précédée par le serment de l'initié.
+
+*) Voir la nomenclature de l'œuf, p. 19 à 22.
+
+*) Mesure de volume.
+
+3\. Ainsi nous avons bien composé notre écrit. En effet, si tu vois que le liquide s'étend vers le nord, comme il est dit dans le discours sur l'eau de soufre natif, alors hâte-toi de le corriger en délayant avec la saumure, le natron, l'antimoine, la couperose destinée à l'affinage.* --- Il voulait désigner par là la mortification du produit* et l'accomplissement de l'œuvre exposée dans tout son discours.*
+
+*) Cette description énigmatique du grand œuvre repose sur des allusions vagues à diverses opérations chimiques. Elle est d'une basse époque, postérieure au 7e siècle, à en juger d'après la citation de Stephanus.
+
+*) Qu'il fallait éviter, pour accomplir l'opération.
+
+*) La phrase finale est une glose de commentateur, ajoutée en dernier lieu.
+
+---
+
+#### 1. --- 13. Isis a Horus.
+
+**(1re Rédaction)**
+
+_Isis la Prophétesse* à son fils._*
+
+*) Voir Berthelot, _Orig. de l'Alch._, p. 138. Cp. Hœfer, _Hist. de la Chimie_, t. 1, p. 290, 2e édition. --- Titre de L : « Isis, reine d'Égypte, épouse d'Osiris, sur l'art sacré, à son fils Horus. » --- Les variantes notables de la seconde rédaction du texte, d'après L, sont données en notes dans la traduction présente.
+
+*) Le titre est suivi du signe de la lune dans le manuscrit A. Ce signe, qui est aussi celui de l'argent, indique que tout le morceau a un sens alchimique caché. --- Ici il remplace le nom du fils d'Isis, ce qui semble se rapporter à l'identification d'Horus enfant avec Harpocrate, et au rôle lunaire de l'Harpocrate thébain, désigné sous le nom de Khons (v. les mots Aah [dieu lunaire] et Khons, dans le _Dictionnaire d'Archéologie égyptienne_, par Pierret, 1875). Ceci tend à faire remonter jusqu'aux vieilles traditions égyptiennes la première rédaction de ce morceau. L'existence de deux rédactions, notablement différentes, pourrait répondre à deux interprétations distinctes d'un même texte hiéroglyphique.
+
+1\. Isis, la prophétesse à son fils Horus : « Tu devais t'éloigner, mon enfant, et aller combattre contre l'infidèle Typhon, pour le trône de ton père. Moi-même m'étant rendue à Hermonthis, ville (où l'on cultive) l'art sacré de l'Égypte,* j'y ai passé un certain temps. D'après le cours des circonstances, et la révolution nécessaire du mouvement des sphères,* il arriva que l'un des anges qui résident dans le premier firmament, m'ayant contemplée d'en haut,* voulut s'unir à moi.* Il s'avança, se disposant à en venir à son but : mais je ne lui cédai point, voulant apprendre de lui la préparation de l'or et de l'argent. Comme je l'interrogeais là-dessus, il me dit qu'il ne lui était pas permis de s'expliquer à cet égard, vu la haute importance de ces mystères, mais que le jour suivant, il viendrait un ange plus grand, l'ange Amnaël,* et celui-là serait en état de me donner la solution de la question.
+
+*) D'après L : « Moi-même, après ton départ, m'étant rendue à Ormanouthi (Hermonthis), où l'art sacré de l'Égypte est cultivé mystérieusement ... » Ceci correspond à une note marginale de A : « elle parle dans un sens mystérieux, et nous rappelle le symbolisme alchimique de ce morceau. »
+
+*) Cette phrase, qui répond au caractère sidéral d'Horus et d'Isis, manque dans L ; on y lit seulement : « Je voulais me retirer ; pendant que je m'éloignais, l'un des prophètes ou anges, etc. »
+
+*) Manque dans L. Il y a quelques variantes peu importantes dans ce qui suit.
+
+*) Dans A, ce mot est suivi du signe du cuivre, c'est-à-dire d'Aphrodite (Vénus), déesse assimilée à Isis-Hathor. Il semble donc qu'il s'agisse ici, dans un langage mystique, d'une combinaison chimique où le cuivre figurait comme matière de la transmutation (voir la note 2) ; combinaison assimilée, suivant un symbolisme fréquent chez les alchimistes, à l'union de la femme avec l'homme.
+
+*) En marge de A : « Elle parle d'un être versé dans la connaissance de Dieu. » Dans L, tout le passage est abrégé en ces termes :  
+« 1. Le jour suivant, vint à moi leur premier ange prophète appelé Amnaël. »  
+« 2. Je l'interrogeai de nouveau sur la préparation de l'or et de l'argent. Il me montra un signe qu'il avait sur la tête, et un vase, non enduit de poix, rempli d'eau transparente, qu'il avait dans les mains, et il ne voulut pas révéler la vérité. »  
+« 3. Le jour suivant, il revint, il renouvela sa tentative amoureuse et s'efforça d'atteindre son but. Mais je ne m'occupais pas de lui ; et il continua à me tenter et à me prier par son désir. »  
+« 4. Mais je ne me livrai point, et je le dominai jusqu'à ce qu'il m'eût fait voir le signe, etc. »
+
+2\. Et il me dit que celui-là porterait un signe sur sa tête* et qu'il me montrerait un petit vase non enduit de poix, rempli d'eau transparente. Il (ne) voulut (pas) révéler la vérité.
+
+*) Ceci paraît une allusion au disque qui surmonte les cornes en croissant (demi-cercle), lesquelles servent de coiffure au dieu lunaire Khons ou Aah. Dans L ce signe est décrit seulement un peu plus loin, lors de l'apparition d'Amnaël.
+
+3\. Le jour suivant, lorsque le soleil était au milieu de sa course, apparut l'ange Amnaël, plus grand que le premier ; pris du même désir à mon égard ; il descendit vers moi, il ne resta pas immobile, mais se rendit en hâte au lieu où je me tenais ; et moi je ne cessai pas de m'informer de la question.
+
+4\. Et comme il tardait (à me répondre), je ne me livrai point, mais je contins son désir jusqu'à ce qu'il m'eût fait voir le signe qu'il avait sur la tête et qu'il m'eût transmis sans réserve et avec sincérité les mystères que je cherchais.
+
+5\. Enfin, il me montra le signe et commença la révélation des mystères ; proférant des serments,* il s'exprima ainsi : Je te le jure par le ciel, la terre, la lumière et les ténèbres ; je te le jure par le feu, l'eau, l'air et la terre ; je te le jure par la hauteur du ciel, par la profondeur de la terre et du Tartare ; je te le jure par Hermès, par Anubis, par les hurlements du Kerkoros,* par le serpent qui garde le temple* ; je te le jure par le bac et par le nocher de l'Achéron ; je te le jure par les trois Nécessités (Parques), par les Fouets (Furies), par l'Épée.
+
+*) Il semble que le serment aurait dû être prononcé par Isis. Le début rappelle le serment des _Orphica_.
+
+*) Her-Hor est le premier prophète d'Ammon ; c'est le nom d'un personnage historique de la 20e dynastie (_Dict. d'Arch. égypt._ de Pierret). Ici il est devenu un personnage infernal.
+
+*) C'est le serpent Ouroboros. Dans L on lit : « le hurlement de Kerkouroboros le serpent, et du chien tricéphale, Cerbère, gardien de l'Enfer. » --- Kerkoros et Ouroboros sont ici confondus en un seul mot, par l'erreur du copiste. D'ailleurs le hurlement du serpent n'a pas de sens. Cerbère paraît avoir été ajouté en raison de l'ancien mot, gardien (du temple) ; (voir l'article 1, 5, 5), qui n'était plus compris et qui a été appliqué à l'Enfer par l'un des copistes dont L procède.
+
+6\. Après tous ces serments, il me demanda de ne (rien) communiquer à qui que ce fût, excepté à mon fils chéri et légitime, afin que toi-même tu fusses lui et que lui fût toi.* Ainsi donc, observe en passant, interroge l'agriculteur Acharantos* et apprends de lui quelle est la semence et quelle est la moisson, et tu sauras que celui qui sème le blé récolte du blé, que celui qui sème de l'orge récolte de l'orge.
+
+*) Ceci semble faire allusion à l'identité du Dieu lunaire _Aah_, (symbole de l'argent) avec Khons (Harpocrate, qui est encore Horus). --- Cette phrase mystique, tirée du culte égyptien, a disparu dans L.
+
+*) Ailleurs : Achaab (_Texte grec_, p. 89, l. 10). Ces noms propres ont été remplacés par « un certain agriculteur » dans L.
+
+7\. Quand tu auras, mon enfant, entendu ces choses, par manière de préambule, considères-en toute la création et la génération, et sache que l'homme sait engendrer l'homme, le lion engendre le lion, et le chien engendre le chien. S'il arrive qu'un être soit produit contrairement à la nature, c'est un monstre qui est engendré et il n'a pas de consistance.* La nature charme la nature, et la nature triomphe de la nature.
+
+*) Cette phrase philosophique manque dans L.
+
+8\. Les adeptes ayant participé à la puissance divine, et ayant réussi par l'assistance divine, éclairés par l'effet de la demande (d'Isis)* ; ils firent des préparations avec certains minerais métalliques, sans se servir d'autres substances (non convenables). Ils réussirent ainsi au moyen de la nature substantielle à triompher de la matière employée dans la préparation.* En effet, de même que j'ai dit précédemment que le blé engendre le blé et que l'homme sème l'homme ; de même aussi l'or sert à la moisson de l'or, et généralement le semblable, à celle de son semblable.* Maintenant le mystère a été révélé.
+
+*) Le commencement de ce paragraphe jusqu'à cet endroit manque dans L, qui débute ainsi : « 8. Il faut préparer la matière avec les minerais métalliques et non avec d'autres substances. En effet, comme je l'ai dit précédemment, le blé, etc. »
+
+*) Ceci paraît vouloir dire qu'il faut faire intervenir la nature prépondérante de l'or, jouant le rôle d'un germe ou élément générateur, pour surmonter et changer la nature de la matière des autres substances employées dans les transmutations.
+
+*) Tout le paragraphe 8 semble une addition, faite après coup, au texte primitif du § 7, qu'elle répète en grande partie. C'est en quelque sorte une transition mal agencée entre ce texte et les recettes techniques des paragraphes suivants, recettes très anciennes d'ailleurs et fort voisines de celles du Papyrus de Leide.
+
+9\. Prenant du mercure, fixe le* : soit avec la terre bolaire, ou avec le métal de la magnésie, ou avec le soufre ; et garde-le : c'est l'amalgame fusible.*
+
+*) Ceci signifie : soit le mercure éteint par son mélange avec une argile, soit le mercure amalgamé avec un alliage métallique, soit le mercure sulfuré par l'action du soufre, ou des sulfures métalliques.
+
+*) L : « c'est l'amalgame fusible, suivant le mélange des espèces : plomb facilement fusible, » etc.
+
+_Mélange des espèces_ : plomb facilement fusible (amalgame), 1 partie ; pierre blanche, 2 parties ; pierre crue (ou entière),* 1 partie ; sandaraque* jaune, 1 partie ; renoncule,* 1 partie ; mélange tout cela avec du plomb pris en masse, et fais fondre par trois fois.
+
+*) V. la Nomenclature de l'Œuf, p. 19.
+
+*) Réalgar.
+
+*) Ce nom symbolique exprime quelque substance minérale jaune : voir le Lexique, p. 6.
+
 ...
