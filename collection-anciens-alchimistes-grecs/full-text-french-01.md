@@ -56,6 +56,8 @@
 
 ### [Indications Générales.](#indications-générales-2)
 
+...
+
 # [Traduction.](#traduction-1)
 
 ## [Première Partie.](#première-partie-3)
