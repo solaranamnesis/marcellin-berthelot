@@ -10353,4 +10353,106 @@ Celui qui poursuit l'étude de la science doit premièrement aimer Dieu et les h
 
 #### 1. --- 15. Sur l'Assemblée des Philosophes.
 
+1\. Les philosophes envoyèrent les uns chez les autres en vue de former une réunion, attendu qu'une querelle et un grand trouble les avait assaillis ; ce trouble venait de l'erreur qui s'est abattue sur le monde en ce qui concerne les natures, les corps,* les esprits,* touchant la question de savoir si c'est au moyen de plusieurs espèces, ou d'une seule, que s'accomplit le mystère.*
+
+*) Métaux, corps fixes.
+
+*) Corps volatils (v. _Introd._, p. 247).
+
+*) Cela paraît signifier : La transmutation s'opère-t-elle sur un métal unique, dont on change la nature spécifique ; ou bien fabrique-t-on l'or et l'argent, en les composant à la façon des alliages, tels que le bronze et le laiton ? On pourrait encore entendre par là la pierre philosophale. En effet, on lit dans un commentaire sur la _Turba philosophorum_ (_Bibl. chem._ de Manget, t. 1, p. 499) : _Multis disputationibus Lapidem vel diversis, vel duabus, vel unâ tantum re constare, diversis nominibus contendunt._ --- Voir plus haut la note 4 de la page 23.
+
+2\. Le philosophe, répondant clairement des choses connues d'eux, s'exprime ainsi : « Il n'appartient pas à ceux de notre race,* provenant d'une seule espèce, de nous reprocher nos livres et de nous jeter des imprécations à la tête. Relativement à la teinture de l'or que l'on veut obtenir, voici ce qui m'a été indiqué par les gens du métier : Si quelqu'un vient à exposer les enseignements relatifs à la multiplicité des espèces, il est dans l'erreur ; car le but poursuivi est autre. Le fourneau est unique, unique le chemin à suivre, unique aussi l'œuvre. »
+
+*) Il y a là, ce semble, une allusion au rôle des Juifs parmi les alchimistes ; des phrases analogues, mais plus précises, sont attribuées à Marie (_Origines de l'Alchimie_, p. 56).
+
+3\. Rien ne conduira au but (même au prix de 50 deniers).* Mais le seigneur Dieu l'a livré (gratuitement), à cause des mendiants et des désespérés.
+
+*) Ce passage est une interpolation évidente. Il semble qu'il y ait là un débris de quelqu'autre écrit, intercalé au hasard. La phrase qui le termine peut être rapprochée de certains énoncés, très fréquents chez les alchimistes arabes, d'après lesquels la pierre philosophale était formée de matières qui se trouvaient partout, à la disposition des plus pauvres : _Est vilis in plateis et in viis ejectus pedibus hominum calcatur et ab uno quoque paupere potest acquiri._ (Avicenne, dans _Bibl. Chem._ de Manget. t. 1, p. 633. --- voir aussi p. 935).
+
+4\. Le philosophe parle ainsi : « Prends dans les chairs* la partie jaune, car c'est la meilleure parmi les produits macérés* ; et prends la pierre ; mets sur le feu, et aussitôt après, dans l'eau ; puis reprends cette pierre, ainsi qu'une partie des chairs macérées, et mets (le tout) dans un fourneau solide, destiné à faire le verre. Prends l'huile qui surnage la pierre,* et (alors) la pierre demeure à l'état de verre. En prenant le même vinaigre, on possède le vinaigre des philosophes.* »
+
+*) L'auteur se sert ici du langage symbolique des parties du serpent (v. p. 23). Le mot chair signifie quelque matière insoluble dans les liqueurs employées, matière colorée en jaune ou en rouge.
+
+*) Il y a dans le grec un jeu de mot symbolique, relatif à l'embaumement des corps humains.
+
+*) Il semble qu'il s'agisse d'un fondant liquéfié, qui coule à la surface du métal dans le creuset.
+
+*) Vinaigre des philosophes, ou eau mercurielle qui dissout les métaux. Cette dernière phrase ne semble pas faire suite à ce qui précède. --- La première partie de l'article 15 est relativement claire ; mais la fin est trop vague pour offrir un sens précis : c'est une addition de copiste.
+
+---
+
+#### 1. --- 16. Sur la Fabrication de l'Asèm.*
+
+*) M. fol. 106. Il y a deux titres ; le signe du second est celui de l'argent.
+
+1\. Prenez du Plomb fusible,* tiré des minerais lavés. Le Plomb fusible est très compact. On le fond à plusieurs reprises, jusqu'à ce qu'il devienne asèm. Après avoir obtenu l'asèm, si vous voulez le purifier, projetez dans le creuset du verre de Cléopâtre et vous aurez de l'asèm pur. Car le plomb fusible fournit beaucoup d'asèm.* Chauffez le creuset sur un feu modéré et pas très fort.
+
+*) Le signe traduit ici par fusible est celui de l'eau. S'agit-il de l'amalgame de la page 34 ? Cette recette et celles qui suivent sont des recettes techniques, positives, analogues à celles du Papyrus de Leide.
+
+*) Entendre par asèm un alliage de plomb et d'argent (voir les recettes du Papyrus de Leide, _Introd._, p. 65).
+
+2\. _Fabrication de l'asèm._ --- Prenez de l'étain,* fondez-le, et après cinq fusions, jetez du bitume à sa surface dans le creuset. Chaque fois que vous le refondrez, coulez-le dans du sel ordinaire, jusqu'à ce qu'il devienne un asèm parfait et abondant. Si vous voulez l'employer pour un travail d'Eglise,* opérez entre le moment de la fusion et celui du durcissement.
+
+*) S'agit-il de notre étain moderne ? ou bien de cet alliage de plomb et d'argent, désigné par Pline sous le nom de _Stannum_ ? (_Introduction_, p. 250).
+
+*) Addition d'un copiste praticien ; à moins qu'il ne faille lire ἐκπλάσεως, (œuvre de) moulage, au lieu de ἐκκλησίας.
+
+3\. _Fabrication de l'asèm._ --- On le tire du plomb ordinaire purifié ; comme il est dit sur la stèle d'en haut. Il faut savoir que cent livres de plomb ordinaire fournissent dix livres d'asèm.
+
+---
+
+#### 1. --- 17. Fabrication du Cinabre.
+
+1\. On met dans un mortier une livre de soufre apyre et deux livres de mercure ; on les broie ensemble pendant un jour. On introduit le tout dans un alambic de verre ; on en ferme l'orifice avec un lut charbonneux, capable de résister au feu, épais de trois doigts. On soumet ce vase à l'action du feu, pendant 6 à 9 heures. Après ce traitement, vous trouverez une masse agglomérée, d'apparence ferrugineuse. Broyez-la à plusieurs reprises avec de l'eau, pour obtenir une couleur dorée. Car plus vous broierez, plus elle deviendra jaune. Le soufre apyre rend fixes les matières volatiles.
+
+2\. _Sur le cinabre._ --- Il faut savoir que la régénération (du mercure au moyen) du cinabre se fait au moyen de l'huile de natron.* On fond sur un feu léger, comme vous le comprenez bien.
+
+*) Emploi de la soude pour réduire le sulfure de mercure.
+
+3\. _Autre article sur le cinabre._* --- Il faut savoir que la magnésie* du verrier est de la nature de celle de l'Asie, au moyen de laquelle le verre reçoit des teintures ; c'est avec elle que se fabriquent le fer de l'Inde et les épées merveilleuses.
+
+*) Dans ce §, cinabre signifie la sanguine, ou hématite, et non le sulfure de mercure.
+
+*) Le mot de magnésie désigne ici le minerai de fer magnétique, employé à la fois dans la fabrication du verre et dans celle des armes.
+
+---
+
+#### 1. --- 18. Diplosis de Moïse.*
+
+*) Voir _Introd._, p. 61. C'est un procédé pour fabriquer de l'or à bas titre ; aussi bien que le procédé suivant. 
+
+Cuivre de Calaïs,* 1 once ; arsenic, soufre apyre, 1 once, et plomb* natif, 1 once ; sandaraque décomposée, 1 once. Broyez dans l'huile de raifort, avec du plomb, pendant trois jours. Mettez dans l'_acmadion_ (vase de grillage) et placez sur des charbons, jusqu'à désulfuration ; puis retirez, et vous trouverez votre produit. De ce cuivre, prenez 1 partie et 3 parties d'or ; faites fondre, en poussant vivement la fusion, et vous trouverez le tout changé en or, avec l'aide de Dieu.
+
+*) Voir _Lexique Alchimique_, p. 9.
+
+*) Le signe du plomb est parfois le même que celui du soufre : _Introd._, p. 102. --- Voir aussi dans le _Lexique_, p. 8 et 9, deux des articles : _Eau de soufre_, p. 9, l'article _Soufre blanc_ ; et p. 13, l'article _Osiris_.
+
+---
+
+#### 1. --- 19. Diplosis d'Eugenius.*
+
+*) Ce nom ne reparaît pas ailleurs dans nos ouvrages alchimiques. --- Il rappelle celui du rhéteur païen, proclamé empereur par Arbogaste et mis à mort par Théodose en 394.
+
+Cuivre brûlé, 3 parties ; or, 1 partie. Faites fondre, et ajoutez de l'arsenic. Faites brûler et vous trouverez le produit ramolli. Ensuite broyez dans du vinaigre, pendant 7 jours, au soleil. Puis, après avoir desséché, faites fondre de l'argent, et quand il est à point,* projetez-y cette composition : vous trouverez l'argent à l'état d'électrum. Mélangez au produit de l'or, à parties égales, et vous aurez un bel or pur.
+
+*) J'adopte γελάσαντι.
+
+---
+
+#### 1. --- 20. Le Labyrinthe que Salomon avait fait Construire.*
+
+*) Voir la figure 30, _Introd._, p. 157. --- Ce labyrinthe est une œuvre cabalistique du moyen âge, qui n'appartient pas à la vieille tradition des Alchimistes grecs.
+
+As-tu entendu parler, étranger, d'un labyrinthe dont Salomon forma le plan dans son esprit et qu'il fit construire avec des pierres rassemblées en rond ? Ce dessin en représente la disposition, la forme et la complication, tracées par des lignes fines, d'une façon rationnelle. En voyant ses mille circuits, de l'intérieur à l'extérieur, ses routes sphériques qui reviennent en rond, de çà et de là, sur elles-mêmes, apprends le cours circulaire de la vie, te manifestant ainsi les coudes glissants de ses chemins brusquement repliés. Par ses évolutions sphériques, circulaires, il s'enroule subtilement en cordons composés ; de même que le serpent pernicieux, dans ses replis, rampe et se glisse, d'une façon tantôt manifeste, et tantôt secrète.
+
+Il a une porte placée obliquement et d'un accès difficile. Plus tu accours du dehors, en voulant t'élancer, plus lui-même, par ses détours subits, (t')engage à l'intérieur, vers la profondeur où se trouve la sortie. Il te séduit chaque jour dans tes courses ; il se joue et se moque de toi par les retours de l'espérance ; comme un songe qui t'abuse par des visions vaines, jusqu'à ce que le temps qui règle la comédie se soit écoulé, et que le trépas, hélas ! réglant tout dans l'ombre, t'ait reçu, sans te permettre de réussir à atteindre la sortie.
+
+---
+
+## Deuxième Partie.
+
+### Traités Démocritains.
+
+#### 2. --- 1. Démocrite Questions Naturelles et Mystérieuses.
+
 ...
