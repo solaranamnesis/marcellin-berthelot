@@ -10463,4 +10463,49 @@ Il a une porte placée obliquement et d'un accès difficile. Plus tu accours du 
 
 #### 2. --- 1. Démocrite Questions Naturelles et Mystérieuses.
 
+1\. Mettez dans une livre de pourpre, un poids de deux oboles de scories de fer, macérées dans sept drachmes d'urine, posez sur le feu jusqu'à ébullition. Puis, enlevant du feu la décoction, mettez le tout dans un vase. Retirant d'abord la pourpre, versez la décoction sur la pourpre et laissez tremper une nuit et un jour. Puis, prenant quatre livres de lichen marin,* versez de l'eau de façon qu'il y ait au-dessus du lichen quatre doigts d'eau, et tenez (le mélange dans cet état) jusqu'à ce qu'il s'épaississe ; filtrez alors, faites chauffer et versez sur la laine disposée d'avance. Foulez ce qui est trop lâche, de façon que le jus pénètre la laine à fond ; puis laissez deux nuits et deux jours. Prenez ensuite et faites sécher à l'ombre ; déversez le jus.
+
+*) Orseille.
+
+Puis reprenez le même jus et, dans deux livres de ce jus, mettez de l'eau, de façon à reproduire la première proportion. Tenez de même (le mélange dans cet état), jusqu'à ce qu'il s'épaississe ; puis l'ayant filtré, mettez-y de la laine, comme tout d'abord, et laissez une nuit et un jour. Prenez ensuite et rincez dans l'urine, puis séchez à l'ombre.
+
+Prenez de l'orcanette,* broyez ; mettez quatre livres d'oseille et faites bouillir avec de l'urine, jusqu'à ce que l'oseille soit délayée ; ayant filtré l'eau, mettez l'orcanette, faites cuire jusqu'à épaississement et, ayant filtré à nouveau l'orcanette, mettez la laine. Ensuite lavez avec l'urine, et après cela avec de l'eau. Faites sécher de même à l'ombre, Exposez aux vapeurs des algues marines la laine trempée dans l'urine, pendant 2 jours.
+
+*) Ici commence un second procédé de teinture en pourpre, indépendant du premier. On procède cette fois au moyen de la Laccha. --- Le mot _orcanette_ est indiqué comme traduction commune pour les mots _laccha_ et _anchusa_, par les dictionnaires (Voir aussi **Saumaise**, _Plinianæ exercitationes_).  
+Dans la recette 96 des Papyrus de Leide (_Introd._, p. 48) ; il y a aussi deux procédés parallèles de teinture, l'un avec l'orseille, l'autre avec l'orcanette. Ces deux matières différentes formaient-elles la base des teintures doubles (étoffes δίβαφοι, dont parlent les anciens auteurs) ? ou bien celles-ci étaient-elles exécutées avec une même matière ? La description ci-dessus, reproduisant deux fois le traitement avec l'orseille, est plutôt favorable à la seconde opinion.
+
+2\. Voici ce qui entre dans la composition de la pourpre : l'algue qu'on appelle fausse pourpre,* le coccus,* la couleur marine,* l'orcanette* de Laodicée, le cremnos,* la garance d'Italie, le phyllanthion d'Occident,* le ver à pourpre,* tiré de ... le rose d'Italie. Ces couleurs ont été estimées entre toutes par nos prédécesseurs. Celles qui ne donnent pas de teinture fixe sont de nulle valeur. Telles sont la cochenille de Galatie, la couleur d'Achaïe, qu'on appelle laccha, celle de Syrie qu'on appelle rhizion, le coquillage et le double coquillage de Libye, la coquille d'Égypte de la région maritime qu'on appelle pinna, la plante appelée isatis, et la couleur de la Syrie supérieure que l'on appelle murex. Ces couleurs ne sont pas solides, ni estimées parmi nous, excepté celle de l'isatis.*
+
+*) Mot à mot : faux coquillage.
+
+*) Sorte de cochenille.
+
+*) Orseille.
+
+*) Anchusa.
+
+*) Matière inconnu.
+
+*) Ou des plongeurs ?
+
+*) Voir _Salmasii Plinianæ exercitationes_, p. 192, _b_, _E_ et _F_. et pages suivantes (1689).
+
+*) Ce qui précède est le fragment de divers procédés de teinture en pourpre, tirés des notes de quelque teinturier et analogues aux recettes du Papyrus de Leide (_Introd._, p. 48). Puis vient un morceau magique, suivi d'un fragment alchimique : v. _Origines de l'Alchimie_, p. 150. --- La traduction actuelle du premier fragment a été soumise à une révision nouvelle.
+
+3\. Ayant recueilli ces notions de notre maître précité, et connaissant la diversité de la matière, nous nous sommes efforcés de faire concorder les natures. Mais, notre maître étant mort avant que nous fussions initiés, et dans un temps où nous nous occupions encore de la connaissance de la matière, on nous dit qu'il fallait essayer de l'évoquer de l'Hadès. Et je m'efforçais d'atteindre ce but, en l'invoquant directement par ces mots : Par quels dons récompenses-tu ce que j'ai fait pour toi ? Après ces mots, je gardai le silence. Comme je l'invoquais à plusieurs reprises, lui demandant comment je pourrais faire concorder les natures, il me dit qu'il lui était difficile de parler sans la permission du Démon (génie). Et il prononça seulement ces mots : « Les livres sont dans le Temple. »
+
+Retournant au Temple, je me mis à chercher si je pouvais être mis en possession des livres ; car il ne m'avait pas parlé de ces livres de son vivant, étant mort sans avoir fait de dispositions testamentaires. Il avait, à ce qu'on prétend, pris un poison pour séparer son âme de son corps ; ou bien, à ce que dit son fils, il avait avalé du poison par mégarde. Or, avant sa mort, il comptait montrer les livres à son fils seulement, quand celui-ci aurait dépassé le premier âge. Aucun de nous ne savait rien de ces livres. Comme après avoir fait des investigations nous n'avions rien trouvé, nous nous donnions un mal terrible (pour savoir) comment s'unissent et se confondent les substances et les natures. Mais lorsque nous eûmes opéré les compositions de la matière, le temps étant venu d'une cérémonie dans le Temple, nous fîmes un festin en commun. Donc, comme nous étions dans le naos, tout d'un coup, une certaine colonne s'ouvrit, mais nous n'y vîmes rien à l'intérieur. Or, ni lui, ni personne ne nous avait dit que les livres de son père y eussent été déposés. S'étant avancé, il nous conduisit à la colonne ; nous étant penchés, nous vîmes avec surprise que rien ne nous avait échappé, sauf cette formule précieuse que nous y trouvâmes :
+
+« La nature jouit de la nature ; la nature triomphe de la nature ; la nature maîtrise la nature. »
+
+Nous fûmes très surpris qu'il eût rassemblé en si peu de mots tout son écrit.
+
+« Je viens* moi aussi apporter en Égypte le traité sur les (questions) naturelles, afin que vous vous éleviez au-dessus de la curiosité du vulgaire* et de la matière confuse. »
+
+*) Ceci paraît être le vrai commencement du traité du Pseudo-Démocrite ; ce qui précède représentant des lambeaux surajoutés. Le traité même est constitué par les deux livres sur le blanc et le jaune, c'est-à-dire l'Argyropée et la Chrysopée, dont parle Synésius.
+
+*) Cette expression semblait consacrée dans les expositions de doctrine secrète : διὰ τὴν τῶν πολλῶν περιεργίαν, dit aussi le Papyrus V de Leide, col. 12, l. 18 (_Introd._, p. 10).
+
+**Chrysopée**
+
 ...
