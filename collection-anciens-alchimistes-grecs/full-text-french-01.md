@@ -10508,4 +10508,73 @@ Nous fûmes très surpris qu'il eût rassemblé en si peu de mots tout son écri
 
 **Chrysopée**
 
+4\. Prenant du mercure, fixez-le avec le corps métallique* de la magnésie,* ou avec le corps métallique de l'antimoine d'Italie, ou avec du soufre apyre, ou avec de la sélénite, ou avec de la pierre calcaire cuite, ou avec l'alun de Milo, ou avec l'arsenic,* ou comme vous l'entendrez. Mettez la terre blanche (ainsi préparée) sur du cuivre et vous aurez du cuivre sans ombre.* Ajoutez de l'argent jaune* et vous aurez de l'or ; avec l'or (le résultat) sera du chrysocorail* réduit en corps (métallique).
+
+*) Métal réduit de ses minerais, ou autres composés.
+
+*) Ce mot signifiait à l'origine la pierre magnétique ; mais dans le _Lexique_, il est traduit par : plomb blanc, pyrite, antimoine femelle (sulfure d'antimoine en grands cristaux), cadmie (oxyde de zinc impur, mêlé de cuivre). Il désignait aussi l'étain et l'alliage du cuivre et du plomb. Les sens multiples de ce mot ont été donnés dans l'_Introduction_, p. 255. Il semble en particulier qu'il s'appliquât à tout minerai noir ou blanc, susceptible de fournir par sa réduction un métal, un alliage, ou un amalgame, blanc et fusible.
+
+*) Sulfure d'arsenic : soit l'orpiment.
+
+*) C'est-à-dire désoxydé, blanchi et amené à un éclat uniforme. D'après le _Lexique_, p. 6 : le cuivre couvert d'ombre, c'est la fleur de cuivre (protoxyde, sous-sels, vert-de-gris). (_Introd._, p. 232.)
+
+*) Ou plutôt de l'Electrum, d'après le signe de B.
+
+*) Autrement dit coquille d'or, expression encore usitée en orfèvrerie.
+
+Le même effet s'obtient avec l'arsenic jaune* et la sandaraque* traitée convenablement, ainsi qu'avec le cinabre tout à fait transformé. Le mercure seul produit le cuivre sans ombre. La nature triomphe de la nature.*
+
+*) Orpiment.
+
+*) Réalgar.
+
+*) Voici quelle paraît être la signification générale des recettes de ce paragraphe. Faites avec le mercure un amalgame, ou éteignez le avec une substance quelconque. Puis étendez le produit (terre blanche) sur le cuivre ; celui-ci deviendra d'un éclat argentin uniforme.  
+Cette terre ou pâte blanche est encore désignée sous le nom d'amalgame fusible, et de préparation blanche, à la fin de la lettre d'_Isis à Horus_, p. 34.  
+Les composés arsénicaux peuvent aussi blanchir le cuivre par sublimation ; de même le cinabre, soit à chaud, soit en le décomposant par quelque artifice. Enfin le cuivre blanchi à la surface peut être doré ensuite par un traitement convenable, au moyen de l'électrum, ou de l'or en feuilles, ou en poudre (coquille d'or).  
+Il s'agirait donc en fait d'un procédé d'argenture apparente du cuivre, précédant une dorure superficielle : ce qui est conforme aux analogies tirées du Papyrus de Leide. (_Introd._, p. 56.)
+
+5\. Traitez la pyrite d'argent, que l'on nomme aussi sidérite, suivant l'usage, de manière à la rendre fluide. Or, on la rendra fluide au moyen de la litharge grise, ou de la blanche, ou au moyen de l'antimoine d'Italie. Puis saupoudrez avec du plomb (je ne dis pas simplement avec du plomb, pour que vous ne fassiez pas d'erreur, mais avec le plomb de Coptos) et avec notre litharge noire, ou comme vous l'entendrez. Faites chauffer, puis mettez dans la matière du jaune factice et teignez.* La nature jouit de la nature.
+
+*) Cette recette paraît signifier que l'on doit traiter un minerai d'argent (argent sulfuré, couleur gris d'acier) par la litharge et le plomb (ou l'antimoine), de façon à obtenir un alliage ; puis on colore cet alliage en jaune, à l'aide d'une matière non définie ici.
+
+6\. Traitez la pyrite jusqu'à ce qu'elle devienne incombustible,* après avoir perdu sa couleur noire. Traitez-la avec la saumure, ou avec l'urine non corrompue, ou avec l'eau de mer, ou avec l'oxymel, ou comme vous l'entendrez, et faites cuire jusqu'à ce qu'elle devienne pareille aux paillettes d'or qui n'ont pas subi l'action du feu. Cela réalisé, mêlez-y du soufre apyre ou de l'alun jaune, ou de l'ocre attique, ou ce qui vous conviendra. Puis ajoutez de l'argent, pour avoir de l'or ; et de l'or, pour avoir la coquille d'or. La nature domine la nature.*
+
+*) C'est-à-dire grillez, jusqu'à désulfuration et disparition de la couleur gris d'acier du sulfure d'argent, ou analogue.
+
+*) Cette recette paraît exprimer le grillage de la pyrite argentifère, suivie de traitements par des liqueurs renfermant du chlorure de sodium. Finalement, on prépare un alliage couleur d'or, et renfermant soit de l'argent, soit une certaine dose d'or, associés au cuivre et à d'autres métaux.
+
+7\. _Fabrication de l'or jaune._ --- Prenant du claudianos,* rendez-le brillant et traitez-le selon l'usage, jusqu'à ce qu'il devienne jaune. Par conséquent jaunissez-le (pour jaunir je ne parle pas de la pierre, mais de la partie utile de la pierre).* Or vous jaunirez avec l'alun décomposé, avec le soufre, ou avec l'arsenic, ou avec la sandaraque, ou avec le calcaire, ou avec ce que vous voudrez. Et si vous ajoutez ce composé à l'argent, vous obtiendrez de l'or ; si vous l'ajoutez à l'or, vous obtiendrez de la coquille d'or.* La nature victorieuse domine la nature.
+
+*) Alliage du plomb avec le cuivre, l'étain, le zinc, etc. (_Introd._, p. 244, et _Lexique_, p. 10).
+
+*) Glose d'un copiste, intercalée dans le texte.
+
+*) Cette recette a pour objet la fabrication d'un alliage couleur d'or, avec le concours de l'arsenic (_Introd._, p. 67).
+
+8\. Rendez le cinabre* blanc au moyen de l'huile, ou du vinaigre, ou du miel, ou de la saumure, ou de l'alun* ; puis jaune au moyen du misy, ou du sory,* ou de la couperose, ou du soufre apyre, ou comme vous l'entendrez. Jetez (le mélange) sur de l'argent et vous obtiendrez de l'or, si vous avez opéré la teinture en vue de l'or ; ou de l'électrum, si vous avez opéré sur du cuivre.* La nature jouit de la nature.
+
+*) S'agit-il du sulfure de mercure, ou bien du minium ? (V. _Introd._, p. 244).
+
+*) Un commentateur du 15e siècle a écrit en marge une interprétation mystique. « L'alun, et l'éther, et le mercure, et le cuivre sans ombre. »
+
+*) Minerais de cuivre. Voir _Introd._, p. 242.
+
+*) Dans cette recette, il s'agit d'un vernis couleur d'or (_Introd._, p. 59).
+
+9\. Faites blanchir selon l'usage la cadmie de Chypre, je parle de celle qui a été affinée. Ensuite faites-la jaunir ; or vous la jaunirez avec de la bile de veau, ou de la térébenthine, ou de l'huile de ricin, ou de raifort, ou avec des jaunes d'œufs, toutes substances pouvant la jaunir ; puis jetez le mélange sur de l'or. Car l'or s'obtiendra au moyen de l'or et de la liqueur d'or. La nature triomphe de la nature.*
+
+*) C'est une recette de vernis pour teindre superficiellement en or ; ou pour modifier la couleur d'un objet d'or.
+
+10\. Traitez l'androdamas* avec du vin âpre au goût, ou de l'eau de mer, ou de l'urine, ou de la saumure, toutes substances pouvant éteindre sa force naturelle. Délayez avec de l'antimoine de Chalcédoine, puis traitez de nouveau avec de l'eau de mer, ou de la saumure pure, ou mêlée de vinaigre. Lavez jusqu'à ce que la couleur noire de l'antimoine ait disparu.* Faites griller ou cuire, jusqu'à ce que la matière ait jauni* ; puis faites bouillir dans l'eau du soufre natif.* Jetez sur l'argent et, lorsque vous aurez mis du soufre apyre, vous obtiendrez de la liqueur d'or.* La nature domine la nature.
+
+*) D'après le _Lexique_, p. 9 : Pyrite et arsenic, c'est-à-dire pyrite arsenicale. M et A mettent en marge le signe de l'or, qui se rapportait à la couleur de ces substances : du moins à l'origine de ces recettes, et tant qu'elles ont eu un caractère pratique ; car plus tard les commentateurs les ont entendues dans un sens mystique.
+
+*) Les sulfures métalliques sont changés par là, en vertu d'une oxydation lente, en oxysulfures, et sels basiques.
+
+*) Formation d'oxysulfures.
+
+*) Polysulfure de calcium, ou analogue, d'après le papyrus de Leide. (_Introd._, p. 68). Mais le sens du mot est plus compréhensif d'après le _Lexique_, p. 8 et 9.
+
+*) C'est-à-dire teignant l'argent en or, par une sulfuration superficielle. --- Une recette analogue se trouve dans le papyrus de Leide, à la suite de l'article sur l'eau de soufre (_Introd._, p. 47).
+
 ...
