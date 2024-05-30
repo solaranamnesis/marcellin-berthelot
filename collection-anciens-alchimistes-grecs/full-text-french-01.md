@@ -62,6 +62,12 @@
 
 ### [Indications Générales.](#indications-générales-3)
 
+## [Deuxième Partie.](#deuxième-partie-1)
+
+### [Traités Démocritains.](#traités-démocritains-1)
+
+...
+
 ---
 
 # Avant-Propos.
