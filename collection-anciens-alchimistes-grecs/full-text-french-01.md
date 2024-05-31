@@ -10577,4 +10577,223 @@ Il s'agirait donc en fait d'un procédé d'argenture apparente du cuivre, préc�
 
 *) C'est-à-dire teignant l'argent en or, par une sulfuration superficielle. --- Une recette analogue se trouve dans le papyrus de Leide, à la suite de l'article sur l'eau de soufre (_Introd._, p. 47).
 
+11\. Prenant de la terre blanche, j'entends celle que l'on tire de la céruse, et des scories d'argent,* ou de l'antimoine d'Italie ; puis de la magnésie, ou encore de la litharge blanche, faites blanchir. Or vous faites blanchir (cette terre) avec de l'eau de mer ou de la saumure adoucie, ou de l'eau du ciel : j'entends en l'exposant à la rosée et au soleil, de façon que (cette terre) réduite en poudre devienne blanche comme la céruse. Faites fondre et mettez de la fleur de cuivre* et de la rouille raclée (je parle de celle qui a subi le traitement) ; ou bien du cuivre brûlé très altéré, ou de la chalcite ; et jetez-y du bleu,* jusqu'à ce que la matière devienne solide et compacte, effet qui sera facilement obtenu. Ce que l'on obtient ainsi, c'est le molybdochalque.* Assurez-vous si le produit est d'une teinte claire : s'il n'en est pas ainsi, ne vous en prenez pas au cuivre, mais plutôt à vous-même, vu que vous n'aurez pas fait une bonne opération. Préparez donc un métal de teinte claire, divisez-le et ajoutez les substances capables de le jaunir ; cuisez, jusqu'à ce que la couleur jaune soit obtenue. Ajoutez-en dans toute espèce de corps métallique ; car le cuivre de teinte claire, en devenant jaune, teint toute espèce de corps.* La nature triomphe de la nature.
+
+*) Après coupellation.
+
+*) Voir Dioscoride, _Mat. méd._, 5, 88. --- Ce mot désigne un protoxyde de cuivre impur et des sous-sels. (_Introd._, p. 232).
+
+*) Azurite, hydrocarbonate de cuivre ou corps analogues. (_Introd._, p. 243). 
+
+*) Alliage de cuivre et de plomb (parfois avec antimoine, etc.). --- Ce qui précède en décrit la préparation avec assez de clarté.
+
+*) Ceci est une recette d'alliage jaune (bronze ou laiton), à base de cuivre et de plomb (et d'antimoine).
+
+12\. Délayez avec du soufre apyre, du sory et de la couperose. Le sory est une matière bleuâtre, rugueuse, que l'on trouve toujours dans le misy : on l'appelle couperose verte.* Faites le cuire sur un feu modéré pendant trois jours, jusqu'à ce qu'il devienne jaune.* Jetez-le sur le cuivre, ou sur l'argent fabriqué par nous, et vous aurez de l'or.*
+
+*) Sulfate de protoxyde de fer, probablement mêlé de sulfate de cuivre.
+
+*) Le sulfate de fer se change ainsi en sel basique de peroxyde.
+
+*) C'est-à-dire que le métal sera teint à la surface d'une couleur dorée.
+
+Déposez le métal réduit en feuilles dans du vinaigre, de la couperose, du misy, de l'alun, du sel de Cappadoce, du natron roux, ou ce que vous voudrez, pendant trois ou cinq ou six jours, jusqu'à ce qu'il se forme de la rouille, puis teignez.* Car la couperose fait de l'or avec la rouille. La nature jouit de la nature.
+
+*) Cette phrase se rapporte à une autre recette, probablement celle de l'affinage de l'or par voie sèche. (V. _Introd._, p. 14 à 16.)
+
+13\. _Mélange pour la teinture._ Traitez la chrysocolle de Macédoine,* qui ressemble à la rouille de cuivre, en (la) délayant dans l'urine de génisse, jusqu'à ce qu'elle soit transformée. Car la nature est cachée à l'intérieur (des substances). Quand la chrysocolle sera transformée, plongez la dans l'huile de ricin, en faisant passer au feu à plusieurs reprises et en teignant. Ensuite mettez cuire avec de l'alun, après avoir préalablement délayé avec du misy, ou du soufre apyre ; jaunissez et teignez tout le métal en or.*
+
+*) Chrysocolle signifie à la fois alliage d'or pour soudure, et malachite. (V. _Introduction_, page 243.)
+
+*) Il semble qu'il s'agisse d'un affinage superficiel, par cémentation de l'alliage d'or.
+
+14\. O natures productrices des natures,* ô natures majestueuses qui triomphez des natures par les transformations, ô natures qui charmez les natures d'une façon surnaturelle ! Telles sont donc les choses qui concernent la grande nature. Il n'y a pas d'autres natures supérieures à celles-ci, dans les teintures ; il n'en est pas d'égales, ni d'inférieures. Toutes ces choses sont exécutées au moyen de la dissolution. O mes confrères en prophétie, je sais que vous n'avez pas été enclins à l'incrédulité, mais à l'étonnement ; car vous connaissez la puissance de la matière. Tandis que les jeunes gens sont embarrassés et n'ajoutent pas foi à ce qui est écrit, parce qu'ils sont dominés par leur ignorance de la matière ; ne sachant pas que les enfants des médecins, lorsqu'ils veulent préparer un médicament propre à guérir, n'entreprennent pas de le faire avec un élan inconsidéré ; mais ils essaient d'abord quelle substance est chaude, quelle autre réunie à celle-ci opère un mélange moyen ; quelle substance est froide ou humide, et dans quelle condition elle doit être pour favoriser un mélange moyen. Et c'est de cette façon qu'ils préparent le médicament qu'ils destinent à la guérison.
+
+*) Le charlatan enthousiaste reparaît ici.
+
+15\. Mais ceux-ci, qui se proposent de préparer la cure de l'âme et la délivrance de toute peine, ne s'aperçoivent pas qu'ils seront embarrassés en procédant par un élan dénué de discernement et de raison. En effet, croyant que nous tenons des discours fabuleux et non symboliques, ils ne font aucune épreuve des espèces : de manière à voir par exemple si telle espèce est bonne pour nettoyer, telle autre accessoire ; telle bonne pour teindre, telle pour produire la combinaison complète ; si telle convient pour donner du brillant ; tandis que telle autre est à éviter par rapport au brillant. Ils ne cherchent pas si telle substance ressortira du fond (de la matière teinte) ; si telle autre résistera au feu, et si telle autre par son adjonction rendra le corps plus résistant au feu. Ainsi, par exemple, comment le sel nettoie la surface du cuivre et même ses parties internes ; et comment il rouille* les parties externes, après le décapage, et même les parties internes. Et ensuite, comment le mercure blanchit les parties externes du chrysochalque et les nettoie, et comment il blanchit les parties internes ; comment il est éliminé à la surface et comment il sera éliminé des parties internes. Si les jeunes gens étaient exercés dans ces matières, ils n'échoueraient pas dans les préparations entreprises précipitamment. Car ils ne savent pas qu'une seule espèce transforme jusqu'à dix espèces de natures contraires. En effet une goutte d'huile suffit à faire disparaître une grande quantité de pourpre, et un peu de soufre peut brûler beaucoup d'espèces. Voilà ce que nous avions à dire sur les substances sèches, et comment il faut donner son attention à ce qui est écrit.
+
+*) Par une action immédiate, il décape ; tandis que par un contact et une action prolongés, il détermine la formation d'une rouille (oxychlorure de cuivre). Tout ceci est assez clair.
+
+16\. Maintenant, parlons des liqueurs. Prenant de la rhubarbe pontique, broyez-la dans du vin aminéen de saveur âpre. Amenez en consistance cireuse, étendez sur la feuille d'argent,* afin de produire l'or.* Donnez l'épaisseur de l'ongle et servez-vous d'une couche encore plus mince de la préparation ; placez-la dans un vase neuf, luté de toutes parts ; faites chauffer doucement jusqu'à pénétration jusqu'au centre de la feuille. Puis mettez la feuille métallique* dans le reste de la préparation.
+
+*) Il s'agit ici de teindre en or l'argent (μήνη), à l'aide d'une couleur appliquée à sa surface (v. Papyrus de Leide et _Introduction_, p. 6). Il en est de même du procédé suivant.
+
+*) C'est-à-dire la couleur d'or superficielle, ou vernis.
+
+*) Que vous voulez teindre.
+
+Délayez dans le vin prescrit pour cet usage, jusqu'à ce que la liqueur s'épaississe. Mettez-y aussitôt la feuille, avant qu'elle ne soit encore refroidie. Laissez l'imbibition se faire. Puis prenant (la feuille), fondez et vous trouverez de l'or.
+
+Si la rhubarbe est ancienne, mêlez-y une égale quantité de chélidoine, que vous aurez préalablement macérée selon l'usage ; en effet la chélidoine a de l'affinité pour la rhubarbe. La nature jouit de la nature.
+
+17\. Prenez du safran de Cilicie* ; délayez les fleurs de safran dans le jus de la vigne prescrit pour cet usage et faites une liqueur, à la manière ordinaire. Trempez-y l'argent en feuilles, jusqu'à ce que la couleur vous plaise. Et si c'est une feuille de cuivre, cela vaudra mieux : purifiez le cuivre au préalable, suivant l'usage. Puis prenant de la plante aristoloche, deux parties ; du safran et de la chéildoine, une dose double : mettez en consistance de cire et, après avoir enduit la feuille, travaillez suivant la première marche : vous serez surpris du résultat.
+
+*) Dans les ms. A et B il y a au-dessus le signe du mercure (arsenic métallique). Peut-être s'agit-il d'un composé arsenical. En effet le mot _safran_ a été appliqué jusqu'à notre temps à divers composés minéraux jaunes : _safran de Mars_ signifie un oxyde ou sel basique de fer ; _safran des métaux_, un oxysulfure d'antimoine. --- Misy cru signifie aussi safran, d'après la _Chimie de Moïse_ (publiée plus loin).
+
+En effet le safran de Cilicie a la même action que le mercure ; comme le cassia a la même action que la cannelle. La nature triomphe de la nature.
+
+18\. Prenant notre plomb rendu peu fusible,* au moyen de la terre de Chio, de la pierre de Paros et de l'alun ; faites-le fondre sur un feu de paille et projetez sur de la pyrite.
+
+*) Voir _Introd._, p. 28, 1re recette du Papyrus de Leide ;--- p. 35, 24e recette ; p. 44, 84e recette.
+
+Prenez (d'autre part) le safran, le carthame, la fleur d'œchomène,* la chélidoine, le marc de safran et l'aristoloche ; délayez-les dans du vinaigre très fort et faites une liqueur, suivant l'usage ; puis laissez le plomb s'imbiber dans de la rhubarbe, et vous trouverez de l'or.* Que la composition contienne aussi un peu de soufre. La nature domine la nature.
+
+*) Echomène dans le Lexique. --- Basilic ? --- (_Lexique_, p. 8, note).
+
+*) C'est encore une recette pour vernir en couleur d'or la surface des métaux.
+
+19\. Cette matière de la Chrysopée, accomplie par des opérations naturelles, est celle de Pamménès, qui l'enseigna aux prêtres en Egypte. Or ne vous étonnez pas si une seule espèce accomplit un tel mystère.* Ne savez-vous pas que la multiplicité des préparations, même avec beaucoup de temps et de peine, ne ressoude pas la fracture du fer ; tandis que l'excrément humain* y réussit aussitôt. Dans les maladies qui exigent l'emploi des caustiques, la multiplicité des remèdes ne sert à rien ; tandis que la chaux vive seule, mise en œuvre convenablement, guérit la maladie. Souvent la variété des traitements dans l'ophthalmie a pour effet de faire du mal ; tandis que le nerprun épineux est une plante qui réussit bien, dans toute affection de ce genre. Il faut donc dédaigner cet ensemble de matières vaines et intempestives et se servir des seules substances naturelles (convenables).* Maintenant jugez d'après cela si quelqu'un peut accomplir l'œuvre, sans les natures exposées précédemment. Mais si l'on ne peut rien faire sans elles, pourquoi aimons-nous cette fantaisie de matières diverses ? Pourquoi, chez nous, ce concours de nombreuses espèces tendant au même résultat, étant donné qu'une seule nature triomphe du Tout ?
+
+*) Voir 1, 15, p. 37.
+
+*) Il s'agit de quelque recette pour raccommoder le fer.
+
+*) Note du 14e siècle dans M, au bas de la page : « La lie brûlée avec le sel a la même vertu que le borax pour la soudure. »  
+« Pour braser ( ? ) : le soufre et l'urine, et le vinaigre et l'ail, un peu de sel et un peu d'eau. »  
+Suit une troisième recette, avec des mots barbares.
+
+Voyons la composition des espèces, en vue de l'Argyropée.
+
+**Fabrication de l'Asèm** *
+
+*) Ce titre, comparé à la phrase précédente, tend à identifier l'asèm avec l'argent ; ce qui est en effet le sens moderne du mot ἄσημος. Mais à l'origine l'asèm était un alliage spécial, intermédiaire entre l'or et l'argent, et analogue à l'électrum. --- (_Introd._, p. 62.)
+
+20\. Fixez suivant l'usage le mercure* tiré de l'arsenic ou de la sandaraque, ou préparé comme vous l'entendrez ; projetez (le) sur le cuivre et le fer* traité par le soufre, et le métal deviendra blanc.*
+
+*) Le mot mercure signifie ici notre arsenic sublimé. (_Introd._, p. 99 et 239.)
+
+*) Leçon de A B : « mettez du cuivre dans du fer ... »
+
+*) Cette recette répond au blanchiment d'un alliage cuivreux par les composés arsenicaux. --- La suivante est plus obscure ; mais elle paraît avoir le même sens. --- En raison de ce blanchiment, on croyait que les composés arsenicaux contenaient une espèce de mercure. (_Introd._, p. 99.)
+
+Le même effet est produit par la magnésie blanchie,* l'arsenic* transformé,* la cadmie calcinée, la sandaraque* apyre,* la pyrite blanchie,* et la céruse* cuite avec du soufre. Vous amollirez le fer en y mettant de la magnésie, ou du soufre,* moitié moins, ou de la pierre magnétique en petite quantité ; car la pierre magnétique a de l'affinité pour le fer. La nature charme la nature.
+
+*) Signe du cinabre au-dessus, dans M. S'agit-il d'un amalgame ? (_Voir Introd._, p. 255.)
+
+*) Signe de l'or au-dessus, M. Est-ce l'arsenic couleur d'or (orpiment) ?
+
+*) Par grillage. Signe de l'argent au-dessus, M.
+
+*) Les deux signes (Pl. 2, l. 17 ; _Introd._, p. 108) du sel ammoniac, au-dessus des mots cadmie et sandaraque, M. L.
+
+*) Au-dessus, le mot « exact, » M. Ce qui semble indiquer que les signes précédents représentent une variante de la recette, par interprétation.
+
+*) Au-dessus, le signe du cinabre, M.
+
+*) Au-dessus, le signe du mercure, M.
+
+*) Au-dessus, le mot « exact » dans M.
+
+21\. Prenant la vapeur* décrite précédemment, faites la cuire dans l'huile de ricin* ou de raifort, avec addition d'un peu d'alun. Puis prenant de l'étain, purifiez avec du soufre suivant l'usage, ou avec de la pyrite,* ou comme vous l'entendrez. Incorporez avec la vapeur (mercurielle) et faites le mélange. Mettez cuire sur une flamme enveloppante, et vous trouverez un produit analogue à la céruse. Cette préparation blanchit toute sorte de corps (métalliques). Mêlez-y dans les projections la terre de Chio,* ou l'astérite, ou la sélénite, ou ce que vous voudrez ; car la sélénite mêlée au mercure blanchit toute sorte de corps. La nature triomphe de la nature.*
+
+*) Dans A et B à la place de νεφέλην, le signe du mercure. Est-ce le mercure ? ou l'arsenic ?
+
+*) Au-dessus, le signe du soufre, M.
+
+*) Au-dessus, le signe de l'or, M. --- Pyrite couleur d'or.
+
+*) Au-dessus, le signe du cinabre, M.
+
+*) Cette recette répond à la préparation d'une composition propre à blanchir les métaux par amalgamation superficielle. --- Voir papyrus X de Leide, recette n° 86. (_Introd._, p. 46.)
+
+22\. Magnésie blanche* : blanchissez-la avec de la saumure et de l'alun lamelleux, dans de l'eau de mer* ; ou dans un jus naturel, je parle du jus de citron ; ou bien dans la vapeur de soufre. Car la fumée du soufre étant blanche, blanchit tout. Quelques-uns disent aussi que la fumée des cobathia* blanchit (la magnésie ? ). Mêlez-y après le blanchiment une quantité égale de lie, afin qu'elle devienne très blanche. Après avoir pris 4 onces de cuivre blanchâtre, je parle de l'orichalque, fondez-les et jetez-y peu à peu 1 once d'étain purifié d'avance, en agitant par en bas (le creuset) avec la main, jusqu'à ce que les substances se soient mariées. Projetez ainsi la moitié de la préparation blanche, et ce sera la première (opération) ; car la magnésie blanchie ne rend pas les corps métalliques fragiles, et ne ternit pas l'éclat du cuivre. La nature domine la nature.
+
+*) Signe du cinabre au-dessus, M.
+
+*) Au-dessus, le signe du mercure, M.
+
+*) Vapeurs des sulfures arsenicaux (grillés), d'après le _Lexique_, p. 10. (_Introd._, p. 245.)
+
+23\. Prenant du soufre blanc, blanchissez-le en le délayant au soleil, avec de l'urine, ou avec de l'alun et de la saumure de sel. Le soufre natif est de beaucoup le plus blanc. Délayez-le avec de la sandaraque, et de l'urine de génisse, pendant 6 jours, jusqu'à ce que la préparation devienne semblable au marbre. Quand elle le sera devenue, il y aura là un grand mystère ; car elle blanchit le cuivre, elle amollit le fer, elle rend l'étain compacte,* et le plomb peu fusible ; elle rend solides les substances métalliques et fixe les teintures. Le soufre mêlé au soufre rend les substances métalliques sulfureuses, parce qu'elles ont une grande affinité pour lui. Les natures charment les natures.*
+
+*) Sans cri ? --- Voir les développements de Geber. _Bibl. Chem._ de Manget, t. 1, p. 525.
+
+*) Il s'agit ici d'un alliage blanc à base de plomb, rendu moins fusible par l'addition de quelque autre substance. Toutes les préparations qui précèdent reposent sur un blanchiment opéré par le mercure, ou l'arsenic, ou sur la fabrication d'alliages blancs.  
+Celles qui suivent (sauf peut-être le n° 24) sont des simples vernis superficiels. Le même ordre a été suivi plus haut, dans les recettes de dorure.
+
+24\. Broyez la litharge propre à blanchir avec du soufre, ou de la cadmie, ou de l'arsenic, ou de la pyrite, ou de l'oxymel,* afin qu'elle ne soit plus fluide. Faites cuire sur un feu très clair, après avoir consolidé le vase. Tenez la composition dans l'état, en y ajoutant du calcaire cuit, imbibé de vinaigre, pendant 3 jours, afin qu'elle devienne plus propre à décaper. Projetez donc (sur le métal) la préparation devenue plus blanche que la céruse. Elle devient souvent jaune, si le feu a été excessif ; mais si elle devient jaune, dès lors elle ne vous est plus utile ; car il s'agit de blanchir les corps métalliques. Faites-la donc cuire convenablement et jetez-la sur tout corps métallique destiné à être blanchi. Si la litharge perd sa fluidité, elle ne peut plus redevenir du plomb. Or cela arrive facilement, car la nature du plomb se transforme aisément en beaucoup d'autres. Les natures triomphent des natures.
+
+*) Voir _Lexique_, p. 11 et 13. Il s'agit de quelque sel de plomb.
+
+25\. Prenant du safran de Cilicie, broyez-le dans de l'eau de mer ou de la saumure et faites une liqueur ; mettez sur le feu et teignez-y des feuilles de cuivre, de plomb, de fer, jusqu'à ce que le résultat vous plaise.* (Ces feuilles) deviennent ainsi blanches. Puis prenez la moitié de la préparation, et délayez avec de la sandaraque, ou de l'arsenic blanc, ou du soufre apyre, ou ce que vous voudrez, et donnez (au mélange) la consistance cireuse. Enduisez la feuille et placez dans un vase neuf bien luté, selon l'usage. Placez sur un feu de sciure de bois pendant tout un jour. Ensuite, ayant enlevé (du feu), placez dans une liqueur pure, et le cuivre sera blanc, très blanc. Faites le surplus comme l'artisan; car le safran de Cilicie blanchit avec l'eau de mer et jaunit avec le vin. La nature charme la nature.
+
+*) C'est un procédé pour colorer superficiellement le cuivre, le plomb, ou le fer en blanc d'argent, à l'aide d'un enduit. (Voir Papyrus de Leide. _Introd._, p. 52.)
+
+26\. Prenez de la litharge blanche et broyez-la avec des feuilles de laurier, de la terre Cimolienne, du miel et de la sandaraque blanche, et faites un mélange visqueux. Enduisez le métal avec la moitié de la préparation, puis mettez au feu selon l'usage. Trempez dans le reste de la préparation, après avoir délayé avec de l'eau et de la cendre de bois de peuplier ; car les mélanges sans substance propre* opèrent bien sans feu. On rend ainsi les teintures* capables de résister à la chaleur, même aidée des liquides. La nature triomphe de la nature.
+
+*) Ceci semble s'appliquer aux vernis appliqués à la surface du métal ; par opposition au cas où le métal même est attaqué.
+
+*) Teinture par vernissage.
+
+27\. Prenant la vapeur sublimée décrite plus haut, broyez avec de l'alun et du misy, et après avoir imbibé avec du vinaigre, jetez-y un peu de cadmie blanche, ou de magnésie, ou de chaux vive, afin que d'un corps métallique il s'en forme un autre. Broyez avec du miel très blanc ; faites une liqueur, dans laquelle vous teindrez à chaud ce que vous voudrez ; laissez déposer et la transformation sera accomplie. Ajoutez à la composition un peu de soufre apyre, afin que la préparation pénètre à l'intérieur.* La nature domine la nature.
+
+*) Il semble qu'il s'agisse ici d'une teinture par amalgamation.
+
+28\. Prenez 1 once d'arsenic, une demi-once de natron, 2 onces de la pellicule des feuilles tendres du pêcher, une demie (once) de sel, 1 once de suc de mûrier, de l'alun schisteux une quantité égale. Délayez tout ensemble dans du vinaigre, ou de l'urine, ou de la chaux liquide,* jusqu'à ce qu'il se forme un liquide (homogène). Teignez-y à chaud les feuilles obscurcies (oxydées) du métal et vous obtiendrez un métal sans ombre (brillant).* La nature domine la nature.
+
+*) Eau de chaux, ou lait de chaux.
+
+*) Teinture par amalgamation.
+
+29\. Ecartez toutes les choses utiles à l'or et à l'argent, et il ne reste rien ; il n'y a plus rien à exposer, excepté la montée (évaporation) de la vapeur sublimée et de l'eau* ; mais je passe à dessein ces choses sous silence, attendu qu'elles figurent largement dans mes autres écrits. Profitez du présent écrit.*
+
+*) En d'autres termes, l'auteur s'en réfère à ses autres ouvrages sur la distillation.
+
+*) C'est la conclusion des deux traités relatifs à la teinture en or et en asèm, ou argent : teinture opérée tantôt à la surface, par coloration directe du métal ou vernissage ; tantôt à fond, par fabrication d'un alliage. Ces traités consistent en une série de recettes, congénères de celles du Papyrus de Leyde ; mais à la suite desquelles l'auteur a ajouté les axiomes mystiques relatifs à la nature. L'idée de la transmutation vraie n'y est pas manifeste.
+
+---
+
+#### 2. --- 2. Démocrite à Leucippe.
+
+(Livre 5 de Démocrite adressé à Leucippe.)
+
+_Démocrite à Leucippe, son ami, salut._*
+
+*) Cette phrase a été omise par accident, dans le texte grec imprimé.
+
+1\. Sache ce qu'il y avait sur ces arts des Égyptiens, ô Leucippe, dans les livres des prophètes persans.* J'ai écrit dans le dialecte vulgaire ; parce que c'est celui qui convient le mieux au sujet ; mais le livre lui-marne n'est pas vulgaire ; car il contient des énigmes mystiques, anciennes et très raisonnables ; énigmes que les ancêtres et les rois de la divine Égypte ont exposées.* Quant à moi qui suis ton ami, je me servirai d'énigmes raisonnables, telles que personne n'en a écrites pour moi parmi les initiés Egyptiens. Toi, médecin, qui as l'esprit éveillé, j'aurai soin de t'expliquer ouvertement toutes choses. L'ouvrage comprend le blanchiment et le jaunissement, ainsi que les amollissements et les cuissons du minerai de cuivre. Je laisse de côté la teinture ; mais plus tard je reviendrai sur tous les produits singuliers qui se fabriquent au moyen de ce même cuivre et du cinabre. Tu peux faire de l'or avec la cadmie et les autres espèces, par calcinations et alliages, et fabriquer des produits singuliers.
+
+*) Cp. _Orig. de l'Alch._, p. 47.
+
+*) Il y a là dans le grec quelques mots inintelligibles, par suite des erreurs du copiste.
+
+2\. Or, le livre commence ainsi : Prenez de l'arsenic lamelleux, et fabriquez des feuilles métalliques. Mettez dans un pot rond, et brûlez. Puis, lorsque (la préparation) est à point, jetez-y du lait ancien, en le versant sans incliner le vase. Lorsqu'il est coagulé, enlevez et délayez avec de l'alun arrosé d'urine de génisse, pendant sept jours ; puis, faites sécher au soleil ; et délayez-y de nouveau de la saumure ; jetez-y l'efflorescence saline* ; gardez pendant sept jours, et le produit se forme. Prenez-le ; faites sécher de nouveau au soleil ; mettez cette (préparation) dans un pot, faites-la cuire avec de l'huile de ricin ou de raifort, jusqu'à ce qu'elle devienne jaune. Projetez-y du cuivre et il blanchira. Le même effet est produit par la sandaraque. En traitant de même par la matière verte, la moitié du cuivre sera employée pour le jaunissement, et l'autre partie pour certains arrangements.*
+
+*) Dioscoride, _Mat. méd._, 5. 128. --- _Introd._, p. 267.
+
+*) Le commencement de cette recette paraît être une teinture pour blanchir le cuivre au moyen de l'arsenic.
+
+3\. Voici comment s'opère le traitement des matières sulfureuses pour le blanchiment du cuivre. Prenant de l'arsenic, faites macérer, soit dans le sel pendant neuf jours, soit dans l'urine d'un impubère ; ou bien, car cela vaut mieux, pendant vingt et un jours. Puis délayez dans du vinaigre* de citron, pendant sept jours, en y mélangeant la partie blanche des citrons ; ensuite faites sécher. Puis, prenant de la sandaraque couleur de fer, mettez-la en morceaux et faites macérer dans la saumure, pendant vingt et un jours. Puis, prenant de l'eau et du calcaire, faites une liqueur, desséchez et conservez. Ensuite, prenant la sandaraque, faites la bouillir avec de l'huile pendant un jour ; faites bouillir pareillement sur (un feu) de sciure de bois, avec de la chaux et maintenez l'eau en contact pendant un jour et une nuit. Ensuite, prenant de l'une et de l'autre parties égales, jetez dans une _rogé_.* Faites cuire dans l'huile de ricin ou de raifort, jusqu'à ce que la matière soit sèche, et conservez. Ensuite (prenant) du minerai de cuivre, pareil (en couleur) au corail natif, sans opérer la fusion à la façon des artisans, mélangez ( ? ). D'abord nettoyez le vase de verre (destiné à contenir le mélange ? ) ; puis, affinez de la manière que j'exposerai plus tard. Ensuite, projetez (sur le métal), et le produit sera blanchi.* Partagez en deux pour l'usage, ainsi que je vous l'ai dit plus haut.*
+
+*) C'est-à-dire dans le jus acide.
+
+*) Nom de quelque vase ou instrument, qui ne se trouve pas dans les dictionnaires.
+
+*) C'est encore un procédé pour blanchir le cuivre au moyen de l'arsenic.
+
+*) A la fin de la recette précédente.
+
+4\. Prenant seulement deux parties du cuivre traité ; de l'arsenic et de la sandaraque, une partie de chaque ; de l'alun, une demi-partie ; et de la pâte de safran, deux parties ; délayez, pendant vingt et un, ou quatorze, ou sept jours. Pour délayer, jetez le liquide sur la matière, et après l'avoir épuisée, vous verrez pendant le délayement, un changement de couleur, pareil à ceux du caméléon. Mais lorsque la matière ne change plus et cesse d'offrir plusieurs apparences, alors comprenez que vous obtiendrez heureusement le délayement en opérant, suivant le procédé des Prophètes égyptiens, dans un vase de verre ; ils font cuire légèrement et ils projettent.
+
+5\. Pour notre part, ceux qui nous inspirent confiance exposent autrement, en langage ordinaire, les opérations subséquentes. Prenant le cuivre et plaçant dans le mortier la préparation huileuse, mettez le produit dans une boîte et faites macérer pendant 31, ou 21, ou 15 jours, principalement dans le crottin de cheval* ; enlevez ensuite et gardez. Délayez à la façon des médecins, jetant dans la composition du misy, de la couperose, en quantité convenable, du safran, de la chélidoine, à raison d'une partie de chaque contre quatre parties de rouille* macérée. Puis faites fondre, après avoir délayé avec un peu de jaune (bile de veau), et attendri avec de la gomme le produit amené à un état constant par la macération consciencieusement pratiquée. Lorsque vous aurez délayé à la manière des médecins, ajoutez quelque peu de la partie aqueuse des plantes, avec de l'efflorescence saline et du suc de poireau.* Ensuite reprenant le produit, faites le cuire à la manière des médecins dans une cuiller, en agitant avec une spatule. Broyez, faites cuire pendant trois jours : trois décoctions de quatre heures chaque jour. Lorsque vous aurez achevé la cuisson, en veillant à ce que la composition ne se dessèche pas, mais conserve la consistance oléagineuse ; mettez dans un vase de verre ; faites digérer peu à peu dans du fumier, jus-qu'à ce que la matière se solidifie. Enlevez et délayez : gardez.
+
+*) Afin d'entretenir une douce chaleur.
+
+*) De cuivre ?
+
+*) Ou d'algue marine.
+
+Prenant du minerai d'argent ; de la terre de la qualité la plus tendre, celle que quelques-uns nomment terre de Chio ou ochre, deux parties ; du minium du Pont, une partie, et du contenu de la fiole, deux parties ; délayez avec la partie liquide du soufre et faites cuire sur un feu régulier : vous trouverez un corps puissant, possédant la couleur du cinabre, ou du corail, ou du minium. Cette grande merveille, cette merveille inénarrable, on la nomme chrysocorail (corail d'or). Quant aux autres noms qu'elle reçoit, le vulgaire les ignore.* Projetez cette substance et soumettez l'argent à l'action du feu. Cache ce Tout* que nous avons blanchi ; par crainte de l'envie, ô Leucippe. Bonne santé.
+
+*) Cette recette est celle d'une poudre de projection ; elle est trop obscure pour que le sens puisse en être précisé. Le nom même du « corail d'or » représente une préparation dont nous ne connaissons pas le sens exact.
+
+*) Synonyme de l'alliage de plomb et de cuivre. (_Introd._, p. 153.)
+
+---
+
+#### 2. --- 3. Synésius le Philosophe a Dioscorus sur le Livre de Démocrite. --- Commentaires.
+
+_A Dioscorus, prêtre du grand Sérapis, à Alexandrie, avec l'approbation de Dieu, le philosophe Synésius, salut._
+
 ...
