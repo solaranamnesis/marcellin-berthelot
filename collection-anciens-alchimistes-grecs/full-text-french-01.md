@@ -10796,4 +10796,92 @@ Prenant du minerai d'argent ; de la terre de la qualité la plus tendre, celle q
 
 _A Dioscorus, prêtre du grand Sérapis, à Alexandrie, avec l'approbation de Dieu, le philosophe Synésius, salut._
 
+1\. La lettre que tu m'as adressée sur le livre du divin Démocrite ne m'a pas laissé indifférent ; loin de là. Avec beaucoup de zèle et un grand effort, je me suis mis l'esprit à la torture et j'ai eu hâte de venir auprès de toi. Nous nous proposons de dire quel était cet homme, le philosophe Démocrite, ce naturaliste venu d'Abdère, qui a dirigé ses investigations sur toutes les choses de la nature et qui a traité des êtres naturels. Abdère est une ville de Thrace. Démocrite était un très savant homme qui, venu en Egypte, fut initié aux mystères par le grand Ostanès, dans le sanctuaire de Memphis, par lui et ses disciples, prêtres d'Egypte. Tirant de lui ses principes, il composa quatre livres de teinture, sur l'or et l'argent,* sur les pierres et sur la pourpre. Par ces mots, « tirant ses principes, » j'entends qu'il écrivit d'après le grand Ostanès. Car cet (écrivain) est le premier qui ait émis ces axiomes : « la nature est charmée par la nature ; » et « la nature domine la nature ; » et « la nature triomphe de la nature, » etc.
+
+*) Les deux premiers de ces livres, ou leurs extraits, ne sont autres que les deux collections de recettes sur l'art de faire de l'or (ou de teindre en or) et sur la fabrication de l'asèm (ou de l'argent), qui constituent la partie essentielle du Traité intitulé : « Questions naturelles et mystérieuses. » --- Le troisième est perdu : cependant l'ouvrage sur l'art de fabriquer le verre et les pierres précieuses artificielles, que nous trouvons dans les Collections alchimiques, doit en tirer sa première origine. Quant à l'ouvrage sur la pourpre, il n'en subsiste qu'un débris en tête des « Questions naturelles. » --- Ces divers sujets sont demeurés la matière commune des vieux traités alchimiques, comme le prouve le titre que j'ai reproduit (_Origines de l'Alchimie_, p. 123) et le contenu du _Traité de Moïse_, donné plus loin.
+
+2\. Mais il est nécessaire que nous recherchions (le sens des écrits) du Philosophe* et que nous apprenions quelle est la pensée et quel est l'ordre de ses enseignements successifs. Qu'il ait formé deux catalogues, c'est un fait certain pour nous ; car il a fait deux catalogues, à savoir : celui du jaune et celui du blanc. D'abord il a catalogué les solides, puis les liqueurs, c'est-à-dire les matières aqueuses, bien qu'aucune de celles-ci ne soit employée dans l'Art. En effet, lui-même, en parlant du grand Ostanès, atteste que celui-ci ne s'était pas servi des projections des Egyptiens, ni de leurs procédés de cuisson ; mais qu'il opérait sur les substances avec des enduits placés au dehors, et faisant agir le feu il effectuait la préparation. Et il dit : c'est l'usage chez les Perses d'opérer ainsi.* Or ce qu'il dit signifie que : si tu n'atténues* pas les substances, si tu ne les dissous pas, si tu ne les épuises pas de leur partie liquide,* tu ne feras rien.
+
+*) Le Philosophe par excellence, Démocrite.
+
+*) Ce passage semble établir une distinction entre les métaux colorés, après fusion au creuset, par la projection de certaines matières, et les métaux colorés par voie d'enduit. L'enduit pouvait d'ailleurs constituer un simple vernis superficiel ; ou bien attaquer le métal, en formant à sa surface un alliage, amalgame, sulfure, ou arséniure, dont la nuance était en outre modifiable par l'action du feu. (V. _Introd._, p. 59 et 60.)
+
+*) C'est-à-dire qu'il faut réduire les corps à leur dernier degré de division ; à leur quintessence, comme on a dit plus tard au moyen âge.
+
+*) On voit apparaître ici l'idée de fixer les corps, en leur enlevant leur liquidité, ou fusibilité ; cette qualité étant envisagée comme un élément distinct des corps. (Cp. _Origines de l'Alchimie_, p. 280 et 281.)
+
+3\. Arrivons maintenant aux discours de l'écrivain ; écoutons ce qu'il dit.* Il est d'abord question de la rhubarbe du Pont. Remarque la circonspection de notre auteur. Il a commencé par les plantes, afin d'indiquer la fleur* ; car les plantes portent des fleurs. Il a parlé de la rhubarbe du Pont, parce que le Pont-Euxin* est alimenté par les fleuves qui s'y écoulent. Voulant donc mettre ce point en lumière, il entend par là* l'épuisement de la partie liquide, l'assombrissement* et l'atténuation* des corps métalliques, ou des substances.
+
+*) Aux recettes obscures, mais positives du Pseudo-Démocrite, qui sont celles d'un expérimentateur, succèdent les commentaires mystiques d'un philosophe néo-platonicien.
+
+*) C'est-à-dire la couleur, _flos_, ἄνθος. Il y a ici un jeu de mots.
+
+*) Le grec dit simplement : πόντος, la mer. Il y a là un autre jeu de mots dont le sens nous échappe. A moins que l'on n'interprète cette phrase par la figure 18 de l'_Introd._, p. 141 ; où se trouve représenté un récipient appelé πόντος, en forme de bassine, et dans lequel s'écoule le et d'une distillation, opérée avec les produits désignés ici sous le nom mystique de fleurs.
+
+*) Voir la note 2. ci-dessus.
+
+*) Oxydation ou sulfuration superficielle qui détruit l'éclat du métal. Les métaux en effet perdent leur éclat en s'oxydant et se changeant en matières pulvérulentes, telles que le vert-de-gris, la rouille, etc.
+
+*) C'est-à-dire la réduction à leur dernier degré de division. Voir la note 1. ci-dessus.
+
+3 _bis. Dioscorus._ --- Et dans quel sens dit-il : « le serment nous a été imposé de ne rien exposer clairement à personne ? »
+
+_Synésius._ --- Il a dit avec raison « à personne, » c'est-à-dire à personne d'entre les non initiés. Le mot personne ne se rapporte pas à tout le monde absolument ; car lui-même parle pour ceux qui sont initiés et qui ont l'esprit exercé.
+
+4\. Remarque encore ce qu'il dit dans l'Introduction de la _Chrysopée_ : « le mercure, provenant du cinabre et la chrysocolle. »
+
+_D._ --- A-t-on besoin de ces sortes (de substances) ?
+
+_S._ --- Non, Dioscorus.
+
+_D._ --- Mais desquelles a-t-on besoin ?
+
+_S._ --- Tu l'as entendu dire ; entends-le encore une fois. En parlant de la dissolution des corps (métalliques), on veut dire que tu les dissolves et que tu en fasses des eaux* ; afin qu'ils deviennent fluides et qu'ils s'assombrissent* et qu'ils soient atténués.* C'est là ce que l'on appelle eau divine,* mercure, chrysocolle, soufre apyre.
+
+*) Des liquides.
+
+*) Voir la note 7. de la page précédente.
+
+*) Voir la note 1. de la page précédente.
+
+*) Ou eau de soufre. --- En d'autres termes, pour obtenir ces effets, les métaux doivent être attaqués avec le concours de l'eau divine, du mercure, de la chrysocolle et du soufre. La phrase grecque est elliptique. En affirmant que l'on n'a pas besoin de ces substances, l'auteur paraît vouloir dire que ces agents n'éprouvent pas par eux-mêmes la transmutation : ils n'en sont pas la matière fondamentale, mais les intermédiaires.
+
+Il y a aussi d'autres dénominations. Ainsi le blanchiment est une calcination, et le jaunissement une régénération ignée ; car telles de ces (substances) se calcinent elles-mêmes, et (telles autres) se régénèrent elles-mêmes.* Mais le Philosophe les a désignées par plusieurs noms* et tantôt au singulier, tantôt au pluriel, afin de nous exercer et de voir si nous sommes intelligents ; car il a dit, en poursuivant son discours : « Si tu es intelligent et que tu procèdes comme il a été écrit, tu seras bienheureux ; car tu vaincras par la méthode la pauvreté, ce mal incurable. » Il nous détourne donc et nous détache de la vaine erreur, afin de nous affranchir de cette imagination de la pluralité des matières.*
+
+*) Faut-il entendre par là les pyrites qui, une fois échauffées, brûlent, se grillent et se changent en oxydes, sans combustible extérieur ? Et les sulfures, qui peuvent régénérer leurs métaux par un grillage ménagé, comme les sulfures de plomb, d'antimoine, etc. ?
+
+*) Sur cette multiplicité des noms mystiques, destinée à voiler la science aux non-initiés, voir la nomenclature prophétique, _Introd._, p. 10. Ces noms d'ailleurs ne s'appliquent pas nécessairement à une même substance ; mais ils désignent parfois les substances différentes, employées dans la suite d'une même opération.
+
+*) Voir 1, 15, p. 37 de ce volume.
+
+Fais attention à ce qu'il dit dans l'Introduction de son livre : « Je viens moi aussi en Egypte, apportant les questions naturelles, afin que vous dédaigniez la matière multiple.* » Or il appelle naturels : les corps (métalliques) solides. Car si ces (corps) ne sont pas dissous, puis de nouveau solidifiés, rien n'aboutira pour l'accomplissement de l'œuvre.
+
+*) Le texte grec de Démocrite donné plus haut est un peu différent (v. p. 43 du _Texte grec_ et p. 44 de la _Traduction_)
+
+5\. Pour que nous comprenions bien que les liquides dérivent des solides, --- autrement dit la fleur,* --- vois comment il s'exprime : « Les produits contenus dans les liqueurs sont le safran de Cilicie, l'aristoloche, etc. » En parlant ainsi des fleurs, il nous a fait voir que les eaux dérivent des solides. Et pour nous persuader qu'il en est ainsi, après avoir dit « l'urine d'un impubère, » il ajoute : « l'eau de chaux, l'eau de cendre de choux, l'eau de lie, l'eau d'alun ; » et, à la fin, il parle du lait de chienne. Il est évident pour nous que cela est pris dans le sens vulgaire ; car il a introduit comme substances propres à dissoudre les corps (métalliques), l'eau de natron et l'eau de lie. Vois comment il a dit : « L'objet même de la Chrysopée, ce sont les choses qui transforment la matière et produisent les métaux* et les (substances) qui résistent à l'action du feu ; car en dehors de ces choses il n'y a rien de sûr. Si donc tu es intelligent et que tu procèdes comme il a été écrit, tu seras bienheureux. »
+
+*) Le principe colorant fourni par une dissolution (v. _Flos, Floridus._ --- _Introd._, p. 232).
+
+*) L'auteur joue sur la similitude des mots μεταλλοιοῦντα et μεταλλεύοντα.
+
+6\. _D._ --- Et comment dois-je comprendre ? Philosophe, je désire apprendre de toi la méthode. Car si je m'en rapporte seulement aux explications données (précédemment), je n'en tirerai aucun profit.
+
+_S._ --- Écoute, Dioscorus, comment il parle ; aiguise ton esprit sur le texte de son discours, et applique-toi (à saisir) dans quel sens il dit : « Transforme leur nature, car la nature a été cachée à l'intérieur.* »
+
+*) S'agit-il ici de la régénération des métaux, latents dans leurs minerais ? ou de la fabrication des alliages diversement colorés et qu'il convient de teindre, non seulement à la surface, mais dans la profondeur ?
+
+_D._ --- O Synésius, de quelle transformation parle-t-il ?
+
+_S._ --- De celle des corps (métalliques.)
+
+_D._ --- Et comment l'accomplir, comment en transporter la nature au dehors ?
+
+_S._ --- Aiguise ton esprit, Dioscorus, et fais attention aux expressions employées.
+
+_D._ --- Comment s'exprime-t-il ?
+
+_S._ --- Si donc tu traites (la matière) comme il faut, tu transportes la nature au dehors. Il s'agit de la terre de Chio, de l'astérite, de la cadmie blanche, etc. Remarque quelle est la circonspection de l'auteur, comment il a fait allusion à toutes sortes de substances blanches, afin de faire entendre le blanchiment. Ce qu'il dit, Dioscorus, revient donc à ceci : Mets les corps (métalliques) avec le mercure et divise finement, puis reprends un autre mercure. Car le mercure attire à soi toutes choses. Laisse macérer 3 ou 4 jours ; jette le produit dans un botarion (matras ou vase de digestion), et place sur un bain de cendre qui ne soit pas chauffé par un feu ardent, mais chauffé doucement ; c'est-à-dire sur un bain à kérotakis. Pendant l'action du feu, on ajuste au botarion un instrument de verre en forme de mamelle, adapté à sa partie supérieure, avec chapiteau.* Reçois l'eau qui s'échappe par la pointe de la gorge et garde-la pour la décomposition c'est là ce qu'on appelle l'eau divine (ou l'eau de soufre).
+
+*) Cette description est celle d'un alambic, avec bain-marie et fiole de condensation (v. fig. 40, _Introd._, p. 164).
+
 ...
