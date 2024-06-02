@@ -10884,4 +10884,391 @@ _S._ --- Si donc tu traites (la matière) comme il faut, tu transportes la natur
 
 *) Cette description est celle d'un alambic, avec bain-marie et fiole de condensation (v. fig. 40, _Introd._, p. 164).
 
+Elle produit la transformation, c'est-à-dire l'opération qui amène au dehors la nature cachée : c'est ce qu'on appelle, la dissolution des corps (métalliques).
+
+Cette (préparation), lorsqu'elle a été décomposée, prend le nom de vinaigre, ou de vin aminéen, et des noms analogues.
+
+7\. Pour que tu admires l'habileté de l'auteur, vois comment il a formé deux catalogues : (l'un) de la Chrysopée, (l'autre) de l'Argyropée, et en outre deux liquides : l'un pour le jaune, l'autre pour le blanc, c'est-à-dire pour l'or et pour l'argent ; il a nommé le catalogue de l'or, Chrysopée, et celui de l'argent, Argyropée.*
+
+*) Ce sont les deux chapitres des « Questions naturelles et mystérieuses, » p. 45 et p. 52.
+
+_D._ --- Tu parles tout à fait bien, philosophe Synésius. Mais quel est le premier point de l'art, est-ce le blanchiment, ou le jaunissement ?
+
+_S._ --- C'est plutôt le blanchiment.
+
+_D._ --- Et pourquoi parle-t-il d'abord du jaunissement ?
+
+_S._ --- Parce que l'or est préféré à l'argent.
+
+_D._ --- Devons-nous procéder ainsi, Synésius ?
+
+_S._ --- Non, Dioscorus ; mais il convient d'exercer notre esprit et notre pensée. Voici comment les choses ont été arrangées. Ecoute le parler : « Je m'entretiens avec vous comme étant des gens intelligents, et j'exerce votre esprit. » Maintenant si tu veux savoir exactement les choses, fais attention que dans les deux catalogues le mercure a été classé avant toutes choses, et dans le jaune : ce qui signifie l'or ; et dans le blanc : ce qui signifie l'argent. Dans (le traité de) l'or, il est dit : « Le mercure qui provient du cinabre. » Et dans le (traité du) blanc, il est dit : « le mercure qui provient de l'arsenic ou de la sandaraque,* » etc.
+
+*) Ceci montre que le mot mercure signifiait à la fois notre mercure et notre arsenic (_Introd._, p. 239 et 99). --- Il s'agit ici de l'action tinctoriale que l'arsenic, aussi bien que le mercure ordinaire, peut exercer sur les métaux. De là l'idée d'une essence commune aux deux agents. Il semble que les observations relatives à ces deux corps aient été le point de départ de la notion du mercure des philosophes, ou matière première métallique, destinée à être l'intermédiaire de la transmutation.
+
+8\. _D._ --- Le mercure est donc de différentes sortes ?
+
+_S._ --- Oui, il est de différentes sortes, tout en étant un.
+
+_D._ --- Mais, s'il est un, comment est-il de différentes sortes ?
+
+_S._ --- Oui, il est de différentes sortes, et il a une très grande puissance. N'as-tu pas entendu dire à Hermès : « Le rayon de miel* est blanc, » et « le rayon de miel est jaune ? »
+
+*) C'est-à-dire le mercure.
+
+_D._ --- Oui, je (le lui) ai entendu dire. Mais ce que je veux apprendre, Synésius, enseigne-le-moi : c'est l'opération que tu sais. Le mercure prend donc de toute manière les apparences de tous les corps ?
+
+S. --- Tu as compris, Dioscorus. En effet, de même que la cire affecte la couleur qu'elle a reçue ; de même aussi le mercure, ô philosophe, blanchit tous les corps et attire leurs âmes ; il les digère par la cuisson et s'en empare. Etant donc disposé convenablement, et possédant en lui-même le principe de toute liquidité, lorsqu'il a subi la décomposition, il opère partout le changement des couleurs. Il forme le fond* permanent, tandis que les couleurs n'ont pas de fondement propre. Ou plutôt le mercure, perdant son fondement propre, devient un sujet modifiable par les traitements exécutés sur les corps métalliques et sur leurs matières.*
+
+*) La notion de la matière première apparaît ici très clairement (v. _Origines de l'Alchimie_, p. 265 et 267), et cela avec le double sens opposé, développé dans le Timée. D'une part, la matière première est le fond permanent des choses et subsiste par là ; tandis que, d'autre part, elle est dépourvue d'une forme qui lui soit propre, et éprouve les modifications qui répondent aux qualités particulières des corps ; à leur couleur, par exemple, dans le cas actuel.
+
+*) C'est-à-dire que le mercure est : d'une part, la matière première et générale, qui forme le fond de la transmutation ; et, d'autre part, qu'il perd son caractère propre et individuel, dans l'exécution de celle-ci.
+
+9\. _D._ --- Et quels sont ces corps et leurs matières* ?
+
+*) L'auteur distingue la matière du métal, c'est-à-dire son fond propre, de ses qualités apparentes.
+
+_S._ --- C'est la tétrasomie* et ses congénères.
+
+*) Mot qui désigne l'ensemble des quatre métaux imparfaits : cuivre, plomb, étain, fer.
+
+_D._ --- Et quels sont ses congénères ?
+
+_S._ --- Tu as entendu dire que leurs matières sont leurs âmes.*
+
+*) Cp. _Introd._, p. 248.
+
+_D._ --- Ainsi les matières (des métaux) sont leurs âmes ?
+
+_S._ --- Oui ; car de même que le menuisier, lorsqu'il prend un objet de bois et qu'il fabrique un siège, ou un char, ou quelque autre chose, ne travaille que sur la matière ; de même aussi opère cet art, ô philosophe, lorsqu'il divise les corps. Ecoute, ô Dioscorus : le tailleur de pierre taille la pierre, ou bien la scie, afin de la rendre propre à son usage. Semblablement aussi le menuisier scie et taille le bois, pour en faire un siège, ou un char : l'artiste ne cherche pas par-là à modifier autre chose que la forme ; car il n'y a rien là que du bois. Semblablement aussi, l'airain façonné en statue, en anneau, ou en tout autre objet : l'artiste ne cherche à modifier que la forme.*
+
+*) Cp. Enée de Gaza : _Origines de l'Alchimie_, p. 75.
+
+De même aussi le mercure travaillé par nous reçoit toutes sortes de formes. Fixé sur un corps formé des quatre éléments, ainsi qu'il a été dit, il y demeure fermement attaché et il est impossible de l'en chasser : il est à la fois dominé et dominant. Voilà pourquoi Pébéchius disait qu'il avait une grande affinité.
+
+10\. _D._ --- Tu as bien résolu (les difficultés), philosophe. Tu m'as instruit, philosophe.
+
+_S._ --- Je veux donc revenir en hâte à la parole de l'auteur, en reprenant dès le commencement les choses qu'il a dites en langage indirect : « le mercure (ordinaire) provient du cinabre. » Mais tout mercure est engendré par les corps (métalliques).*
+
+*) Ceci paraît signifier que tout métal renferme un élément mercuriel.
+
+_D._ --- Ne parle-t-il pas ici du cinabre, afin de montrer que le mercure (ordinaire) provient du cinabre ?
+
+_S._ --- Le cinabre désigne la substance mercurielle jaune ; tandis que la substance mercurielle blanche est le mercure. En acte, il existe à l'état blanc ; tandis qu'en puissance, il devient jaune.*
+
+*) Ceci est très clair : il s'agit ici d'un côté du mercure libre, et de l'autre du mercure combiné, existant en puissance dans le cinabre, son minerai.
+
+_D._ --- Le Philosophe n'a-t-il pas dit : « O natures célestes, créatrices des natures, vous triomphez des natures au moyen des transmutations ! »
+
+_S._ --- Oui ; c'est pour cela qu'il a dit : « ... car si tu n'opères pas la transformation, il est impossible que l'effet attendu se produise. C'est en vain que prendront de la peine ceux qui approfondissent l'étude des matières, à moins qu'ils ne recherchent les natures des corps (métalliques) de la magnésie. » Car il est permis aux opérateurs et à ceux qui transcrivent les mêmes enseignements d'employer indifféremment telle ou telle manière. Donc il a dit : « le corps de la magnésie ; » ce qui signifie le mélange des substances. C'est pour cela qu'il dit, en poursuivant, dans l'introduction de (son livre sur) la fabrication de l'or : « Prenant du mercure, fixez-(le) avec le corps (métallique) de la magnésie.* »
+
+*) Il s'agit ici d'un alliage complexe, le métal de la magnésie, formé probablement par l'union des quatre corps ou métaux fondamentaux, et auquel on associe le mercure, pris dans son sens ordinaire, ou plutôt dans le sens mystique du mercure des philosophes (v. aussi _Introd._, p. 256).
+
+11\. _D._ --- Ainsi le mercure est l'élément qu'il faut préférer ?
+
+_S._ --- Oui, car c'est par lui que le Tout est défait, puis rétabli de nouveau : suivant le degré convenable pour chaque traitement, on réussit avec la chrysocolle,* autrement dite _batrachion_,* qui se rencontre parmi les pierres vertes.
+
+*) Malachite ; employée dans la soudure de l'or. --- _Introd._, p. 243.
+
+*) A proprement parler : la matière couleur de grenouille verte. Ce mot signifie aussi Renoncule aquatique.
+
+_D._ --- Qu'est-ce que la chrysocolle ou _batrachion_ ? Quelle est la signification de ces mots : « qui se rencontre dans les pierres vertes ? »
+
+_S._ --- Il est nécessaire que nous le cherchions. Nous devons donc connaître ce qui est relatif aux couleurs vertes. Eh bien ! parlons-en, d'après ce qui est relatif à l'homme. Car l'homme est le plus important de tous les animaux vivant à la surface de la terre. Nous disons de l'homme qui a pâli,* qu'il est devenu vert ; il est évident que, comme l'ocre, il change de qualité spécifique en passant à la couleur dorée. Ceci est encore plus évident, si on le compare à l'écorce de citron, qui représente la qualité même de la couleur jaune pâle. L'auteur poursuivant a parlé aussi de l'arsenic jaune,* afin de montrer qu'il s'agit bien de la qualité spécifique de la couleur pâle.
+
+*) L'auteur joue sur le mot pâli, ὠχρίασαντα, signifiant littéralement jauni et qui peut être dérivé de ὤχρα, ocre jaune. Il veut expliquer comment la chrysocolle ou malachite, matière verte, sert à faire l'or qui est jaune ; il cherche donc à montrer la parenté de la couleur verte à la couleur jaune et le passage de l'une à l'autre : ces deux couleurs ou qualités des corps étant envisagées comme ayant une existence propre.
+
+*) Orpiment.
+
+12\. Mais, pour que tu voies combien il a mis de circonspection pour exposer cela en détail, observe avec attention dans quel sens il dit : « Le mercure qui provient du cinabre, (c'est) le corps métallique de la magnésie.* » Puis il ajoute la chrysocolle, le claudianos, l'arsenic. Il a introduit le nom de l'arsenic* (c'est-à-dire du masculin), afin de le distinguer des substances féminines.* Après le claudianos, il parle de l'arsenic jaune : il met d'abord deux substances jaunes du genre féminin,* puis deux substances du genre masculin. Il faut donc approfondir et voir ce que cela peut vouloir dire. Comme j'avance, Dioscorus ! Ici il transforme l'or, puis il reprend la cadmie, ensuite l'androdamas ; or, l'androdamas et la cadmie sont des substances sèches. Il met en évidence la sécheresse* des corps, et afin de rendre cela bien manifeste, il a ajouté l'alun décomposé. Remarque quelle est la circonspection de l'auteur. Il voulait que les gens sensés comprissent dans quel sens il les instruisait, en parlant de l'alun décomposé ; car il devait se faire entendre en cela, même des non initiés. Mais, afin que la chose devînt plus certaine pour toi-même, il a ajouté aussitôt le soufre apyre, c'est-à-dire le soufre non calciné. Le Tout, c'est-à-dire les espèces desséchées, signifie les corps métalliques amenés à l'unité.* Ensuite il ajoute la pyrite désagrégée, ne désignant aucun autre corps et sans spécifier. Ceci est établi comme une vérité, à savoir que ce qui reste à la fin est sec. Faisant des subdivisions dans cette matière, il ajoute le minium du Pont.* Ainsi, passant des substances sèches aux substances liquides, il a parlé du minium, et spécialement de celui du Pont. Car s'il n'avait pas ajouté « du Pont, » il ne serait pas arrivé à se faire comprendre.* Et voulant confirmer (son dire), il a ajouté l'eau du soufre natif, provenant du soufre seul.
+
+*) C'est-à-dire la matière première du métal de la magnésie
+
+*) L'auteur joue sur le double sens de ἀρσένικον : arsenic ou masculin.
+
+*) Il s'agit d'abord du mercure, qui est féminin, ἡ ὑδράργυρος ; puis de la chrysocolle.
+
+*) Le mercure, c'est-à-dire le cinabre, et la chrysocolle, opposés au claudianos et à l'arsenic.
+
+*) La sécheresse, qualité, est prise ici avec un sens substantiel ; comme plus haut la couleur jaune.
+
+*) La fin de la phrase est inintelligible, le copiste ayant probablement répété le membre de phrase qui précède.
+
+*) _Introd._, p. 261.
+
+*) Jeu de mots sur la mer, πόντος, matière humide par excellence, v. p. 62.
+
+13\. _D._ --- Tu as bien résolu (les difficultés), philosophe ; mais prends garde dans quel sens, il a dit : « si en le purifiant par la chaux ... »
+
+_S._ --- O Dioscorus, tu ne fais pas attention. La chaux vive est blanche, et l'eau qui en provient est blanche et âpre, et l'eau de soufre, par ses exhalaisons, blanchit. Pour plus de clarté, il a ajouté aussitôt : « la vapeur de soufre. » N'a-t-il pas rendu tout cela évident pour nous ?
+
+_D._ --- Oui, tu as bien parlé. Après cela (il mentionne) le sory jaune, la couperose jaune et le cinabre.*
+
+*) Une variante indique ici le sel ammoniac, au lieu du cinabre.
+
+_S._ --- Le sory et la couperose, des substances jaunes ? Comment cela ? Tu n'ignores pas qu'elles sont vertes.* Ayant donc en vue la réduction du cuivre (à l'état métallique), c'est-à-dire sa recherche, ou plutôt la teinture du Tout,* il s'est exprimé ainsi, en apportant une nouvelle confirmation, et il a ajouté sur la fin : « Après que l'on a fait disparaître la rouille, opération appelée réduction, alors la projection des liquides ayant eu lieu, il se produit un jaunissement stable. » Réellement la libéralité de l'auteur est rendue ici manifeste.
+
+*) Le mot χάλκανθος, couperose, exprime à la fois le sulfate de cuivre bleu, le sulfate de fer vert et leurs mélanges. Le sory est un sulfate de cuivre basique, plus ou moins ferrugineux, provenant de l'altération des pyrites. Mais le sulfate de fer pur, ou son mélange avec le sulfate de cuivre, ne tarde pas à s'oxyder à l'air humide et à se changer en sels basiques qui sont jaunes. Ces composés peuvent donc passer du vert au jaune, par des actions en apparence spontanées. Quant au cinabre, sa couleur rouge est ici, comme précédemment, rangée sous la rubrique du jaune.
+
+*) Le mot Tout, πᾶν, revient dans tout ce morceau avec un sens mystérieux, qui semble s'appliquer à la matière première des transmutations métalliques. C'était à proprement parler le molybdochalque, ou encore le métal de la magnésie (v. _Introd._, p. 153).  
+Il s'agit toujours d'étudier comment une même matière peut affecter des couleurs diverses, suivant les traitements et les procédés de teinture.
+
+14\. En effet, vois comme aussitôt il réunit les choses dans son explication. « Quant aux substances susceptibles de former des liqueurs, ce sont le safran de Cilicie,* l'aristoloche, la fleur de carthame, la fleur du mouron à fleurs bleues. » Que pouvait-il dire ou énumérer de plus, afin de nous persuader, sinon parler de la fleur du mouron ? En effet, admire avec moi. Il ne parle pas seulement « du mouron, » mais encore de « sa fleur ; » le mot mouron nous indiquant l'ascension de l'eau,* et le mot fleur, l'ascension des âmes de ces plantes, c'est-à-dire celle de leurs esprits.* En effet, s'il n'en est pas ainsi, il n'y a rien de sûr. Livrés à de vains efforts, les misérables qui sont ballottés sur cette mer, avec une multitude de peines et de fatigues, ne pourront jamais avoir aucun profit.
+
+*) Au-dessus le signe du mercure dans A, B.
+
+*) L'auteur joue sur la ressemblance des mots ἀναγαλλίς (mouron) et ἀναγαγεῖν (faire monter). Faire monter l'eau signifie la distillation ou la sublimation.
+
+*) Le jeu de mots continue, en s'appliquant à l'ascension (sublimation) des matières volatiles, appelées esprits ou fleurs des métaux, et assimilées aux âmes des plantes ; lesquelles fleurs se produisent pendant les fusions et traitements des minerais. Ce sont pour nous des oxydes sublimés (oxyde de zinc), ou entraînés par les gaz. On dit encore aujourd'hui, dans un sens analogue qui remonte aux alchimistes : _fleurs argentines d'antimoine_ ; _fleurs de zinc_ ; _fleur de soufre_. On disait également au siècle dernier : _fleurs d'antimoine_, pour le sublimé jaune et en partie oxydé formé par le sulfure naturel ; _fleurs rouges d'antimoine_, pour un sulfure rouge formé en présence du sel ammoniac ; _fleurs d'arsenic_, pour l'acide arsénieux sublimé ; _fleurs de sel ammoniac_, pour ce sel sublimé, _fleurs de benjoin_, pour l'acide benzoïque sublimé, etc. (_Dict. de Chimie_ de Macquer, 1778). --- On lit de même dans le _Lexicon Alchemiæ_ de Rulandus, p. 216 (1612) : _Flos est bolus per sublimationem extractus ... Flos spirituosa rei substantia est ... Omnis flos per se volatilis et spirituosus._
+
+15\. _D._ --- Et pourquoi, encore une fois, ce philosophe généreux, ce maître habile, a-t-il ajouté la rhubarbe du Pont ?
+
+_S._ --- Remarque la libéralité de l'auteur. Il a parlé de la rhubarbe elle-même, et afin de nous persuader, il a ajouté « du Pont. » Car y a-t-il un philosophe qui ne sache que la mer (πόντος) est alimentée de tous côtés par l'eau des fleuves* ?
+
+*) V. p. 62 et la note 4. de la p. 70.
+
+_D._ --- Tu as parlé véridiquement, Synésius, et tu m'as réjoui l'âme aujourd'hui ; car ces choses ne sont pas médiocres. Maintenant je te prie de m'enseigner en outre, pourquoi il a parlé plus haut de la couperose jaune ; tandis qu'ici, il ajoute ce mot, sans spécifier « avec la couperose bleue.* »
+
+*) C'est-à-dire avec le sory ( ? ) --- Voir plus haut, p. 70, note 6.
+
+_S._ --- Ces mots, ô Dioscorus, indiquent les fleurs, car elles sont jaunes, mais, comme l'eau que l'on fait monter* a besoin d'éprouver une fixation, il a ajouté aussitôt : « la gomme d'acanthe. » Ensuite il a ajouté : « l'urine d'un impubère, l'eau de chaux, l'eau de cendres de chou, l'eau d'alun,* l'eau de natron,* l'eau d'arsenic et de soufre.* » Remarque comme il a mis en avant toutes les (substances) susceptibles de produire la dissolution et la dispersion, nous enseignant évidemment par là la dissolution des corps (métalliques).
+
+*) Par évaporation et distillation.
+
+*) Variante : l'eau de sel ammoniac, Fabr.
+
+*) Variante : l'eau de molybdochalque, Fabr.
+
+*) Variante : l'eau de couperose, Fabr.
+
+16\. _D._ --- Oui, tu as bien parlé. Et dans quel sens a-t-il dit à la fin : « le lait de chienne ? » Est-ce afin de montrer que le Tout est tiré de la chose commune* ?
+
+*) Y a-t-il là un jeu de mots, sur κυνός (de chienne) et κοινός (commun) ?
+
+_S._ --- Réellement, tu as compris, Dioscorus ; mais observe avec attention dans quel sens il dit : « Cette matière est celle de la Chrysopée. »
+
+_D._ --- Quelle matière ?
+
+_S._ --- Qui ne sait que toutes les choses (dont il s'agit) sont volatiles ? Car ni le lait* d'ânesse, ni le lait de chienne ne peuvent résister au feu. Le lait d'ânesse, si tu le déposes quelque part, pendant un nombre de jours convenable, finit par disparaître.
+
+*) Le mot _lait_ est pris ici dans un sens symbolique ; de même que les mots _sang, bile, semence_, etc., dans la langue des prophètes ou prêtres égyptiens. (_Introd._, p. 10). Ainsi, le lait de la vache noire a signifié le mercure (_Lexique_, p. 6). --- Les mots _lait de chaux_, _lait de soufre_, se sont conservés jusqu'à notre temps dans la langue des chimistes.
+
+_D._ --- Que signifient ces mots : « Telles sont les (substances) qui transforment la matière ; telles sont celles qui rendent les corps résistant au feu, étant elles-mêmes volatiles ? » Et ces mots : « En dehors de ces substances, il n'y a rien de sûr ? »
+
+_S._ --- C'est afin que les misérables pensent que ces choses sont vraies.* Mais écoute encore ce qu'il dit et ajoute : « Si tu es intelligent et que tu procèdes comme il a été écrit ; » au lieu de : « Si tu es habile et que tu discernes le calcul qu'il faut employer ; alors tu seras bienheureux. » Et que dit-il ailleurs ? « Je m'adresse à vous qui êtes des gens sensés. »
+
+*) Les non initiés étant déçus, parce qu'ils prennent les noms dans leur sens littéral.
+
+Il faut donc que nous exercions nos esprits et que nous ne nous trompions pas, afin que nous évitions la maladie incurable de la pauvreté et que nous ne soyons pas vaincus par elle ; de crainte qu'étant tombés dans la vaine pauvreté nous ne soyons malheureux, étant devenus incapables de tirer profit de nos travaux. Nous devons exercer nos esprits, aiguiser notre intelligence.
+
+17\. _D._ --- Pourquoi ajoute-t-il le mot « projeter ? »
+
+_S._ --- Il ne parie pas des choses dites au commencement, mais de celles qu'il faut entendre. Voilà pourquoi il dit encore : « Traitez par (projection) l'or, par le corail d'or ; l'argent, par l'or ; le cuivre, par l'or ; le plomb ou l'étain, par le molybdochalque.* » Voici qu'il nous a fait monter les degrés de l'Art, (afin que) nous n'allions pas, en faisant de vains efforts, tomber dans le gouffre de l'ignorance et méconnaître les choses qu'ils ont voulu désigner.* Grande est l'habileté de l'auteur ; car après qu'il a dit : « Ainsi a été exposée la matière de la Chrysopée ; » il ajoute ces mots : « maintenant, et à la suite, traitons amplement la question de l'Argyropée* ; » afin de montrer qu'il y a deux opérations (distinctes), et que l'Argyropée a été considérée avant toutes les autres ; elle les précède et, sans elle, rien ne se fera.
+
+*) Ainsi chaque métal est modifié par la projection d'un métal plus précieux, destiné à le transformer en en changeant les propriétés ; de façon à le rendre identique à lui-même (_diplosis_), par une sorte de fermentation. Rappelons d'ailleurs que les recettes 7. et 60. du Papyrus (_Introd._, p. 29, 41, 57) reposent sur une pratique analogue. On voit comment la préparation des alliages décrits dans le Papyrus de Leide (_Introd._, p. 70, et dans les _Questions naturelles et mystérieuses_, p. 44 et suivantes) est devenue, par une interprétation mystique, la transmutation même des métaux.
+
+*) Probablement il s'agit des anciens chimistes, ou prophètes égyptiens.
+
+*) Cette phrase et diverses autres, citées par Synésius, ne se retrouvent pas dans les _Questions naturelles_ de Démocrite, telles que nous les possédons. Il est probable que nous avons seulement un extrait de l'ouvrage original.
+
+18\. Écoute-le encore lorsqu'il dit : « Le mercure tiré de l'arsenic, ou du soufre,* ou de la céruse, ou de la magnésie, ou de l'antimoine d'Italie. » Et (plus) haut dans la Chrysopée : « Le mercure, qui provient du cinabre.* » Ici il dit : « le mercure, tiré de l'arsenic, ou de la céruse, etc. »
+
+*) Var. : de la couperose, Fabr.
+
+*) Var. : du sel ammoniac, Fabr.
+
+_D._ --- Et comment admet-il que la céruse se change en mercure ?
+
+_S._ --- Il n'a pas dit que nous extrayons le mercure de la céruse : mais il a voulu exprimer le blanchiment des corps (métalliques), c'est-à-dire leur retour (à une forme commune ? ).* En effet, ici, il parle de toutes les (substances) blanches, et dans l'autre passage, des substances jaunes, afin que nous comprenions.
+
+*) Celle du mercure des philosophes ? --- On pourrait encore appliquer ce passage à _l'asèm_, lequel désigne tout alliage doué d'un brillant argentin : qu'il ait été préparé, soit par amalgamation superficielle ; soit par blanchiment superficiel au moyen de l'arsenic ; ou bien encore, par des compositions diverses de cuivre, de plomb, d'étain, ou d'antimoine. --- _Introd._, p. 62.
+
+Vois comment il s'est exprimé : « Le corps (métal) de la magnésie (produit seul le chrysocorail. » Là il s'agit du corps (métal) de la magnésie, de celui de la magnésie seulement, ou de celui de l'antimoine d'Italie.
+
+Qu'il suffise de vous dire ceci brièvement. Mais il faut exercer l'esprit d'avance, afin que nous discernions les actions de la nature, relativement aux choses qui doivent être accomplies avec le concours de Dieu.* Sachez qu'il faut d'abord faire macérer les espèces et, dans les fusions, amener celles qui ont des couleurs pareilles à l'identité de couleur. Les deux mercures* exercent ainsi leur action mercurifiante, et se séparent dans la décomposition.
+
+*) Cette phrase a une signification mystique et implique l'intervention d'actions supérieures à celles de l'homme. --- Voir plus loin Olympiodore, § 1 et § 9.
+
+*) Celui du cinabre et celui de l'arsenic. (_Introd._, p. 99 et 239).
+
+Avec le secours de Dieu, je commencerai mon commentaire.*
+
+*) Il semble par ces mots que le petit traité de Synésius soit l'extrait et le préambule d'un ouvrage plus étendu.
+
+---
+
+#### 2. --- 4. Olympiodore, Philosophe d'Alexandrie.*
+
+*) A ajoute ces mots intercalaires : « à Petasius, roi d'Arménie, sur l'art divin et sacré et sur la pierre des philosophes. » Les diverses copies de ce traité offrent des variantes considérables ; spécialement le manuscrit L, qui appartient à une classe à part. Petasius ou Petesis (Isidore), peut être un personnage réel ; mais le titre de roi d'Arménie est fictif, et ajouté par quelque adepte (v. _Orig. de l'Alchimie_, p. 139 et 168.)
+
+_Commentaire sur le livre « Sur l'action » de Zosime, et sur les dires d'Hermès et des philosophes._
+
+1\. « La macération se fait depuis le 25 méchir (février) jusqu'au 25 mésori (août). Toutes les choses que tu peux faire macérer et lessiver, laisse-les déposer dans des vases (convenables) ; et, si tu le peux, accomplis l'œuvre de la macération, toi le meilleur des sages.* »
+
+*) Ce premier paragraphe représente le texte proprement dit (de Zosime sans doute) ; puis vient le commentaire. Ce texte répondait à l'origine à l'opération de la lévigation des minerais d'or ; comme le montre l'insertion du morceau d'Agatharchide relatif aux mines d'or dans M. ; (_Orig. de l'Alchimie_, p. 22), morceau abrégé et mutilé dans A (v. le présent volume, p. 27). Ce traitement des minerais naturels semble avoir été envisagé plus tard comme représentant symboliquement la transmutation.  
+C'est toujours le passage du sens matériel et positif d'une opération pratique, à un sens mystique postérieur. Peut-être s'agit-il d'ailleurs d'une opération réelle, accomplie sur les minerais destinés à fournir plus tard par des traitements convenables non plus les paillettes d'or, mais un alliage imitant l'or.
+
+Il était d'usage chez les anciens de cacher la vérité et les choses tout à fait évidentes pour les hommes, au moyen des allégories et (du langage) de l'art des philosophes.* En effet, non seulement ils ont tenu dans l'ombre ces arts honorables et philosophiques par leur exposition obscure et ténébreuse ; mais encore ils ont remplacé les termes communs par d'autres termes : comme cela a lieu quand on intervertit ce qui est dans le sujet et ce qui n'est pas dans le sujet. Tu sais toi-même, philosophe mon maître, que Platon et Aristote ont procédé de même par allégories et modifié le sens des mots. Ainsi Aristote dit que la substance n'est pas dans le sujet, mais que c'est l'accident qui est dans le sujet. Platon de son côté établit la même opposition : d'une part, il ne place pas la substance dans le sujet ; et, d'autre part, il place l'accident dans le sujet. En un mot, de même qu'ils ont exposé beaucoup de choses de cette nature, suivant la manière qui leur a paru convenable ; de même, en ce qui concerne cet art honorable, les anciens y ont mis toute leur application, ayant pour unique affaire et pour art unique d'exposer (les faits) au moyen de certaines considérations et énigmes ; ils se proposaient d'aiguillonner les chercheurs et de les faire sortir des choses naturelles, pour les tourner vers la poursuite des choses mystérieuses : ce qui eut lieu en effet. C'est ce que montrera le présent traité.
+
+*) Cp. _Origines de l'Alchimie_, p. 29. τὰς ἀρχὰς τῶν πραγμάτων ἀποκρύψαντες (Clément d'Alexandrie, Stromates, 5). D'après la lettre apocryphe, mais antique, de Platon à Denis : les philosophes employaient des symboles, susceptibles de plusieurs explications, qui permissent de communiquer le secret à des personnes choisies, en maintenant les autres dans l'illusion. --- On lit dans le Pseudo-Aristote arabe (_Bibl. Chemica_ de Manget, t. 1, p. 622, citation de Roger Bacon) : « Celui qui révèle les secrets naturels, rompt le sceau divin et il en résulte pour lui de grands maux. On rencontre dans les livres une multitude de choses que l'on ne peut entendre sans un maître. » --- D'après Rhazès (même ouvrage, t. 1, p. 923) : « Il a plû aux anciens de cacher le sens de ces choses sous tant de noms qu'on n'en peut guère inventer de nouveaux. » --- De même Morienus : « Rien n'a causé plus d'erreurs dans cet art que la multitude des noms. Les anciens se sont servis de comparaisons, d'énigmes, de fables poétiques. » --- D'après Geber (p. 918) : « ils ont écrit de telle sorte, qu'ils ne peuvent être compris que par Dieu, ou par l'aide de sa grâce, etc. » --- C'était là une tradition constante, jusqu'au temps de la science moderne.
+
+2\. « La macération s'effectue au moyen de la terre limoneuse. »
+
+Ici le philosophe veut parler de la terre qui doit être lessivée. Car il faut laver et relaver, jusqu'à ce que la partie limoneuse disparaisse, suivant ce que dit la divine Marie. En effet toute terre de cette nature, contenant un corps (métallique), lorsqu'elle est lavée, est réduite à l'état de minerai.*
+
+*) La lévigation isole ainsi les paillettes d'or et les autres minerais métalliques, plus denses que les matières argileuses et les gangues analogues, qui sont entraînées par l'eau.
+
+Ainsi donc, après un lavage sérieux et purificateur, tu trouveras les corps métalliques dans les sables ; c'est-à-dire les paillettes d'or,* argentées ou plombées (ce qui veut dire ayant la couleur de l'argent ou du plomb), ainsi que les pierres* ; le minerai qui contient la substance s'apercevant d'en haut. C'est celui que les anciens ont appelé par le nom propre de pierre d'argent, et il est permis d'y trouver le mot dont le nom a quatre syllabes et neuf lettres.*
+
+*) C'est-à-dire l'or, ou les métaux susceptibles de l'imiter par leur alliage.
+
+*) Les pierres, c'est-à-dire les fragments de roche volumineux, ne sont pas entraînées par la lévigation à cause de leur poids.
+
+*) Allusion à l'Énigme de la Sibylle (_Origines de l'Alchimie_, p. 136). Le mot grec λιθάργυρος ayant dix lettres, on ne voit pas bien comment Olympiodore l'applique à cette énigme ; à moins que les deux dernières lettres ne comptent que pour une seule, ou que l'on ne prenne une autre terminaison, telle que λιθάργυρα.
+
+3\. L'expression « depuis le mois de méchir » ne signifie rien (en soi) : elle a été placée là, afin que celui qui la rencontre croie que la poudre sèche* et la manipulation dépendent d'un certain intervalle de temps, et que, laissant de côté la droite voie, il recoure à la route incertaine et épineuse.
+
+*) La poudre de projection, ou pierre philosophale. --- Ce paragraphe semble une interpolation postérieure.
+
+4\. L'expression « déposer dans des vases, » signifie les digesteurs de terre cuite. Zosime est le seul à en faire mention.
+
+5\. Par les mots « Accomplir l'art de la macération, » il nous exhorte à l'œuvre efficace. Et en effet le mot « action » est pris ici dans le sens d'opération pratique. Sache que celui qui macère a besoin d'ingrédients, d'un certain (laps de) temps et d'une époque favorable.* Ainsi donc le limon lessivé à cette époque, ayant été réduit à l'état de sable, est desséché.
+
+*) La nécessité d'une époque favorable, et d'un laps de temps déterminé, a toujours été reconnue par les alchimistes, conformément aux doctrines de l'astrologie. Sa dernière expression se trouve dans le _Lexicon Alchemiæ Rulandi_, p. 330, à l'article _Mensis philosophicus_ (mois philosophique). « C'est dit-il, le temps de la décomposition, dont la durée répond au mouvement de la lune ; il est de trente jours pour les uns ; de quarante pour les autres. Il répond à la fabrication de la pierre philosophale ; et peut être renfermé dans un moindre nombre de jours, étant défini par la nature de l'objet et l'accomplissement de l'œuvre. »
+
+6\. L'expression « depuis le 25 du mois de méchir, jusqu'au 25 mésori, » signifie que, à la suite de la macération, le minerai est traité par le feu. Or, il n'a pas dit : « après la fin de mésori, » il est traité par le feu ; mais à partir de la macération, ou du lessivage, ou plutôt du desséchement.
+
+7\. Les mots : « Toutes les choses que tu peux faire macérer et lessiver, » signifient l'espèce qui renferme la substance* et celle qui est obtenue par le desséchement. « Toutes les choses, » c'est l'espèce qui renferme la substance ; « macérer et lessiver, » c'est l'espèce obtenue par le dessèchement ; car on a toujours besoin d'y recourir. Ainsi s'opère le lessivage. Ces mots : « l'espèce qui renferme la substance » ont fait voir à mon maître ce que c'est que la macération, le lessivage, la dessiccation, l'évaporation. Démocrite parle quelque part de l'alun décomposé* : ce philosophe (n')a (pas) voulu que les lecteurs imaginassent qu'il fallait prendre n'importe quels aluns, ou qu'ils fussent égarés parmi les espèces, gaspillant (ainsi) tout leur temps. Il y a deux sortes de lessivage, le lessivage mystique et le lessivage au sens propre. On a donc parlé du lessivage mystique et du lessivage au sens propre. Le lessivage mystique est précisément celui qui se fait au moyen de l'eau divine.
+
+*) C'est-à-dire le minerai, dont l'or (ou l'alliage qui offre l'apparence) sera extrait ensuite par l'action du feu.
+
+*) P. 47 ; § 7. Il s'agit probablement du sulfure d'arsenic, changé en acide arsénieux par oxydation, à l'aide de diverses opérations décrites plus loin dans Olympiodore, § 12, et qui précisent les désignations vagues : macération, lessivage, etc.
+
+C'est là le lessivage essentiel, celui dont on assure le succès par les paroles de bon augure et l'obéissance (aux règles)* : il s'agit des matières fluides qui s'écoulent ensemble, c'est-à-dire de la régénération à l'état métallique des métaux qui en avaient été dépouillés, ainsi que des esprits, c'est-à-dire de leurs âmes* : opération qui s'accomplit par la seule action de la nature, et non par la main des hommes, comme le croient quelques-uns. Car Hermès dit : « Lorsque tu auras pris (quelque substance) après le grand traitement, c'est-à-dire le lessivage du minerai ... » Voilà donc qu'il a nommé le minerai, substance, et le lessivage, grand traitement. Agathodémon parle dans le même sens. Ah ! quelle libéralité chez le Philosophe ! Aucun des anciens n'a jeté ainsi la lumière sur l'œuvre ; aucun n'a appelé l'espèce par son nom, sinon cet homme excellent et doué de toute science ; car le lessivage purificateur est évidemment le grand traitement.
+
+*) Réd. de L : « en suivant les règles de l'œuvre unique et excellent. »
+
+*) Les métaux purs ou alliés sont d'abord transformés par des opérations chimiques, qui les privent de leur état ou apparence métallique. Puis, en y fixant certains éléments volatils (esprits) qui restituent aux métaux leurs âmes, (principes intérieurs d'activité), on les régénère avec une couleur et des propriétés nouvelles.
+
+Je vais t'expliquer (maintenant) l'économie de la soudure d'or.
+
+**Sur la Soudure d'Or**
+
+8\. La soudure d'or, c'est* l'art de réunir l'or avec l'or, en opérant sur les paillettes d'or tirées du minerai. Comment faut-il unifier ces paillettes, c'est-à-dire les souder et les joindre entre elles, afin que l'esprit tinctorial de la chrysocolle y soit conservé* ?
+
+*) C'est la réunion de l'or avec l'or. Les paillettes d'or sont les parties tirées du minerai. Le mot or comprend d'ailleurs aussi les alliages couleur d'or.
+
+*) Il s'agit de réunir les paillettes métalliques d'or (ou de l'alliage qui en offre l'apparence), en une masse unique, au moyen de la chrysocolle ; en leur donnant une couleur homogène, et sans qu'on voie la soudure.
+
+Pour conserver cet esprit, il dit qu'il convient d'employer une combustion à feu modéré, afin que, par suite d'une grande incandescence, des choses non convenables n'arrivent pas. Il faut que le feu brûle avec modération et douceur, de crainte que la vapeur ne s'en aille en fumée et ne soit perdue. Il s'agit de la vapeur, qui tend à s'échapper. Cette vapeur, c'est le mercure. Cette vapeur donc, autrement dit le mercure,* éprouvant l'action du feu, s'en va en fumée. Or, lorsqu'elle s'en va en fumée et sort du creuset, les paillettes d'or, celles que Zosime appelle paillettes de claudianos, brûlées maladroitement par la violence du feu, s'en vont aussi en fumée.*
+
+*) Réd. de L : « Donc cette vapeur, autrement dit l'eau d'argent, c'est-à-dire l'(élément) qui atténue l'argent. » Le mercure dont il s'agit ici paraît être l'arsenic métallique (_Introd._, p. 61, 99 et 239).
+
+*) Toute cette description est obscure, quoiqu'elle paraisse se rapporter à des opérations réelles. La mention finale du claudianos, alliage de plomb, de cuivre, de zinc et autres métaux (_Introd._, p. 244), y jette quelque jour ; car c'était là un alliage métallique, destiné à imiter l'or. --- La description s'applique à la fois à l'or pur et à l'or simulé, c'est-à-dire au claudianos. Il semble que l'or véritable, aussi bien que le faux or, fussent obtenus d'abord à l'état de paillettes ; que l'on agglomérait ensuite au moyen du mercure (ou plutôt de l'arsenic métallique, envisagé comme un second mercure). Puis on chauffait à feu doux, en évitant la déperdition de la vapeur, du mercure, ou de l'arsenic par volatilisation ou oxydation.  
+La mention finale s'appliquerait à la destruction de l'alliage et à la vaporisation de certains de ses composants, tels que le zinc, sous forme d'oxydes, par l'influence d'une calcination trop énergique.
+
+9\. Apprends, ô ami des Muses, ce que signifie le mot économie,* et ne va pas croire, comme le font quelques-uns, que l'action manuelle à elle seule soit suffisante ; il faut encore celle de la nature, une action supérieure à l'homme.* Lorsque tu as pris de l'or,* tu dois le traiter, et si tu opères avec soin, tu obtiendras de l'or.* Et ne suppose pas, dit-il, que la teinture aura lieu avec certaines autres idées et certaines autres plantes* ; mais travaille suivant une pratique conforme à la nature,* et tu obtiendras l'objet cherché.
+
+*) Le mot économie est employé, même dans la pratique de notre temps, avec le même sens que dans ces textes. On dit, par exemple : « Voici toute l'économie du procédé, » etc.
+
+*) Le côté mystique et magique des opérations apparaît ici.
+
+*) Il semble que dans cette phrase le mot or soit employé successivement dans deux sens différents : Lorsque tu as un métal qui a l'apparence de l'or ... etc. ; tu obtiendras de l'or véritable. On peut encore entendre d'abord le métal en paillettes ; puis le métal aggloméré par la soudure.
+
+*) Réd. de L : « Tu auras de l'or ; mais travaille toujours conformément à la pratique de l'or. »
+
+*) _Plantes_, dans le même sens mystique que _fleurs_, p. 71.
+
+*) C'est-à-dire les opérations purement manuelles sont insuffisantes, etc. ;
+
+Quant au mot économie, il a été employé en mille endroits par tous les anciens* ; car ils veulent parler de la marche opératoire pour fixer la teinture.* Or qu'est-ce que la fixation d'une teinture ? sinon la fixation de quelque mercure fugace. Car Zosime dit : « Fixe le mercure avec le corps (métallique) de la magnésie. »
+
+*) Réd. de L : « Car ils veulent qu'il y ait dans l'art un principe fixateur, qui retienne les substances fugaces ; ce principe, c'est le feu, qui fixe le mercure, c'est-à-dire la vapeur. Or ce n'est pas seulement le mercure qui fuit le feu, mais encore toutes les substances (de la même classe) du catalogue. »
+
+*) Κάτοχος fixation d'une matière colorante, sur une étoffe, par exemple.
+
+10\. On a dit que la soudure d'or est le mélange des deux substances ; le principe fixateur qui en résulte, je sais le maintenir dans le composé. Nous savons en effet que la vapeur (mercurielle)* est fugace ; et il est spécifié en mille endroits que ce n'est pas seulement la vapeur (mercurielle) qui est fugace, mais encore toutes les (substances de la même classe) du catalogue. Avant et après, le philosophe s'attache au mercure, comme à toutes les substances fugaces du catalogue, telles que celles dont les anciens ont fait mention, couleurs et plantes, et autres ; parce que toutes ces substances, en éprouvant l'action du feu,* sont fugaces.
+
+*) Le mercure proprement dit (ou l'arsenic métallique), employé dans la teinture du métal, est volatil ; mais le mercure des philosophes, fixé par l'action du feu, ne doit pas l'être : de telle façon que la teinture dont il fait partie demeure fixée sur le fond métallique. Il y a là un mélange d'idées réelles et d'idées mystiques.
+
+*) Le mot fugace s'applique ici à la teinture et aux agents qui la produisent. Il signifie, non seulement la volatilité de l'agent colorant, mais le défaut de fixité de la teinture, dû à une oxydation ou à une cause quelconque.
+
+11\. Quant à moi, je ne t'en expose pas toutes les classes, vu leur grand nombre et les témoignages des anciens, tous d'accord sur ce point ; afin de ne pas perdre le temps mal à propos. Mais je te soumettrai un petit nombre de choses, comme les plus intéressantes, les plus faciles à comprendre, et à l'abri du reproche de futilité.
+
+Il fait allusion ici* aux anciens, dont quelques-uns ont dit des choses futiles et fait perdre aux chercheurs un temps infini. Sache donc, dans ta science excellente, que les anciens font trois teintures : La première est celle qui se dissipe promptement,* comme les soufres ; la seconde, celle qui se dissipe lentement, comme les matières sulfureuses ; la troisième, celle qui ne se dissipe pas du tout, comme les corps métalliques liquéfiés et les pierres.*
+
+*) C'est une glose du commentateur ; la phrase précédente est probablement de Zosime.
+
+*) On avait d'abord traduit φευκτά par volatiles. Mais le sens semble comprendre aussi les corps colorants qui disparaissent par liquéfaction, dissolution, oxydation, etc. ; c'est-à-dire qu'il est plus général.
+
+*) L ajoute : « Et la terre. »
+
+12\. _Première teinture_, teignant le cuivre en blanc au moyen de l'arsenic, comme il suit.
+
+L'arsenic (sulfuré) est une espèce de soufre qui se volatilise promptement ; je veux dire, se volatilise au feu. Toutes les substances semblables à l'arsenic sont aussi appelées des soufres et des corps volatils.* Or la préparation se fait ainsi : prenant de l'arsenic lamelleux couleur d'or, 14 onces,* tu le coupes en morceaux, tu le porphyrises de façon à le réduire en parties aussi fines que du duvet ; puis tu fais tremper dans du vinaigre, pendant deux ou trois jours et autant de nuits, la matière renfermée dans un vase de verre à col étroit, en lutant le haut avec soin, afin qu'elle ne se dissipe pas. Agitant une fois ou deux par jour, fais cela pendant plusieurs jours ; puis, vidant le (vase), lave avec de l'eau pure, seulement jusqu'à ce que l'odeur du vinaigre ait disparu. Garde la partie la plus subtile de la substance ; mais ne la laisses pas s'écouler avec l'eau.* Ensuite, laissant la masse se dessécher et se contracter à l'air, mélange et broie avec 5 onces de sel de Cappadoce.
+
+*) Réd. de L : « Or il se dissipe sous l'influence du feu, etc. »
+
+*) Var. AL : 4 onces.
+
+*) C'est-à-dire : décante avec soin le dépôt du liquide surnageant.
+
+Or l'emploi du sel a été imaginé par les anciens pour éviter que l'arsenic adhère au vaisseau de verre. Ce vaisseau de verre est nommé _asympoton_, par Africanus. Il est luté avec de l'argile* ; un couvercle de verre en forme de coupe est posé par-dessus. A la partie supérieure, une autre coupe enveloppe le tout ; elle est assujettie de tous les côtés, afin que l'arsenic brûlé ne se dissipe pas.*
+
+*) Réd. de L : « Ensuite lute la coupe et assujettis-la de tous les côtés. »
+
+*) Cette description répond à celle d'un appareil de sublimation, formé d'un récipient inférieur, surmonté de deux coupes ou chapiteaux, emboîtés l'un dans l'autre en forme d'aludel. Ce dernier appareil a été attribué aux Arabes ; mais la description actuelle le fait remonter jusqu'à Africanus (3e siècle). On lutait avec soin ; et on condensait dans ces chapiteaux la partie sublimée. --- Voir _Introd._, p. 143, 146, fig. 20 et 22. La double coupe répond à la figure 22, mais sans kérotakis ; ou bien encore aux figures 26 et 27 p. 150, 151. --- Voir aussi fig. 44 et 45, p. 170, 172.
+
+Fais-le donc brûler à plusieurs reprises et pulvérise-le, jusqu'à ce qu'il soit devenu blanc ; on obtient ainsi de l'alun blanc et compacte.* Puis on fait fondre le cuivre avec du cuivre dur de Nicée ; ensuite tu prends de la fleur de natron, tu en jettes au fond du creuset 2 ou 3 parties pour ramollir.* Tu projettes alors la poudre sèche (arsenic brûlé), avec une cuiller de fer ; tu en jettes la valeur d'une once pour 2 livres de cuivre. Après cela, tu ajoutes dans le creuset pour une once (de cuivre) un peu* d'argent, en vue de rendre la teinture uniforme. Tu projettes encore dans le creuset une petite quantité de sel. Tu auras ainsi un très bel asèm.*
+
+*) Dans cette opération, on oxyde lentement l'orpiment ou sulfure d'arsenic, de façon à le changer en acide arsénieux. On voit que ce dernier est désigné ici sous le nom d'alun blanc.
+
+*) C'est un fondant.
+
+*) μιλιαρίσιον ne se trouve pas dans les dictionnaires. --- A moins que ce ne soit le mot latin millième, grécisé.
+
+*) Variante de A : argent. Cette variante est postérieure. La recette précédente est une préparation positive : c'est celle d'un arséniure de cuivre blanc, analogue à l'alliage appelé tombac. Elle rappelle quelques-unes des fabrications d'asèm du Papyrus de Leide traduit dans l'_Introduction_, p. 34, 45, 61.
+
+13\. _Deuxième teinture_, celle qui se volatilise lentement :
+
+Le cuivre brûlé,* la rubrique et les substances analogues ne se dissipent pas promptement, mais lentement. Or il faut savoir que la fabrication de l'émeraude se fait ainsi. Prends : deux onces de beau cristal ; cuivre brûlé, une demi-once. Chauffe d'abord le cristal, dans ses parties extrêmes, et jette-le dans l'eau pure ; puis nettoie-le, afin qu'il n'ait pas de crasse. Ensuite* tu le pulvérises dans un mortier propre, sans le réduire en poudre impalpable ; et tu délaies, avec la rubrique et le cuivre brûlé. Tu en fais fondre la valeur de 4 livres sur un feu de charbon. Après avoir luté tout autour et fermé le creuset à sa partie supérieure, et après avoir chauffé sur un feu bien régulier,* tu auras ce que tu cherches. Or il est préférable d'opérer la fonte dans un creuset d'argile crue, non cuite ; parce que dans les creusets des orfèvres, l'émeraude fond avec la matière du creuset et donne lieu à un retrait qui fait éclater le creuset. Elle demande à être refroidie dans le fourneau même, et à être enlevée après refroidissement ; attendu que si tu l'enlève pendant que le fourneau est encore chaud, le creuset éclate aussitôt.*
+
+*) L'auteur ajoute μαργάρων : mot à mot, des perles ; sans doute parce que ce produit servait à colorer les perles artificielles. Le cuivre brûlé répond à notre protoxyde de cuivre : c'est une matière rouge (V. _Introd._, p. 233).
+
+*) Réd. de L : « Ensuite pulvérise-le, ainsi que le cuivre brûlé et la rubrique, dans un mortier ; fais les fondre sur le feu. Lutant le creuset, le fermant à sa partie supérieure et chauffant sur un feu égal, etc. »
+
+*) Glose insérée dans le texte : « le feu ne doit pas chauffer une partie, en n'échauffant pas une autre partie. »
+
+*) C'est là un procédé technique de fabrication d'un verre coloré en vert, ou émeraude artificielle. C'est donc encore une teinture ; mais il ne s'agit plus d'un métal (Voir _Origines de l'Alchimie_, p. 220, 222, 239).
+
+14\. _Troisième teinture_, celle qui ne se dissipe pas du tout.
+
+On a dit « se dissipe au feu ; » et deux mystères sont exposés par là* : l'un concerne le corps dissipé ; l'autre, le corps qui détermine la dissipation. De même Démocrite a parlé quelque part des trois (teintures) antiques :
+
+*) Réd. de L : « et c'est pourquoi deux mystères sont exposés ... »
+
+L'une se dissipe promptement, c'est-à-dire par le départ des liquides,* ou par la montée de la vapeur.* C'est pour cela qu'il dit : Les substances qui se dissipent promptement, telles que les soufres ; car les soufres sont très prompts (à se réduire) en fumée.
+
+*) Réd. de L : « mais Démocrite dit au sujet de ce qui se dissipe promptement, que cette chose se dissipe dans le départ des liquides, etc. »
+
+*) La disparition de la teinture ou coloration peut avoir lieu : soit par l'évaporation (ou l'oxydation) de la matière qui teint ; soit par son extraction au moyen d'un liquide, à l'aide duquel elle est dissoute ou décomposée.
+
+Les autres se dissipent lentement, telles sont les matières sulfureuses. Et il parle du principe de la fixation des mêmes liquides fugaces, lorsqu'ils deviennent plus lents à se dissiper (étant composés par le mélange) des (substances) fugaces avec les substances fixes et les corps métalliques.*
+
+*) Réd. de L : « Quant à ce qui ne se dissipe pas du tout, il dit que cette teinture est véritablement et proprement la troisième teinture : tels sont, par exemple, les corps fusibles et métalliques. Car après que nous avons traité et disposé ces (substances) séparément, les matières dissipables deviennent fixes et les corps non métalliques se changent en métaux. »
+
+Ensuite il parle de la troisième classe : celle qui se dissipe à la façon des corps (métalliques) fusibles. C'est là ce que l'on appelle proprement la teinture. (On l'obtient) après avoir fait le traitement et placé séparément les corps qui ne se dissipent pas et les corps qui se dissipent.
+
+En effet il est impossible de faire cela (en une seule fois) ; mais c'est en desséchant progressivement et jusqu'à la fin qu'avec la coopération de Dieu nous rendons les (substances) tout à fait fixes.*
+
+*) La matière colorante se fixe par suite de l'évaporation du liquide qui la contenait. C'est la pratique de la teinture des étoffes qu'il faut prendre comme terme de comparaison, pour entendre tout ceci.
+
+15\. « Comme les corps métalliques fusibles. »
+
+Il est évident que ces corps étaient d'abord dissipables par l'action du feu, parce qu'ils ne rencontraient rien qui pût les fixer ; lorsqu'ils ont au contraire été amenés à une fixité complète,* la nature indélébile de la teinture les a fait passer à l'état de métaux. Ces corps ont reçu un nom semblable, en raison de leur résistance au feu et de leur fixité. Si le corps dissipable rencontre l'agent fixateur, il acquiert une nature indélébile. Entends par là, la nature qui existe dans le Tout ; conçois celle qui subsiste jusqu'à la fin, inextractible et demeurant toujours : c'est là l'indélébile, ce qui reste à jamais inaltérable. Car les anciens connaissaient toutes les (matières) sans stabilité qui existent dans le catalogue, et leur but était de faire comprendre aux gens intelligents de quelle nature sont les matières stables et les matières instables. C'est pour cela qu'ils ont établi que toute matière appartient soit à la classe des solides, soit à celle des liquides.*
+
+*) Ceci désigne à la fois la résistance à la volatilisation, à la fusion et même à la dissolution.
+
+*) On voit que la liquidité est regardée ici comme le symbole de l'aptitude à se dissiper ; et la solidité, comme celui de la fixité.
+
 ...
