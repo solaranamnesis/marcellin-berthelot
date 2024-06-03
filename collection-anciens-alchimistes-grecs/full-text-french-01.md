@@ -11271,4 +11271,283 @@ Il est évident que ces corps étaient d'abord dissipables par l'action du feu, 
 
 *) On voit que la liquidité est regardée ici comme le symbole de l'aptitude à se dissiper ; et la solidité, comme celui de la fixité.
 
+16\. Sache que cet art ne se pratique pas au moyen d'un feu (violent). Ainsi donc, ils ont écrit comme s'entretenant avec des (lecteurs) intelligents, et tel était leur but. Zosime fait un discours particulier sur le feu ; néanmoins dans chacun de ses livres il s'occupe du feu, comme tous les anciens. Le feu est le premier agent, celui de l'art tout entier ; c'est le premier des quatre éléments. En effet, le langage énigmatique des anciens, par cette expression « les quatre éléments, » désigne l'art. Que ta vertu examine avec soin dans les quatre livres de Démocrite les endroits où il parle des quatre éléments, dans le langage qui convient à un naturaliste. Il s'explique (ainsi) :
+
+Il a exposé d'abord les choses qui ont besoin du feu, et qu'il convient de traiter tantôt sur un feu doux, tantôt sur un grand feu, tantôt sur des charbons.*
+
+*) Réd. de L : « Car, naturellement, toutes les choses pourvues d'esprit ont besoin les unes du feu, comme les substances métalliques, celles qui se rattachent à l'art culinaire, etc. ;  
+Les autres ont besoin de l'air, comme les animaux qui vivent dans l'air ;  
+D'autres ont besoin de l'eau, comme les poissons ;  
+D'autres ont besoin de la terre, comme les plantes.  
+Mais les espèces qui sont dans ces quatre éléments, étant mâles et femelles ont été distinguées entre elles par des couleurs multiples et des natures multiples et réciproques, au point de vue particulier et au point de vue général. »  
+La rédaction de M, traduite dans le texte principal, semble la plus ancienne ; car elle est en relation plus directe avec l'idée de classification, qui est la base du traité démocritain.
+
+Puis il parle de l'air et des choses de l'air, telles que les animaux qui vivent dans l'air.
+
+Pareillement des choses des eaux, telles que la bile, les poissons, tout ce qui se prépare au moyen des poissons et au moyen des eaux.
+
+De même il parle des choses de la terre, telles que le sel, les métaux et les plantes. Il sépare en classes chacun de ces êtres, d'après leurs couleurs, leurs propriétés spécifiques et génériques, tous étant susceptibles d'être mâles et femelles.
+
+17\. Sachant cela, tous les anciens voilèrent l'art sous la multiplicité des discours. De toute manière l'art a besoin de quelqu'une de ces choses ; en dehors d'elles, il n'y a rien de sûr. Démocrite le dit : rien ne pourrait subsister sans ces (éléments). Mais sache-le, sache que j'ai écrit suivant mon pouvoir ; étant faible, non seulement dans mon langage, mais encore dans mon intelligence. Et je demande que par vos prières, vous empêchiez la justice divine de s'irriter contre moi, pour avoir eu l'audace d'écrire cet ouvrage : Qu'elle me soit propice de toute manière.*
+
+*) V. p. 76 note 1.
+
+Voici les écrits des Egyptiens, leurs poésies,* leurs opinions, les oracles des Démons, les expositions des prophètes : une intelligence infinie est nécessaire pour embrasser ce sujet, et il tend vers un but unique.
+
+*) Ou leurs procédés opératoires, le mot grec ayant un double sens.
+
+18\. Que ta sagacité sache que les anciens ont employé plusieurs noms pour l'eau divine. Cette eau divine désigne ce que l'on cherche, et ils ont caché l'objet de la recherche sous le nom d'eau divine. Je vais te donner une petite explication : écoute, toi qui es en possession de toute vertu. Car je connais le flambeau de tes pensées, ta bonté, ta patience. Je veux te présenter l'esprit des anciens ; te dire comment, étant philosophes, ils ont le langage des philosophes et ils ont appliqué la philosophie à l'art, par le moyen de la science ; ne cachant rien aux (esprits) intelligents, mais décrivant toutes choses avec clarté. En cela ils tiennent bien leur serment.* Car leurs écrits traitent de la doctrine, et non des œuvres pratiques.
+
+*) Réd. de A : « Ils se sont parjurés en révélant le mystère ; car les écrits des étrangers, etc. » L ajoute ici : « Et en cela ils jurent par le mystère. » L met ce membre de phrase, après les œuvres pratiques.
+
+Quelques-uns des philosophes naturalistes rapportent aux principes le raisonnement sur les éléments, parce que les principes sont quelque chose de plus universel que les éléments. Disons donc comment le principe premier est plus universel que les éléments. En effet, c'est lui que se ramène tout l'ensemble de l'art. Ainsi Agathodémon ayant placé le principe dans la fin, et la fin dans le principe, il veut que ce soit le serpent Ouroboros ; et s'il parle ainsi, ce n'est pas (pour cacher la vérité) par jalousie, comme le croient certaines personnes non initiées. Mais cela est (rendu) manifeste, ô initiateur, par le mot pluriel : les œufs.*
+
+*) Il s'agit ici de l'assimilation entre le serpent qui se mord la queue et l'œuf philosophique, tous deux emblèmes de l'œuvre. La pluralité sur laquelle le texte insiste semble être celle des quatre éléments.
+
+Vois, toi qui sais tout, et apprends ce qu'est Agathodémon. Quelques-uns racontent que c'est un ancien, un personnage des plus vieux, qui philosopha en Egypte. D'autres disent que c'est un ange mystérieux ; ou que c'est le bon génie* de l'Egypte. D'autres l'ont appelé le Ciel, et peut-être tient-on ce langage parce que le serpent est l'image du monde. En effet, certains hiérogrammates égyptiens, voulant retracer le monde sur les obélisques, ou l'exprimer en caractères sacrés, ont gravé le serpent Ouroboros. Or son corps est constellé d'astres. Telles sont les choses que j'ai expliquées au sujet du principe, dit Agathodémon. C'est lui qui a publié le livre de la Chimie.
+
+*) C'est la traduction du grec Ἀγαθοδαίμων écrit en deux mots. --- C'était en effet le nom grec d'une divinité égyptienne.
+
+Après l'avoir personnifié, cherchons maintenant comment il se fait que le principe soit plus universel que les éléments. Nous disons que ce qui est pour nous un élément, est aussi un principe ; car les quatre éléments constituent le principe premier des corps. Mais tout principe n'est pas pour cela un élément. En effet le divin,* l'œuf,* l'intermédiaire, les atomes,* sont pour certains philosophes les principes des choses ; mais ce ne sont pas des éléments.*
+
+*) L'auteur joue sur le mot θεῖον, qui veut dire à la fois : le soufre et le divin.
+
+*) L'œuf philosophique, image du monde. L donne ὄν : l'être. La confusion des deux mots est peut-être voulue.
+
+*) Au lieu de τὰ ἄτομα (M) : A porte τὸ ἅμα : l'ensemble ; ce qui semble une faute de copiste. --- L, qui représente un arrangement postérieur : τὸ ἅμα καὶ τὰ ἄτομα. C'est-à-dire que le dernier copiste a ajouté les deux versions.
+
+*) Voir Aristote, _Physica_, l. 1.
+
+19\. Cherchons donc, d'après certains signes, quel est le principe de toutes choses et s'il est un ou multiple. S'il est unique, est-il immuable, infini, ou déterminé ? S'il y a plusieurs principes, les mêmes questions se posent : sont-ils immuables, déterminés, ou infinis* ? Qu'il y ait donc un principe unique, immuable et infini de tous les êtres, c'était l'opinion de Thalès de Milet, disant que c'était l'être (de l'eau),* [c'est-à-dire l'être de l'eau divine, l'or ; c'est-à-dire l'œuf* de l'eau divine, l'or].* Car celui-ci est un et immuable ; il est exempt de toute mutation apparente ; il est de plus infini : en effet le divin* est d'une puissance infinie, et personne ne peut en dénombrer les puissances.
+
+*) Réd. de L : « Qu'il y ait un principe immuable et infini de tous les êtres, c'était l'opinion des anciens. C'est pourquoi Thalès de Milet disait que l'être était un. Il s'agit pour nous de l'eau de soufre et de l'or : c'est un principe un, beau, immobile. »
+
+*) Plusieurs manuscrits portent l'œuf, ὠόν, identifié avec l'être, ὄν, ou le monde. Voir la note 5. de la page 87. --- D'après Thalès, l'eau était le principe des choses. V. _Origines de l'Alchimie_, p.251 et suiv.
+
+*) Mêmes remarques.
+
+*) Gloses d'alchimiste. L'or, en raison de son caractère un, inaltérable, divin, et de la puissance qu'il communique, est assimilé par ces gloses au principe universel.
+
+Tout ce texte est rendu fort confus par le symbolisme alchimique. Il est probable qu'à l'origine, il était écrit en grande partie en signes à double sens, que les copistes ont ensuite transcrits et commentés de diverses façons.
+
+*) Ou le soufre. --- Toujours le même emploi de mots à double sens.
+
+20\. Parménide* prend aussi pour principe le divin,* dont la puissance est une, immuable, déterminée ; car celui-ci, comme on l'a dit, est un et immuable, et l'énergie qui en émane est déterminée. Observe que Thalès de Milet, considérant l'essence de Dieu, disait qu'il est infini ; car Dieu est d'une puissance infinie. Mais Parménide, (ayant en vue) les choses qui proviennent de lui, disait qu'il est déterminé* ; en effet, il est partout évident que, la puissance étant déterminée, ce que Dieu produit répond à une puissance finie.* Entends (par là) les choses périssables, à l'exception des choses intellectuelles. Ces deux hommes, je veux dire le Milésien et Parménide, Aristote est d'avis de les rejeter du chœur des naturalistes.* En effet, ce sont des théologiens s'occupant de questions étrangères aux choses naturelles, et s'attachant aux choses immuables ; tandis que toutes les choses naturelles se meuvent, car la nature est le principe du mouvement et du repos.
+
+*) Réd de L : « Parménide disait qu'une puissance est immuable et infinie et qu'une autre est limitée, le divin (ou le soufre). »
+
+*) Ou le soufre.
+
+*) Parce que toute action s'exerce dans des conditions finies et limitées.
+
+*) « Il est déterminé quant à sa puissance » L.
+
+*) Parménide ἀφύσικος. Cp. _Arist. fragm._, n° 33, (éd. Didot) ;--- _Métaphys._, 1, 4, p. 472, l. 30-40. --- Dans le fragment aristotélique tiré de Sextus Empiricus, on nomme Mélissus et Parménide. Le texte d'Olympiodore indique « le Milésien et Parménide, » et il est la conséquence du développement qui précède.
+
+21\. Thalès a admis l'eau comme principe déterminé des êtres, parce qu'elle est féconde et plastique. Elle est féconde, puisqu'elle donne naissance aux poissons ; et plastique, puisqu'on peut lui communiquer la forme que l'on veut. En effet tu fais prendre à l'eau la forme que tu veux : dans quelque vase qu'on la mette, elle en prend la forme ; je veux dire dans un setier, ou dans un pot de terre, ou dans un vase triangulaire ou quadrangulaire, ou enfin dans tout autre que tu voudras. Ce principe unique est mobile ; l'eau se meut en effet ; elle est déterminée et non pas éternelle.*
+
+*) L'auteur entend plutôt : non infinie, non illimitée.
+
+22\. Diogène soutint que le principe est l'air, parce qu'il est opulent et fécond : car il engendre les oiseaux. L'air, lui aussi, est plastique ; car on lui donne la forme que l'on veut ; il est un, mobile et non éternel.
+
+23\. Héraclite et Hippasus ont soutenu que le feu est le principe de tous les êtres, parce qu'il est l'élément actif de toutes choses. Un principe en effet doit être la source de l'activité des choses issues de lui, d'après ce que disent quelques-uns. Le feu est aussi fécond ; car tous les êtres naissent dans l'échauffement.
+
+24\. Quant à la terre, nul n'en a fait le principe, sinon Xénophane de Colophon ; comme elle n'est pas féconde, nul n'en a fait un élément. Et que celui en qui réside toute vertu* remarque ce fait que la terre n'a pas été considérée par les philosophes comme un élément, parce qu'elle n'est pas féconde : le sens de cet énoncé se rapporte à notre recherche. En effet Hermès dit quelque part :
+
+*) Son interlocuteur. Dans A le mot « remarque » est remplacé par « Acriboulos » nom propre ?
+
+« La terre vierge se trouve dans la queue de la Vierge.* »
+
+*) Ceci est énigmatique. L'expression de la terre vierge se retrouve plusieurs fois dans les auteurs de ce temps (_Orig. de l'Alch._, p. 258 et 333). On la lit aussi dans Theoctonicos, au 14e siècle (_Introd._, p. 210. V. aussi la note 4 de la p. 95, plus loin). --- J'ai interprété le texte d'Hermès en disant : « Hermès associe l'idée de la terre à celle de la vierge non fécondée. »
+
+25\. Anaximène professe que le principe de toutes choses, un, mobile, infini, est l'air. Il parle ainsi : L'air est voisin de l'incorporel, et comme nous existons grâce à son écoulement, il faut qu'il soit infini et opulent, puisqu'il ne fait jamais défaut.
+
+Anaximandre dit que le principe est l'intermédiaire : ce qui désigne la vapeur humide, ou la vapeur sèche (fumée). Car la vapeur humide est intermédiaire entre le feu et la terre. En général, tout ce qui est intermédiaire entre le chaud et l'humide est vapeur ; tandis que l'intermédiaire entre le chaud et le sec c'est le fumée.
+
+26\. Venons à l'opinion propre de chacun des anciens, et voyons comment chacun veut établir la sienne et se poser en chef d'école, par son point de vue personnel. En effet, çà et là quelque omission a eu lieu, par suite de la complication de notre marche.
+
+Récapitulons donc par parties, et montrons comment nos philosophes (chimiques), empruntant à ceux-là le point de départ, ont construit leur système. Zosime, la couronne des philosophes, dont le langage a l'abondance de l'Océan, le nouveau devin, suit en général Mélissus en ce qui concerne l'art et dit que l'art est un comme Dieu. C'est ce qu'il expose en mille endroits à Théosébie ; et son langage est véridique. Voulant nous affranchir de la confusion des raisonnements et de celle de toute la matière, il nous exhorte à chercher notre refuge dans le Dieu un et il dit* : « Reste assis à ton foyer, ne reconnaissant qu'un seul Dieu et qu'un seul art, et ne va pas t'égarer en cherchant un autre Dieu ; car Dieu viendra à toi, lui qui est partout ; il n'est pas confiné dans le lieu le plus bas, comme le Démon. Repose ton corps, et calme tes passions ; te dirigeant ainsi toi-même, tu appelleras à toi l'être divin, et l'être divin viendra à toi, lui qui est partout.* Quand tu te connaîtras toi-même, alors tu connaîtras aussi le seul Dieu existant en soi ; agissant ainsi tu atteindras la vérité et la nature, rejetant avec mépris la matière. »
+
+*) Réd. de L : « C'est pourquoi il parle en ces termes à cette femme philosophe. »
+
+*) Il y a là quelque réminiscence de l'extase des philosophes alexandrins.
+
+27\. De même, Chymès suit Parménide et dit : « Un est le Tout, par lequel le Tout est ; car s'il ne contenait pas le Tout, le Tout ne serait rien. »
+
+Les Théologiens parlent sur les choses divines, comme les naturalistes sur la matière.
+
+Agathodémon, tourné vers Anaximène, parle de l'air.*
+
+*) D'après L : « Regarde l'air comme l'essentiel. Anaximandre dit que l'essentiel est l'intermédiaire, etc. »
+
+Anaximandre parle de l'intermédiaire, c'est-à-dire de la vapeur humide et de la fumée sèche.
+
+Pour Agathodémon, c'est tout à fait la vapeur sublimée. Zosime le dit aussi ; et il a été suivi de préférence par la plupart de ceux qui ont fait la philosophie de notre art.
+
+Hermès parle de la fumée, à propos de la magnésie : « Laisse-la, dit-il, brûler en face du fourneau,* en la soumettant à l'action des écailles de _cobathia_ rouges.* » Car la fumée des cobathia, étant blanche, blanchit les corps. La fumée* est intermédiaire entre le chaud et le sec ; et, dans le cas présent, cette fumée est la vapeur sublimée* et tout ce qui en résulte. Mais la vapeur humide* est intermédiaire entre le chaud et l'humide ; elle désigne les vapeurs sublimées humides, celles par exemple que distillent les alambics et les appareils analogues.
+
+*) A ajoute : « sur un feu blanc. »
+
+*) D'après le _Lexique_ (p. 10) : La fumé des cobathia, ce sont les vapeurs de l'arsenic. Le mot _cobathia_ semble donc signifier le sulfure rouge d'arsenic ou un arseniosulfure (v. _Introd._, p. 245), qui en produirait par sa sublimation en vase clos. Le grillage de ces composés développe de l'acide arsénieux, qui se volatilise, et il joue un rôle dans le blanchiment du cuivre.
+
+*) Καπνός.
+
+*) Αἰθἀλη s'applique spécialement au mercure et à l'arsenic métallique sublimé, blanchissant le cuivre comme le mercure et assimilable par là à un second mercure (_Introd._, p. 99 et 239).
+
+*) Ἀτμός.
+
+28\. Pour éviter une vaine phraséologie, je te ferai une transmission brève ; je t'expliquerai clairement ce qu'ont dit les anciens, ô rejeton des nobles Piérides, (je veux dire) des neuf Muses, ô chef des orateurs ; car Dieu t'a envoyé pour cela. Apprends, au moyen d'un écrit de peu de prix, à faire les plus grandes choses.* Car Dieu veut t'éprouver de deux côtés, par ta piété notoire aux êtres supérieurs, et par ton habileté bienfaisante à l'égard des êtres terrestres. Sache donc, sache, pour abréger les choses que tu devras prescrire, comment j'ajusterai mon discours aux écrits primitifs.
+
+*) Voir la note 6 de la page 37.
+
+Or il vous a été dit, ô vous les hommes les plus considérables, que les anciens ont parlé des quatre éléments. Sachez en effet, que c'est au moyen des quatre éléments que sont constitués les choses sèches et les choses humides ; les choses chaudes et les choses froides,* le mâle et la femelle. Deux (éléments) se portent en haut, et deux en bas. Les deux éléments ascendants sont le feu et l'air ; les deux éléments descendants sont la terre et l'eau. Ainsi donc, c'est au moyen de ces quatre (éléments) qu'ils ont constitué toute la description de l'art ; ils l'y ont renfermé,* en en garantissant les lois par des serments. Connaissez vous-mêmes toutes les substances du catalogue, telles qu'elles sont constituées par le feu, l'air, l'eau et la terre.
+
+*) Voir les éléments actifs d'Aristote, _Introd._, p. 247 et p. 259, 260.
+
+*) A L ajoutent : « dans le monde. »
+
+Mais pour que la composition se réalise exactement, demandez par vos prières à Dieu de vous enseigner, dit Zosime ; car les hommes ne transmettent point (la science) ; les démons sont jaloux, et l'on ne trouve pas la voie. On cherche en vain ceux qui la savent, et les écrits n'ont pas de précision. La matière est multiple ; l'embarras se produit ; et (l'œuvre) ne s'accomplit pas sans une grande fatigue ; il y a lutte, violence et guerre. Le démon Ophiuchus* introduit la négligence dans ces choses, entravant notre recherche, rampant de tous côtés, du dedans et du dehors, amenant tantôt des négligences, tantôt la crainte, tantôt l'imprévu, en d'autres occasions les afflictions et les châtiments, afin de nous faire abandonner (l'œuvre).* Mais moi, je lui dirai : Qui que tu sois, ô démon, je ne te céderai point ; mais je tiendrai bon jusqu'à ce que, ayant consommé (l'œuvre), j'aie connu le résultat. Je ne me laisserai pas abattre, étant doué de persévérance et luttant, en prenant mon appui sur une vie honnête et des purifications philosophiques. Ainsi donc, ayant recueilli les préceptes utiles des sages, je vous les présenterai (en commençant) par le commencement, d'après les anciens ; car votre sagacité en présence d'un langage étranger n'est pas déroutée par les milliers d'espèces, tant liquides que solides, dont les anciens donnent le catalogue. Parmi ces couleurs diverses, les unes sont crues, les autres cuites ; dans la cuisson, certains corps prennent les couleurs et d'autres s'y conservent sans changer de couleur ; tantôt ils doivent être traités sur un feu vif, tantôt sur un feu doux : (toutes circonstances) qui exigent une grande circonspection dans (la pratique de) l'art.*
+
+*) Constellation, envisagée ici comme un démon ennemi.
+
+*) Tout ce passage met en évidence le côté mystique de l'œuvre alchimique.
+
+*) Réd. de L : « Dans la cuisson ces choses font voir les couleurs et la qualité ; car elles changent leurs couleurs suivant le mode de fabrication sur un feu vif, ou sur un feu doux ; vu qu'il y a une grande circonspection à mettre dans la (pratique de) l'art. »
+
+29\. Ces choses ont été dites par moi, afin que vous sachiez que les mille classes (de corps) que les anciens établissent doivent passer par ces diverses opérations et par mille autres encore, tel que pulvérisations, décoctions, décompositions diverses, à chaud et à froid, expositions à la rosée, ou en plein air, et mille autres choses. C'est pourquoi, en raison de la multiplicité des explications et à cause des traitements dont on ne parle pas, l'esprit de ceux qui abordent cet art est jeté dans la confusion. Or il nous affranchit de tout cela, le Dieu dispensateur de tous les biens.
+
+30\. Entends donc, toi dont l'esprit est inspiré, ce qu'ils ont écrit en s'adressant à des Égyptiens* ; c'est pourquoi ils n'expliquent pas clairement l'objet cherché. Non seulement ils ont décrit mille procédés pour faire de l'or ; mais encore ils ont ritualisé* ces choses. Ils ont donné les mesures des excavations et des intervalles et assigné les positions* des entrées et des sorties de leurs temples, en considérant les quatre points cardinaux* ; attribuant le levant à la substance blanche, et le couchant à la substance jaune. Les mines d'or de l'Arsenoéton* (sont) à la porte orientale, c'est-à-dire que tu trouves à l'entrée du temple la substance blanche. A Térénouthi,* dans le temple d'Isis, à l'entrée occidentale du temple, tu trouveras du minerai jaune, après avoir creusé (à une profondeur) de trois coudées* et demie. A la moitié des trois coudées tu trouveras une couche noire. Après l'avoir enlevée, traite (la) [et tu en trouveras une verte ailleurs].
+
+*) Accoutumés au langage des symboles et écritures sacrées.
+
+*) Il semble que nous ayons ici affaire à une interprétation alchimique des hiéroglyphes et des procédés mis en œuvre par les Égyptiens pour ériger leurs temples et creuser leurs mines. (V. _Introd._, p. 235).
+
+*) Orientation.
+
+*) Après les mots : « en considérant les points cardinaux, » L continue : « en effet ils ont attribué à l'Ourse (nord) le noircissement, au levant le blanchiment, au midi la coloration en violet, au couchant le jaunissement. D'un autre côté, ils ont attribué au levant la substance blanche, c'est-à-dire l'argent, et au couchant le jaune, c'est-à-dire l'or. En effet Hermès, s'exprime ainsi : « Les mines d'or de l'Arsenoéton sont à la porte orientale, c'est-à-dire qu'à l'entrée du temple d'Isis tu trouveras des caractères où il est question de la substance blanche ; et à l'entrée occidentale du temple tu trouveras le minerai jaune ; en creusant (une profondeur) de trois coudées ; à une demi-coudée, tu trouveras une couche noire ou verte. Enlève-là toi-(même) et traite-(la). Ecoute aussi-Apollon disant : Que le sable soit traité, étant pris dès l'aurore. Or l'expression « dès l'aurore, etc. ... »
+
+*) Voisines d'Arsinoé (Ἀρσινόη), ville d'Égypte fondée par Ptolémée Philadelphe.
+
+*) Denderah et son temple consacré à Hathor ?
+
+*) Par suite d'une erreur de lecture, on avait traduit ailleurs, « trois sources » (πηγῶν) au lieu de « trois coudées » (πηχῶν).
+
+Ce choses relatives aux mines d'or, inscrites sur la montagne de l'Est, et sur la montagne Libyque, ont été dites dans un sens mystérieux. Ne passe pas légèrement à côté ; ce sont de grands mystères : remarque qu'ils ont été tous démontrés vrais.
+
+31\. C'est de là qu'il fait partir son opération ; c'est pour cette raison qu'il a dit : « Attribuant au levant la substance blanche, » c'est-à-dire, assignant à l'origine des opérations le commencement du jour, le lever du soleil sur la terre. Car le blanchiment, par rapport au jaunissement, est le véritable commencement de l'opération ; lors même que celle-ci ne se fait pas en débutant de suite par là, parce que l'on attend que la décomposition ait débuté sans le (secours du) feu.
+
+Est-ce sans raison qu'Hermès* a voulu faire entendre au prêtre, outre le commencement, cette circonstance qui précède le blanchiment ? Ecoute Apollon* disant : « (la terre) est traitée, étant prise dès l'aurore. » Or l'expression « dès l'aurore » fait voir que le moment qui précède le lever (du soleil), est aussi celui qui précède le blanchiment et le commencement de tout l'œuvre.
+
+*) On suit ici le texte de A : la phrase, telle que la donnent les manuscrits, est peu intelligible ; mais les mots ἀλόγως et ἱερῶν se retrouvent à la page suivante.
+
+*) Les Oracles d'Apollon, cités plusieurs fois dans les écrits alchimiques. C'était quelque recueil analogue aux livres Sibyllins et aux _Orphica_.
+
+Ensuite l'achèvement de tout l'œuvre (j'entends par là le jaunissement), il l'a attribué au couchant, qui est l'accomplissement du jour entier. La phrase : « à la moitié de la hauteur des trois coudées, tu trouveras une couche noire,* » a été dite au sujet des matières sulfureuses, c'est-à-dire au sujet de notre plomb,* celui que l'on retire des scories (espèce de peu de valeur) aussitôt après le blanchiment, au moyen de la décomposition opérée à chaud et de la fixation. (C'est ce plomb), dit-il, que les prophètes des Egyptiens, s'efforçaient d'obtenir.
+
+*) L ajoute : « ou verte. »
+
+*) Le plomb et le soufre étaient exprimés par un même signe (_Introd._, p. 114, planche 5, l. 12, et _Lexique_, p. 13, article Osiris).
+
+32\. Sache que cet énoncé des minerais est une allégorie.* Car ils n'entendent pas parler des minerais, mais des substances.
+
+*) Les anciennes descriptions positives des traitements de minerais sont devenues ainsi des récits symboliques pour les alchimistes (v. p. 75).
+
+Sur quoi nous appuyons-nous (pour dire) que le levant a été attribué au masculin, et le couchant au féminin ? Il s'agit d'Adam.* Car celui-ci, le premier de tous les hommes, est issu des quatre éléments.* On l'appelle aussi terre vierge* et terre ignée, terre charnelle et terre sanglante.* Tu trouveras ces choses dans les bibliothèques de Ptolémée. Je les ai dites pour établir relativement aux choses sacrées, qu'aucun des êtres n'a été expliqué irrationnellement par les anciens. Car le couchant est attribué à l'élément féminin. Zosime dans son livre sur l'Action* (dit ceci) : « Je proclame et j'appelle Hermès comme témoin véridique, lorsqu'il dit : Va-t-en auprès d'Achaab le laboureur* et tu apprendras que celui qui sème le blé produit le blé. » Moi aussi je dis de même que les substances sont teintes par les substances, d'après ce qui est écrit. Or le fait d'être teint ne comporte pas d'autre distinction que celle de la substance corporelle* et de la substance incorporelle* : cet art admet l'une et l'autre. Il dit que les substances corporelles sont les substances (métalliques) fusibles ; tandis que les substances incorporelles (sont) les pierres. Il désigne comme n'ayant pas le caractère de substances* les minerais et les matières qui n'ont pas été traitées par le feu, à cause de la nécessité de ce premier traitement.*
+
+*) Les quatre lettres du nom d'Adam étaient prises comme exprimant les quatre points cardinaux : Ἀνατολὴ, Δύσις, Ἄρκτος, Μεσημβρία (voir aussi _Origines de l'Alchimie_, p. 64). Les noms d'Adam et Eve ont conservé un sens mystique chez les alchimistes latins. On lit en effet dans la _Biblioth. des Philosophes chimistes_, t. 4, p. 570 et 578 (1754) : « Adam : terre rouge, mercure des sages, soufre, âme, feu de nature --- Ève, terre blanche, terre de vie, mercure philosophique, humide radical, esprit. » De même dans le _Lexicon Alchemiæ Rulandi_ (1612), p. 324 : « Matière première (18e sens), c'est l'épouse, Ève. » On voit par là que les expressions du texte : terre vierge et terre ignée, etc. devraient être attribuées à Ève. Il y a eu quelque erreur de copiste sur ce point.
+
+*) L ajoute : « et Dieu lui attribue le levant. »
+
+*) _Orig. de l'Alch._, p. 64 et 333.
+
+*) L ajoute : « A Ève, le couchant a été attribué. »
+
+*) L ajoute : « à propos du catalogue. »
+
+*) Voir plus haut (1, 13) cet axiome, cité dans la lettre d'Isis à Horus, p. 33 : Le laboureur y est nommé Acharantus.
+
+*) Par exemple les métaux.
+
+*) Métal oxydé ou transformé.
+
+*) C'est-à-dire ne possédant pas le caractère d'un être défini, homogène. L, après les minerais, continue : « Nous appelons les minerais des corps sans substance. »
+
+*) Traitement nécessaire pour obtenir des produits définis proprement dits, existant par eux-mêmes et séparés du mélange confus primitif, qui constituait les minerais.
+
+Pélage dit à Pausiris : « Veux-tu que nous le jettions dans la mer, avant que les mélanges soient effectués* ? » Et Hermès dit : « Tu parles très bien et avec une grande exactitude. » La mer, comme le dit Zosime, c'est l'élément hermaphrodite.*
+
+*) L ajoute : « Et celui-ci répondit » au lieu d'Hermès.
+
+*) Pour l'élément hermaphrodite, Cp. _Origines de l'Alchimie_, p. 64. --- Tout ce langage symbolique est difficile à interpréter. Peut-être s'applique-t-il à l'action de l'eau salée sur les minerais, qu'elle transforme, en en isolant certains composés, opération comparable à une fécondation. En chimie, même aujourd'hui, on dit : la génération des composés.
+
+33\. (La terre) est traitée, étant prise dès l'aurore, cela veut dire étant encore imprégnée de la rosée.* En effet le soleil levant enlève par ses rayons la rosée répandue sur la terre, pour s'en nourrir. La terre (ainsi) se trouve comme veuve et privée de son époux, ce que dit aussi Apollon. Par l'eau divine, j'entends ma rosée, l'eau aérienne.*
+
+*) Réd. de L : « Les mots qu'elle soit traitée, signifient qu'elle soit prise dès l'aurore et qu'elle soit imprégnée de rosée. »
+
+*) C'est-à-dire produite par la condensation dans l'alambic, après réduction sous forme aérienne par la distillation.
+
+Vois combien il y a de témoignages pour établir que cette composition a besoin d'abord de quelque liquide ; afin, dit-il, que la matière ayant été corrompue garde son caractère spécifique invariable. Par les mots « ayant été corrompue, » il a fait entendre qu'il faut un certain temps pour que la décomposition ait lieu. Or la décomposition ne se produit jamais sans le concours de quelque liquide.* En effet, c'est au catalogue des liquides, dit-il, que le mystère a été confié.
+
+*) C'est l'axiome : _Corpora non agunt nisi soluta._
+
+34\. Au sujet des minerais : « Tous les anciens s'en sont préoccupés. » Comme ils adressent leurs discours aux Egyptiens, je t'alléguerai encore leur témoignage, à cause de ton incrédulité.
+
+35\. Zosime donc, dans son livre de l'Accomplissement,* s'adressant à Théosébie, s'exprime ainsi : « Tout le royaume d'Egypte, ô femme, est soutenu par ces trois arts,* l'art des choses opportunes,* l'art de la nature et l'art de traiter les minerais. C'est l'art appelé divin, c'est-à-dire l'art dogmatique pour tous ceux qui s'occupent de manipulations et de ces arts* honorables, que l'on appelle les quatre (arts) chimiques.* (Cet art divin), enseignant ce qu'il faut faire, a été révélé aux prêtres seuls. En effet la manipulation naturelle du minerai appartenait aux rois ; aussi lorsqu'un prêtre, ou ce qu'on appelait un sage, expliquait les choses qu'il avait reçues en héritage des anciens, ou de ses ancêtres, lors même qu'il en possédait (complètement) la connaissance, il ne la communiquait pas sans réserve : car (autrement) il était puni. De même que les artisans chargés de frapper la monnaie royale ne la frappent pas pour eux-mêmes,* attendu qu'ils seraient châtiés.* De même aussi, sous les rois d'Egypte, les artisans préposés aux opérations faites par la voie du feu, ainsi que ceux qui avaient la connaissance du lavage du minerai et de la suite des opérations, ne travaillaient pas pour eux-mêmes ; mais ils étaient chargés d'accroître les trésors royaux. Ils avaient des chefs particuliers, préposés aux richesses du roi,* et des directeurs généraux, qui exerçaient une autorité tyrannique sur le travail du minerai par le feu. C'était une loi chez les Egyptiens que personne ne divulguât ces choses par écrit.
+
+*) _Origines de l'Alchimie_, p. 183.
+
+*) Var. : Deux. --- Le texte grec sera publié seulement dans la 3e partie, parmi les œuvres de Zosime. Mais on a cru utile d'en reproduire ici la traduction, afin de donner un caractère plus complet à l'ouvrage d'Olympiodore.
+
+*) καιρικῶν. --- Peut-être l'astrologie.
+
+*) Le mot art divin comprend les quatre arts chimiques. On a préféré répéter le mot art, au lieu d'adopter dans le second cas une synonymie qui altérerait le sens.
+
+*) C'est-à-dire des quatre livres de Démocrite : relatifs à la Chrysopée, à l'Argyropée, et peut-être à l'art des vitrifications, et à l'art de la teinture des étoffes, conformément au titre de vieux traités conservés dans les manuscrits (_Origines de l'Alchimie_, p. 123 ;--- le présent volume, p. 61, note 1).
+
+*) Réd. de L : « des artisans chargés de frapper les monnaies royales et qui les altèrent secrètement pour eux-mêmes. »
+
+*) « Car ils étaient châtiés s'ils le faisaient. » L. (Cp. _Origines de l'Alchimie_, p. 23, et _Diodore de Sicile_, l. 4, v. la note de la p. 76).
+
+*) _Origines de l'Alchimie_, p. 23.
+
+« Quelques-uns reprochent à Démocrite et aux anciens de n'avoir pas fait mention de ces arts dans des termes appropriés, mais d'avoir exposé seulement ceux dont on parle publiquement.* Il est injuste de le leur reprocher ; car ils ne pouvaient faire autrement. Etant amis des rois d'Égypte, et s'honorant d'occuper les premiers rangs en dignité parmi les prophètes, comment auraient-ils pu révéler au public des connaissances contraires aux (intérêts des) rois et donner à d'autres le pouvoir dominateur de la richesse ? Quand même ils l'auraient pu, ils ne l'auraient pas fait ; car ils étaient jaloux (de leur science). Les Juifs seuls parvinrent à en connaître la pratique, ainsi qu'à décrire et à exposer ces choses clandestinement. Voilà comment nous trouvons que Théophile, fils de Théogène, a parlé de toute la description topographique des mines d'or ; il en est de même de la description des fourneaux par Marie et des écrits des autres Juifs. »
+
+*) « Les arts principaux et honorables. » L. --- Dans les livres hermétiques, promenés en procession, suivant la description de Clément d'Alexandrie, les traités relatifs aux métaux et aux industries chimiques ne sont pas mentionnés (_Origines de l'Alchimie_, p. 40 et 44). Même de nos jours, les industriels cherchent toujours à tenir leurs procédés secrets.
+
+36\. Synésius s'adressant à Dioscorus parle du mercure (et) de la vapeur sublimée étésienne* et dit que tous les anciens savent que ce sublimé est blanc et volatil, et sans substance propre. Il s'unit à tous les corps fusibles ; il les attire en lui-même, comme l'expérience l'a enseigné ; l'auteur s'exprime ainsi : « Si tu veux savoir exactement les choses, etc. » --- (Olympiodore reproduit ici le passage de Synésius, donné de la p. 66 jusqu'à la p. 68). --- Voilà pourquoi Pébéchius disait qu'il possède une puissante affinité. »
+
+*) Pierre étésienne ou chrysolithe (pierre d'or) : d'après le _Lexique_, p. 7. C'est la cadmie, qui sert à faire le laiton.
+
+37\. Que pouvons-nous entendre de plus ? C'est que le mercure travaillé devient matière réceptive, échangeant sa substance contre celle de tout corps (métallique) fusible. Privé de nature propre, il devient volatil.*
+
+*) L'auteur parle ici du mercure des philosophes, qui constitue la matière première de toute fluidité métallique, privée de substance propre, mais susceptible d'être associée aux diverses substances métalliques.
+
+De même aussi notre magnésie, ou l'antimoine (sulfuré), ou les pyrites, ou les minerais, ou (enfin) tous les corps métalliques que l'on peut nommer, transformés au moyen de l'huile de natron,* soit dans le récipient à digestion spontanée,* soit par l'action du soufflet,* soit par un autre appareil, de quelque nom que tu veuilles l'appeler ;--- je dis transformés conformément à leur aptitude naturelle, --- sont réduits à l'état de cendres.* En effet, le corps réceptif par excellence, celui qui est appelé parmi eux le plomb noir, celui qu'ont désiré connaître les prophètes des Egyptiens, celui que les oracles des Démons ont révélé, ce sont les scories et les cendres de Marie.* Car ils savent que ces choses existent dès le principe. C'est pour cela qu'il y a coloration en noir et dans (le cours de) l'opération, décoloration, c'est-à-dire blanchiment ; car le mot blanchiment ne signifie pas autre chose que le fait de décolorer, par privation du noir. Vois l'exactitude de tout ceci, ô sage. Car tu possèdes ici le fruit de tout le labeur du captif ; tu possèdes ici ce que l'on cherche depuis des siècles : je sais la persévérance de ta sagesse.
+
+*) Substance mal connue.
+
+*) M : αὐτοματαρείῳ --- Dans A il s'agit du _botarion_ (v. p. 65 ; v. surtout le _motarion_, p. 112).
+
+*) C'est-à-dire en chauffant dans un fourneau, avec le concours du soufflet.
+
+*) C'est la transformation des minerais métalliques en oxydes ou corps analogues, par grillage, ou après dissolution.
+
+*) Réd. de L : « les scories et les cendres. Et Marie a su que c'est le plomb lui-même, dès le principe. » (v. p. 101).
+
+38\. Telle est la clef du discours, et le résumé de l'art dans son ensemble. Ne passe légèrement à côté d'aucune de ces choses ; car cette clef t'ouvrira les portes de la théorie et de la pratique ; tu as appris que les scories sont le mystère tout entier. Tous (les philosophes) sont suspendus et attentifs à ces (scories) ; des milliers d'énigmes s'y rapportent ; des livres en aussi grand nombre y font allusion ; c'est le fondement du blanchiment et du jaunissement. En effet, il y a deux couleurs extrêmes : le blanc et le noir ; le blanc est séparatif, et le noir compréhensif. Zosime faisant allusion à cette couleur, dit : « Elle entoure la pupille de l'œil,* ainsi que l'arc en ciel. » Les gens sans intelligence ne saisissent pas ce que c'est que le séparatif et le compréhensif. Or le compréhensif, ainsi que ce qu'il comprend, est tiré des corps (métalliques) eux-mêmes. C'est ainsi que de l'essence liquide,* on extrait la nature intime du plomb, comme le dit aussi le divin Zosime ; et il s'appuie sur toute vérité et connaissance venant de Dieu. Cette nature intime, dis-je, c'est-à-dire cette âme (du plomb), cessant de manifester en elle-même le monde invisible, se manifeste dans un autre corps (métallique), celui de l'argent ; et dans l'argent elle manifeste le sang rouge, c'est-à-dire l'or.
+
+*) L : « Ou pour mieux dire les trois couleurs de l'œil. »
+
+*) C'est-à-dire de la liquidité, envisagée comme substance ou élément ; ou plutôt comme matière première des métaux (note 4 de la p. 103). --- Ce paragraphe est un mélange de subtilités et d'allégories dont le sens est parfois difficile à pénétrer.
+
+39\. O mon ami, toi qui es généreux, institue ton discours pour ma justification, employant les moyens de défense que te suggère ton honnêteté ; que ta douceur et ta patience, en présence de la négligence et du désordre de cette étude, ne s'en prenne pas au sujet de l'étude elle-même, mais à la négligence de la forme.
+
+Ainsi le blanc est séparatif ; car le blanc ne s'appelle pas à proprement parler une couleur. En effet toute couleur comprend et distingue (certaines variétés) : ainsi le noir est une couleur véritable, puisqu'il y a plusieurs variétés de noir.* Lorsqu'ils discourent sur les couleurs, l'esprit des non initiés tombe dans la confusion ; mais nous, ne nous écartons pas du bon sens. Les anciens savent que le plomb est noir. Or le plomb possède l'essence liquide ; remarque l'exactitude de ce que nous disions plus haut de l'âme attirée par l'essence liquide. Car par sa pesanteur celle-ci tend à descendre et attire tout à soi. Voici que tous les mystères t'ont été divulgués.
+
+*) Réd. de L : « mais la couleur noire est seule une couleur à proprement parler et il y a plusieurs variétés de noir ; car la couleur noire est la source de toutes les autres couleurs. C'est pourquoi discourant, » etc.
+
+40\. Il faut d'abord apporter quelques témoignages, puis revenir à notre opinion. Marie suppose que le plomb est noir dès le principe, et elle dit : « Si notre plomb noir est fabriqué, voici dans quel sens ; car le plomb commun est noir dès le principe.* » Ainsi elle ne parle pas du plomb commun, mais du (plomb) produit par l'art.
+
+*) Ceci semble indiquer une distinction entre le métal factice et le métal naturel ; distinction que l'on retrouve souvent chez les anciens ; par exemple pour le mercure (Pline, _H. N._, l. 33, 32-42. --- _Introd._, p. 257).
+
 ...
