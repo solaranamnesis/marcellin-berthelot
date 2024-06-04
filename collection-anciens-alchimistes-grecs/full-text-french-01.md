@@ -11550,4 +11550,316 @@ Ainsi le blanc est séparatif ; car le blanc ne s'appelle pas à proprement parl
 
 *) Ceci semble indiquer une distinction entre le métal factice et le métal naturel ; distinction que l'on retrouve souvent chez les anciens ; par exemple pour le mercure (Pline, _H. N._, l. 33, 32-42. --- _Introd._, p. 257).
 
-...
+Or « comment est-il produit ? » dit Marie. « Si tu ne rends pas les substances corporelles incorporelles et si tu ne rends pas incorporelles les substances corporelles,* et si des deux (corps) tu n'en fais pas un seul, aucun des (résultats) attendus ne se produira.* »
+
+*) C'est-à-dire : si tu ne transformes pas les métaux, en leur ôtant leur état métallique, et si tu ne les régénères pas dans cet état, avec des propriétés nouvelles, en réunissant plusieurs métaux en un seul. C'est ce que nous appelons un alliage ; mais il était assimilé aux métaux véritables.
+
+*) Au-dessus du premier mot « corporelles » dans M, une main du 15e siècle a écrit « comment ? » ce qui a passé dans le texte de L sous la forme suivante : « comment cela peut-il arriver ? » Au-dessus du mot « deux » la même main a écrit dans M : « comment ? »
+
+Et ailleurs : « Si tous les corps métalliques ne sont pas divisés par l'action du feu, et si la vapeur sublimée, réduite en esprit, ne s'élève pas, rien ne sera mené à terme. »
+
+Et ailleurs encore : « Le molybdochalque est la pierre étésienne.* Toutes les (substances) fondues et coulées ensemble, (il) les change en or par l'action ignée. En puissance, il a la vertu de cuire les choses crues et de doubler les choses cuites.* Mais si tu réussis à blanchir ou à jaunir, ce ne sera plus seulement en puissance, mais en acte. Voici ce que j'affirme, dit Marie : le molybdochalque existe par l'effet du traitement. »
+
+*) Appelée aussi pierre d'or, dans le Lexique, p. 7 (v. la note 1 de la page 98).
+
+*) C'est la _diplosis_, ou art de doubler le poids de l'or et de l'argent, par l'addition de la cadmie.
+
+Il s'agit du traitement des deux scories* et la doctrine est la suivante. Traite par le vinaigre la pierre étésienne, ou la pierre phrygienne ; trempe (la) d'abord dans la liqueur, puis après l'avoir ramollie, broie-la et conserve.
+
+*) Ceci paraît vouloir dire que l'on réduit ensemble la pyrite de cuivre et le sulfure de plomb (ou d'antimoine), préalablement scorifiés, c'est-à-dire grillés par voie sèche, ou désagrégés par voie humide, ou sublimés sous forme de cadmies. Leur réduction simultanée fournit le molybdochalque, alliage des deux métaux, que l'on peut ensuite associer par fusion à l'or ou à l'argent pour en opérer la diplosis. Tout ce passage éclaircit ce qui précède, relativement au mystère des scories (p. 99).
+
+Démocrite disait : « de l'antimoine (sulfuré) et de la litharge,* retire le plomb, » et il observe : « Je ne parle pas dans le sens propre, de peur que tu ne t'égares ; mais il s'agit de notre (plomb) noir.* » Agathodémon, au moyen de notre plomb, fait les affinages ; il prépare une liqueur noire avec le plomb et les eaux (chimiques), liqueur destinée à désagréger l'or.
+
+*) Ceci montre que l'antimoine était assimilé au plomb (_Introd._, p. 224, 238 et _Lexique_, p. 11).
+
+*) La tradition d'après laquelle le plomb jouait un rôle fondamental dans la transmutation, se retrouve chez les alchimistes du moyen âge, comme un souvenir des alchimistes grecs, qu'ils ne connaissaient pas directement. Ainsi on lit dans la _Bibl. Chem._ de Manget, t. 1, p. 917. « Pythagore dit que tout le secret est dans le plomb. Hermès dit aussi qu'il existe dans Saturne (c'est à-dire dans le plomb), joint aux natures complémentaires, la terre, l'eau, l'air et le feu. » Au lieu de la tétrasomie métallique, il parle ici des quatre éléments antiques.
+
+En général, ils préparent du plomb noir ; car, ainsi que je l'ai dit, si le plomb commun est noir dès le principe, le nôtre est noir par fabrication, ne l'étant pas d'abord.
+
+41\. L'expérience nous servira de maître et je m'efforcerai de nouveau d'expliquer la question par des démonstrations véridiques, en revenant à notre premier sujet. L'asèm ne devient pas or de lui-même, comme on le dit ; et il ne le deviendrait pas, sans le secours de notre œuvre.
+
+Il n'est pas juste de déprécier les anciens ; car « la lettre tue, mais l'esprit vivifie. » Ce mot adressé par le Seigneur à ceux qui l'interrogeaient sans réflexion, s'applique à tout ce qu'ont dit les anciens qui se sont occupés de ces matières. Celui qui connaît l'art caché de la chimie, leur dit* : « Comment dois-je entendre maintenant la transmutation ? Comment l'eau et le feu, ennemis et contraires l'un à l'autre, opposés par nature, se sont-ils réunis dans le même (corps), par concorde et amitié ? etc. O l'incroyable mélange ! D'où vient cette amitié inattendue entre des ennemis* ? »
+
+*) A ceux qui l'interrogent.
+
+*) Tout ce passage montre combien les phénomènes chimiques avaient excité l'admiration des premiers observateurs et revêtu dans leur esprit et dans leurs écrits une forme poétique. C'est le premier germe des poèmes alchimiques.
+
+42\. Ici encore les oracles d'Apollon déclarent la vérité, car ils parlent du tombeau d'Osiris.* Or qu'est-ce que le tombeau d'Osiris ? C'est un mort lié et entouré de bandelettes, n'ayant que le visage découvert.* L'oracle dit, en désignant Osiris : « Osiris, c'est le tombeau étroitement resserré, cachant tous les membres d'Osiris et ne laissant voir aux mortels que son seul visage. Mais en cachant les corps, la nature a voulu exciter notre étonnement. Car Osiris* est le principe de toute liquidité* ; c'est lui qui opère la fixation dans les sphères du feu. C'est ainsi qu'il lie et resserre le Tout* du plomb, etc. »
+
+*) _Origines de l'Alchimie_, p. 32.
+
+*) Momie dans sa gaine.
+
+*) Ce mot était traduit par soufre et plomb, dans le langage chimique. _Lexique_, p. 13.
+
+*) D'après les idées mystiques exposées ici, il semble que le plomb, métal fusible, ait été regarde à l'origine comme le support de la liquidité métallique et la matière première des métaux (v. p. 102, note 2) ; attributions qui ont passé depuis au mercure, dont la découverte est plus récente. C'est ainsi que le plomb paraît à l'origine avoir joué dans la dorure le rôle attribué plus tard au mercure (_Introd._, p. 58).
+
+*) C'est-à-dire le molybdochalque.
+
+43\. Un autre oracle du même Dieu s'exprime ainsi : « Prends le chrysolithe, celui que l'on nomme le mâle de la chrysocolle,* c'est-à-dire l'homme destiné à la combinaison. Ce sont ses gouttes* qui enfantent l'or de la terre Ethiopienne. Là une espèce de fourmi extrait l'or, le porte au jour et en jouit.* Mets avec lui la femme de vapeur, jusqu'à ce qu'il soit transformé* : c'est l'eau divine, amère* et styptique,* celle que l'on appelle la liqueur de Chypre et la liqueur de l'Egyptienne aux tresses d'or.* Avec ce (produit), enduis les feuilles de la déesse lumineuse,* celles de Cypris la blonde, et fais fondre, en comprenant l'or dans ton invocation. »
+
+*) Chrysolithe est masculin, chrysocolle féminin.
+
+*) Le liquide résultant des traitements ignés (v. p. 101).
+
+*) _Origines de l'Alchimie_, p. 193.
+
+*) L'homme exprime ici le minerai primitif ; la femme de vapeur signifie l'eau divine, distillée.
+
+*) Réd. de L. Après l'eau divine : « elle est amère ; on l'appelle aussi l'espèce styptique, l'_ios_ de Chypre, l'Egyptien aux tresses d'or, et le suc. »
+
+*) Dans le Papyrus de Leide, cette eau divine est un polysulfure, capable de colorer les métaux par voie humide et de dissoudre l'or par voie sèche (_Introd._, p. 68).
+
+*) Hathor ou Cypris, c'est-à-dire le cuivre. Tout ce langage offre l'obscurité des oracles ; mais on entrevoit le sens des allusions. Il existait un livre alchimique désigné sous le nom « d'Oracles d'Apollon » (p. 94, note 5).
+
+*) C'est le synonyme d'Aphrodite, c'est-à-dire du cuivre (_Introd._, p. 104, planche 1, l. 6).
+
+A son tour, Petasius le philosophe, parlant du principe de l'œuvre, s'accorde avec ce qui a été déjà exposé au sujet de notre plomb et dit : « La sphère de feu est retenue et enserrée par celle du plomb.* » Et le même, se faisant son propre commentateur, ajoute : « Cela veut dire à partir du produit qui vient de l'eau mâle.* » Or c'est l'eau mâle qu'il a appelée la sphère de feu.* Il a dit (aussi) que le plomb est tellement possédé du démon* et livré à l'impudence, que ceux qui veulent apprendre (la science) tombent dans la folie, à cause de (leur) ignorance (de ses propriétés).
+
+*) L : « par le travail du plomb. »
+
+*) Il y a ici un jeu de mots, le même terme signifiant mâle et arsenic.
+
+*) S'agit-il ici de la teinture en jaune du plomb (ou des alliages fusibles confondus sous ce nom) par la vapeur des sulfures d'arsenic, dans les instruments à kérotakis des fig. 20, 21, 22, etc. ; ou peut-être même par ces sulfures fondus dans une certaine région des appareils ? (v. _Introd._, p. 144 et suiv.)
+
+*) Allusion allégorique à la difficulté d'opérer les colorations et transmutations prétendues du plomb.
+
+44\. Voici ce qui a été dit dès le début au sujet des éléments, ce qui est proclamé ici. J'ai dit que le plomb est l'œuf (philosophique), composé des quatre éléments ; Zosime l'expose aussi quelque part. Or le Tout* aboutit au plomb. En effet, quelle que soit l'espèce qu'ils comprennent dans le catalogue, ils entendent par là l'ensemble : « les quatre sont un » dit Marie. Si tu entends parler des minerais, comprends par là les espèces métalliques) ; et si tu entends parler des espèces, comprends les minerais. En effet, les quatre corps forment la tétrasomie.
+
+*) Ce mot signifie à la fois l'ensemble des quatre éléments, la composition complète et le molybdochalque (_Introd._, p. 153).
+
+C'est au sujet de cette tétrasomie que Zosime dit : « Ensuite la malheureuse,* tombée et enchaînée dans le corps (métallique) du quadruple élément, subit aussitôt les colorations voulues par celui qui l'assujettit au moyen de l'art : telles que la coloration noire, ou la blanche, ou la jaune. Ensuite, ayant reçu les couleurs et, parvenue peu à peu à l'adolescence, elle atteint la vieillesse et finit dans le corps à quadruple élément : [ce qui signifie (l'ensemble constitué par) le cuivre, le fer, l'étain et le plomb*]. Elle finit avec eux dans l'opération de l'iosis, comme détruite par ces (métaux) et surtout ne pouvant plus s'échapper ; [c'est-à-dire entrelacée avec eux et ne pouvant s'en échapper*]. Et de nouveau elle se retourne avec eux, retenant lié avec elle celui qui la poursuit du dehors, au sein de l'appareil circulaire.* » Or qu'est-ce que l'appareil circulaire ? si ce n'est le feu et la cause de l'évaporation sans issue, opérée dans la fiole sphérique. De même que, dans la maladie le premier sang étant corrompu, il se forme un nouveau sang dans le rétablissement (de la santé) ; de même il manifeste dans l'argent le (nouveau) sang couleur fauve, c'est-à-dire l'or.
+
+*) Allégorie relative à la matière métallique, envisagée en général, et aux transformations et colorations qui l'incorporent dans les alliages métalliques, jusqu'à transmutation totale.
+
+*) Glose.
+
+*) Glose.
+
+*) Ce langage allégorique répond à la circulation des vapeurs opérées dans le καρκίνος (_Introd._, p. 145). C'est ce qu'explique d'ailleurs la phrase suivante.
+
+45\. Tels sont tous les témoignages. Autant que possible, je les ai résumés, les tirant de beaucoup de discours ; non que nous manquions de papier* ; en effet quelle quantité de papier suffirait pour exposer les puissances si vastes de l'art ? Lors même que je préparerais un papier aussi étendu que le ciel, je ne pourrais développer ici qu'une petite partie de ce qui concerne la matière rendue corporelle. En cela, notre art ressemble à l'intelligence parfaite et ineffable. C'est pourquoi nous devons nous exercer, selon le divin Démocrite [c'est là une comparaison*], disant : « C'est pourquoi nous devons nous exercer et avoir une intelligence ouverte et perçante. » Zosime dit aussi : « Si tu es exercé, tu possèdes le fruit de tes exercices ; en effet l'art demande de l'intelligence, et se développe par elle. »
+
+*) L ajoute : « afin de ne pas te paraître fatigant. »
+
+*) Glose omise dans L.
+
+46\. Vois comment toutes choses te sont devenues faciles à comprendre. Après avoir recueilli ce qui a été dit dès le principe, j'ai fait un choix de tout ce qui t'a été présenté.*
+
+*) L ajoute : « je te l'ai exposé, suivant mon pouvoir et mon goût. »
+
+Ce fait qu'ils ont parlé des substances liquides et sèches, induit les lecteurs en erreur. En effet le mot liquidité a un double sens. Tantôt il s'agit d'un liquide proprement dit, tel que l'eau ; tantôt on nomme liquidité, comme parmi les artisans, la qualité onctueuse des pierres.* Or, il est impossible d'exprimer deux choses contraires par un seul (mot).
+
+*) La notion de l'eau répond en effet à des sens multiples, chez les alchimistes et chez les philosophes anciens (Cp. _Orig. de l'Alch._, p. 268). Citons encore, pour jeter quelque lumière sur ces opinions subtiles, celle d'Albert le Grand, _de Mineralibus_, liv. 3, ch. 2 ; ch. 5, tr. 2 : « Dans les métaux, il y a deux humidités onctueuses, l'une extérieure, subtile et inflammable ; l'autre interne, retenue au fond du métal, et qui ne peut être ni brûlée, ni rendue combustible ; telle est celle des matières vitrifiables. » _Bibl. Chem._ de Manget, t. 1, p. 936. Cette théorie semble voisine de celle d'Olympiodore.
+
+Ici s'applique vraiment la parole de Petasius le philosophe, disant que « le plomb est tellement possédé du démon* et présompteux, que ceux qui veulent apprendre tombent dans la folie et perdent l'esprit. » Mon cher ami, éclaire-moi sur les choses obscures. Il faut que tout mensonge disparaisse. Car les philosophes, ces modèles de générosité,* connaissent toute vérité. J'ai besoin de pardon, car il est possible que vous ayez à corriger mes erreurs ; tandis qu'elles deviendront un voile pour ceux à qui il ne nous est pas permis de faire la révélation.*
+
+*) L ajoute : « et impur. »
+
+*) D'après L : « car les philosophes savent être des modèles de générosité dans le domaine des choses vraies. »
+
+*) Voir la note 1 de la p. 76.
+
+47\. On* attribue au plomb les deux qualités contraires, attendu qu'il donne à la fois la sensation d'un corps liquide et celle d'un corps sec. Il possède trois propriétés en lui-même, il est blanc, jaune et noir* ; et il est aussi liquide.* Voici qu'il se produit aussi (avec le plomb) quatre couleurs différentes du jaune.* Le plomb comporte encore deux traitements. C'est à bon droit que (Petasius) fait reposer l'art sur lui ; mais c'est à tort qu'on lui adjuge le caractère théâtral et éclatant,* le même en vérité qu'à la (pierre) astérie.* C'est à cause d'une semblable nature, que la plupart des anciens placent l'art dans le plomb. Zosime le dit ainsi : « Le Tout aboutit au plomb. » Et ailleurs : « Le plomb, c'est notre magnésie ; il est liquide par nature. » En outre la scorie du plomb ressemble à la scorie produite par la fonte du minerai aurifère.* C'est surtout pour cette raison, qu'on fait résider l'art dans le plomb.
+
+*) L : « Petasius attribue ... »
+
+*) C'est-à-dire qu'il possède de lui-même chacune de ces trois couleurs, ou produit des composés qui les possèdent : Par exemple la céruse, blanche ; la litharge, jaune ; le sulfure de plomb, noir.
+
+*) Voir la note 4 de la page 103.
+
+*) Tels sont les oxydes et autres composés blancs (céruse), noirs (sulfure), rouge (minium), puce (bioxyde), et d'autres teintes encore, qui dérivent du plomb.
+
+*) Ce verbiage signifie peut-être que le plomb ne produit pas de composés doués de couleur éclatante.
+
+*) Pierre précieuse blanche, brillante et à reflet intérieur. Pline, _H. N._, l. 37, 47, distingue l'_asteria_, l'_astrion_, l'_astroïtes_ et l'_astrobolon_ ; congénères de la _ceraunia_ et de l'_iris_. On attribuait à plusieurs de ces pierres à reflet des propriétés magiques.
+
+*) La coupellation, qui sert à purifier l'or, s'accomplit au moyen de la litharge.
+
+48\. Ainsi le corps (métallique) de la scorie, regardé par tous comme un produit sans application, vil et méprisé,* mérite au contraire les éloges qui viennent de lui être décernés. On doit penser (à ce sujet) comme tous les anciens, lui rendre sa gloire et le traiter par l'art. « Ne sois pas intimidé par ton inexpérience, dit Zosime, et lorsque tu verras que tout est devenu cendre, comprends alors que tout va bien.* » Pulvérise donc cette scorie et épuise-la de sa partie soluble, lave-la six ou sept fois dans des eaux édulcorées,* après chaque fonte. Ces fontes ont lieu en raison de la richesse du minerai. En suivant cette marche et ce lavage, dit Marie, la composition s'adoucit.
+
+*) Voir la note 6 de la p. 37.
+
+*) Le texte grec des dix lignes qui suivent sera donné dans les œuvres de Zosime, 3, 46, 2.
+
+*) Allusion au goût sucré des sels de plomb ?
+
+Tout l'art repose sur les éléments ; car après la fin de l'iosis, une projection ayant lieu, le jaunissement stable des liquides se produit. En faisant cela, tu fais sortir au dehors la nature cachée à l'intérieur.* En effet, transforme leur nature, et tu trouveras ce que tu cherches.
+
+*) C'est-à-dire : tu développes une matière colorante, qui ne préexistait pas sous forme sensible.
+
+C'est là, pour nous, un sujet inépuisable : tant il est difficile de louer dans une mesure suffisante la gloire de l'art ; c'est donc par respect pour notre propre sujet que nous mettons un terme à notre discours.
+
+Il fait aussi allusion à la demeure des âmes des philosophes et dit : « Il y avait une demeure sphéroïde, ou ovoïde,* regardant le couchant, côté où elle avait son entrée ; elle était en forme de spirale. » Tu en trouveras la description dans le discours rappelé plus haut.
+
+*) Œuf philosophique.
+
+49\. On rapporte encore l'art au soleil et à la lune ; or le soleil préside au levant, et la lune au couchant. On apporte comme démonstrations plausibles sur ces choses, ce qui a été dit du minerai, c'est-à-dire des substances que l'on en tire.*
+
+*) Le soleil, c'est l'or ; la lune, c'est l'argent : métaux que l'on extrait des minerais.
+
+Quelques-uns font macérer les substances sulfureuses* : quand arrive le mois de pharmouthi,* ils placent chacune des espèces dans une étoffe* de lin solide et d'un tissu serré. Ils les font bouillir dans de l'eau de mer,* rejetant le bouillon produit et laissant de nouveau baigner dans de l'eau de mer. Ils ne connaissent pas à simple vue le résultat, mais par les (signes) dont parle Hermès en plusieurs endroits (lorsqu'il dit) : « Fais bouillir dans une étoffe de lin solide. »
+
+*) Pyrites. Leur traitement jouait un grand rôle dans les pratiques des alchimistes.
+
+*) Avril, M. d'après une addition du 15e siècle.
+
+*) L. ajoute « blanche. »
+
+*) Traitement des sulfures métalliques par une solution de sel marin.
+
+Lui-même a dit de faire bouillir la plante,* et (cela) avec raison : « en effet elle prend de l'accroissement. » Cet accroissement n'est pas une chose vaine, car les plantes croissent pour la nourriture et la production des semences.
+
+*) S'agit-il ici du gonflement et de l'exfoliation de la pyrite soumise à l'action de l'air et de l'humidité, phénomènes assimilés à l'accroissement d'une plante ?
+
+Un grand nombre d'anciens ont mentionné les ébullitions. Marie et Démocrite (ont dit) : « Lave et relave, jusqu'à ce que l'antimoine ait perdu sa couleur noire.* » Par ce lavage, ils veulent faire entendre le blanchiment, ainsi qu'il a été dit plus haut.
+
+*) Le sulfure d'antimoine peut être changé par là en oxychlorure.
+
+50\. En s'occupant maintenant de la substance jaune, ils font le catalogue des espèces jaunes. C'est pourquoi l'on dit : « Il y a deux blanchiments, et deux jaunissements ; il y a deux compositions, l'une sèche, l'autre liquide* ; » c'est-à-dire que dans le catalogue du jaune, tu trouveras des plantes et des minéraux. Tu trouveras aussi deux liqueurs : l'une dans le chapitre du jaune, et l'autre dans celui du blanc.
+
+*) Rappelons ici que les recettes du Papyrus de Leide se rapportent à deux catégories, savoir : d'une part, par voie sèche, les argentures ou dorures, ainsi que les alliages couleur d'or ou d'argent ; et, d'autre part, par voie humide, les vernis jaunes ou blancs, ainsi que les couleurs d'amalgamation, appliqués à la surface des métaux (_Introd._, p. 57 et 60).
+
+Dans le chapitre des liqueurs jaunes,* figurent les produits obtenus avec les plantes jaunes, telles que le safran, la chélidoine et autres semblables.
+
+*) Il manque, pour la symétrie, les matières jaunes sèches.
+
+Dans la liste des compositions blanches, et parmi les matières sèches, sont toutes les (substances) blanches, telles que la terre de Crète (la craie),* la terre de Cimole et autres analogues.
+
+*) Toute terre ou argile blanche était appelée de ce nom.
+
+Dans le chapitre des liqueurs blanches, sont toutes les eaux blanches, telles que la bière, les sèves, les sucs propres des plantes.
+
+Rangeant toutes ces choses parmi les couleurs, ils y ont appliqué leurs soins. Jugez-en vous-mêmes, gens intelligents, après vous être préalablement exercés en ces (matières). Quant à nous autres, dédaignant toutes ces choses, suivant Démocrite, « nous connaissons les diversités de la matière et nous allons au plus utile. »
+
+Vois dans le traité de l'Action, au second livre, ce que dit Zosime au sujet du blanchiment : « Il y a deux blanchiments, comme aussi deux jaunissements, l'un par délaiement,* et l'autre par cuisson. Voici comment on opère par délaiement : l'opération n'a pas lieu simplement, mais elle s'accomplit dans une demeure consacrée. A l'extérieur de cette demeure sacrée, distribués pareillement dans tous les sens, sont disposés à l'entour des pièces d'eau et des jardins, afin que le zéphir en soufflant (ne dessèche pas) la poussière et ne l'enlève pas hors du mortier. » C'est ainsi qu'il a parlé, en termes mystiques, du lieu de la pulvérisation. « Et vous-mêmes, gens intelligents, distinguez « le centre de la demeure ; » ainsi que le sens de ces mots : « les pièces d'eau et les jardins. »
+
+*) Délaiement précédé d'une pulvérisation.
+
+51\. Hermès suppose que l'homme est un petit monde (microcosme), lorsqu'il dit : « Tout ce que possède le grand monde, l'homme aussi le possède. Le grand monde a des animaux* terrestres et aquatiques ; l'homme a aussi des puces et des poux, en fait d'animaux terrestres, et des helminthes, en fait d'animaux aquatiques. Le grand monde a des fleuves, des fontaines, des mers ; et l'homme a des intestins.* Le grand monde a les animaux aériens, et l'homme a les cousins.* Le grand monde a les souffles partout répandus, tels que les vents* ; et l'homme a les flatuosités.* Le grand monde a le soleil et la lune* ; l'homme a ses deux yeux, et l'on consacre l'œil droit au soleil, et l'œil gauche à la lune. Le grand monde a des montagnes et des collines, et l'homme a des os.* Le grand monde a le ciel* ; l'homme a la tête.* Le grand monde a les douze signes du Zodiaque,* savoir : le Bélier, le Taureau, les Gémeaux, le Cancer, le Lion, la Vierge, la Balance, le Scorpion, le Sagittaire, le Capricorne, le Verseau et les Poissons. L'homme a ces choses depuis la tête, c'est-à-dire depuis le Bélier, jusqu'aux pieds, qui répondent aux Poissons.
+
+*) AL : « petits et grands. »
+
+*) A ajoute : « des veines et des varices ( ? ). »
+
+*) AL ajoute : « les moucherons, etc. »
+
+*) AL ajoutent : « les tonnerres et les éclairs. »
+
+*) AL ajoutent : « les ventosités, les maladies, les accidents, etc. »
+
+*) AL, après le mot monde, ajoute : « a deux flambeaux. »
+
+*) AL : « et de la chair. »
+
+*) AL ajoutent : « et les astres. »
+
+*) A : « et les oreilles. »
+
+*) L'énumération de ces douze signes n'existe pas dans M. --- Elle est tirée de AL. --- Cette description répond exactement à la figure astrologique du folio 1 du ms. 2419 et aux développements traduits dans l'_Introd._, p. 205.
+
+C'est là ce que les anciens expriment, en disant que l'homme est l'image du monde ; ce que rapporte Zosime dans son livre de la Vertu. De même la terre est l'image du monde.
+
+52\. Ne pouvons-nous pas aussi délayer l'homme et en faire des projections ? dit le philosophe, s'adressant à Zosime. Or celui-ci dit : « Nous avons prouvé que cet œuf (philosophique) est la reproduction de l'univers. » Hermès, aussi, faisant entendre par énigme l'œuf dans la pyramide,* disait que l'œuf était à proprement parler la substance de la chrysocolle et de l'argent.* L'œuf est appelé le monde à la chevelure d'or ; et Hermès désigne le coq* comme étant un homme maudit par le soleil. Voilà ce qu'il dit dans le livre antique.* C'est là qu'il fait mention de la taupe, disant que cet animal avait aussi été un homme ; il avait été maudit de Dieu, pour avoir révélé les mystères du soleil* et (Dieu) l'avait rendu aveugle. Et de fait, si la taupe monte à la face du soleil, la terre ne l'accueille plus jusqu'au soir. Il dit que cela est arrivé parce que cet homme avait connu la forme (mystérieuse) du soleil.* (Dieu) le relégua dans la terre noire, comme ayant transgressé la loi, et révélé le mystère aux hommes.
+
+*) Dans le livre des Kyranides, A K. Cp. _Origines de l'Alchimie_, p. 47.
+
+*) C'est-à-dire la conjonction des métaux dans une même composition, susceptible d'engendrer l'or.
+
+*) Dans la _Bibl. des Philosophes chimiques_, t. 4, p. 575, on lit : « le coq pris pour le symbole de la chaleur naturelle, attachée à Mercure, qui la lui transmet du ciel astral, dès la pointe du crépusculaire de l'aurore matinale. » Est-ce le même symbole ?
+
+*) Il y a là quelques vieux mythes égyptiens défigurés. --- Doit-on entendre que la taupe est citée ici parce qu'elle fouille la terre et révèle ainsi l'or ? --- A-t-elle été aveuglée par l'éclat de l'or, assimilé au soleil ?
+
+*) C'est-à-dire de l'or ; le signe est le même.
+
+*) Var. dans A : « La forme de la Chrysopée. » --- L'auteur joue sur l'identité du signe de l'or et du soleil.
+
+53\. Résumons tout ceci, pour abréger.* On reconnaît que le genre (animal) existe en raison de ses générations successives et se distingue en espèces, telles que les êtres volatils (et ceux qui ne le sont pas), lesquels sont à la portée de la main, sans autre défense qu'eux-mêmes. De même les reptiles et les quadrupèdes, distincts entre eux quant à l'espèce, tandis qu'ils s'accordent par la puissance (de reproduction).* Mais l'homme est supérieur à tous les animaux sans raison, comme Synésius l'écrit à Dioscorus.* Il dit : « L'homme est le plus important de tous les animaux vivant à la surface de la terre. »
+
+*) Ces paragraphes renferment une suite de notes et d'extraits incohérents.
+
+*) Tout ce passage est obscur ; il paraît fondé sur l'opposition des termes : genre et espèce.
+
+*) Cp. _Synésius_, § 11, p. 69.
+
+« Le but propre de tout l'art, dit Horus, c'est d'avoir pris secrètement la semence du mâle* ; tandis que toutes choses sont mâles et femelles. » Comme le dit quelque part Marie : « Unissez le mâle et la femelle et vous trouverez ce qui est cherché. En effet sans le procédé de cette réunion, rien ne peut réussir, car la nature charme la nature, etc. »
+
+*) Allusion obscure au mythe d'Osiris. V. aussi la mention de la terre veuve, privée de la rosée fécondante, c'est-à-dire de son époux, comme Isis, p. 96.
+
+54\. Démocrite, à l'occasion de ces choses, a composé quatre livres sous ce titre : _Le Principe_.*
+
+*) Cp. _Orig. de l'Alch._, p. 131. l. 7, en montant : « Sur les dissertations. »
+
+Marie dit : « prenant une feuille d'argent ... ; » et la même, ailleurs : « prenant la feuille de la kérotakis.* » Or elle appelle kérotakis l'instrument employé pour échauffer la feuille. [Le mot feuille désigne (aussi) un débris de plante*].
+
+*) V. _Introd._, p. 144.
+
+*) Le mot feuille est pris ici pour lame métallique ; mais le glossateur rappelle son autre sens, qui veut dire partie de plante. Dans L, au lieu de cette phrase, il y a : « la feuille est travaillée dans le botarion ; » ce qui concorde avec les figures d'appareils plus modernes, telles que les fig. 37 et 38 de l'_Introd._, p. 162, 163.
+
+Et ailleurs, la même : « Dans le même _motarion_ (mets) de la sandaraque jaune. » [Remarquez le nom féminin de la sandaraque. Quant aux _motaria_, comme vous le savez, ils sont faits avec du linge*].
+
+*) Linge dans lequel on enveloppait le minerai, tel que la sandaraque, que l'on faisait digérer dans l'eau de mer. Voir plus haut, p. 108 et 99, note 3. La partie entre crochets est une glose.
+
+Et sur la stèle, au-dessous de la figure de l'espèce masculine,* il y a ces mots de Marie : « et avec toutes choses ; » et ailleurs : « la préparation ignée. » Marie dit encore : « Ne va pas toucher avec tes mains ; tu n'es pas de la race d'Abraham ; tu n'es pas de notre race.* »
+
+*) Ou arsénicale, opposée à la sandaraque féminine nommée plus haut.
+
+*) Var. de L : « Si tu n'es pas de notre race, tu ne peux le toucher, parce que l'art est spécial et non commun. »
+
+55\. Remarque que l'art est spécial et non commun, comme quelques-uns le croient : ils ont parlé comme à des auditeurs ordinaires, capables de connaître et de comprendre. Mais toi, mon excellent fils, recueille les choses qui te paraissent utiles, conseillé par le philosophe en ces termes : « Je (vous) parle comme à des gens intelligents, exerçant vos esprits à connaître de quelles choses il faut se servir. » Si les modernes avaient été exercés dans ces matières, ils n'auraient pas échoué en s'engageant sans discernement dans les opérations. Et (encore) : « Devenez tels que les fils de médecins, afin de comprendre les natures ; en effet les fils de médecins, lorsqu'ils veulent préparer un remède salutaire, n'opèrent pas avec, une précipitation inconsidérée, etc. »
+
+Voici dans quel sens il a été dit que l'art est spécial et non livré à tous. Ecoutez, gens sans réflexion, ce que dit Horus* l'extracteur d'or à Cronammon, sur l'art des divisions et des espèces : « J'introduirai une petite explication, exposant l'interprétation de la véritable nature, seulement en ce qui touche les classes mentionnées parmi nous ; la vérité concernant les minerais et les pierres n'ayant été publiée nulle part. Je dis la vérité relative aux minerais ; car les classes n'ont jamais été épuisées jusqu'au bout. En effet qui ne sait que l'or, l'argent, le cuivre, le fer, le plomb, l'étain, comme aussi les terres, les pierres, les minerais métalliques sont (extraits) de la terre et sont mis en œuvre ? »
+
+*) A. porte l'Amour, ἔρως, au lieu d'Horus : sur ce mot, Cp. _Origines de l'Alchimie_, p. 85.
+
+C'est d'après ces (données) qu'ils ont fait leur écrit ; ils exposent aussi les liqueurs tirées des sèves et des sucs des plantes, des arbres, des fruits, des bois secs et humides. En composant des liqueurs avec ces substances, ils ont constitué l'art. Ils ont partagé cet art unique comme un arbre divisé en mille rameaux, et ils en ont formé mille classes.
+
+Tu as donc ici, en toute puissance, l'ensemble de l'œuvre. Il comprend le molybdochalque, la pierre étésienne et toutes les substances dorées, obtenues par cuisson et qui s'écoulent ensemble. Or ces mots : « les substances qui s'écoulent ensemble » ne signifient pas autre chose que les substances qui se liquéfient simultanément et par cet agent,* c'est-à-dire au moyen du feu.
+
+*) C'est-à-dire la fabrication des alliages métalliques couleur d'or, dont les composants demeurent unis pendant la fusion et la coulée du métal, sans qu'il y ait séparation ou liquation.
+
+#### 2. --- 4 bis. Olympiodore. --- Appendices.
+
+##### Appendice 1.
+
+_Texte anépigraphe. --- Commentaire de la Formule de l'Écrevisse._*
+
+*) _Introd._, p. 152. --- On reproduit ici ce texte en petits caractères, parce qu'il est donné comme développement des §§ 31, 38, 40, 48 d'Olympiodore, relatifs aux scories (p. 95, 99, 101, 107).
+
+Prenant le sédiment sec et noirci qui reste, blanchis-(le) de cette façon. Prends de l'eau de chaux préparée à l'avance, ou de l'eau de chaux fabriquée au moyen de la cendre d'albâtre, en guise de lessive pour savonner. Projette les matières dans le liquide et lave bien, jusqu'à ce que l'eau soit noircie ; filtre, puis transvase l'eau qui en provient.
+
+Ajoute d'autre eau, si tu veux ; après avoir laissé l'eau digérer pendant quelques jours, filtre ; lave encore le (contenu du) vase, en suivant l'ordre indiqué précédemment. Ensuite transvase de nouveau l'eau noircie, avec la précédente. Puis ayant fait digérer pendant le même nombre de jours, filtre le contenu du vase et lave.
+
+En faisant cela plusieurs fois, la couleur noire disparaît à la surface, et la matière devient d'une couleur blanche. Quant aux eaux noircies auparavant, mets-(les) dans un vase de verre et, après avoir luté le vase tout autour, laisse sécher et fais digérer pendant quelques jours. Le produit passé à l'état d'_ios_ doit être mis dans l'appareil à gorge. Il redevient ainsi blanc.
+
+Après l'avoir blanchi d'abord, comme il a été dit précédemment, sèche-le et mets-le dans un mortier ; jettes-y de l'eau blanche, (provenant) des produits précédents. Ajoutes-en peu à peu et broie, jusqu'à ce que la matière soit bien lavée d'avance et arrive à l'état et à la forme voulue. Après l'avoir desséché, mets-le dans un alambic de verre luté soigneusement* ; fais digérer pendant quelques jours, c'est-à-dire jusqu'à ce que la cendre se délaie, puis parvienne à un blanchiment convenable. Qu'elle se délaie et se désagrège. Expose-la au-dessus du vinaigre : sous l'influence de vapeurs piquantes, la matière se divise et devient blanche comme la céruse provenant du plomb.
+
+*) Ceci semble répéter l'alinéa précédent. 
+
+Il est possible de produire aussi cet effet avec de la chaux, en plaçant notre pierre au-dessus de la vapeur acide du vinaigre, à la façon d'une feuille de plomb.*
+
+*) C'est-à-dire comme dans la préparation de la céruse.
+
+Mais pour donner à ces matières la coloration jaune, après que la préparation a été convenablement lavée et desséchée, il faut d'abord l'arroser avec des eaux jaunes et faire macérer : la matière prend ainsi la couleur blanche : il faut ensuite dessécher et traiter convenablement.*
+
+*) Cette phrase est tronquée ; on n'aperçoit pas l'agent qui détermine la coloration jaune.
+
+Ainsi aura été accomplie, Dieu aidant, la pratique de Justinien.
+
+---
+
+Cette recette s'applique à la transformation d'un composé métallique noir, tel qu'un sulfure ou un résidu de fusion, en oxyde blanc (ou carbonate), par l'action lente de l'eau et de l'air. Quant au rapport entre cette recette, qui s'applique au lavage des scories, et la formule de l'Ecrevisse, il résulte de ce que l'oxyde ainsi obtenu servait à la préparation de l'alliage appelé molybdochalque (_Introd._, p. 153 ; voir aussi le présent volume, p. 101, texte et note 4).
+
+##### Appendice 2.
+
+§ 51. --- _Rédaction de L pour le passage relatif au microcosme et au macrocosme._ --- _Ces variantes ont été données en détail dans les notes de la Traduction du texte._
+
+##### Appendice 3.
+
+§ 55. --- _Rédaction de L. Après le passage_ : « Horus à Cronammon exposant l'interprétation de la véritable nature, » _le manuscrit poursuit en ces termes_ :
+
+Sachez donc, ô mes amis, vous les artisans de l'or, qu'il faut préparer les minerais convenablement et avec une grande habileté, ainsi que je l'ai expliqué précédemment ; car autrement l'opération ne pourra être amenée à son terme. Or le nom de minerais est donné, d'après les anciens, à l'ensemble des sept métaux ; car leurs minerais sont extraits de la terre, et de nature pierreuse : on les met en œuvre. Tous ont écrit sur ce sujet.
+
+(Il y a), en outre, les liqueurs (extraites) des plantes et des sèves, des sucs des arbres, des fruits et des bois secs et humides. Avec ces données, ils ont constitué l'art et, le traitant comme un arbre divisé de tous côtés en mille rameaux, ils l'ont distribué en mille classes et opérations.
+
+Tu possèdes donc ici, en toute puissance, l'ensemble de l'œuvre du cuivre, c'est-à-dire la pierre étésienne, les substances dorées, obtenues par cuisson et qui s'écoulent ensemble, et tout ce qui concerne l'art. Or ces mots : « les substances qui s'écoulent ensemble, » ne signifient pas autre chose que les substances qui se liquéfient simultanément et par cet agent, c'est-à-dire au moyen du feu. --- Fin d'Olympiodore.
