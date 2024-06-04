@@ -70,7 +70,7 @@
 
 ### [Indications Générales.](#indications-générales-3)
 
-#### [1. --- 1. Dédicace.](#1-----1-dédicace-2)
+#### [1. --- 1. Dédicace.](#1-----1-dédicace-3)
 
 #### [1. --- 2. Lexique de la Chrysopée par Ordre Alphabétique.](#1-----2-lexique-de-la-chrysopée-par-ordre-alphabétique-1)
 
