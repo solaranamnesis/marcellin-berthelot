@@ -56,7 +56,7 @@
 
 ### [Indications Générales.](#indications-générales-2)
 
-#### [1. --- 1. Dédicace.](#1-----1-dédicace-1)
+#### [1. --- 1. Dédicace.](#1-----1-dédicace-2)
 
 #### [1. --- 2. Lexique.](#1-----2-lexique-1)
 
