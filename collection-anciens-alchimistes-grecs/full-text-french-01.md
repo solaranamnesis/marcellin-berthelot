@@ -56,6 +56,14 @@
 
 ### [Indications Générales.](#indications-générales-2)
 
+...
+
+# [Traduction.](#traduction-1)
+
+## [Première Partie.](#première-partie-3)
+
+### [Indications Générales.](#indications-générales-3)
+
 #### [1. --- 1. Dédicace.](#1-----1-dédicace-2)
 
 #### [1. --- 2. Lexique de la Chrysopée par Ordre Alphabétique.](#1-----2-lexique-de-la-chrysopée-par-ordre-alphabétique-1)
@@ -95,12 +103,6 @@
 #### [1. --- 19. Diplosis d'Eugenius.](#1-----19-diplosis-deugenius-1)
 
 #### [1. --- 20. Le Labyrinthe que Salomon avait fait Construire.](#1-----20-le-labyrinthe-que-salomon-avait-fait-construire-1)
-
-# [Traduction.](#traduction-1)
-
-## [Première Partie.](#première-partie-3)
-
-### [Indications Générales.](#indications-générales-3)
 
 ## [Deuxième Partie.](#deuxième-partie-1)
 
