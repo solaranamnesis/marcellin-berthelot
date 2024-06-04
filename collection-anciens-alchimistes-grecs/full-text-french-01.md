@@ -56,7 +56,45 @@
 
 ### [Indications Générales.](#indications-générales-2)
 
-...
+#### [1. --- 1. Dédicace.](#1-----1-dédicace-2)
+
+#### [1. --- 2. Lexique de la Chrysopée par Ordre Alphabétique.](#1-----2-lexique-de-la-chrysopée-par-ordre-alphabétique-1)
+
+#### [1. --- 3. Sur l'Œuf Philosophique.](#1-----3-sur-lœuf-philosophique-1)
+
+#### [1. --- 4. Nomenclature de l'Œuf.](#1-----4-nomenclature-de-lœuf-1)
+
+#### [1. --- 5. Le Serpent Ouroboros.](#1-----5-le-serpent-ouroboros-1)
+
+#### [1. --- 6. Le Serpent.](#1-----6-le-serpent-1)
+
+#### [1. --- 7. Instrument d'Hermès Trismégiste.](#1-----7-instrument-dhermès-trismégiste-1)
+
+#### [1. --- 8. Liste Planétaire des Métaux.](#1-----8-liste-planétaire-des-métaux-1)
+
+#### [1. --- 9. Noms des Faiseurs d'Or.](#1-----9-noms-des-faiseurs-dor-1)
+
+#### [1. --- 10. Noms des Villes.](#1-----10-noms-des-villes-1)
+
+#### [1. --- 11. Serment.](#1-----11-serment-1)
+
+#### [1. --- 12. (Serment) du Philosophe Pappus.](#1-----12-serment-du-philosophe-pappus-1)
+
+#### [1. --- 13. Isis a Horus.](#1-----13-isis-a-horus-1)
+
+#### [1. --- 14. Les Mœurs du Philosophe.](#1-----14-les-mœurs-du-philosophe-1)
+
+#### [1. --- 15. Sur l'Assemblée des Philosophes.](#1-----15-sur-lassemblée-des-philosophes-1)
+
+#### [1. --- 16. Sur la Fabrication de l'Asèm.](#1-----16-sur-la-fabrication-de-lasèm-1)
+
+#### [1. --- 17. Fabrication du Cinabre.](#1-----17-fabrication-du-cinabre-1)
+
+#### [1. --- 18. Diplosis de Moïse.](#1-----18-diplosis-de-moïse-1)
+
+#### [1. --- 19. Diplosis d'Eugenius.](#1-----19-diplosis-deugenius-1)
+
+#### [1. --- 20. Le Labyrinthe que Salomon avait fait Construire.](#1-----20-le-labyrinthe-que-salomon-avait-fait-construire-1)
 
 # [Traduction.](#traduction-1)
 
