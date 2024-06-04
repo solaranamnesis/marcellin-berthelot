@@ -62,11 +62,11 @@
 
 #### [1. --- 3. ΠΕΡΙ ΤΟΥ ΩΟΥ ΟΙ ΠΑΛΑΙΟΙ ΦΑΣΙΝ ΟΥΤΩΣ.](#1-----3-περι-του-ωου-οι-παλαιοι-φασιν-ουτωσ-1)
 
-#### [1. --- 4. ΟΝΟΜΑΤΟΠΟΠΑ ΤΟΥ ΩΟΥ · ΑΥΤΟ ΓΑΡ ΕΣΤΙΝ ΤΟ ΜΥΣΤΗΡΙΟΝ ΤΗΣ ΤΕΧΝΗΣ.](#1-----4-ονοματοποπα-του-ωου--αυτο-γαρ-εστιν-το-μυστηριον-τησ-τεχνησ)
+#### [1. --- 4. ΟΝΟΜΑΤΟΠΟΠΑ ΤΟΥ ΩΟΥ · ΑΥΤΟ ΓΑΡ ΕΣΤΙΝ ΤΟ ΜΥΣΤΗΡΙΟΝ ΤΗΣ ΤΕΧΝΗΣ.](#1-----4-ονοματοποπα-του-ωου--αυτο-γαρ-εστιν-το-μυστηριον-τησ-τεχνησ-1)
 
-#### [1. --- 5. Le Serpent Ouroboros.](#1-----5-le-serpent-ouroboros-1)
+#### [1. --- 5. Le Serpent Ouroboros.](#1-----5-le-serpent-ouroboros-2)
 
-#### [1. --- 6. Le Serpent.](#1-----6-le-serpent-1)
+#### [1. --- 6. Le Serpent.](#1-----6-le-serpent-2)
 
 ...
 
@@ -84,9 +84,9 @@
 
 #### [1. --- 4. Nomenclature de l'Œuf.](#1-----4-nomenclature-de-lœuf-1)
 
-#### [1. --- 5. Le Serpent Ouroboros.](#1-----5-le-serpent-ouroboros-1)
+#### [1. --- 5. Le Serpent Ouroboros.](#1-----5-le-serpent-ouroboros-3)
 
-#### [1. --- 6. Le Serpent.](#1-----6-le-serpent-1)
+#### [1. --- 6. Le Serpent.](#1-----6-le-serpent-3)
 
 #### [1. --- 7. Instrument d'Hermès Trismégiste.](#1-----7-instrument-dhermès-trismégiste-1)
 
