@@ -106,7 +106,7 @@
 
 #### [1. --- 7. Instrument d'Hermès Trismégiste.](#1-----7-instrument-dhermès-trismégiste-1)
 
-#### [1. --- 8. Liste Planétaire des Métaux.](#1-----8-liste-planétaire-des-métaux-1)
+#### [1. --- 8. Liste Planétaire des Métaux.](#1-----8-liste-planétaire-des-métaux-3)
 
 #### [1. --- 9. Noms des Faiseurs d'Or.](#1-----9-noms-des-faiseurs-dor-3)
 
