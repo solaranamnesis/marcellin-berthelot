@@ -108,7 +108,7 @@
 
 #### [1. --- 8. Liste Planétaire des Métaux.](#1-----8-liste-planétaire-des-métaux-1)
 
-#### [1. --- 9. Noms des Faiseurs d'Or.](#1-----9-noms-des-faiseurs-dor-1)
+#### [1. --- 9. Noms des Faiseurs d'Or.](#1-----9-noms-des-faiseurs-dor-3)
 
 #### [1. --- 10. Noms des Villes.](#1-----10-noms-des-villes-1)
 
