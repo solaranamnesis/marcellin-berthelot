@@ -100,7 +100,7 @@
 
 ## [Deuxième Partie.](#deuxième-partie-2)
 
-### [Traites Democritains.](#traites-democritains-1)
+### [Traités Démocritains.](#traites-democritains-2)
 
 #### [2. --- 1. ΔΗΜΟΚΡΙΤΟΥ ΦΥΣΙΚΑ ΚΑΙ ΜΥΣΤΙΚΑ.](#2-----1-δημοκριτου-φυσικα-και-μυστικα-1)
 
@@ -152,9 +152,9 @@
 
 #### [1. --- 20. Le Labyrinthe que Salomon avait fait Construire.](#1-----20-le-labyrinthe-que-salomon-avait-fait-construire-1)
 
-## [Deuxième Partie.](#deuxième-partie-1)
+## [Deuxième Partie.](#deuxième-partie-3)
 
-### [Traités Démocritains.](#traités-démocritains-1)
+### [Traités Démocritains.](#traités-démocritains-3)
 
 #### [2. --- 1. Démocrite Questions Naturelles et Mystérieuses.](#2-----1-démocrite-questions-naturelles-et-mystérieuses-1)
 
