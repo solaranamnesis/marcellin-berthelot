@@ -90,7 +90,7 @@
 
 #### [1. --- 16. ΠΕΡΙ ΠΟΙΗΣΕΟΣ ΑΣΗΜΟΥ.](#1-----16-περι-ποιησεοσ-ασημου-1)
 
-#### [1. --- 17. Fabrication du Cinabre.](#1-----17-fabrication-du-cinabre-1)
+#### [1. --- 17. Fabrication du Cinabre.](#1-----17-fabrication-du-cinabre-2)
 
 #### [1. --- 18. ΜΩΣΕΩΣ ΔΙΠΛΩΣΙΣ.](#1-----18-μωσεωσ-διπλωσισ-1)
 
@@ -98,7 +98,7 @@
 
 #### [1. --- 20. ΛΑΒΥΡΙΝΘΟΣ ΗΝΠΕΡ ΣΟΛΟΜΩΝ ΕΤΕΚΤΗΝΑΤΟ.](#1-----20-λαβυρινθοσ-ηνπερ-σολομων-ετεκτηνατο-1)
 
-## [Deuxième Partie.](#deuxième-partie-1)
+## [Deuxième Partie.](#deuxième-partie-2)
 
 ### [Traites Democritains.](#traites-democritains-1)
 
@@ -144,7 +144,7 @@
 
 #### [1. --- 16. Sur la Fabrication de l'Asèm.](#1-----16-sur-la-fabrication-de-lasèm-1)
 
-#### [1. --- 17. Fabrication du Cinabre.](#1-----17-fabrication-du-cinabre-1)
+#### [1. --- 17. Fabrication du Cinabre.](#1-----17-fabrication-du-cinabre-3)
 
 #### [1. --- 18. Diplosis de Moïse.](#1-----18-diplosis-de-moïse-1)
 
