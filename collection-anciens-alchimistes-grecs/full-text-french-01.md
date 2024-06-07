@@ -6290,7 +6290,7 @@ grillage, décrit ensuite. (M. B.). --- 8. | γραὶζω. --- 11. εὕρυζ�
 
 ## Deuxième Partie.
 
-### Traites Democritains.
+### Traités Démocritains.
 
 #### 2\. --- 1. ΔΗΜΟΚΡΙΤΟΥ ΦΥΣΙΚΑ ΚΑΙ ΜΥΣΤΙΚΑ.
 
