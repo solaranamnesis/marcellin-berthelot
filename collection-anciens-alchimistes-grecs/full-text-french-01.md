@@ -100,7 +100,7 @@
 
 ## [Deuxième Partie.](#deuxième-partie-2)
 
-### [Traités Démocritains.](#traites-democritains-2)
+### [Traités Démocritains.](#traités-démocritains-2)
 
 #### [2. --- 1. ΔΗΜΟΚΡΙΤΟΥ ΦΥΣΙΚΑ ΚΑΙ ΜΥΣΤΙΚΑ.](#2-----1-δημοκριτου-φυσικα-και-μυστικα-1)
 
