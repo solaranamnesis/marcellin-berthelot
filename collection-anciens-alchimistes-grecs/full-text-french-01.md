@@ -110,7 +110,7 @@
 
 #### [2. --- 4. Olympiodore.](#2-----4-olympiodore-1)
 
-#### [2. --- 4 bis. Olympiodore. --- Appendices.](#2-----4-bis-----olympiodore-----appendices-2)
+#### [2. --- 4 bis. Olympiodore. --- Appendices.](#2-----4-bis-olympiodore-----appendices-2)
 
 # [Traduction.](#traduction-1)
 
