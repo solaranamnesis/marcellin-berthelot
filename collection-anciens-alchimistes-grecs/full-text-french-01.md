@@ -110,7 +110,7 @@
 
 #### [2. --- 4. Olympiodore.](#2-----4-olympiodore-1)
 
-#### [2. --- 4 bis. --- Olympiodore. --- Appendices.](#2-----4-bis-----olympiodore-----appendices-1)
+#### [2. --- 4 bis. Olympiodore. --- Appendices.](#2-----4-bis-----olympiodore-----appendices-2)
 
 # [Traduction.](#traduction-1)
 
@@ -170,7 +170,7 @@
 
 #### [2. --- 4. Olympiodore, Philosophe d'Alexandrie.](#2-----4-olympiodore-philosophe-dalexandrie-1)
 
-#### [2. --- 4 bis. Olympiodore. --- Appendices.](#2-----4-bis-olympiodore-----appendices-1)
+#### [2. --- 4 bis. Olympiodore. --- Appendices.](#2-----4-bis-olympiodore-----appendices-3)
 
 ---
 
@@ -8457,7 +8457,7 @@ Réd. de L : Oύ γὰρ ἐκ γένους εὶ ἀβρα- | add. L. --- 18. A
 
 ---
 
-#### 2\. --- 4 bis. --- Olympiodore. --- Appendices.
+#### 2\. --- 4 bis. Olympiodore. --- Appendices.
 
 **Appendice 1.**
 
