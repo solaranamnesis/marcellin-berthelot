@@ -15,3 +15,9 @@ English - PDF
 French - PDF | Biolinum | Atkinson | Cursive | Aurical  
 English - Plain Text  
 English - PDF  
+
+custom-purple-01.jpeg --- CC BY-SA 4.0 Solar Anamnesis; modified attribution, Sascha Grosser, CC BY-SA 4.0, via Wikimedia Commons.
+
+custom-purple-02.jpeg --- CC BY-SA 4.0 Solar Anamnesis; modified attribution, Francoise Delpérée, CC BY-SA 4.0, via Wikimedia Commons.
+
+sacred-geo-purple-01.jpeg --- CC0 Solar Anamnesis; modified attribution, Douglas James Butner, CC0, via Wikimedia Commons.
