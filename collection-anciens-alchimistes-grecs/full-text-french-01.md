@@ -5359,28 +5359,28 @@ _Transcrit sur_ M, f. 131 r. --- _Collationné sur_ B, f. 2 v. ;--- _sur_ A, f. 
 ⋆Ἐξίωσίς ἐστιν ἔκστρεψις μετὰ ζωμοῦ, τουτέστι μεταβολή.*  
 ⋆Ἐτήσιος, ὁ χρυσόλιθος.*
 
-*) ἀνακαυφθείς BA ; ἀνακαμφθείς L. ---
+*) ἀνακαυφθείς BA ; ἀνακαμφθείς L.
 
-*) τῶν φ. τ. ὠῶν AL, f. mel. Cp. ci-dessus l'art. Ἀλάβαστρος. ---
+*) τῶν φ. τ. ὠῶν AL, f. mel. Cp. ci-dessus l'art. Ἀλάβαστρος.
 
-*) σκόρπισις BAL, f. mel. ---
+*) σκόρπισις BAL, f. mel.
 
-*) εἰσι] ἐστιν (placé après ἔλ.) AL. ---
+*) εἰσι] ἐστιν (placé après ἔλ.) AL.
 
-*) Après ὑδρ.] τῶν εἰδῶν add. BAL. ---
+*) Après ὑδρ.] τῶν εἰδῶν add. BAL.
 
-*) Art. ajouté dans AL. ---
+*) Art. ajouté dans AL.
 
-*) Art. ajouté dans BAL. --- Après ἐτ.] λίθος add. A _supra lineam_ ; λίθος ἐστίν add. L. ---
+*) Art. ajouté dans BAL. --- Après ἐτ.] λίθος add. A _supra lineam_ ; λίθος ἐστίν add. L.
 
 **Ζ**
 
 Ζυμάριόν ἐστι θεῖον.*  
 (f. 132 v.) Ζωμὸς βαφικός ἐστι καλακάνθη οἰκονομηθεῖσα.*
 
-*) Après cet article, on lit dans L : Ζύμη ἐστὶ σύνθημα σωμάτων σὺν αἰθάλῃ ἡχουμενίου καὶ κνίκου ἄνθει. ---
+*) Après cet article, on lit dans L : Ζύμη ἐστὶ σύνθημα σωμάτων σὺν αἰθάλῃ ἡχουμενίου καὶ κνίκου ἄνθει.
 
-*) καλακάνθη ἤγουν χάλκανθος A. Réd. de L : Ζωμὸς β. ἐ. χάλκανθος οἰκονομηθείς. Après οἰκονομ.] κατὰ τὴν τέχνην add. AL. ---
+*) καλακάνθη ἤγουν χάλκανθος A. Réd. de L : Ζωμὸς β. ἐ. χάλκανθος οἰκονομηθείς. Après οἰκονομ.] κατὰ τὴν τέχνην add. AL.
 
 **Η**
 
@@ -5390,11 +5390,11 @@ _Transcrit sur_ M, f. 131 r. --- _Collationné sur_ B, f. 2 v. ;--- _sur_ A, f. 
 Ἡλίου χαίται εἰσὶν θεῖον ἀπὸ ἡλίου.*  
 Ἡλίου δίσκος ἐστὶν ὑδράργυρος ἀπὸ χρυσοῦ.*
 
-*) κνικου mss. partout. ---
+*) κνικου mss. partout.
 
-*) ἀπὸ ἡλίου] ἀπὸ suivi dans M du signe du soleil ou de l'or, avec esprit rude. F. l. χρυσοῦ. ---
+*) ἀπὸ ἡλίου] ἀπὸ suivi dans M du signe du soleil ou de l'or, avec esprit rude. F. l. χρυσοῦ.
 
-*) χρυσοῦ] signe sans esprit dans M. ---
+*) χρυσοῦ] signe sans esprit dans M.
 
 **Θ**
 
@@ -5417,33 +5417,33 @@ _Transcrit sur_ M, f. 131 r. --- _Collationné sur_ B, f. 2 v. ;--- _sur_ A, f. 
 Θεῖον λευκόν ἐστι μόλυβδος οἰκονομηθείς.  
 Θεῖον χαλκός ἐστιν οἰκονομηθείς.
 
-*) 2e art. de L dans la lettre Θ. ---
+*) 2e art. de L dans la lettre Θ.
 
 *) συνθήματος BAEL, ici et presque dans tout le contenu de cette famille de manuscrits.
 
-*) 3e art. de L, ajouté dans AL. ---
+*) 3e art. de L, ajouté dans AL.
 
-*) 4e art. de L. --- ὁ λιθ. L. ---
+*) 4e art. de L. --- ὁ λιθ. L.
 
-*) 1er art. de L. ---
+*) 1er art. de L.
 
-*) 5e art. de L. --- ἀσπρὰ] λευκὰ BAL. ---
+*) 5e art. de L. --- ἀσπρὰ] λευκὰ BAL.
 
-*) θαλλοὶ] θάλη A. --- Après λευκὸν] ὃ καὶ puis l'art. suivant BAL. ---
+*) θαλλοὶ] θάλη A. --- Après λευκὸν] ὃ καὶ puis l'art. suivant BAL.
 
-*) Après θ. ἄκ.] ἤγουν add. BA. ---
+*) Après θ. ἄκ.] ἤγουν add. BA.
 
-*) 6e art. de L, qui continue comme MBA jusqu'à l'article θεῖον ὕδωρ ἐστὶ inclus. --- ὁ ἐν τ. ζ. κρ. L. ---
+*) 6e art. de L, qui continue comme MBA jusqu'à l'article θεῖον ὕδωρ ἐστὶ inclus. --- ὁ ἐν τ. ζ. κρ. L.
 
-*) καὶ om. BAL ; f. del. ---
+*) καὶ om. BAL ; f. del.
 
-*) θεῖον ἐ. κρ. ὕ. L. ---
+*) θεῖον ἐ. κρ. ὕ. L.
 
-*) Après ξανθ.] ὁ τῆς ἀρσενίκου add. BA. --- ἀμηνέος BA. Dans un fragment épigraphique de l'édit de Dioclétien _de pretiis rerum_ récemment découvert par M. Paul Monceaux (Alger 1886), fragment dont le texte est généralement correct, on lit οινος αμιννεος et ο. αμιννιος. On rencontre dans nos mss. alchimiques : ἀμηναῖος, ἀμηνέος, ἀμινέος, ἀμυναῖος, ἀμοίνεος ; f. l. ἀμίννιος. ---
+*) Après ξανθ.] ὁ τῆς ἀρσενίκου add. BA. --- ἀμηνέος BA. Dans un fragment épigraphique de l'édit de Dioclétien _de pretiis rerum_ récemment découvert par M. Paul Monceaux (Alger 1886), fragment dont le texte est généralement correct, on lit οινος αμιννεος et ο. αμιννιος. On rencontre dans nos mss. alchimiques : ἀμηναῖος, ἀμηνέος, ἀμινέος, ἀμυναῖος, ἀμοίνεος ; f. l. ἀμίννιος.
 
-*) ὅτι] ἀλλ᾽ ὅτι BA. ---
+*) ὅτι] ἀλλ᾽ ὅτι BA.
 
-*) 12e art. de L. --- τῶν ὠῶν gratté M. ---
+*) 12e art. de L. --- τῶν ὠῶν gratté M.
 
 *) 11e art. de L.
 
@@ -5454,11 +5454,11 @@ _Transcrit sur_ M, f. 131 r. --- _Collationné sur_ B, f. 2 v. ;--- _sur_ A, f. 
 Ἱερὸς λίθος ἐστὶ χρυσόλιθος.  
 ⋆Ἱερὸς λίθος ἐστὶ τὸ ἀπόκρυφον μυστήριον.*
 
-*) Après ἰὸς] χρυσοῦ add. L. --- ἡ αἰθ. καὶ ἡ χρυσόκ. L. ---
+*) Après ἰὸς] χρυσοῦ add. L. --- ἡ αἰθ. καὶ ἡ χρυσόκ. L.
 
-*) après ξάνθωσις] καὶ χρυσόκολλα add. AL. --- κόμαρις M ; κωμ. σκ. souligné dans L (p. 263) et en mg., note d'une main du 17e siècle : _infra_ 265, 267 ; Cp. ci-dessous p. 10, l. 6, note. ---
+*) après ξάνθωσις] καὶ χρυσόκολλα add. AL. --- κόμαρις M ; κωμ. σκ. souligné dans L (p. 263) et en mg., note d'une main du 17e siècle : _infra_ 265, 267 ; Cp. ci-dessous p. 10, l. 6, note.
 
-*) Article ajouté dans AE. ---
+*) Article ajouté dans AE.
 
 **K**
 
@@ -5481,21 +5481,21 @@ _Transcrit sur_ M, f. 131 r. --- _Collationné sur_ B, f. 2 v. ;--- _sur_ A, f. 
 (f. 133 v.) Κώμαρίς ἐστιν ἀρσένικον.  
 Κνίπειον αἶμά ἐστιν ὕδωρ ἀλαβάστρου οἰκονομηθέν.
 
-*) ἀφρο, puis le signe de la lune MB : ἀφροσέλινον A. ---
+*) ἀφρο, puis le signe de la lune MB : ἀφροσέλινον A.
 
-*) Κόπρος, le signe de l'or, puis αμμος sans esprit ni accent (= χρύσαμμός) ἐστιν χρυσόλιθος (en signe) M ;--- Kόπρος ἐστὶ χρυσὸς (signe de l'or) : καὶ ἄμ. ἐ. χρυσόλ. BA; Κόπρος ἐ. χρυσὸς (en toutes lettres), καὶ ἄμ. καὶ χρυσόλ. L. ---
+*) Κόπρος, le signe de l'or, puis αμμος sans esprit ni accent (= χρύσαμμός) ἐστιν χρυσόλιθος (en signe) M ;--- Kόπρος ἐστὶ χρυσὸς (signe de l'or) : καὶ ἄμ. ἐ. χρυσόλ. BA; Κόπρος ἐ. χρυσὸς (en toutes lettres), καὶ ἄμ. καὶ χρυσόλ. L.
 
-*) κασσίτηρος M presque partout. ---
+*) κασσίτηρος M presque partout.
 
-*) κνουφιν (sans accent) M. --- ἄμπυξ] f. l. ἄμβιξ. ---
+*) κνουφιν (sans accent) M. --- ἄμπυξ] f. l. ἄμβιξ.
 
-*) Après αἰθάλη] ἀρσενικοῦ add. BAL. ---
+*) Après αἰθάλη] ἀρσενικοῦ add. BAL.
 
-*) Après ἀττ.] ἐστὶν add. L. ---
+*) Après ἀττ.] ἐστὶν add. L.
 
-*) λέκηθος M ; λέκινθος A ; λέκυνθος B et du Cange. ---
+*) λέκηθος M ; λέκινθος A ; λέκυνθος B et du Cange.
 
-*) τῶν ὠῶν gratté M. --- κασίν MBA. ---
+*) τῶν ὠῶν gratté M. --- κασίν MBA.
 
 *) αὐτῆς] αὐτοῦ L, f. mel.
 
