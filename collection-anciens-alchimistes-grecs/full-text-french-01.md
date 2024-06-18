@@ -6301,7 +6301,7 @@ _Transcrit sur_ A, f. 256 r. --- _Collationné sur_ L, f. 217 r.
 
 *) ὑδράργυρον] signe de l'argent dans A.
 
-*) A mg. : ὅρα ξάντωσις (1re main). --- τῷ φαρμάκῳ L, EL⋆. --- Après φαρμάκῳ, E* place un signe final ( : ~ ), à la dernière ligne du fol. 215 v., puis commence le fol. 216 avec δακτύλους sans indiquer un commencement d'article.
+*) A mg. : ὅρα ξάντωσις (1re main). --- τῷ φαρμάκῳ L, EL⋆. --- Après φαρμάκῳ, E⋆ place un signe final ( : ~ ), à la dernière ligne du fol. 215 v., puis commence le fol. 216 avec δακτύλους sans indiquer un commencement d'article.
 
 *) καὶ λεύκαινε om. A.
 
