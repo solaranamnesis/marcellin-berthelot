@@ -6265,7 +6265,7 @@ _Transcrit sur_ A, f. 256 r. --- _Collationné sur_ L, f. 217 r.
 
 *) < παιδὸς > (_M. B._).
 
-*) λιθάργυρος est au masculin dans E*.
+*) λιθάργυρος est au masculin dans E⋆.
 
 *) σποδοῦ L, EL⋆. --- ταῦτα π. λ. om. A. --- ὄξος δριμύτατον --- λ. ξηρ. A.
 
