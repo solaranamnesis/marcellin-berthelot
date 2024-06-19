@@ -7082,18 +7082,25 @@ _Transcrit sur_ M, f. 72 v. --- _Collationné sur_ B, f. 20 r. ;--- _sur_ C, f. 
 
 --- Ὄξυνόν σου τὸν νοῦν, Διόσκορε, καὶ πρόσεχε πῶς λέγει.* Ἐὰν οὖν οἰκονομήσῃς ὡς δεῖ, φέρεις τὴν φύσιν ἐξω. Γῆ χία καὶ ἀστερίτης, καδμία λευκὴ, καὶ τὰ ἑξῆς. Βλέπε πόση παρατήρησις τοῦ* ἀνδρὸς, πῶς πάντα λευκὰ ἠνίξατο, ἵνα δείξῃ τὴν λεύκωσιν. Ὃ λέγει οὖν, Διόσκορε, τοιοῦτόν ἐστι · Βάλε τὰ σώματα μετὰ τῆς ὑδραργύρου,* καὶ ῥίνησον εἰς λεπτὸν · καὶ ἀναλάμβανε ὑδράργυρον ἐτέραν · πάντα γὰρ ἡ ὑδράργυρος εἰς ἑαυτὴν ἕλκει · καὶ ἔασον πεφθῆναι ἡμέρας τρεῖς ἢ τέσσαρας · καὶ βάλε αὐτὴν εἰς βωτάριον ἐπὶ θερμοσποδιᾶς μὴ ἐχούσης τὸ πῦρ διάπυρον, ἀλλὰ ἐπὶ θερμοσποδιὰν* πραεῖαν · ὅ ἐστι κηροτακίς. Ταύτῃ οὖν τῇ ἀναδόσει τοῦ πυρὸς, συναρμόζεται τῷ βωταρίῳ ὑέλινον ὄργανον ἔχον μαστάριον, ἐπὶ τὰ ἄνω προσέχον,* καὶ ἐπικέφαλα κείσθω. Καὶ τὸ ἀνερχόμενον ὕδωρ διὰ τοῦ μαζοῦ* δέχου καὶ ἔχε καὶ σῆψον. Τοῦτο λέγεται ὕδωρ θεῖον. Αὕτη ἐστὶν* ἐκστροφή · ταύτῃ τῇ ἀγωγῇ φέρεις ἔξω τὴν ἔνδον κεκρυμμένην · αὕτη* καλεῖται λύσις σωμάτων. Τοῦτο ὅταν σαπῇ, καλεῖται ὄξος, καὶ οἶνος ἀμηναῖος, καὶ τὰ ὅμοια.*
 
-2. μακάριος] Interrompu ici la colla- | mg. ση. --- Figure d'appareil dans BCA.
-tion de C ; noté seulement quelques | --- 20. Après θερμοσποδις] πραείας · ὄ δἡ
-variantes dans la suite. --- 7. Après | ωτάριόν ἐστι κηροτακίς BCA Fabr. Le
-νοὕν] ιόσκορε om. et τοῖς ἐγκειμένοις add. | ms. A restitue en mg. (écriture du
-B. --- βλέπε] πρόσχες B. --- 9. Avant ῶ | temps), entre θερμοσποδις et πραείας : μ
-Lυνέσιε] A. Fabr. (abréviation de ιόσ- | ἐχούσις (sic) τὸ πῦρ διάπυρον · ἀλλ᾽ ἐπὶ θερ-
-κορος). --- 10. BCA mettent cette réponse | μοσποδιἄς. --- 22. ὑάλινον B. --- 23. ἐπικέ-
-en marge. --- 12. πῶς λέγει] τοῖς είρημένοις | φαλα] κατὰ κάρα κείμενον B. --- A mg :
-B. --- 14. τοῦ om. M. --- l6. M mg. sur | ἤγουν ἐπικέφαλακύσθω (f. l. κείσθω. --- Dans
-une ligne verticale et en lettres retour- | Fabr. : καὶ κάτω κάρα ᾽ κείμενον ἡ, et en
-nées : φανερόν. BCA ont reproduit ces | note : in ora codicis adscriptum : ἐπικε-
-caractères sans les comprendre. --- A | φαλαιούσθω. (Note de A mal déchiffrée.)
+*) μακάριος] Interrompu ici la collation de C ; noté seulement quelques variantes dans la suite.
+
+*) Après νοῦν] Διόσκορε om. et τοῖς ἐγκειμένοις add. B. --- βλέπε] πρόσχες B.
+
+*) Avant ὦ Συνέσιε] Δ. Fabr. (abréviation de Διόσκορος).
+
+*) BCA mettent cette réponse en marge.
+
+*) πῶς λέγει] τοῖς εἰρημένοις B.
+
+*) τοῦ om. M.
+
+*) M mg. sur une ligne verticale et en lettres retournées : φανερόν. BCA ont reproduit ces caractères sans les comprendre. --- A mg. ση. --- Figure d'appareil dans BCA.
+
+*) Après θερμοσποδιᾶς] πραείας · ὃ δὴ βωτάριόν ἐστι κηροτακίς BCA Fabr. Le ms. A restitue en mg. (écriture du temps), entre θερμοσποδιᾶς et πραείας : μὴ ἐχούσις (_sic_) τὸ πῦρ διάπυρον · ἀλλ ᾽ ἐπὶ θερμοσποδιᾶς.
+
+*) ὑάλινον B.
+
+*) ἐπικέφαλα] κατὰ κάρα κείμενον B. --- A mg : ἤγουν ἐπικέφαλα κϋσθω (f. l. κείσθω. --- Dans Fabr. : καὶ κάτω κάρα ⋆ κείμενον ἦ, et en note : ⋆ _in ora codicis adscriptum_ : ἐπικεφαλαιούσθω. (Note de A mal déchiffrée.)
 
 7\. Καὶ ἵνα θαυμάσῃς (f. 74 v.) τὴν τοῦ ἀνδρὸς σοφίαν, βλέπε πῶς δύο καταλόγους ἐποιήσατο, χρυσοποιΐας καὶ ἀργυροποιΐας, καὶ πάλιν δύο ζωμοὺς, τὸν μὲν ἕνα ἐν τῷ ξανθῷ, καὶ τὸν ἕνα ἐν τῷ λευκῷ,* τουτέστι χρυσὸν καὶ ἄργυρον, καὶ ἐκάλεσε τὸν τοῦ χρυσοῦ κατάλογον χρυσοποιΐαν, τὸν δὲ τοῦ ἀργύρου, ἀργυροποιΐαν.
 
@@ -7111,15 +7118,27 @@ caractères sans les comprendre. --- A | φαλαιούσθω. (Note de A mal d�
 
 8\. Διόσκορος εἶπε · Διάφορος οὖν ἐστιν ἡ ὑδράργυρος* ;
 
-1. καὶ σῆψον] είς σῆψιν B. --- 2. ταύτη | lement par Olympiodore (II, 1v, 36).
---- κεκρυμμένην om. B. --- 4. ἀμήνεος B. | Nous rapportons les principales va-
---- 7. καὶ τὸν ἐνα] τὸν δὲ ἔτερον B. --- | riantes de cette citation, qui sera sup-
-10. (Aιόσκορος) ] . Fabr. --- 16. τὸ γυμ- | primée dans le texte d'Olympiodore
-νάσαι BC. --- ὑμῶν BC. --- 17. συνηταγ- | et nous les désignons ici par un asté-
-τησαν Fabr. --- ὼς νοήμασιν ἡμῶν ὁμιλεῖ | risque. --- 1θ. χρυσ. .. ἀργύρω] signes
-Fabr. --- 18. ἡμῶν Fabr. --- άν δὲ βούλη... | de l'or et de l'argent dans les mss. ---
-Le morceau commençant par ces mots | 21. καὶ om. Fabr. --- 24 διάφορος ουν] κα
-et finissant avec le § 9 est cité textuel- | διάφορος B.
+*) καὶ σῆψον] εἰς σῆψιν B.
+
+*) ταύτῃ --- κεκρυμμένην om. B.
+
+*) ἀμήνεος B.
+
+*) καὶ τὸν ἕνα] τὸν δὲ ἕτερον B.
+
+*) < Διόσκορος > ] Δ. Fabr.
+
+*) τὸ γυμνάσαι BC. --- ὑμῶν BC.
+
+*) συνηταγήτησαν Fabr. --- ὡς νοήμασιν ἡμῶν ὁμιλεῖ Fabr.
+
+*) ἡμῶν Fabr. --- Ἐὰν δὲ βούλῃ ... Le morceau commençant par ces mots et finissant avec le § 9 est cité textuellement par Olympiodore (2, 4, 36). Nous rapportons les principales variantes de cette citation, qui sera supprimée dans le texte d'Olympiodore et nous les désignons ici par un astérisque.
+
+*) χρυσῷ ... ἀργύρῳ] signes de l'or et de l'argent dans les mss.
+
+*) καὶ om. Fabr.
+
+*) διάφορος οὖν] κα διάφορος B.
 
 Συνέσιος. Ναί, διάφορός ἐστι, μία οὖσα.
 
