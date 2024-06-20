@@ -21,3 +21,5 @@ custom-purple-01.jpeg --- CC BY-SA 4.0 Solar Anamnesis; modified attribution, Sa
 custom-purple-02.jpeg --- CC BY-SA 4.0 Solar Anamnesis; modified attribution, Francoise Delpérée, CC BY-SA 4.0, via Wikimedia Commons.
 
 sacred-geo-purple-01.jpeg --- CC0 Solar Anamnesis; modified attribution, Douglas James Butner, CC0, via Wikimedia Commons.
+
+Old_Paper_texture3-geopurp.jpeg --- CC0 Solar Anamnesis; modified attribution, Douglas James Butner, CC0, via Wikimedia Commons; leonardoai, CC0, via Wikimedia Commons.
