@@ -38,57 +38,57 @@
 
 ## [2. --- Relations entre les Métaux et les Planètes.](#2-----relations-entre-les-métaux-et-les-planètes-1)
 
-### [Le Nombre Sept.]()
+### [Le Nombre Sept.](#le-nombre-sept-1)
 
 ## [3. --- La Sphère de Démocrite et les Médecins Astrologues.](#3-----la-sphère-de-démocrite-et-les-médecins-astrologues-1)
 
 ## [4. --- Signes et Notations Alchimiques.](#4-----signes-et-notations-alchimiques-1)
 
-### [Signes Alchimiques.]()
+### [Signes Alchimiques.](#signes-alchimiques-1)
 
-### [Signes du Manuscrit 2327.]()
+### [Signes du Manuscrit 2327.](#signes-du-manuscrit-2327-1)
 
-### [Lexique des Notations Alchimiques.]()
+### [Lexique des Notations Alchimiques.](#lexique-des-notations-alchimiques-1)
 
 ## [5. --- Figures d'Appareils et Autres Objects.](#5-----figures-dappareils-et-autres-objects-1)
 
-### [Figures du manuscrit de Saint-Marc.]()
+### [Figures du manuscrit de Saint-Marc.](#figures-du-manuscrit-de-saint-marc-1)
 
-### [Figures du manuscrit 2327.]()
+### [Figures du manuscrit 2327.](#figures-du-manuscrit-2327-2)
 
-### [Figures du manuscrit 2325.]()
+### [Figures du manuscrit 2325.](#figures-du-manuscrit-2325-2)
 
-### [Figures du manuscrit 2327.]()
+### [Figures du manuscrit 2327.](#figures-du-manuscrit-2327-3)
 
-### [Figures du manuscrit 2325.]()
+### [Figures du manuscrit 2325.](#figures-du-manuscrit-2325-3)
 
-### [Figures des manuscrits de Leide.]()
+### [Figures des manuscrits de Leide.](#figures-des--manuscrits-de-leide)
 
 ## [6. --- Renseignements et Notices sur quelques Manuscrits Alchimiques.](#6-----renseignements-et-notices-sur-quelques-manuscrits-alchimiques-1)
 
-### [1. --- _Ancienne liste du manuscrit de Saint-Marc._]()
+### [1. --- _Ancienne liste du manuscrit de Saint-Marc._](#1-----ancienne-liste-du-manuscrit-de-saint-marc-1)
 
-### [2. --- _Sur les copies actuelles de la 9e Leçon de Stephanus._]()
+### [2. --- _Sur les copies actuelles de la 9e Leçon de Stephanus._](#2-----sur-les-copies-actuelles-de-la-9e-leçon-de-stephanus-1)
 
-### [3. --- _Diverses lacunes et transpositions du manuscrit de Saint-Marc._]()
+### [3. --- _Diverses lacunes et transpositions du manuscrit de Saint-Marc._](#3-----diverses-lacunes-et-transpositions-du-manuscrit-de-saint-marc-1)
 
-### [4. --- _Manuscrits de l'Escurial._]()
+### [4. --- _Manuscrits de l'Escurial._](#4-----manuscrits-de-lescurial-1)
 
-### [5. --- _Manuscrits alchimiques grecs du Vatican et des Bibliothèques de Rome._]()
+### [5. --- _Manuscrits alchimiques grecs du Vatican et des Bibliothèques de Rome._](#5-----manuscrits-alchimiques-grecs-du-vatican-et-des-bibliothèques-de-rome-1)
 
-### [6. --- _Manuscrits de Gotha ou d'Altenbourg et de Munich._]()
+### [6. --- _Manuscrits de Gotha ou d'Altenbourg et de Munich._](#6-----manuscrits-de-gotha-ou-daltenbourg-et-de-munich-1)
 
-### [7. --- _Comparaison du contenu du manuscrit de Saint-Marc, avec ceux du n° 2325 et du n° 2327 de la Bibliothèque nationale de Paris._]()
+### [7. --- _Comparaison du contenu du manuscrit de Saint-Marc, avec ceux du n° 2325 et du n° 2327 de la Bibliothèque nationale de Paris._](#7-----comparaison-du-contenu-du-manuscrit-de-saint-marc-avec-ceux-du-n-2325-et-du-n-2327-de-la-bibliothèque-nationale-de-paris-1)
 
-### [8. --- _Hypothèses générales sur l'origine et la filiation des manuscrits alchimiques grecs._]()
+### [8. --- _Hypothèses générales sur l'origine et la filiation des manuscrits alchimiques grecs._](#8-----hypothèses-générales-sur-lorigine-et-la-filiation-des-manuscrits-alchimiques-grecs-1)
 
-### [9. --- _Sur le manuscrit grec 2419 de la Bibliothèque nationale de Paris._]()
+### [9. --- _Sur le manuscrit grec 2419 de la Bibliothèque nationale de Paris._](#9-----sur-le-manuscrit-grec-2419-de-la-bibliothèque-nationale-de-paris-1)
 
-### [10. --- _Manuscrits alchimiques de Leide._]()
+### [10. --- _Manuscrits alchimiques de Leide._](#10-----manuscrits-alchimiques-de-leide-1)
 
-### [11. --- _Manuscrits divers._]()
+### [11. --- _Manuscrits divers._](#11-----manuscrits-divers-1)
 
-### [12. --- _Manuscrit arabe d'Ostanès._]()
+### [12. --- _Manuscrit arabe d'Ostanès._](#12-----manuscrit-arabe-dostanès-1)
 
 ## [7. --- Sur quelques Métaux et Minéraux provenant de l'Antique Chaldée.](#7-----sur-quelques-métaux-et-minéraux-provenant-de-lantique-chaldée-1)
 
