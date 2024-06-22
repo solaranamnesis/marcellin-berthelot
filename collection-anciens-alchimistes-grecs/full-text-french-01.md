@@ -4569,10 +4569,12 @@ La lame d'argent est également pure, ou à peu près. Elle est légèrement noi
 
 La lame réputée de cuivre est profondément altérée et en partie exfoliée par l'oxydation. Elle pèse, dans son état présent, environ 952 gr. Ceci joint à la densité du métal, moindre que celle de l'or et de l'argent, suffit pour montrer que les dimensions en sont beaucoup plus considérables que celles des deux autres. La couleur en est rouge foncé, déterminée surtout par la présence du protoxyde de cuivre. Cependant ce n'est pas du cuivre pur, mais du bronze. En effet, un échantillon prélevé à la lime sur les bords renfermait, d'après l'analyse :
 
-Étain|10,04 ;  
-Cuivre|85,25 ;  
-Oxygène, etc.|4,71 ;  
-|100,00
+|               |           |
+|---------------|-----------|
+| Étain         | 10,04 ;   |
+| Cuivre        | 85,25 ;   |
+| Oxygène, etc. | 4,71 ;    |
+|               | 100,00    |
 
 Il n'y a ni plomb, ni zinc ou autre métal en quantité notable. La proportion de l'étain répond à celle d'un bronze jaune d'or ; mais la présence du protoxyde de cuivre a altéré la couleur. Cette composition se retrouve d'ailleurs dans un grand nombre de bronzes antiques. Je citerai seulement un miroir égyptien, datant du 17e ou du 18e siècle avant notre ère, et que j'ai analysé autrefois pour M. Mariette. Il renfermait 9 parties d'étain et 91 de cuivre.
 
