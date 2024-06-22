@@ -50,7 +50,7 @@
 
 ### [Lexique des Notations Alchimiques.](#lexique-des-notations-alchimiques-1)
 
-## [5. --- Figures d'Appareils et Autres Objets.](#5-----figures-dappareils-et-autres-objects-1)
+## [5. --- Figures d'Appareils et Autres Objets.](#5-----figures-dappareils-et-autres-objets-1)
 
 ### [Figures du manuscrit de Saint-Marc.](#figures-du-manuscrit-de-saint-marc-1)
 
