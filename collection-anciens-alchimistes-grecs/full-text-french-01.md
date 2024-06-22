@@ -2980,7 +2980,7 @@ Les figures symboliques mériteraient à cet égard une attention particulière,
 
 Mais ce côté du sujet est moins intéressant pour notre science chimique que la connaissance positive des appareils eux-mêmes. En ce qui touche ceux-ci, je ne veux pas sortir aujourd'hui de l'étude des alchimistes grecs. J'ai relevé tous les dessins qui se trouvent dans le manuscrit de Saint-Marc (11e siècle), dans le manuscrit 2325 de la Bibliothèque nationale (13e siècle), et dans le manuscrit 2327 (15e siècle), ainsi que dans les manuscrits 2249, 2250 à 2252, 2275, 2329, enfin dans les deux manuscrits alchimiques grecs de Leide et dans le manuscrit grec principal du Vatican. J'ai fait exécuter des photogravures de ceux de Paris et de celui de Venise, afin d'éviter toute incertitude d'interprétation. Ce sont ces figures qui vont être transcrites ici : on y renverra dans l'occasion, lors de l'impression des textes correspondants.
 
-**Figures du manuscrit de Saint-Marc.**
+### Figures du manuscrit de Saint-Marc.
 
 Je donnerai d'abord les figures les plus anciennes, celles du manuscrit de Saint-Marc, savoir :
 
@@ -3028,7 +3028,7 @@ Le manuscrit 2327, en effet, a été écrit en 1478, quatre ou cinq siècles apr
 
 Le manuscrit 2325 (13e siècle) reproduit au contraire les formes des appareils du manuscrit de Saint-Marc, quoique avec des variantes importantes.
 
-**Figures du manuscrit 2327.**
+### Figures du manuscrit 2327.
 
 Dans le manuscrit 2327, on trouve, outre la figure 13 déjà présentée, deux grandes figures du serpent Ouroboros, variantes développées de celle de la Chrysopée de Cléopâtre. Il suffira d'en donner une seule : c'est la figure 34.
 
@@ -3060,7 +3060,7 @@ La figure est une simple fiole (2327).
 
 La figure 45, un alambic avec appendice à 6 pointes (2327).
 
-**Figures du manuscrit 2325.**
+### Figures du manuscrit 2325.
 
 Enumérons spécialement les figures du manuscrit 2325, figures dont plusieurs viennent d'être transcrites. On y trouve :
 
@@ -3382,7 +3382,7 @@ Le relieur du manuscrit, au 16e siècle, a coupé une partie de la branche gauch
 
 Telles sont les figures fournies par le manuscrit de Saint-Marc et les dessins congénères de ces figures, reconnus dans les autres manuscrits.
 
-**Figures du manuscrit 2327.**
+### Figures du manuscrit 2327.
 
 Étudions maintenant les figures propres du manuscrit 2327, en commençant par les figures mystiques.
 
@@ -3475,7 +3475,7 @@ _Figure 43._ --- Cette figure (manuscrit 2327, fol. 184 verso), malheureusement 
 
 [Figure 43. --- Alambic avec six appendices. Décalque.]()
 
-**Figures du manuscrit 2325.**
+### Figures du manuscrit 2325.
 
 Les figures du manuscrit 2325 sont très intéressantes parce qu'elles répondent à une époque intermédiaire (13e siècle) entre celui de Saint-Marc et le n° 2327 de Paris. Elles sont en général conformes à celles du manuscrit de Saint-Marc, bien que le manuscrit 2325 n'en dérive certainement pas directement, comme je le montrerai. Il résulte de cette double circonstance que la date des dessins du 2325 est antérieure à la copie actuelle du manuscrit de Saint-Marc, et même à la date de ses prototypes immédiats ; cependant ils doivent dériver tous les deux de quelque source commune et plus ancienne. Quant au détail, le nombre, la forme et la dimension des parties des appareils sont assez différents, pour quelques-uns du moins. Le manuscrit 2325 contient en plus l'alambic de Synésius, figure 41, et le dessin (fig. 33) mystique de la 3e leçon de Stéphanus. Par contre, les appareils à digestion y sont moins multipliés.
 
@@ -3491,7 +3491,7 @@ Enfin, au-dessous du σωλὴν et du χαλκίον, on voit un autre apparei
 
 On remarquera que les figures sont moins nombreuses dans le manuscrit 2325 que dans le manuscrit de Saint-Marc ; elles sont d'ailleurs concentrées en tête du mémoire de Zosime, dans le manuscrit 2325 aussi bien que dans le manuscrit 2327. Ce mode de distribution est évidemment plus moderne que celui du manuscrit de Saint-Marc.
 
-**Figures des  manuscrits de Leide.**
+### Figures des  manuscrits de Leide.
 
 L'histoire des appareils alchimiques tire une nouvelle lumière de l'examen des manuscrits alchimiques grecs de Leide. L'un d'eux (Codex Vossianus, in-4°, n° 47), fort mal écrit d'ailleurs, reproduit presque toutes les figures du manuscrit de Saint-Marc, entre autres :
 
@@ -3961,7 +3961,7 @@ J'aurais désiré la vider en examinant moi-même le manuscrit de l'Escurial. Ma
 
 M. de Loynes a eu l'obligeance de passer deux jours à l'Escurial pour faire cette vérification et cette recherche.
 
-Il a transcrit exactement les 17 premiers articles du catalogue grec placé en tête du manuscrit Ψ-Ι-13, catalogue qui se trouve exactement conforme à la vieille liste de Saint-Marc, tel que je l'ai reproduit ci-dessus (p. 174) : la traduction donnée par Miller est donc incorrecte. Puis il a relevé les neuf leçons et la lettre de Stéphanus, en en transcrivant le titre, la première ligne, la dernière ligne et en indiquant le nombre des folios de chacune d'elles : le tout concorde très exactement avec le texte du manuscrit de Saint-Marc, sauf quelques variantes d'orthographe sans importance. Les 10 premiers numéros étant ainsi reconnus identiques, M. de Loynes a vérifié que les huit numéros suivants de la vieille liste (nos **12** à **18** de la p. 174) manquent absolument dans le manuscrit de l'Escurial. La dernière ligne de la dernière leçon de Stéphanus s'y trouve suivie immédiatement par le poème d'Héliodore, lequel forme notre numéro **19** : le titre, le premier et le dernier vers ont été relevés.
+Il a transcrit exactement les 17 premiers articles du catalogue grec placé en tête du manuscrit Ψ-Ι-13, catalogue qui se trouve exactement conforme à la vieille liste de Saint-Marc, tel que je l'ai reproduit ci-dessus (p. 174) : la traduction donnée par Miller est donc incorrecte. Puis il a relevé les neuf leçons et la lettre de Stéphanus, en en transcrivant le titre, la première ligne, la dernière ligne et en indiquant le nombre des folios de chacune d'elles : le tout concorde très exactement avec le texte du manuscrit de Saint-Marc, sauf quelques variantes d'orthographe sans importance. Les 10 premiers numéros étant ainsi reconnus identiques, M. de Loynes a vérifié que les huit numéros suivants de la vieille liste (nos 12. à 18. de la p. 174) manquent absolument dans le manuscrit de l'Escurial. La dernière ligne de la dernière leçon de Stéphanus s'y trouve suivie immédiatement par le poème d'Héliodore, lequel forme notre numéro 19. : le titre, le premier et le dernier vers ont été relevés.
 
 Les traités disparus dans le manuscrit de Saint-Marc n'existent donc pas davantage dans le manuscrit de l'Escurial.
 
