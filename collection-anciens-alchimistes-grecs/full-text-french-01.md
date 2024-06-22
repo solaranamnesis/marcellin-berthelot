@@ -328,7 +328,7 @@ Peut-être ne sera-t-il pas superflu d'ajouter que les commentaires et explicati
 
 Paris, 25 Octobre 1887.
 
-# Introduction
+# Introduction.
 
 ## 1. --- Les Papyrus de Leide.
 
