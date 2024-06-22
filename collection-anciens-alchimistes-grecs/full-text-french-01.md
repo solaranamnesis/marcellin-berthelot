@@ -66,29 +66,29 @@
 
 ## [6. --- Renseignements et Notices sur quelques Manuscrits Alchimiques.](#6-----renseignements-et-notices-sur-quelques-manuscrits-alchimiques-1)
 
-### 1. --- [_Ancienne liste du manuscrit de Saint-Marc._]()
+### [1. --- _Ancienne liste du manuscrit de Saint-Marc._]()
 
-### 2. --- [_Sur les copies actuelles de la 9e Leçon de Stephanus._]()
+### [2. --- _Sur les copies actuelles de la 9e Leçon de Stephanus._]()
 
-### 3. --- [_Diverses lacunes et transpositions du manuscrit de Saint-Marc._]()
+### [3. --- _Diverses lacunes et transpositions du manuscrit de Saint-Marc._]()
 
-### 4. --- [_Manuscrits de l'Escurial._]()
+### [4. --- _Manuscrits de l'Escurial._]()
 
-### 5. --- [_Manuscrits alchimiques grecs du Vatican et des Bibliothèques de Rome._]()
+### [5. --- _Manuscrits alchimiques grecs du Vatican et des Bibliothèques de Rome._]()
 
-### 6. --- [_Manuscrits de Gotha ou d'Altenbourg et de Munich._]()
+### [6. --- _Manuscrits de Gotha ou d'Altenbourg et de Munich._]()
 
-### 7. --- [_Comparaison du contenu du manuscrit de Saint-Marc, avec ceux du n° 2325 et du n° 2327 de la Bibliothèque nationale de Paris._]()
+### [7. --- _Comparaison du contenu du manuscrit de Saint-Marc, avec ceux du n° 2325 et du n° 2327 de la Bibliothèque nationale de Paris._]()
 
-### 8. --- [_Hypothèses générales sur l'origine et la filiation des manuscrits alchimiques grecs._]()
+### [8. --- _Hypothèses générales sur l'origine et la filiation des manuscrits alchimiques grecs._]()
 
-### 9. --- [_Sur le manuscrit grec 2419 de la Bibliothèque nationale de Paris._]()
+### [9. --- _Sur le manuscrit grec 2419 de la Bibliothèque nationale de Paris._]()
 
-### 10. --- [_Manuscrits alchimiques de Leide._]()
+### [10. --- _Manuscrits alchimiques de Leide._]()
 
-### 11. --- [_Manuscrits divers._]()
+### [11. --- _Manuscrits divers._]()
 
-### 12. --- [_Manuscrit arabe d'Ostanès._]()
+### [12. --- _Manuscrit arabe d'Ostanès._]()
 
 ## [7. --- Sur quelques Métaux et Minéraux provenant de l'Antique Chaldée.](#7-----sur-quelques-métaux-et-minéraux-provenant-de-lantique-chaldée-1)
 
