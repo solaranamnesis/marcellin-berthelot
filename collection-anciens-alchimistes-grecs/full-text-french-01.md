@@ -9777,7 +9777,7 @@ Voici ce que les anciens disent sur l'œuf* :
 
 *) A ajoute après le bleu : le vermillon de Coptos, la terre de Pont.
 
-4\. Les parties liquides de l'œuf sont dites : les parties séparées, _l'ios et _l'ios_ du cuivre, l'eau verte de cuivre, l'eau du soufre natif, la liqueur de cuivre, la préparation de cuivre à apparence de miel, la vapeur sublimée, les corps réduits en esprits,* la semence universelle. (Ces parties liquides) reçoivent encore beaucoup d'autres dénominations.
+4\. Les parties liquides de l'œuf sont dites : les parties séparées, _l'ios_ et _l'ios_ du cuivre, l'eau verte de cuivre, l'eau du soufre natif, la liqueur de cuivre, la préparation de cuivre à apparence de miel, la vapeur sublimée, les corps réduits en esprits,* la semence universelle. (Ces parties liquides) reçoivent encore beaucoup d'autres dénominations.
 
 *) σῶμα exprime un métal régénéré de son oxyde ou de ses minerais ;--- on pourrait aussi lire : ἀσώματα πνεύματα les esprits séparés des métaux.
 
