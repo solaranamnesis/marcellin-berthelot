@@ -186,7 +186,7 @@
 
 #### [1. --- 12. (Serment) du Philosophe Pappus.](#1-----12-serment-du-philosophe-pappus-1)
 
-#### [1. --- 13. Isis à Horus.](#1-----13-isis-a-horus-1)
+#### [1. --- 13. Isis à Horus.](#1-----13-isis-à-horus-1)
 
 #### [1. --- 14. Les Mœurs du Philosophe.](#1-----14-les-mœurs-du-philosophe-1)
 
