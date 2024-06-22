@@ -9539,7 +9539,7 @@ L'indication de ce nom, qui se rapporte à un haut fonctionnaire de l'empire byz
 
 « **Ayant aigri fortement**. » --- C'est : « ayant passé au feu. »
 
-« **Ayant été torréfiée au soleil.  » --- Cela se fait en 6 jours.
+« **Ayant été torréfiée au soleil**.  » --- Cela se fait en 6 jours.
 
 **Limon de Vulcain**. --- C'est l'orge.*
 
