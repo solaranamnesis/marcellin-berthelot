@@ -5486,29 +5486,29 @@ _Spuma nitri_, ἀφρὸς νίτρου ou ἀφρόνιτρου. --- Se trouv
 
 *) Voir aussi ce volume, p. 210.
 
-                     |                                                                                        
----------------------|----------------------------------------------------------------------------------------
- ἀναζωπύρωσις        | Régénération par le feu ; coupellation.                                                
- ἀνάλυσις            | Dissolution, désagrégation.                                                            
- ἀποσείρωσις         | Décantation.                                                                           
- ἀχλύωσις            | Obscurcissement de la surface brillante d'un métal, par oxydation, sulfuration, etc.   
- ἐκστροφὴ, ἔκστρεψις | Extraction, transformation.                                                            
- ἐλαίωσις            | Graissage ; Transformation en huile.                                                   
- ἐξίωσις             | Réduction, affinage,                                                                   
- ἐξυδάτωσις          | Dessiccation ; opération par laquelle on dépouille un corps de sa liquidité.           
- ἐπιβολαί            | Projections.                                                                           
- ἕψησις              | Décoction.                                                                             
- ἴωσις               | Oxydation ; affinage ; coloration en violet (v. p. 255).                               
- καῦσις              | Grillage ; calcination.                                                                
- λείωσις             | Pulvérisation ; délaiement.                                                            
- λεύκωσις            | Blanchiment.                                                                           
- μελάνωσις           | Teinture en noir.                                                                      
- ὄπτησις             | Torréfaction.                                                                          
- ξάνθωσις            | Teinture en jaune.                                                                     
- πλύσις              | Lavage.                                                                                
- σῆψις               | Putréfaction, décomposition.                                                           
- ὕλη                 | Matière.                                                                               
- φύσις               | Nature, qualité intérieure.                                                            
+|                     |                                                                                        |
+|---------------------|----------------------------------------------------------------------------------------|
+| ἀναζωπύρωσις        | Régénération par le feu ; coupellation.                                                |
+| ἀνάλυσις            | Dissolution, désagrégation.                                                            |
+| ἀποσείρωσις         | Décantation.                                                                           |
+| ἀχλύωσις            | Obscurcissement de la surface brillante d'un métal, par oxydation, sulfuration, etc.   |
+| ἐκστροφὴ, ἔκστρεψις | Extraction, transformation.                                                            |
+| ἐλαίωσις            | Graissage ; Transformation en huile.                                                   |
+| ἐξίωσις             | Réduction, affinage,                                                                   |
+| ἐξυδάτωσις          | Dessiccation ; opération par laquelle on dépouille un corps de sa liquidité.           |
+| ἐπιβολαί            | Projections.                                                                           |
+| ἕψησις              | Décoction.                                                                             |
+| ἴωσις               | Oxydation ; affinage ; coloration en violet (v. p. 255).                               |
+| καῦσις              | Grillage ; calcination.                                                                |
+| λείωσις             | Pulvérisation ; délaiement.                                                            |
+| λεύκωσις            | Blanchiment.                                                                           |
+| μελάνωσις           | Teinture en noir.                                                                      |
+| ὄπτησις             | Torréfaction.                                                                          |
+| ξάνθωσις            | Teinture en jaune.                                                                     |
+| πλύσις              | Lavage.                                                                                |
+| σῆψις               | Putréfaction, décomposition.                                                           |
+| ὕλη                 | Matière.                                                                               |
+| φύσις               | Nature, qualité intérieure.                                                            |                                                     
 
 **Or**.
 
