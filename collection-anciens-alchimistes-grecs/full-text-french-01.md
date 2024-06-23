@@ -9845,7 +9845,7 @@ Le blanc d'œuf est l'eau divine ; le jaune d'œuf est la couperose ; la partie 
 
 #### 1. --- 5. Le Serpent Ouroboros.
 
-1\. Voici le mystère : Le serpent Ouroboros (mordant sa queue), c'est la composition qui dans son ensemble est dévorée et fondue, dissoute et transformée par la fermentation. Elle devient d'un vert foncé, et la couleur d'or en dérive. C'est d'elle que dérive le rouge appelé couleur de cinabre : c'est le cinabre des philosophes.*
+1\. Voici le mystère : Le serpent Ouroboros (mordant sa queue), c'est la composition qui dans son ensemble est dévorée et fondue, dissoute et transformée par la fermentation.* Elle devient d'un vert foncé, et la couleur d'or en dérive. C'est d'elle que dérive le rouge appelé couleur de cinabre : c'est le cinabre des philosophes.*
 
 *) Le mot σήψις est plus général, et signifie toute décomposition analogue à une fermentation, ou à une putréfaction.
 
