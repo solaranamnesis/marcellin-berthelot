@@ -9328,7 +9328,7 @@ L'indication de ce nom, qui se rapporte à un haut fonctionnaire de l'empire byz
 
 **Étain**. --- C'est le cinabre.
 
-**Eau de Calaïs**. --- C'est l'eau de chaux.
+**Eau de Calaïs**.* --- C'est l'eau de chaux.
 
 *) Ce mot se trouve appliqué au cuivre dans la _Diplosis_ de Moïse : il semble que ce soit un nom de lieu.
 
