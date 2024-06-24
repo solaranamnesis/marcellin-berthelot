@@ -3106,7 +3106,7 @@ Dans l'anneau extérieur : Ἓν τὸ πᾶν καὶ δι᾽ αὐτοῦ τ�
 
 A droite, le cercle extérieur se prolonge par une sorte de queue, qui montre que ce système est la figuration du serpent mystique.
 
-2° Puis viennent divers appendices et signes d'apparence magique, situés à droite, dont la signification est inconnue. Cependant je serais porté à rapprocher le double cercle incomplet, muni de huit appendices supérieurs, du signe de l'Ecrevisse à huit pattes antérieures, dessiné figure 28 ; lequel est traduit par les mots : molybdochalque (alliage de plomb et de cuivre) brûlé, et argyrochalque (alliage de cuivre et d'argent) brûlé. Ces signes seraient alors les symboles chimiques d'une opération de transmutation du plomb en argent, de même que ceux de la figure 28.
+2° Puis viennent divers appendices et signes d'apparence magique, situés à droite, dont la signification est inconnue. Cependant je serais porté à rapprocher le double cercle incomplet, muni de huit appendices supérieurs, du signe de l'Écrevisse à huit pattes antérieures, dessiné figure 28 ; lequel est traduit par les mots : molybdochalque (alliage de plomb et de cuivre) brûlé, et argyrochalque (alliage de cuivre et d'argent) brûlé. Ces signes seraient alors les symboles chimiques d'une opération de transmutation du plomb en argent, de même que ceux de la figure 28.
 
 Au-dessous des grands cercles sont des signes répondant à des opérations chimiques, exécutées dans certains appareils que je vais énumérer.
 
@@ -3831,7 +3831,7 @@ Signalons encore quelques additions faites, à diverses époques, sur des pages 
 
 *) Une partie de celles-ci sont palimpsestes, la vieille écriture ayant été grattée.
 
-13° Je signalerai encore les additions sur les scories et la formule de l'Ecrevisse, en écriture du 15e siècle, sur la première feuille de garde (v. p. 152).
+13° Je signalerai encore les additions sur les scories et la formule de l'Écrevisse, en écriture du 15e siècle, sur la première feuille de garde (v. p. 152).
 
 14° Une addition du 15e siècle, ayant pour titre : Διάγραμμα τῆς μεγάλης ἡλιουργίας, au folio 62 recto.
 
@@ -4173,7 +4173,7 @@ L'emploi de ces recettes était accompagné par certaines formules magiques.
 
 Le tout était transmis traditionnellement, comme secret de métier, depuis une époque fort reculée, avec le concours de signes hiéroglyphiques, destinés à servir de mémentos, plutôt qu'à exposer le détail des opérations.*
 
-*) Voir ce que j'ai dit sur la Chrysopée de Cléopâtre et sur la formule de l'Ecrevisse, pages 137 et 153 à 155.
+*) Voir ce que j'ai dit sur la Chrysopée de Cléopâtre et sur la formule de l'Écrevisse, pages 137 et 153 à 155.
 
 Ces signes étaient inscrits sur des stèles ; ils étaient anonymes, comme toute la science égyptienne d'alors. Il semble qu'il y avait aussi des textes écrits en démotique sur papyrus ; tels étaient le Livre du Sanctuaire, cité à plusieurs reprises, et le texte transcrit dans le papyrus V de Leide (p. 8 du présent ouvrage).
 
@@ -4257,7 +4257,7 @@ A droite :
 
 Le Taureau commande le cou.
 
-L'Ecrevisse ... la poitrine.
+L'Écrevisse ... la poitrine.
 
 La Vierge ... l'estomac et le ventre.
 
@@ -4313,7 +4313,7 @@ Au folio 265 verso : liste des plantes qui répondent aux 12 signes du Zodiaque,
 
 Au folio 271 verso et au folio 272 : préparations chimiques.
 
-Au folio 273 : mots magiques, analogues à ceux qui figurent dans Jamblique, dans les papyrus de Leide, au-dessus de la formule de l'Ecrevisse dans le manuscrit de Saint-Marc (p. 153), etc. ; sans qu'aucun m'ait paru identique, à première vue du moins.
+Au folio 273 : mots magiques, analogues à ceux qui figurent dans Jamblique, dans les papyrus de Leide, au-dessus de la formule de l'Écrevisse dans le manuscrit de Saint-Marc (p. 153), etc. ; sans qu'aucun m'ait paru identique, à première vue du moins.
 
 Au folio 274 : une page renfermant un grand nombre d'alphabets magiques, lesquels ne sont autres que des alphabets grecs altérés (v. p. 156), analogues à ceux du manuscrit de Saint-Marc. Dix-sept de ces alphabets figurent au recto, cinq au verso. La traduction existe à l'encre rouge, presque effacée, dans les intervalles des lignes.
 
@@ -4480,7 +4480,7 @@ Les articles qui suivent : sur les feux, le cuivre brûlé, la trempe du fer per
 
 La liste des signes (fol. 70 à 72) reproduisant nos figures 3, 4, 5, Pl. 1, 2, 3, est très significative ; car c'est celle des signes du manuscrit de Saint-Marc, modifiée par des interversions, dues évidemment au copiste qui a embrouillé l'ordre des colonnes. La liste finale des noms des philosophes est exactement la même.
 
-A la fin on lit (fol. 70) la formule de l'Ecrevisse (notre fig. 28), avec son explication et le texte qui l'accompagne, dans l'addition faite au début du manuscrit de Saint-Marc (v. p. 152 à 155). Ce dernier texte est terminé de même par les mots : « Ainsi a été accomplie, avec l'aide de Dieu, la pratique de Justinien. »
+A la fin on lit (fol. 70) la formule de l'Écrevisse (notre fig. 28), avec son explication et le texte qui l'accompagne, dans l'addition faite au début du manuscrit de Saint-Marc (v. p. 152 à 155). Ce dernier texte est terminé de même par les mots : « Ainsi a été accomplie, avec l'aide de Dieu, la pratique de Justinien. »
 
 Formule et texte sont précédés par un autre morceau sur l'œuf, attribué à Justinien et que je vais reproduire, comme formant avec la phrase précédente les seuls débris qui nous restent de ces traités alchimiques de Justinien, indiqués dans la vieille liste du manuscrit de Saint-Marc (p. 176). Il semble que c'était l'œuvre pseudonyme d'un commentateur, analogue à l'Anonyme et à Stephanus. En tout cas, l'existence de ce morceau prouve que le Voss. a dû puiser dans des sources perdues aujourd'hui. Cependant, sauf quelques petits fragments, on vient de voir que son contenu n'apporte rien d'essentiellement nouveau. Peut-être vaudra-t-il plus tard la peine d'être collationné avec le texte grec de la publication présente.
 
@@ -11689,7 +11689,7 @@ Ainsi aura été accomplie, Dieu aidant, la pratique de Justinien.
 
 ---
 
-Cette recette s'applique à la transformation d'un composé métallique noir, tel qu'un sulfure ou un résidu de fusion, en oxyde blanc (ou carbonate), par l'action lente de l'eau et de l'air. Quant au rapport entre cette recette, qui s'applique au lavage des scories, et la formule de l'Ecrevisse, il résulte de ce que l'oxyde ainsi obtenu servait à la préparation de l'alliage appelé molybdochalque (_Introd._, p. 153 ; voir aussi le présent volume, p. 101, texte et note 4).
+Cette recette s'applique à la transformation d'un composé métallique noir, tel qu'un sulfure ou un résidu de fusion, en oxyde blanc (ou carbonate), par l'action lente de l'eau et de l'air. Quant au rapport entre cette recette, qui s'applique au lavage des scories, et la formule de l'Écrevisse, il résulte de ce que l'oxyde ainsi obtenu servait à la préparation de l'alliage appelé molybdochalque (_Introd._, p. 153 ; voir aussi le présent volume, p. 101, texte et note 4).
 
 ##### Appendice 2.
 
