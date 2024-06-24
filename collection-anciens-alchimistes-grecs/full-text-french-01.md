@@ -1830,7 +1830,7 @@ L'un d'eux, dédié (fol. 32) par Pétosiris au roi Necepso,* se compose d'un ce
 
 Voici la photogravure de ce tableau :
 
-[Figure 1. --- Cercle de Pétosiris.]()
+[Figure 1. --- Cercle de Pétosiris.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-01.png)
 
 L'autre cercle de Pétosiris (fol. 156), dédié aussi au très honoré roi Necepso, porte extérieurement et en haut : _Levant_, au-dessus de la terre, entre les deux mots _grande vie, petite vie_ ; en bas : _Couchant_, au-dessous de la terre, entre les deux mots _grande mort, petite mort_ ; mots précisés par les inscriptions contenues entre les deux cercles concentriques :
 
@@ -1852,7 +1852,7 @@ Les nombres de 1 à 30 sont distribués suivant les huitièmes de circonférence
 
 Voici la photogravure de ce tableau :
 
-[Figure 2. --- Autre Cercle de Pétosiris.]()
+[Figure 2. --- Autre Cercle de Pétosiris.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-02.png)
 
 Quant aux bases et procédés de calcul, il est inutile de nous y arrêter.
 
@@ -2058,7 +2058,7 @@ Les planches 4, 5, 6, 7 et 8 sont la reproduction identique des fol. 16, 17 et 1
 
 La traduction répond ligne pour ligne, au texte placé vis-à-vis.
 
-[Figure 3. --- Planche 1.]()
+[Figure 3. --- Planche 1.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-03.png)
 
 ### Signes Alchimiques.
 
@@ -2136,7 +2136,7 @@ La suite forme le commencement du verso de la feuille 6 dans le manuscrit ; elle
 
 Le verso de la feuille 6 du manuscrit n'étant pas inséré en entier dans ce qui précède, on a ajouté et intercalé les signes qui suivent avec leur interprétation, dans la colonne de droite, sur la planche 2.
 
-[Figure 4. --- Planche 2.]()
+[Figure 4. --- Planche 2.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-04.png)
 
 **Première colonne, à gauche.**
 
@@ -2197,7 +2197,7 @@ La colonne gauche de la planche 2 renferme les signes du folio 7 recto du manusc
 | Ἄσβεστος              | Chaux vive --- 2e signe ancien.       |
 | Σίνωπις ποντική       | Rubrique du Pont --- 2e signe ancien. |
 
-[Figure 5. --- Planche 3.]()
+[Figure 5. --- Planche 3.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-05.png)
 
 **Folio 7 verso. --- Planche 3.**
 
@@ -2256,7 +2256,7 @@ _Noms des Philosophes de la Science et de l'Art divins._
 
 Cette dernière liste a un intérêt historique, plutôt que technique. Son commentaire se trouve dans l'ouvrage sur les _Origines de l'Alchimie_, cité plus haut, p. 128 et suivantes.
 
-[Figure 6. --- Planche 4.]()
+[Figure 6. --- Planche 4.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-06.png)
 
 ### Signes du Manuscrit 2327.
 
