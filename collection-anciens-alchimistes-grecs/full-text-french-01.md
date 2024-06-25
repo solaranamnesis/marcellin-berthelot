@@ -9902,7 +9902,11 @@ Le blanc d'œuf est l'eau divine ; le jaune d'œuf est la couperose ; la partie 
 
 *) Ces lettres sont prises en même temps pour leurs valeurs numériques dans le tableau : Ζ signifiant 7 ; Θ, 9 ; Κ est pris pour 11 (au lieu de 20). Le signe du nombre 35 dans le grec est également erroné.
 
-[]()
+|   |   |    |    |    |    |    |    |    |    |    |    |    |    |
+|---|---|----|----|----|----|----|----|----|----|----|----|----|----|
+| 1. | 6. | Z. | 10. | 13. | 14. | 18. | 20. | 22. | 24. | 25. | 28. | 30. | 32. |
+|   | 2. | 4.  | Θ. | 12. | 16. | 17.| 21. | 23. | 26. | 27. | 33. | 35. |    |
+|   |   |    | 3.  | 5.  | 8.  | 15. | 19. | K. | 29. | 31. | 34. |    |    |
 
 ---
 
