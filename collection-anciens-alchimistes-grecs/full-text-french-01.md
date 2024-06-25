@@ -3138,7 +3138,7 @@ Dans l'anneau intérieur, on lit : εἷς ἐστὶν ὁ ὄφις ὁ ἔχ�
 
 Au centre, de droite à gauche, on voit les signes de l'or, de l'argent, du mercure, du plomb. Au-dessus, le cinabre (ou l'œuf philosophique), qui se trouvait en dehors des cercles dans la figure du manuscrit de St-Marc (6°). Venons maintenant à la portion du dessin du manuscrit 2325 que j'ai reproduite dans la figure 12 :
 
-[Figure 12. --- Alambic de vase à fixation (Décalque du Ms. 2325.)](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-12.png)
+[Figure 12. --- Alambic de vase à fixation (Décalque du Ms. 2325).](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-12.png)
 
 A gauche des cercles, on voit l'image grossière d'un alambic à une pointe, avec condensateur supérieur et matras inférieur, le tout de la même forme générale que la portion 8° de la figure du manuscrit de St-Marc. A côté, deux appareils à _fixation_, à pointe tournée vers le haut, lesquels sont évidemment imités des portions 3° et 4° de la fig. 11. Il en est de même d'un dernier reste du petit cercle à 3 appendices ou trépied, coupé dans le manuscrit 2325 par le relieur, mais qui se retrouve intact dans le manuscrit 2275, lequel a toute cette figure.
 
