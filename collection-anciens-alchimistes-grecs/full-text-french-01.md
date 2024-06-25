@@ -3252,17 +3252,17 @@ Les produits sublimés sont récoltés dans deux condensateurs supérieurs, conc
 
 _Figure 23._ --- Cette figure, imitation de la précédente avec de légères variantes, est reproduite d'après le manuscrit 2325, folio 84 recto. Elle existe aussi dans le manuscrit 2275, folio 57 verso.
 
-[Figure 23. --- Bain-marie à kérotakis (Ms. 2325). D'après Décalque.]()
+[Figure 23. --- Bain-marie à kérotakis (Ms. 2325). D'après Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-23.png)
 
 _Figure 24._ --- Cette figure (manuscrit de Saint-Marc, fol. 196), est encore un appareil analogue aux précédents, sauf quelques variantes plus importantes.
 
-[Figure 24. --- Autre bain-marie. --- Réduction aux 2/3.]()
+[Figure 24. --- Autre bain-marie. --- Réduction aux 2/3.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-24.png)
 
 La palette porte deux coupes inférieures vers ses extrémités. Dans la coupe supérieure (φιάλη), on lit le mot βάθος (cavité).
 
 _Figure 24 bis._ --- Au-dessous, se trouve la kérotakis, ou palette triangulaire.
 
-[Figure 24 bis. --- Kérotakis. --- Réduction aux 2/3.]()
+[Figure 24 bis. --- Kérotakis. --- Réduction aux 2/3.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-24-bis.png)
 
 C'est une seconde forme de cet instrument, distincte de celles qui sont représentées figures 22 et 25.
 
@@ -3270,7 +3270,7 @@ _Figure 25._ --- Cette figure (manuscrit de Saint-Marc, fol. 112 en marge) repr�
 
 Ce dessin et les deux suivants se trouvent à la fin de l'article : Τοῦ χριστιανοῦ περὶ εὐσταθείας τοῦ χρυσοῦ, en marge ; ils sont d'une écriture postérieure au texte courant et presque effacée. Ils paraissent répondre à une description d'appareils, qui forme le dernier paragraphe de cet article.
 
-[Figure 25. --- Vase à kérotakis. --- Décalque. Les inscriptions sont reproduites ici en caractères actuels, mais avec l'orthographe du manuscrit. --- Réduction aux 2/3.]()
+[Figure 25. --- Vase à kérotakis. --- Décalque. Les inscriptions sont reproduites ici en caractères actuels, mais avec l'orthographe du manuscrit. --- Réduction aux 2/3.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-25.png)
 
 A côté de la figure 25 se trouve le mot κάμινος ; au-dessous on lit, en caractères du 16e siècle, une inscription devenue presque illisible, mais dont les lettres restées distinctes répondent sans nulle incertitude au texte suivant : καρκίνος δ᾽ ἐπὶ λευκώσεως · κεῖται δ᾽ ὁ λόγος ἔμπροσθεν c'est-à-dire « écrevisse pour le blanchiment ; l'explication se trouve au-dessus du texte précédent.* »
 
@@ -3288,11 +3288,11 @@ Remarquons que ce dessin ressemble aux figures 22, 23 et 24, sauf quelques varia
 
 _Figure 26._ --- Les deux condensateurs supérieurs des figures 25 et 27 sont dessinés à côté séparément, avec le mot λωπάς pour le plus grand, et un nom abrégé pour le plus petit, situé au-dessous. Ce mot semble être ιθμ᾽᾽ abréviation avec iotacisme, remplaçant ἠθμὸς, couvercle percé de trous.
 
-[Figure 26. --- Récipients supérieurs des figures 25 et 27. Décalque. --- Réduction aux 2/3. --- Caractères actuels.]()
+[Figure 26. --- Récipients supérieurs des figures 25 et 27. Décalque. --- Réduction aux 2/3. --- Caractères actuels.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-26.png)
 
 _Figure 27._ --- Dans ce dessin il n'y a pas de vase à digestion et l'action du foyer s'exerce directement. Le mot κυροτακίς est inscrit sur la portion verticale du dessin, au-dessus du feu ; mais il est probable que c'est faute de place pour l'inscrire sur la partie horizontale et supérieure. Cet appareil doit être rapproché des figures 20 et 21, c'est-à-dire des aludels, plutôt que des bains-marie des figures 22, 23, 24 et 25.
 
-[Figure 27. --- Autre vase à kérotakis. Décalque. --- Réduction aux 2/3. Les inscriptions sont reproduites en caractères actuels.]()
+[Figure 27. --- Autre vase à kérotakis. Décalque. --- Réduction aux 2/3. Les inscriptions sont reproduites en caractères actuels.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-27.png)
 
 Les appareils 25, 26 et 27 n'existaient pas sur le manuscrit initial de Saint-Marc ; ils ont été ajoutés plus tard, vers le 16e siècle, sans doute, d'après un autre manuscrit comparable au 2325 (13e siècle), mais qui n'existe plus.
 
@@ -3304,7 +3304,7 @@ _Figure 28._ --- Il s'agit d'abord de la formule de l'Écrevisse, ou du Scorpion
 
 *) Voir aussi manuscrits 2249, folio 100 --- 2325, folio 83 --- 2327, folio 80 et répétition au verso ; folio 220 verso. --- Leide, Voss., n° 47, fol. 70.
 
-[Figure 28. --- Formule de l'Écrevisse. --- Réduction aux 2/3.]()
+[Figure 28. --- Formule de l'Écrevisse. --- Réduction aux 2/3.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-28.png)
 
 La première page de Saint-Marc débute par la description du traitement des scories, lequel paraît se rapporter au changement d'une scorie noire et métallique, telle que celle du plomb, en un composé blanc (carbonate ou sulfate), sous l'influence prolongée de l'eau et de l'air. La description, écrite dans un grec barbare, se termine par ces mots : « Ainsi a été accomplie avec le secours de Dieu, la pratique de Justinien. » (_Texte grec_, 2, 4 _bis_, appendice 1). Puis viennent le nom de la tutie, ou oxyde de zinc impur, suivi par des mots magiques, analogues à ceux qui figurent dans les Papyrus de Leide, dans Jamblique et dans le manuscrit 2419.
 
@@ -3352,7 +3352,7 @@ Voici le moment de rappeler les signes magiques de la Chrysopée de Cléopâtre 
 
 _Figure 29._ --- Cette figure (manuscrit de Saint-Marc. fol. 193) reproduit deux alphabets magiques ou cryptographiques, à demi effacés, avec leur traduction (telle qu'elle est donnée dans le manuscrit). Au-dessus du premier se trouve le mot : ἑλινηκὰ, c'est-à-dire (lettres) _helléniques_, écrit avec l'alphabet correspondant. Au-dessus du second : ἱερογλυφικὰ, c'est-à-dire (lettres) _hiéroglyfiques_, écrit de même. A côté, en marge, le mot ἀλφάβητος, écrit avec les lettres du premier alphabet.
 
-[Figure 29. --- Alphabets magiques. --- Réduction à 1/2. --- D'après décalque.]()
+[Figure 29. --- Alphabets magiques. --- Réduction à 1/2. --- D'après décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-29.png)
 
 En réalité, aucun de ces alphabets n'a rien de commun avec les hiéroglyphes. Ce sont simplement deux alphabets cryptographiques, formés avec des lettres grecques plus ou moins défigurées, mais sans modification dans leur nombre ou leur valeur.
 
@@ -3362,7 +3362,7 @@ C'étaient là en réalité des jeux d'esprit individuels, plutôt que des alpha
 
 _Figure 30._ Cette figure (manuscrit de Saint-Marc, folio 102 verso) représente le Labyrinthe de Salomon, avec un commentaire envers le tout d'une encre et d'une denture plus modernes, probablement du 14e siècle.
 
-[Figure 30. --- Labyrinthe de Salomon. --- Réduction à 1/2.]()
+[Figure 30. --- Labyrinthe de Salomon. --- Réduction à 1/2.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-30.png)
 
 On donnera ailleurs (_Texte grec_, 1, 20) ce commentaire.
 
@@ -3370,13 +3370,13 @@ _Figure 31._ --- Cette figure (manuscrit de Saint-Marc, fol. 5) est un symbole c
 
 *) Le cercle droit d'en bas renferme dans le manuscrit quatre signes mal définis, dont un χ, lequel a disparu dans la figure actuelle, par suite d'un accident de gravure.
 
-[Figure 31. --- Symbole cordiforme. --- Décalque.]()
+[Figure 31. --- Symbole cordiforme. --- Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-31.png)
 
 _Figures 32 et 33._ --- C'est un dessin mystique, formé par l'assemblage de divers signes destinés à représenter une opération chimique ; on dirait une sorte d'équation chimique, analogue aux équations atomiques et renfermant comme les nôtres les symboles des corps intervenants. Elle se trouve au folio 47, verso, du manuscrit 2327, vers la fin de la troisième leçon de Stephanus, vis-à-vis des mots : οὗτος ἐστὶν ὁ ἐτήσιος ὁ πάρερμος ὁ πολύχρωμος. « C'est la pierre étésienne, le support polychrome (des teintures ? ). » Puis vient tout un développement mystique sur la pierre philosophale.
 
-[Figure 32. --- Dessin mystique (2327). Décalque.]()
+[Figure 32. --- Dessin mystique (2327). Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-32.png)
 
-[Figure 33. --- Dessin mystique (2325). Décalque.]()
+[Figure 33. --- Dessin mystique (2325). Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-33.png)
 
 Le relieur du manuscrit, au 16e siècle, a coupé une partie de la branche gauche du dessin. Mais il n'y avait là rien de particulier, comme le montre le manuscrit 2325 qui contient la manie figure (fol. 46, verso). On a reproduit cette dernière à côté (fig. 33).
 
@@ -3390,19 +3390,19 @@ _Figure 34._ --- Cette figure (manuscrit 2327, fol. 196) est celle du serpent Ou
 
 *) _Origines de l'Alchimie_, p. 59 et 256.
 
-[Figure 34. --- Serpent Ouroboros. --- D'après décalque.]()
+[Figure 34. --- Serpent Ouroboros. --- D'après décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-34.png)
 
 Au folio 279 du même manuscrit se trouve une seconde figure du serpent, avec un texte un peu différent : celui-ci n'a que deux anneaux ou cercles ; ses écailles sont mieux marquées.
 
 _Figure 35._ --- Cette figure (manuscrit 2327, fol. 297 verso) représente le signe d'Hermès, assez informe ; le folio a été remonté sur une bande blanche.
 
-[Figure 35. --- Signe d'Hermès. Décalque.]()
+[Figure 35. --- Signe d'Hermès. Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-35.png)
 
 _Figure 36._ --- Cette figure renferme quatre images géométriques, destinées à commenter le texte du folio 106 recto (manuscrit 2327). Elles existent aussi au manuscrit 2325 (fol. 111), au manuscrit 2275 (fol. 78 verso), etc.
 
 Les figures qui suivent concernent des appareils nouveaux, dont il convient de comparer soigneusement les formes avec celles des figures correspondantes du manuscrit de Saint-Marc.
 
-[Figure 36. --- Images géométriques. Décalque.]()
+[Figure 36. --- Images géométriques. Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-36.png)
 
 _Figure 37._ --- Cette figure (manuscrit 2327, folio 81 verso) contient deux alambics et deux vases à digestion.
 
@@ -3416,8 +3416,7 @@ Le chapiteau est surmonté du mot χαλκίον (vase de cuivre), et les trois
 
 On donnera tout à l'heure une figure similaire (fig. 38), d'après le manuscrit 2327 (fol. 221) ; laquelle n'est pas identique à la précédente et se rapproche de celle de Saint-Marc, plutôt que de nos alambics actuels.
 
-
-[Figure 37. --- Alambic et Vase à digestion.]()
+[Figure 37. --- Alambic et Vase à digestion.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-37.png)
 
 Par contre, la forme de l'alambic est devenue à peu près identique à celle de nos vieux instruments (en verre), dans la figure, unique d'ailleurs et mal faite, du manuscrit 2252, copié au 17e siècle. Dans ce manuscrit, au-dessous des trois cercles concentriques et au début des Mémoires authentiques (γνήσια ὑπομνήματα) de Zosime, on aperçoit un alambic (βύκος ὑέλινος) sur un foyer (καύστρα), et un récipient condensateur à col étroit, λοπὰς ἢ ἄγγος στενόστομον (_sic_). On voit qu'il y a de légères variantes dans les inscriptions.
 
@@ -3437,7 +3436,7 @@ Ajoutons qu'on lit au-dessous de l'ensemble de ces appareils la formule mystique
 
 _Figure 38._ --- Cette figure (manuscrit 2327, fol. 221 verso) reproduit le dessin de la figure 37, sauf variantes.
 
-[Figure 38. --- Alambic et Vase à digestion.]()
+[Figure 38. --- Alambic et Vase à digestion.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-38.png)
 
 1° Le dessin à gauche et en haut (_tribicos_) est à peu près le même.
 
@@ -3451,7 +3450,7 @@ _Figure 38._ --- Cette figure (manuscrit 2327, fol. 221 verso) reproduit le dess
 
 _Figure 39._ --- Cette figure (manuscrit 2327, fol. 289 verso), répétée deux fois, est un alambic à tubulure unique.
 
-[Figure 39. --- Petit alambic. Décalque.]()
+[Figure 39. --- Petit alambic. Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-39.png)
 
 _Figure 40._ --- Cette figure (manuscrit 2327, fol. 33 verso), fait partie de l'ouvrage de Synésius et répond exactement au texte de l'auteur : c'est l'une des plus intéressantes, en raison de la date de cet ouvrage (4e siècle). Elle représente un alambic, sur une marmite servant de bain-marie (λέβης), portée elle-même sur un trépied. Elle rappelle tout à fait la disposition de nos appareils modernes.
 
@@ -3459,21 +3458,21 @@ A côté se trouvent les mots caractéristiques : συναρμόζεται τ�
 
 La figure manque d'ailleurs dans le manuscrit de Saint-Marc, quoique le texte soit le même ; mais elle existe dans le manuscrit 2325 (13e siècle). Le manuscrit 2275 la reproduit (fol. 16).
 
-[Figure 40. --- Alambic de Synésius. Décalque.]()
+[Figure 40. --- Alambic de Synésius. Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-40.png)
 
 _Figure 41._ --- Elle reproduit le dessin fort élémentaire du même alambic, d'après le manuscrit 2325.
 
 Tout ceci est fort important pour l'histoire de la distillation. A l'origine, on distilla le mercure, en le condensant simplement dans un chapitre au posé sur un pot (Dioscoride, Pline). Ce n'est que plus tard que l'on adapta une gorge à la partie inférieure, pour empêcher les liquides condensés de retomber dans le pot ; puis cette gorge fut pourvue d'une tubulure, destinée à conduire au dehors le liquide condensé. On voit par le texte et par la figure conforme de Synésius que ces progrès étaient réalisés dès la fin du 4e siècle de notre ère. Rappelons que Synésius, dans une lettre à Hypatie, publiée parmi ses œuvres connues, a décrit aussi l'aréomètre, œuvre d'une science déjà avancée.
 
-[Figure 41. --- Alambic de Synésius. (Ms. 2325.) Décalque.]()
+[Figure 41. --- Alambic de Synésius. (Ms. 2325.) Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-41.png)
 
 _Figure 42._ --- Cette figure (manuscrit 2327, fol. 112 verso), répétée deux fois, est une simple fiole.
 
-[Figure 42. --- Fiole. Décalque.]()
+[Figure 42. --- Fiole. Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-42.png)
 
 _Figure 43._ --- Cette figure (manuscrit 2327, fol. 184 verso), malheureusement coupée par le relieur, se trouve vers la fin du poème de Théophraste. On y discerne un alambic, mais avec un appendice supérieur, fort singulier dont la position rappelle la κηροτακίς. Il est muni de six lignes verticales, répondant au texte suivant : φέροντας τὰς ἕξ ζώνας ὡς τίγμα (_sic_) φάγαι. « Portant six ceintures (enveloppes) pour absorber la matière fondue. »
 
-[Figure 43. --- Alambic avec six appendices. Décalque.]()
+[Figure 43. --- Alambic avec six appendices. Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-43.png)
 
 ### Figures du manuscrit 2325.
 
@@ -3561,7 +3560,7 @@ On y voit :
 
 _Figure 44._ ---Vase à digestion.
 
-[Figure 44. --- Vase à digestion. --- D'après un dessin.]()
+[Figure 44. --- Vase à digestion. --- D'après un dessin.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-44.png)
 
 La figure de droite reproduit l'appareil à digestion des figures 37 et 38, placé de même sous une enveloppe générale en forme de cloche. Pour plus de précision, je remarquerai que mon dessinateur a raccourci les petites oreilles, situées à droite et à gauche de la lettre β. Dans le manuscrit, ces oreilles s'étendent jusqu'à l'enveloppe et la touchent, de façon à marquer la division de cette enveloppe en deux portions superposées, telles qu'elles sont dessinées en effet dans les figures 37 et 38. Cette enveloppe générale semble avoir été symbolisée par la dénomination de l'œuf philosophique. D'autre part, les trois portions intérieures de cet appareil à digestion sont dessinées à côté, séparées et superposées, de façon à en montrer nettement tout l'ajustement.
 
@@ -3581,7 +3580,7 @@ Mais la figure 44 nous permet d'aller plus loin et d'établir que ces appareils 
 
 Nous avons ici les trois segments à digestion des alchimistes grecs ; avec cette différence pourtant que les deux segments inférieurs sont réunis en un seul morceau dans les dessins des aludels. Le couvercle s'ajustait à frottement doux sur la paroi de la région moyenne : et cela dans une portion considérable de sa hauteur. Les deux morceaux extrêmes sont terminés chacun par une couronne ou bague extérieure, l'une se superposant à l'autre, de façon à compléter la jonction. Tout ceci est décrit en détail dans l'ouvrage de Geber.
 
-[Figure 45. --- Aludel des Arabes.]()
+[Figure 45. --- Aludel des Arabes.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-45.png)
 
 Le couvercle offre deux formes différentes : l'une hémisphérique, l'autre conique. Ces aludels étaient en verre.
 
