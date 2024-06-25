@@ -2310,7 +2310,7 @@ Eaux marines --- eaux de pluie --- eau
 
 Jours --- nuits --- heures --- un jour et une nuit.
 
-[Figure 7. --- Planche 5.]()
+[Figure 7. --- Planche 5.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-07.png)
 
 **Planche 5, feuille 17 du manuscrit, recto.**
 
@@ -2366,7 +2366,7 @@ Antimoine --- fleuve --- vinaigre --- ferment ou septique ( ? ).
 
 Botarion (vase à digestion) --- fumier --- plante --- vapeur (céleste --- le signe est à la page suivante).
 
-[Figure 8. --- Planche 6.]()
+[Figure 8. --- Planche 6.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-08.png)
 
 **Planche 6, feuille 17 du manuscrit, verso.**
 
@@ -2424,7 +2424,7 @@ Poivre --- arsenic --- pyrèthre --- Aromate ?
 
 Pulvérisez.
 
-[Figure 9. --- Planche 7.]()
+[Figure 9. --- Planche 7.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-09.png)
 
 **Planche 7, folio 18 du manuscrit, recto.**
 
@@ -2482,7 +2482,7 @@ Air --- fruit--- tapis, couche --- chaux.
 
 Sucre --- farine --- ricin --- manne (le signe est à la page suivante).
 
-[Figure 10. --- Planche 8.]()
+[Figure 10. --- Planche 8.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-10.png)
 
 **Planche 8, folio du manuscrit, verso.**
 
@@ -3090,7 +3090,7 @@ Je vais transcrire maintenant ces figures, en accompagnant chacune d'elles de co
 
 _Figure 11._ --- Elle est reproduite en photogravure, d'après le manuscrit de Saint-Marc (fol. 188, verso), avec une réduction d'un cinquième environ. Elle porte le titre de _Chrysopée de Cléopâtre_, Κλεοπάτρης Χρυσοποιία.
 
-[Figure 11. --- Chrysopée de Cléopâtre.]()
+[Figure 11. --- Chrysopée de Cléopâtre.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-11.png)
 
 Commentons les diverses portions de cette grande figure :
 
@@ -3138,7 +3138,7 @@ Dans l'anneau intérieur, on lit : εἷς ἐστὶν ὁ ὄφις ὁ ἔχ�
 
 Au centre, de droite à gauche, on voit les signes de l'or, de l'argent, du mercure, du plomb. Au-dessus, le cinabre (ou l'œuf philosophique), qui se trouvait en dehors des cercles dans la figure du manuscrit de St-Marc (6°). Venons maintenant à la portion du dessin du manuscrit 2325 que j'ai reproduite dans la figure 12 :
 
-[Figure 12. --- Alambic de vase à fixation (Décalque du Ms. 2325.)]()
+[Figure 12. --- Alambic de vase à fixation (Décalque du Ms. 2325.)](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-12.png)
 
 A gauche des cercles, on voit l'image grossière d'un alambic à une pointe, avec condensateur supérieur et matras inférieur, le tout de la même forme générale que la portion 8° de la figure du manuscrit de St-Marc. A côté, deux appareils à _fixation_, à pointe tournée vers le haut, lesquels sont évidemment imités des portions 3° et 4° de la fig. 11. Il en est de même d'un dernier reste du petit cercle à 3 appendices ou trépied, coupé dans le manuscrit 2325 par le relieur, mais qui se retrouve intact dans le manuscrit 2275, lequel a toute cette figure.
 
@@ -3152,7 +3152,7 @@ Au verso du fol. 80 (2327) existent les dessins de l'alambic à une pointe, avec
 
 Il y a des inscriptions sur les divers appareils du folio 80, telles que πῆξις sur l'appareil à fixation ; (καμ) ήνιον, sur son fourneau et sur celui de l'alambic ; λωπάς, sur le matras de ce dernier ; (φι) άλη, deux fois répétés, sur son chapiteau.
 
-[Figure 13. --- Cercle concentrique, Alambic et Vase à fixation (Ms. 2327).]()
+[Figure 13. --- Cercle concentrique, Alambic et Vase à fixation (Ms. 2327).](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-13.png)
 
 La forme même des appareils dans les manuscrits 2325 et 2327 offres des variantes intéressantes pour l'histoire de la Science et sur lesquelles je reviendrai bientôt ; mais ici je veux seulement montrer la filiation des figures. En tout cas, la copie 2325 répond à une tradition postérieure à celle du prototype de Saint-Marc, puisque le nom de la Chrysopée de Cléopâtre a disparu.
 
@@ -3166,7 +3166,7 @@ _Figures 14 et 14 bis._ --- Ce sont celles d'un alambic à deux pointes. Elles s
 
 Le matras inférieur s'appelle toujours λωπάς, avec addition des mots θείου ἀπύρου, matras du soufre apyre. Ces deux mots manquent dans la figure 11 ; à moins qu'ils n'y soient représentés par deux signes inconnus, située au-dessous de λωπάς. En tout cas, ils concordent avec la description du texte, dans lequel il est dit que l'on mettait du soufre dans le matras.
 
-[Figures 14 et 14 bis. --- Alambic à deux récipients (_dibicos_). Réduction aux 2/3.]()
+[Figures 14 et 14 bis. --- Alambic à deux récipients (_dibicos_). Réduction aux 2/3.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-14.png)
 
 Le tube ascendant porte les mots σωλὴν ὀστράκινος : tube de terre cuite. Le chapiteau ne s'appelle pas φιάλη, mais βῆκος, pour βίκος : amphore.
 
@@ -3180,25 +3180,25 @@ _Figure 15 (manuscrit de Saint-Marc, fol. 194, verso)._ --- Cette figure est un 
 
 Enfin on distingue le tube ascendant, ou tube index, λιχανὸς σωλήν, c'est-à-dire tube direct du tube, descendant ou tube du pouce, ἀντίχειρος σωλήν, c'est-à-dire tube inverse (par sa direction).
  
-[Figure 15. --- Alambic à trois récipients (_tribicos_). Réduction aux 2/3.]()
+[Figure 15. --- Alambic à trois récipients (_tribicos_). Réduction aux 2/3.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-15.png)
 
 Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec modifications considérables : je les signalerai tout à l'heure.
 
 _Figure 16._ --- Cette figure (manuscrit de Saint-Marc, fol. 194 verso, au-dessous de la précédente), est un alambic à col de cuivre, χαλκίον, avec un seul tube, σωλήν, gros et fort, coudé à angle droit à sa partie supérieure et conduisant la vapeur, de la λωπάς au petit ballon.
 
-[Figure 16. --- Appareil distillatoire. Réduction aux 2/3.]()
+[Figure 16. --- Appareil distillatoire. Réduction aux 2/3.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-16.png)
 
 _Figure 17._ --- Les deux figures précédentes sont reproduites dans la même forme générale par le manuscrit 2325 (fol. 84), sauf quelques variantes ; je donne seulement le tribicos. Il existe aussi dans le manuscrit 2275 (fol. 57 verso). Les mêmes figures sont dessinées dans le manuscrit 2327 ; mais la forme en a été profondément modifiée et s'est rapprochée de celle des alambics de verre du siècle dernier, que l'on emploie encore quelquefois aujourd'hui. Je transcrirai ces reproductions un peu plus loin (fig. 37 et 38).
 
-[Figure 17. --- Tribicos. (Ms. 2325) Décalque.]()
+[Figure 17. --- Tribicos. (Ms. 2325) Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-17.png)
 
 _Figure 18._ --- Elle se trouve au folio 10 du manuscrit de Saint-Marc, entre la première et la deuxième leçon de Stephanus ; elle est dessinée à l'encre rouge et contemporaine du texte. La signification en est difficile à préciser avec certitude. Cependant il semble qu'il s'agisse d'une chaudière à tête élargie en forme de chapiteau, et destinée à distiller des liquides qui tombent dans un bassin hémisphérique appelé πόντος : la mer. Ce bassin est porté sur une sorte de fourneau, bain de sable, ou bain-marie. A côté se trouve un instrument inconnu ; à moins qu'il ne s'agisse d'une forme un peu différente de bain de sable. Le texte même de Stephanus, soit à la fin de la première leçon, laquelle est purement déclamatoire et enthousiaste, soit au début de la deuxième leçon, lequel est relatif aux propriétés mystiques de l'Unité numérique ; ce texte, dis-je, ne m'a paru fournir aucune lumière pour l'intelligence de cette figure.
 
-[Figure 18. --- Chaudière distillatoire.]()
+[Figure 18. --- Chaudière distillatoire.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-18.png)
 
 _Figure 19._ --- Cette figure (manuscrit de Saint-Marc, fol. 106 verso), est une ébauche à l'encre rouge, d'une écriture plus moderne ; elle est en marge d'un article sur l'œuf philosophique, à côté des mots : τὸ δὲ (ici un mot gratté, ὠοῦ ? ) τούτο ὠμὸν λέγουσιν. Il semble que ce soit le chapiteau d'un alambic. On donne cette figure pour ne rien omettre.
 
-[Figure 19. --- Ébauche d'alambic. Décalque.]()
+[Figure 19. --- Ébauche d'alambic. Décalque.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-19.png)
 
 Les alambics et appareils distillatoires, que nous venons d'étudier, se rattachent à la tradition de la Chrysopée de Cléopâtre, laquelle en contient les plus vieilles figures. Mais il est un autre ordre d'appareils, destinés ceux-ci au traitement des métaux par le mercure, le soufre, les sulfures d'arsenic ; appareils qui avaient été décrits spécialement par une autre femme, Marie l'Alchimiste, de préférence aux appareils distillatoires (manuscrit de Saint-Marc, fol. 186, avant-dernière ligne). Ce sont les appareils à _kérotakis_, c'est-à-dire à palette, avec leurs fourneaux. Ces appareils n'existent pas dans la Chrysopée et semblent plus modernes ; ils ont joué un rôle fort important dans le développement historique des pratiques alchimiques. Le passage rappelé plus haut montre que le traité de Zosime sur les instruments et fourneaux, dont nous possédons des débris, embrassait, ainsi qu'il arrive d'ordinaire dans les matières techniques, les traités antérieurs sur la même question, tels que ceux de Cléopâtre sur les alambics (v. p. 137) et ceux de Marie sur les appareils à kérotakis et leurs fourneaux.
 
@@ -3206,7 +3206,7 @@ Voici les, figures de ces derniers :
 
 _Figures 20 et 21._ --- Ces figures (manuscrit de Saint-Marc, folio 196 verso), représentent des vases à digestion cylindrique, en terre cuite (ἄγγος ὀστράκινον, vase de terre), placés sur le feu (φῶτα).
 
-[Figures 20 et 21. --- Vases à digestion cylindriques. --- Réduction aux 2/3.]()
+[Figures 20 et 21. --- Vases à digestion cylindriques. --- Réduction aux 2/3.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-20-21.png)
 
 Au-dessus du vase était posée une lame ou feuille métallique, κηροτακὶς, sur laquelle on faisait fondre matières fusibles. La forme en était tantôt en parallélogramme et aplatie (fig. 22), avec les extrémités arrondies ; tantôt triangulaire (fig. 24 _bis_). La κηροτακίς paraît n'être autre que la palette des peintres anciens,* qui y faisaient le mélange des couleurs, entr'elles et avec la cire ; ils maintenaient la palette à une douce chaleur, afin d'opérer le mélange, et aussi au moment de s'en servir.
 
@@ -3240,7 +3240,7 @@ _Figure 22._ --- Cette figure (manuscrit de Saint-Marc, fol. 195 verso) est auss
 
 *) _Origines de l'Alchimie_, p. 171.
 
-[Figure 22. --- Bain-marie à kérotakis. --- Réduit aux 2/3.]()
+[Figure 22. --- Bain-marie à kérotakis. --- Réduit aux 2/3.](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/fig-22.png)
 
 Le digesteur dessiné sur cette même figure 22 est long d'une palme, comme l'indiquent les mots παλαιστιαῖον καμίνιον. Il semble criblé de trous ; à moins qu'il ne s'agisse d'une ornementation superficielle. C'était là d'abord un bain de cendres, ou un bain de sable. Dans l'une des formules de dorure du Papyrus X de Leide, il est question aussi de l'emploi des cendres (formule 57, ce volume, p. 40).
 
