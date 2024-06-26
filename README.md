@@ -12,7 +12,7 @@ English - PDF
 ## Collection des Anciens Alchimistes Grecs. Première Livraison.
 
 [French - Plain Text](collection-anciens-alchimistes-grecs/full-text-french-01.md)  
-French - PDF | Biolinum | Atkinson | Cursive | Aurical  
+[French - PDF](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs.pdf) | [Biolinum](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-atkinson.pdf) | [Cursive](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-frcursive.pdf) | Aurical | [CustomPurplePaper](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp.pdf)  
 English - Plain Text  
 English - PDF  
 
