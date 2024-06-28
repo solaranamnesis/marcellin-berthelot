@@ -57,16 +57,16 @@
 % change color of text, example replace all \color{Goldenrod} with \color{lightgray}
 
 \makeatletter % change only the display of \thepage, but not \thepage itself:
-\patchcmd{\ps@plain}{\thepage}{\bfseries\large\color{Goldenrod}{\thepage}}{}{}
+\patchcmd{\ps@plain}{\thepage}{\bfseries\large\color{ZincWhite}{\thepage}}{}{}
 \makeatother
 
 \color{Goldenrod}
 
 \begin{document}
-\renewcommand{\thefigure}{\color{ZincWhite}\large{\arabic{figure}}}
-\renewcommand\thefootnote{\tiny{\color{ZincWhite}\arabic{footnote}}}
+\renewcommand{\thefigure}{{\color{ZincWhite}\bfseries\arabic{figure}}}
+\renewcommand{\thefootnote}{{\color{ZincWhite}\bfseries\tiny\arabic{footnote}}}
 \let\oldfootnote\footnote
-    \renewcommand{\footnote}[1]{\oldfootnote{\color{ZincWhite}\small#1}}
+    \renewcommand{\footnote}[1]{\oldfootnote{\color{ZincWhite}\bfseries\small#1}}
     
 \bfseries
 \pagestyle{plain} % after changing a pagestyle command, it's necessary to invoke it explicitly
@@ -167,10 +167,10 @@ Suivi de l'exposé des conditions et de l'ordre adoptés dans cette publication.
 
 « Il s'agirait dès lors de publier chaque année un demi-volume renfermant 120 à 150 pages de textes grecs, avec traduction, tables, etc., ce qui ferait environ 300 à 350 pages en tout chaque année, 1400 à 1500 pages pour l'ensemble. La publication des figures des appareils, dessinées dans les manuscrits, et qui seraient reproduites par la photogravure avec la perfection et l'exactitude absolue des procédés modernes, augmenterait beaucoup l'intérêt de la publication. Telle que nous le comprenons, ce serait une \emph{édition princeps}, accompagnée d'un appareil développé de variantes d'après les principaux manuscrits, ainsi que de notes et commentaires appropriés. Dans l'espace de quatre à cinq ans, on pourrait venir à bout de cette œuvre, désirée depuis longtemps par les savants et qui ferait honneur à la nation qui l'exécuterait. »
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 Ce rapport a été adopté par la section du comité des travaux historiques et scientifiques, chargée spécialement des sciences mathématiques, physiques et météorologiques, dans sa séance du 12 novembre 1884. Le présent rapport a été lu de nouveau devant le comité central, le 17 décembre 1884, et adopté par ce comité, qui a chargé M. Berthelot de présenter le rapport et la proposition de publication au Ministre.
 
@@ -198,10 +198,10 @@ En général, nous n'avons pas cru devoir comprendre dans notre publication les 
 
 Le texte grec étant ainsi arrêté et défini, M. Ruelle en a fait une traduction littérale, sans se préoccuper des obscurités ou des passages en apparence incompréhensibles. M. Berthelot a repris cet essai de traduction ; avec l'aide de ses connaissances techniques, il a cherché à en tirer un sens régulier, en se conformant au texte grec, dont il a été ainsi conduit à faire à son tour une révision spéciale, il réclame toute l'indulgence du lecteur pour cette tentative d'interprétation, dans une matière rendue triplement difficile : par les obscurités du sujet, des notations et du langage technique, les explications des praticiens laissant toujours beaucoup de choses sous-entendues ; par le symbolisme mystique et le vague intentionnel des auteurs, sans parler de leurs erreurs scientifiques ; enfin par les fautes matérielles des copistes, qui souvent ne comprenaient rien aux signes et aux textes qu'ils transcrivaient. La langue même de cet ordre de traités était très incorrecte dès le début, comme le montrent les papyrus alchimiques de Leide, publiés par M. Leemans et dont M. Berthelot donne une traduction complète avec commentaires dans l'\textbf{Introduction}. En somme, on ne saurait envisager notre traduction des alchimistes grecs que comme un premier essai, qui sera assurément perfectionné par suite des études ultérieures, auxquelles il n'a d'autres prétentions et d'autre mérite que de fournir leur premier fondement.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 Les conditions de notre publication étant ainsi définies, exposons l'ordre que nous avons adopté. Elle se compose de trois parties, savoir :
 
@@ -1497,7 +1497,7 @@ Voici la photogravure de ce tableau :
 \begin{figure}[H]
 \centering
 \includegraphics[height=0.9\textheight,keepaspectratio]{figures/fig-01-zincwhite.png}
-\caption{\color{ZincWhite}Cercle de Pétosiris.}
+\caption{\bfseries\color{ZincWhite}Cercle de Pétosiris.}
 \end{figure}
 \end{landscape}
 \clearpage
@@ -1526,7 +1526,7 @@ Voici la photogravure de ce tableau :
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.95\textwidth,keepaspectratio]{figures/fig-02-zincwhite.png}
-\caption{\color{ZincWhite}Autre Cercle de Pétosiris.}
+\caption{\bfseries\color{ZincWhite}Autre Cercle de Pétosiris.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -1729,7 +1729,7 @@ La traduction répond ligne pour ligne, au texte placé vis-à-vis.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth,keepaspectratio]{figures/fig-03-zincwhite.png}
-\caption{\color{ZincWhite}Planche 1.}
+\caption{\bfseries\color{ZincWhite}Planche 1.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -1834,7 +1834,7 @@ Le verso de la feuille 6 du manuscrit n'étant pas inséré en entier dans ce qu
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth,keepaspectratio]{figures/fig-04-zincwhite.png}
-\caption{\color{ZincWhite}Planche 2.}
+\caption{\bfseries\color{ZincWhite}Planche 2.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -1914,7 +1914,7 @@ La colonne gauche de la planche 2 renferme les signes du folio 7 recto du manusc
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.85\textwidth,keepaspectratio]{figures/fig-05-zincwhite.png}
-\caption{\color{ZincWhite}Planche 3.}
+\caption{\bfseries\color{ZincWhite}Planche 3.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -1991,7 +1991,7 @@ Cette dernière liste a un intérêt historique, plutôt que technique. Son comm
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-06-zincwhite.png}
-\caption{\color{ZincWhite}Planche 4.}
+\caption{\bfseries\color{ZincWhite}Planche 4.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -2052,7 +2052,7 @@ Jours --- nuits --- heures --- un jour et une nuit.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth,keepaspectratio]{figures/fig-07-zincwhite.png}
-\caption{\color{ZincWhite}Planche 5.}
+\caption{\bfseries\color{ZincWhite}Planche 5.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -2116,7 +2116,7 @@ Botarion (vase à digestion) --- fumier --- plante --- vapeur (céleste --- le s
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-08-zincwhite.png}
-\caption{\color{ZincWhite}Planche 6.}
+\caption{\bfseries\color{ZincWhite}Planche 6.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -2180,7 +2180,7 @@ Pulvérisez.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-09-zincwhite.png}
-\caption{\color{ZincWhite}Planche 7.}
+\caption{\bfseries\color{ZincWhite}Planche 7.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -2244,7 +2244,7 @@ Sucre --- farine --- ricin --- manne (le signe est à la page suivante).
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-10-zincwhite.png}
-\caption{\color{ZincWhite}Planche 8.}
+\caption{\bfseries\color{ZincWhite}Planche 8.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -2304,10 +2304,10 @@ Quelques mots, en finissant, sur la date à laquelle remontent les signes que no
 
 Les signes de matière médicale sont plus modernes que ceux des métaux et des planètes. Je ne les ai pas trouvés, par exemple, dans les pages reproduites par Lambecius (\emph{Comm. de Biblioth. Cœs.}, Liv. 2, p. 135 et suivantes) et par Montfaucon (\emph{Paléographie grecque}, p. 202), d'après un manuscrit célèbre de Dioscoride, écrit vers la fin du 5\textsuperscript{e} siècle pour Juliana Anicia, fille d'Olybrius, l'un des derniers empereurs d'Occident.\footnote{Lambecius, p. 222 ; Montfaucon, p. 204. Le nom même de Juliana figure dans la liste du ms. de Saint-Marc, \emph{Pl. 3}, avant-dernière ligne, p. 110 du présent Volume.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 En raison de l'importance de ces signes, pour la lecture des manuscrits alchimiques et médicaux, j'ai cru utile de faire un petit lexique des mots contenus dans les tableaux précédents, avec indication de la planche et de la ligne correspondante : les mots ont été conservés, pour plus de sincérité, tels qu'ils existent dans le Manuscrit, sans en corriger les fautes et sans les ramener soit à leur forme régulière, soit au nominatif.
 \clearpage
@@ -3172,10 +3172,10 @@ Quant à l'appareil distillatoire de la figure 16, qui se trouve aussi dans le m
 
 Nous avons donné, toujours d'après le manuscrit 2325, un appareil à digestion, sphérique et à kérotakis (fig. 23) ; qui répond à la figure 22, tirée de Saint-Marc.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 Telle est l'énumération des figures différentes qui sont dessinées dans les manuscrits fondamentaux. J'ai cru devoir les reproduire toutes, afin de fournir un fondement solide à la double étude technique et historique des appareils et des opérations décrits dans les textes.
 
@@ -3187,7 +3187,7 @@ Je vais transcrire maintenant ces figures, en accompagnant chacune d'elles de co
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.95\textwidth,keepaspectratio]{figures/fig-11-zincwhite.png}
-\caption{\color{ZincWhite}Chrysopée de Cléopâtre.}
+\caption{\bfseries\color{ZincWhite}Chrysopée de Cléopâtre.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -3239,7 +3239,7 @@ Au centre, de droite à gauche, on voit les signes de l'or, de l'argent, du merc
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth,keepaspectratio]{figures/fig-12-zincwhite.png}
-\caption{\color{ZincWhite}Alambic de vase à fixation (Décalque du Ms. 2325).}
+\caption{\bfseries\color{ZincWhite}Alambic de vase à fixation (Décalque du Ms. 2325).}
 \end{figure}
 \paragraph{}
 A gauche des cercles, on voit l'image grossière d'un alambic à une pointe, avec condensateur supérieur et matras inférieur, le tout de la même forme générale que la portion 8° de la figure du manuscrit de St-Marc. A côté, deux appareils à \emph{fixation}, à pointe tournée vers le haut, lesquels sont évidemment imités des portions 3° et 4° de la fig. 11. Il en est de même d'un dernier reste du petit cercle à 3 appendices ou trépied, coupé dans le manuscrit 2325 par le relieur, mais qui se retrouve intact dans le manuscrit 2275, lequel a toute cette figure.
@@ -3257,7 +3257,7 @@ Il y a des inscriptions sur les divers appareils du folio 80, telles que πῆξ
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.65\textwidth,keepaspectratio]{figures/fig-13-zincwhite.png}
-\caption{\color{ZincWhite}Cercle concentrique, Alambic et Vase à fixation (Ms. 2327).}
+\caption{\bfseries\color{ZincWhite}Cercle concentrique, Alambic et Vase à fixation (Ms. 2327).}
 \end{figure}
 \paragraph{}
 La forme même des appareils dans les manuscrits 2325 et 2327 offres des variantes intéressantes pour l'histoire de la Science et sur lesquelles je reviendrai bientôt ; mais ici je veux seulement montrer la filiation des figures. En tout cas, la copie 2325 répond à une tradition postérieure à celle du prototype de Saint-Marc, puisque le nom de la Chrysopée de Cléopâtre a disparu.
@@ -3274,7 +3274,7 @@ Le matras inférieur s'appelle toujours λωπάς, avec addition des mots θε
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-14-zincwhite.png}
-\caption{\color{ZincWhite}Alambic à deux récipients (\emph{dibicos}). Réduction aux 2/3.}
+\caption{\bfseries\color{ZincWhite}Alambic à deux récipients (\emph{dibicos}). Réduction aux 2/3.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -3294,7 +3294,7 @@ Enfin on distingue le tube ascendant, ou tube index, λιχανὸς σωλήν
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-15-zincwhite.png}
-\caption{\color{ZincWhite}Alambic à trois récipients (\emph{tribicos}). Réduction aux 2/3.}
+\caption{\bfseries\color{ZincWhite}Alambic à trois récipients (\emph{tribicos}). Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec modifications considérables : je les signalerai tout à l'heure.
@@ -3304,7 +3304,7 @@ Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth,keepaspectratio]{figures/fig-16-zincwhite.png}
-\caption{\color{ZincWhite}Appareil distillatoire. Réduction aux 2/3.}
+\caption{\bfseries\color{ZincWhite}Appareil distillatoire. Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 \emph{Figure 17.} --- Les deux figures précédentes sont reproduites dans la même forme générale par le manuscrit 2325 (fol. 84), sauf quelques variantes ; je donne seulement le tribicos. Il existe aussi dans le manuscrit 2275 (fol. 57 verso). Les mêmes figures sont dessinées dans le manuscrit 2327 ; mais la forme en a été profondément modifiée et s'est rapprochée de celle des alambics de verre du siècle dernier, que l'on emploie encore quelquefois aujourd'hui. Je transcrirai ces reproductions un peu plus loin (fig. 37 et 38).
@@ -3312,7 +3312,7 @@ Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec
 \begin{figure}[H]
 \centering
 \includegraphics[height=0.25\textheight,keepaspectratio]{figures/fig-17-zincwhite.png}
-\caption{\color{ZincWhite}Tribicos. (Ms. 2325) Décalque.}
+\caption{\bfseries\color{ZincWhite}Tribicos. (Ms. 2325) Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 18.} --- Elle se trouve au folio 10 du manuscrit de Saint-Marc, entre la première et la deuxième leçon de Stephanus ; elle est dessinée à l'encre rouge et contemporaine du texte. La signification en est difficile à préciser avec certitude. Cependant il semble qu'il s'agisse d'une chaudière à tête élargie en forme de chapiteau, et destinée à distiller des liquides qui tombent dans un bassin hémisphérique appelé πόντος : la mer. Ce bassin est porté sur une sorte de fourneau, bain de sable, ou bain-marie. A côté se trouve un instrument inconnu ; à moins qu'il ne s'agisse d'une forme un peu différente de bain de sable. Le texte même de Stephanus, soit à la fin de la première leçon, laquelle est purement déclamatoire et enthousiaste, soit au début de la deuxième leçon, lequel est relatif aux propriétés mystiques de l'Unité numérique ; ce texte, dis-je, ne m'a paru fournir aucune lumière pour l'intelligence de cette figure.
@@ -3320,7 +3320,7 @@ Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-18-zincwhite.png}
-\caption{\color{ZincWhite}Chaudière distillatoire.}
+\caption{\bfseries\color{ZincWhite}Chaudière distillatoire.}
 \end{figure}
 \paragraph{}
 \emph{Figure 19.} --- Cette figure (manuscrit de Saint-Marc, fol. 106 verso), est une ébauche à l'encre rouge, d'une écriture plus moderne ; elle est en marge d'un article sur l'œuf philosophique, à côté des mots : τὸ δὲ (ici un mot gratté, ὠοῦ ? ) τούτο ὠμὸν λέγουσιν. Il semble que ce soit le chapiteau d'un alambic. On donne cette figure pour ne rien omettre.
@@ -3328,7 +3328,7 @@ Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.25\textwidth,keepaspectratio]{figures/fig-19-zincwhite.png}
-\caption{\color{ZincWhite}Ébauche d'alambic. Décalque.}
+\caption{\bfseries\color{ZincWhite}Ébauche d'alambic. Décalque.}
 \end{figure}
 \paragraph{}
 Les alambics et appareils distillatoires, que nous venons d'étudier, se rattachent à la tradition de la Chrysopée de Cléopâtre, laquelle en contient les plus vieilles figures. Mais il est un autre ordre d'appareils, destinés ceux-ci au traitement des métaux par le mercure, le soufre, les sulfures d'arsenic ; appareils qui avaient été décrits spécialement par une autre femme, Marie l'Alchimiste, de préférence aux appareils distillatoires (manuscrit de Saint-Marc, fol. 186, avant-dernière ligne). Ce sont les appareils à \emph{kérotakis}, c'est-à-dire à palette, avec leurs fourneaux. Ces appareils n'existent pas dans la Chrysopée et semblent plus modernes ; ils ont joué un rôle fort important dans le développement historique des pratiques alchimiques. Le passage rappelé plus haut montre que le traité de Zosime sur les instruments et fourneaux, dont nous possédons des débris, embrassait, ainsi qu'il arrive d'ordinaire dans les matières techniques, les traités antérieurs sur la même question, tels que ceux de Cléopâtre sur les alambics (v. p. 137) et ceux de Marie sur les appareils à kérotakis et leurs fourneaux.
@@ -3340,7 +3340,7 @@ Voici les, figures de ces derniers :
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.65\textwidth,keepaspectratio]{figures/fig-20-21-zincwhite.png}
-\caption{\color{ZincWhite}Vases à digestion cylindriques. --- Réduction aux 2/3.}
+\caption{\bfseries\color{ZincWhite}Vases à digestion cylindriques. --- Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 Au-dessus du vase était posée une lame ou feuille métallique, κηροτακὶς, sur laquelle on faisait fondre matières fusibles. La forme en était tantôt en parallélogramme et aplatie (fig. 22), avec les extrémités arrondies ; tantôt triangulaire (fig. 24 \emph{bis}). La κηροτακίς paraît n'être autre que la palette des peintres anciens,\footnote{Du Cange. \emph{Glossarium mediæ et infimæ græcitatis}.} qui y faisaient le mélange des couleurs, entr'elles et avec la cire ; ils maintenaient la palette à une douce chaleur, afin d'opérer le mélange, et aussi au moment de s'en servir.
@@ -3368,7 +3368,7 @@ Observons ici que les appareils cylindriques pourvus de la kérotakis n'ont ét�
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-22-zincwhite.png}
-\caption{\color{ZincWhite}Bain-marie à kérotakis. --- Réduit aux 2/3.}
+\caption{\bfseries\color{ZincWhite}Bain-marie à kérotakis. --- Réduit aux 2/3.}
 \end{figure}
 \paragraph{}
 Le digesteur dessiné sur cette même figure 22 est long d'une palme, comme l'indiquent les mots παλαιστιαῖον καμίνιον. Il semble criblé de trous ; à moins qu'il ne s'agisse d'une ornementation superficielle. C'était là d'abord un bain de cendres, ou un bain de sable. Dans l'une des formules de dorure du Papyrus X de Leide, il est question aussi de l'emploi des cendres (formule 57, ce volume, p. 40).
@@ -3384,7 +3384,7 @@ Les produits sublimés sont récoltés dans deux condensateurs supérieurs, conc
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth,keepaspectratio]{figures/fig-23-zincwhite.png}
-\caption{\color{ZincWhite}Bain-marie à kérotakis (Ms. 2325). D'après Décalque.}
+\caption{\bfseries\color{ZincWhite}Bain-marie à kérotakis (Ms. 2325). D'après Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 24.} --- Cette figure (manuscrit de Saint-Marc, fol. 196), est encore un appareil analogue aux précédents, sauf quelques variantes plus importantes.
@@ -3392,7 +3392,7 @@ Les produits sublimés sont récoltés dans deux condensateurs supérieurs, conc
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-24-zincwhite.png}
-\caption{\color{ZincWhite}Autre bain-marie. --- Réduction aux 2/3.}
+\caption{\bfseries\color{ZincWhite}Autre bain-marie. --- Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 La palette porte deux coupes inférieures vers ses extrémités. Dans la coupe supérieure (φιάλη), on lit le mot βάθος (cavité).
@@ -3402,7 +3402,7 @@ La palette porte deux coupes inférieures vers ses extrémités. Dans la coupe s
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-24-bis-zincwhite.png}
-\caption{\color{ZincWhite}Kérotakis. --- Réduction aux 2/3.}
+\caption{\bfseries\color{ZincWhite}Kérotakis. --- Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 C'est une seconde forme de cet instrument, distincte de celles qui sont représentées figures 22 et 25.
@@ -3414,7 +3414,7 @@ Ce dessin et les deux suivants se trouvent à la fin de l'article : Τοῦ χρ
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-25-zincwhite.png}
-\caption{\color{ZincWhite}Vase à kérotakis. --- Décalque. Les inscriptions sont reproduites ici en caractères actuels, mais avec l'orthographe du manuscrit. --- Réduction aux 2/3.}
+\caption{\bfseries\color{ZincWhite}Vase à kérotakis. --- Décalque. Les inscriptions sont reproduites ici en caractères actuels, mais avec l'orthographe du manuscrit. --- Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 A côté de la figure 25 se trouve le mot κάμινος ; au-dessous on lit, en caractères du 16\textsuperscript{e} siècle, une inscription devenue presque illisible, mais dont les lettres restées distinctes répondent sans nulle incertitude au texte suivant : καρκίνος δ᾽ ἐπὶ λευκώσεως · κεῖται δ᾽ ὁ λόγος ἔμπροσθεν c'est-à-dire « écrevisse pour le blanchiment ; l'explication se trouve au-dessus du texte précédent.\footnote{Voir plus loin la formule de voir l'Écrevisse. --- Sur le sens de ce mot appliqué à un appareil chimique, p. 145.} »
@@ -3434,7 +3434,7 @@ Remarquons que ce dessin ressemble aux figures 22, 23 et 24, sauf quelques varia
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.20\textwidth,keepaspectratio]{figures/fig-26-zincwhite.png}
-\caption{\color{ZincWhite}Récipients supérieurs des figures 25 et 27. Décalque. --- Réduction aux 2/3. --- Caractères actuels.}
+\caption{\bfseries\color{ZincWhite}Récipients supérieurs des figures 25 et 27. Décalque. --- Réduction aux 2/3. --- Caractères actuels.}
 \end{figure}
 \paragraph{}
 \emph{Figure 27.} --- Dans ce dessin il n'y a pas de vase à digestion et l'action du foyer s'exerce directement. Le mot κυροτακίς est inscrit sur la portion verticale du dessin, au-dessus du feu ; mais il est probable que c'est faute de place pour l'inscrire sur la partie horizontale et supérieure. Cet appareil doit être rapproché des figures 20 et 21, c'est-à-dire des aludels, plutôt que des bains-marie des figures 22, 23, 24 et 25.
@@ -3442,7 +3442,7 @@ Remarquons que ce dessin ressemble aux figures 22, 23 et 24, sauf quelques varia
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.20\textwidth,keepaspectratio]{figures/fig-27-zincwhite.png}
-\caption{\color{ZincWhite}Autre vase à kérotakis. Décalque. --- Réduction aux 2/3. Les inscriptions sont reproduites en caractères actuels.}
+\caption{\bfseries\color{ZincWhite}Autre vase à kérotakis. Décalque. --- Réduction aux 2/3. Les inscriptions sont reproduites en caractères actuels.}
 \end{figure}
 \paragraph{}
 Les appareils 25, 26 et 27 n'existaient pas sur le manuscrit initial de Saint-Marc ; ils ont été ajoutés plus tard, vers le 16\textsuperscript{e} siècle, sans doute, d'après un autre manuscrit comparable au 2325 (13\textsuperscript{e} siècle), mais qui n'existe plus.
@@ -3456,7 +3456,7 @@ Nous avons donné toutes les figures relatives aux appareils du manuscrit de Sai
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.95\textwidth,keepaspectratio]{figures/fig-28-zincwhite.png}
-\caption{\color{ZincWhite}Formule de l'Écrevisse. --- Réduction aux 2/3.}
+\caption{\bfseries\color{ZincWhite}Formule de l'Écrevisse. --- Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 La première page de Saint-Marc débute par la description du traitement des scories, lequel paraît se rapporter au changement d'une scorie noire et métallique, telle que celle du plomb, en un composé blanc (carbonate ou sulfate), sous l'influence prolongée de l'eau et de l'air. La description, écrite dans un grec barbare, se termine par ces mots : « Ainsi a été accomplie avec le secours de Dieu, la pratique de Justinien. » (\emph{Texte grec}, 2, 4 \emph{bis}, appendice 1). Puis viennent le nom de la tutie, ou oxyde de zinc impur, suivi par des mots magiques, analogues à ceux qui figurent dans les Papyrus de Leide, dans Jamblique et dans le manuscrit 2419.
@@ -3506,7 +3506,7 @@ Voici le moment de rappeler les signes magiques de la Chrysopée de Cléopâtre 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.9\textwidth,keepaspectratio]{figures/fig-29-zincwhite.png}
-\caption{\color{ZincWhite}Alphabets magiques. --- Réduction à 1/2. --- D'après décalque.}
+\caption{\bfseries\color{ZincWhite}Alphabets magiques. --- Réduction à 1/2. --- D'après décalque.}
 \end{figure}
 \paragraph{}
 En réalité, aucun de ces alphabets n'a rien de commun avec les hiéroglyphes. Ce sont simplement deux alphabets cryptographiques, formés avec des lettres grecques plus ou moins défigurées, mais sans modification dans leur nombre ou leur valeur.
@@ -3520,7 +3520,7 @@ C'étaient là en réalité des jeux d'esprit individuels, plutôt que des alpha
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth,keepaspectratio]{figures/fig-30-zincwhite.png}
-\caption{\color{ZincWhite}Labyrinthe de Salomon. --- Réduction à 1/2.}
+\caption{\bfseries\color{ZincWhite}Labyrinthe de Salomon. --- Réduction à 1/2.}
 \end{figure}
 \paragraph{}
 On donnera ailleurs (\emph{Texte grec}, 1, 20) ce commentaire.
@@ -3530,7 +3530,7 @@ On donnera ailleurs (\emph{Texte grec}, 1, 20) ce commentaire.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.4\textwidth,keepaspectratio]{figures/fig-31-zincwhite.png}
-\caption{\color{ZincWhite}Symbole cordiforme. --- Décalque.}
+\caption{\bfseries\color{ZincWhite}Symbole cordiforme. --- Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figures 32 et 33.} --- C'est un dessin mystique, formé par l'assemblage de divers signes destinés à représenter une opération chimique ; on dirait une sorte d'équation chimique, analogue aux équations atomiques et renfermant comme les nôtres les symboles des corps intervenants. Elle se trouve au folio 47, verso, du manuscrit 2327, vers la fin de la troisième leçon de Stephanus, vis-à-vis des mots : οὗτος ἐστὶν ὁ ἐτήσιος ὁ πάρερμος ὁ πολύχρωμος. « C'est la pierre étésienne, le support polychrome (des teintures ? ). » Puis vient tout un développement mystique sur la pierre philosophale.
@@ -3538,13 +3538,13 @@ On donnera ailleurs (\emph{Texte grec}, 1, 20) ce commentaire.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.2\textwidth,keepaspectratio]{figures/fig-32-zincwhite.png}
-\caption{\color{ZincWhite}Dessin mystique (2327). Décalque.}
+\caption{\bfseries\color{ZincWhite}Dessin mystique (2327). Décalque.}
 \end{figure}
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.2\textwidth,keepaspectratio]{figures/fig-33-zincwhite.png}
-\caption{\color{ZincWhite}Dessin mystique (2325). Décalque.}
+\caption{\bfseries\color{ZincWhite}Dessin mystique (2325). Décalque.}
 \end{figure}
 \paragraph{}
 Le relieur du manuscrit, au 16\textsuperscript{e} siècle, a coupé une partie de la branche gauche du dessin. Mais il n'y avait là rien de particulier, comme le montre le manuscrit 2325 qui contient la manie figure (fol. 46, verso). On a reproduit cette dernière à côté (fig. 33).
@@ -3560,7 +3560,7 @@ Telles sont les figures fournies par le manuscrit de Saint-Marc et les dessins c
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.85\textwidth,keepaspectratio]{figures/fig-34-zincwhite.png}
-\caption{\color{ZincWhite}Serpent Ouroboros. --- D'après décalque.}
+\caption{\bfseries\color{ZincWhite}Serpent Ouroboros. --- D'après décalque.}
 \end{figure}
 \paragraph{}
 Au folio 279 du même manuscrit se trouve une seconde figure du serpent, avec un texte un peu différent : celui-ci n'a que deux anneaux ou cercles ; ses écailles sont mieux marquées.
@@ -3570,7 +3570,7 @@ Au folio 279 du même manuscrit se trouve une seconde figure du serpent, avec un
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.2\textwidth,keepaspectratio]{figures/fig-35-zincwhite.png}
-\caption{\color{ZincWhite}Signe d'Hermès. Décalque.}
+\caption{\bfseries\color{ZincWhite}Signe d'Hermès. Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 36.} --- Cette figure renferme quatre images géométriques, destinées à commenter le texte du folio 106 recto (manuscrit 2327). Elles existent aussi au manuscrit 2325 (fol. 111), au manuscrit 2275 (fol. 78 verso), etc.
@@ -3580,7 +3580,7 @@ Les figures qui suivent concernent des appareils nouveaux, dont il convient de c
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-36-zincwhite.png}
-\caption{\color{ZincWhite}Images géométriques. Décalque.}
+\caption{\bfseries\color{ZincWhite}Images géométriques. Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 37.} --- Cette figure (manuscrit 2327, folio 81 verso) contient deux alambics et deux vases à digestion.
@@ -3600,7 +3600,7 @@ On donnera tout à l'heure une figure similaire (fig. 38), d'après le manuscrit
 \begin{figure}[H]
 \centering
 \includegraphics[height=0.8\textheight,keepaspectratio]{figures/fig-37-zincwhite.png}
-\caption{\color{ZincWhite}Alambic et Vase à digestion.}
+\caption{\bfseries\color{ZincWhite}Alambic et Vase à digestion.}
 \end{figure}
 \vspace*{\fill}
 \end{landscape}
@@ -3629,7 +3629,7 @@ Ajoutons qu'on lit au-dessous de l'ensemble de ces appareils la formule mystique
 \begin{figure}[H]
 \centering
 \includegraphics[height=0.8\textheight,keepaspectratio]{figures/fig-38-zincwhite.png}
-\caption{\color{ZincWhite}Alambic et Vase à digestion.}
+\caption{\bfseries\color{ZincWhite}Alambic et Vase à digestion.}
 \end{figure}
 \vspace*{\fill}
 \end{landscape}
@@ -3650,7 +3650,7 @@ Ajoutons qu'on lit au-dessous de l'ensemble de ces appareils la formule mystique
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-39-zincwhite.png}
-\caption{\color{ZincWhite}Petit alambic. Décalque.}
+\caption{\bfseries\color{ZincWhite}Petit alambic. Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 40.} --- Cette figure (manuscrit 2327, fol. 33 verso), fait partie de l'ouvrage de Synésius et répond exactement au texte de l'auteur : c'est l'une des plus intéressantes, en raison de la date de cet ouvrage (4\textsuperscript{e} siècle). Elle représente un alambic, sur une marmite servant de bain-marie (λέβης), portée elle-même sur un trépied. Elle rappelle tout à fait la disposition de nos appareils modernes.
@@ -3662,7 +3662,7 @@ La figure manque d'ailleurs dans le manuscrit de Saint-Marc, quoique le texte so
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-40-zincwhite.png}
-\caption{\color{ZincWhite}Alambic de Synésius. Décalque.}
+\caption{\bfseries\color{ZincWhite}Alambic de Synésius. Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 41.} --- Elle reproduit le dessin fort élémentaire du même alambic, d'après le manuscrit 2325.
@@ -3672,7 +3672,7 @@ Tout ceci est fort important pour l'histoire de la distillation. A l'origine, on
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-41-zincwhite.png}
-\caption{\color{ZincWhite}Alambic de Synésius. (Ms. 2325.) Décalque.}
+\caption{\bfseries\color{ZincWhite}Alambic de Synésius. (Ms. 2325.) Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 42.} --- Cette figure (manuscrit 2327, fol. 112 verso), répétée deux fois, est une simple fiole.
@@ -3680,7 +3680,7 @@ Tout ceci est fort important pour l'histoire de la distillation. A l'origine, on
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-42-zincwhite.png}
-\caption{\color{ZincWhite}Fiole. Décalque.}
+\caption{\bfseries\color{ZincWhite}Fiole. Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 43.} --- Cette figure (manuscrit 2327, fol. 184 verso), malheureusement coupée par le relieur, se trouve vers la fin du poème de Théophraste. On y discerne un alambic, mais avec un appendice supérieur, fort singulier dont la position rappelle la κηροτακίς. Il est muni de six lignes verticales, répondant au texte suivant : φέροντας τὰς ἕξ ζώνας ὡς τίγμα (\emph{sic}) φάγαι. « Portant six ceintures (enveloppes) pour absorber la matière fondue. »
@@ -3688,7 +3688,7 @@ Tout ceci est fort important pour l'histoire de la distillation. A l'origine, on
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-43-zincwhite.png}
-\caption{\color{ZincWhite}Alambic avec six appendices. Décalque.}
+\caption{\bfseries\color{ZincWhite}Alambic avec six appendices. Décalque.}
 \end{figure}
 \subsubsection{Figures du manuscrit 2325.}
 \paragraph{}
@@ -3779,7 +3779,7 @@ On y voit :
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.65\textwidth,keepaspectratio]{figures/fig-44-zincwhite.png}
-\caption{\color{ZincWhite}Vase à digestion. --- D'après un dessin.}
+\caption{\bfseries\color{ZincWhite}Vase à digestion. --- D'après un dessin.}
 \end{figure}
 \paragraph{}
 La figure de droite reproduit l'appareil à digestion des figures 37 et 38, placé de même sous une enveloppe générale en forme de cloche. Pour plus de précision, je remarquerai que mon dessinateur a raccourci les petites oreilles, situées à droite et à gauche de la lettre β. Dans le manuscrit, ces oreilles s'étendent jusqu'à l'enveloppe et la touchent, de façon à marquer la division de cette enveloppe en deux portions superposées, telles qu'elles sont dessinées en effet dans les figures 37 et 38. Cette enveloppe générale semble avoir été symbolisée par la dénomination de l'œuf philosophique. D'autre part, les trois portions intérieures de cet appareil à digestion sont dessinées à côté, séparées et superposées, de façon à en montrer nettement tout l'ajustement.
@@ -3803,7 +3803,7 @@ Nous avons ici les trois segments à digestion des alchimistes grecs ; avec cett
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-45-zincwhite.png}
-\caption{\color{ZincWhite}Aludel des Arabes.}
+\caption{\bfseries\color{ZincWhite}Aludel des Arabes.}
 \end{figure}
 \paragraph{}
 Le couvercle offre deux formes différentes : l'une hémisphérique, l'autre conique. Ces aludels étaient en verre.
@@ -6357,10 +6357,10 @@ $\star$Χάλκανθός ἐστιν ὁ κρόκος τοῦ ὠοῦ.\footnot
 
 5. Ὅτι πρῶτον ἐκάλεσαν τὸν κρόκον τοῦ ὠοῦ, ὤχραν ἀττικὴν, σινώπην ποντικὴν, νίτρον αἰγύπτιον, κυανὸν ἀρμενιακὸν, κρόκον κιλίκιον, ἐλύδριον · τὸ δὲ λευκὸν, τοῦ θείου ὕδατος ἀπολελυμένον, ὄξος, ὕδωρ στυπτηρίας, ὕδωρ ἀσβέστου, ὕδωρ σποδοκράμβης, καὶ τὰ ἑξῆς.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 5. Le Serpent Ouroboros.}
 \paragraph{}
@@ -6397,10 +6397,10 @@ $\star$Χάλκανθός ἐστιν ὁ κρόκος τοῦ ὠοῦ.\footnot
 
 5. Δράκων τις παράκειται φυλάττων τὸν ναὸν τοῦτον < καὶ > τὸν χειρωσάμενον . κ. τ. λ. (La suite comme dans 1, v, 5.)
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 7. ΕΡΜΟΥ ΤΡΙΣΜΕΓΙΣΤΟΥ ΟΡΓΑΝΟΝ.}
 \paragraph{}
@@ -6457,10 +6457,10 @@ nous donnons les variantes.}
 
 3. Αἱ δὲ χῶραι ἐν αἷς τελεῖται τὸ θεῖον ἔργον τοῦτο · Αἴγυπτος,\footnote{Après τοῦτο] εἰσὶν αὗται add. E.} Θρᾴκη, Ἀλεξανδρεία, Κύπρος, καὶ εἰς τὸ ἱερὸν τῆς Μέμφεως.\footnote{Θρἀκις A. --- Après Μέμφεως.] Τέλος add. E.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 10. ΠΕΡΙ ΤΟΥ ΜΕΤΑΛΛΙΚΟΥ ΛΙΘΟΥ ΕΝ ΟΙΣ ΤΟΙΣ ΤΟΠΟΙΣ ΕΚΕΙΝΟΙΣ ΚΑΤΑΣΚΕΥΑΖΕΤΑΙ.]{1. --- 10. ΠΕΡΙ ΤΟΥ ΜΕΤΑΛΛΙΚΟΥ ΛΙΘΟΥ ΕΝ ΟΙΣ ΤΟΙΣ ΤΟΠΟΙΣ ΕΚΕΙΝΟΙΣ ΚΑΤΑΣΚΕΥΑΖΕΤΑΙ.\footnote{F. l. ἐν οἶς τισι τόποις.}}
 \paragraph{}
@@ -6474,10 +6474,10 @@ nous donnons les variantes.}
 
 3. Ὅταν δὲ σποδὸν ποιήσαντες τὸ ὕδωρ χυμαῖον ἐμβάλλουσιν ὑποκάτω σανίδας, καὶ κοίλας ἀντιστασίμους ἔχοντες · καὶ τὸ μὲν ἀχυρῶδες καὶ κοῦφον καὶ ἄχρηστον περὶ τοῦ ὕδατος ἕψεται · τὸ δὲ χρήσιμον εἰς τόπους τῶν σανίδων διὰ τὸ βάρος ὑπολέληπται. Καὶ τότε τῇ ἑψήσει περιδῶσι τὸ συναχθὲν εἰς ἄγγος κεράμου ἐμβαλόντες καὶ μίξαντες τὸ κατὰ λόγον, τότε περιχρίουσιν τὸ ἄγγος, ἑψοῦσιν ἐν καμίνῳ ἡμερόνυκτα πέντε, ἔχον τὸ ἄγγος πόρον διὰ τὴν ἔξοδον.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 11. ΟΡΚΟΣ.]{1. --- 11. ΟΡΚΟΣ.\footnote{Titre dans A\textsuperscript{2} : ὅρκος τοῦ φιλοσόφου.}}
 \paragraph{}
@@ -6501,10 +6501,10 @@ nous donnons les variantes.}
 
 3. Ἐπείπερ γοῦν γραφὴν εὖ ἐκτίσαμεν · ἐὰν γὰρ τὸν βορρὰν ἴδῃς ὑγρὸν ὑπερβλέπειν, ὥς φησιν ἐν τῷ περὶ θείου ἀθίκτου ὕδατι\footnote{F. l. ἐν τῷ περὶ θ. ἀθ. λόγῳ, ὕδατι τῷ ἁλμ. --- A la place des mots ἁλμώδει, νιτρώδει, στιμμώδει, χαλκανθώδει, qui sont des leçons conj., il y a dans le ms. des signes difficiles à comprendre. (\emph{M. B.})} λόγῳ, τῷ ἁλμώδει, καὶ νιτρώδει καὶ στιμμώδει καὶ χαλκανθώδει τῆς ἰώσεως τάχιον ἀναλύοντα · ἐνταῦθα τὴν νέκρωσιν ἠνίξατο,\footnote{ἀναλύων τὰ M. Corr. conj. --- « Je propose ἀναλειοῦντα, de άναλειόω. » (\emph{M. B.})} καὶ πλήρωσιν τοῦ παντὸς λόγου.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 13. ΙΣΙΣ ΠΡΟΦΗΤΙΣ Τῼ ΥΙῼ ΑΥΤΗΣ.]{1. --- 13. ΙΣΙΣ ΠΡΟΦΗΤΙΣ Τῼ ΥΙῼ ΑΥΤΗΣ.\footnote{A, en marge du titre : Ὅρκος. --- Le titre, dans A, est suivi du signe lunaire. Voir la note de la traduction (\emph{M. B.}).}}
 \paragraph{}
@@ -6546,10 +6546,10 @@ nous donnons les variantes.}
 
 17. Ἡ δὲ αἰθάλη οὕτως αἴρεται. Λαβὼν ἀρσένικον, ἕψει ἐν\footnote{ἐν om. A.} ὕδατι, καὶ βαλὼν ἐν τῷ ἰγδίῳ, λείου μετὰ στάχεως σὐν ἐλαίῳ ὀλίγῳ, καὶ βαλὼν ἐν λωπάδι καὶ φιάλῃ, ἐπάνω πύλης ἐπιτίθου\footnote{ἐπιτίθητι L, EL$\star$.} ἐπ ᾽ ἀνθράκων, ἕως οὗ ἔλθῃ ἡ αἰθάλη. Ὁμοίως καὶ τὴν σανδαράχην ποίει.\footnote{Après ποίει] Τέλος τῆς Ἴσιδος add. EL$\star$.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \begin{center}
 \textbf{1. --- 13 \emph{bis}.}
@@ -6583,10 +6583,10 @@ nous donnons les variantes.}
 
 9. Λαβὼν οὖν ὑδράργυρον, πῆξον αὐτὴν ἢ διὰ βωλίου, ἢ διὰ\footnote{L mg. : Democritus, pag. 1 (1\textsuperscript{re} main).} σώματος μαγνησίας, ἢ διὰ θείου, καὶ ἔχε · τοῦτό ἐστι τὸ χλιαροπαγὲς\footnote{χριαροπαγὲς L.} κατὰ τὰς μίξεις τῶν εἰδῶν · τοῦ μολύβδου χλιαροπαγοῦς\footnote{κατὰ et τὰς ajoutés en surcharge par le copiste de L.} μέρος ἕν, κ. τ. λ. (La suite comme dans A, 1\textsuperscript{re} réd., § 9-fin, sauf les variantes indiquées.)
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 14. ΠΟΙΟΝ ΕΙΝΑΙ ΧΡΗ ΤΟΙΣ ΗΘΕΣΙ ΤΟΝ ΜΕΤΙΟΝΤΑ ΤΗΝ ΕΠΙΣΤΗΜΗΝ.}
 \paragraph{}
@@ -6596,10 +6596,10 @@ nous donnons les variantes.}
 
 Χρεὼν εἶναι τὸν μετιόντα τὴν ἐπιστήμην πρῶτον μὲν φιλόθεον καὶ φιλάνθρωπον, σώφρονα, ἀφιλάργυρον, ψεῦδος ἀποστρεφόμενον, καὶ πάντα δόλον, καὶ κακουργίαν, καὶ φθόνον, εἶναι δὲ ἀλη- (f. 128 v.)\footnote{Après φθόνον] ἔπειτα δὲ καὶ πιστὸν Lb.} θῆ καὶ πιστὸν παῖδα τῆς ἁγίας καὶ ὁμοουσίου καὶ συναϊδίου Τριάδος. Ὁ μὴ τοιαῦτα κάλλιστα καὶ θεάρεστα ἤθη κτησάμενος ἢ\footnote{ὁ δὲ μὴ E Lb. --- κτισάμενος et κτήσασθαι M.} κτήσασθαι σπουδάσας, ἑαυτὸν ἀπατήσει, τοῖς ἀνεφίκτοις ἐπιπηδῶν,\footnote{σπουδάσοιεν M. --- ἀπατήσοι M. --- ἐπιπηδῶν] ἐπιχειρῶν AE Lb.} καὶ βλαβήσεται μᾶλλον.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 15. ΠΕΡΙ ΣΥΝΑΞΕΩΣ ΤΩΝ ΦΙΛΟΣΟΦΩΝ.}
 \paragraph{}
@@ -6615,10 +6615,10 @@ nous donnons les variantes.}
 
 4. Καὶ λέγει ὁ φιλόσοφος οὕτως. Λαβὼν ἐκ τῶν σαρκῶν τὸν κρόκον\footnote{τὸ] F. l. τοῦτο.} (κρείττων γάρ ἐστιν τῶν ταριχευτικῶν), καὶ λαβὼν τὸν λίθον, καὶ θὲς εἰς\footnote{Le ms. ponctue : Καὶ λ. ὁ φιλόσοφος. οὕτως λαβὼν ... --- τῶν κρόκων A.} πῦρ · εὐθέως θὲς εἰς τὸ ὕδωρ, καὶ πάλιν βάλλε τὸν αὐτὸν λίθον, καὶ τῶν σαρκῶν τῶν ταριχευτικῶν καὶ θὲς εἰς κάμινον ὑελουργικὴν ἰσχυράν · καὶ\footnote{καὶ θὲς] F. l. κάταθες.} λάμβανε τὸ ἔ- (f. 233 v.) λαιον τὸ ἐπάνω τοῦ λίθου, καὶ ὁ λίθος μένει κρύσταλλος · καὶ λαβὼν τὸ αὐτὸ ὄξος, αὐτό ἐστιν τὸ ὄξος τῶν φιλοσόφων.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 16. ΠΕΡΙ ΠΟΙΗΣΕΟΣ ΑΣΗΜΟΥ.}
 \paragraph{}
@@ -6632,10 +6632,10 @@ nous donnons les variantes.}
 
 3. Περὶ ποιήσεως ἀσήμου. --- Ἀπὸ κοινοῦ μολύβδου καθαροῦ εἰς\footnote{καὶ] F. l. ὡς, pour ἕως. (Sigles presque semblables pour καὶ et pour ὡς dans les mss. du 12\textsuperscript{e} siècle).} τὴν ἀνωτέραν στήλην γέγραπται. Δεῖ γινώσκειν ὅτι ἐκβάλλει ὁ κοινὸς μόλυβδος εἰς τὰς ἐκατὸν λίτρας τοῦ μολύβδου, ἀσήμου λίτρας δέκα.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 17. Fabrication du Cinabre.}
 \paragraph{}
@@ -6651,10 +6651,10 @@ nous donnons les variantes.}
 
 \emph{Après} ξίφη, B \emph{continue aνec un morceau intitulé} καταβαφὴ λίθου f. 160 v. ; A\textsuperscript{1} \emph{et} K, \emph{comme} M, \emph{aνec le morceau qui suit} ; A\textsuperscript{2}, \emph{aνec le liνre de Sophé.} --- 3. 41.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 18. ΜΩΣΕΩΣ ΔΙΠΛΩΣΙΣ.}
 \paragraph{}
@@ -6664,10 +6664,10 @@ nous donnons les variantes.}
 
 Χαλκοῦ καλαϊνοῦ γ° αʹ, ἀρσενίκου, θείου ἀπύρου γ° αʹ, καὶ\footnote{καλαϊνου sans accent M.} θείου ἀθίκτου γ° αʹ, σανδαράχης γ° αʹ. Λείωσον ῥαφανίνῳ ἐλαίῳ,\footnote{Après γ° αʹ, les mss. donnent un cercle coupé par deux lignes parallèles ascendantes, signe qui ne figure pas dans les tableaux de séméiographie chimique. C'est probablement un signe fautif. (\emph{C. E. R.}). A moins qu'on ne traduise ce signe par σηπτῆς « décomposée. » La sandaraque décomposée figure dans plusieurs recettes, et le signe de σῆψον est presque le même. (\emph{M. B.}).} μολύβδῳ ἡμέρας γʹ · ἔμβαλλε εἰς ἀκμάδιον, καὶ θἐς ἐπὶ καρβώνων\footnote{ἀκμάδιον] ἀκμαδ MK. Corr. conj. (\emph{C. E. R.}). Ἀκμάδιον, vase conique pour le grillage, décrit ensuite. (\emph{M. B.}).} ἔως ἐκθειωθῇ, καὶ κατάσπα, καὶ εὐρήσεις · χαλκὸν τοῦτο μέρος ἓν, χρυσοῦ μέρη γʹ · χώνευσον ὀξύνων τὴν χώνην, καὶ εὑρήσεις τὸ πᾶν χρυσὸν σὺν Θεῷ.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 19. ΕΥΓΕΝΙΟΥ < ΔΙΠΛΩΣΙΣ. >}
 \paragraph{}
@@ -6677,10 +6677,10 @@ nous donnons les variantes.}
 
 Χαλκοῦ κεκαυμένου μέρη τρία · χρυσοῦ μέρος αʹ. Χώνευσον καὶ ἐπίβαλε ἀρσένικον · καῦσον, καὶ εὑρήσεις θρυπτόν. Εἶτα λείωσον ὄξει ἡμέρας ζʹ ἐν ἡλίῳ · εἶτα ξηράνας, χώνευσον ἄργυρον\footnote{ἐν τῷ ἡλίῳ K.} · καὶ γελάσαν τι ( ? ) ἔκβαλε ἐκ τούτου τοῦ συνθέματος,\footnote{γελάσαν τι] F. l. γραΐσαν τι (une partie écumeuse). On connaît ἀπογραΐζω, écumer, qui suppose γραΐζω.} καὶ εὑρήσεις τὸν ἄργυρον ὡς ἤλεκτρον. Τοῦτο ἴςῳ σύμμιξον χρυσὸν, καὶ ἕξεις ὄβρυζον καλόν.\footnote{εὔρυζον mss. Corr. conj.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 20. ΛΑΒΥΡΙΝΘΟΣ ΗΝΠΕΡ ΣΟΛΟΜΩΝ ΕΤΕΚΤΗΝΑΤΟ.}
 \paragraph{}
@@ -6805,10 +6805,10 @@ nous donnons les variantes.}
 
 29. Ἀπέχετε πάντα τὰ χρυςῷ καὶ ἀργύρῳ χρήσιμα. Οὐδὲν ὑπολείπεται,\footnote{ἀπέχεται A.} οὐδὲν ὑστερεῖ, πλὴν τῆς νεφέλης καὶ τοῦ ὕδατος ἡ ἄρσις, ἀλλὰ ταῦτα ἐκῶν παρεσιώπησα διὰ τὸ ἀφθόνως αὐτὰ ἐγκεῖσθαι καὶ ἐν ταῖς\footnote{παρεσιώπησα M.} ἄλλαις μου γραφαῖς. Ἔρρωσθε ἐν ταύτῃ τῇ γραφῇ.\footnote{Les mots ἐν ταύτῃ τῇ γραφῇ semblent être le début d'un commentaire sur l'ouvrage précédent. Dans cette hypothèse, il faudrait lire Ἔρρωσθε. Puis : Ἐν ταύτῃ τῇ γραφῇ ...}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{2. --- 2. ΔΗΜΟΚΡΙΤΟΥ ΒΙΒΛΟΣ Ε ΠΡΟΣΦΩΝΗΘΕΙΣΑ.}
 \paragraph{}
@@ -6826,10 +6826,10 @@ nous donnons les variantes.}
 
 5. Ἡμεῖς δὲ οὐχ οὕτως [γὰρ] · ὑφεστῶτες γὰρ ἐπιστεύθησαν ἄνθρωποι, κοινῇ τὴν μετὰ ταῦτα τέχνην. Λαβόμενος χαλκόν τε εἰς τὴν\footnote{κοινοῖ A.} ἰγδὴν ἐλαιῶδες φάρμακον, κατάθου εἰς πυξίδα καὶ σῆψον ἡμέρας μαʹ,\footnote{πυξίδαν A. forme médiévale assez fréquente dans ce ms.} ἢ καʹ, ἢ ιεʹ, μάλιστα μὲν οὖν ἐν ἱππείᾳ κόπρῳ,\footnote{A mg : ση < μείωσαι. >} εἶτα ἀνε- (f. 259 v.) λόμενος ἔχε · λείωσον ἰατρικῶς, προσβάλλων < εἰς > τὸ σύνθεμα\footnote{προσβάλλον A.} τοῦτο μίσεως ὁμοῦ, χαλκάνθου ἱκανοῦ, κρόκου, ἐλυδρίου τούτων\footnote{--- ὁμοῦ] F. l. ὠμοῦ.} ὑφ ᾽ ἓν ἐξίσου, γινόμενον μέρος ἓν πρὸς μέρη δʹ τοῦ σαπέντος ἰοῦ. Ἔπειτα χώνευσον μοσχίᾳ ὅλῃ κόμμι ξανθοῦ μικρὸν, λείου ἀπὸ τῆς\footnote{ὁλικομιξἀνθου A.} σήψεως τῆς τηρησάσης τὸ πρᾶγμα ἀμετάβολον. Ὁπηνίκα δὲ λειώσεις\footnote{τῆρεισάσεις A. --- πράγμαν A.} ἱατρικῶς, ἐπίβαλλε ἐκ τοῦ ὑγροῦ τῶν βοτανῶν μετὰ ἁλὸς ἀνθείου, καὶ πράσου χυλόν. Εἶτα ἀνελόμενος εἰς τρούλλιον ἔψει\footnote{ἐστροὕλον A. (Corrigé par \emph{M. B.}).} ἰατρικῶς σπαθίζων, τρίβων δὲ ἔψει ἐπὶ ἡμέρας γʹ, ἐκ τριῶν ἑψήσεων,\footnote{τρίβον B.} διΐες τὰς ἡμέρας ὡρῶν δʹ · ὁπηνίκα δὲ ἐκτελέσεις τὴν ἕψησιν,\footnote{διεὶς A.} τηρῶν τὸ σύνθεμα μὴ ξηρανθῇ, ἀλλὰ ἐλαίου πάχος ἔχῃ,\footnote{ἔχειν A.} βάλλε εἰς τεῦχος ὑέλινον, ἔψει ὀλίγον βολβίτοις ἕως παγῇ · ἄρον καὶ λείωσον καὶ ἔχε · καὶ λαβὼν γῆς ἀργύρου οὐσίας τῆς ἀπαλωτάτης ἥν τινες γῆν χίαν < ἢ > ὦχραν καλοῦσιν, ταύτης μέρη δύο, σινοπίδος ποντικῆς μέρος ἓν, καὶ τοῦ ... ἐν τῷ ληκυθίῳ μέρη δύο, λείου ὁμοῦ\footnote{καὶ τοῦ ... ] Lacune non indiquée dans le ms. --- λεκυνθίω A.} τὸ ὑγρὸν τοῦ θείου καὶ ὄπτα ἐπιστάσιμον, καὶ εὑρήσεις σῶμα ῥωστικὸν, ἢ κινναβαρίζον, ἢ κοραλλικὸν, ἢ σινωπιτικόν. Ἀδιήγητον,\footnote{Ἀδιήγητον κ. τ. λ.] Cp. Berthelot, Orig. de l'alchimie, p. 162.} μέγιστον θαῦμα τοῦτο καλοῦσιν χρυσοκόραλλον, καὶ τὰ ἄλλα ὀνόματα\footnote{οὐσίσασιν A. --- καίε] κηεὶ A.} ἅπερ ὀνομάζονται, οὐκ ἴσασιν. Τοῦτο ἐπίβαλλε καὶ καίε ἄργυρον, καὶ τὸ ἀφ ᾽ ἡμῶν λευκανθὲν κρύβε, ὦ Λεύκιππε,\footnote{λευκανθέντι A. --- ὦ Λεύκιππε] ὦ λευκὴ παῖ A.} τὸ πᾶν · ἐφθόνησαν. Ἔρρωσο.\footnote{ἔρρωσοι A.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{2. --- 3. ΣΥΝΕΣΙΟΥ ΦΙΛΟΣΟΦΟΥ ΠΡΟΣ ΔΙΟΣΚΟΡΟΝ ΕΙΣ ΤΗΝ ΒΙΒΛΟΝ ΔΗΜΟΚΡΙΤΟΥ, ΩΣ ΕΝ ΣΧΟΛΙΟΙΣ.}
 \paragraph{}
@@ -6973,10 +6973,10 @@ nous donnons les variantes.}
 
 --- Ἀλλ ᾽ οὐκ ἀπὸ ψιμμιθίου ὑδράργυρον εἶπεν ἵνα λάβωμεν, ἀλλὰ τὴν λεύκωσιν τῶν σωμάτων, εἴτουν ἀνάκαμψιν αἰνιττόμενος εἴρηκεν · ὧδε\footnote{εἶτ ᾽ οὖν M ; ἢ Fabr. --- ὧδε] ἐνταῦθα B.} γὰρ τὰ λευκὰ πάντα εἶπεν · ἐκεῖ δὲ τὰ ξανθὰ, ἵνα νοήσωμεν. Ὅρα\footnote{τὰ om. A Fabr.} πῶς εἶπεν · Σῶμα μαγνησίας χρυσοκόραλλον · ἐνταῦθα δὲ σῶμα\footnote{Après μαγνησίας] μόνον add. A mg. sup. Fabr. --- χρυσοκόρ. --- σῶμα μαγν. om. B ; A l'ajoute de 1\textsuperscript{re} main à la mg. sup.} μαγνησίας, μαγνησίας μόνον ἢ στίμμεως ἰταλικοῦ. Καὶ ταῦτα μὲν πρὸς βραχύ τι αὔταρκες ὑμῖν εἰρήσθω. Προγυμνάζεσθαι δὲ τὸν νοῦν χρὴ, ἵνα διαγιγνώσκωμεν τὰς τῆς φύσεως ἐνεργείας περὶ τῶν σπουδαζομένων τῇ τοῦ Θεοῦ συνεργείᾳ. Δεῖ οὖν ὑμᾶς γινώσκειν, < ὅτι > ταριχεύεσθαι (f. 78 r.) δεῖ τὰ εἴδη πρῶτον καὶ ταῖς χω < νεύ > σεσιν\footnote{δεῖ] χρὴ A Fabr. --- ἐν ταῖς χ. A ; καὶ ἐν τ. χ. Fabr. --- ὁμοχρόους M.} ὁμόχροα ἀποτελεῖσθαι εἰς ἓν χρῶμα · καὶ τὰ μὲν δύο ὑδράργυρα ὑδραργυρίζονται\footnote{ὑδραργυρίζοντα Fabr. F. l. ἀργυρίζονται --- Pizz. traduit ταριχ. par \emph{liquefacere} et χω < νεύ > σεσι par \emph{conflationibus} (coulées).} καὶ εἰς σῆψιν ἀποχωρίζονται. Θεοῦ δὲ βοηθοῦντος ἄρξομαι ὑπομνηματίζειν.\footnote{ἀποχωρίζοντα Fabr. --- δὲ om. Fabr. --- ἄρχομαι ὑπομνηματίζειν] τὸ πᾶν (καὶ τὸ πᾶν A) τοῦ λόγου τετέλεσται BC A Fabr. --- A mg. ἀρξ. ὑπομνημ., avec renvoi à βοηθοῦντας.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[2. --- 4. Olympiodore.]{2. --- 4. Olympiodore.\footnote{Titre dans AL : Ὀλ. φιλ. πρὸς Πετάσιον τὸν βασιλέα (βασιλέαν A) Ἀρμενίας περὶ τῆς θείας καὶ ἱερᾶς τέχνης τοῦ λίθου τῶν φιλοσόφων, puis dans L : καὶ εἰς τὸ κ. ἐ. Z. καὶ εἰς ὅσα ἀπὸ Ἑρμοῦ κ. τ. λ. (comme dans MK).}}
 \paragraph{}
@@ -7102,10 +7102,10 @@ nous donnons les variantes.}
 
 55. Βλέπε οὖν πῶς ἐρρέθη ὅτι ἡ τέχνη εἰδική ἐστιν, καὶ οὐ κοινή. Ἀκούετε τοίνυν, ἄφρονες, τί φησιν Ὥρος ὁ χρυσωρυχίτης πρὸς Κρονάμμονα\footnote{ὅρος MK ; ὁ ἔρος. Corr. conj.} περὶ τῆς μερικῆς τέχνης τε καὶ τῶν εἰδῶν. « Μικρὸν λογύδριον\footnote{Avant μικρὸν] Ἐγὼ δὲ add. L.} παρενθήσω τῆς ἀληθίνης φύσεως τὴν ἑρμηνείαν ποιησάμενος,\footnote{Après ποιησάμενος]. Voir ci-après, Appendice 3, la rédaction de L jusqu'à la fin du texte d'Olympiodore.} τοσοῦτον παρ ᾽ ἡμῖν μνημονευθεισῶν τάξεων, καὶ μηδαμοῦ τῆς ἀληθείας τῆς διὰ ψάμμων καὶ λίθων ἐκδοθείσης · ἀλήθειαν εἶπον τῆς διὰ ψάμμων · τῶν γὰρ τάξεων μηδαμῶς εἰς πέρας ἀχθεισῶν. Τίς γὰρ οὐκ οἶδεν ὅτιπερ καὶ χρυσὸς καὶ ἄργυρος καὶ χαλκὸς καὶ σίδηρος καὶ μόλυβδος καὶ κασσίτερος καὶ γαῖ καὶ λίθοι καὶ μέταλλα ἐκ τῆς γῆς εἰσιν καὶ χρήσιμα τυγχάνουσι ; Καὶ ἐκ τούτων τὴν συγγραφὴν ἐποιήσαντο, ποιήσαντες καὶ ζωμοὺς ἐκ βοτανῶν χυλῶν καὶ ὁπῶν, δένδρων καὶ καρπῶν καὶ ξύλων ξηρῶν καὶ ὑγρῶν · ἐκ τούτων ζωμοὺς καταστήσαντες, συνεστήσαντο τὴν τέχνην ἐκ ταύτης τῆς μιᾶς, ὡς ἓν δένδρον εἰς μυρίους κλάδους διελόντες, μυρίας τάξεις ἐποιήσαντο.\footnote{διελόντες] διήκωντας (λων écrit de 1\textsuperscript{re} main au-dessus de κων M ; διήκωντας Κ ; διάκεινται A. Corr. conj. Dans le passage correspondant (Appendice 3), L a διῆκον.} Ἔχεις οὖν ὧδε ὅλῃ δυνάμει τὸ ὅλον (f. 179 r.) τοῦ ἔργου · χαλκομόλυβδος,\footnote{ὁμορευστ. mss. ici et l. suiv. --- M mg. : groupe de points.} ἐτήσιος λίθος ἐξίσου ὁμορρευστήσαντα χρύσοπτα πάντα ποιεῖ. Τὸ δὲ\footnote{χρύσοπτα ὁμορ. om. A. --- ποιεῖ] F. l. ποίει.} « ὁμορρευστήσαντα » οὐδὲν ἄλλο σημαίνει, ἢ τὸ ὁμοῦ καὶ κατ ᾽ αὐτὸν ῥεύσαντα,\footnote{ἢ τὸ] ἤτοι A. F. l. ἢ τὰ. ---} δηλονότι διὰ τοῦ πυρός.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{2. --- 4 bis. Olympiodore. --- Appendices.}
 \begin{center}
@@ -7139,10 +7139,10 @@ Nous croyons devoir donner ici une page écrite en tête du 1er folio du ms. M, 
 \paragraph{}
 Ἴστε τοίνυν, ὦ φίλοι χρυσοτεχ νῖται, ὅτι δεῖ καλῶς καὶ εὐτεχνεστάτως κατασκευάζειν τὰς ψάμμους, ᾧν (φ. λ. ὡς) καὶ πρότερον ἑρμήνευσα · ἄνευ γὰρ τούτων μηδαμῶς ἡ πρᾶξις εἰς πέρας ἀχθήσεται. Καλοῦνται δὲ ψάμμοι ἐκ τῶν ἀρχαίων πάντα τὰ ἑπτὰ μέταλλα · ἐκ τῆς γῆς γάρ εἰσι, καὶ λιθώδη, καὶ χρήσιμα τυγχάνουσι · καὶ περὶ τούτων ἅπαντες συνεγράψαντο. Ἔτι δὲ καὶ οἱ ζωμοὶ, οἱ ἐκ βοτανῶν, καὶ χυλῶν, καὶ ὀπῶν δένδρων, καὶ καρπῶν, καὶ ξύλων ξηρῶν καὶ ὑγρῶν · ἐκ τούτων γὰρ συνεστήσαντο τὴν τέχνην, ἣν ὡς δένδρον ποιήσαντες, εἰς μυρίους κλάδους πανταχόσε διῆκον εἰς μυρίας τάξεις καὶ πράξεις κατεσκευάσαντο ταύτην. Ἔχεις οὖν ὧδε, ὅλῃ δυνάμει, ὅλον τὸ ἔργον τοῦ χαλκοῦ · ὅς ἐστιν ὁ αἰτήσιος λίθος · ὃν ἐξ ἴσου ὁμορρεύσαντα χρυσόπτα καὶ πάντα ποίει τὰ τῆς τέχνης. Τὸ δὲ « ὁμορρεύσαντα » οὐδὲν ἀλλὸ σημαίνει ἢ τὸ ὁμοῦ καὶ κατὰ ταὐτὸν ῥεύσαντα, δηλονότι, διὰ τοῦ πυρός. Τέλος τοῦ Ὀλυμπιοδώρου.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \clearpage
 \setcounter{footnote}{0}
@@ -7171,10 +7171,10 @@ En le protégeant, Christ, souverain maître, tiens-le en ta garde !
 \paragraph{}
 L'indication de ce nom, qui se rapporte à un haut fonctionnaire de l'empire byzantin, est la seule que nous possédions sur la formation de la collection alchimique. Elle concerne une époque comprise entre Héraclius et le commencement du 11\textsuperscript{e} siècle, date du ms. de Venise ; époque qui comprend celles des compilations de Photius et de Constantin Porphyrogénète (voir \emph{Origines de l'Alchimie}, p. 98). --- Le nom de Théodore est d'ailleurs trop répandu pour qu'on puisse espérer identifier, sans autre indice, le personnage actuel avec quelque byzantin, connu autrement dans l'histoire. Dans les ouvrages de Zosime, on trouve aussi, sous le titre de « \emph{Chapitres à Théodore}, » un résumé des sommaires de divers traités (\emph{Origines de l'Alchimie}, p. 184). Stephanus écrit pareillement à un Théodore (Ideler, t. 2, p. 208), lequel pourrait être notre personnage : il serait alors contemporain d'Héraclius.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 2. Lexique de la Chrysopée par Ordre Alphabétique.]{1. --- 2. Lexique de la Chrysopée par Ordre Alphabétique.\footnote{D'après le manuscrit L : Lexique métallique, par ordre alphabétique, des noms de l'art divin et sacré employés dans ce volume sur la matière d'or. --- D'après A E : Lexique métallique de l'art sacré, par ordre alphabétique, renfermant les signes et les noms, écrit pour la première fois en langue grecque, etc. --- Ce qui semblerait indiquer qu'il aurait été traduit d'une autre langue à l'origine ( ? ).}}
 
@@ -7732,10 +7732,10 @@ L'indication de ce nom, qui se rapporte à un haut fonctionnaire de l'empire byz
 
 Le Lexique alchimique, tel que nous venons de le reproduire, est tiré du manuscrit de Saint-Marc (fin du 10\textsuperscript{e} ou commencement du 11\textsuperscript{e} siècle) : il n'a guère été modifié dans les manuscrits postérieurs. Il est formé de portions diverses, ajoutées successivement, comme le prouvent par exemple les articles relatifs au soufre, à l'eau de soufre, à la magnésie, etc. Certains articles remontent jusqu'à la vieille tradition gréco-égyptienne, ainsi que le montrent les rapprochements (cités en note) avec la nomenclature prophétique de Dioscoride et du Papyrus de Leide. Les catalogues du blanc et du jaune, attribués à Démocrite (\emph{Origines de l'Alchimie}, p. 155-156), lesquels formaient la base de la Chrysopée et de l'Argyropée, ainsi que les nomenclatures de l'œuf philosophique, paraissent représenter les premières formes de ce Lexique. Au moyen âge, il a pris une extension considérable et s'est enrichi d'une multitude de mots arabes, en même temps que les mots grecs disparaissaient en partie. On peut en voir une forme nouvelle dans le manuscrit 2419 de Paris, transcrit vers 1460 (v. \emph{Introd.}, p. 205). Plusieurs de ces Lexiques ont été rassemblés par Johnson dans la \emph{Bibliotheca Chemica} de Manget (Genève, 1702), t. 1, p. 217 à 291. Mais l'ouvrage de genre le plus utile à connaître et le mieux rédigé, est le \emph{Lexicon Alchemiæ, auctore Rulando} (Francfort, 1612). Je l'ai cité fréquemment dans mon \emph{Introduction}.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 3. Sur l'Œuf Philosophique.}
 \paragraph{}
@@ -7771,10 +7771,10 @@ Voici ce que les anciens disent sur l'œuf\footnote{Cp. \emph{Origines de l'Alch
 \textbf{Fin de l'Œuf}
 \end{center}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 4. Nomenclature de l'Œuf.]{1. --- 4. Nomenclature de l'Œuf.\footnote{L'article 4 est une variante de 3. J'ai reproduit dans l'Introduction (p. 215), un autre article analogue, attribué à Justinien et tiré du Codex Voss. de Leide. Il en existe encore un autre dans les ouvrages de l'Anonyme, qui seront donnés dans la troisième livraison.}}
 \paragraph{}
@@ -7792,10 +7792,10 @@ Le blanc d'œuf est l'eau divine ; le jaune d'œuf est la couperose ; la partie 
 
 5. On a nommé d'abord le jaune de l'œuf : ocre attique, vermillon du Pont, natron d'Égypte, bleu d'Arménie,\footnote{Dans l'article précédent, ces mots signifient deux bleus distincts, comme dans Dioscoride, \emph{Mat. méd.}, l. 5, 105 et 106. --- Ce sont des minerais de cuivre analogues à l'azurite (\emph{Introd.}, p. 243).} safran de Cilicie, chélidoine ; le blanc de l'œuf délayé avec l'eau de soufre est le vinaigre, l'eau d'alun, l'eau de chaux, l'eau de cendres de chou, etc.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 5. Le Serpent Ouroboros.}
 \paragraph{}
@@ -7809,10 +7809,10 @@ Le blanc d'œuf est l'eau divine ; le jaune d'œuf est la couperose ; la partie 
 
 5. Un serpent est étendu, gardant ce temple (et) celui qui l'a dompté ; commence par le sacrifier, puis écorche-le, et après avoir pris sa chair jusqu'aux os, fais-en un marchepied à l'entrée du temple ; monte dessus et tu trouveras là l'objet cherché. Car le prêtre, d'abord homme de cuivre, a changé de couleur et de nature et il est devenu un homme d'argent ; peu de jours après, si tu veux, tu le trouveras changé en un homme d'or.\footnote{\emph{Origines de l'Alchimie}, p. 60. Zosime a reproduit cet exposé avec plus de développement ; ce qui montre que c'étaient là de vieilles formules, exprimant la transmutation des métaux. On pourrait imiter ces changements par des précipitations galvaniques successives : mais rien ne prouve l'identité des opérations anciennes avec celles-là.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 6. Le Serpent.}
 \paragraph{}
@@ -7826,10 +7826,10 @@ Le blanc d'œuf est l'eau divine ; le jaune d'œuf est la couperose ; la partie 
 
 5. Un serpent est étendu, gardant le temple (et) celui qui l'a dompté. (La \emph{suite comme au} § précédent.)
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 7. Instrument d'Hermès Trismégiste.]{1. --- 7. Instrument d'Hermès Trismégiste.\footnote{Voir \emph{Introd.}, p. 86 : \emph{les médecins astrologues}.}}
 \paragraph{}
@@ -7847,10 +7847,10 @@ Le blanc d'œuf est l'eau divine ; le jaune d'œuf est la couperose ; la partie 
     \end{tabular}
 \end{table}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 8. Liste Planétaire des Métaux.]{1. --- 8. Liste Planétaire des Métaux.\footnote{Cp. \emph{Origines de l'Alchimie}, p. 232 et suivantes. --- Les signes des planètes sont en marge des manuscrits, à côté du nom du métal. --- Voir \emph{Introd.}, p. 79, 206 et les notes du \emph{Texte grec}.}}
 \paragraph{}
@@ -7870,10 +7870,10 @@ Le blanc d'œuf est l'eau divine ; le jaune d'œuf est la couperose ; la partie 
 
 7° Lune : Argent ; verre ; antimoine ; cuir ; chandra\footnote{Corps inconnu.} ; terre blanche et substances analogues.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 La liste transcrite dans R, c'est-à-dire dans le manuscrit 2419 (traité d'Albumazar) ; \emph{Introd.}, p. 79 et 206, mérite une attention particulière. Elle répond à une tradition astrologique plus complète et plus ancienne, remontant probablement aux Chaldéens ; car elle est encadrée entre une liste de plantes et une liste d'animaux, également consacrées aux Planètes.\footnote{\emph{Texte grec}, p. 24, note.} Un certain nombre de noms de pierres précieuses (saphir, sardoine, jaspe, chrysolithe, perle), de minéraux (pierre d'aimant, litharge), d'alliages (claudianos, asèm ou diargyros), sont transcrits en caractères, hébraïques, comme si l'on avait voulu en interdire la connaissance aux gens non-initiés : c'est l'indice d'une vieille tradition mystique.
 
@@ -7881,10 +7881,10 @@ L'ordre des corps est parfois plus naturel : le sucre, par exemple, n'étant pas
 
 Le mercure (métal) est placé tout à la fin de la liste de la planète Hermès ; ce qui accuse l'addition de ce métal à une liste plus ancienne, où l'émeraude, mise à la suite du nom de la planète, jouait le rôle d'un métal, comme le \emph{mafek} égyptien (\emph{Origines de l'Alchimie}, p. 220, 234). L'existence de cette liste antérieure est indiquée plus nettement encore par les mots ajoutés : « les Persans attribuent à cette planète (au lieu du mercure) l'étain. --- De même, dans la liste des matières attribuées à la planète Jupiter, après le mot Etain, on lit : « Les Persans attribuent à cette planète (au lieu de l'étain) le métal argentin ; » ce qui signifie l'asèm ou électrum. Il y a là une indication très remarquable des changements survenus dans les attributions des métaux aux planètes, après que l'asèm ou électrum eut disparu de la liste des métaux, vers le 6\textsuperscript{e} ou 7\textsuperscript{e} siècle de notre ère (v. \emph{Introd.}, p. 81 à 85).
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 9. Noms des Faiseurs d'Or.]{1. --- 9. Noms des Faiseurs d'Or.\footnote{Voir \emph{Origines de l'Alchimie}, p. 128 et suivantes. Voir aussi la liste ancienne du manuscrit de Saint-Marc, donnée dans l'\emph{Introd.}, p. 110.}}
 \paragraph{}
@@ -7896,10 +7896,10 @@ Platon, Aristote, Hermès, Jean le grand prêtre dans la divine Evagie\footnote{
 
 3. Les pays où l'on accomplit cette œuvre divine sont : l'Egypte, la Thrace, Alexandrie, Chypre et le temple de Memphis.\footnote{Le temple de Phtha.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 10. Noms des Villes.}
 \paragraph{}
@@ -7911,10 +7911,10 @@ Platon, Aristote, Hermès, Jean le grand prêtre dans la divine Evagie\footnote{
 
 3. Lorsque, après avoir réduit le minerai en poudre, ils l'ont étalé sur des tables garnies de rainures contrariées et disposées en pente douce, ils y font couler de l'eau ; la partie pulvérisée, légère et inutile, est entraînée par l'eau, tandis que la partie utile, retenue par son poids, est recueillie dans les rainures des planchettes. Alors, pour la cuisson, ils resserrent le dépôt, le placent dans un vase de terre cuite et, faisant un mélange selon la formule,\footnote{Cette formule est donnée par Agatharchide, p. 128 (\emph{Geogr. græci}, Éd. Didot).} ils lutent le vase, et le font chauffer sur un fourneau, pendant cinq jours et cinq nuits ; le vase a une issue pour l'extraction (des produits).
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 Un \emph{Traité des Poids et Mesures}, attribué à Cléopâtre, se trouve dans la plupart des manuscrits alchimiques grecs. Il a été imprimé d'abord par H. Etienne, au début de son \emph{Thesaurus Græcæ linguæ}, puis reproduit, discuté, commenté par les auteurs qui se sont occupés des mesures antiques, par Hultsch en particulier : ce qui m'a paru en rendre la réimpression superflue.
 
@@ -7939,10 +7939,10 @@ Je crois au contraire utile de reproduire ici la liste \emph{des mois égyptiens
     \end{tabular}
 \end{table}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 11. Serment.}
 \paragraph{}
@@ -7950,10 +7950,10 @@ Je crois au contraire utile de reproduire ici la liste \emph{des mois égyptiens
 
 2. Toi-même, aborde tous ces écrits dans un esprit de piété et de prudence ; si nous avons dit quelque chose d'erroné, par ignorance, mais sans mauvaise intention, corrige nos fautes dans ton intérêt et dans l'intérêt des lecteurs fidèles à Dieu, exempts de ma lice et honnêtes, qualités qui sont en vérité difficiles à rencontrer.\footnote{La suite manque dans plusieurs manuscrits : c'est une addition.} Salut ! au nom de la sainte et consubstantielle Trinité ; je veux dire le Père, le Fils et le Saint-Esprit.\footnote{C'est une formule finale. La suite manque dans l'une des copies de A ; elle répond sans doute à une seconde addition postérieure.} La Trinité dans l'unité, c'est le Fils, qui s'est incarné sans péché parmi les hommes, pour la glorification de la dyade,\footnote{Le Père et le Saint-Esprit.} à laquelle il participe lui-même ; il a revêtu la nature humaine, tout en demeurant irréprochable ; la voyant sujette à faillir, il l'a redressée.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 12. (Serment) du Philosophe Pappus.]{1. --- 12. (Serment) du Philosophe Pappus.\footnote{Appelé aussi Pappoas.}}
 \paragraph{}
@@ -7963,10 +7963,10 @@ Je crois au contraire utile de reproduire ici la liste \emph{des mois égyptiens
 
 3. Ainsi nous avons bien composé notre écrit. En effet, si tu vois que le liquide s'étend vers le nord, comme il est dit dans le discours sur l'eau de soufre natif, alors hâte-toi de le corriger en délayant avec la saumure, le natron, l'antimoine, la couperose destinée à l'affinage.\footnote{Cette description énigmatique du grand œuvre repose sur des allusions vagues à diverses opérations chimiques. Elle est d'une basse époque, postérieure au 7\textsuperscript{e} siècle, à en juger d'après la citation de Stephanus.} --- Il voulait désigner par-là la mortification du produit\footnote{Qu'il fallait éviter, pour accomplir l'opération.} et l'accomplissement de l'œuvre exposée dans tout son discours.\footnote{La phrase finale est une glose de commentateur, ajoutée en dernier lieu.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 13. Isis à Horus.}
 \begin{center}
@@ -8022,10 +8022,10 @@ Puis, prenant de cet alliage le poids d'une livre, fais-le fondre, en y projetan
 
 17. Voici comment on élève la vapeur sublimée\footnote{Ceci est une recette, ajoutée à la suite des précédentes. C'est une sublimation, opérée dans l'alambic, au moyen des sulfures d'arsenic, mélangés de divers produits organiques.} : prends de l'arsenic,\footnote{Orpiment.} fais-le bouillir dans l'eau, et le mettant dans un mortier, pile-le avec le stachys et un peu d'huile ; mets le matras et la fiole\footnote{Voir figure 11, \emph{Introd.}, p. 132.} sur des charbons. Au-dessus de l'entrée (du fourneau ? ) dispose l'appareil, jusqu'à ce que la vapeur s'en aille. Traite la sandaraque de la même façon.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 14. Les Mœurs du Philosophe.}
 \paragraph{}
@@ -8033,10 +8033,10 @@ Puis, prenant de cet alliage le poids d'une livre, fais-le fondre, en y projetan
 
 Celui qui poursuit l'étude de la science doit premièrement aimer Dieu et les hommes, être tempérant, désintéressé, repousser le mensonge, toute fraude, toute mauvaise action, tout sentiment d'envie, être enfin un sincère et fidèle enfant de la sainte, consubstantielle et coéternelle Trinité.\footnote{C'est le langage des Grecs byzantins de la fin du 4\textsuperscript{e} et du 5\textsuperscript{e} siècle.} Celui qui ne possède pas ces belles qualités, agréables à Dieu, ou qui ne s'efforce pas de les acquérir, celui-là se trompera lui-même, en voulant atteindre les choses inaccessibles ; il ne fera que se nuire à lui-même.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 15. Sur l'Assemblée des Philosophes.}
 \paragraph{}
@@ -8048,10 +8048,10 @@ Celui qui poursuit l'étude de la science doit premièrement aimer Dieu et les h
 
 4. Le philosophe parle ainsi : « Prends dans les chairs\footnote{L'auteur se sert ici du langage symbolique des parties du serpent (v. p. 23). Le mot chair signifie quelque matière insoluble dans les liqueurs employées, matière colorée en jaune ou en rouge.} la partie jaune, car c'est la meilleure parmi les produits macérés\footnote{Il y a dans le grec un jeu de mot symbolique, relatif à l'embaumement des corps humains.} ; et prends la pierre ; mets sur le feu, et aussitôt après, dans l'eau ; puis reprends cette pierre, ainsi qu'une partie des chairs macérées, et mets (le tout) dans un fourneau solide, destiné à faire le verre. Prends l'huile qui surnage la pierre,\footnote{Il semble qu'il s'agisse d'un fondant liquéfié, qui coule à la surface du métal dans le creuset.} et (alors) la pierre demeure à l'état de verre. En prenant le même vinaigre, on possède le vinaigre des philosophes.\footnote{Vinaigre des philosophes, ou eau mercurielle qui dissout les métaux. Cette dernière phrase ne semble pas faire suite à ce qui précède. --- La première partie de l'article 15 est relativement claire ; mais la fin est trop vague pour offrir un sens précis : c'est une addition de copiste.} »
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 16. Sur la Fabrication de l'Asèm.]{1. --- 16. Sur la Fabrication de l'Asèm.\footnote{M. fol. 106. Il y a deux titres ; le signe du second est celui de l'argent.}}
 \paragraph{}
@@ -8061,10 +8061,10 @@ Celui qui poursuit l'étude de la science doit premièrement aimer Dieu et les h
 
 3. \emph{Fabrication de l'asèm.} --- On le tire du plomb ordinaire purifié ; comme il est dit sur la stèle d'en haut. Il faut savoir que cent livres de plomb ordinaire fournissent dix livres d'asèm.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{1. --- 17. Fabrication du Cinabre.}
 \paragraph{}
@@ -8074,28 +8074,28 @@ Celui qui poursuit l'étude de la science doit premièrement aimer Dieu et les h
 
 3. \emph{Autre article sur le cinabre.}\footnote{Dans ce §, cinabre signifie la sanguine, ou hématite, et non le sulfure de mercure.} --- Il faut savoir que la magnésie\footnote{Le mot de magnésie désigne ici le minerai de fer magnétique, employé à la fois dans la fabrication du verre et dans celle des armes.} du verrier est de la nature de celle de l'Asie, au moyen de laquelle le verre reçoit des teintures ; c'est avec elle que se fabriquent le fer de l'Inde et les épées merveilleuses.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 18. Diplosis de Moïse.]{1. --- 18. Diplosis de Moïse.\footnote{Voir \emph{Introd.}, p. 61. C'est un procédé pour fabriquer de l'or à bas titre ; aussi bien que le procédé suivant. }}
 \paragraph{}
 Cuivre de Calaïs,\footnote{Voir \emph{Lexique Alchimique}, p. 9.} 1 once ; arsenic, soufre apyre, 1 once, et plomb\footnote{Le signe du plomb est parfois le même que celui du soufre : \emph{Introd.}, p. 102. --- Voir aussi dans le \emph{Lexique}, p. 8 et 9, deux des articles : \emph{Eau de soufre}, p. 9, l'article \emph{Soufre blanc} ; et p. 13, l'article \emph{Osiris}.} natif, 1 once ; sandaraque décomposée, 1 once. Broyez dans l'huile de raifort, avec du plomb, pendant trois jours. Mettez dans l'\emph{acmadion} (vase de grillage) et placez sur des charbons, jusqu'à désulfuration ; puis retirez, et vous trouverez votre produit. De ce cuivre, prenez 1 partie et 3 parties d'or ; faites fondre, en poussant vivement la fusion, et vous trouverez le tout changé en or, avec l'aide de Dieu.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 19. Diplosis d'Eugenius.]{1. --- 19. Diplosis d'Eugenius.\footnote{Ce nom ne reparaît pas ailleurs dans nos ouvrages alchimiques. --- Il rappelle celui du rhéteur païen, proclamé empereur par Arbogaste et mis à mort par Théodose en 394.}}
 \paragraph{}
 Cuivre brûlé, 3 parties ; or, 1 partie. Faites fondre, et ajoutez de l'arsenic. Faites brûler et vous trouverez le produit ramolli. Ensuite broyez dans du vinaigre, pendant 7 jours, au soleil. Puis, après avoir desséché, faites fondre de l'argent, et quand il est à point,\footnote{J'adopte γελάσαντι.} projetez-y cette composition : vous trouverez l'argent à l'état d'électrum. Mélangez au produit de l'or, à parties égales, et vous aurez un bel or pur.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[1. --- 20. Le Labyrinthe que Salomon avait fait Construire.]{1. --- 20. Le Labyrinthe que Salomon avait fait Construire.\footnote{Voir la figure 30, \emph{Introd.}, p. 157. --- Ce labyrinthe est une œuvre cabalistique du moyen âge, qui n'appartient pas à la vieille tradition des Alchimistes grecs.}}
 \paragraph{}
@@ -8222,10 +8222,10 @@ Celles qui suivent (sauf peut-être le n° 24) sont des simples vernis superfici
 
 29. Ecartez toutes les choses utiles à l'or et à l'argent, et il ne reste rien ; il n'y a plus rien à exposer, excepté la montée (évaporation) de la vapeur sublimée et de l'eau\footnote{En d'autres termes, l'auteur s'en réfère à ses autres ouvrages sur la distillation.} ; mais je passe à dessein ces choses sous silence, attendu qu'elles figurent largement dans mes autres écrits. Profitez du présent écrit.\footnote{C'est la conclusion des deux traités relatifs à la teinture en or et en asèm, ou argent : teinture opérée tantôt à la surface, par coloration directe du métal ou vernissage ; tantôt à fond, par fabrication d'un alliage. Ces traités consistent en une série de recettes, congénères de celles du Papyrus de Leyde ; mais à la suite desquelles l'auteur a ajouté les axiomes mystiques relatifs à la nature. L'idée de la transmutation vraie n'y est pas manifeste.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{2. --- 2. Démocrite à Leucippe.}
 \begin{center}
@@ -8247,10 +8247,10 @@ Celles qui suivent (sauf peut-être le n° 24) sont des simples vernis superfici
 
 Prenant du minerai d'argent ; de la terre de la qualité la plus tendre, celle que quelques-uns nomment terre de Chio ou ochre, deux parties ; du minium du Pont, une partie, et du contenu de la fiole, deux parties ; délayez avec la partie liquide du soufre et faites cuire sur un feu régulier : vous trouverez un corps puissant, possédant la couleur du cinabre, ou du corail, ou du minium. Cette grande merveille, cette merveille inénarrable, on la nomme chrysocorail (corail d'or). Quant aux autres noms qu'elle reçoit, le vulgaire les ignore.\footnote{Cette recette est celle d'une poudre de projection ; elle est trop obscure pour que le sens puisse en être précisé. Le nom même du « corail d'or » représente une préparation dont nous ne connaissons pas le sens exact.} Projetez cette substance et soumettez l'argent à l'action du feu. Cache ce Tout\footnote{Synonyme de l'alliage de plomb et de cuivre. (\emph{Introd.}, p. 153.)} que nous avons blanchi ; par crainte de l'envie, ô Leucippe. Bonne santé.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection{2. --- 3. Synésius le Philosophe a Dioscorus sur le Livre de Démocrite. --- Commentaires.}
 \paragraph{}
@@ -8414,10 +8414,10 @@ Qu'il suffise de vous dire ceci brièvement. Mais il faut exercer l'esprit d'ava
 
 Avec le secours de Dieu, je commencerai mon commentaire.\footnote{Il semble par ces mots que le petit traité de Synésius soit l'extrait et le préambule d'un ouvrage plus étendu.}
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 \subsubsection[2. --- 4. Olympiodore, Philosophe d'Alexandrie.]{2. --- 4. Olympiodore, Philosophe d'Alexandrie.\footnote{A ajouté ces mots intercalaires : « à Petasius, roi d'Arménie, sur l'art divin et sacré et sur la pierre des philosophes. » Les diverses copies de ce traité offrent des variantes considérables ; spécialement le manuscrit L, qui appartient à une classe à part. Petasius ou Petesis (Isidore), peut être un personnage réel ; mais le titre de roi d'Arménie est fictif, et ajouté par quelque adepte (v. \emph{Orig. de l'Alchimie}, p. 139 et 168.)}}
 \paragraph{}
@@ -8726,10 +8726,10 @@ Mais pour donner à ces matières la coloration jaune, après que la préparatio
 
 Ainsi aura été accomplie, Dieu aidant, la pratique de Justinien.
 
-\bigskip
+{\color{ZincWhite}\bigskip
 \centerline{\EightStarTaper}
 \centerline{\EightStarTaper\EightStarTaper}
-\bigskip
+\bigskip}
 
 Cette recette s'applique à la transformation d'un composé métallique noir, tel qu'un sulfure ou un résidu de fusion, en oxyde blanc (ou carbonate), par l'action lente de l'eau et de l'air. Quant au rapport entre cette recette, qui s'applique au lavage des scories, et la formule de l'Écrevisse, il résulte de ce que l'oxyde ainsi obtenu servait à la préparation de l'alliage appelé molybdochalque (\emph{Introd.}, p. 153 ; voir aussi le présent volume, p. 101, texte et note 4).
 
