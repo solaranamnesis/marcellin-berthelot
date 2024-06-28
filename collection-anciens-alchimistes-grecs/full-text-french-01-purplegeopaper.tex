@@ -60,10 +60,10 @@
 \color{Goldenrod}
 
 \begin{document}
-\renewcommand{\thefigure}{\large{\arabic{figure}}}
+\renewcommand{\thefigure}{{\bfseries\arabic{figure}}}
 \renewcommand\thefootnote{\tiny{\arabic{footnote}}}
 \let\oldfootnote\footnote
-    \renewcommand{\footnote}[1]{\oldfootnote{\small#1}}
+    \renewcommand{\footnote}[1]{\oldfootnote{\bfseries\footnotesize#1}}
     
 \bfseries
 \pagestyle{plain} % after changing a pagestyle command, it's necessary to invoke it explicitly
@@ -1494,7 +1494,7 @@ Voici la photogravure de ce tableau :
 \begin{figure}[H]
 \centering
 \includegraphics[height=0.9\textheight,keepaspectratio]{figures/fig-01-goldenrod.png}
-\caption{Cercle de Pétosiris.}
+\caption{\bfseries Cercle de Pétosiris.}
 \end{figure}
 \end{landscape}
 \clearpage
@@ -1523,7 +1523,7 @@ Voici la photogravure de ce tableau :
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.95\textwidth,keepaspectratio]{figures/fig-02-goldenrod.png}
-\caption{Autre Cercle de Pétosiris.}
+\caption{\bfseries Autre Cercle de Pétosiris.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -1726,7 +1726,7 @@ La traduction répond ligne pour ligne, au texte placé vis-à-vis.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth,keepaspectratio]{figures/fig-03-goldenrod.png}
-\caption{Planche 1.}
+\caption{\bfseries Planche 1.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -1744,6 +1744,7 @@ La traduction répond ligne pour ligne, au texte placé vis-à-vis.
 \begin{table}[H]
     \centering
     \small
+    \bfseries
     \begin{tabular}{l p{60mm}}
          Χρυσός              &  Or.                                                                         \\
          Χρυσοῦ ῥίνημα       &  Limaille d'or.                                                              \\
@@ -1784,6 +1785,7 @@ La traduction répond ligne pour ligne, au texte placé vis-à-vis.
 \begin{table}[H]
     \centering
     \small
+    \bfseries
     \begin{tabular}{l l}
          Ἥλιος χρυσός              &  Soleil, or.                        \\
          Σελήνη ἄργυρος            &  Lune, argent.                      \\
@@ -1800,6 +1802,7 @@ La suite forme le commencement du verso de la feuille 6 dans le manuscrit ; elle
 \begin{table}[H]
     \centering
     \small
+    \bfseries
     \begin{tabular}{l l}
          Μολίβδου γῆ            &  Terre de plomb (minerai).                        \\
          Μολιβδόχαλκος          &  Molybdochalque.                                  \\
@@ -1831,7 +1834,7 @@ Le verso de la feuille 6 du manuscrit n'étant pas inséré en entier dans ce qu
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth,keepaspectratio]{figures/fig-04-goldenrod.png}
-\caption{Planche 2.}
+\caption{\bfseries Planche 2.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -1844,6 +1847,7 @@ La colonne gauche de la planche 2 renferme les signes du folio 7 recto du manusc
 \begin{table}[H]
     \centering
     \small
+    \bfseries
     \begin{tabular}{l p{65mm}}
          Χάλκανθος        &  Couperose.                                                                         \\
          Χαλκίτης         &  Minerai pyriteux de cuivre.                                                        \\
@@ -1887,6 +1891,7 @@ La colonne gauche de la planche 2 renferme les signes du folio 7 recto du manusc
 \begin{table}[H]
     \centering
     \small
+    \bfseries
     \begin{tabular}{l l}
          Οἶνος ἀμηνέος          &  Vin doux.                              \\
          Ῥαφάνινον ἔλαιον       &  Huile de raifort.                      \\
@@ -1911,7 +1916,7 @@ La colonne gauche de la planche 2 renferme les signes du folio 7 recto du manusc
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.85\textwidth,keepaspectratio]{figures/fig-05-goldenrod.png}
-\caption{Planche 3.}
+\caption{\bfseries Planche 3.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -1922,6 +1927,7 @@ La colonne gauche de la planche 2 renferme les signes du folio 7 recto du manusc
 \begin{table}[H]
     \centering
     \small
+    \bfseries
     \begin{tabular}{l p{65mm}}
         Ποταμός            &  Fleuve. --- ξανθόν, jaune --- signe plus mod.                                                                                            \\
          Ὄξος               &  Vinaigre.                                                                                                                                \\
@@ -1952,6 +1958,7 @@ La colonne gauche de la planche 2 renferme les signes du folio 7 recto du manusc
 \begin{table}[H]
     \centering
     \small
+    \bfseries
     \begin{tabular}{l l}
          Μωσῆς          &  Moïse.        \\
          Δημόκριτος     &  Démocrite.    \\
@@ -1988,7 +1995,7 @@ Cette dernière liste a un intérêt historique, plutôt que technique. Son comm
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-06-goldenrod.png}
-\caption{Planche 4.}
+\caption{\bfseries Planche 4.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -2049,7 +2056,7 @@ Jours --- nuits --- heures --- un jour et une nuit.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth,keepaspectratio]{figures/fig-07-goldenrod.png}
-\caption{Planche 5.}
+\caption{\bfseries Planche 5.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -2113,7 +2120,7 @@ Botarion (vase à digestion) --- fumier --- plante --- vapeur (céleste --- le s
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-08-goldenrod.png}
-\caption{Planche 6.}
+\caption{\bfseries Planche 6.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -2177,7 +2184,7 @@ Pulvérisez.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-09-goldenrod.png}
-\caption{Planche 7.}
+\caption{\bfseries Planche 7.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -2241,7 +2248,7 @@ Sucre --- farine --- ricin --- manne (le signe est à la page suivante).
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-10-goldenrod.png}
-\caption{Planche 8.}
+\caption{\bfseries Planche 8.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -3184,7 +3191,7 @@ Je vais transcrire maintenant ces figures, en accompagnant chacune d'elles de co
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.95\textwidth,keepaspectratio]{figures/fig-11-goldenrod.png}
-\caption{Chrysopée de Cléopâtre.}
+\caption{\bfseries Chrysopée de Cléopâtre.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -3236,7 +3243,7 @@ Au centre, de droite à gauche, on voit les signes de l'or, de l'argent, du merc
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth,keepaspectratio]{figures/fig-12-goldenrod.png}
-\caption{Alambic de vase à fixation (Décalque du Ms. 2325).}
+\caption{\bfseries Alambic de vase à fixation (Décalque du Ms. 2325).}
 \end{figure}
 \paragraph{}
 A gauche des cercles, on voit l'image grossière d'un alambic à une pointe, avec condensateur supérieur et matras inférieur, le tout de la même forme générale que la portion 8° de la figure du manuscrit de St-Marc. A côté, deux appareils à \emph{fixation}, à pointe tournée vers le haut, lesquels sont évidemment imités des portions 3° et 4° de la fig. 11. Il en est de même d'un dernier reste du petit cercle à 3 appendices ou trépied, coupé dans le manuscrit 2325 par le relieur, mais qui se retrouve intact dans le manuscrit 2275, lequel a toute cette figure.
@@ -3254,7 +3261,7 @@ Il y a des inscriptions sur les divers appareils du folio 80, telles que πῆξ
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.65\textwidth,keepaspectratio]{figures/fig-13-goldenrod.png}
-\caption{Cercle concentrique, Alambic et Vase à fixation (Ms. 2327).}
+\caption{\bfseries Cercle concentrique, Alambic et Vase à fixation (Ms. 2327).}
 \end{figure}
 \paragraph{}
 La forme même des appareils dans les manuscrits 2325 et 2327 offres des variantes intéressantes pour l'histoire de la Science et sur lesquelles je reviendrai bientôt ; mais ici je veux seulement montrer la filiation des figures. En tout cas, la copie 2325 répond à une tradition postérieure à celle du prototype de Saint-Marc, puisque le nom de la Chrysopée de Cléopâtre a disparu.
@@ -3271,7 +3278,7 @@ Le matras inférieur s'appelle toujours λωπάς, avec addition des mots θε
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-14-goldenrod.png}
-\caption{Alambic à deux récipients (\emph{dibicos}). Réduction aux 2/3.}
+\caption{\bfseries Alambic à deux récipients (\emph{dibicos}). Réduction aux 2/3.}
 \end{figure}
 \vspace*{\fill}
 \clearpage
@@ -3291,7 +3298,7 @@ Enfin on distingue le tube ascendant, ou tube index, λιχανὸς σωλήν
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-15-goldenrod.png}
-\caption{Alambic à trois récipients (\emph{tribicos}). Réduction aux 2/3.}
+\caption{\bfseries Alambic à trois récipients (\emph{tribicos}). Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec modifications considérables : je les signalerai tout à l'heure.
@@ -3301,7 +3308,7 @@ Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth,keepaspectratio]{figures/fig-16-goldenrod.png}
-\caption{Appareil distillatoire. Réduction aux 2/3.}
+\caption{\bfseries Appareil distillatoire. Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 \emph{Figure 17.} --- Les deux figures précédentes sont reproduites dans la même forme générale par le manuscrit 2325 (fol. 84), sauf quelques variantes ; je donne seulement le tribicos. Il existe aussi dans le manuscrit 2275 (fol. 57 verso). Les mêmes figures sont dessinées dans le manuscrit 2327 ; mais la forme en a été profondément modifiée et s'est rapprochée de celle des alambics de verre du siècle dernier, que l'on emploie encore quelquefois aujourd'hui. Je transcrirai ces reproductions un peu plus loin (fig. 37 et 38).
@@ -3309,7 +3316,7 @@ Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec
 \begin{figure}[H]
 \centering
 \includegraphics[height=0.25\textheight,keepaspectratio]{figures/fig-17-goldenrod.png}
-\caption{Tribicos. (Ms. 2325) Décalque.}
+\caption{\bfseries Tribicos. (Ms. 2325) Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 18.} --- Elle se trouve au folio 10 du manuscrit de Saint-Marc, entre la première et la deuxième leçon de Stephanus ; elle est dessinée à l'encre rouge et contemporaine du texte. La signification en est difficile à préciser avec certitude. Cependant il semble qu'il s'agisse d'une chaudière à tête élargie en forme de chapiteau, et destinée à distiller des liquides qui tombent dans un bassin hémisphérique appelé πόντος : la mer. Ce bassin est porté sur une sorte de fourneau, bain de sable, ou bain-marie. A côté se trouve un instrument inconnu ; à moins qu'il ne s'agisse d'une forme un peu différente de bain de sable. Le texte même de Stephanus, soit à la fin de la première leçon, laquelle est purement déclamatoire et enthousiaste, soit au début de la deuxième leçon, lequel est relatif aux propriétés mystiques de l'Unité numérique ; ce texte, dis-je, ne m'a paru fournir aucune lumière pour l'intelligence de cette figure.
@@ -3317,7 +3324,7 @@ Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-18-goldenrod.png}
-\caption{Chaudière distillatoire.}
+\caption{\bfseries Chaudière distillatoire.}
 \end{figure}
 \paragraph{}
 \emph{Figure 19.} --- Cette figure (manuscrit de Saint-Marc, fol. 106 verso), est une ébauche à l'encre rouge, d'une écriture plus moderne ; elle est en marge d'un article sur l'œuf philosophique, à côté des mots : τὸ δὲ (ici un mot gratté, ὠοῦ ? ) τούτο ὠμὸν λέγουσιν. Il semble que ce soit le chapiteau d'un alambic. On donne cette figure pour ne rien omettre.
@@ -3325,7 +3332,7 @@ Cette figure se retrouve dans les manuscrits 2325 et 2327 ; dans le dernier avec
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.25\textwidth,keepaspectratio]{figures/fig-19-goldenrod.png}
-\caption{Ébauche d'alambic. Décalque.}
+\caption{\bfseries Ébauche d'alambic. Décalque.}
 \end{figure}
 \paragraph{}
 Les alambics et appareils distillatoires, que nous venons d'étudier, se rattachent à la tradition de la Chrysopée de Cléopâtre, laquelle en contient les plus vieilles figures. Mais il est un autre ordre d'appareils, destinés ceux-ci au traitement des métaux par le mercure, le soufre, les sulfures d'arsenic ; appareils qui avaient été décrits spécialement par une autre femme, Marie l'Alchimiste, de préférence aux appareils distillatoires (manuscrit de Saint-Marc, fol. 186, avant-dernière ligne). Ce sont les appareils à \emph{kérotakis}, c'est-à-dire à palette, avec leurs fourneaux. Ces appareils n'existent pas dans la Chrysopée et semblent plus modernes ; ils ont joué un rôle fort important dans le développement historique des pratiques alchimiques. Le passage rappelé plus haut montre que le traité de Zosime sur les instruments et fourneaux, dont nous possédons des débris, embrassait, ainsi qu'il arrive d'ordinaire dans les matières techniques, les traités antérieurs sur la même question, tels que ceux de Cléopâtre sur les alambics (v. p. 137) et ceux de Marie sur les appareils à kérotakis et leurs fourneaux.
@@ -3337,7 +3344,7 @@ Voici les, figures de ces derniers :
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.65\textwidth,keepaspectratio]{figures/fig-20-21-goldenrod.png}
-\caption{Vases à digestion cylindriques. --- Réduction aux 2/3.}
+\caption{\bfseries Vases à digestion cylindriques. --- Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 Au-dessus du vase était posée une lame ou feuille métallique, κηροτακὶς, sur laquelle on faisait fondre matières fusibles. La forme en était tantôt en parallélogramme et aplatie (fig. 22), avec les extrémités arrondies ; tantôt triangulaire (fig. 24 \emph{bis}). La κηροτακίς paraît n'être autre que la palette des peintres anciens,\footnote{Du Cange. \emph{Glossarium mediæ et infimæ græcitatis}.} qui y faisaient le mélange des couleurs, entr'elles et avec la cire ; ils maintenaient la palette à une douce chaleur, afin d'opérer le mélange, et aussi au moment de s'en servir.
@@ -3365,7 +3372,7 @@ Observons ici que les appareils cylindriques pourvus de la kérotakis n'ont ét�
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.75\textwidth,keepaspectratio]{figures/fig-22-goldenrod.png}
-\caption{Bain-marie à kérotakis. --- Réduit aux 2/3.}
+\caption{\bfseries Bain-marie à kérotakis. --- Réduit aux 2/3.}
 \end{figure}
 \paragraph{}
 Le digesteur dessiné sur cette même figure 22 est long d'une palme, comme l'indiquent les mots παλαιστιαῖον καμίνιον. Il semble criblé de trous ; à moins qu'il ne s'agisse d'une ornementation superficielle. C'était là d'abord un bain de cendres, ou un bain de sable. Dans l'une des formules de dorure du Papyrus X de Leide, il est question aussi de l'emploi des cendres (formule 57, ce volume, p. 40).
@@ -3381,7 +3388,7 @@ Les produits sublimés sont récoltés dans deux condensateurs supérieurs, conc
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.5\textwidth,keepaspectratio]{figures/fig-23-goldenrod.png}
-\caption{Bain-marie à kérotakis (Ms. 2325). D'après Décalque.}
+\caption{\bfseries Bain-marie à kérotakis (Ms. 2325). D'après Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 24.} --- Cette figure (manuscrit de Saint-Marc, fol. 196), est encore un appareil analogue aux précédents, sauf quelques variantes plus importantes.
@@ -3389,7 +3396,7 @@ Les produits sublimés sont récoltés dans deux condensateurs supérieurs, conc
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-24-goldenrod.png}
-\caption{Autre bain-marie. --- Réduction aux 2/3.}
+\caption{\bfseries Autre bain-marie. --- Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 La palette porte deux coupes inférieures vers ses extrémités. Dans la coupe supérieure (φιάλη), on lit le mot βάθος (cavité).
@@ -3399,7 +3406,7 @@ La palette porte deux coupes inférieures vers ses extrémités. Dans la coupe s
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-24-bis-goldenrod.png}
-\caption{Kérotakis. --- Réduction aux 2/3.}
+\caption{\bfseries Kérotakis. --- Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 C'est une seconde forme de cet instrument, distincte de celles qui sont représentées figures 22 et 25.
@@ -3411,7 +3418,7 @@ Ce dessin et les deux suivants se trouvent à la fin de l'article : Τοῦ χρ
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-25-goldenrod.png}
-\caption{Vase à kérotakis. --- Décalque. Les inscriptions sont reproduites ici en caractères actuels, mais avec l'orthographe du manuscrit. --- Réduction aux 2/3.}
+\caption{\bfseries Vase à kérotakis. --- Décalque. Les inscriptions sont reproduites ici en caractères actuels, mais avec l'orthographe du manuscrit. --- Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 A côté de la figure 25 se trouve le mot κάμινος ; au-dessous on lit, en caractères du 16\textsuperscript{e} siècle, une inscription devenue presque illisible, mais dont les lettres restées distinctes répondent sans nulle incertitude au texte suivant : καρκίνος δ᾽ ἐπὶ λευκώσεως · κεῖται δ᾽ ὁ λόγος ἔμπροσθεν c'est-à-dire « écrevisse pour le blanchiment ; l'explication se trouve au-dessus du texte précédent.\footnote{Voir plus loin la formule de voir l'Écrevisse. --- Sur le sens de ce mot appliqué à un appareil chimique, p. 145.} »
@@ -3431,7 +3438,7 @@ Remarquons que ce dessin ressemble aux figures 22, 23 et 24, sauf quelques varia
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.20\textwidth,keepaspectratio]{figures/fig-26-goldenrod.png}
-\caption{Récipients supérieurs des figures 25 et 27. Décalque. --- Réduction aux 2/3. --- Caractères actuels.}
+\caption{\bfseries Récipients supérieurs des figures 25 et 27. Décalque. --- Réduction aux 2/3. --- Caractères actuels.}
 \end{figure}
 \paragraph{}
 \emph{Figure 27.} --- Dans ce dessin il n'y a pas de vase à digestion et l'action du foyer s'exerce directement. Le mot κυροτακίς est inscrit sur la portion verticale du dessin, au-dessus du feu ; mais il est probable que c'est faute de place pour l'inscrire sur la partie horizontale et supérieure. Cet appareil doit être rapproché des figures 20 et 21, c'est-à-dire des aludels, plutôt que des bains-marie des figures 22, 23, 24 et 25.
@@ -3439,7 +3446,7 @@ Remarquons que ce dessin ressemble aux figures 22, 23 et 24, sauf quelques varia
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.20\textwidth,keepaspectratio]{figures/fig-27-goldenrod.png}
-\caption{Autre vase à kérotakis. Décalque. --- Réduction aux 2/3. Les inscriptions sont reproduites en caractères actuels.}
+\caption{\bfseries Autre vase à kérotakis. Décalque. --- Réduction aux 2/3. Les inscriptions sont reproduites en caractères actuels.}
 \end{figure}
 \paragraph{}
 Les appareils 25, 26 et 27 n'existaient pas sur le manuscrit initial de Saint-Marc ; ils ont été ajoutés plus tard, vers le 16\textsuperscript{e} siècle, sans doute, d'après un autre manuscrit comparable au 2325 (13\textsuperscript{e} siècle), mais qui n'existe plus.
@@ -3453,7 +3460,7 @@ Nous avons donné toutes les figures relatives aux appareils du manuscrit de Sai
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.95\textwidth,keepaspectratio]{figures/fig-28-goldenrod.png}
-\caption{Formule de l'Écrevisse. --- Réduction aux 2/3.}
+\caption{\bfseries Formule de l'Écrevisse. --- Réduction aux 2/3.}
 \end{figure}
 \paragraph{}
 La première page de Saint-Marc débute par la description du traitement des scories, lequel paraît se rapporter au changement d'une scorie noire et métallique, telle que celle du plomb, en un composé blanc (carbonate ou sulfate), sous l'influence prolongée de l'eau et de l'air. La description, écrite dans un grec barbare, se termine par ces mots : « Ainsi a été accomplie avec le secours de Dieu, la pratique de Justinien. » (\emph{Texte grec}, 2, 4 \emph{bis}, appendice 1). Puis viennent le nom de la tutie, ou oxyde de zinc impur, suivi par des mots magiques, analogues à ceux qui figurent dans les Papyrus de Leide, dans Jamblique et dans le manuscrit 2419.
@@ -3503,7 +3510,7 @@ Voici le moment de rappeler les signes magiques de la Chrysopée de Cléopâtre 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.9\textwidth,keepaspectratio]{figures/fig-29-goldenrod.png}
-\caption{Alphabets magiques. --- Réduction à 1/2. --- D'après décalque.}
+\caption{\bfseries Alphabets magiques. --- Réduction à 1/2. --- D'après décalque.}
 \end{figure}
 \paragraph{}
 En réalité, aucun de ces alphabets n'a rien de commun avec les hiéroglyphes. Ce sont simplement deux alphabets cryptographiques, formés avec des lettres grecques plus ou moins défigurées, mais sans modification dans leur nombre ou leur valeur.
@@ -3517,7 +3524,7 @@ C'étaient là en réalité des jeux d'esprit individuels, plutôt que des alpha
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth,keepaspectratio]{figures/fig-30-goldenrod.png}
-\caption{Labyrinthe de Salomon. --- Réduction à 1/2.}
+\caption{\bfseries Labyrinthe de Salomon. --- Réduction à 1/2.}
 \end{figure}
 \paragraph{}
 On donnera ailleurs (\emph{Texte grec}, 1, 20) ce commentaire.
@@ -3527,7 +3534,7 @@ On donnera ailleurs (\emph{Texte grec}, 1, 20) ce commentaire.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.4\textwidth,keepaspectratio]{figures/fig-31-goldenrod.png}
-\caption{Symbole cordiforme. --- Décalque.}
+\caption{\bfseries Symbole cordiforme. --- Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figures 32 et 33.} --- C'est un dessin mystique, formé par l'assemblage de divers signes destinés à représenter une opération chimique ; on dirait une sorte d'équation chimique, analogue aux équations atomiques et renfermant comme les nôtres les symboles des corps intervenants. Elle se trouve au folio 47, verso, du manuscrit 2327, vers la fin de la troisième leçon de Stephanus, vis-à-vis des mots : οὗτος ἐστὶν ὁ ἐτήσιος ὁ πάρερμος ὁ πολύχρωμος. « C'est la pierre étésienne, le support polychrome (des teintures ? ). » Puis vient tout un développement mystique sur la pierre philosophale.
@@ -3535,13 +3542,13 @@ On donnera ailleurs (\emph{Texte grec}, 1, 20) ce commentaire.
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.2\textwidth,keepaspectratio]{figures/fig-32-goldenrod.png}
-\caption{Dessin mystique (2327). Décalque.}
+\caption{\bfseries Dessin mystique (2327). Décalque.}
 \end{figure}
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.2\textwidth,keepaspectratio]{figures/fig-33-goldenrod.png}
-\caption{Dessin mystique (2325). Décalque.}
+\caption{\bfseries Dessin mystique (2325). Décalque.}
 \end{figure}
 \paragraph{}
 Le relieur du manuscrit, au 16\textsuperscript{e} siècle, a coupé une partie de la branche gauche du dessin. Mais il n'y avait là rien de particulier, comme le montre le manuscrit 2325 qui contient la manie figure (fol. 46, verso). On a reproduit cette dernière à côté (fig. 33).
@@ -3557,7 +3564,7 @@ Telles sont les figures fournies par le manuscrit de Saint-Marc et les dessins c
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.85\textwidth,keepaspectratio]{figures/fig-34-goldenrod.png}
-\caption{Serpent Ouroboros. --- D'après décalque.}
+\caption{\bfseries Serpent Ouroboros. --- D'après décalque.}
 \end{figure}
 \paragraph{}
 Au folio 279 du même manuscrit se trouve une seconde figure du serpent, avec un texte un peu différent : celui-ci n'a que deux anneaux ou cercles ; ses écailles sont mieux marquées.
@@ -3567,7 +3574,7 @@ Au folio 279 du même manuscrit se trouve une seconde figure du serpent, avec un
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.2\textwidth,keepaspectratio]{figures/fig-35-goldenrod.png}
-\caption{Signe d'Hermès. Décalque.}
+\caption{\bfseries Signe d'Hermès. Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 36.} --- Cette figure renferme quatre images géométriques, destinées à commenter le texte du folio 106 recto (manuscrit 2327). Elles existent aussi au manuscrit 2325 (fol. 111), au manuscrit 2275 (fol. 78 verso), etc.
@@ -3577,7 +3584,7 @@ Les figures qui suivent concernent des appareils nouveaux, dont il convient de c
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-36-goldenrod.png}
-\caption{Images géométriques. Décalque.}
+\caption{\bfseries Images géométriques. Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 37.} --- Cette figure (manuscrit 2327, folio 81 verso) contient deux alambics et deux vases à digestion.
@@ -3597,7 +3604,7 @@ On donnera tout à l'heure une figure similaire (fig. 38), d'après le manuscrit
 \begin{figure}[H]
 \centering
 \includegraphics[height=0.8\textheight,keepaspectratio]{figures/fig-37-goldenrod.png}
-\caption{Alambic et Vase à digestion.}
+\caption{\bfseries Alambic et Vase à digestion.}
 \end{figure}
 \vspace*{\fill}
 \end{landscape}
@@ -3626,7 +3633,7 @@ Ajoutons qu'on lit au-dessous de l'ensemble de ces appareils la formule mystique
 \begin{figure}[H]
 \centering
 \includegraphics[height=0.8\textheight,keepaspectratio]{figures/fig-38-goldenrod.png}
-\caption{Alambic et Vase à digestion.}
+\caption{\bfseries Alambic et Vase à digestion.}
 \end{figure}
 \vspace*{\fill}
 \end{landscape}
@@ -3647,7 +3654,7 @@ Ajoutons qu'on lit au-dessous de l'ensemble de ces appareils la formule mystique
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-39-goldenrod.png}
-\caption{Petit alambic. Décalque.}
+\caption{\bfseries Petit alambic. Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 40.} --- Cette figure (manuscrit 2327, fol. 33 verso), fait partie de l'ouvrage de Synésius et répond exactement au texte de l'auteur : c'est l'une des plus intéressantes, en raison de la date de cet ouvrage (4\textsuperscript{e} siècle). Elle représente un alambic, sur une marmite servant de bain-marie (λέβης), portée elle-même sur un trépied. Elle rappelle tout à fait la disposition de nos appareils modernes.
@@ -3659,7 +3666,7 @@ La figure manque d'ailleurs dans le manuscrit de Saint-Marc, quoique le texte so
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-40-goldenrod.png}
-\caption{Alambic de Synésius. Décalque.}
+\caption{\bfseries Alambic de Synésius. Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 41.} --- Elle reproduit le dessin fort élémentaire du même alambic, d'après le manuscrit 2325.
@@ -3669,7 +3676,7 @@ Tout ceci est fort important pour l'histoire de la distillation. A l'origine, on
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-41-goldenrod.png}
-\caption{Alambic de Synésius. (Ms. 2325.) Décalque.}
+\caption{\bfseries Alambic de Synésius. (Ms. 2325.) Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 42.} --- Cette figure (manuscrit 2327, fol. 112 verso), répétée deux fois, est une simple fiole.
@@ -3677,7 +3684,7 @@ Tout ceci est fort important pour l'histoire de la distillation. A l'origine, on
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-42-goldenrod.png}
-\caption{Fiole. Décalque.}
+\caption{\bfseries Fiole. Décalque.}
 \end{figure}
 \paragraph{}
 \emph{Figure 43.} --- Cette figure (manuscrit 2327, fol. 184 verso), malheureusement coupée par le relieur, se trouve vers la fin du poème de Théophraste. On y discerne un alambic, mais avec un appendice supérieur, fort singulier dont la position rappelle la κηροτακίς. Il est muni de six lignes verticales, répondant au texte suivant : φέροντας τὰς ἕξ ζώνας ὡς τίγμα (\emph{sic}) φάγαι. « Portant six ceintures (enveloppes) pour absorber la matière fondue. »
@@ -3685,7 +3692,7 @@ Tout ceci est fort important pour l'histoire de la distillation. A l'origine, on
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.1\textwidth,keepaspectratio]{figures/fig-43-goldenrod.png}
-\caption{Alambic avec six appendices. Décalque.}
+\caption{\bfseries Alambic avec six appendices. Décalque.}
 \end{figure}
 \subsubsection{Figures du manuscrit 2325.}
 \paragraph{}
@@ -3776,7 +3783,7 @@ On y voit :
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.65\textwidth,keepaspectratio]{figures/fig-44-goldenrod.png}
-\caption{Vase à digestion. --- D'après un dessin.}
+\caption{\bfseries Vase à digestion. --- D'après un dessin.}
 \end{figure}
 \paragraph{}
 La figure de droite reproduit l'appareil à digestion des figures 37 et 38, placé de même sous une enveloppe générale en forme de cloche. Pour plus de précision, je remarquerai que mon dessinateur a raccourci les petites oreilles, situées à droite et à gauche de la lettre β. Dans le manuscrit, ces oreilles s'étendent jusqu'à l'enveloppe et la touchent, de façon à marquer la division de cette enveloppe en deux portions superposées, telles qu'elles sont dessinées en effet dans les figures 37 et 38. Cette enveloppe générale semble avoir été symbolisée par la dénomination de l'œuf philosophique. D'autre part, les trois portions intérieures de cet appareil à digestion sont dessinées à côté, séparées et superposées, de façon à en montrer nettement tout l'ajustement.
@@ -3800,7 +3807,7 @@ Nous avons ici les trois segments à digestion des alchimistes grecs ; avec cett
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.55\textwidth,keepaspectratio]{figures/fig-45-goldenrod.png}
-\caption{Aludel des Arabes.}
+\caption{\bfseries Aludel des Arabes.}
 \end{figure}
 \paragraph{}
 Le couvercle offre deux formes différentes : l'une hémisphérique, l'autre conique. Ces aludels étaient en verre.
@@ -4764,6 +4771,7 @@ La lame réputée de cuivre est profondément altérée et en partie exfoliée p
 \begin{table}[H]
     \centering
     \small
+    \bfseries
     \begin{tabular}{l r}
         Étain          &  10,04 ;    \\
          Cuivre         &  85,25 ;    \\
@@ -5530,6 +5538,7 @@ Les anciens parlent aussi du nitrum factice, préparé avec les cendres de chên
 \begin{table}[H]
     \centering
     \small
+    \bfseries
     \begin{tabular}{l p{65mm}}
          ἀναζωπύρωσις         &  Régénération par le feu ; coupellation.                                                 \\
          ἀνάλυσις             &  Dissolution, désagrégation.                                                             \\
@@ -6422,11 +6431,11 @@ $\star$Χάλκανθός ἐστιν ὁ κρόκος τοῦ ὠοῦ.\footnot
 \subsubsection{1. --- 8. Liste Planétaire des Métaux.}
 \paragraph{}
 \emph{Transcrit sur} A, f. 280 r. --- \emph{Collationné sur} E, f. 213 v. ;--- \emph{sur} L (copie de E), f. 241 r. ;--- \emph{sur} R, fol. 46 v.
-
+\begin{center}
 \textbf{ΕΚ ΤΩΝ ΜΕΤΑΛΛΙΚΩΝ}\footnote{Titre dans EL : Ἐκ τῶν μετ. ἅπερ ἀνατίθενται τοῖς ἑπτὰ πλανήταις. --- Dans R, il y a trois articles sur les plantes, les minéraux, les animaux : Ποῖα τῶν εἰδῶν ἀνήκει ἑκάστῳ ἀστέρι · --- ἐκ τῶν μ. ταῦτα · --- καὶ ἐκ τῶν ζώων ταῦτα. (\emph{M. B.}). --- Les mots λιθάργυρος, γαγἀτης, καὶ κλαυδιανὸς sont transcrits, dans R, en lettres hébraïques, avec ordre inverse, comme il convient (\emph{M. B.}). --- μηλῖται, γαγᾶται EL, f. mel.}
+\end{center}
 
-\bigskip
-
+\paragraph{}
 1. Signe de Saturne. Μόλυβδος · λιθάργυρος · λίθοι μηλίται,\footnote{Réd. du § 1 dans EL : Καὶ τῷ μὲν Κρόνῳ ἀνατίθενται ταῦτα · μόλ. κ. τ. λ.} γαγάται · κλαυδιανὸς, καὶ τὰ τοιαῦτα.
 
 2. Signe de Jupiter. Κασσίτερος · κοράλλιον · καὶ πᾶς λίθος\footnote{Réd. du § 2 dans EL : Τῷ δὲ Διὶ, ταῦτα · κασσ. κ. τ. λ. --- R, après le mot κασσίτερος : οἱ δὲ Πέρσαι οὐχ οὕτως, ἀλλὰ · διάργυρος (en lettres hébraïques) βήριλος · καὶ πᾶς, etc. ; θεῖον est en lettres hébraïques (\emph{M. B.}). --- R, après le mot σίδηρος · λίθος μαγνίτης (ce dernier mot en lettres hébraïques), ψηφηδεῖς καὶ ὅσα λίθοι πυροὶ, καὶ τὰ τοιαῦτα. (\emph{M. B.}). --- Réd. du § 3 dans EL : Τῷ δὲ Ἄρει, ταῦτα · σίδηρος κ. τ. λ. --- μαγνήτης EL. F. l. μαγνῆτις.} λευκός · σανδαράχη · θεῖον, καὶ τὰ τοιαῦτα.
@@ -6555,13 +6564,13 @@ nous donnons les variantes.}
 \end{center}
 \paragraph{}
 \emph{Transcrit sur} L (copie de E), f. 217 r. --- \emph{Collationné sur} E, f. 215 r.
-
-\bigskip
-
+\begin{center}
 ΙΣΙΔΟΣ, ΒΑΣΙΛΙΣΣΗΣ ΑΙΓΥΠΤΟΥ ΚΑΙ ΓΥΝΑΙΚΟΣ ΟΣΙΡΙΔΟΣ, ΠΕΡΙ ΤΗΣ ΙΕΡΑΣ ΤΕΧΝΗΣ ΠΡΟΣ ΤΟΝ ΥΙΟΝ ΑΥΤΗΣ ΤΟΝ ΩΡΟΝ.
 
 ΙΣΙΣ ΠΡΟΦΗΤΙΣ, ΤὯ ΥΙὯ ΛΥΤΗΣ ΩΡὯ.
+\end{center}
 
+\paragraph{}
 1. Σὺ μὲν ἐβουλήθης, ὦ τέκνον, ἀπιέναι ἐπὶ τῆς τοῦ Τύφωνος μάχης, ὥστε καταγωνίσασθαι περὶ τῆς τοῦ πατρός σου βασιλείας. Ἐγὼ δὲ μετὰ τὴν σὴν ἀποδημίαν, παρεγενόμην εἰς Ὁρμανουθὶ, ὅπου ἡ ἱερὰ τέχνη τῆς Αἰγύπτου μυστικῶς κατασκευάζεται. Ἐνταῦθα δὲ, (f. 219 r.) ἱκανὸν χρόνον διατρίψασα, ἐβουλόμην παραχωρῆσαι. Ἑν δὲ τῷ ἀναχωρεῖν με ἐπιτεθεώρηκέ μέ τις τῶν προφητῶν ἢ τῶν ἀγγέλων ὃς διέτριβεν ἐν τῷ πρώτῳ στερεώματι, ὃς προσελθὼν ἐμοὶ, ἐβούλετο μίξεως κοινωνίαν πρὸς ἐμὲ ποιῆσαι. Ἐγὼ δὲ οὐκ ἐπέτρεπον αὐτῷ εἰς τοῦτο γίνεσθαι μέλλοντι, ἀλλ ᾽ ἀπῄτουν ἀπ ᾽ αὐτοῦ τὴν τοῦ χρυσοῦ καὶ ἀργύρου κατασκευήν. Αὐτὸς δέ μοι ἀπεκρίνατο οὐκ ἐξεῖναι αὐτῷ περὶ τούτου ἐξειπεῖν διὰ τὴν τοῦ μυστηρίου ὑπερβολήν.
 
 2. Τῇ δὲ ἐξῆς ἡμέρᾳ, ἦλθε πρὸς μὲ ὁ πρῶτος ἄγγελος καὶ προφήτης αὐτῶν καλούμενος Ἀμναήλ. (f. 221 r.) Ἐγὼ δὲ πάλιν αὐτὸν περὶ τῆς τοῦ χρυσοῦ καὶ ἀργύρου κατασκευῆς ἐπηρώτων. Ἐκεῖνος δέ μοι ἐπεδείκνυέ τι σημεῖον ὅπερ εἶχεν ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ\footnote{F. l. αὑτοῦ \emph{hic et infra}.} κεράμιόν τι ἀπίσσωτον πλῆρες ὕδατος διαυγοῦς, ὅπερ εἶχεν ἐν ταῖς\footnote{ἐν ταῖς χερσὶν αὐτοῦ E.} χερσὶ, καὶ οὐκ ἐβούλετο τὸ ἀληθἐς εἰπεῖν.
@@ -6978,11 +6987,11 @@ nous donnons les variantes.}
 \subsubsection[2. --- 4. Olympiodore.]{2. --- 4. Olympiodore.\footnote{Titre dans AL : Ὀλ. φιλ. πρὸς Πετάσιον τὸν βασιλέα (βασιλέαν A) Ἀρμενίας περὶ τῆς θείας καὶ ἱερᾶς τέχνης τοῦ λίθου τῶν φιλοσόφων, puis dans L : καὶ εἰς τὸ κ. ἐ. Z. καὶ εἰς ὅσα ἀπὸ Ἑρμοῦ κ. τ. λ. (comme dans MK).}}
 \paragraph{}
 \emph{Transcrit sur} M, f. 163 r. --- \emph{Collationné sur} A, f. 197 r. ;--- \emph{sur} K (\emph{copie probablement directe de} M.), f. 76 r., \emph{seulement les premiers feuillets, plus quelques sondages} ;--- \emph{sur} L \emph{ou} La, f. 1 r.
-
-\bigskip
-
+\begin{center}
 ΟΛΥΜΠΙΟΔΩΡΟΥ ΦΙΛΟΣΟΦΟΥ ΑΛΕΞΑΝΔΡΕΩΣ ΕΙΣ ΤΟ ΚΑΤ ᾽ ΕΝΕΡΓΕΙΑΝ ΖΩΣΙΜΟΥ ΟΣΑ ΑΠΟ ΕΡΜΟΥ ΚΑΙ ΤΩΝ ΦΙΛΟΣΟΦΩΝ ΗΣΑΝ ΕΙΡΗΜΕΝΑ.\footnote{ἀπὸ] F. l. ὑπὸ.}
+\end{center}
 
+\paragraph{}
 1. Γίνεται δὲ ἡ ταριχεία ἀπὸ μηνὸς μεχὶρ κεʹ [καὶ] ἕως μεσωρὶ\footnote{Γίνεται --- ἀποκείμενα] Texte reproduit dans 3, 29, 9, avec quelques variantes que l'on a indiquées au passage cité. Cp. les textes analogues contenus dans les mss. La, p. 175 et Lc, p. 341. --- δὲ om. A. --- καὶ est probablement une répétition altérée de κεʹ. --- μεσωρὶ] μετοπωρινῆς A. --- Réd. de L : ... μεχὶρ, ἤγουν τοῦ φεβρυαρίου εἰκοστῆς πέμπτης, ἕως μεσωρὶ ἤγουν τοῦ αὐγούστου.} κεʹ · ὅσα ἂν δύνῃ ταριχεῦσαι καὶ πλῦναι ἕως ἀφῇς τὰ αὐτὰ ἐν\footnote{ταρίχευε καὶ πλύνε ταῦτα πρότερον καὶ ἄφες αὐτὰ L. --- ἕως] ὡς M. --- τὰ αὐτὰ] αὐτὰ A, f. mel.} ἀγγείοις ἀποκείμενα. Καὶ ἐὰν δύνῃ ποιῆσαι, ποίησον τῆς ταριχείας\footnote{ἀγγείοις] ἄγγεσιν A. --- δύνῃ] δυνείσοι (pour δυνήσῃ ? ) A.} τὴν ἐνέργειαν, κάλλιστε τῶν σοφῶν.\footnote{κάλλιστα καὶ σοφώτατα L.}
 
 Ἔθος γὰρ τοῖς ἀρχαίοις συγκαλύπτειν τὴν ἀλήθειαν καὶ τὰ πάντη τοῖς ἀνθρώποις εὔδηλα, δι ᾽ ἀλληγοριῶν τινων καὶ τέχνης ἐμφιλοσόφου\footnote{M mg. : φάρμουθι, ἀπριλλ (Main du 15\textsuperscript{e} siècle).} ἀποκρύπτειν, οὐ μόνον δὲ ὅτι τὰς τιμίας ταύτας τέχνας τῇ\footnote{Après ἀποκρύπτειν] ὡς ἔοικεν add. L. --- δὲ ὅτι] γὰρ L. --- Après ταύτας] καὶ φιλοσοφικὰς add. L.} ἀφεγγεῖ αὐτῶν καὶ σκοτεινοτάτῃ ἐκδόσει συνεσκίασαν, ἀλλὰ καὶ αὐτὰ τὰ κοινὰ ῥήματα δι ᾽ ἄλλων τινῶν ῥημάτων μετέφρασαν · ὡς ἔχει ἐπὶ τοῦ ἐν ὑποκειμένῳ καὶ οὐκ ἐν ὑποκειμένῳ · ὡς καὶ αὐτὸς γινώσκεις,\footnote{ἐπὶ τοῦ ἐναποκειμένου A. --- ἐπὶ τοῦ ἐνυποκειμένῳ L 2 fois.. --- καὶ οὐκ ἐν ὑποκ. A.} φιλόσοφε δέσποτα, εἰς τοῦτο αὐτὸ Πλάτωνα καὶ Ἀριστοτέλην\footnote{ὦ φιλόσοφε δέσποτα L. --- εἰς τοῦτο γὰρ αὐτὸ Πλάτων καὶ Ἀριστοτέλης ἀλληγοροῦσι L. --- ἀλληγοροῦνται A.} ἀλληγορήσαντας, καὶ πρὸς τὰ ῥήματα ταῦτα διαφερομένους.\footnote{διαφέρονται πρὸς ἀλλήλους L.} Ἀριστοτέλης γὰρ τὴν οὐσίαν φησὶν οὐκ ἐν ὑποκειμένῳ εἶπε,\footnote{Ἀριστοτ. μὲν γὰρ L. --- φησὶν τὴν οὐσίαν L. --- ἐνυποκειμένω M ici et presque partout. --- ἐν ὑποκ. εἶναι, τὸ δὲ συμβ. L. --- Ἀριστοτέλης γὰρ] Cp. Aristote, \emph{Catégories} 5, p. 2 à 11.} τὸ δὲ συμβεβηκὸς ἐν ὑποκειμένῳ. Πλάτων δὲ πάλιν τοὐναντίον ποιεῖ\footnote{Πλάτων δὲ] Cp. Alcinoüs, \emph{sur les dialogues de Platon} (dans le Platon de la collection Didot, t. 3, p. 232). --- Après ποιεῖ] Réd. de L : κατὰ μὲν γὰρ τὸ ἐν ὑποκ. τ. ο. ποιεῖ, κατὰ δὲ τὸ οὐκ ἐν ὑποκ. τὸ συμβεβηκὸς εἶναι.} καὶ τὸ οὐκ ἐν ὑποκειμένῳ τὴν οὐσίαν καὶ τὸ ἐν ὑποκειμένῳ τοῦ συμβεβηκότος, καὶ ἀπλῶς ὥσπερ ὅσα τοιαῦτα καὶ τοσαῦτα κατὰ τὸν δοκήσαντα αὐτοῖς τρόπον ἐξέθεντο. Οὕτω καὶ ἐπὶ τῆς τιμίας ταύτης τέχνης πᾶσα σπουδὴ γέγονεν τοῖς ἀρχαίοις, ἑνὸς ὄντος τοῦ πράγματος\footnote{πράγματος] συγ κράματος (pour συγγράμματος ? ) A.} καὶ μιᾶς τέχνης διά τινων θεωριῶν καὶ αἱνιγμάτων ἐκθέσθαι\footnote{θεωριῶν ταύτην ἐκθέσθαι L.} · ἵνα ἐκ τῶν φυσικῶν πραγμάτων ἀκοντίσαντες τοὺς ζητητὰς,\footnote{τῶν μὴ φυσικῶν L. --- ἀκοντίσαντες] ἐλκύσαντες L.} εἰς (f. 163 v.) τὰ οὐ φυσικὰ πράγματα μεθοδεύσωσιν, ὃ δὴ καὶ γέγονεν.\footnote{γέγονεν --- παρὼν] Réd. de L : γέγονεν αὐτοῖς · τὰ δὲ πάντα ἐκ τῶν ἑξῆς ὁ παρὼν ...} Ἐκ τῶν ἑξῆς γὰρ ὁ παρὼν δηλώσει τρόπος.
@@ -7836,6 +7845,7 @@ Le blanc d'œuf est l'eau divine ; le jaune d'œuf est la couperose ; la partie 
 
 \begin{table}[H]
     \centering
+    \bfseries
     \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|l|l|}
     \hline
         1. & 6. & Z. & 10. & 13. & 14. & 18. & 20. & 22. & 24. & 25. & 28. & 30. & 32. \\ \hline
@@ -7920,6 +7930,7 @@ Je crois au contraire utile de reproduire ici la liste \emph{des mois égyptiens
 \begin{table}[H]
     \centering
     \small
+    \bfseries
     \begin{tabular}{l l l}
          Phamenoth   &  Martios (Mars)          &  Barmhat.                   \\
          Pharmouthi  &  Aprilios (Avril)        &  Barmudeh.                  \\
