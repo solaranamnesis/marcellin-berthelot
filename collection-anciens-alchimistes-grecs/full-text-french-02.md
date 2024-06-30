@@ -5639,897 +5639,197 @@ la fin du 5. --- 5. τῆς] καὶ τῆς Lc. --- | Corr. conj. --- 18. ἐχ
 6. ἀποτελούσης Lc. --- κρατοῦνται B etc. --- | λεκίθοις ἔχρισαν (?) Cp. ci-après V, ,
 7. κρατ. εὑρίσκονται Lc. --- 10. σκευαζόμενον | 15. --- ἄμφω] ἀμφοτέρω Lc, mel. --- 19.
 Lc. --- 14. lῶς οῦν, ὼ φιλόσοφοι, φησὶν | θυtα mss. --- 20. ὑπερέχοι ἄν Lc.
-ZOSIME
-
-
-### 0163
-
-COLLECTION
-).
-ALCΗMSTES RC
-TRADUCTIOΝ
-S ΣCONDE IS
-
-
-### 0164
-
-ν
-.
-46 .. ---
-.
-. δο
-.
-.
-4 . ---
-*
-1. .
-. · .. · ---
-φ. .
-.
-. e
-.
-. ---
----
-*-
-.
-1 . ·
-δ .
-. .
-νν
-..e
-.
-.
-.
-e
-. .
-,
-1-
-. e
-e
-. r
-vr
-., . 4 « K
-r.
-|
-e. .
-.
-. 4
-.
-a
-ι
-*
-.
-σ
-.
-π
-τ.
-..y
-ς χ
--.
-. : :
-r.-
-. B
--
-r ) N
-.
-. . .
-. »· 5.---
-L ' .
-r.
-1j
----- · .. t
-.
-ὶ
-..
-f
-v
-.
-* s . --- . ι 0
-γ
-. ί, .
-.
-χ . τ
-f. .
-. .π
-. r ι : ν. * t
-.
-. . ς
-. .
-4
-.
--η 4
-ν .
----
-.p. 4
-*
-.
-τ
-.
-.
-.
-. .*
-ψ
-s0 .'. . .
-. η
-ν. τ .A
-. σ μ
-, σ *
-· ---.. ... ς· ..
----
-. ,-
----
-. - .
-. L
-a. ν
-..
----,- ..
-*
-ι
-..
--
-|
-.
-, .
-, rσ
-.
-.
-.. .
-. 2α
-. -
-ρ1
-β I f .
-. .
-. 1
-.. ---
-M
-.-
-σ
-. - .
-.
-σ
-ρ
-σ
-.
-. , ., .χ σ ..
-* .
-.
-σ .
-4
-ν, . . .r κι ..
-.
-τ
-.. , .
-T aν .
-ἡ
-f,
-. .
-.
-...
-r. .
-,
-.m . -
-e ν .
-c.. :
-ι .. .
-. 4 *
-ι F .
-·
-.
-1
-a .,ο . . 7.
-1
--
-*
-οο.ί.
-*
-* . σ.
-t
-. ιί. . e..
-.. ,
-.1 , ..
-.'
-0 η
-.
-. ..
-r r
-σ . .
-τ ..
-τ
-ί ?'ι
-, teσ. . eσ... .
-.
-. .
-2 έ φ . *..4s .
-. . σ
-ἀω. .γ . ο
-.
-. - t
-ω
-σ. ἀ .
-η.
-.
-7 1
-ιχ u..
-ρ (
-...
-χt
-1
-η
-.
-:
-t
-e η
-. . τ - .
-.
-: η
-σ . l
-η
-σ
-erM
-σ
-, χ
-σ- .
-γ,
-2 , ρ p
-, α..
-1 .
-. t
-, 4-
-r
-τ-
-ι -
-. r
-ἐ. χ·.
-1
-I ...
-. ,
-) ---ν
-ι ---
----
-. ὸ
-..
-χ. .
-.. . ·
-*.
-. 1
-aa
-.
-. r,
-.
-.. ·
-τ
-.,
-,,
-.·
-.. .
-5.
-ησ ·i
-ν ἐ
-τ
-2ν*ς· e
-π
-τ -
-;
-.aτ
-...
-2
-2ψ .
-ἀ
-σ
-.
-. .
-θ,
-5
-1
-.
-. .
-1
-5 ·
-..
-. .
-...
-.
-...
-..
-ἀ
-4
-s θ .
-e ς
-·
-r
-.
--
-(
-..
-ι
-σ-
-1
-. . .
-ἀ
-ι.
-a
-.
----
-.
-r
-A
-ἀ
-.
-
-
-### 0165
 
 TROISΙEME PARTIE
-ZOSIME
-III. 1. --- LE DIVIN ZΟSIM
-SUR LAVVR (). --- LECΟΝ I
-1. La composition des eaux, le mouvement, l'accroissement, l'enlèvement
-et la restitution de la nature corporelle, la séparation de l'esprit d'avec le
-corps (2), et la fixation de l'esprit sur le corps ; les opérations qui ne résul-
-tent pas de l'addition de natures étrangères et tirées du dehors, mais qui
-sont dues à la nature propre, unique, agissant sur elle-même, dérivée
-d'une seule espèce, ainsi que (l'emploi) des minerais durcis et solidifiés, et
-des extraits liquides du tissu des plantes ; tout ce système uniforme et poly-
-chrome comprend la recherche multiple et infiniment variée de toutes choses,
-la recherche de la nature, subordonnée à l'influence lunaire et à la mesure
-du temps, lesquelles règlent le terme et l'accroissement suivant lesquels
-la nature se transforme.
-2. En disant ces choses, je m'endormis ; et je vis un sacrificateur qui se
-tenait debout devant moi, en haut d'un autel en forme de coupe (3). Cet
-pareils à kérotakisdes fig. 20. 21 et suiv.
-(1) AK : « Sur la vertu et la composi-
-Introd., p. 143 et suiv.). Tout ceci es
-tion des Eaux. »
-(2) Séparation des métaux d'avec les | la description mystique de diverses
-corps volatils, tels que le soufre ou l'ar- | opérations chimiques de distillation, de
-sublimation, de coupellation, accompa-
-senic. auxquels ils sont associés.
-(3) Ou de fiole (voir les appareils dis- | gnées de grillages, d'effervescences et
-tillatoires des fig. 11, 14, etc., Introd., | de changements de couleur.
-p. 132, 138 et suiv. ; ou plutot les ap- |
-15-2
 
+3\. --- 1. Le Divin Zosime sur la Vertu.* --- Leçon 1.
 
-### 0166
+*) AK : « Sur la vertu et la composition des Eaux. »
 
-118
-ZOSIME
-autel avait quinze marches à monter. Le prêtre s'y tenait debout, et
-j'entendis une voix d'en haut qui me disait : a 'ai accompli l'action de
-descendre les quinze marches, en marchant vers l'obscurité, et l'action de
-monter les marches, en allant vers la lumière. C'est le sacrificateur qui me
-renouvelle, en rejetant la nature épaisse du corps. Ainsi consacré prêire
-par la nécessité, je deviens un esprit .
-Ayant entendu la voix de celui qui se tenait debout sur l'autel en forme
-de coupe, je lui demandai qui il était. Et lui, d'une voix grêle, me répondit
-en ces termes : α e suis Ion (1), le prêtre des sanctuaires, et je subis une
-violence intolérable. Quelqu'un est venu au matin précipitamment, et il m'a
-violenté, me pourfendant avec un glaive, et me démembrant, suivant les
-règles de la combinaison. Il a enlevé toute la peau de ma tête, avec l'épée
-qu'il tenait (en main); il a mêlé les os avec la chair (2) et il les a fait bruler
-avec le feu du traitement. C'est ainsi que j'ai appris, par la transformation
-du corps, à devenir esprit. Telle est la violence intolérable (que j'ai subie) ».
-Comme il m'entretenait encore, et que je le forçais de me parler, ses yeux
-devinrent comme du sang, et il vomit toutes ses chairs. Et je le vis (changé
-en) petit homme contrefait, se déchirer lui-même avec ses propres dents, et
-s'affaisser.
-3. Rempli de crainte, je m'éveillai et je songeai : α N'est-ce-pas là la com-
-position des eaux? . Je fus persuadé que j'avais bien compris ; et je m'en-
-dormis de nouveau. e vis le même autel en forme de coupe, et, à la partie
-supérieure, de l'eau bouillonnante et beaucoup de peuple s'y portant sans
-relâche (3). Et il n'y avait personne que je pusse interroger en dehors de
-l'autel. e monte alors vers l'autel, pour voir ce spectacle. Et j'aperçois un
-petit homme, un barbier blanchi par les années, qui me dit : « Que regardes-
-tu ? » Je lui répondis que j'étais surpris de voir l'agitation de l'eau et celle des
-hommes brlés et vivants. Il me réponditen ces termes : « Ce spectacle que
-tu vois, c'est l'entrée, et la sortie, et la mutation ». e lui demandai encore :
-« Quelle mutation? » Et il me répondit : « C'est le lieu de l'opération appelée
-(1) L. a e suis celui qui est » : ῶν au |
-(3) Allégorie de la condensation des
-| vapeurs dans le récipient supérieur.
-lieu de Iων.
-(2) Voir le serpent Ouroboros. n. 23. |
+1\. La composition des eaux, le mouvement, l'accroissement, l'enlèvement et la restitution de la nature corporelle, la séparation de l'esprit d'avec le corps,* et la fixation de l'esprit sur le corps ; les opérations qui ne résultent pas de l'addition de natures étrangères et tirées du dehors, mais qui sont dues à la nature propre, unique, agissant sur elle-même, dérivée d'une seule espèce, ainsi que (l'emploi) des minerais durcis et solidifiés, et des extraits liquides du tissu des plantes ; tout ce système uniforme et polychrome comprend la recherche multiple et infiniment variée de toutes choses, la recherche de la nature, subordonnée à l'influence lunaire et à la mesure du temps, lesquelles règlent le terme et l'accroissement suivant lesquels la nature se transforme.
 
+*) Séparation des métaux d'avec les corps volatils, tels que le soufre ou l'arsenic, auxquels ils sont associés.
 
-### 0167
+2\. En disant ces choses, je m'endormis ; et je vis un sacrificateur qui se tenait debout devant moi, en haut d'un autel en forme de coupe.* Cet autel avait quinze marches à monter. Le prêtre s'y tenait debout, et j'entendis une voix d'en haut qui me disait : « J'ai accompli l'action de descendre les quinze marches, en marchant vers l'obscurité, et l'action de monter les marches, en allant vers la lumière. C'est le sacrificateur qui me renouvelle, en rejetant la nature épaisse du corps. Ainsi consacré prêtre par la nécessité, je deviens un esprit. »
 
-SUR LA VERTU
-119
-macération ; car les hommes qui veulent obtenir la vertu entrent ici et de-
-viennent des esprits, après avoir fui le corps ». Alors je lui dis : « Et toi
-es-tu un esprit » Et il me répondit : « Oui un espritet un gardien d'esprits ».
-Pendant notre entretien, l'ébullition allant en croissant, et le peuple pous-
-santdes cris lamentables, je visun homme de cuivre. tenant dans sa main une
-tablette de plomb (1). Il me dit les mots suivants, en regardant la tablette : «e
-prescris àtous ceux qui sont soumis au châtiment de se calmer, de prendrecha-
-cun une tablette de plomb, d'écrire de leur propre main, et de tenir les yeux
-levés en l'airet les bouches ouvertes, jusqu'à ceque leur vendange (2) soitdéve-
-loppée ». L'acte suivit la parole et le maitre de la maison me dit : « Tu as
-contemplé, tu as allongé le cou vers le haut et tu as vu ce qui s'est fait ν. e lui
-répondis que je voyais, etil me dit : α Celui que tu vois est l'homme de cuivre ;
-c'est le chefdes sacrificateurs et le sacrifié, celui qui vomit ses propres chairs.
-L'autorité lui a été donnée sur cette eau et sur les gens punis ».
-4. Après avoir eu cette apparition, je m'éveillai de nouveau. Je lui dis :
-Quelle est la cause de cette vision ? N'est-ce donc pas là l'eau blanche et
-jaune bouillonnante, l'eau divine ? Et j'ai trouvé que j'avais bien compris.
-Je dis qu'il est beau de parler et beau d'écouter, beau de donner et beau de
-recevoir, beau d'être pauvre et beau d'être riche. Or, comment la nature
-apprend-elle à donner et à recevoir ? L'homme de cuivre donne et la pierre
-liquéfiée reçoit ; le minéral donne et la plante reçoit ; les astres donnent et les
-fleurs reçoivent ; le ciel donne et la terre reçoit ; les coups de foudre donnent
-le feu qui s'élance. Dans l'autel en forme de coupe, toutes choses s'entre-
-lacent, et toutes se dissocient ; toutes choses s unissent ; toutes se com-
-binent ; toutes choses se mêlent, et toutes se séparent ; toutes choses sont
-mouillées, et toutes sont asséchées ; toutes choses fleurissent et toutes se
-déflorent. En effet, pour chacune c'est par la méthode, par la mesure, par
-la pesée exacte des quatre éléments que se fait l'entrelacement et la dissocia-
-tion de toutes choses ; aucune liaison ne se produit sans méthode. Il y a une
-méthode naturelle, pour souffler et pour aspirer, pour conserver les classes
-stationnaires, pour les augmenter et pour les diminuer. Lorsque toutes
-(2) Voir plus loin la vendange d'Her-
-()Allégorie du molybdochalque, placé |
-mès, p. 129, note 1.
-sur la kérotakis, ou la constituant.
+*) Ou de fiole (voir les appareils distillatoires des fig. 11, 14, etc., _Introd._, p. 132, 138 et suiv. ; ou plutôt les appareils à kérotakis des fig. 20, 21 et suiv., _Introd._, p. 143 et suiv.). Tout ceci est la description mystique de diverses opérations chimiques de distillation, de sublimation, de coupellation, accompagnées de grillages, d'effervescences et de changements de couleur.
 
+Ayant entendu la voix de celui qui se tenait debout sur l'autel en forme de coupe, je lui demandai qui il était. Et lui, d'une voix grêle, me répondit en ces termes : « Je suis Ion,* le prêtre des sanctuaires, et je subis une violence intolérable. Quelqu'un est venu au matin précipitamment, et il m'a violenté, me pourfendant avec un glaive, et me démembrant, suivant les règles de la combinaison. Il a enlevé toute la peau de ma tête, avec l'épée qu'il tenait (en main) ; il a mêlé les os avec la chair* et il les a fait brûler avec le feu du traitement. C'est ainsi que j'ai appris, par la transformation du corps, à devenir esprit. Telle est la violence intolérable (que j'ai subie). » Comme il m'entretenait encore, et que je le forçais de me parler, ses yeux devinrent comme du sang, et il vomit toutes ses chairs. Et je le vis (changé en) petit homme contrefait, se déchirer lui-même avec ses propres dents, et s'affaisser.
 
-### 0168
+*) L : « Je suis celui qui est » : ὢν au lieu de Ἴων.
 
-120
-ZOSIME
-choses, en un mot, concordent par la division et par l'union, sans que
-la méthode soit négligée en rien. la nature est transformée ; car la nature,
-étant retournée sur elle-même, se trantorme : il s'agit de la nature et du
-lien de la vertu dans l'univers entier.
-5. Bref, mon ami, bâtis un temple monolithe, semblable a la céruse, à
-'albâtre, n'ayant ni commencement ni fin dans sa construction. Qu'il y ait
-a l'intérieur une source d'eau très pure, étincelante comme le soleil. Observe
-avec soin de quel coté est l'entrée du temple et prends en main une épée ;
-cherche alors l'entrée, car il est étroit le lieu ou se trouve l'ouverture.
-Un serpent est couché à l'entrée, gardant le temple. Empare-toi de lui ;
-tu l'immoleras d'abord ; dépouille-le, et prenant sa chair et ses os, sépare
-ses membres ; puis réunissant les membres avec les os, à l'entrée du
-temple, fais-en un marche-pied, monte dessus, et entre : tu trouveras là
-ce que tu cherches. Le prêtre, cet homme de cuivre, que tu vois assis dans
-la source, rassemblant (en lui) la couleur, ne le regarde pas comme un
-homme de cuivre ; car il a changé la couleur de sa nature et il est devenu
-un homme d'argent. Si tu le veux, tu l'auras bientot (a l'état d') homme
-d'or (1).
-6. Cepréambule est une entrée destinée à te manifester les fleurs des discours
-qui vont suivre (c'est-à-dire) la recherche des vertus, du savoir, de la raison,
-les doctrines de l'intelligence, les méthodes efficaces, les révélations qui
-éclaircissent les paroles secrètes. Ainsi la vertu poursuit le Tout, en son
-temps et avec méthode.
-7. Que signifient ces mots : « La nature triomphant des natures »?et ceci :
-α Au moment ou elle est accomplie, elle est prise de vertige »? et encore :
-α Resserrée dans la recherche, elle prend le visage commun de l'œuvre du
-Tout, et elle absorbe la matière propre de l'espèce »? Et ceci : α tombée
-ensuite en dehors (de) sa première apparence, elle croit mourir »? Et ceci :
-. « Lorsque, parlant une langue barbare, elle imite celui qui parle la langue
-hébraique ; alors, se défendant elle-même, la malheureuse se rend plus
-(1) Origines de lAlcnimie, p. 180. | forme plus sommaire et avec une allé-
-Voir le serpent Ouroboros, I. 1v. 5, p. | gorie moins compliquée le 5 2.
-23. --- Ce 5 répète au fond, sous une
+*) Voir le _serpent Ouroboros_, p. 23.
 
+3\. Rempli de crainte, je m'éveillai et je songeai : « N'est-ce-pas là la composition des eaux ? » Je fus persuadé que j'avais bien compris ; et je m'endormis de nouveau. Je vis le même autel en forme de coupe, et, à la partie supérieure, de l'eau bouillonnante et beaucoup de peuple s'y portant sans relâche.* Et il n'y avait personne que je pusse interroger en dehors de l'autel. Je monte alors vers l'autel, pour voir ce spectacle. Et j'aperçois un petit homme, un barbier blanchi par les années, qui me dit : « Que regardes-tu ? » Je lui répondis que j'étais surpris de voir l'agitation de l'eau et celle des hommes brûlés et vivants. Il me répondit en ces termes : « Ce spectacle que tu vois, c'est l'entrée, et la sortie, et la mutation. » Je lui demandai encore : « Quelle mutation ? » Et il me répondit : « C'est le lieu de l'opération appelée macération ; car les hommes qui veulent obtenir la vertu entrent ici et deviennent des esprits, après avoir fui le corps. » Alors je lui dis : « Et toi es-tu un esprit ? » Et il me répondit : « Oui un esprit et un gardien d'esprits. » Pendant notre entretien, l'ébullition allant en croissant, et le peuple poussant des cris lamentables, je vis un homme de cuivre, tenant dans sa main une tablette de plomb.* Il me dit les mots suivants, en regardant la tablette : « Je prescris à tous ceux qui sont soumis au châtiment de se calmer, de prendre chacun une tablette de plomb, d'écrire de leur propre main, et de tenir les yeux levés en l'air et les bouches ouvertes, jusqu'à ce que leur vendange* soit développée. » L'acte suivit la parole et le maître de la maison me dit : « Tu as contemplé, tu as allongé le cou vers le haut et tu as vu ce qui s'est fait. » Je lui répondis que je voyais, et il me dit : « Celui que tu vois est l'homme de cuivre ; c'est le chef des sacrificateurs et le sacrifié, celui qui vomit ses propres chairs. L'autorité lui a été donnée sur cette eau et sur les gens punis. »
 
-### 0169
+*) Allégorie de la condensation des vapeurs dans le récipient supérieur.
 
-SUR LA CHAUX
-121
-légère en mélangeant ses propres membres.»? Et ceci : « L'ensemble liquide
-est mené à maturité par le feu »?
-8. Appuyé sur la clarté de ces conceptions de l'intelligence, transforme
-la nature, et considère la matière multiple comme étant une. N'expose
-clairement à personne une telle propriété; mais suffis-toi à toi-même, de
-crainte qu'en parlant, tu ne te détruises toi-même. Car le silence enseigne la
-vertu. Il est beau de voir les mutations des quatre métaux [le plomb, le
-cuivre l'asem (ou l'argent), l'étain], changés en or parfait.
-Prenant du sel, mouille le soufre, de façon à amener la masse en consis-
-tance de cire mielleuse. Enchaine la force de l'un et l'autre ; ajoutes-y de la
-couperose et fabriques-en un acide, premier ferment de la couleur blanche,
-tiré de la couperose. Avec ces (substances) tu amèneras par degré le cuivre
-dompté à l'apparence blanche. Fais distiller par la cinquième méthode, au
-moyen des trois vapeurs sublimées: tu trouveras l'or attendu. Voila comment
-en domptant la matière tuobtiens l'espèce unique, tirée de plusieursespèces (1).
-III. 1. --- LA IIAU
-ZOSIME DI A SUUET DE LA CHAUX :
-1. Je vais vous rendre (les choses) claires. On sait que la pierre alabas-
-tron (3) est appelée cerveau (4), parce qu'elle est l'agent fixateur de toute
-teinture volatile. Prenant donc la pierre alabastron, fais-la cuire une nuit et
-un jour ; aie de la chaux, prends du vinaigre très fort et. fais bouillir : tu
-seras étonné ; car tu réaliseras une fabrication divine, un produit qui blan-
-(1) Cet alinéa est une addition étran- | la citation de Stephanus tirée de A
-gère à ce qui précède. C'est une recette | (6 2 bis) ; à l'exception pourtant de la
-pour attaquer le cuivre, avant de faire | phrase finale du 8 3, laquelle exprime
-agir sur lui les vapeurs destinées à le | très clairement la formation des sous-
-teindre.
-sels de cuivre, ou fleurs de cuivre.
-(2) Cet article se compose d'une suite
-(3) Lexique, p. 4.
-de recettes obscures pour fabriquer la
-(4) Voir Lexique, p. 7; uf philoso-
-pierre philosophale. Les dernières sont | pique, p. 19. --- Nomenclature de
-postérieures à Zosime, comme l'indiaue l νe r
-lαuf, p. 21.
+*) Allégorie du molybdochalque, placé sur la kérotakis, ou la constituant.
 
+*) Voir plus loin la vendange d'Hermès, p. 129, note 1.
 
-### 0170
+4\. Après avoir eu cette apparition, je m'éveillai de nouveau. Je lui dis : Quelle est la cause de cette vision? N'est-ce donc pas là l'eau blanche et jaune bouillonnante, l'eau divine? Et j'ai trouvé que j'avais bien compris. Je dis qu'il est beau de parler et beau d'écouter, beau de donner et beau de recevoir, beau d'âtre pauvre et beau d'être riche. Or, comment la nature apprend-elle à donner et à recevoir? L'homme de cuivre donne et la pierre liquéfiée reçoit ; le minéral donne et la plante reçoit ; les astres donnent et les fleurs reçoivent ; le ciel donne et la terre reçoit ; les coups de foudre donnent le feu qui s'élance. Dans l'autel en forme de coupe, toutes choses s'entrelacent, et toutes se dissocient ; toutes choses s'unissent ; toutes se combinent ; toutes choses se mêlent, et toutes se séparent ; toutes choses sont mouillées, et toutes sont asséchées ; toutes choses fleurissent et toutes se déflorent. En effet, pour chacune c'est par la méthode, par la mesure, par la pesée exacte des quatre éléments que se fait l'entrelacement et la dissociation de toutes choses ; aucune liaison ne se produit sans méthode. Il y a une méthode naturelle, pour souffler et pour aspirer, pour conserver les classes stationnaires, pour les augmenter et pour les diminuer. Lorsque toutes choses, en un mot, concordent par la division et par l'union, sans que la méthode soit négligée en rien, la nature est transformée ; car la nature, étant retournée sur elle-même, se transforme : il s'agit de la nature et du lien de la vertu dans l'univers entier.
 
-ZOSIME
-122
-chit au plus haut degré la surface (des métaux). Laisse déposer, puis ajoute
-du vinaigre très fort, en opérant dans un vase sans couvercle, afin d'enlever
-la vapeur sublimée, à mesure qu'elle se forme au-dessus. Prenant encore
-du vinaigre fort, fais élever cette vapeur pendant sept jours, et opère ainsi
-jusqu'à ce que la vapeur ne monte plus. Laisse durant quarante jours le
-produit (exposé) au soleil et à la rosée, à l'époque fixée ; puis adoucis avec de
-l'eau de pluie. Fais sécher au soleil, et conserve.
-C'est la le mystère incommuniqué, qu'aucun des prophètes n'a osé divul-
-guer par la parole ; mais ils l'ont révélé seulement aux initiés. Ils l'ont ap-
-pelé la pierre encéphale dans leurs écrits symboliques, la pierre non-pierre,
-la chose inconnue qui est connue de tous, la chose méprisée qui est tres
-précieuse, la chose donnée et non-donnée de Dieu (1). Pour moi, je la saluerai
-du nom de (pierre) non donnée et donnée de Dieu : c'est la seule, dans notre
-euvre, qui domine la matière. Telle est la préparation qui possède la puis-
-sance, le mystère mithriaque.
-2. L'esprit du feu s'unit avec la pierre et devient un esprit de genre uni-
-que. Or je vous expliquerai les œuvres de la pierre. Mélangée avec la coma-
-ris, elle produit les perles, et c'est là ce que l'on a nommé chrysolithe.
-L'esprit opère toutes choses par la puissance de la poudre sèche. Et moi, je
-vais vous expliquer le mot comaris, chose que personne n'a osé divulguer ;
-mais ceux-ci (les anciens) la transmettaient aux personnes intelligentes. Elle
-détient la puissance féminine, celle que l'on doit préférer ; car le blanchiment
-est devenu un objet de vénération pour tout prophète.
-Je vous expliquerai aussi la puissance de la perle. Elle accomplit ses u-
-vres, mise en décoction dans l'huile. Elle représente la puissance féminine.
-Prenant la perle, tu la mettras en décoction avec de l'huile, dans un vase
-non bouché, sans couvercle, pendant 3 heures, sur un feu modéré. Prenant
-un chiffon de laine, frotte le contre la perle, afin d'en oter l'huile et tiens,
-(la perle disponible) pour les besoins des teintures ; car l'accomplissement
-de la (transformation) matérielle a lieu au moyen de la perle.
-2 bis. Stephanus (2) dit : Prenez (le métal composé) des quatre éléments,
-tiré de A. Il a été reporté plus loin dans
-(1) Voir la note de la p. 19.
-(2) Cet alinéa manque dans M ; il est | le Texte grec, IV, xx, 13, Traité de
+5\. Bref, mon ami, bâtis un temple monolithe, semblable à la céruse, à l'albâtre, n'ayant ni commencement ni fin dans sa construction. Qu'il y ait à l'intérieur une source d'eau très pure, étincelante comme le soleil. Observe avec soin de quel côté est l'entrée du temple et prends en main une épée ; cherche alors l'entrée, car il est étroit le lieu où se trouve l'ouverture. Un serpent est couché à l'entrée, gardant le temple. Empare-toi de lui ; tu l'immoleras d'abord ; dépouille-le, et prenant sa chair et ses os, sépare ses membres ; puis réunissant les membres avec les os, à l'entrée du temple, fais-en un marche-pied, monte dessus, et entre : tu trouveras là ce que tu cherches. Le prêtre, cet homme de cuivre, que tu vois assis dans la source, rassemblant (en lui) la couleur, ne le regarde pas comme un homme de cuivre ; car il a changé la couleur de sa nature et il est devenu un homme d'argent. Si tu le veux, tu l'auras bientôt (à l'état d') homme d'or.*
 
+*) _Origines de l'Alchimie_, p. 180. Voir le _serpent Ouroboros_, 1. 4, 5, p. 23. --- Ce § répète au fond, sous une forme plus sommaire et avec une allégorie moins compliquée le § 2.
 
-### 0171
+6\. Ce préambule est une entrée destinée à te manifester les fleurs des discours qui vont suivre (c'est-à-dire) la recherche des vertus, du savoir, de la raison, les doctrines de l'intelligence, les méthodes efficaces, les révélations qui éclaircissent les paroles secrètes. Ainsi la vertu poursuit le Tout, en son temps et avec méthode.
 
-123
-SUR LA CHAUX
-(ajoutez-y l'arsenic le plus élevé (1) et le plus bas, le rugueux et le roux, le
-mâle et la femelle, à poids égaux, afin de les unir entre eux. Car de même
-que l'oiseau couve ses œufs et les mène à terme dans la chaleur, de même vous
-couverez et menerez à terme votre œuvre (2), après l'avoir porté au dehors,
-arrosé avec les eaux divines, exposé au soleil et dans des lieux chauds ;
-après l'avoir fait cuire sur un feu doux, en le déposant dans du lait virginal (3).
-Prenez garde à la fumée. Plongez le produit dans l'Hadès (4); Iressortez-le,
-arrose-le avec du safran de Cilicie, au soleil et dans des lieux chauds ;
-faites cuire sur un feu doux, avec du lait virginal, en dehors de la fumée.
-Enfoncez-le dans l'Hadès (5)]. Remuez avec soin, jusqu'à ce que la prépa-
-ration ait pris de la consistance, et ne puisse s'échapper du feu. Alors,
-prenez-en (une partie), et lorsque l'âme et l'esprit se sont unifiés (avec le
-corps) et ne forment plus qu'un seul être, projetez sur le corps métallique de
-l'argent et vous aurez de l'or, tel que n'en renferment pas les trésors des
-rois.
-Voila le mystère des philosophes, celui que nos pères ont juré de ne point
-révéler ni publier.
-3. On entend par élévation, la montée des fleurs (6) : l'eau avec laquelle
-le produit a été arrosé s'élève et monte sans obstacle, par suite de l'associa-
-tion intime du corps avec le soufre (7). Sinon (le corps) reste au fond (du
-Comarius. On l'a conservé ici, parce
-(4) Fond des vases ou les résidus
-qu'il indique comment les fragments de | s'accumulent et sont exposés directe-
-Zosime ont été augmentés par l'addi- | ment à l'action du feu; comme le mon-
-tion successive de morceaux étrangers. | trent, par exemple, les fig. 20 et 21 de
---- Le nom de Stephanus, appliqué à | l'Introd., p. 143.
-l'auteur d'un morceau tiré d'un traité
-(5) Ceci est une répétition ; quelque
-de Comarius, mérite aussi attention : | copiste ayant mis bout à bout deux
-car il prouve que la confusion signalée versions parallèles.
-dans l'Introd., p. 182, entre les œuvres
-(6) Fleurs métalliques, se formant
-de ces deux auteurs est fort ancienne. | à la surface des métaux par oxyda-
-(1) Qui s'est sublimé, en s'oxydant, à | tion, ou se sublimant (voir page 71,
-la partie supérieure du récipient?
-note 4).
-(2) L'œuf philosophique.
-(7) On propose de lire : soufre, au
-(3) Expression symbolique. D'après | lieu de plomb; le signe étant pareil
-le Lexicon Alcnemie Rulandi (p. 272),
-(voir le Texte grec, p. 114, note de
-c'est l'eau mercurielle, le mercure des | la liane 23
-philosophes. atc
-philosophes, etc.
+7\. Que signifient ces mots : « La nature triomphant des natures ? » et ceci : « Au moment où elle est accomplie, elle est prise de vertige ? » et encore : « Resserrée dans la recherche, elle prend le visage commun de l'œuvre du Tout, et elle absorbe la matière propre de l'espèce ? » Et ceci : « tombée ensuite en dehors (de) sa première apparence, elle croit mourir ? » Et ceci : « Lorsque, parlant une langue barbare, elle imite celui qui parle la langue hébraïque ; alors, se défendant elle-même, la malheureuse se rend plus légère en mélangeant ses propres membres. ? » Et ceci : « L'ensemble liquide est mené à maturité par le feu ? »
 
+8\. Appuyé sur la clarté de ces conceptions de l'intelligence, transforme la nature, et considère la matière multiple comme étant une. N'expose clairement à personne une telle propriété ; mais suffis-toi à toi-même, de crainte qu'en parlant, tu ne te détruises toi-même. Car le silence enseigne la vertu. Il est beau de voir les mutations des quatre métaux [le plomb, le cuivre l'asèm (ou l'argent), l'étain], changés en or parfait.
 
-### 0172
+Prenant du sel, mouille le soufre, de façon à amener la masse en consistance de cire mielleuse. Enchaîne la force de l'un et l'autre ; ajoutes-y de la couperose et fabriques-en un acide, premier ferment de la couleur blanche, tiré de la couperose. Avec ces (substances) tu amèneras par degré le cuivre dompté à l'apparence blanche. Fais distiller par la cinquième méthode, au moyen des trois vapeurs sublimées : tu trouveras l'or attendu. Voilà comment en domptant la matière tu obtiens l'espèce unique, tirée de plusieurs espèces.*
 
-Tt.
-124
-ZOSIMF
-vase à sublimation?) Contentons-nous du mortier et du filtre pour les deux
-teintures.
-Quant au cuivre, Zosime dit à son sujet : a Altéré par la plupart des eaux,
-à cause de l'humidité de l'air et de la chaleur, il augmente de volume et se
-couvre de fleurs, qui sont de beaucoup les plus douces ; il fructifie par
-l'action productrice de la nature ».
-II. uI. --- AΤΗΟDΟΝ
-Après l'affinage du cuivre et son noircissement, puis son blanchiment
-ultérieur, alors aura lieu le jaunissement solide.
-III. 1. --- ΗΕS
-Si tu ne dépouilles pas les corps de leur nature corporelle et si tu ne
-donnes pas une nature corporelle aux êtres incorporels, rien de ce que tu
-attends n'aura lieu (1).
-(1) Cet axiome a été attribué aussi | sel marin), etc. D'autre part on leur res-
-à Marie (ce ume, p. 1oι ), et à d'au- | titue leur corps, c'est-à-dire on rétablit
-tres alchimistes. Il signifie d'une part | ces chlorures, oxydes, sulfures, dans
-oter aux métaux purs ou alliés leur | l'état métallique avec des propriétés
-corps, ou forme métallique, sous la- | et une coloration nouvelles, dues soit à
-quelle ils sont fixes d'ordinaire: ce que | leur purification, soit au contraire à la
-l'on réalisait en les soumettant à la- | formation des alliages. --- On lit de
-sublimation, qui rend le zinc, l'anti- | mème dans le traité attribué à Avicenne
-moine et mème le plomb et le cuivre | (Bibl. chem. de Manget, t. 1. p. 629) .
-volatils (c'est a-dire esprits), dans l'état | ut corporeum fat spirituale sublimando
-d'oxydes (par l'action de l'air), de sul- | et cum est spirituale, fiat iterate corpo-
-fures (par l'action du soufre ou des | reum descendendo.
-sulfures), de chlorures (par l'action du
+*) Cet alinéa est une addition étrangère à ce qui précède. C'est une recette pour attaquer le cuivre, avant de faire agir sur lui les vapeurs destinées à le teindre.
 
+---
 
-### 0173
+3\. --- 2. La Chaux.*
 
-SECONDE LECON
-III. v. --- ZΟSllΕ
-LEΟΝ II
-125
-1. Enfin je fus pris du désir de monter les sept degrés et de voir les sept
-châtiments ; et comme il convient, en un seul des jours (fixés), j'effectuai la
-route de l'ascension. En m'y reprenant à plusieurs reprises, je parcourus la
-route. Au retour, je ne retrouvai pas mon chemin. Plongé dans un grand
-découragement, ne voyant pas comment sortir, je tombai dans le sommeil.
-'aperçus pendant mon sommeil un certain petit homme, un barbier revêtu
-d'une robe rouge et d'un habillement royal, qui se tenait debout en dehors
-du lieu des châtiments. et il me dit : Que fais-tu (là), o homme? Et moi je
-lui répondis : Je m'arrête ici parce que, m'étant écarté de tout chemin, je me
-trouve égaré. me dit (alors) : Suis-moi. Et moi, je vins et je le suivis.
-Comme nous étions près du lieu des châtiments, je vis celui qui me gui-
-dait, ce petit barbier, s'engager dans ce lieu et tout son corps fut consumé
-par le feu.
-2. A cette vue, je m'éloignai, je tremblai de peur ; puis je me réveillai,
-et je me dis en moi-même : Qu'est-ce que je vois ? et de nouveau je
-tirai mon raisonnement au clair et je compris que ce barbier était l'homme
-de cuivre, revêtu d'un habillement rouge, et je (me) dis : 'ai bien compris,
-c'est l'homme de cuivre. Il faut d'abord qu'il s'engage dans le lieu des
-châtiments.
-3. De nouveau mon âme désira monter le 3e degré. Et de nouveau, seul,
-je suivis le chemin ; et comme j'étais près du lieu des châtiments, je m'égarai
-encore, ne sachant pas ma route, et je m'arrêtai désespéré. Et de nouveau,
-semblablement, je vis un veillard blanchi par les années, devenu tout à fait
-blanc, d'une blancheur aveuglante. Ils appelait Agathodémon. Se retournant,
-ce vieillard aux cheveux blancs me considéra pendant une grande heure. Et
-moi je lui demandai : Montre-moi le droit chemin. Il ne se retourna pas
-vers moi, mais il s'empressa de suivre sa propre route. En allant et venant,
-de ci, de là, je gagnai en hâte l'autel. Lorsque je fus arrivé en haut sur
-l'autel, je vis le vieillard aux cheveux blancs s'engager dans le lieu du
-1
+*) Cet article se compose d'une suite de recettes obscures pour fabriquer la pierre philosophale. Les dernières sont postérieures à Zosime, comme l'indique la citation de Stephanus tirée de A (§ 2 _bis_) ; à l'exception pourtant de la phrase finale du § 3, laquelle exprime très clairement la formation des sous-sels de cuivre, ou fleurs de cuivre.
 
+Zosime dit au Suject de la Chaux :
 
-### 0174
+1\. Je vais vous rendre (les choses) claires. On sait que la pierre alabastron* est appelée cerveau,* parce qu'elle est l'agent fixateur de toute teinture volatile. Prenant donc la pierre alabastron, fais-la cuire une nuit et un jour ; aie de la chaux, prends du vinaigre très fort et fais bouillir : tu seras étonné ; car tu réaliseras une fabrication divine, un produit qui blanchit au plus haut degré la surface (des métaux). Laisse déposer, puis ajoute du vinaigre très fort, en opérant dans un vase sans couvercle, afin d'enlever la vapeur sublimée, à mesure qu'elle se forme au-dessus. Prenant encore du vinaigre fort, fais élever cette vapeur pendant sept jours, et opère ainsi jusqu'à ce que la vapeur ne monte plus. Laisse durant quarante jours le produit (exposé) au soleil et à la rosée, à l'époque fixée ; puis adoucis avec de l'eau de pluie. Fais sécher au soleil, et conserve.
 
-126
-ZOSIME
-châtiment. O démiurges des natures célestes l Comme il fut aussitot embra-
-sé tout entier l Quel récit effroyable, mes frères l Car, par suite de la
-violence du châtiment, ses yeux se remplirent de sang. Je (lui) adressai la
-parole et lui demandai : Pourquoi es-tu étendu? Mais lui, ayant entr'ouvert la
-bouche, me dit : « de suis l'homme de plomb et je subis une violence into-
-lérable (1) ». Là-dessus, saisi d'une grande crainte, je m'éveillai et je cher-
-chai en moi-même la raison de ce fait. De nouveau je réfléchis et je me dis :
-'ai bien compris par là qu'il faut rejeter le plomb ; la vislon se rapporte
-réellement à la composition des liquides.
-III. v. --- ΟVRAΟE DU MΕΜΕ ZΟΜΕ
-LΕCΟΝ III
-1. De nouveau, je remarquai le divin et sacré autel en forme de coupe,
-et je vis un prêtre revêtu d'une (robe) blanche, tombant jusqu'à ses pieds,
-lequel célébrait ces effrayants mystères, et je dis : Quel est celui-ci ? Et il me
-répondit : C'est le prêtre des sanctuaires. C'est lui qui a l'habitude d'ensan-
-glanter les corps, de rendre les yeux clairvoyants et de ressusciter les morts.
-Alors, tombant de nouveau (à terre), je m'endormis encore. Pendant que je
-montais le quatrieme degré, je vis, du coté de l'orient, (quelqu'un) venir,
-tenant dans sa main un glaive. Un autre, derrière lui, portait un objet cir-
-culaire, d'une blancheur éclatante, et très beau à voir, appelé Méridien du
-Cinabre (2). Comme j approchais du lieu du châtiment, il me dit que celui
-qui tenait un glaive, devait lui trancher la tête, sacrifier son corps et cou-
-per ses chairs par morceaux, afin que ses chairs fussent d'abord bouillies
-dans l'appareil, et qu'alors elles fussent portées au lieu du châtiment.
-(1) Dans le 3, il semble s'agir de la | dans AK, comme à l'ordinaire, par un
-calcination de lu litharge blanche, opé- | cercle avec un point au milieu. --- Voir
-ration qui la change en minium rouge. | Introd., p. 108; Pl. I, l. 13; et p. 122,
-Peut-ètre aussi est-ce la coupellation. | note 1. --- Ce signe a été aussi le
-(2) Le Cinabre est représenté ici | signe du soleil, et plus tard de l'or.
+*) _Lexique_, p. 4.
 
+*) Voir _Lexique_, p. 7 ; _Œuf philosophique_, p. 19. --- _Nomenclature de l'œuf_, p. 21.
 
-### 0175
+C'est là le mystère incommuniqué, qu'aucun des prophètes n'a osé divulguer par la parole ; mais ils l'ont révélé seulement aux initiés. Ils l'ont appelé la pierre encéphale dans leurs écrits symboliques, la pierre non-pierre, la chose inconnue qui est connue de tous, la chose méprisée qui est très précieuse, la chose donnée et non-donnée de Dieu.* Pour moi, je la saluerai du nom de (pierre) non donnée et donnée de Dieu : c'est la seule, dans notre œuvre, qui domine la matière. Telle est la préparation qui possède la puissance, le mystère mithriaque.
 
-SUR LA VERTU ET L'INTERPRETATION
-127
-M'étant réveillé de nouveau, je (me) dis : j'ai bien compris ; il s'agit
-des liquides dans l'art des métaux. Celui qui portait le glaive dit encore :
-Vous ave accompli l'ascension des sept degrés. L'autre reprit, en même
-temps qu'il laissait dissoudre les plombs par tous les liquides (), (1) :
-a 'Art s'accomplit ».
-III. vI. --- LΕ DIVIΝ 2ΟSIMΕ
-SUR LA VERΤΙ Τ I'TRPRPaFi 2
-1. Pour obéir à son penchant et en vue d'expliquer le songe qu'il avait
-fait (3), il dit : Je vis un autel en forme de coupe ; un esprit igné, debout
-sur l'autel, présidait à l'effervescence, aux bouillonnements et à la calcination
-des hommes qui s'élevaient. Je m'informai, au sujet du peuple qui se
-tenait debout, et je dis : e vois avec étonnement l'effervescence et le
-bouillonnement ; comment ces hommes en ignition sont-ils vivants ? Et
-me répondant, il me dit : Cette effervescence que tu vois, c'est le lieu ou
-s'exerce la macération. Les hommes qui veulent obtenir la vertu entrent
-ici; ils perdent leurs corps (et) deviennent des esprits. L'exercice (a la vertu)
-s'explique par là, à cause du (mot) exercer (4) ; car, en rejetant l'épaisseur
-du corps, ils deviennent des esprits.
-2. Démocrite dit quelque chose d'analogue : « Poursuis le traitement jus-
-(1) Ilsemble qu'il s'agisse de l'absorp- | complète, l'impression du texte suffi-
-tion de la litharge fondue par les parois | sant amplement pour certains passages.
-(3) Ce début indique que le texte ac-
-de la coupelle.
-(2) Cet article est formé par une suite | tuel est un extrait. En effet on lit dans
-de notices et de commentaires, d'épo- | ELc : α Commentaire du Philosophe
-ques diverses. Les premiers sont de | Anonyme sur le traité du divin Zosime
-Zosime ; puis viennent des §8 qui rap- | le Panopolitain (ou le Thébain), sur la
-pellent le Chrétien, Stephanus et | Vertu, etc. 2.
-d'autres auteurs byzantins plus mo- |
-(4) Il y a ici un jeu de mots intradui-
-dernes encore, de plus en plus subtils | sible, qui rappelle le double sens fran-
-et alambiqués. On n'a pas cru utile | çais du mot macération, au sens chi-
-d'en donner la traduction absolument | mique et au sens moral.
+*) Voir la note de la p. 19.
 
+2\. L'esprit du feu s'unit avec la pierre et devient un esprit de genre unique. Or je vous expliquerai les œuvres de la pierre. Mélangée avec la comaris, elle produit les perles, et c'est là ce que l'on a nommé chrysolithe. L'esprit opère toutes choses par la puissance de la poudre sèche. Et moi, je vais vous expliquer le mot _comaris_, chose que personne n'a osé divulguer ; mais ceux-ci (les anciens) la transmettaient aux personnes intelligentes. Elle détient la puissance féminine, celle que l'on doit préférer ; car le blanchiment est devenu un objet de vénération pour tout prophète.
 
-### 0176
+Je vous expliquerai aussi la puissance de la perle. Elle accomplit ses œuvres, mise en décoction dans l'huile. Elle représente la puissance féminine. Prenant la perle, tu la mettras en décoction avec de l'huile, dans un vase non bouché, sans couvercle, pendant 3 heures, sur un feu modéré. Prenant un chiffon de laine, frotte-le contre la perle, afin d'en ôter l'huile et tiens, (la perle disponible) pour les besoins des teintures ; car l'accomplissement de la (transformation) matérielle a lieu au moyen de la perle.
 
-128
-ZOSIME
-qu'à ce qu'il se forme un ios jaune comme la couleur d'or, arrivant à l'état
-d'esprit au moyen de l'ios » En effet, l'ios provenant de la substance privée
-de corps, par l'action du serpent, signifie l'esprit (1). En raison de l'accom-
-plissement de la coloration jaune, l'ios est appelée couleur d'or. » C'est de
-cette façon qu ils se transmettent leur pensée de vive voix et la proclament,
-jusqu'à ce qu'ils soient parvenus à une apparence uniforme. Et il poursuit :
-« Traite jusqu'à ce que tu puisses faire couler » --- faire couler vient de
-liquéfaction et non d'extraction, car ils changent la lettre σ en τ (2). --- I dit
-ainsi : α Fais couler » ; ce qu'il entend de la liquéfaction, comme nous l'avons
-expliqué. Quant à ses paroles : α Fais le traitement, jusqu'à ce que tu
-puisses faire coulerν ; ceci équivaut au mot employé plus haut d'écoulement
-simultané (3).
-3. L'expression de sidérite (4), nom employé aussi par ceux qui sont
-signalés plus bas, désigne, conformément à ce qu'il rapporte : le molyb-
-dochalque et la pierre étésienne.
-La pyrite, matière employée à cause de sa faculté colorante, après
-qu'elle a été brûlée ou soumise à l'action du feu, signifie le cuivre (tiré de
-la pyrite).
-Semblablement le mot argyrite s'emploie pour la matière qui reste après
-l'expulsion du mercure ; car le cuivre débarrassé de l'excès du mercure
-devient de l'argyrite (5) ; tandis que la pierre étésienne est le mercure même,
-elon la vraie interprétation de l'ensemble des opérations (?). En effet le départ
-du mercure annonce la prochaine apparition de la couleur d'or par le feu.
-Il dit α sidérite » à cause de la nécessité de faire intervenir la combinaison
-u plomb. En effet les substances combinées produisent la sidérite (6).
-4. Semblablement, qu'est-ce que le cœur du fer? Lorsque la masse est
-(1) Le méme mot ios signifie : rouille | (4 Variété de Pyrite. --- Voir p. 47.
-des métaux, vertu spécifique des corps |
-(5) C'est-à-dire est coloré en blanc
-et venin des serpents. (Introd., p. 254). | d'argent.
-(2) On peut interpréter ceci par un |
-(6) Les5 3 et 4 sont formés par une
-jeu de mots fondé sur la ressemblance | suite de phrases, qui semblent presque
-des deux termes, ῥεῦσις, écoulement, et | indépendantes les unes des autres ; on
-|dirait des lambeaux d'un vieil écrit, mis
-βεῦτις, extraction?
-(3) Voir lypiodore, p. 78, 101 et | bout à bout.
-113, notes.
+2 _bis_. Stephanus* dit : Prenez (le métal composé) des quatre éléments, (ajoutez-y l'arsenic le plus élevé* et le plus bas, le rugueux et le roux, le mâle et la femelle, à poids égaux, afin de les unir entre eux. Car de même que l'oiseau couve ses œufs et les mène à terme dans la chaleur, de même vous couverez et mènerez à terme votre œuvre,* après l'avoir porté au dehors, arrosé avec les eaux divines, exposé au soleil et dans des lieux chauds ; après l'avoir fait cuire sur un feu doux, en le déposant dans du lait virginal.* Prenez garde à la fumée. Plongez le produit dans l'Hadès* ; [ressortez-le, arrosez-le avec du safran de Cilicie, au soleil et dans des lieux chauds ; faites cuire sur un feu doux, avec du lait virginal, en dehors de la fumée. Enfoncez-le dans l'Hadès*]. Remuez avec soin, jusqu'à ce que la préparation ait pris de la consistance, et ne puisse s'échapper du feu. Alors, prenez-en (une partie), et lorsque l'âme et l'esprit se sont unifiés (avec le corps) et ne forment plus qu'un seul être, projetez sur le corps métallique de l'argent et vous aurez de l'or, tel que n'en renferment pas les trésors des rois.
 
+*) Cet alinéa manque dans M ; il est tiré de A. Il a été reporté plus loin dans le _Texte grec_, 4, 20, 13, Traité de Comarius. On l'a conservé ici, parce qu'il indique comment les fragments de Zosime ont été augmentés par l'addition successive de morceaux étrangers. --- Le nom de Stephanus, appliqué à l'auteur d'un morceau tiré d'un traité de Comarius, mérite aussi attention : car il prouve que la confusion signalée dans l'_Introd._, p. 182, entre les œuvres de ces deux auteurs est fort ancienne.
 
-### 0177
+*) Qui s'est sublimé, en s'oxydant, à la partie supérieure du récipient ?
 
-SUR LA VERTU ET L'INTERPRETATION
-129
-brisée, comme il arrive pendant cette extraction --- en employant les mots
-conformément aux analogies --- nous trouvons la théorie manifeste, et
-elle nous révèle le secret.
-Dans d'autres passages, Démocrite dit: α Pratique le traitement avec la sau-
-mure additionnée de vinaigre ou d'urine, ou avec les deux réunis ». Entends
-d'ailleurs (comme tu le comprends d'après l'écrit, ou comme la chose y
-est expliquée), que la chose est possible en opérant avec d'autres liquides ;
-attendu que rien de tout cela ne demeure (dans la préparation), ces liquides
-étant déversés ensuite, lors du lavage de la composition.
-5. C'est à ce sujet que le très ancien Ostanès, dans ses démonstrations,
-dit: Quelqu'un raconte ceci sur un certain Sophar, qui vécut antérieurement
-en Perse. Ce divin Sophar s'exprime ainsi : α Il existe sur un pilier un
-aigle d'airain (1), qui descend dans la fontaine pure et s'y baigne chaque jour,
-se renouvelant par ce régime ». Puis il dit : α L'aigle, dont nous avons donné
-'interprétation, a l'habitude de se baigner chaque jour ». Comment donc,
-faisant entendre la même chose d'une autre manière, rejette-t-il l'ablution et
-le lavage quotidien? Il faut (s'expliquer) exactement au sujet de la pré-
-sénte opération. Tenu dans l'incertitude à cause de la doctrine (ambigué)
-du philosophe, nous devons cependant laver et rajeunir l'aigle de cuivre pen-
-dant 365 jours entiers ; comme il convient d'après la suite de son traité, car
-Ostanès s'exprime ainsi : α Presse la vendange » (2). Plus bas, il explique
-qu'il faut entendre par la (3) le lavage par écoulement ; par ce mystère, on
-doit comprendre l'ios. Il ajoute, en s'exprimant très clairement : α Va vers
-le courant du Nil ; tu trouveras là une pierre ayant un esprit ; prends-la,
-coupe-la en deux ; mets ta main dans l'intérieur et tires-en le cœur : car son
-ame est dans son cœur. » Par l'expression : « Va vers le courant du Nil, tu
-trouveras là une pierre ayant un esprit » ; il désigne clairement les produits
-(1) Le sens du mot aigle dans ce | que, désigne la distillation, la solution, la
-passage est obscur. --- Au moyen age, | sublimation, la calcination, la fixation »
-on traduisait a aigle ν par sublimation | (Lexicon Alcn. Rulandi. p. 48). --- Ce
-naturelle (Bibliotί. des Philosopnes | sens est plus étendu que ne parait ètre
-Ciiques, t. IV, p. 57ι ; 1754). Mais | celui d'Ostanès.
-(3) Lc : « Lave l'ios plusieurs fois,
-ce sens ne parait pas être celui d'Os- |
-| au moyen de l'écoulement, et c'est là
-tanès.
-2) νν Hermetis: α Eau philosophi- 1 1 πνιοδδο---
-le mystère ν.
+*) L'œuf philosophique.
 
+*) Expression symbolique. D'après le _Lexicon Alchemiæ Rulandi_ (p. 272), c'est l'eau mercurielle, le mercure des philosophes, etc.
 
-### 0178
+*) Fond des vases où les résidus s'accumulent et sont exposés directement à l'action du feu ; comme le montrent, par exemple, les fig. 20 et 21 de l'_Introd._, p. 143.
 
-130
-ZOSIME
-lavés par les courants (d'eau), pendant la macération de notre pierre. Voilà
-comment tout minerai de cuivre est employé pour la génération des métaux,
-ainsi que tout minerai de plomb. « Tu trouveras, dit-il, cette pierre qui a
-un esprit ; ce qui se rapporte à l'expulsion du mercure.
-6. C'est pour ces raisons que mon excellent (maitre), Démocrite, distingue
-lui-même et dit : « Reçois cette pierre qui n'est pas une pierre, cette chose pré-
-cieuse qui n'a pas de valeur, cet objet polymorphe qui n'a point de forme, cet
-inconnu qui est connu de tous, qui a plusieurs noms et qui n'a pas de nom (1):
-je veux parler de l'aphrosélinon ». Car cette pierre n'est pas une pierre, et
-touten étant très précieuse elle n'a aucune valeur vénale ; sa nature est unique,
-son nom unique. Cependant on lui a donné plusieurs dénominations, je ne
-dis pas absolument parlant, mais selon sa nature ; de sorte que si on l'appelle
-soit : être qui fuit le feu, soit : vapeur blanche, soit : cuivre blanc, on ne ment
-pas.
-Il dit qu'elle (se réduit entièrement) en nuage condensé, attendu qu'elle
-fuit le feu. à la différence de tous les autres corps métalliques ; c'est la
-vapeur sublimée du cinabre, et seule elle blanchit le cuivre. Fais-la donc
-chauffer doucement et éteins-la dans du lait d'nesse ou de chèvre. l Rends-
-toi compte, après avoir opéré le rapprochement, qu'elle fuit le feu, à la
-différence de tous les autres corps ; que c'est la vapeur sublimée du cinabre,
-et que seule elle blanchit le cuivre.]
-7. Comment les philosophes comprennent-ils cette pensée, à savoir que
-(Démocrite) appelle pierre, la pyritedébarrassée de son mercure? Cet excellent
-philosophe (dit) : « Qui ne sait que la vapeur sublimée du cinabre est le
-mercure? c'est par son moyen quil est fabriqué. C'est pourquoi si quel-
-qu'un, après avoir délayé le cinabre dans l'huile de natron, après l'avoir
-mélangé et renfermé dans des vases doubles, l'expose ensuite à un feu con-
-tinu, il recueillera toute la vapeur fixée par la chaleur sur les corps (métal-
-liques)» (2).
-(1) Voir page 19, note, 1, et Zosime, | Aphrodite (Vénus), qui est le mercure,
-|et par Sélénè (la Lune), qui est l'argent.
-II, u, p. 122.
-(2) Lc continue, en abrégeant tout ce | Car de même que la lumière, etc. ν,
-passage : « On l'appelle Aphrosélinon, | comme à la p. suivante 6 8. l. A.
-parce que cette pierre est produite par l
+*) Ceci est une répétition ; quelque copiste ayant mis bout à bout deux versions parallèles.
 
+Voilà le mystère des philosophes, celui que nos pères ont juré de ne point révéler ni publier.
 
-### 0179
+3\. On entend par élévation, la montée des fleurs* : l'eau avec laquelle le produit a été arrosé s'élève et monte sans obstacle, par suite de l'association intime du corps avec le soufre.* Sinon (le corps) reste au fond (du vase à sublimation ? ) Contentons-nous du mortier et du filtre pour les deux teintures.
 
-SUR LA VERTU ET L'INTERPRETATION
-131
-Ainsi donc la pierre, je veux dire celle au moyen de laquelle on obtient la
-fixation sur le corps (métallique) de la magnésie, n'est pas une vraie pierre (1).
-En effet, il est dans sa nature de s'écouler (par volatilisation).
-N'entends-tu pas ce que Démocrite dit plus haut : « Prenant du mercure,
-fixe le corps de la magnésie au moyen d'une matière mélangée, de façon à
-obtenir une seule substance métallique, le molybdochalque. » N'est-ce donc
-pas la l'aphrosélinon? Car tout le monde sait que, pendant leur ascension,
-Aphrodite (Vénus) et Sélénè (la Lune) forment un composé, que nous dénom-
-mons l'aphrosélinon. Or, tout le monde sait aussi que les astrologues
-assignent le cuivre à Vénus, pendant son ascension.
+*) Fleurs métalliques, se formant à la surface des métaux par oxydation, ou se sublimant (voir page 71, note 4).
+
+*) On propose de lire : soufre, au lieu de plomb ; le signe étant pareil (voir le _Texte grec_, p. 114, note de la ligne 23).
+
+Quant au cuivre, Zosime dit à son sujet : « Altéré par la plupart des eaux, à cause de l'humidité de l'air et de la chaleur, il augmente de volume et se couvre de fleurs, qui sont de beaucoup les plus douces ; il fructifie par l'action productrice de la nature. »
+
+---
+
+3\. --- 3. Agathodémon.
+
+Après l'affinage du cuivre et son noircissement, puis son blanchiment ultérieur, alors aura lieu le jaunissement solide.
+
+---
+
+3\. --- 4. Hermès.
+
+Si tu ne dépouilles pas les corps de leur nature corporelle et si tu ne donnes pas une nature corporelle aux êtres incorporels, rien de ce que tu attends n'aura lieu.*
+
+*) Cet axiome a été attribué aussi à Marie (ce volume, p. 101), et à d'autres alchimistes. Il signifie d'une part ôter aux métaux purs ou alliés leur corps, ou forme métallique, sous laquelle ils sont fixes d'ordinaire : ce que l'on réalisait en les soumettant à la sublimation, qui rend le zinc, l'antimoine et même le plomb et le cuivre volatils (c'est à-dire esprits), dans l'état d'oxydes (par l'action de l'air), de sulfures (par l'action du soufre ou des sulfures), de chlorures (par l'action du sel marin), etc. D'autre part on leur restitue leur corps, c'est-à-dire on rétablit ces chlorures, oxydes, sulfures, dans l'état métallique avec des propriétés et une coloration nouvelles, dues soit à leur purification, soit au contraire à la formation des alliages. --- On lit de même dans le traité attribué à Avicenne (_Bibl. chem._ de Manget, t. 1, p. 629) : _ut corporeum fiat spirituale sublimando et cum est spirituale, fiat iterate corporeum descendendo_.
+
+---
+
+3\. --- 5. Zosime. --- Leçon 2.
+
+1\. Enfin je fus pris du désir de monter les sept degrés et de voir les sept châtiments ; et comme il convient, en un seul des jours (fixés), j'effectuai la route de l'ascension. En m'y reprenant à plusieurs reprises, je parcourus la route. Au retour, je ne retrouvai pas mon chemin. Plongé dans un grand découragement, ne voyant pas comment sortir, je tombai dans le sommeil.
+
+J'aperçus pendant mon sommeil un certain petit homme, un barbier revêtu d'une robe rouge et d'un habillement royal, qui se tenait debout en dehors du lieu des châtiments, et il me dit : Que fais-tu (là), ô homme ? Et moi je lui répondis : Je m'arrête ici parce que, m'étant écarté de tout chemin, je me trouve égaré. Il me dit (alors) : Suis-moi. Et moi, je vins et je le suivis. Comme nous étions près du lieu des châtiments, je vis celui qui me guidait, ce petit barbier, s'engager dans ce lieu et tout son corps fut consumé par le feu.
+
+2\. A cette vue, je m'éloignai, je tremblai de peur ; puis je me réveillai, et je me dis en moi-même : Qu'est-ce que je vois ? et de nouveau je tirai mon raisonnement au clair et je compris que ce barbier était l'homme de cuivre, revêtu d'un habillement rouge, et je (me) dis : J'ai bien compris, c'est l'homme de cuivre. Il faut d'abord qu'il s'engage dans le lieu des châtiments.
+
+3\. De nouveau mon âme désira monter le 3e degré. Et de nouveau, seul, je suivis le chemin ; et comme j'étais près du lieu des châtiments, je m'égarai encore, ne sachant pas ma route, et je m'arrêtai désespéré. Et de nouveau, semblablement, je vis un vieillard blanchi par les années, devenu tout à fait blanc, d'une blancheur aveuglante. Il s'appelait Agathodémon. Se retournant, ce vieillard aux cheveux blancs me considéra pendant une grande heure. Et moi je lui demandai : Montre-moi le droit chemin. Il ne se retourna pas vers moi, mais il s'empressa de suivre sa propre route. En allant et venant, de ci, de là, je gagnai en hâte l'autel. Lorsque je fus arrivé en haut sur l'autel, je vis le vieillard aux cheveux blancs s'engager dans le lieu du châtiment. O démiurges des natures célestes ! Comme il fut aussitôt embrasé tout entier ! Quel récit effroyable, mes frères ! Car, par suite de la violence du châtiment, ses yeux se remplirent de sang. Je (lui) adressai la parole et lui demandai : Pourquoi es-tu étendu ? Mais lui, ayant entr'ouvert la bouche, me dit : « Je suis l'homme de plomb et je subis une violence intolérable*. » Là-dessus, saisi d'une grande crainte, je m'éveillai et je cherchai en moi-même la raison de ce fait. De nouveau je réfléchis et je me dis : J'ai bien compris par là qu'il faut rejeter le plomb ; la vision se rapporte réellement à la composition des liquides.
+
+*) Dans le § 3, il semble s'agir de la calcination de la litharge blanche, opération qui la change en minium rouge. Peut-être aussi est-ce la coupellation.
+
+---
+
+3\. --- 5 bis. Ouvrage du même Zosime. --- Leçon 3.
+
+1\. De nouveau, je remarquai le divin et sacré autel en forme de coupe, et je vis un prêtre revêtu d'une (robe) blanche, tombant jusqu'à ses pieds, lequel célébrait ces effrayants mystères, et je dis : Quel est celui-ci ? Et il me répondit : C'est le prêtre des sanctuaires. C'est lui qui a l'habitude d'ensanglanter les corps, de rendre les yeux clairvoyants et de ressusciter les morts. Alors, tombant de nouveau (à terre), je m'endormis encore. Pendant que je montais le quatrième degré, je vis, du côté de l'orient, (quelqu'un) venir, tenant dans sa main un glaive. Un autre, derrière lui, portait un objet circulaire, d'une blancheur éclatante, et très beau à voir, appelé Méridien du Cinabre.* Comme j'approchais du lieu du châtiment, il me dit que celui qui tenait un glaive, devait lui trancher la tête, sacrifier son corps et couper ses chairs par morceaux, afin que ses chairs fussent d'abord bouillies dans l'appareil, et qu'alors elles fussent portées au lieu du châtiment. M'étant réveillé de nouveau, je (me) dis : j'ai bien compris ; il s'agit des liquides dans l'art des métaux. Celui qui portait le glaive dit encore : Vous avez accompli l'ascension des sept degrés. L'autre reprit, en même temps qu'il laissait dissoudre les plombs par tous les liquides ( ? ),* : « l'Art s'accomplit. »
+
+*) Le Cinabre est représenté ici dans AK, comme à l'ordinaire, par un cercle avec un point au milieu. --- Voir _Introd._, p. 108 ; Pl. 2, l. 13 ; et p. 122, note 1. --- Ce signe a été aussi le signe du soleil, et plus tard de l'or.
+
+*) Il semble qu'il s'agisse de l'absorption de la litharge fondue par les parois de la coupelle.
+
+---
+
+3\. --- 6. Le Divin Zosime sur la Vertu et l'Interprétation.*
+
+*) Cet article est formé par une suite de notices et de commentaires, d'époques diverses. Les premiers sont de Zosime ; puis viennent des §§ qui rappellent le Chrétien, Stephanus et d'autres auteurs byzantins plus modernes encore, de plus en plus subtils et alambiqués. On n'a pas cru utile d'en donner la traduction absolument complète, l'impression du texte suffisant amplement pour certains passages.
+
+1\. Pour obéir à son penchant et en vue d'expliquer le songe qu'il avait fait,* il dit : Je vis un autel en forme de coupe ; un esprit igné, debout sur l'autel, présidait à l'effervescence, aux bouillonnements et à la calcination des hommes qui s'élevaient. Je m'informai, au sujet du peuple qui se tenait debout, et je dis : Je vois avec étonnement l'effervescence et le bouillonnement ; comment ces hommes en ignition sont-ils vivants ? Et me répondant, il me dit : Cette effervescence que tu vois, c'est le lieu où s'exerce la macération. Les hommes qui veulent obtenir la vertu entrent ici ; ils perdent leurs corps (et) deviennent des esprits. L'exercice (à la vertu) s'explique par là, à cause du (mot) exercer* ; car, en rejetant l'épaisseur du corps, ils deviennent des esprits.
+
+*) Ce début indique que le texte actuel est un extrait. En effet on lit dans ELc : « Commentaire du Philosophe Anonyme sur le traité du divin Zosime le Panopolitain (ou le Thébain), sur la Vertu, etc. »
+
+*) Il y a ici un jeu de mots intraduisible, qui rappelle le double sens français du mot macération, au sens chimique et au sens moral.
+
+2\. Démocrite dit quelque chose d'analogue : « Poursuis le traitement jusqu'à ce qu'il se forme un _ios_ jaune comme la couleur d'or, arrivant à l'état d'esprit au moyen de l'_ios_ » En effet, l'_ios_ provenant de la substance privée de corps, par l'action du serpent, signifie l'esprit.* En raison de l'accomplissement de la coloration jaune, l'_ios_ est appelée couleur d'or. » C'est de cette façon qu'ils se transmettent leur pensée de vive voix et la proclament, jusqu'à ce qu'ils soient parvenus à une apparence uniforme. Et il poursuit : « Traite jusqu'à ce que tu puisses faire couler » --- faire couler vient de liquéfaction et non d'extraction, car ils changent la lettre σ en τ.* --- Il dit ainsi : « Fais couler ; » ce qu'il entend de la liquéfaction, comme nous l'avons expliqué. Quant à ses paroles : « Fais le traitement, jusqu'à ce que tu puisses faire couler ; » ceci équivaut au mot employé plus haut d'écoulement simultané.*
+
+*) Le même mot _ios_ signifie : rouille des métaux, vertu spécifique des corps et venin des serpents. (_Introd._, p. 254).
+
+*) On peut interpréter ceci par un jeu de mots fondé sur la ressemblance des deux termes, ῥεῦσις, écoulement, et ῥεῦτις, extraction ?
+
+*) Voir _Olympiodore_, p. 78, 101 et 113, notes.
+
+3\. L'expression de sidérite,* nom employé aussi par ceux qui sont signalés plus bas, désigne, conformément à ce qu'il rapporte : le molybdochalque et la pierre étésienne.
+
+*) Variété de Pyrite. --- Voir p. 47.
+
+La pyrite, matière employée à cause de sa faculté colorante, après qu'elle a été brûlée ou soumise à l'action du feu, signifie le cuivre (tiré de la pyrite).
+
+Semblablement le mot argyrite s'emploie pour la matière qui reste après l'expulsion du mercure ; car le cuivre débarrassé de l'excès du mercure devient de l'argyrite* ; tandis que la pierre étésienne est le mercure même, selon la vraie interprétation de l'ensemble des opérations ( ? ). En effet le départ du mercure annonce la prochaine apparition de la couleur d'or par le feu.
+
+*) C'est-à-dire est coloré en blanc d'argent.
+
+Il dit « sidérite » à cause de la nécessité de faire intervenir la combinaison du plomb. En effet les substances combinées produisent la sidérite.*
+
+*) Les §§ 3 et 4 sont formés par une suite de phrases, qui semblent presque indépendantes les unes des autres ; on dirait des lambeaux d'un vieil écrit, mis bout à bout.
+
+4\. Semblablement, qu'est-ce que le cœur du fer ? Lorsque la masse est brisée, comme il arrive pendant cette extraction --- en employant les mots conformément aux analogies --- nous trouvons la théorie manifeste, et elle nous révèle le secret.
+
+Dans d'autres passages, Démocrite dit : « Pratique le traitement avec la saumure additionnée de vinaigre ou d'urine, ou avec les deux réunis. » Entends d'ailleurs (comme tu le comprends d'après l'écrit, ou comme la chose y est expliquée), que la chose est possible en opérant avec d'autres liquides ; attendu que rien de tout cela ne demeure (dans la préparation), ces liquides étant déversés ensuite, lors du lavage de la composition.
+
+5\. C'est à ce sujet que le très ancien Ostanès, dans ses démonstrations, dit : Quelqu'un raconte ceci sur un certain Sophar, qui vécut antérieurement en Perse. Ce divin Sophar s'exprime ainsi : « Il existe sur un pilier un aigle d'airain,* qui descend dans la fontaine pure et s'y baigne chaque jour, se renouvelant par ce régime. » Puis il dit : « L'aigle, dont nous avons donné l'interprétation, a l'habitude de se baigner chaque jour. » Comment donc, faisant entendre la même chose d'une autre manière, rejette-t-il l'ablution et le lavage quotidien ? Il faut (s'expliquer) exactement au sujet de la présente opération. Tenu dans l'incertitude à cause de la doctrine (ambiguë) du philosophe, nous devons cependant laver et rajeunir l'aigle de cuivre pendant 365 jours entiers ; comme il convient d'après la suite de son traité, car Ostanès s'exprime ainsi : « Presse la vendange.* » Plus bas, il explique qu'il faut entendre par là* le lavage par écoulement ; par ce mystère, on doit comprendre l'_ios_. Il ajoute, en s'exprimant très clairement : « Va vers le courant du Nil ; tu trouveras là une pierre ayant un esprit ; prends-la, coupe-la en deux ; mets ta main dans l'intérieur et tires-en le cœur : car son âme est dans son cœur. » Par l'expression : « Va vers le courant du Nil, tu trouveras là une pierre ayant un esprit ; » il désigne clairement les produits lavés par les courants (d'eau), pendant la macération de notre pierre. Voilà comment tout minerai de cuivre est employé pour la génération des métaux, ainsi que tout minerai de plomb. « Tu trouveras, dit-il, cette pierre qui a un esprit ; » ce qui se rapporte à l'expulsion du mercure.
+
+*) Le sens du mot aigle dans ce passage est obscur. --- Au moyen âge, on traduisait « aigle » par sublimation naturelle (_Biblioth. des Philosophes Chimiques_, t. 4, p. 571 ; 1754). Mais ce sens ne paraît pas être celui d'Ostanès.
+
+*) _Uvæ Hermetis_ : « Eau philosophique, désigne la distillation, la solution, la sublimation, la calcination, la fixation » (_Lexicon Alch. Rulandi_, p. 468). --- Ce sens est plus étendu que ne paraît être celui d'Ostanès.
+
+*) Lc : « Lave l'_ios_ plusieurs fois, au moyen de l'écoulement, et c'est là le mystère. »
+
+6\. C'est pour ces raisons que mon excellent (maître), Démocrite, distingue lui-même et dit : « Reçois cette pierre qui n'est pas une pierre, cette chose précieuse qui n'a pas de valeur, cet objet polymorphe qui n'a point de forme, cet inconnu qui est connu de tous, qui a plusieurs noms et qui n'a pas de nom* : je veux parler de l'aphrosélinon. » Car cette pierre n'est pas une pierre, et tout en étant très précieuse elle n'a aucune valeur vénale ; sa nature est unique, son nom unique. Cependant on lui a donné plusieurs dénominations, je ne dis pas absolument parlant, mais selon sa nature ; de sorte que si on l'appelle soit : être qui fuit le feu, soit : vapeur blanche, soit : cuivre blanc, on ne ment pas.
+
+*) Voir page 19, note, 1, et _Zosime_, 3, 2, p. 122.
+
+Il dit qu'elle (se réduit entièrement) en nuage condensé, attendu qu'elle fuit le feu, à la différence de tous les autres corps métalliques ; c'est la vapeur sublimée du cinabre, et seule elle blanchit le cuivre. Fais-la donc chauffer doucement et éteins-la dans du lait d'ânesse ou de chèvre. [Rends-toi compte, après avoir opéré le rapprochement, qu'elle fuit le feu, à la différence de tous les autres corps ; que c'est la vapeur sublimée du cinabre, et que seule elle blanchit le cuivre.]
+
+7\. Comment les philosophes comprennent-ils cette pensée, à savoir que (Démocrite) appelle pierre, la pyrite débarrassée de son mercure? Cet excellent philosophe (dit) : « Qui ne sait que la vapeur sublimée du cinabre est le mercure? c'est par son moyen qu'il est fabriqué. C'est pourquoi si quelqu'un, après avoir délayé le cinabre dans l'huile de natron, après l'avoir mélangé et renfermé dans des vases doubles, l'expose ensuite à un feu continu, il recueillera toute la vapeur fixée par la chaleur sur les corps (métalliques)*. »
+
+*) Lc continue, en abrégeant tout ce passage : « On l'appelle Aphrosélinon, parce que cette pierre est produite par Aphrodite (Vénus), qui est le mercure, et par Séléné (la Lune), qui est l'argent. Car de même que la lumière, etc. » comme à la p. suivante § 8, l. 4.
+
+Ainsi donc la pierre, je veux dire celle au moyen de laquelle on obtient la fixation sur le corps (métallique) de la magnésie, n'est pas une vraie pierre.* En effet, il est dans sa nature de s'écouler (par volatilisation).
+
+*) Attendu que les pierres ne sont pas volatiles. Cp. _Bibl. Chem._ de Manget, t. 1, p. 935.
+
+N'entends-tu pas ce que Démocrite dit plus haut : « Prenant du mercure, fixe le corps de la magnésie au moyen d'une matière mélangée, de façon à obtenir une seule substance métallique, le molybdochalque. » N'est-ce donc pas là l'aphrosélinon ? Car tout le monde sait que, pendant leur ascension, Aphrodite (Vénus) et Séléné (la Lune) forment un composé, que nous dénommons l'aphrosélinon. Or, tout le monde sait aussi que les astrologues assignent le cuivre à Vénus, pendant son ascension.
+
 Les uns disent que le mercure est une chose plus épaisse ; les autres, que
 le mercure est une chose plus spirituelle : attendu que, dans le déclin de la
 lune, il y a décroissement de la lumière (2) : Ce déclin ou écoulement
