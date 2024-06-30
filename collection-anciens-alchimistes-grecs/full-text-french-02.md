@@ -20,23 +20,23 @@
 
 ---
 
-# [Texte Grec.](#)
+# [Texte Grec.](#texte-grec-1)
 
-## [Troisième Partie.](#)
+## [Troisième Partie.](#troisième-partie-2)
 
-### [Zosime.](#)
+### [Zosime.](#zosime-2)
 
-#### [3. --- 1. ΖΩΣΙΜΟΥ ΤΟΥ ΘΕΙΟΥ ΠΕΡΙ ΑΡΕΤΗΣ.](#)
+#### [3. --- 1. ΖΩΣΙΜΟΥ ΤΟΥ ΘΕΙΟΥ ΠΕΡΙ ΑΡΕΤΗΣ.](#3-----1-ζωσιμου-του-θειου-περι-αρετησ-1)
 
 ...
 
-# [Traduction.](#)
+# [Traduction.](#traduction-1)
 
-## [Troisième Partie.](#)
+## [Troisième Partie.](#troisième-partie-3)
 
-### [Zosime.](#)
+### [Zosime.](#zosime-3)
 
-#### [3. --- 1. Le Divin Zosime sur la Vertu. --- Leçon 1..](#)
+#### [3. --- 1. Le Divin Zosime sur la Vertu. --- Leçon 1.](#3-----1-le-divin-zosime-sur-la-vertu-----leçon-1-1)
 
 ---
 
