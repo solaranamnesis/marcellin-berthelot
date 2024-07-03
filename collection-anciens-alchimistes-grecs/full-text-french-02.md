@@ -5844,438 +5844,135 @@ Ainsi donc la pierre, je veux dire celle au moyen de laquelle on obtient la fixa
 
 *) Attendu que les pierres ne sont pas volatiles. Cp. _Bibl. Chem._ de Manget, t. 1, p. 935.
 
-N'entends-tu pas ce que Démocrite dit plus haut : « Prenant du mercure, fixe le corps de la magnésie au moyen d'une matière mélangée, de façon à obtenir une seule substance métallique, le molybdochalque. » N'est-ce donc pas là l'aphrosélinon ? Car tout le monde sait que, pendant leur ascension, Aphrodite (Vénus) et Séléné (la Lune) forment un composé, que nous dénommons l'aphrosélinon. Or, tout le monde sait aussi que les astrologues assignent le cuivre à Vénus, pendant son ascension.
+Les uns disent que le mercure est une chose plus épaisse ; les autres, que le mercure est une chose plus spirituelle : attendu que, dans le déclin de la lune, il y a décroissement de la lumière* : Ce déclin ou écoulement résulte aussi de la nature propre de tous les autres astres. Jupiter seul est appelé d'abord électrum, pendant son ascension* ; tout électrum étant composé au moins de trois métaux.
 
-Les uns disent que le mercure est une chose plus épaisse ; les autres, que
-le mercure est une chose plus spirituelle : attendu que, dans le déclin de la
-lune, il y a décroissement de la lumière (2) : Ce déclin ou écoulement
-résulte aussi de la nature propre de tous les autres astres. upiter seul est
-appelé d'abord électrum, pendant son ascension (3); tout électrum étant
-composé au moins de trois métaux.
-8. Ainsi donc, dans son sens propre, l'argent répond a l'ascension de la
-lune (4); comme l'a montré l'excellent Philosophe, employant les dénomi-
-nations exactes, au sujet des deux argents (5),et lorsqu'il dénomme l'aphro-
-sélinon. De même que la lumiere est vue en esprit a 'opposé de la lune,
-tandis qu'elle nait et meurt corporellement dans cet astre (6); de même
-(1) Attendu que les pierres ne sont | corps consacré à Jupiter (Introd., p. 82,
-pas volatiles. Cp. Bibl. Cίem. de Man- | et97; pl. I, l. 4, p. 104), était souvent
-formé par l'association de ces trois mé-
-get, t. I. p. 935.
-(2) Le mercure est exprimé par le | taux ; --- voir Introd., p. 66.
-croissant retourné ; lequel exprime |
-(4) Le croissant direct, à concavité
-aussi la lune à son déclin. --- Voir la | tournée vers la droite, exprime la lune
-note 4, plus loin sur le croissant di- | dans ses premières phases, aussi bien
-rect, et p. 133 la note 1, relative au dé- que l'argent.
-clin, ἀπορία, et à l'effluve, ἀπόρροια, tous | (5) L'argent proprement dit et l'ar-
-deux assimilés à l'écoulement.
-gent liquide, ou mercure.
-(3) Allusion au role des trois astres | (6) Ceci se rapporte-t-il: d'une part. au
-(Mercure, Vénus, la Lune) compris | fait que la lune brille d'une lumiere
-entre la terre et le soleil; opposé à celui | empruntée, qu'elle ne produit pas elle-
-de upiter. Mercure ou Hermès repré- | mème? et d'autre part, à l'opposition
-sentait l'étain, Vénus le cuivre, la Lune | qui existe en général entre la Lune et
-l'argent; tandis que l'électrum ou asèm, | le Soleil dans le ciel ?
+*) Le mercure est exprimé par le croissant retourné ; lequel exprime aussi la lune à son déclin. --- Voir la note 4, plus loin sur le croissant direct, et p. 133 la note 1, relative au déclin, ἀπορία, et à l'effluve, ἀπόρροια, tous deux assimilés à l'écoulement.
 
+*) Allusion au rôle des trois astres (Mercure, Vénus, la Lune) compris entre la terre et le soleil ; opposé à celui de Jupiter. Mercure ou Hermès représentait l'étain, Vénus le cuivre, la Lune l'argent ; tandis que l'électrum ou asèm, corps consacré à Jupiter (_Introd._, p. 82, et 97 ; pl. 1, l. 4, p. 104), était souvent formé par l'association de ces trois métaux ;--- voir _Introd._, p. 66.
 
-### 0180
+8\. Ainsi donc, dans son sens propre, l'argent répond à l'ascension de la lune* ; comme l'a montré l'excellent Philosophe, employant les dénominations exactes, au sujet des deux argents,* et lorsqu'il dénomme l'aphrosélinon. De même que la lumière est vue en esprit à l'opposé de la lune, tandis qu'elle naît et meurt corporellement dans cet astre* ; de même aussi, naît et meurt le (vif) argent,* tiré du corps (métallique) de la magnésie ; il est esprit quant à sa nature.
 
-132
-ZOSIME
-aussi, nait et meurt le (vif) argent (1), tiré du corps (métallique) de la magné-
-sie ; il est esprit quant à sa nature.
-Nous trouvons encore des explications sur ces choses dans le traité
-de la Vertu en Action de Zosime ; car lui-même demande : « Et toi, tu es
-donc un esprit? α Et celui-ci répond et dit : « e suis esprit et gardien
-d'esprits » (2). En effet celui-ci étant esprit, en raison de la substance
-spirituelle qui réside dans la lune (3), il reprend un corps métallique
-par son union avec les solides ; et il fait à ce corps un esprit qui pénètre
-pour ainsi dire dans sa profondeur. . ..
-. . . . (passage inintelligible).
-N'as-tu pas entendu, dit-il, proférer à haute voix cette parole souvent
-répétée : « Défends le cuivre, combats le mercure et rends tout à fait
-incorporel, jusqu'à destruction : tel est l'art ». Or il n'a rien employé pour
-cela, sauf le mercure et la magnésie, et ces deux substances sont réunies
-dans la fixation. α Prends, dit-il, le mercure (et) le corps (métallique) de la
-magnésie ; tu obtiens l'esprit par l'expulsion du mercure ». a On le trouve,
-dit-il encore, vers les courants du Nil » ; ce qui signifie l'écoulement simul-
-tané par fusion, comme il a étéexpliqué précédemment (4). Alors, ainsi qu'il
-le dit: αrien ne manque, rien n'est ajourné, à l'exception de la vapeur » (5) ;
-c'est-à-dire que l'opérateur peut, grâce à sa faculté de voir et de comprendre,
-voir et comprendre les choses énoncées.
-9. En effet, que prescrit encore Hermès (6). lorsqu'il parle de ce qui
-tombe de la lune à son déclin, et dit ou (cela) se irouve, ou on le traite et
-(1) Le mercurε.
-(2) Zosime, III, 1, 3, p. 119.
-(3) Cest-a-dire dans l'argent, ou
-dans le mercure.
-(4) V. p. 78, 101 et p. 113, texte
-et note 1.
-(5) V. p. 57. Lc ajoute après ces mots
-et de l'ascension de l'eau; c'est-à-dire
-excepté ceque l'on peut voir etcompren-
-dre : car nousvoyons le corps(métallique)
-de la magnésie ; et nous comprenons sa
-puissance, ainsi qu'il a été énoncé ν.
-(6) Lc abrège tout ce passage ainsi :
-α Hermès dit : ce qui tombe de l'effluve
-lunaire. De même que la lumière de la
-lune croit et décroit ; de même notre
-argent décroit en perdant son corps,
-d'une façon correspondante à la lune.
-L'émission ou l'absorption de l'esprit
-résulte de la force ou de la modération
-du feu, qui doit être réglé afin que
-l'esprit soit conservéν, etc. ; dernière
-ligne du 9. --- Cp. Stephanus, édition
-Ideler. p. 203, au bas.
+*) Le croissant direct, à concavité tournée vers la droite, exprime la lune dans ses premières phases, aussi bien que l'argent.
 
+*) L'argent proprement dit et l'argent liquide, ou mercure.
 
-### 0181
+*) Ceci se rapporte-t-il : d'une part, au fait que la lune brille d'une lumière empruntée, qu'elle ne produit pas elle-même ? et d'autre part, à l'opposition qui existe en général entre la Lune et le Soleil dans le ciel ?
 
-SUR LA VERTU ET L'INTERPRETATION
-133
-comment cela possède une nature qui résiste au feu? a Tule trouveras chez moi
-et chez Agathodémon ». Par l'expression déclin (1), il parle de l'écoulement,
-et (cela) devient plus clair par l'addition de ces mots : « ce qui tombe au déclin
-lunaire » ; à ceux-ci : α la substance de la lune ». En effet, le corps demeure
-fixé par le déclin. La nature de la magnésie lunarisée acquiert ainsi en
-totalité le caractère spécifique de la lune (2), et se développe à l'occasion du
-déclin (qui répond à la volatilisation du mercurej. De telle sorte que le
-principe actif tombe (de la lune) par ce déclin, le corps (métallique) demeu-
-rant transformé.
-Revenons maintenant au déclin et à la faculté de voir et de pénétrer,
-qui résulte du déclin, du courant et de l'écoulement, conformément à
-la nature séparative de l'écoulement. Prends la magnésie traitée par
-l'art philosophique, en la brulant par le feu, non pendant l'incandes-
-cence ; mais pendant le déclin du feu, afin que l'esprit soit conservé et qu'il
-ne s'évapore pas par la violence de l'incandescence.
-10. Comprends ainsi ce que dit Ostanès : α Mets ta main a l'intérieur de
-la pierre, et tires-en le cœur, parce que son âme est dans son cœur » (3).
-Ainsi donc, par un semblable déclin, cette pierre rejette tout ce qui est à
-l'intérieur, et le fond du cœur est rejeté ; de même que l'esprit, qui est l'ios
-jaune, établi en principe comme la couleur d'or ; car ces choses sont en rap-
-port avec ce que dit aussi Démocrite :
-« Traite la pyrite jusqu'à ce qu'elle soit jaune comme la couleur
-d'or et vérifie si le métal devient sans ombre (4). S'il ne devient pas sans
-ombre, ne t'en prends pas au cuivre, mais à toi-même : c'est que tu n'auras
-pas bien opéré. Traite donc jusqu'à ce que le cuivre, devenu jaune et sans
-ombre, teigne tout corps en or et devienne comme la couleur d'or ».
-(1) L'auteur joue sur la ressemblance
-des mots grecs qui signifient déclin
-(άπορία) et effluve (ἀπόρροια), mots que
-les manuscrits mêmes confondent et
-échangent. Tout ce langage allégorique
-semble exprimer le départ par volatilisa-
-tion du mercure (lune à son déclin),
-r1
-alliage couleur d'argent. Ces phéno-
-mènes étaient rattachés à l'influence
-lunaire. C'est un mélange d'alchimie et
-d'astrologie, fondé sur des symboles et
-des jeux de mots.
-(2) C'est-a-dire de l'argent.
-(3) Voir page 129.
-(4) C'est-a-dire d'un jaune éclatant.
+*) Le mercure.
 
+Nous trouvons encore des explications sur ces choses dans le traité de la Vertu en Action de Zosime ; car lui-même demande : « Et toi, tu es donc un esprit ? « Et celui-ci répond et dit : « Je suis esprit et gardien d'esprits.* » En effet celui-ci étant esprit, en raison de la substance spirituelle qui réside dans la lune,* il reprend un corps métallique par son union avec les solides ; et il fait à ce corps un esprit qui pénètre pour ainsi dire dans sa profondeur ... ... ... (passage inintelligible).
 
-### 0182
+*) Zosime, 3, 3, 3, p.119.
 
-134
-ZOSIME
-Il faut dès lors considérer et observer s'il devient jaune sans ombre, comme
-la couleur d'or : s'il ne devient pas sans ombre, il ne peut teindre en jaune
-comme la couleur d'or. En effet, il n'est pas d'or (ou doré) quant à sa qua-
-lité, puisque ce sont certaines qualités qui rendent jaune ; car le mot qua-
-lité (1) a pour étymologie le mot fabriquer (2). (Le jaune) produit une tein-
-1ure, en raison de sa qualité dorée ; car il est évident que les actions exercées
-par les qualités sont en quelque sorte incorporelles. De là découle l'action
-de dorer; attendu que si la couleur ne possède pas la qualité jaune (3) dans sa
-propre substance, elle ne peut ni faire de l'or, ni teindre en or. Mais notre
-or, qui possède la qualité voulue, peut faire de l'or et teindre en or. C'est
-là le grand mystère, (à savoir) que la qualité devient or et alors elle fait de
-lor (4).
-11. Voila pourquoi la Couronne des philosophes (5) dit que la qualité,
-par la transmutation, réalise ce que l'on cherche. Il nous persuade et nous
-invite a 'interroger, disant : α Quelle est cette qualité ? » Il répond : α la
-qualité de la poudre de projection réside dans les qualités dorées. Si elle
-n'acquiert pas la qualité dorée et ne devient pas de l'or, possédant la cou-
-leur parfaite, elle ne peut faire de l'orν. Ainsi donc, comme il le dit, vérifie
-si le jaune est devenu sans ombre, c'est-à-dire (un être) incorporel, un ios
-jaune comme la couleur d'or. Ce qu'il faut donc vérifier, c'est si le jaune
-est devenu sans ombre et parait comme la couleur d'or.
-Le commentateur poursuit en exposant des discussions subtiles et alambiquées,
-dont nous supprimons la traduction.
-(1) ποιότης.
-(2) ποιεῖν. --- eu de mots sur ποίησις,
-qui veut dire la transmutation, la fabri-
-cation de l'or.
-(3) Le grec porte blanche ν; ce qui
-semble une erreur de copiste.
-(4) En d'autres termes, la qualité a or»
-est indépendante de la substance métal-
-lique qui en est le support. Lorsqu'on
-possède une matière en laquelle cette
-ΣaΣ
-la pierre philosophale, et l'on peut
-alors teindre en or les autres métaux et
-ſaire par là de l'or véritable. Toute la
-théorie des alchimistes réside dans ces
-notions subtiles.
-(5) Zosime. Ce paragraphe est un
-commentaire du précédent. --- Lc dit
-simplement : aStephanusν ; n'ayant pas
-compris la métaphore. En effet τέφα-
-νος, couronne, est le mème mot grec que
-le nom de ce dernier philosophe.
+*) C'est-à-dire dans l'argent, ou dans le mercure.
 
+N'as-tu pas entendu, dit-il, proférer à haute voix cette parole souvent répétée : « Défends le cuivre, combats le mercure et rends tout à fait incorporel, jusqu'à destruction : tel est l'art. » Or il n'a rien employé pour cela, sauf le mercure et la magnésie, et ces deux substances sont réunies dans la fixation. « Prends, dit-il, le mercure (et) le corps (métallique) de la magnésie ; tu obtiens l'esprit par l'expulsion du mercure. » « On le trouve, dit-il encore, vers les courants du Nil ; » ce qui signifie l'écoulement simultané par fusion, comme il a été expliqué précédemment.* Alors, ainsi qu'il le dit : « rien ne manque, rien n'est ajourné, à l'exception de la vapeur* ; » c'est-à-dire que l'opérateur peut, grâce à sa faculté de voir et de comprendre, voir et comprendre les choses énoncées.
 
-### 0183
+*) V. p. 78, 101 et p. 113, texte et note 1.
 
-SUR LA VERTU ET L'INTERPRETATION
-I2 ....
-Si tu commences par blanchir, le jaunissement sera parfait, parfait et
-solide. Dans le cas ou il ne serait pas exact, il faut observer que le jaunisse-
-ment dépend du degré de blanchiment: si le blanchiment passe, le jaunis-
-sement passe aussi.
-13. Il sera nécessaire d'observer et de surveiller le blanchiment, et de le
-prolonger. Hermes exige que le lavage dure pendant six mois, à partir du mois
-de Méchir; Ostanès, dans son traité, parlant de l'aigle, exige une année en-
-tière. Ajoutons que les philosophes œcuméniques, les savants modernes, les
-exégètes de Platon et d'Aristote, résumant le compte des dissolutions et des
-chauffes, disent : 2 fois 8 centaines et 3 fois 3 dizaines et 4 fois, montrant
-que onze cent (fois) la combinaison doit être remaniée, et décomposée, pour
-que le blanchiment devienne parfait et s'accomplisse en vue d'un jaunis-
-sement parfait et solide. Zosime disait encore plus expressément : α Ne crai-
-gnea pas de multiplier les chauffes et les expulsions de l'eau (1) des corps,
-attendu que la chauffe mille fois répétée du cuivre le rend plus apte à la
-teinture ».
-On n'a pas traduit la fin de ce , qui est un développement sans intérèt.
-14. Il convient d'admirer le concours des qualités ; car les actions in-
-corporelles effectuées par leur concours ont accompli cette merveilleuse
-Chrysopée, par la production d'une seule substance.
-La chaleur du feu, la liquidité de l'eau, le froid de l'air, toutes qualités
-concourant avec la solidité de la terre, ont forcé le corps (métallique) de
-la magnésie de passer à la mutation et à la transformation. Ou sont donc
-ceux qui disent qu'il est impossible de changer la nature ? Car voici que la
-nature des solides change et acquiert la qualité dorée ; de même le molyb-
-dochalque s'est changé, en prenant la qualité dorée, et s'est rapproché du
-noir ; de même l'argent commun se change par notre opération en or.
-Les 15, 16, 17 sont de pures subtilités, dont nous supprimons la traduction.
-135
-18. La présente composition part de l'unité, et se constitue en triade par
-(1) C'est-a-dire l'expulsion du principe de la liquidite.
+*) V. p. 57. Lc ajoute après ces mots « et de l'ascension de l'eau ; c'est-à-dire excepté ce que l'on peut voir et comprendre : car nous voyons le corps (métallique) de la magnésie ; et nous comprenons sa puissance, ainsi qu'il a été énoncé. »
 
+9\. En effet, que prescrit encore Hermès,* lorsqu'il parle de ce qui tombe de la lune à son déclin, et dit où (cela) se trouve, où on le traite et comment cela possède une nature qui résiste au feu ? « Tu le trouveras chez moi et chez Agathodémon. » Par l'expression déclin,* il parle de l'écoulement, et (cela) devient plus clair par l'addition de ces mots : « ce qui tombe au déclin lunaire ; » à ceux-ci : « la substance de la lune. » En effet, le corps demeure fixé par le déclin. La nature de la magnésie lunarisée acquiert ainsi en totalité le caractère spécifique de la lune,* et se développe à l'occasion du déclin (qui répond à la volatilisation du mercure). De telle sorte que le principe actif tombe (de la lune) par ce déclin, le corps (métallique) demeurant transformé.
 
-### 0184
+*) Lc abrège tout ce passage ainsi : « Hermès dit : ce qui tombe de l'effluve lunaire. De même que la lumière de la lune croît et décroît ; de même notre argent décroît en perdant son corps, d'une façon correspondante à la lune. L'émission ou l'absorption de l'esprit résulte de la force ou de la modération du feu, qui doit être réglé afin que l'esprit soit conservé, » etc. ; dernière ligne du § 9. --- Cp. Stephanus, édition Ideler, p. 203, au bas.
 
-136
-ZOSIME
-l'expulsion du mercure ; l'unité de constitution résulte d'une triade à
-éléments sépares. C'est ainsi qu'une triade unique, partagée, constituée par
-des éléments séparés, constitue le monde, par la providence du premier
-auteur, cause et démiurge de la création. Par suite, il est appelé Trismégiste,
-ayant envisagé suivant la triade ce qui est fait et ce qui fait. Or ce qui est fait,
-c'esι le molybdochalque (et la) pierre étésienne ; et ce qui fait, c'est le chaud,
-etle froid, et le fluide, d'abord triade première indivisible, et puis unité divisée.
+*) L'auteur joue sur la ressemblance des mots grecs qui signifient déclin (ἀπορία) et effluve (ἀπόρροια), mots que les manuscrits mêmes confondent et échangent. Tout ce langage allégorique semble exprimer le départ par volatilisation du mercure (lune à son déclin), mercure qui a servi à amalgamer et unir les métaux et qui laisse en partant un alliage couleur d'argent. Ces phénomènes étaient rattachés à l'influence lunaire. C'est un mélange d'alchimie et d'astrologie, fondé sur des symboles et des jeux de mots.
+
+*) C'est-à-dire de l'argent.
+
+Revenons maintenant au déclin et à la faculté de voir et de pénétrer, qui résulte du déclin, du courant et de l'écoulement, conformément à la nature séparative de l'écoulement. Prends la magnésie traitée par l'art philosophique, en la brûlant par le feu, non pendant l'incandescence ; mais pendant le déclin du feu, afin que l'esprit soit conservé et qu'il ne s'évapore pas par la violence de l'incandescence.
+
+10\. Comprends ainsi ce que dit Ostanès : « Mets ta main à l'intérieur de la pierre, et tires-en le cœur, parce que son âme est dans son cœur*. » Ainsi donc, par un semblable déclin, cette pierre rejette tout ce qui est à l'intérieur, et le fond du cœur est rejeté ; de même que l'esprit, qui est l'_ios_ jaune, établi en principe comme la couleur d'or ; car ces choses sont en rapport avec ce que dit aussi Démocrite :
+
+*) Voir page 129.
+
+« Traite la pyrite jusqu'à ce qu'elle soit jaune comme la couleur d'or et vérifie si le métal devient sans ombre.* S'il ne devient pas sans ombre, ne t'en prends pas au cuivre, mais à toi-même : c'est que tu n'auras pas bien opéré. Traite donc jusqu'à ce que le cuivre, devenu jaune et sans ombre, teigne tout corps en or et devienne comme la couleur d'or. »
+
+*) C'est-à-dire d'un jaune éclatant.
+
+Il faut dès lors considérer et observer s'il devient jaune sans ombre, comme la couleur d'or : s'il ne devient pas sans ombre, il ne peut teindre en jaune comme la couleur d'or. En effet, il n'est pas d'or (ou doré) quant à sa qualité, puisque ce sont certaines qualités qui rendent jaune ; car le mot qualité* a pour étymologie le mot fabriquer.* (Le jaune) produit une teinture, en raison de sa qualité dorée ; car il est évident que les actions exercées par les qualités sont en quelque sorte incorporelles. De là découle l'action de dorer ; attendu que si la couleur ne possède pas la qualité jaune* dans sa propre substance, elle ne peut ni faire de l'or, ni teindre en or. Mais notre or, qui possède la qualité voulue, peut faire de l'or et teindre en or. C'est là le grand mystère, (à savoir) que la qualité devient or et alors elle fait de l'or.*
+
+*) ποιότης.
+
+*) ποιεῖν. --- Jeu de mots sur qui veut dire la transmutation, la fabrication de l'or.
+
+*) Le grec porte « blanche ; » ce qui semble une erreur de copiste.
+
+*) En d'autres termes, la qualité « or » est indépendante de la substance métallique qui en est le support. Lorsqu'on possède une matière en laquelle cette qualité réside, à la façon du principe essentiel d'une matière colorante, c'est la pierre philosophale, et l'on peut alors teindre en or les autres métaux et faire par là de l'or véritable. Toute la théorie des alchimistes réside dans ces notions subtiles.
+
+11\. Voilà pourquoi la Couronne des philosophes* dit que la qualité, par la transmutation, réalise ce que l'on cherche. Il nous persuade et nous invite à l'interroger, disant : « Quelle est cette qualité ? » Il répond : « la qualité de la poudre de projection réside dans les qualités dorées. Si elle n'acquiert pas la qualité dorée et ne devient pas de l'or, possédant la couleur parfaite, elle ne peut faire de l'or. » Ainsi donc, comme il le dit, vérifie si le jaune est devenu sans ombre, c'est-à-dire (un être) incorporel, un _ios_ jaune comme la couleur d'or. Ce qu'il faut donc vérifier, c'est si le jaune est devenu sans ombre et paraît comme la couleur d'or.
+
+Le commentateur poursuit en exposant des discussions subtiles et alambiquées, dont nous supprimons la traduction.
+
+*) Zosime. Ce paragraphe est un commentaire du précédent. --- Lc dit simplement : « Stephanus ; » n'ayant pas compris la métaphore. En effet Στέφανος, couronne, est le même mot grec que le nom de ce dernier philosophe.
+
+12\. ... ...
+
+Si tu commences par blanchir, le jaunissement sera parfait, parfait et solide. Dans le cas où il ne serait pas exact, il faut observer que le jaunissement dépend du degré de blanchiment : si le blanchiment passe, le jaunissement passe aussi.
+
+13\. Il sera nécessaire d'observer et de surveiller le blanchiment, et de le prolonger. Hermès exige que le lavage dure pendant six mois, à partir du mois de Méchir ; Ostanès, dans son traité, parlant de l'aigle, exige une année entière. Ajoutons que les philosophes œcuméniques, les savants modernes, les exégètes de Platon et d'Aristote, résumant le compte des dissolutions et des chauffes, disent : 2 fois 8 centaines et 3 fois 3 dizaines et 4 fois, montrant que onze cent (fois) la combinaison doit être remaniée, et décomposée, pour que le blanchiment devienne parfait et s'accomplisse en vue d'un jaunissement parfait et solide. Zosime disait encore plus expressément : « Ne craignez pas de multiplier les chauffes et les expulsions de l'eau* des corps, attendu que la chauffe mille fois répétée du cuivre le rend plus apte à la teinture. »
+
+On n'a pas traduit la fin de ce §, qui est un développement sans intérêt.
+
+*) C'est-à-dire l'expulsion du principe de la liquidité.
+
+14\. Il convient d'admirer le concours des qualités ; car les actions incorporelles effectuées par leur concours ont accompli cette merveilleuse Chrysopée, par la production d'une seule substance.
+
+La chaleur du feu, la liquidité de l'eau, le froid de l'air, toutes qualités concourant avec la solidité de la terre, ont forcé le corps (métallique) de la magnésie de passer à la mutation et à la transformation. Où sont donc ceux qui disent qu'il est impossible de changer la nature ? Car voici que la nature des solides change et acquiert la qualité dorée ; de même le molybdochalque s'est changé, en prenant la qualité dorée, et s'est rapproché du noir ; de même l'argent commun se change par notre opération en or.
+
+Les § 15, 16, 17 sont de pures subtilités, dont nous supprimons la traduction.
+
+18\. La présente composition part de l'unité, et se constitue en triade par l'expulsion du mercure ; l'unité de constitution résulte d'une triade à éléments sépares. C'est ainsi qu'une triade unique, partagée, constituée par des éléments séparés, constitue le monde, par la providence du premier auteur, cause et démiurge de la création. Par suite, il est appelé Trismégiste, ayant envisagé suivant la triade ce qui est fait et ce qui fait. Or ce qui est fait, c'est le molybdochalque (et la) pierre étésienne ; et ce qui fait, c'est le chaud, et le froid, et le fluide, d'abord triade première indivisible, et puis unité divisée.
+
 On juge inutile de donner la traduction du commencement du § 19.
-1....
-(Zosime) dit en parlant de ces matières : « Brulez le cuivre dans la com-
-position blanche », afin de vous détourner de toute autre cuisson; (il
-veut) convaincre ceux qui brulent au moyen du soufre, de l'arsenic, ou de
-la sandaraque, que l'on ne réussit pas avec ces matières. La pyrite chauffée
-avec elles ne devient pas blanche, mais noire, et ne peut plus ensuite être
-blanchie. Mais si on la chauffe avec la composition blanche, elle blanchit
-et est affinée par le lavage, ainsi qu'il a été écrit.
-20. A la fin (la matière) est blanchie et jaunie, comme le dit Ostanès : α En
-même temps que vous blanchissez, vous jaunissez. Et Zosime dit : α Veille2
-à ne pas négliger le moment favorable au blanchissement : car à ce moment
-deux choses se produisent à la fois, le blanchissement et le jaunissement ».
-Rien n'est blanchi d'abord et jauni plus tard ; mais on blanchit et on jaunit
-dans une opération continue, suivant l'unité de cette composition trisub-
-stantielle. Telle est la répartition triadique : Par le blanchiment, par la mo-
-nade conjonctive, les trois substances sont blanchies et jaunies ; (tandis que)
-par la triade distinctive, elles sont désunies et s'écoulent. Le livre de Démo-
-crite s'exprimait ainsi : Traite avec la saumure, ou le vinaigre de saumure,
-ou comme tu l'imagineras ». Il déclare d'abord que le cuivre ne teint pas,
-mais que le cuivre brulé par l'huile de natron, après avoir subi ce traite-
-ment à plusieurs reprises, devient plus beau que l'or. Le cuivre ne teint pas,
-tant qu'il conserve une essence unique ; mais il est teint par sa combinaison
-(avec d'autres corps). Comment donc sans cette combinaison et avant que
-le cuivre soit teint. pourrait-on réussir à teindre les objets soumis à l'action
 
+19\. ... ... (Zosime) dit en parlant de ces matières : « Brûlez le cuivre dans la composition blanche, » afin de vous détourner de toute autre cuisson ; (il veut) convaincre ceux qui brûlent au moyen du soufre, de l'arsenic, ou de la sandaraque, que l'on ne réussit pas avec ces matières. La pyrite chauffée avec elles ne devient pas blanche, mais noire, et ne peut plus ensuite être blanchie. Mais si on la chauffe avec la composition blanche, elle blanchit et est affinée par le lavage, ainsi qu'il a été écrit.
 
-### 0185
+20\. A la fin (la matière) est blanchie et jaunie, comme le dit Ostanès : « En même temps que vous blanchissez, vous jaunissez. Et Zosime dit : « Veillez à ne pas négliger le moment favorable au blanchissement : car à ce moment deux choses se produisent à la fois, le blanchissement et le jaunissement. » Rien n'est blanchi d'abord et jauni plus tard ; mais on blanchit et on jaunit dans une opération continue, suivant l'unité de cette composition trisubstantielle. Telle est la répartition triadique : Par le blanchiment, par la monade conjonctive, les trois substances sont blanchies et jaunies ; (tandis que) par la triade distinctive, elles sont désunies et s'écoulent. Le livre de Démocrite s'exprimait ainsi : « Traite avec la saumure, ou le vinaigre de saumure, ou comme tu l'imagineras. » Il déclare d'abord que le cuivre ne teint pas, mais que le cuivre brûlé par l'huile de natron, après avoir subi ce traitement à plusieurs reprises, devient plus beau que l'or. Le cuivre ne teint pas, tant qu'il conserve une essence unique ; mais il est teint par sa combinaison (avec d'autres corps). Comment donc sans cette combinaison et avant que le cuivre soit teint, pourrait-on réussir à teindre les objets soumis à l'action du feu ? Mais cela suffit pour montrer pourquoi la première opération ne réussit pas.
 
-SUR LA VERTU ET L'INTERPRETATION
-157
-du feu ? Mais cela suffit pour montrer pourquoi la premiere opération ne
-réussit pas.
-21. Quant à nous, nous remarquerons aussi que la cuisson par l'huile de
-natron a été mentionnée par le Philosophe, en opposition, comme réserve
-et pour se faire entendre. De même que celui qui regarde dans un miroir ne
-regarde pas les ombres, mais ce qu'elles font entendre, comprenant la réalité
-à travers les apparences fictives ; de même il s'est servi, pour se faire
-entendre, de l'expression « par l'huile de natron », afin de nous faire com-
-prendre la vérité. Voilà pourquoi au lieu des mots « vinaigre de natron » il
-emploie la dénomination α huile de natron ». Le métal est brlé par la com-
-position blanche, affiné, blanchi, lavé dans le vinaigre de natron. Dans
-celui-ci il est en même temps jauni, c'est-a-dire blanchi à l'extérieur et
-jauni à l'intérieur.
-22. Il fautmettre (le métal) au feu, seulement pour l'échauffer, et prendre
-garde qu'il ne se produise de la fumée ; cars'il se produit de la fumée, la cou-
-leur disparait (1). C'est dans ce sens que le libéral et excellent Démocrite...
-dit au sujet du cuivre : α Ne le chauffe pas trop fortement, mon ami, de peur
-de lui faire perdre sa beauté ; ne l'expose jamais à la flamme du feu: ce n'est
-pas avantageux, car il se volatilise. Expose-le au feu, comme a l'action d'un
-soleil ardent ; conserve-lui toute sa matière sublimable et rends-le pareil au
-jaune d'œuf. » Nous interprétons (cet auteur, en admettant) que par l'expres-
-sion : a ne le chauffe pas trop fortement et ne l'expose jamais à la flamme
-du feu » ; il rejetait de ce soufflage, toute calcination et toute action directe de
-la flamme. Dans cette vue il modère le feu et l'air, afin d'éviter la calcination
-qui sépare (les composants de l'alliage), et (il a recours) à un lut résistant
-au feu, bien feutré, pour enduire à l'extérieur les appareils, à deux ou trois
-reprises, afin d'éviter la calcination, tout en réalisant l'échauffement. Non
-seulement il se sert de ce lut, mais encore il prend soin d'enduire les inters-
-tices des compartiments des appareils.
-(1) Il s'agit : soit d'un métal ou d'un | renfermant un composant volatil au feu,
-alliage, teint en jaune d'or avec le con- | tel que le zinc. Les termes du texte sont
-cours d'un composant volatil, tel que asse2 vagues pour comporter ces deux
-le mercure. le soufre ou l'arsenic ; soit | σa-
-d'un alliage jaune, analogue au laiton,
-sens.
-18
+21\. Quant à nous, nous remarquerons aussi que la cuisson par l'huile de natron a été mentionnée par le Philosophe, en opposition, comme réserve et pour se faire entendre. De même que celui qui regarde dans un miroir ne regarde pas les ombres, mais ce qu'elles font entendre, comprenant la réalité à travers les apparences fictives ; de même il s'est servi, pour se faire entendre, de l'expression « par l'huile de natron, » afin de nous faire comprendre la vérité. Voilà pourquoi au lieu des mots « vinaigre de natron » il emploie la dénomination « huile de natron. » Le métal est brûlé par la composition blanche, affiné, blanchi, lavé dans le vinaigre de natron. Dans celui-ci il est en même temps jauni, c'est-à-dire blanchi à l'extérieur et jauni à l'intérieur.
 
+22\. Il faut mettre (le métal) au feu, seulement pour l'échauffer, et prendre garde qu'il ne se produise de la fumée ; car s'il se produit de la fumée, la couleur disparaît.* C'est dans ce sens que le libéral et excellent Démocrite ... dit au sujet du cuivre : « Ne le chauffe pas trop fortement, mon ami, de peur de lui faire perdre sa beauté ; ne l'expose jamais à la flamme du feu : ce n'est pas avantageux, car il se volatilise. Expose-le au feu, comme à l'action d'un soleil ardent ; conserve-lui toute sa matière sublimable et rends-le pareil au jaune d'œuf. » Nous interprétons (cet auteur, en admettant) que par l'expression : « ne le chauffe pas trop fortement et ne l'expose jamais à la flamme du feu ; » il rejetait de ce soufflage, toute calcination et toute action directe de la flamme. Dans cette vue il modère le feu et l'air, afin d'éviter la calcination qui sépare (les composants de l'alliage), et (il a recours) à un lut résistant au feu, bien feutré, pour enduire à l'extérieur les appareils, à deux ou trois reprises, afin d'éviter la calcination, tout en réalisant l'échauffement. Non seulement il se sert de ce lut, mais encore il prend soin d'enduire les interstices des compartiments des appareils.
 
-### 0186
+*) Il s'agit : soit d'un métal ou d'un alliage, teint en jaune d'or avec le concours d'un composant volatil, tel que le mercure, le soufre ou l'arsenic ; soit d'un alliage jaune, analogue au laiton, renfermant un composant volatil au feu, tel que le zinc. Les termes du texte sont assez vagues pour comporter ces deux sens.
 
-138
-ZOSIME
-De même que le Démiurge, après avoir séparé le firmament de 'élément
-liquide, place l'eau au-dessous du firmament ; de même l'opérateur prend soin
-des interstices, afin que dans les uppareils la composition ne soit pas calci-
-née et ne se dissipe pas. De même encore que (le Démiurge) a ordonné que
-le soleil, en accomplissant son cours, passe au-dessus de tous les êtres
-délicats, (sans) brler les corps vivants, les parties molles et les corps qui
-flottent à la surface ; de même l'opérateur a ordonné que l'air souffle du
-dehors et à travers, afin que ces corps refroidis par là soient préservés de
-la combustion. Et cette intelligence démiurgique, opérant entre la com-
-position supérieure et le feu mis au-dessous, dispose les choses de façon
-à tempérer l'action (du feu) sur les matières placées au-dessus. Deux
-fois huit centaines et trois fois trois dizaines et quatre, voilà combien
-de fois le feu doit être suspendu. C'est ainsi qu'il faut un grand tem-
-pérament, afin d'éviter que tout le produit ne soit brlé et toute la partie
-liquide perdue. Car il dit : α Tout le liquide, par la violence de l'action du
-feu, serait perdu ».
-23. Ainsi, toute la vapeur contenue dans la composition étant conservée
-et celle-ci devenue de la couleur du jaune d'euf, passons à la seconde
-et grande macération. C'est celle qui transforme la nature, qui révèle la
-nature recélée dans la profondeur intime. A ce passage se rapporte le dire
-de Stephanus : α le but de la philosophie, c'est la dissolution du corps,
-la séparation de l'âme et du corps ». Ici voyons Démocrite disant : « Rien
-ne manque, il n'y a plus rien à exposer, excepté la montée de la vapeur
-et de l'eau (1) ». Stephanus dit à son tour : α Il ne faut pas... (phrase
-inintelligible). Mais nous enlevons les eaux qui surnagent, afin de voir
-sa beauté, de contempler la belle forme de la beauté ineffable, la grâce du
-trone d'or. Que faut-il donc faire? Comment ferons-nous l'enlevement de.
-l'eau (2)? ν Mais si le feu est contraire au traitement des espèces, comment
-faut-il (faire) autrement? dit-il; si le métal ne peut être chauffé sans
-feu, que ferons-nous ? Opérerons-nous sans feu? Et que sera un com-
-et beaucoup plus développé. Le fait de
-(1) V. page 57. 8 29.
-(2) Ou la montée de l'eau. Le Texte | la citation de Stephanus montre qu'il
-de Stephanus, tel que nous le possédons | s'agit d'un commentateur bien plus
-Ideler, t. I, p. 207. est asse diffrenr l ηόοοe .. Tῖ---
-(Ideler, t. II, p. 207), est assez différent
+De même que le Démiurge, après avoir séparé le firmament de l'élément liquide, place l'eau au-dessous du firmament ; de même l'opérateur prend soin des interstices, afin que dans les appareils la composition ne soit pas calcinée et ne se dissipe pas. De même encore que (le Démiurge) a ordonné que le soleil, en accomplissant son cours, passe au-dessus de tous les êtres délicats, (sans) brûler les corps vivants, les parties molles et les corps qui flottent à la surface ; de même l'opérateur a ordonné que l'air souffle du dehors et à travers, afin que ces corps refroidis par là soient préservés de la combustion. Et cette intelligence démiurgique, opérant entre la composition supérieure et le feu mis au-dessous, dispose les choses de façon à tempérer l'action (du feu) sur les matières placées au-dessus. Deux fois huit centaines et trois fois trois dizaines et quatre, voilà combien de fois le feu doit être suspendu. C'est ainsi qu'il faut un grand tempérament, afin d'éviter que tout le produit ne soit brûlé et toute la partie liquide perdue. Car il dit : « Tout le liquide, par la violence de l'action du feu, serait perdu. »
 
+23\. Ainsi, toute la vapeur contenue dans la composition étant conservée et celle-ci devenue de la couleur du jaune d'œuf, passons à la seconde et grande macération. C'est celle qui transforme la nature, qui révèle la nature recélée dans la profondeur intime. A ce passage se rapporte le dire de Stephanus : « le but de la philosophie, c'est la dissolution du corps, la séparation de l'âme et du corps. » Ici voyons Démocrite disant : « Rien ne manque, il n'y a plus rien à exposer, excepté la montée de la vapeur et de l'eau*. » Stephanus dit à son tour : « Il ne faut pas ... (phrase inintelligible). Mais nous enlevons les eaux qui surnagent, afin de voir sa beauté, de contempler la belle forme de la beauté ineffable, la grâce du trône d'or. Que faut-il donc faire ? Comment ferons-nous l'enlèvement de l'eau* ? » Mais si le feu est contraire au traitement des espèces, comment faut-il (faire) autrement ? dit-il ; si le métal ne peut être chauffé sans feu, que ferons-nous ? Opérerons-nous sans feu ? Et que sera un commencement n'ayant pas de fin, dans cette opération pratique que nous décrivons ? Que voulait donc dire notre philosophe, le maître le plus complet en toutes choses, ce professeur plein de sens ? Il n'a rien omis de ce qui tend à la pratique, sans le comprendre parmi les choses qui complètent son exposition. Voilà pourquoi il dit ici : « Prenant du plomb, je ne dis pas du plomb ordinaire, mais notre plomb, étends-le sur une largeur double. Après l'avoir disposé pour l'œuvre au moyen d'un outil, opère la montée de l'eau*. » Fais bien attention, dit-il : si tu es embarrassé, va en Égypte, et prenant un tissu épais, lave, presse ta vendange*. » Zosime s'explique aussi en disant : « Prenant du sel, extrais le soufre blanc, en mouillant avec un jus acide. » Stephanus dit : « Lorsque tu feras la composition avec la matière, il y aura une dépense excessive. »
 
-### 0187
+*) V. page 57, § 29.
 
-SUR LA VERTU ET L'INTERPRÉTATION
-159
-mencement n'ayant pas de fin, dans cette opération pratique que nous
-décrivons ? Que voulait donc dire notre philosophe, le maitre le plus
-complet en toutes choses, ce professeur plein de sens ? I n'a rien omis
-de ce qui tend à la pratique, sans le comprendre parmi les choses qui
-complètent son exposition. Voilà pourquoi il dit ici : « Prenant du
-plomb, je ne dis pas du plomb ordinaire, mais notre plomb, étends-le sur
-une largeur double. Après l'avoir disposé pour l'œuvre au moyen d'un
-outil, opère la montée de l'eau (1) ». « Fais bien attention, dit-il : si tu
-es embarrassé, va en Egypte, et prenant un tissu épais, lave, presse ta
-vendange » (2). Zosime s'explique aussl en disant : « Prenant du sel,
-extrais le soufre blanc, en mouillant avec un jus acide. » Stephanus dit :
-α Lorsque tu feras la composition avec la matière, il y aura une dépense
-excessive ».
-24. Notre libéral et parfait Stephanus, le révélateur des mystères, (dit) :
-α Mets sur la nature morte (3) la vapeur sublimée, place (le mélange) dans
-un sac de lin très épais et exprime toute l'eau ; le superflu sera ainsi
-extrait plus vite. Mets du sel de Cappadoce en quantité égale, mouille
-avec une liqueur acide, jusqu'à ce que le produit ait pris une consistance
-pâteuse ; puis fais sécher, en broyant avec du vinaigre de natron. Celui
-qui opère ainsi est un homme parfait ; il suit la marche prescrite dans
-les ouvrages, la marche indirecte et détournée ». Pour celui qui préfere
-adopter une voie plus agréable et dépourvue de complications, il dit :
-α Prends du natron 2 parties ; de l'alun rond, 1 partie; du misy, 2 par-
-ties ; du sel de Cappadoce, 4 parties ; mets dans du vinaigre très fort et
-fais une liqueur. A l'aide de ces (ingrédients) tu oteras aux feuilles (métal-
-liques) leur éclat. Une telle liqueur suffit pour le commencement et la fin
-de l'expérience ».
-(1) Ceci se rapporte à l'emploi de la | au fond des alambics : On lit dans la
-érotais, ou le métal est soumis à l'ac- | Turba : α Illum igitur fumum suæ fæci
-tion des vapeurs (ntrod., p. 143 et 144). | misceto, donec coaguleturν (Bibl. cnem.
-(2) Voir la vendanged' ermès, p. 129. | de Manget, t. I, p. 449).
-(3) Caput mortuum, résidu demeuré l
+*) Ou la montée de l'eau. Le Texte de Stephanus, tel que nous le possédons (_Ideler_, t. 2, p. 207), est assez différent et beaucoup plus développé. Le fait de la citation de Stephanus montre qu'il s'agit d'un commentateur bien plus récent que Zosime.
 
+*) Ceci se rapporte à l'emploi de la kérotakis, où le métal est soumis à l'action des vapeurs (_Introd._, p. 143 et 144).
 
-### 0188
+*) Voir la vendange d'Hermès, p. 129.
 
-140
-ZOSIME
-IIΙ. vII. --- SR LΕVAΡΟAΤΙΟΝ DΕ L'ΕAU DIVΙN
-UI FΙXE LE RCURR) ()
-1. Me trouvant une fois dans vos demeures, ô femme (2), afin de t'en-
-tendre, j'admirais toute l'opération de ce qui est appelé chez toi le
-α structeur ». Je tombai dans une grande stupéfaction, à la vue de ces
-effets, et je me mis à vénérer comme divin le poxamos (3) ; je pensais, (en
-considérant) l'intelligence de chaque artisan (de l'œuvre) ; comment,
-trouvant secours dans leurs devanciers, ils perfectionnaient leurs propres
-recherches.
-Ce qui me surprenait, c'était la cuisson de l'oiseau (4) soumis à la filtra-
-tion ; c'était de voir comment il la subit, par le moyen de la vapeur subli-
-mée, de la chaleur et d'un liquide approprié, alors qu'il participe à la
-teinture. Surpris, mon esprit revient à notre objet d'étude ; il examine si
-c'est par suite de l'émission de la vapeur de l'eau divine que notre compo-
-sition peut être cuite et teinte. Or je cherchais si quelqu'un des anciens fait
-mention de cet instrument, et (rien) ne se présentait à mon esprit. Décourage,
-je compulsai les livres et je trouvai dans ceux des uifs, à coté de l'instru-
-ment traditionnel nommé tribicos, la description de ton propre instrument.
-Voici comment la chose est présentée.
-Prenant de l'arsenic (sulfuré), blanchis-le de la manière suivante. Fais une
-pâte grasse, de la largeur d'un petit miroir tres mince ; perce-la de petits
-trous, en manière de crible, et place par dessus, en l'ajustant bien, un petit
-récipient, renfermant une partie de soufre ; mets dans le crible de l'arsenic,
-cnimiques, p. 583 : Oiseau d'ermès,
-(1) Addition de AB.
-(2) Théosébie. --- Origines de l'l- | l'esprit du feu de nature, enclos dans
-|l'humide du mercure hermétique...,
-cnimie, p. 9, Θ4.
-(3) Ce sont là sans doute des noms | ou la chaleur naturelle unie à l'humide
-d'instruments. --- AB disent : paxamos, | radical.
-le fixateur (?). --- A moins qu'il ne | Le mot oiseau a donc un sens emblé-
-s'agisse de Paxamos, auteur culinaire | matique. Il s'explique par le texte qui
-cité par Athénée (Deipn. l. I,p.376 1.) | suit et par les fig. 25, 26, 27 (Introd.,
-(4) On lit dans la Bibl. des pnilos. | p. 149 et 150).
+24\. Notre libéral et parfait Stephanus, le révélateur des mystères, (dit) : « Mets sur la nature morte* la vapeur sublimée, place (le mélange) dans un sac de lin très épais et exprime toute l'eau ; le superflu sera ainsi extrait plus vite. Mets du sel de Cappadoce en quantité égale, mouille avec une liqueur acide, jusqu'à ce que le produit ait pris une consistance pâteuse ; puis fais sécher, en broyant avec du vinaigre de natron. Celui qui opère ainsi est un homme parfait ; il suit la marche prescrite dans les ouvrages, la marche indirecte et détournée. » Pour celui qui préfère adopter une voie plus agréable et dépourvue de complications, il dit : « Prends du natron 2 parties ; de l'alun rond, 1 partie ; du misy, 2 parties ; du sel de Cappadoce, 4 parties ; mets dans du vinaigre très fort et fais une liqueur. A l'aide de ces (ingrédients) tu ôteras aux feuilles (métalliques) leur éclat. Une telle liqueur suffit pour le commencement et la fin de l'expérience. »
 
+*) _Caputa mortuum_, résidu demeuré au fond des alambics ; On lit dans la _Turba_ : « Illum igitur fumum suæ fæci misceto, donec coaguletur. » (_Bibl. chem._ de Manget, t. 1, p. 449).
 
-### 0189
+---
 
-SUR L'VAPORATION DE L'EAU DIVINE
-141
-la quantité que tu voudras. Apres avoir recouvert avec un autre récipient, et
-avoir luté les points de jonction, au bout de 2 jours et 2 nuits, tu trouveras
-de la céruse (1). Prends-en un quart de mine et souffle pendant tout un
-jour, en y ajoutant un peu de bitume, etc. Telle est la construction de
-l'appareil.
+#### 3\. --- 7. Sur l'Évaporation de l'Eau Divine (qui fixe le Mercure).*
+
+*) Addition de AB.
+
+1\. Me trouvant une fois dans vos demeures, ô femme,* afin de t'entendre, j'admirais toute l'opération de ce qui est appelé chez toi le « _structeur_. » Je tombai dans une grande stupéfaction, à la vue de ces effets, et je me mis à vénérer comme divin le _poxamos_* ; je pensais, (en considérant) l'intelligence de chaque artisan (de l'œuvre) ; comment, trouvant secours dans leurs devanciers, ils perfectionnaient leurs propres recherches.
+
+*) Théosébie. --- _Origines de l'Alchimie_, p. 9, 64.
+
+*) Ce sont là sans doute des noms d'instruments. --- AB disent : _paxamos_, le fixateur ( ? ). --- A moins qu'il ne s'agisse de Paxamos, auteur culinaire cité par Athénée (_Deipn._ l. 9, p. 376 D.)
+
+Ce qui me surprenait, c'était la cuisson de l'oiseau* soumis à la filtration ; c'était de voir comment il la subit, par le moyen de la vapeur sublimée, de la chaleur et d'un liquide approprié, alors qu'il participe à la teinture. Surpris, mon esprit revient à notre objet d'étude ; il examine si c'est par suite de l'émission de la vapeur de l'eau divine que notre composition peut être cuite et teinte. Or je cherchais si quelqu'un des anciens fait mention de cet instrument, et (rien) ne se présentait à mon esprit. Découragé, je compulsai les livres et je trouvai dans ceux des Juifs, à côté de l'instrument traditionnel nommé _tribicos_, la description de ton propre instrument. Voici comment la chose est présentée.
+
+*) On lit dans la _Bibl. des philos. chimiques_, p. 583 : Oiseau d'Hermès, l'esprit du feu de nature, enclos dans l'humide du mercure hermétique ... ou la chaleur naturelle unie à l'humide radical.  
+Le mot oiseau a donc un sens emblématique. Il s'explique par le texte qui suit et par les fig. 25, 26, 27 (_Introd._, p. 149 et 150).
+
+Prenant de l'arsenic (sulfuré), blanchis-le de la manière suivante. Fais une pâte grasse, de la largeur d'un petit miroir très mince ; perce-la de petits trous, en manière de crible, et place par dessus, en l'ajustant bien, un petit récipient, renfermant une partie de soufre ; mets dans le crible de l'arsenic, la quantité que tu voudras. Après avoir recouvert avec un autre récipient, et avoir luté les points de jonction, au bout de 2 jours et 2 nuits, tu trouveras de la céruse.* Prends-en un quart de mine et souffle pendant tout un jour, en y ajoutant un peu de bitume, etc. Telle est la construction de l'appareil.
+
+*) Ce mot semble signifier ici l'acide arsénieux.
+
 2. Quant à moi je reviendrai à notre objet, en montrant, d'après l'écrit
 lui-même, qu'il n'y a pas blanchiment, puisqu'il conseille de faire durer
 la cuisson 2 jours et 2 nuits ; tandis qu'une heure suffit pour évaporer
