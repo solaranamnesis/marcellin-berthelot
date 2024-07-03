@@ -38,21 +38,21 @@
 
 #### [3. --- 1. Le Divin Zosime sur la Vertu. --- Leçon 1.](#3-----1-le-divin-zosime-sur-la-vertu-----leçon-1-1)
 
-#### [3. --- 2. La Chaux.]()
+#### [3. --- 2. La Chaux.](#3-----2-la-chaux-1)
 
-#### [3. --- 3. Agathodémon.]()
+#### [3. --- 3. Agathodémon.](#3-----3-agathodémon-1)
 
-#### [3. --- 4. Hermès.]()
+#### [3. --- 4. Hermès.](#3-----4-hermès-1)
 
-#### [3. --- 5. Zosime. --- Leçon 2.]()
+#### [3. --- 5. Zosime. --- Leçon 2.](#3-----5-zosime-----leçon-2-1)
 
-#### [3. --- 5 bis. Ouvrage du même Zosime. --- Leçon 3.]()
+#### [3. --- 5 bis. Ouvrage du même Zosime. --- Leçon 3.](#3-----5-bis-ouvrage-du-même-zosime-----leçon-3-1)
 
-#### [3. --- 6. Le Divin Zosime sur la Vertu et l'Interprétation.]()
+#### [3. --- 6. Le Divin Zosime sur la Vertu et l'Interprétation.](#3-----6-le-divin-zosime-sur-la-vertu-et-linterprétation-1)
 
-#### [3. --- 7. Sur l'Évaporation de l'Eau Divine (qui fixe le Mercure).]()
+#### [3. --- 7. Sur l'Évaporation de l'Eau Divine (qui fixe le Mercure).](#3-----7-sur-lévaporation-de-leau-divine-qui-fixe-le-mercure-1)
 
-#### [3. --- 8. Sur la même Eau Divine.]()
+#### [3. --- 8. Sur la même Eau Divine.](#3-----8-sur-la-même-eau-divine-1)
 
 ---
 
