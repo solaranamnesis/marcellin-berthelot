@@ -38,6 +38,22 @@
 
 #### [3. --- 1. Le Divin Zosime sur la Vertu. --- Leçon 1.](#3-----1-le-divin-zosime-sur-la-vertu-----leçon-1-1)
 
+#### [3. --- 2. La Chaux.]()
+
+#### [3. --- 3. Agathodémon.]()
+
+#### [3. --- 4. Hermès.]()
+
+#### [3. --- 5. Zosime. --- Leçon 2.]()
+
+#### [3. --- 5 bis. Ouvrage du même Zosime. --- Leçon 3.]()
+
+#### [3. --- 6. Le Divin Zosime sur la Vertu et l'Interprétation.]()
+
+#### [3. --- 7. Sur l'Évaporation de l'Eau Divine (qui fixe le Mercure).]()
+
+#### [3. --- 8. Sur la même Eau Divine.]()
+
 ---
 
 # Texte Grec.
