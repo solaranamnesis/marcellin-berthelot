@@ -5973,95 +5973,40 @@ Prenant de l'arsenic (sulfuré), blanchis-le de la manière suivante. Fais une p
 
 *) Ce mot semble signifier ici l'acide arsénieux.
 
-2. Quant à moi je reviendrai à notre objet, en montrant, d'après l'écrit
-lui-même, qu'il n'y a pas blanchiment, puisqu'il conseille de faire durer
-la cuisson 2 jours et 2 nuits ; tandis qu'une heure suffit pour évaporer
-une grande quantité de soufre. Mais par là, il fournit un motif à tes
-réflexions. En effet Agathodémon a rappelé que l'arsenic est toute la
-composition ; c'est celle sur laquelle j'ai fortement discouru dans le 6e cha-
-pitre, sur la cuisson, dans mon livre sur l'Action (2); beaucoup d'autres
-anciens l'ont rappelée explicitement et avec intention. Mais le début de
-'écrit, qu'enseigne-t-il sur le sujet présent? Il dit : « Le blanchiment par l'ar-
-senic s'étend jusqu'à l'arsenic non blanchi ». C'est dans le même sens que
-Démocrite dit : α si la flamme est trop forte, le jaune se produit ; mais (cela)
-ne te servira pas maintenant, car tu veux blanchir les corps (métal-
-liques) » (3).
-3. Or comment y a-t-il un homme asse simple pour ne pas entendre par
-la toutes les espèces de l'arsenic (sulfuré)? Et même l'arsenic lamelleux,
-comme l'expose l'écrit précité ?
-Si les matières (4) sont blanchies de cette façon, et non pas seulement à la
-surface, le métal sera entièrement blanc et il ne perdra pas sa couleur au feu;
-il sera blanc dans l'intérieur ainsi qu'à la surface. Or comment n'est-on pas
-capable d'entendre l'arsenic blanchi, là ou l'écrit a prescrit de le projeter et de
-(1) Ce mot semble signifier ici l'acide | se faire aussi avec l'arsenic sulfuré lui-
-même ; mais alors il est plus lent et
-arsénieux.
-(2) Ce passage montre que le livre sur | plus diicile. C'est ce blanchiment par
-lAction était un ouvrage étendu, dont | l'arsenic qui est appelé la fixation du
-nous ne possédons que des extraits.
-mercure, notre arsenic métallique étant
-(3) D'après ces deux paragraphes, | assimilé au mercure, ainsi qu'il a été
-on doit changer le sulfure d'arsenic en | dit à plusieurs reprises (Introd., p. 99
-acidearsénieux par uneoxydation lente : | et 23).
-puis on emploie cet acide arsénieux à | (4) Le cuivre?
-blanchir le cuivre. Le blanchiment neut l
+2\. Quant à moi je reviendrai à notre objet, en montrant, d'après l'écrit lui-même, qu'il n'y a pas blanchiment, puisqu'il conseille de faire durer la cuisson 2 jours et 2 nuits ; tandis qu'une heure suffit pour évaporer une grande quantité de soufre. Mais par là, il fournit un motif à tes réflexions. En effet Agathodémon a rappelé que l'arsenic est toute la composition ; c'est celle sur laquelle j'ai fortement discouru dans le 6e chapitre, sur la cuisson, dans mon livre sur l'Action* ; beaucoup d'autres anciens l'ont rappelée explicitement et avec intention. Mais le début de l'écrit, qu'enseigne-t-il sur le sujet présent ? Il dit : « Le blanchiment par l'arsenic s'étend jusqu'à l'arsenic non blanchi. » C'est dans le même sens que Démocrite dit : « si la flamme est trop forte, le jaune se produit ; mais (cela) ne te servira pas maintenant, car tu veux blanchir les corps (métalliques)*. »
 
+*) Ce passage montre que le livre sur l'Action était un ouvrage étendu, dont nous ne possédons que des extraits.
 
-### 0190
+*) D'après ces deux paragraphes, on doit changer le sulfure d'arsenic en acide arsénieux par une oxydation lente : puis on emploie cet acide arsénieux à blanchir le cuivre. Le blanchiment peut se faire aussi avec l'arsenic sulfuré lui-même ; mais alors il est plus lent et plus difficile. C'est ce blanchiment par l'arsenic qui est appelé la fixation du mercure, notre arsenic métallique étant assimilé au mercure, ainsi qu'il a été dit à plusieurs reprises (_Introd._, p. 99 et 239).
 
-ZOSIME
-142
-le soumettre à l'insufflation ; cet arsenic ne contenant aucune (partie) de
-soufre (1), mais s'évaporant en nature (2) sous l'action du feu? Mais si la com-
-position renferme du soufre, il recommande non seulement de souffler, mais
-encore d'ajouter du bitume, afin que par là le Tout soit désulfuré et
-devienne pur et brillant.
-4. Voilà toutes les choses qu'il m'est permis de dire la-dessus, et vous en
-êtes témoins. Mais si vous y trouvez bien des ressources, vous êtes aussi
-des maitres pour le reste. Ie vous conseille conformément à ce que j'ai
-appris jusqu'ici, ayant accepté de vous, moi aussi, les fruits de l'œuvre
-finale. L'écrit dit qu'on opère également sur les monnaies (3). Or ce pro-
-cédé s'exécute dans l'Ecrevisse (4).
-5. Pour la composition (5), le vase de terre cuite a une ouverture, desti-
-née à découvrir la coupe placée sur la kérotais, afin que l'on puisse voir si
-la matière blanchit ou jaunit. Or l'ouverture du vase de terre cuite est fer-
-mée au moyen d'une autre coupe (6), afin que le produit ne s'évapore pas ;
-et que l'alliage de lEcrevisse (7) ne s'échappe pas par la. L'opération a lieu
-en un seul jour. Si la décoction est conduite autrement, ainsi que la cuisson,
-il faudra deux fourneaux : le premier, pour les fioles apparentes ; le second,
-pour les kérotakis, les vases à fixation, ou les bocaux. Si l'on veut y faire
-digérer l'alliage de l'Ecrevisse, ou les matières analogues, on le placera sur
-la kérotakis, en l'y étendant, et en évitant qu'il ne coule. Le vieux Zosime
-disait : α e connais une classe unique qui renferme deux opérations : l'une
-pour que la fluidité soit produite par l'extraction ; la seconde pour que l'hu-
-(1) On admet ici et dans les lignes | dire les alliages sur lesquels s'opérait la
-suivantes que le signe du soufre a été | transmutation.
-(5) Le ms. M s'arrête là, ainsi que
-traduit par erreur par le mot plomb ; |
-le signe étant le mème, comme il a été | B. La suite est donnée d'après A : c'est
-|une addition de commentateur prati-
-dit plusieurs fois.
-cien, comme le montre la citation finale
-(2) Acide arsénieux.
-(3) Falsification. --- Introd., p. 33 | de Zosime.
-(6) V. Introd., p. 149, 150, 151, fig. 25,
-et 57.
-(4) Voir l'appareil appelé Ecrevisse | 26, 27.
-(7) C'est-à-dire afin que l'alliage
-(Introd., p. 145 et fig. 28, p. 154). |
-D'après la formule de la fig. 28, p. | destiné à la transmutation (molybdo-
-152 à 154, on y travaillait le molyb- | chalque) ne perde pas sa portion vola-
-dochalque et l'argyrochalque, c'est-a- tile (mercure ? ou arsenic ? ou zinc ?).
+3\. Or comment y a-t-il un homme assez simple pour ne pas entendre par là toutes les espèces de l'arsenic (sulfuré) ? Et même l'arsenic lamelleux, comme l'expose l'écrit précité ?
 
+Si les matières* sont blanchies de cette façon, et non pas seulement à la surface, le métal sera entièrement blanc et il ne perdra pas sa couleur au feu ; il sera blanc dans l'intérieur ainsi qu'à la surface. Or comment n'est-on pas capable d'entendre l'arsenic blanchi, là où l'écrit a prescrit de le projeter et de le soumettre à l'insufflation ; cet arsenic ne contenant aucune (partie) de soufre,* mais s'évaporant en nature* sous l'action du feu ? Mais si la composition renferme du soufre, il recommande non seulement de souffler, mais encore d'ajouter du bitume, afin que par là le Tout soit désulfuré et devienne pur et brillant.
 
-### 0191
+*) Le cuivre ?
 
-143
-SUR L'EAU DIVINE
-midité du plomb soit desséchée jusqu'à épuisement. Car elle se fixera et se
-desséchera v.
-desséchera v.
-III. VIII. --- SUR LA ΜΕΜΕ EA IVΝΕ
+*) On admet ici et dans les lignes suivantes que le signe du soufre a été traduit par erreur par le mot plomb ; le signe étant le même, comme il a été dit plusieurs fois.
+
+*) Acide arsénieux.
+
+4\. Voilà toutes les choses qu'il m'est permis de dire là-dessus, et vous en êtes témoins. Mais si vous y trouvez bien des ressources, vous êtes aussi des maîtres pour le reste. Je vous conseille conformément à ce que j'ai appris jusqu'ici, ayant accepté de vous, moi aussi, les fruits de l'œuvre finale. L'écrit dit qu'on opère également sur les monnaies.* Or ce procédé s'exécute dans l'Écrevisse.*
+
+*) Falsification. --- _Introd._, p. 33 et 57.
+
+*) Voir l'appareil appelé Écrevisse (_Introd._, p. 145 et fig. 28, p. 154). D'après la formule de la fig. 28, p. 152 à 154, on y travaillait le molybdochalque et l'argyrochalque, c'est-à-dire les alliages sur lesquels s'opérait la transmutation.
+
+5\. Pour la composition,* le vase de terre cuite a une ouverture, destinée à découvrir la coupe placée sur la kérotakis, afin que l'on puisse voir si la matière blanchit ou jaunit. Or l'ouverture du vase de terre cuite est fermée au moyen d'une autre coupe,* afin que le produit ne s'évapore pas ; et que l'alliage de l'Écrevisse* ne s'échappe pas par là. L'opération a lieu en un seul jour. Si la décoction est conduite autrement, ainsi que la cuisson, il faudra deux fourneaux : le premier, pour les fioles apparentes ; le second, pour les kérotakis, les vases à fixation, ou les bocaux. Si l'on veut y faire digérer l'alliage de l'Écrevisse, ou les matières analogues, on le placera sur la kérotakis, en l'y étendant, et en évitant qu'il ne coule. Le vieux Zosime disait : « Je connais une classe unique qui renferme deux opérations : l'une pour que la fluidité soit produite par l'extraction ; la seconde pour que l'humidité du plomb soit desséchée jusqu'à épuisement. Car elle se fixera et se desséchera. »
+
+*) Le ms. M s'arrête là, ainsi que B. La suite est donnée d'après A : c'est une addition de commentateur praticien, comme le montre la citation finale de Zosime.
+
+*) V. _Introd._, p. 149, 150, 151, fig. 25, 26, 27.
+
+*) C'est-à-dire afin que l'alliage destiné à la transmutation (molybdochalque) ne perde pas sa portion volatile (mercure ? ou arsenic ? ou zinc ? ).
+
+---
+
+#### 3\. --- 8. Sur la même Eau Divine.
+
 1. Prenant des œufs, la quantité que tu voudras, fais-les bouillir, et après
 les avoir cassés. ôtes-en tout le blanc (1) ; mais n'emploie pas la coquille (2).
 Prenant un vase de verre mâle et femelle (3), celui qui est appelé alambic,
