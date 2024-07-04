@@ -23,7 +23,7 @@ French - PDF | Biolinum | Atkinson | Cursive | CustomDesign1 | CustomDesign2 | C
 English - Plain Text  
 English - PDF  
 
-# Collection des Anciens Alchimistes Grecs. Troisième Livraison.
+## Collection des Anciens Alchimistes Grecs. Troisième Livraison.
 
 [French - Plain Text](collection-anciens-alchimistes-grecs/full-text-french-03.md)  
 French - PDF | Biolinum | Atkinson | Cursive | CustomDesign1 | CustomDesign2 | CustomPurplePaper | CustomPurplePaperZincWhite  
