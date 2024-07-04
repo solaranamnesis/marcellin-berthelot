@@ -6023,534 +6023,216 @@ Si les matières* sont blanchies de cette façon, et non pas seulement à la sur
 
 #### 3\. --- 8. Sur la même Eau Divine.
 
-1. Prenant des œufs, la quantité que tu voudras, fais-les bouillir, et après
-les avoir cassés. ôtes-en tout le blanc (1) ; mais n'emploie pas la coquille (2).
-Prenant un vase de verre mâle et femelle (3), celui qui est appelé alambic,
-jettes-y les jaunes des œufs (4), en usant de la pesée ci-après: une once de
-jaune ; coquille des œufs calcinée, deux carats, ni plus ni moins, mais juste
-comme il a été écrit. Ensuite, délaie ; puis, prenant d'autres œufs, casse-les
-et jette (les) dans l'alambic avec les jaunes délayés, de façon que les œufs entiers
-soient recouverts par les jaunes.
-Lute l'alambic et son chapiteau a récipient (5), avec beaucoup de soin ;
-en te servant de suif, ou de platre, ou bien de cire d'abeille, ou de cendre
-mélangée d'huile, ou de ce que tu voudras. Fais digérer dans du crottin de
-cheval ou d'âne, ou sur un feu de sciure de bois, ou dans un four de pâtissier.
-Emploie n'importe quel genre de caléfaction convenable, au degré que peut
-supporter la main humaine.
-Que le lieu ou les appareils sont installés soit à l'abri du vent, qu'il reçoive
-la lumiere de l'est ou du sud, mais non celle du couchant, ou du nord, ou du
-nord-ouest, ou du nord-est, à cause du refroidissement (6). Fais digérer pen-
-dant 14ou 21 jours, jusqu'à ce que cesse la montée des vapeurs ; et maintiens
-lutés avec soin les joints de l'appareil, afin de conserver l'odeur ; car si elle
-s'échappe, tout le travail est perdu. En effet, cette odeur est tout à fait désa-
-gréable, et c'est dans cette odeur que réside le travail (7).
-(1) Réd. de A :... « tout le blanc, au | (4) « Les blancs et les jaunes » d'a-
-moyen de vases de terre cuite, et le | près A.
-(5) Le sens du mot rogion, employé
-jaune ».
-(2) Ce langage est probablement sym- | dans ce passage, autrement dit rogé,
-bolique, conformément aux pages 19 et | (p. 59), est défini par cette description.
-| (6) Voir p. 3ο, 5 2.
-21.
-(3) Formé de deux parties s'emboi- |
-(7) On voit par la qu'il s'agit de la dis
-tant, dont l'une est regardée comme | tillation d'un produit sulfuré. V. Introd.,
-n. 69.
-mle, l'autre crmma f1
-mâle, l'autre comme femelle.
+1\. Prenant des œufs, la quantité que tu voudras, fais-les bouillir, et après les avoir cassés, ôtes-en tout le blanc* ; mais n'emploie pas la coquille.* Prenant un vase de verre mâle et femelle,* celui qui est appelé alambic, jettes-y les jaunes des œufs,* en usant de la pesée ci-après : une once de jaune ; coquille des œufs calcinée, deux carats, ni plus ni moins, mais juste comme il a été écrit. Ensuite, délaie ; puis, prenant d'autres œufs, casse-les et jette (les) dans l'alambic avec les jaunes délayés, de façon que les œufs entiers soient recouverts par les jaunes.
 
+*) Réd. de A : « ... tout le blanc, au moye de vases de terre cuite, et le jaune. »
 
-### 0192
+*) Ce langage est probablement symbolique, conformément aux pages 19 et 21.
 
-ZOSIME
-I44
-. 2. La première eau qui passe (a la distillation) est blanche.
-La seconde coule goutte à goutte ; elle est d'une odeur désagréable, toute
-pareille (au lait de chaux) (1). Ensuite, quand la montée de l'eau a cessé, tu
-enleves le récipient dans lequel l'eau a coulé, tu (le) fermes, et tu le gardes
-avec soin. Découvrant l'alambic, tu te boucheras le nez à cause de l'odeur ;
-et tu trouveras dans le vase femelle les scories (caput mortuum).
-Ne refuse pas au mort de parvenir à la résurrection ; mais attends la résur-
-rection du (mort) dont on a désespéré (2). Ensuite mélange avec la cendre
-d'autres jaunes d'œufs, comme dans l'art de la savonnerie ; délaie ensemble
-les matières humides et les matières sèches, et jette (le tout) dans un alam-
-bic. Opère comme il a été prescrit antérieurement, en changeant le récipient
-de l'eau, c'est-à-dire le rogion.
-Fais cela jusqu'à trois fois et tu auras d'abord la première eau blanche,
-comme il a été dit précédemment, cette (eau) que les anciens ont nommée
-cau de pluie ; puis, la seconde eau, jaune-verdâtre, qu'ils ont nommée huile
-de raifort ; puis la troisième eau, d'un noir verdâtre (3).
-Tu auras aussi les scories qui sont dans le têt. Lorsque tu ouvriras l'ap-
-pareil, tu trouveras la première fois la scorie tournant au noir, --- la seconde
-fois, blanche ; --- la troisieme fois, jaune (4).
-Après la premiere, la seconde et la troisième extractions d'eau et ouver-
-tures de l'appareil, tu réunis les eaux des trois extractions, c'est-à-dire les
-eaux divines qui sy trouvent, avec le résidu contenu dans le vase femelle.
-Après cela, prenant un alambic de verre, fais-y entrer les matieres, bouche
-l'alambic avec une poterie cuite, capable de s'ajuster aux bords de l'alambic.
-Lute avec tout le soin possible, à l'aide d'un lut qui résiste au feu. Aban-
-(3) Addition de A : α Qu'ils ont nom-
-(1) C'est-a-dire qu'elle est blanchie
-à la façon du lait de chaux (?), par le | mée aussi huile de ricin ».
-soufre précipité, provenant de la décom- |
-(4) Comparer ce texte du Traité at-
-position des polysulfures ou de l'hydro- | tribué à Avicenne, Bibl. Chem. de Man-
-gène sulfuré qui s'est volatilisé. On dit | get, t. I, p. 633 : α Et primo distilla et
-encore aujourd'hui : lait de soufre pour | quod primo exit serva seorsim, quia ista
-|est aqua. Reitera aquam per distilla-
-une liqueur analogue.
-(2) Ceci signifie que le sulfure, formé | tionem et quod distillabitur serva et
-au fond de l'alambic (scorie ou caput | ista est simplex ; pone sub fimo et ser-
-mortuum), se désagrège et blanchit à | va et quod remanebit in fundo cucurbi-
-te, serva seorsim, quia est terra ».
-l'air.
+*) Formé de deux parties s'emboîtant, dont l'une est regardée comme mâle, l'autre comme femelle.
 
+*) « Les blancs et les jaunes » d'après A.
 
-### 0193
+Lute l'alambic et son chapiteau au récipient,* avec beaucoup de soin ; en te servant de suif, ou de plâtre, ou bien de cire d'abeille, ou de cendre mélangée d'huile, ou de ce que tu voudras. Fais digérer dans du crottin de cheval ou d'âne, ou sur un feu de sciure de bois, ou dans un four de pâtissier. Emploie n'importe quel genre de caléfaction convenable, au degré que peut supporter la main humaine.
 
-SUR L'EAU DIVINE
-145
-donne sur le fumier du fourneau, pendant quarante et un jours, jusqu'à ce
-que la décomposition ayant eu lieu, la matière teinte devienne semblable à
-la matidre tinctoriale, et que la nature domine la nature. En effet, de cette
-façon, les matières sulfureuses sont dominées par les matières sulfureuses (1)
-et les matières humides par les matières humides correspondantes.
-3. Ne prends pas souci du poids, ni de la fraicheur des œufs, ou de leurs
-jaunes ; seulement, broie ensemble les matières liquides et les matières
-sèches, comme il a été dit précédemment, et mets-les dans l'alambic. Après
-le quarante et unième jour, découvre l'alambic et tu y trouveras une compo-
-sition entièrement vert clair, c'est-a-dire tournée en ios. Celui qui fait l'ios,
-sait quelle opération il accomplit; mais celui qui n'en fait pas ne produit
-rien.
-Or, après le quarante et unième jour, ote l'alambic du lieu chaud et laisse
-le pendant cinq jours éloigné de toute source de chaleur. Les cinq jours
-(écoulés), place l'alambic sur de la braise de sciure de bois et extrais-en
-l'eau divine ; tu la recevras, non dans ta main, mais dans un vase de verre.
-Puis, prenant cette eau, mets-la duns un alambic, comme il a été écrit précé-
-demment, et fais chauffer pendant deux ou trois jours. Après avoir enlevé,
-délaie, et expose au soleil sur une coquille. Lorsque le produit sera devenu
-compacte comme du savon, fais chauffer une once d'argent, et projettes (y)
-de cette eau solidifiée, c'est-à-dire deux karats de poudre seche, et tu auras
-de l'or (2).
-Le nombre total des jours de l'opération est de cent dix jours, d'après ce
-qu'ont dit Zosime, le Chrétien et Stephanus (3). Quant à moi, après avoir bien
-butiné de tous cotés comme l'abeille, et tressé une couronne avec beaucoup
-de fleurs, je t'en ai fait hommage, à toi mon maitre. Ensuite, je t'exposerai
-quels sont les appareils. Porte-vous bien en ésus-Christ, notre Dieu, main-
-tenant, toujours et dans tous les siècles des siècles. Amen.
-(1) Voir p. 20, 5 12, sur l'uf pnilo- | dant, le résidu employé comme poudre
-de projection contenait peut-être d'au-
-sopίique.
-(2) Ilsemble qu'il s'agisse simplement | tres métaux.
-d'une teinture superficielle de l'argent | (3) Ceci indique un commentateur
-en jaune par un polysulfure. Cepen- | relativement moderne
-19
+*) Le sens du mot _rogion_, employé dans ce passage, autrement dit _rogé_, (p. 59), est défini par cette description.
 
+Que le lieu où les appareils sont installés soit à l'abri du vent, qu'il reçoive la lumière de l'est ou du sud, mais non celle du couchant, ou du nord, ou du nord-ouest, ou du nord-est, à cause du refroidissement.* Fais digérer pendant 14 ou 21 jours, jusqu'à ce que cesse la montée des vapeurs ; et maintiens lutés avec soin les joints de l'appareil, afin de conserver l'odeur ; car si elle s'échappe, tout le travail est perdu. En effet, cette odeur est tout à fait désagréable, et c'est dans cette odeur que réside le travail.*
 
-### 0194
+*) Voir p. 30, § 2.
 
-146
-ZOSIME
-III. X. --- ZΟSIMΕ DΕ PANΟPΟLIS
-BlOES AΤΗENIΟEs SSRLLΕAU DIVΝE
-1. Ceci est le divin et grand mystère ; l'objet que l'on cherche. Ceci
-est le Tout. De lui (provient) le Tout, et par lui (existe) le Tout. Deux
-natures, une seule essence; car l'une attire l'une ; et l'une domine l'une.
-Ceciest l'eau d'argent (2), 'hermaphrodite, ce qui fuit toujours (3), ce qui est
-attiré vers ses propres éléments. C'est l'eau divine, que tout le monde a
-ignorée, dont la nature est difficile à contempler; car ce n'est ni un métal,
-ni de l'eau toujours en mouvement, ni un corps (métallique) ; elle n'est
-pas dominée.
-2. C'est le Tout en toutes choses ; il a vie et esprit et il est destructeur.
-Celui qui comprend cela possède l'or et l'argent. La puissance a été cachée,
-mais elle est déposée dans Erotyle (4).
-III. X. --- ΟΟNEΕΙS ΕΤ RΕΙLS ΕΡ RCΟΝS
-PΟUR CEUR ΟΙ ΡRIΟUΕΥ 'AΥ 3
-1. e vous le déclare, à vous les sages : sans l'appareil propre à traiter le
-cuivre, et sans le temps prescrit pour l'opération de l'iosis (lequel temps est
-court ou long) et pour le mélange des dix espèces susdites (6), sèches ou li-
-quides, que l'on broie ensemble, n'espérez rien faire, 6 hommes, vous qui
-appartenez à latroupe de l'or, à la race d'or, aux enfants de la tête d'or ; vous
-qui êtes les amants de la sagesse et les investigateurs de la matière du jaune
-(3) L'esclare fugitif, Serνus fugitνus
-(1) Cette ligne n'existe pas dans M ;
-mais dans AB. --- Cet article précède | des Arabes (Introd., p. 217 et 258).
-immédiatement dans A, les axiomes | (4) Auteur cité dans le Papyrus
-mystiques sur le Tout, dérivés de la | de Leide (Introd., p. 17).
-(5) Suite d'articles sans lien. Le pre-
-Chrysopée de Cléopâtre (fig. 11, Introd., |
-| mier semble tiré de Démocrite (v. p. 5o).
-p. 132 et fig. 13, p. 136).
-(2) Mercure des philosophes et mer· | eς. p. 81.
-(6) Cp. DoccirE, Questions natu-
-cure ordinaira
+*) On voit par là qu'il s'agit de la distillation d'un produit sulfuré. V. _Introd._, p. 69.
 
+2\. La première eau qui passe (à la distillation) est blanche.
 
-### 0195
+La seconde coule goutte à goutte ; elle est d'une odeur désagréable, toute pareille (au lait de chaux).* Ensuite, quand la montée de l'eau a cessé, tu enlèves le récipient dans lequel l'eau a coulé, tu (le) fermes, et tu le gardes avec soin. Découvrant l'alambic, tu te boucheras le nez à cause de l'odeur ; et tu trouveras dans le vase femelle les scories (_caput mortuum_).
 
-CONSEILS ET RECOMMANDATIONs
-147
-d'œuf(1). Mais vous, gens du creuset, vous vous raillez mutuellement et vous
-ne suivez pas mes avis, à moi qui vous engage à vous conformer aux
-préceptes des maitres et à leurs écrits ; à moi qui vous fais connaitre leurs
-opinions, révélées par la puissance de la parole divine.
-2. Cette eau a deux couleurs, blanche et jaune ; ils lui ont donné mille
-noms divers. Sans l'eau divine, rien n'existe. Par elle toute la composition
-est entreprise; par elle, elle est chauffée ; par elle, elle est brulée ; par elle, elle
-est fixée ; par elle, elle est jaunie ; par elle, elle est décomposée ; par elle, elle
-est teinte ; par là, elle subit l'iosis, elle est affinée et soumise à la cuisson.
-En effet, il dit : α En projetant l'eau de soufre natif et un peu de gomme,
-tu teindras un corps quelconque ». Toutes (les substances) qui tirent leur
-origine de l'eau, sont en opposition avec celles qui tirent leur origine du
-feu ; de sorte que sans le catalogue de tous les liquides, rien n'est certain ν.
-3. Quelques-uns l'ont rappelé, --- et peut-être même tous : il est néces-
-saire que cette eau, en guise de levain, détermine la fermentation desti-
-née à produire le semblable au moyen du semblable, dans le corps métal-
-lique qui doit être teint. En effet, de même que le levain du pain, pris en
-petite quantité, fait fermenter une grande masse de pâte ; de même aussi ce
-petit morceau d'or va faire fermenter toute la matiere sèche (2).
-4. D'autres, mêlant ensemble deux espèces de choses, les résidus dorés
-des (substances) sulfureuses avec les matières d'or, les ont associées : les
-unes aux produits bruts et non fermentés, les autres aux produits cuits en-
-semble dans l'eau de l'iοοie
-En haut les choses célestes, et en bas les choses terrestres ; par le male et
-la femelle l'œuvre est accomplie (3).
-(1) C'est-a-dire de la teinture en (3) Introd., p. 161, au bas de la fig. 37,
-et p. 163. --- Olympiodore, p. 101, ---
-jaune ou en or.
-(2) V. Introd. Papyrus de Leide, v. aussi la note de la page 124.
-p. 57.
-p. 57.
+*) C'est-à-dire qu'elle est blanchie à la façon du lait de chaux ( ? ), par le soufre précipité, provenant de la décomposition des polysulfures ou de l'hydrogène sulfuré qui s'est volatilisé. On dit encore aujourd'hui : lait de soufre pour une liqueur analogue.
 
+Ne refuse pas au mort de parvenir à la résurrection ; mais attends la résurrection du (mort) dont on a désespéré.* Ensuite mélange avec la cendre d'autres jaunes d'œufs, comme dans l'art de la savonnerie ; délaie ensemble les matières humides et les matières sèches, et jette (le tout) dans un alambic. Opère comme il a été prescrit antérieurement, en changeant le récipient de l'eau, c'est-à-dire le _rogion_.
 
-### 0196
+*) Ceci signifie que le sulfure, formé au fond de l'alambic (scorie ou _caput mortuum_) se désagrège et blanchit à l'air.
 
-148
-ZOSIME
-II. XI. --- ZΟSIIΕ DΕ PAΝΟPΟLIS
-ΕCIΤ AUTEETIUη
-Sur l'art sacré et diνin de lafabrication de l'or et de l'argent (1)
-Abrégé sommaire.
-1. Prenant l'âme du cuivre qui est au-dessus de l'eau du mercure, fais (en)
-un corps volatil ; car l'âme du cuivre retenue dans la matière en fusion
-monte en haut (2j ; la partie liquide reste en bas dans l'appareil à kérotakis,
-et doit être fixée au moyen de la gomme (3) : c'est la fleur d'or, la liqueur
-d'or, etc. D'autres entendent par là la coloration, la cuisson, l'œuvre de la
-doctrine mystique. Au début le cuivre projeté, après traitement dans l'ap-
-pareil de la fabrication, charme les yeux. Tandis qu'il perd son éclat, on le
-combine avec la gomme dorée, la liqueur d'or, etc. (4). (Voilà ce que) il a écrit
-au sujet de la conſection de l'or, laquelle est proclamée aussi la fixation.
-Marie dit : « Prends l'eau de soufre et un peu de gomme, mets-la sur le
-bain de cendre ; on dit que c'est de cette façon que l'eau est fixée ». Marie
-dit encore : α Pour la préparation de la fleur d'or, place l'eau de soufre
-et un peu de gomme sur la feuille de la kérotais, afin qu'elle s'y fixe.
-Fais digérer à la chaleur du fumier pendant quelque temps ». Après les
-mots α pendant quelque temps », Marie (ajoute) : α Prends une partie de
-notre cuivre, une partie d'or ; amollis la feuille formée de ces deux
-métaux unis par fusion, pose (la) sur le soufre, et laisse (le tout) pendant
-3 fois 24 heures, jusqu'à ce que le produit soit cuit.
-2. Le Philosophe (5) expose la même chose : « après avoir fixé pendant
-(3) Ce motdésigne la matière quidon-
-(1) ABK au lieu de l'argent : du (
-mercure . --- Cet article est un abrégé, | nait la coloration jaune, assimilée au
-renfermant diverses citations techniques | jaune d'œuf, Lexique, p. 10. La nature
-de Marie et de Démocrite, relatives aux de cette matière n'est pas clairement
-opérations pour teindre en or et en | expliquée.
-(4) Les trois phrases précédentes man-
-argent.
-(2) S'agit-il de la fleur de cuivre, In- | quent dans BK et ont été ajoutées dans
-trod., p. 232?ou d'une cadmie, Introd., | AEL.
-(5) Démocrite.
-p. 230?
+Fais cela jusqu'à trois fois et tu auras d'abord la première eau blanche, comme il a été dit précédemment, cette (eau) que les anciens ont nommée eau de pluie ; puis, la seconde eau, jaune-verdâtre, qu'ils ont nommée huile de raifort ; puis la troisième eau, d'un noir verdâtre.*
 
+*) Addition de A : « Qu'ils ont nommée aussi huile de ricin. »
 
-### 0197
+Tu auras aussi les scories qui sont dans le têt. Lorsque tu ouvriras l'appareil, tu trouveras la première fois la scorie tournant au noir, --- la seconde fois, blanche ;--- la troisième fois, jaune.*
 
-L'ÉCRIT AUTHENTIQUE
-149
-quelque temps à la chaleur du fumier, nous faisons cuire le produit en le
-traitant par le soufre pendant 2 ou 3 jours, jusqu'à ce qu'il se forme une
-préparation extrêmement jaune, que l'on transporte dans un autre vase ».
-Telle est la composition. En effet, après la fixation de l'eau de soufre dans
-un matras (1), on met dans un vase, et on fait cuire fortement pendant 2 ou
-3 jours.
-3. Tous les écrits veulent (que) le feu (soit fait) par progression. On emploie
-d'abord le bain de cendre ou le fumier, jusqu'à ce que l'eau de soufre se
-fixe. C'est ainsi qu'ils arrivent à notre mode de cuisson : « Fixe, dit-il, trans-
-forme, et change de matras (2) ; fais cuire, sur un feu indirect et varié.
-Quant à moi, j'ai dit dans mon livre du blanc : On fait cuire d'abord pendant
-un jour, et l'on fixe pendant quelque temps, non seulement en exposant à la
-vapeur, mais aussi en trempant dans l'eau de soufre ».
-4. C'est pour cette raison que le Philosophe, dans le catalogue des
-liquides, a parlé avec intention de la vapeur ; puis de l'eau de soufre. Après
-avoir opéré la fixation pendant quelque temps, au moyen de la vapeur ;
-puis après avoir traité par l'eau de soufre, nous faisons cuire pendant un
-jour ; comme pour la litharge, lorsqu'on veut l'amener à l'état de céruse.
-On ajoute le reste de la préparation, si l'on a besoin d'or. Sinon, on souffle
-avec précaution pour bruler le soufre (3). On délaie la composition et on la
-traite de nouveau par l'huile de natron, jusqu'à ce qu'elle perde sa fluidité.
-On souffle jusqu'à ce que les matières sulfureuses s'échappent, en laissant
-le métal éclairci (4. Ainsi on fait bouillir avec l'huile (de natron) désul-
-furante. jusqu'à ce que le produit perde sa fluidité, et après avoir grillé
-par insufflation, on obtient (ce que l'on cherche).
-(1) Bouclanion : c'est le même mot | métal, désulfuré par le grillage, appa-
-que bouclé. plusieurs fois répété. Ce | raisse dans son éclat. Le commen-
-mot parat le même que βαυκάλιον, bocal. cementdes opérations faites sur la éro-
---- La figure donnée en marge de A est | takis est obscur ; mais il semble qu'à la
-celle d'un matras ou fiole allongée : v. , fin une désulfuration s'obtienne, en com-
-|binant le grillage (insufflation) avec l'ac-
-Introd., p. 165, fg. 42.
-(2) Mème figure que la précédente, | tion d'un fondant (huile de natron). Le
-résultat est la teinture superficielle du
-en marge du ms. A.
-(3) Soufre, au lieu du mot plomb du | métal en or ou en argent, conformé-
-|ment à ce qui a été dit à l'occasion du
-texte grec, le signe étant le même.
-(4) C'est-a-dire jusqu'à ce que le | Papyrus de Leide, Introd., p. 56, 58a6o.
+*) Comparer ce texte du Traité attribué à Avicenne, _Bibl. Chem. de Manget_, t. 1, p. 633 : « Et primo distilla et quod primo exit serva seorsim, quia ista est aqua. Reitera aquam per distillationem et quod distillabitur serva et ista est simplex ; pone sub fimo et serva et quod remanebit in fundo cucurbitæ, serva seorsim, quia est terra. »
 
+Après la première, la seconde et la troisième extractions d'eau et ouvertures de l'appareil, tu réunis les eaux des trois extractions, c'est-à-dire les eaux divines qui s'y trouvent, avec le résidu contenu dans le vase femelle. Après cela, prenant un alambic de verre, fais-y entrer les matières, bouche l'alambic avec une poterie cuite, capable de s'ajuster aux bords de l'alambic. Lute avec tout le soin possible, à l'aide d'un lut qui résiste au feu. Abandonne sur le fumier du fourneau, pendant quarante et un jours, jusqu'à ce que la décomposition ayant eu lieu, la matière teinte devienne semblable à la matière tinctoriale, et que la nature domine la nature. En effet, de cette façon, les matières sulfureuses sont dominées par les matières sulfureuses* et les matières humides par les matières humides correspondantes.
 
-### 0198
+*) Voir p. 20, § 12, sur _l'œuf philosophique_.
 
-150
-ZOSIME
-Voici comment nous parvenons au jaunissement. Après avoir délayé et
-employé les matières susceptibles de jaunir, telles que l'eau de soufre et la
-gomme ; nous fixons légèrement avec la chaleur du fumier. Puis nous fai-
-sons cuire 2 ou 3 jours, jusqu'à ce que le produit devienne jaune au plus
-haut degré. On place ce produit dans le reste de la préparation pendant 3,
-5 ou 7 jours, jusqu'à ce qu'il ait subi l'iosis. Puis nous le projetons sur
-l'argent et nous teignons en or. Nous réglons le feu de façon que la vapeur
-commence à se fixer.
-5. Apres avoir fait agirl'eau de soufre sur le molybdochalque, nous faisons
-chauffer pendant un jour, comme il est dit dans la première classe des liquides
-blancs ; nous opérons sur un feu indirect, ainsi que cela se fait pour la
-litharge. Si nous voulons blanchir, nous opérons l'iosis de cette manière.
-Mais si nous avons grillé par souffage en vue du jaunissement, nous trai-
-tons de nouveau par l'eau de soufre natif et la gomme. Après avoir fixé
-en exposant à la chaleur du fumier, nous faisons cuire pendant 2 ou
-3 jours, jusqu'à ce que le produit devienne jaune au plus haut degré. Après
-lavoir enlevé, nous transformons en ios le reste de la préparation. 'ai défini
-la proportion du feu.
-III. XI. --- SUR LΕSΟΕSΟUSΕVΕΝΤDΕSΡΡΟRΤ
-ET SUR LES ΟALLIΟὕΕS. 'ΡES DEfΟΟIΥE
-1. Les quatre corps (métalliques) servent de support (1), et aucun d'eux ne
-se volatilise. C'est pour cela qu'il n'a pas parlé de griller (par insufflation)
-la composition ; car si c'était utile, il en aurait fait mention expressément.
-En effet, il dit : « Rien n'a été omis, rien n'a été ajourné ». Il dit aussi, en
-parlunt de la liqueur d'or : « Elle teint un corps quelconque ν ; ce qui
-s'applique aux quatre corps. C'est aussi pour cette raison qu'il a cité
-son maitre disant : α Teignant toutes les substances »; montrant par là
-qu'il ne s'agit pas de souffer ; mais que les quatre (corps) qui servent de
-(1) A la teinture.
+3\. Ne prends pas souci du poids, ni de la fraîcheur des œufs, ou de leurs jaunes ; seulement, broie ensemble les matières liquides et les matières sèches, comme il a été dit précédemment, et mets-les dans l'alambic. Après le quarante et unième jour, découvre l'alambic et tu y trouveras une composition entièrement vert clair, c'est-à-dire tournée en ios. Celui qui fait l'ios, sait quelle opération il accomplit ; mais celui qui n'en fait pas ne produit rien.
 
+Or, après le quarante et unième jour, ôte l'alambic du lieu chaud et laisse le pendant cinq jours éloigné de toute source de chaleur. Les cinq jours (écoulés), place l'alambic sur de la braise de sciure de bois et extrais-en l'eau divine ; tu la recevras, non dans ta main, mais dans un vase de verre. Puis, prenant cette eau, mets-la dans un alambic, comme il a été écrit précédemment, et fais chauffer pendant deux ou trois jours. Après avoir enlevé, délaie, et expose au soleil sur une coquille. Lorsque le produit sera devenu compacte comme du savon, fais chauffer une once d'argent, et projettes (y) de cette eau solidifiée, c'est-à-dire deux karats de poudre sèche, et tu auras de l'or.*
 
-### 0199
+*) Il semble qu'il s'agisse simplement d'une teinture superficielle de l'argent en jaune par un polysulfure. Cependant, le résidu employé comme poudre de projection contenait peut-être d'autres métaux.
 
-151
-LES QATRE CORPS
-support sont teints et aptes à teindre. Il introduit Pammenès opérant sur
-le soufre (1)et disant qu'il n'est pas besoin de griller ; car le soufre s'évapore
-lui-même pendant les cuissons, vu que lui-même teint. Marie dit : e Enleve
-la (nature) sulfureuse au plomb ; partout ou le soufre entre, il teint ». Elle a
-voulu montrer par là que nous n'avons pas raison de griller le soufre. Elle
-a employé des noms étrangers aux arts dans la description de leurs opéra-
-tions. Ce n'est pas ainsi que font ceux qui opèrent, lorsqu'ils parlent de notre
-cuivre ou bien d'un corps métallique quelconque.
-On fait une feuille au moyen de deux métaux unis par fusion. Le Philo-
-sophe prend cette feuille métallique et la coupe en morceaux ; si l'alliage est
-fondu, cela vaut mieux. Voici ce qu'ils disent : u Ce n'est pas au moyen d'une
-feuille. .. ».
-2. De cette façon, s'ils parlent de griller, ils ne parlent pas d'une opéra-
-tion faite en dehors, mais pendant leur propre travail. Car ils sou-
-mettent au grillage les matières cuites, afin de prendre leur (principe) propre
-et tinctorial. Ils rejettent les matières cuites, et font évaporer les parties
-inutiles (2). Ils donnent d'autres noms aux produits purifiés. Ainsi ils
-grillent par insufflation, de façon à isoler le principe propre et tinctorial.
-Voila comment on brule dans les cuissons, on expulse par insufflation
-toutes les matières étrangères, en gardant l'esprit utile et tinctorial.
-3. SU LEs roIs DEs (sursracs) CREs ΕT CUITEs.
-D'après ce que les écrits disent à cet égard, assurément le soufre doit
-être expulsé par insufflation. C'est là ce que Marie a voulu faire entendre en
-disant : α Tu trouveras 5 parties moins le quart, c'est-a-dire moins le
-soufre chassé par l'insufflation. Semblablement à la fin de son exposé, elle
-dit que le cuivre, dans son affinage à la fonte, diminue d'un tiers de son
-poids. Elle dit que ces changements s'accomplissent aussi lorsqu'on blan-
-chit et qu'on jaunit; car les (substances) sulfureuses teignent, mais se vola-
-tilisent. Nous nous débarrassons des substances sulfureuses par volatili-
-sation. ll en est de même des plantes, lorsqu'elles sont entièrement dis-
-(1) On a remplacé le mot plomb par le général. V. p. 123, note 7. De mème
-not soufre dans ces deux phrases, à | au paragraphe suivant.
-cause du morceau précédent et du sens | (2) C'est-à-dire le soufre.
+Le nombre total des jours de l'opération est de cent dix jours, d'après ce qu'ont dit Zosime, le Chrétien et Stephanus.* Quant à moi, après avoir bien butiné de tous côtés comme l'abeille, et tressé une couronne avec beaucoup de fleurs, je t'en ai fait hommage, à toi mon maître. Ensuite, je t'exposerai quels sont les appareils. Portez-vous bien en Jésus-Christ, notre Dieu, maintenant, toujours et dans tous les siècles des siècles. Amen.
 
+*) Ceci indique un commentateur relativement moderne.
 
-### 0200
+---
 
-152
-ZOSIME
-soutes ; ainsi qu'il arrive lorsqu'on les fait cuire avec l'eau de soufre,
-rejetant la partie ligneuse.
-4. Ce n'est pas sans motif que Agathodémon dit α et unifiées» ; mais afin
-que, pénétrant dans la profondeur du métal de l'argent, les matières tincto-
-riales puissent échapper à la destruction causée par le feu. Nous nous
-privons donc des teintures tirées de plantes, sachant que les métaux ne
-peuvent en emprunter les qualités, et recevoir ainsi à fond la teinture.
-Les qualités seules agissent ; car le corps ne peut pénétrer dans l'intérieur
-du corps. Aristote (dit) (1) : « les qualités triomphent les unes les autres ».
-D'après Agathodémon les métaux placés en haut prennent les substances
-volatiles : c'est ainsi qu'il emprunte l'esprit de la chrysocolle. Ce mot esprit
-signifie évidemment une substance volatile et les vapeurs sublimées sont
-du même ordre. Telles sont : la vapeur blanche, la vapeur du cinabre, et
-« un esprit plus noir, humide, pur » (2).
-Car toute vapeur sublimée est un esprit, et telles sont les qualités tincto-
-riales. Le divin Démocrite parle ainsi du blanchiment et Hermès de la
-fumée. Quandces (vapeurs) leur étaient utiles, ils les admettaient dans les trai-
-tements, mais (en les désignant) par énigmes. Cest pour cela que c'est un
-mystère. (Ainsi il dit) : α d'ai écrit cela dans le chapitre : Si tu es intelli-
-gent. La vapeur du soufre natif. de l'arsenic, et la vapeur blanche de
-cinabre »... Agathodémon dit aussi : α (la vapeur de) l'arsenic est l'âme de la
-matière dorée. Après qu'il a été débarrassé de sa partie épaisse et caustique,
-qu'il a abandonné son corps sulfureux, prends-en alors la partie colorante ».
-5. La vapeur c'est l'esprit, l'esprit qui pénetre dans les corps. L'âme differe
-de l'esprit. Il appelle âme la nature primitivement sulfureuse et caustique
-(de l'arsenic ?). Sous l'influence purificatrice du feu on conserve l'esprit, si
-l'on travaille d'après les règles de l'art ; car il ne peut être détruit. Telle est la
-chose utile, l'élément tinctorial. I faut à l'opérateur une intelligence subtile,
-afin qu'il reconnaisse l'esprit sorti du corps et qu'il en fasse emploi, et que
-(1) Cp. Aristote, Psique, lV, ch. 6, | lon, qui se trouve aussi ailleurs, lII,
-xix ; 3. --- Sur ces oracles, v. Olym-
-t. II, p. 292, éd. Didot.
-(2) La vapeur du soufre qui noircit les | piodore, p. 94, note 5.
-métaux? Citation des Oracles d'Apol- |
+#### 3\. --- 9. Zosime de Panopolis* --- Mémoires Authentiques sur l'Eau Divine.
 
+*) Cette ligne n'existe pas dans M ; mais dans AB. --- Cet article précède immédiatement dans A, les axiomes mystiques sur le Tout, dérivés de la Chrysopée de Cléopâtre (fig. 11, _Introd._, p. 132 et fig. 13, p. 136).
 
-### 0201
+1\. Ceci est le divin et grand mystère ; l'objet que l'on cherche. Ceci est le Tout. De lui (provient) le Tout, et par lui (existe) le Tout. Deux natures, une seule essence ; car l'une attire l'une ; et l'une domine l'une. Ceci est l'eau d'argent,* l'hermaphrodite, ce qui fuit toujours,* ce qui est attiré vers ses propres éléments. C'est l'eau divine, que tout le monde a ignorée, dont la nature est difficile à contempler ; car ce n'est ni un métal, ni de l'eau toujours en mouvement, ni un corps (métallique) ; elle n'est pas dominée.
 
-153
-LES QUATRE CORPS
-surveillant son départ il atteigne le but, c'est-à-dire que le corps étant
-détruit, (il prenne garde que) l'esprit (ne) soit détruit en même temps. Or
-il n'a pas été détruit ; mais il a pénétré dans la profondeur du métal, lorsque
-l'opérateur a accompli son œuvre.
-6. Ceux qui ne reconnaissent pas quand l'œuvre est à point, interprètent
-mal ; car ils ne voient pas autre chose que des matières qui n'ont pas repris
-leur corps (métallique), des matières brulées ou incinérées. Tandis qu'ils
-ne jugent que la partie visible de ces choses, les infortunés, par une sorte de
-punition, laissent perdre tout et ils ne réussissent pas à éviter la réduction (du
-produit) en cendre (1). Dans aucun passage des écrits, on ne mentionne d'autre
-support (à la teinture), sinon le cuivre seul. Ainsi Marie dit que le cuivre est
-traité et plus tard brulé. C'est dans ce sens qu'il joue le role de support.
-Tel est (le role du) cuivre ou de l'argent, dans notre opération. Nous ne
-voulons pas en tirer la qualité, et leur corps, par sa mort, devient inutile.
-Les plantes aussi sont inutiles, car elles sont consumées par le feu (2).
-7. Agathodémon dit : « La magnésie, l'antimoine et la litharge se volati-
-lisent, après avoir perdu leur pureté ». Marie : « souffle, dit-elle, les vapeurs,
-jusqu'à ce que les produits sulfureux soient volatilisés avec l'ombre (qui
-obscurcit le métal), et que le cuivre prenne tout son éclat ». Ainsi notre
-cuivre reçoit d'eux la vapeur sublimée. Or la vapeur, c'est l'esprit du
-corps. L'âme differe de l'esprit...
-A partir de ces mots, la fin du 7 et le 8 8, dans M, sont la répétition des § 5, 6, 7
-jusqu'à ces mots : ainsi notre cuivre (reçoit) la vapeur sublimée ». Dans le texte
-grec, on a donné les variantes.
-9. Démocrite a passé sous silence les poids (dans son premier livre). Il
-dit : « l ne reste rien ; il n'y a plus rien à exposer, excepté la montée de la
-(1) Addition de M B : α Lu qualité | dans celui d'un autre métal. --- Quant
-reste seulement avec le cuivre ; car le | aux plantes, si on les entend au sens
-cuivre seul est fixe et joue le rôle de | propre comme les teintures végétales,
-| celles-ci sont en effet détruites par le
-support ».
-(2) Ceci parait signifier que dans la | feu. Au sens figuré, les fleurs métalli-
-transmutation le cuivre et l'argent ne | ques et certaines colorations corres-
-conservent ni leur qualité, ou couleur | pondantes sont également évaporées ou
-propre, ni leur corps. aui est chané | détruites par le feu (v. p. 159, note 2).
-20
+*) Mercure des philosophes et mercure ordinaire.
 
+*) L'esclave fugitif, _Servus fugitivus_ des Arabes (_Introd._, p. 217 et 258).
 
-### 0202
+2\. C'est le Tout en toutes choses ; il a vie et esprit et il est destructeur. Celui qui comprend cela possède l'or et l'argent. La puissance a été cachée, mais elle est déposée dans Erotyle.*
 
-154
-ZOSIME
-vapeur sublimée et de l'eau. Or voicicequ'ildisait au sujet des poids et du sou-
-fre, dans le livre suivant : α la liqueur blanche d'arsenic, une once, etc. Car
-il y a deux compositions des soufres. .. (phrase inintelligible). Le cuivre sera
-trouvé constitué de telle manière, qu'il puisse unir sa nature(à un autre corps),
-et dominer avec lui et charmer conjointement. Ainsi la nature charme la
-nature. Car l'argent, s'unissant à tous les corps métalliques, ne les repousse
-pas. Quant au cuivre, il le subit volontiers, comme la jument accepte l'accou-
-plement de l'âne, et la chienne celui du loup: ce que font tous les êtres naturels
-qui se ressemblent. Le cuivre se rouille et se réduit, sans quitter sa propre
-nature ». Démocrite, dans la classe de la magnésie, dit : α La magnésie blan-
-chie ne laisse pas les corps métalliques se séparer, ni apparaitre (1) dans
-l'ombre du cuivre. » Nous avons achevé le discours sur les poids. Bonne
-santé.
-III. XIII. --- SUR LA ΠVΕRSlΤ D ΟIVRΕ BL
-Beaucoup préparent le cuivre brulé au moyen du soufre (2). Les traités des
-autres auteurs le disent avec obscurité. Démocrite seul s'exprime avec une
-clarté généreuse : α Jetez sur le cuivre un quart de fer sulfuré, c'est-à-dire
-préparé en fondant avec la pierre magnétique, le quart ou la moitié de
-soufre ; coulez le produit avec le plomb provenant de l'antimoine et de la
-litharge. Ensuite faites bruler la composition obtenue avec la pyrite, le
-cuivre et le fer, afin qu'il se forme une scorie convenable. Projete-y la
-vapeur sublimée de l'arsenic (sulfuré). Le métal est blanchi par la vapeur
-du soufre ».
-En parlant de la céruse cuite avec le soufre, il veut parler du soufre pur,
-comme propre à changer le molybdochalque en métal étésien. Lorsqu'il
-dit : α La magnésie blanchie produit le même effet »; il veut parler du cinabre
-traité simultanément. Mais quelqu'un objectera : il a parlé d'abord de la
-magnési et de la pyrite. Oui, afin que tu apprennes ceci qu'en même temps
-(2) Introd., p. 233. --- DioscoκiDE,
-(1) En s'oxydant séparément.
-Matière médicale, V, 87.
+*) Auteur cité dans le Papyrus W de Leide (_Introd._, p. 17).
 
+---
 
-### 0203
+#### 3\. --- 10. Conseils et Recommandations pour ceux qui Pratiquent l'Art.*
 
-155
-LEAU DIVINE EST COMPLEXE
-que le cuivre, on projette le fer et le plomb et les minerais, afin que le
-molybdochalque devienne du cuivre étésien (doré).
-II. XIV. --- SU C PΟIΝΤ Ο'ΥLS DΟΝΝΕΝΤ IΕ NM
-UIDES
-E UΕ ''Sr UXE (SbBSAAΝE ΟΣiPLEXE EΤ ΝΟΝ PAS SIMPLE
-1. α La vapeur décrite précédemment, tu la feras cuire dans l'huile ». La
-vapeur décrite précédemment, c'est la formule entière ; car elle parait com-
-prendre l'eau divine et l'huile. Ils disent qu'il faut opérer avec tous les
-liquides, voulant faire entendre (par la) la liquidité. En effet, par tous ces
-mots : la saumure vinaigrée, ensuite l'huile, puis le miel et le lait, il faut
-entendre l'cau divine. Le safran par lui-même est impuissant à teindre
-sans le concours de l'eau divine ; ceux qui veulent teindre s'en servent. Marie
-parle de « la dissolution du comaris et de la chélidoine ν. Démocrite (place)
-dans la dernière classe des liquides blancs α l'eau de chaux qui a coulé » à
-travers le filtre, ou à travers une chausse.
-Toutes les espèces sont traitées par macération, au moyen des liquides
-simples ; puis le produit est soumis au lavage. Ainsi sont lavés les corps
-(métalliques) solides. On les fait macérer, soit en les délayant, soit en les
-arrosant. Les produits délayés sont exposés au soleil et à la rosée, à la façon
-du soufre blanc ou de la litharge. On les fait macérer 1, ou 3, ou 5, ou
-7jours, jusqu'à désagrégation totale.
-2. Ces (espèces) ayant été macérées, tu en feras des mélanges et tu
-soumettras ces mélanges délayés à la rosée et au soleil. Après les avoir des-
-séchés et délayés, en les traitant par l'huile de natron, tu trouveras le plomb
-noir. Délaie-le, en reprenant avec le mercure, l'eau divine et la gomme ;
-fais cuire sur un feu léger jusqu'à ce que l'eau se soit séparée : tu délaies au
-soleil jusqu'à ce que la matiere soit d'un beau blanc.
-3. Ce travail est répété plusieurs fois par ceux qui lavent la scorie. D'après
+*) Suite d'articles sans lien. Le premier semble tiré de Démocrite (v. p. 50).
 
+1\. Je vous le déclare, à vous les sages : sans l'appareil propre à traiter le cuivre, et sans le temps prescrit pour l'opération de l'iosis (lequel temps est court ou long) et pour le mélange des dix espèces susdites,* sèches ou liquides, que l'on broie ensemble, n'espérez rien faire, ô hommes, vous qui appartenez à la troupe de l'or, à la race d'or, aux enfants de la tête d'or ; vous qui êtes les amants de la sagesse et les investigateurs de la matière du jaune d'œuf.* Mais vous, gens du creuset, vous vous raillez mutuellement et vous ne suivez pas mes avis, à moi qui vous engage à vous conformer aux préceptes des maîtres et à leurs écrits ; à moi qui vous fais connaître leurs opinions, révélées par la puissance de la parole divine.
 
-### 0204
+*) Cp. Démocrite, _Questions naturelles_, p. 81.
 
-156
-ZOSIME
-Pébichius : 1 Lave 2 fois 7, et 2 fois 8 plus 8, et encore plus ». Démocrite
-fait la même chose dans sa dernière classe, celle des liquides blancs : il lave
-de la même façon les feuilles (métalliques) oxydées, et il leur restitue leur
-éclat. Après avoir desséché, si le métal est devenu brillant, reprends la
-vapeur, traite les substances qui peuvent jaunir par l'eau divine et la gomme,
-et fixe (la teinture) sur un feu léger (1). Lorsque tu auras opéré la fixation,
-retire la substance, et laisse égoutter sur le résidu de la préparation pendant
-2, ou 3, ou 7, ou 41 jours. Si tu y projettes de l'argent commun, tu le teins
-(aussi). Cherchons ensuite le moment qui convient.
-III. XV. --- SUR CΕΤΕ ΟΕSΤΟΝ
-DΟITON EN ΝIΡΟΤE ΕL ΙΟΙΕΝΥΕΝΕPREΝDΕΕ L'ΟΕΕVR7
+*) C'est-à-dire de la teinture en jaune ou en or. 
+
+2\. Cette eau a deux couleurs, blanche et jaune ; ils lui ont donné mille noms divers. Sans l'eau divine, rien n'existe. Par elle toute la composition est entreprise ; par elle, elle est chauffée ; par elle, elle est brûlée ; par elle, elle est fixée ; par elle, elle est jaunie ; par elle, elle est décomposée ; par elle, elle est teinte ; par là, elle subit l'iosis, elle est affinée et soumise à la cuisson. En effet, il dit : « En projetant l'eau de soufre natif et un peu de gomme, tu teindras un corps quelconque. » Toutes (les substances) qui tirent leur origine de l'eau, sont en opposition avec celles qui tirent leur origine du feu ; de sorte que sans le catalogue de tous les liquides, rien n'est certain. »
+
+3\. Quelques-uns l'ont rappelé, --- et peut-être même tous : il est nécessaire que cette eau, en guise de levain, détermine la fermentation destinée à produire le semblable au moyen du semblable, dans le corps métallique qui doit être teint. En effet, de même que le levain du pain, pris en petite quantité, fait fermenter une grande masse de pâte ; de même aussi ce petit morceau d'or va faire fermenter toute la matière sèche.*
+
+*) V. _Introd._ Papyrus de Leide, p. 57.
+
+4\. D'autres, mêlant ensemble deux espèces de choses, les résidus dorés des (substances) sulfureuses avec les matières d'or, les ont associées : les unes aux produits bruts et non fermentés, les autres aux produits cuits ensemble dans l'eau de l'iosis.
+
+---
+
+En haut les choses célestes, et en bas les choses terrestres ; par le mâle et la femelle l'œuvre est accomplie.*
+
+*) _Introd._, p. 161, au bas de la fig. 37, et p. 163. --- Olympiodore, p. 101, --- v. aussi la note de la page 124.
+
+---
+
+#### 3\. --- 11. Zosime de Panopolis --- Écrit Authentique.
+
+_Sur l'art sacré et divin de la fabrication de l'or et de l'argent_*
+
+_Abrégé sommaire._
+
+*) ABK au lieu de l'argent : « du mercure. » --- Cet article est un abrégé, renfermant diverses citations techniques de Marie et de Démocrite, relatives aux opérations pour teindre en or et en argent.
+
+1\. Prenant l'âme du cuivre qui est au-dessus de l'eau du mercure, fais (en) un corps volatil ; car l'âme du cuivre retenue dans la matière en fusion monte en haut* ; la partie liquide reste en bas dans l'appareil à kérotakis, et doit être fixée au moyen de la gomme* : c'est la fleur d'or, la liqueur d'or, etc. D'autres entendent par là la coloration, la cuisson, l'œuvre de la doctrine mystique. Au début le cuivre projeté, après traitement dans l'appareil de la fabrication, charme les yeux. Tandis qu'il perd son éclat, on le combine avec la gomme dorée, la liqueur d'or, etc.* (Voilà ce que) il a écrit au sujet de la confection de l'or, laquelle est proclamée aussi la fixation.
+
+*) S'agit-il de la fleur de cuivre, _Introd._, p. 232 ? ou d'une cadmie, _Introd._, p. 239 ?
+
+*) Ce mot désigne la matière qui donnait la coloration jaune, assimilée au jaune d'œuf, _Lexique_, p. 10. La nature de cette matière n'est pas clairement expliquée.
+
+*) Les trois phrases précédentes manquent dans BK et ont été ajoutées dans AEL.
+
+Marie dit : « Prends l'eau de soufre et un peu de gomme, mets-la sur le bain de cendre ; on dit que c'est de cette façon que l'eau est fixée. » Marie dit encore : « Pour la préparation de la fleur d'or, place l'eau de soufre et un peu de gomme sur la feuille de la kérotakis, afin qu'elle s'y fixe. Fais digérer à la chaleur du fumier pendant quelque temps. » Après les mots « pendant quelque temps, » Marie (ajoute) : « Prends une partie de notre cuivre, une partie d'or ; amollis la feuille formée de ces deux métaux unis par fusion, pose (la) sur le soufre, et laisse (le tout) pendant 3 fois 24 heures, jusqu'à ce que le produit soit cuit.
+
+2\. Le Philosophe* expose la même chose : « après avoir fixé pendant quelque temps à la chaleur du fumier, nous faisons cuire le produit en le traitant par le soufre pendant 2 ou 3 jours, jusqu'à ce qu'il se forme une préparation extrêmement jaune, que l'on transporte dans un autre vase. » Telle est la composition. En effet, après la fixation de l'eau de soufre dans un matras,* on met dans un vase, et on fait cuire fortement pendant 2 ou 3 jours.
+
+*) Démocrite.
+
+*) _Bouclanion_ : c'est le même mot que _bouclé_, plusieurs fois répété. Ce mot paraît le même que βαυκάλιον, bocal. --- La figure donnée en marge de A est celle d'un matras ou fiole allongée : v. _Introd._, p. 165, _fig._ 42.
+
+3\. Tous les écrits veulent (que) le feu (soit fait) par progression. On emploie d'abord le bain de cendre ou le fumier, jusqu'à ce que l'eau de soufre se fixe. C'est ainsi qu'ils arrivent à notre mode de cuisson : « Fixe, dit-il, transforme, et change de matras* ; fais cuire, sur un feu indirect et varié. Quant à moi, j'ai dit dans mon livre du blanc : On fait cuire d'abord pendant un jour, et l'on fixe pendant quelque temps, non seulement en exposant à la vapeur, mais aussi en trempant dans l'eau de soufre. »
+
+*) Même figure que la précédente, en marge du ms. A.
+
+4\. C'est pour cette raison que le Philosophe, dans le catalogue des liquides, a parlé avec intention de la vapeur ; puis de l'eau de soufre. Après avoir opéré la fixation pendant quelque temps, au moyen de la vapeur ; puis après avoir traité par l'eau de soufre, nous faisons cuire pendant un jour ; comme pour la litharge, lorsqu'on veut l'amener à l'état de céruse. On ajoute le reste de la préparation, si l'on a besoin d'or. Sinon, on souffle avec précaution pour brûler le soufre.* On délaie la composition et on la traite de nouveau par l'huile de natron, jusqu'à ce qu'elle perde sa fluidité. On souffle jusqu'à ce que les matières sulfureuses s'échappent, en laissant le métal éclairci.* Ainsi on fait bouillir avec l'huile (de natron) désulfurante, jusqu'à ce qua le produit perde sa fluidité, et après avoir grillé par insufflation, on obtient (ce que l'on cherche).
+
+*) Soufre, au lieu du mot plomb du texte grec, le signe étant le même.
+
+*) C'est-à-dire jusqu'à ce que le métal, désulfuré par le grillage, apparaisse dans son éclat. Le commencement des opérations faites sur la kérotakis est obscur ; mais il semble qu'à la fin une désulfuration s'obtienne, en combinant le grillage (insufflation) avec l'action d'un fondant (huile de natron). Le résultat est la teinture superficielle du métal en or ou en argent, conformément à ce qui a été dit à l'occasion du Papyrus de Leide, _Introd._, p. 56, 58 à 60.
+
+Voici comment nous parvenons au jaunissement. Après avoir délayé et employé les matières susceptibles de jaunir, telles que l'eau de soufre et la gomme ; nous fixons légèrement avec la chaleur du fumier. Puis nous faisons cuire 2 ou 3 jours, jusqu'à ce que le produit devienne jaune au plus haut degré. On place ce produit dans le reste de la préparation pendant 3, 5 ou 7 jours, jusqu'à ce qu'il ait subi l'iosis. Puis nous le projetons sur l'argent et nous teignons en or. Nous réglons le feu de façon que la vapeur commence à se fixer.
+
+5\. Après avoir fait agir l'eau de soufre sur le molybdochalque, nous faisons chauffer pendant un jour, comme il est dit dans la première classe des liquides blancs ; nous opérons sur un feu indirect, ainsi que cela se fait pour la litharge. Si nous voulons blanchir, nous opérons l'iosis de cette manière. Mais si nous avons grillé par soufflage en vue du jaunissement, nous traitons de nouveau par l'eau de soufre natif et la gomme. Après avoir fixé en exposant à la chaleur du fumier, nous faisons cuire pendant 2 ou 3 jours, jusqu'à ce que le produit devienne jaune au plus haut degré. Après l'avoir enlevé, nous transformons en ios le reste de la préparation. J'ai défini la proportion du feu.
+
+---
+
+#### 3\. --- 12. Sur les Substances qui Servent de Support et sur les Quatre Corps Métalliques, d'après Démocrite.
+
+1\. Les quatre corps (métalliques) servent de support,* et aucun d'eux ne se volatilise. C'est pour cela qu'il n'a pas parlé de griller (par insufflation) la composition ; car si c'était utile, il en aurait fait mention expressément. En effet, il dit : « Rien n'a été omis, rien n'a été ajourné. » Il dit aussi, en parlant de la liqueur d'or : « Elle teint un corps quelconque ; » ce qui s'applique aux quatre corps. C'est aussi pour cette raison qu'il a cité son maître disant : « Teignant toutes les substances ; » montrant par là qu'il ne s'agit pas de souffler ; mais que les quatre (corps) qui servent de support sont teints et aptes à teindre. Il introduit Pammenès opérant sur le soufre* et disant qu'il n'est pas besoin de griller ; car le soufre s'évapore lui-même teint. Marie dit : « Enlève la (nature) sulfureuse au plomb ; partout où le soufre entre, il teint. » Elle a voulu montrer par là que nous n'avons pas raison de griller le soufre. Elle a employé des noms étrangers aux arts dans la description de leurs opérations. Ce n'est pas ainsi que font ceux qui opèrent, lorsqu'ils parlent de notre cuivre ou bien d'un corps métallique quelconque.
+
+*) A la teinture.
+
+*) On a remplacé le mot plomb par le mot soufre dans ces deux phrases, à cause du morceau précédent et du sens général. V. p. 123, note 7. De même au paragraphe suivant.
+
+On fait une feuille au moyen de deux métaux unis par fusion. Le Philosophe prend cette feuille métallique et la coupe en morceaux ; si l'alliage est fondu, cela vaut mieux. Voici ce qu'ils disent : « Ce n'est pas au moyen d'une feuille ... »
+
+2\. De cette façon, s'ils parlent de griller, ils ne parlent pas d'une opération faite en dehors, mais pendant leur propre travail. Car ils soumettent au grillage les matières cuites, afin de prendre leur (principe) propre et tinctorial. Ils rejettent les matières cuites, et font évaporer les parties inutiles.* Ils donnent d'autres noms aux produits purifiés. Ainsi ils grillent par insufflation, de façon à isoler le principe propre et tinctorial. Voilà comment on brûle dans les cuissons, on expulse par insufflation toutes les matières étrangères, en gardant l'esprit utile et tinctorial.
+
+*) C'est-à-dire le soufre.
+
+3\. **Sur les poids des (substances) crues et cuites.**
+
+D'après ce que les écrits disent à cet égard, assurément le soufre doit être expulsé par insufflation. C'est là ce que Marie a voulu faire entendre en disant : « Tu trouveras 5 parties moins le quart, c'est-à-dire moins le soufre chassé par l'insufflation. Semblablement à la fin de son exposé, elle dit que le cuivre, dans son affinage à la fonte, diminue d'un tiers de son poids. Elle dit que ces changements s'accomplissent aussi lorsqu'on blanchit et qu'on jaunit ; car les (substances) sulfureuses teignent, mais se volatilisent. Nous nous débarrassons des substances sulfureuses par volatilisation. Il en est de même des plantes, lorsqu'elles sont entièrement dissoutes ; ainsi qu'il arrive lorsqu'on les fait cuire avec l'eau de soufre, rejetant la partie ligneuse.
+
+4\. Ce n'est pas sans motif que Agathodémon dit « et unifiées ; » mais afin que, pénétrant dans la profondeur du métal de l'argent, les matières tinctoriales puissent échapper à la destruction causée par le feu. Nous nous privons donc des teintures tirées de plantes, sachant que les métaux ne peuvent en emprunter les qualités, et recevoir ainsi à fond la teinture.
+
+Les qualités seules agissent ; car le corps ne peut pénétrer dans l'intérieur du corps. Aristote (dit)* : « les qualités triomphent les unes les autres. » D'après Agathodémon les métaux placés en haut prennent les substances volatiles : c'est ainsi qu'il emprunte l'esprit de la chrysocolle. Ce mot esprit signifie évidemment une substance volatile et les vapeurs sublimées sont du même ordre. Telles sont : la vapeur blanche, la vapeur du cinabre, et
+
+« un esprit plus noir, humide, pur.* »
+
+*) Cp. Aristote, _Physique_, 4, ch. 6, t. 2, p. 292, éd. Didot.
+
+*) La vapeur du soufre qui noircit les métaux ? Citation des Oracles d'Apollon, qui se trouve aussi ailleurs, 3, 19 ; 3. --- Sur ces oracles, v. Olympiodore, p. 94, note 5.
+
+Car toute vapeur sublimée est un esprit, et telles sont les qualités tinctoriales. Le divin Démocrite parle ainsi du blanchiment et Hermès de la fumée. Quand ces (vapeurs) leur étaient utiles, ils les admettaient dans les traitements, mais (en les désignant) par énigmes. C'est pour cela que c'est un mystère. (Ainsi il dit) : « J'ai écrit cela dans le chapitre : _Si tu es intelligent_. La vapeur du soufre natif, de l'arsenic, et la vapeur blanche de cinabre ... » Agathodémon dit aussi : « (la vapeur de) l'arsenic est l'âme de la matière dorée. Après qu'il a été débarrassé de sa partie épaisse et caustique, qu'il a abandonné son corps sulfureux, prends-en alors la partie colorante. »
+
+5\. La vapeur c'est l'esprit, l'esprit qui pénètre dans les corps. L'âme diffère de l'esprit. Il appelle âme la nature primitivement sulfureuse et caustique (de l'arsenic ? ). Sous l'influence purificatrice du feu on conserve l'esprit, si l'on travaille d'après les règles de l'art ; car il ne peut être détruit. Telle est la chose utile, l'élément tinctorial. Il faut à l'opérateur une intelligence subtile, afin qu'il reconnaisse l'esprit sorti du corps et qu'il en fasse emploi, et que surveillant son départ il atteigne le but, c'est-à-dire que le corps étant détruit, (il prenne garde que) l'esprit (ne) soit détruit en même temps. Or il n'a pas été détruit ; mais il a pénétré dans la profondeur du métal, lorsque l'opérateur a accompli son œuvre.
+
+6\. Ceux qui ne reconnaissent pas quand l'œuvre est à point, interprètent mal ; car ils ne voient pas autre chose que des matières qui n'ont pas repris leur corps (métallique), des matières brûlées ou incinérées. Tandis qu'ils ne jugent que la partie visible de ces choses, les infortunés, par une sorte de punition, laissent perdre tout et ils ne réussissent pas à éviter la réduction (du produit) en cendre.* Dans aucun passage des écrits, on ne mentionne d'autre support (à la teinture), sinon le cuivre seul. Ainsi Marie dit que le cuivre est traité et plus tard brûlé. C'est dans ce sens qu'il joue le rôle de support. Tel est (le rôle du) cuivre ou de l'argent, dans notre opération. Nous ne voulons pas en tirer la qualité, et leur corps, par sa mort, devient inutile. Les plantes aussi sont inutiles, car elles sont consumées par le feu.*
+
+*) Addition de M² B: « La qualité reste seulement avec le cuivre ; car le cuivre seul est fixé et joue le rôle de support. »
+
+*) Ceci paraît signifier que dans la transmutation le cuivre et l'argent ne conservent ni leur qualité, ou couleur propre, ni leur corps, qui est changé dans celui d'un autre métal. --- Quant aux plantes, si on les entend au sens propre comme les teintures végétales, celles-ci sont en effet détruites par le feu. Au sens figuré, les fleurs métalliques et certaines colorations correspondantes sont également évaporées ou détruites par le feu (v. p. 159, note 2).
+
+7\. Agathodémon dit : « La magnésie, l'antimoine et la litharge se volatilisent, après avoir perdu leur pureté. » Marie : « souffle, dit-elle, les vapeurs, jusqu'à ce que les produits sulfureux soient volatilisés avec l'ombre (qui obscurcit le métal), et que le cuivre prenne tout son éclat. » Ainsi notre cuivre reçoit d'eux la vapeur sublimée. Or la vapeur, c'est l'esprit du corps. L'âme diffère de l'esprit ...
+
+A partir de ces mots, la fin du § 7 et le § 8, dans M, sont la répétition des § 5, 6, 7 jusqu'à ces mots : « ainsi notre cuivre (reçoit) la vapeur sublimée. » Dans le texte grec, on a donné les variantes.
+
+9\. Démocrite a passé sous silence les poids (dans son premier livre). Il dit : « Il ne reste rien ; il n'y a plus rien à exposer, excepté la montée de la vapeur sublimée et de l'eau. Or voici ce qu'il disait au sujet des poids et du soufre, dans le livre suivant : « la liqueur blanche d'arsenic, une once, etc. Car il y a deux compositions des soufres ... (phrase inintelligible). Le cuivre sera trouvé constitué de telle manière, qu'il puisse unir sa nature (à un autre corps), et dominer avec lui et charmer conjointement. Ainsi la nature charme la nature. Car l'argent, s'unissant à tous les corps métalliques, ne les repousse pas. Quant au cuivre, il le subit volontiers, comme la jument accepte l'accouplement de l'âne, et la chienne celui du loup : ce que font tous les êtres naturels qui se ressemblent. Le cuivre se rouille et se réduit, sans quitter sa propre nature. » Démocrite, dans la classe de la magnésie, dit : « La magnésie blanchie ne laisse pas les corps métalliques se séparer, ni apparaître* dans l'ombre du cuivre. » Nous avons achevé le discours sur les poids. Bonne santé.
+
+*) En s'oxydant séparément.
+
+---
+
+#### 3\. --- 13. Sur la Diversité du Cuivre Brûlé.
+
+Beaucoup préparent le cuivre brûlé au moyen du soufre.* Les traités des autres auteurs le disent avec obscurité. Démocrite seul s'exprime avec une clarté généreuse : « Jetez sur le cuivre un quart de fer sulfuré, c'est-à-dire préparé en fondant avec la pierre magnétique, le quart ou la moitié de soufre ; coulez le produit avec le plomb provenant de l'antimoine et de la litharge. Ensuite faites brûler la composition obtenue avec la pyrite, le cuivre et le fer, afin qu'il se forme une scorie convenable. Projetez-y la vapeur sublimée de l'arsenic (sulfuré). Le métal est blanchi par la vapeur du soufre. »
+
+*) _Introd._, p. 233. --- Dioscoride, _Matière médicale_, V, 87.
+
+En parlant de la céruse cuite avec le soufre, il veut parler du soufre pur, comme propre à changer le molybdochalque en métal étésien. Lorsqu'il dit : « La magnésie blanchie produit le même effet ; » il veut parler du cinabre traité simultanément. Mais quelqu'un objectera : il a parlé d'abord de la magnésie et de la pyrite. Oui, afin que tu apprennes ceci qu'en même temps que le cuivre, on projette le fer et le plomb et les minerais, afin que le molybdochalque devienne du cuivre étésien (doré).
+
+---
+
+3\. --- 14. Sur ce Point qu'ils donnent le Nom d'Eau Divine a tous les Liquides et que c'est une (Substance) complexe et non pas simple.
+
+1\. « La vapeur décrite précédemment, tu la feras cuire dans l'huile. » La vapeur décrite précédemment, c'est la formule entière ; car elle paraît comprendre l'eau divine et l'huile. Ils disent qu'il faut opérer avec tous les liquides, voulant faire entendre (par là) la liquidité. En effet, par tous ces mots : la saumure vinaigrée, ensuite l'huile, puis le miel et le lait, il faut entendre l'eau divine. Le safran par lui-même est impuissant à teindre sans le concours de l'eau divine ; ceux qui veulent teindre s'en servent. Marie parle de « la dissolution du _comaris_ et de la chélidoine. » Démocrite (place) dans la dernière classe des liquides blancs « l'eau de chaux qui a coulé » à travers le filtre, ou à travers une chausse.
+
+Toutes les espèces sont traitées par macération, au moyen des liquides simples ; puis le produit est soumis au lavage. Ainsi sont lavés les corps (métalliques) solides. On les fait macérer, soit en les délayant, soit en les arrosant. Les produits délayés sont exposés au soleil et à la rosée, à la façon du soufre blanc ou de la litharge. On les fait macérer 1, ou 3, ou 5, ou 7 jours, jusqu'à désagrégation totale.
+
+2\. Ces (espèces) ayant été macérées, tu en feras des mélanges et tu soumettras ces mélanges délayés à la rosée et au soleil. Après les avoir desséchés et délayés, en les traitant par l'huile de natron, tu trouveras le plomb noir. Délaie-le, en reprenant avec le mercure, l'eau divine et la gomme ; fais cuire sur un feu léger jusqu'à ce que l'eau se soit séparée : tu délaies au soleil jusqu'à ce que la matière soit d'un beau blanc.
+
+3\. Ce travail est répété plusieurs fois par ceux qui lavent la scorie. D'après Pébichius : « Lave 2 fois 7, et 1 fois 8 plus 8, et encore plus. » Démocrite fait la même chose dans sa dernière classe, celle des liquides blancs : il lave de la même façon les feuilles (métalliques) oxydées, et il leur restitue leur éclat. Après avoir desséché, si le métal est devenu brillant, reprends la vapeur, traite les substances qui peuvent jaunir par l'eau divine et la gomme, et fixe (la teinture) sur un feu léger.* Lorsque tu auras opéré la fixation, retire la substance, et laisse égoutter sur le résidu de la préparation pendant 2, ou 3, ou 7, ou 41 jours. Si tu y projettes de l'argent commun, tu le teins (aussi). Cherchons ensuite le moment qui convient.
+
+*) C'est une opération de teinture en or, par vernis ou par coloration superficielle. --- V. _Introduction_, p. 56, 58 à 60.
+
+---
+
+#### 3\. --- 15. Sur cette Question doit-on en n'importe quel Moment entreprendre l'Œuvre ?
+
 1. Il est nécessaire que nous recherchions quels sont les moments oppor-
 tuns. Il a dit que l'esprit, soumis à l'action du soleil, doit être tiré des
 fleurs, et macéré depuis le matin ; alors par toute action convenable du feu,
