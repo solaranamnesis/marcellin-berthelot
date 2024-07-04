@@ -54,19 +54,19 @@
 
 #### [3. --- 8. Sur la même Eau Divine.](#3-----8-sur-la-même-eau-divine-1)
 
-#### [3. --- 9. Zosime de Panopolis --- Mémoires Authentiques sur l'Eau Divine.]()
+#### [3. --- 9. Zosime de Panopolis --- Mémoires Authentiques sur l'Eau Divine.](#3-----9-zosime-de-panopolis-----mémoires-authentiques-sur-leau-divine-1)
 
-#### [3. --- 10. Conseils et Recommandations pour ceux qui Pratiquent l'Art.]()
+#### [3. --- 10. Conseils et Recommandations pour ceux qui Pratiquent l'Art.](#3-----10-conseils-et-recommandations-pour-ceux-qui-pratiquent-lart-1)
 
-#### [3. --- 11. Zosime de Panopolis --- Écrit Authentique.]()
+#### [3. --- 11. Zosime de Panopolis --- Écrit Authentique.](#3-----11-zosime-de-panopolis-----écrit-authentique-1)
 
-#### [3. --- 12. Sur les Substances qui Servent de Support et sur les Quatre Corps Métalliques, d'après Démocrite.]()
+#### [3. --- 12. Sur les Substances qui Servent de Support et sur les Quatre Corps Métalliques, d'après Démocrite.](#3-----12-sur-les-substances-qui-servent-de-support-et-sur-les-quatre-corps-métalliques-daprès-démocrite-1)
 
-#### [3. --- 13. Sur la Diversité du Cuivre Brûlé.]()
+#### [3. --- 13. Sur la Diversité du Cuivre Brûlé.](#3-----13-sur-la-diversité-du-cuivre-brûlé-1)
 
-#### [3. --- 14. Sur ce Point qu'ils donnent le Nom d'Eau Divine a tous les Liquides et que c'est une (Substance) complexe et non pas simple.]()
+#### [3. --- 14. Sur ce Point qu'ils donnent le Nom d'Eau Divine a tous les Liquides et que c'est une (Substance) complexe et non pas simple.](#3-----14-sur-ce-point-quils-donnent-le-nom-deau-divine-a-tous-les-liquides-et-que-cest-une-substance-complexe-et-non-pas-simple-1)
 
-#### [3. --- 15. Sur cette Question doit-on en n'importe quel Moment entreprendre l'Œuvre ?]()
+#### [3. --- 15. Sur cette Question doit-on en n'importe quel Moment entreprendre l'Œuvre ?](#3-----15-sur-cette-question-doit-on-en-nimporte-quel-moment-entreprendre-lœuvre--1)
 
 ---
 
