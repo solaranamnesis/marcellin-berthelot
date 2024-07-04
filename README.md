@@ -18,7 +18,14 @@ English - PDF
 
 ## Collection des Anciens Alchimistes Grecs. Seconde Livraison.
 
-French - Plain Text  
-French - PDF | Biolinum | Atkinson | Cursive | Aurical  
+[French - Plain Text](collection-anciens-alchimistes-grecs/full-text-french-02.md)  
+French - PDF | Biolinum | Atkinson | Cursive | CustomDesign1 | CustomDesign2 | CustomPurplePaper | CustomPurplePaperZincWhite  
+English - Plain Text  
+English - PDF  
+
+# Collection des Anciens Alchimistes Grecs. Troisième Livraison.
+
+[French - Plain Text](collection-anciens-alchimistes-grecs/full-text-french-03.md)  
+French - PDF | Biolinum | Atkinson | Cursive | CustomDesign1 | CustomDesign2 | CustomPurplePaper | CustomPurplePaperZincWhite  
 English - Plain Text  
 English - PDF  
