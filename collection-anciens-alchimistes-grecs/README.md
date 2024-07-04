@@ -12,7 +12,7 @@ English - PDF
 > Reul, C., Christ, D., Hartelt, A., Balbach, N., Wehner, M., Springmann, U., Wick, C., Grundig, Büttner, A., C., Puppe, F.: *OCR4all — An open-source tool providing a (semi-) automatic OCR workflow for historical printings* Applied Sciences **9**(22) (2019)
 
 [French - Plain Text](full-text-french-02.md)  
-French - PDF | Biolinum | Atkinson | Cursive | Aurical  
+French - PDF | Biolinum | Atkinson | Cursive | CustomDesign1 | CustomDesign2 | CustomPurplePaper | CustomPurplePaperZincWhite   
 English - Plain Text  
 English - PDF  
 
@@ -21,7 +21,7 @@ English - PDF
 > Reul, C., Christ, D., Hartelt, A., Balbach, N., Wehner, M., Springmann, U., Wick, C., Grundig, Büttner, A., C., Puppe, F.: *OCR4all — An open-source tool providing a (semi-) automatic OCR workflow for historical printings* Applied Sciences **9**(22) (2019)
 
 [French - Plain Text](full-text-french-03.md)  
-French - PDF | Biolinum | Atkinson | Cursive | Aurical  
+French - PDF | Biolinum | Atkinson | Cursive | CustomDesign1 | CustomDesign2 | CustomPurplePaper | CustomPurplePaperZincWhite  
 English - Plain Text  
 English - PDF  
 
