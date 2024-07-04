@@ -6247,97 +6247,34 @@ Toutes les espèces sont traitées par macération, au moyen des liquides simple
 
 #### 3\. --- 15. Sur cette Question doit-on en n'importe quel Moment entreprendre l'Œuvre ?
 
-1. Il est nécessaire que nous recherchions quels sont les moments oppor-
-tuns. Il a dit que l'esprit, soumis à l'action du soleil, doit être tiré des
-fleurs, et macéré depuis le matin ; alors par toute action convenable du feu,
-l'or devient bon pour l'usage. α Car c'est l'œuvre du soleil, dit le grand Her-
-mès, c'estce quiest produit par lui ». Ecoute Hermès disant que l'amollisse-
-ment des substances destinées à être ramollies se fait à froid. Il s'est expliqué
-nettement sur ce point à la fin de son écrit sur le blanchiment du plomb.
-Là aussi il parle de l'or. « Voila comment opère celui qui prépare le Tout ».
-C'est là aussi qu'il s'est expliqué sur ce que l'on doit filtrer le Tout par
-n'importe quel filtre. Cela n'a pas échappé à Agathodémon, et il parle de
-lavage du minerai et de sa purification, (qui a lieu) lorsque le Tout
-délayé et liquéfié traverse le filtre ou la chausse. Hermès dit : « Elle
-devient comme une lessive innocente (?) ». S'il se formé un dépôt, c'est la
-preuve que les substances et les minerais ne sont pas suffisamment pul-
-vérisés.
-2. Hermès s'est expliqué fortement sur ces choses en parlant des cribles,
-(1) C'est une opération de teinture | superficielle. --- V. Introduction, p. 56,
-en Or, par vernis ou par colrrtin |
-58 à 6o.
+1\. Il est nécessaire que nous recherchions quels sont les moments opportuns. Il a dit que l'esprit, soumis à l'action du soleil, doit être tiré des fleurs, et macéré depuis le matin ; alors par toute action convenable du feu, l'or devient bon pour l'usage. « Car c'est l'œuvre du soleil, dit le grand Hermès, c'est ce qui est produit par lui. » Écoute Hermès disant que l'amollissement des substances destinées à être ramollies se fait à froid. Il s'est expliqué nettement sur ce point à la fin de son écrit sur le blanchiment du plomb. Là aussi il parle de l'or. « Voilà comment opère celui qui prépare le Tout. » C'est là aussi qu'il s'est expliqué sur ce que l'on doit filtrer le Tout par n'importe quel filtre. Cela n'a pas échappé à Agathodémon, et il parle de lavage du minerai et de sa purification, (qui a lieu) lorsque le Tout délayé et liquéfié traverse le filtre ou la chausse. Hermès dit : « Elle devient comme une lessive innocente ( ? ). » S'il se forme un dépôt, c'est la preuve que les substances et les minerais ne sont pas suffisamment pulvérisés.
 
+2\. Hermès s'est expliqué fortement sur ces choses en parlant des cribles, et disant : « Si les eaux se meuvent en tous sens, le crible lui-même semble s'écouler. » Elles doivent descendre ensemble, suivant le grand Hermès ; puis elles remontent aussitôt dans l'appareil destiné à en opérer la cuisson. Nous avons exposé ces choses dans notre discours, sauf en ce qui traite du moment opportun. Le moment opportun, c'est celui de l'été, alors que le soleil a une nature (favorable) pour l'opération.
 
-### 0205
+Marie s'en occupe, en décrivant les traitements du petit objet* : « L'eau divine sera perdue pour ceux qui ne comprennent pas ce qui a été écrit, à savoir que le produit (utile) est renvoyé vers le haut par le matras et le tube. Mais on a coutume de désigner par cette eau la vapeur du soufre et des arsenics sulfurés. A cause de cela tu m'as raillée, parce que dans un seul et même discours je t'ai exposé un si grand mystère. »
 
-157
-CHOIX DU MOMENT FAVORABLE
-et disant : α Si les eaux se meuvent en tous sens, le crible lui-même
-semble s'écouler ». Elles doivent descendre ensemble, suivant le grand
-Hermès ; puis elles remontent aussitot dans l'appareil destiné à en opérer la
-cuisson. Nous avons exposé ces choses dans notre discours, sauf en ce qui
-traite du moment opportun. Le moment opportun, c'est celui de l'été, alors .
-que le soleil a une nature (favorable) pour l'opération.
-Marie s'en occupe, en décrivant les traitements du petit objet (1) : u L'eau
-divine sera perdue pour ceux qui ne comprennent pas ce qui a été écrit, à
-savoir que le produit (utile) est renvoyé vers le haut par le matras et le tube.
-Mais on a coutume de désigner par cette eau la vapeur du soufre et des
-arsenics sulfurés. A cause de cela tu m'as raillée, parce que dans un seul
-et même discours je t'ai exposé un si grand mystère ».
-3. Cette eau divine, blanchie par des matières blanchissantes, fait
-blanchir. Si elle est jaunie par des matières jaunissantes, elle fait jaunir. Si
-elle est noircie au moyen de la couperose et la noix de galle, elle fait noircir
-et réalise le noircissement de l'argent et celui de notre molybdochalque.
-Je t'ai parlé précédemment de ce molybdochalque, à l'occasion de notre
-argent traditionnel. Ainsi l'eau noircie, s'attachant à notre molybdochalque,
-lui donne une teinture noire fixe ; et bien que cette teinture ne soit rien,
-tous les initiés désirent vivement la connaitre. Or l'eau capable de prendre
-une telle couleur, produit une teinture fixe, l'huile et le miel étant éliminés.
-4. Le Philosophe dit aussi qu'une petite quantité de soufre natif suffit pour
-bruler beaucoup d'espèces et qu'il amollit les pierres et les métaux. Dans
-cette eau se dissout la composition sulfurée, comme il le dit en parlant de
-lAndrodamas. « Si tu mets du soufre apyre, tu produis une liqueur
-d'or (2). Pour la faire agir sur la composition des substances, on délaie la
-composition des matières sulfureuses ». De la même façon, on la fait bouillir
-ou cuire. « Comprends bien, dit-il, que si tu mets du soufre apyre, tu
-produis une liqueur d'or. Au moyen d'un feu de sciure de bois, sur la kéro-
-takis, distille l'eau divine, jusqu'à ce qu'elle contienne (la couleur) d'or. Tu
-feras cuire en agitant légèrement, et en ajoutant les motaria (3) de la sanda-
-(1) Cp. III, κx1, 7.
-sion dans un linge de la sandaraque
-décomposée. v. OvγopoE, p. 112
-(2) Page 48. 5 10.
-(3) Cest-a-dire le résidu de l'expres- | et 108.
+*) Cp. 3, 21, 7.
 
+3\. Cette eau divine, blanchie par des matières blanchissantes, fait blanchir. Si elle est jaunie par des matières jaunissantes, elle fait jaunir. Si elle est noircie au moyen de la couperose et la noix de galle, elle fait noircir et réalise le noircissement de l'argent et celui de notre molybdochalque. Je t'ai parlé précédemment de ce molybdochalque, à l'occasion de notre argent traditionnel. Ainsi l'eau noircie, s'attachant à notre molybdochalque, lui donne une teinture noire fixe ; et bien que cette teinture ne soit rien, tous les initiés désirent vivement la connaître. Or l'eau capable de prendre une telle couleur, produit une teinture fixe, l'huile et le miel étant éliminés.
 
-### 0206
+4\. Le Philosophe dit aussi qu'une petite quantité de soufre natif suffit pour brûler beaucoup d'espèces et qu'il amollit les pierres et les métaux. Dans cette eau se dissout la composition sulfurée, comme il le dit en parlant de l'Androdamas. « Si tu mets du soufre apyre, tu produis une liqueur d'or.* Pour la faire agir sur la composition des substances, on délaie la composition des matières sulfureuses. » De la même façon, on la fait bouillir ou cuire. « Comprends bien, dit-il, que si tu mets du soufre apyre, tu produis une liqueur d'or. Au moyen d'un feu de sciure de bois, sur la kérotakis, distille l'eau divine, jusqu'à ce qu'elle contienne (la couleur) d'or. Tu feras cuire en agitant légèrement, et en ajoutant les _motaria_* de la sandaraque faune. [Or ils ont dit les _motaria_, parce que (la composition) est épaisse comme du sang]. Fais cuire le produit fortement pendant 2 ou 3 jours, et après avoir pressé, verse le résidu de la préparation dans chaque vase : et il se forme de l'ios. Pébichius a dit aussi sur cette question : « Partagez la préparation en deux parties, et mettez-en une moitié dans un vase de terre cuite et l'autre moitié sur le cuivre ; » voulant faire entendre ceci en un seul (mot) : la cuisson, par (le vase) de terre cuite, et l'iosis, par le cuivre. Or il a parlé précédemment du blanchiment, en disant que le cuivre est brûlé dans du bois de laurier ; c'est-à-dire le soufre natif (avec le cuivre) en présence des feuilles de laurier.* Tu peux connaître par là le mérite des anciens, combien clairement ils ont expliqué toutes choses. En paraissant cacher toutes choses, ils ont dit clairement : « D'abord, sur des flammes légères, afin que l'eau de soufre soit absorbée en même temps. » Au sujet de ces flammes, Marie disait : « les flammes progressivement ; » puis : « le feu graduellement ; » afin de faire comprendre qu'il faut opérer suivant une progression convenable, à partir (de l'instant) de la flamme.
 
-158
-ZOSIME
-raque jaune. [Or ils ont dit les motaria, parce que (la composition) est épaisse
-comme du sang]. Fais cuire le produit fortement pendant 2 ou 3 jours, et
-après avoir pressé, verse le résidu de la préparation dans chaque vase : et il
-se forme de l'ios. Pébichius a dit aussi sur cette question : α Partagez la pré-
-e paration en deux parties, et mettez-en une moitié dans un vase de terre cuite et
-l'autre moitié sur le cuivre ; » voulant faire entendre ceci en un seul (mot) :
-la cuisson, par (le vase) de terre cuite, et l'iosis, par le cuivre. Or il a parlé
-précédemment du blanchiment, en disant que le cuivre est brulé dans
-du bois de laurier ; c'est-à-dire le soufre natif (avec le cuivre) en présence
-des feuilles de laurier (1). Tu peux connaitre par là le mérite des anciens,
-combien clairement ils ont expliqué toutes choses. En paraissant cacher
-toutes choses, ils ont dit clairement : « D'abord, sur des flammes légères,
-afin que l'eau de soufre soit absorbée en même temps ». Au sujet de ces
-flammes, Marie disait : α les flammes progressivement » ; puis : « le feu
-graduellement » ; afin de faire comprendre qu'il faut opérer suivant une pro-
-gression convenable, à partir (de l'instant) de la flamme.
-Le moment opportun est celui de l'été. La pourpre aussi exige une époque
-particulière pour les dissolutions et les refroidissements. De même, la
-gomme en larmes, pour s'écouler spontanément, veut la nature propre de
-l'été. 'ai pourtant entendu dire à quelques-uns que notre opération se fait
-en toute circonstance, et j'hésite à le croire (2).
-III. XVI. --- SR LΕXΡΟΕ DΕA
-)Ε LVRB
-OISΟURS A PIILARk
+*) Page 48, § 10.
+
+*) C'est-à-dire le résidu de l'expression dans un linge de la sandaraque décomposée. v. Olympiodore, p. 112 et 108.
+
+*) Voir la note 2, page suivante.
+
+Le moment opportun est celui de l'été. La pourpre aussi exige une époque particulière pour les dissolutions et les refroidissements. De même, la gomme en larmes, pour s'écouler spontanément, veut la nature propre de l'été. J'ai pourtant entendu dire à quelques-uns que notre opération se fait en toute circonstance, et j'hésite à le croire.*
+
+*) A la fin de cet article, le ms. A. renvoi à un autre qui se trouve plus loin : 3, 29, § 21.
+
+---
+
+#### 3\. --- 16. Sur l'Exposé détaillé de l'Œuvre discours a Philarète.*
+
+*) Ce morceau renferme des extraits plus ou moins étendus, tirés de Démocrite, et entremêlés de commentaires.
+
 1. Voici dans quels termes Démocrite expose ces choses aux prophètes
 égyptiens : α e t'écris, ô Philarete, pour t'exposer tout au long la puissance
 (1) Voir la note 2, page suivante.
