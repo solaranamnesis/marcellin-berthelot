@@ -68,6 +68,8 @@
 
 #### [3. --- 15. Sur cette Question doit-on en n'importe quel Moment entreprendre l'Œuvre ?](#3-----15-sur-cette-question-doit-on-en-nimporte-quel-moment-entreprendre-lœuvre--1)
 
+#### [3. --- 16. Sur l'Exposé détaillé de l'Œuvre discours a Philarète.]()
+
 ---
 
 # Texte Grec.
