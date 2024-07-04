@@ -54,6 +54,20 @@
 
 #### [3. --- 8. Sur la même Eau Divine.](#3-----8-sur-la-même-eau-divine-1)
 
+#### [3. --- 9. Zosime de Panopolis --- Mémoires Authentiques sur l'Eau Divine.]()
+
+#### [3. --- 10. Conseils et Recommandations pour ceux qui Pratiquent l'Art.]()
+
+#### [3. --- 11. Zosime de Panopolis --- Écrit Authentique.]()
+
+#### [3. --- 12. Sur les Substances qui Servent de Support et sur les Quatre Corps Métalliques, d'après Démocrite.]()
+
+#### [3. --- 13. Sur la Diversité du Cuivre Brûlé.]()
+
+#### [3. --- 14. Sur ce Point qu'ils donnent le Nom d'Eau Divine a tous les Liquides et que c'est une (Substance) complexe et non pas simple.]()
+
+#### [3. --- 15. Sur cette Question doit-on en n'importe quel Moment entreprendre l'Œuvre ?]()
+
 ---
 
 # Texte Grec.
@@ -6217,7 +6231,7 @@ En parlant de la céruse cuite avec le soufre, il veut parler du soufre pur, com
 
 ---
 
-3\. --- 14. Sur ce Point qu'ils donnent le Nom d'Eau Divine a tous les Liquides et que c'est une (Substance) complexe et non pas simple.
+#### 3\. --- 14. Sur ce Point qu'ils donnent le Nom d'Eau Divine a tous les Liquides et que c'est une (Substance) complexe et non pas simple.
 
 1\. « La vapeur décrite précédemment, tu la feras cuire dans l'huile. » La vapeur décrite précédemment, c'est la formule entière ; car elle paraît comprendre l'eau divine et l'huile. Ils disent qu'il faut opérer avec tous les liquides, voulant faire entendre (par là) la liquidité. En effet, par tous ces mots : la saumure vinaigrée, ensuite l'huile, puis le miel et le lait, il faut entendre l'eau divine. Le safran par lui-même est impuissant à teindre sans le concours de l'eau divine ; ceux qui veulent teindre s'en servent. Marie parle de « la dissolution du _comaris_ et de la chélidoine. » Démocrite (place) dans la dernière classe des liquides blancs « l'eau de chaux qui a coulé » à travers le filtre, ou à travers une chausse.
 
