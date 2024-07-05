@@ -6277,598 +6277,198 @@ Le moment opportun est celui de l'été. La pourpre aussi exige une époque part
 
 *) Ce morceau renferme des extraits plus ou moins étendus, tirés de Démocrite, et entremêlés de commentaires.
 
-1. Voici dans quels termes Démocrite expose ces choses aux prophètes
-égyptiens : α e t'écris, ô Philarete, pour t'exposer tout au long la puissance
-(1) Voir la note 2, page suivante.
-(3) Ce morceau renferme des extraits
-(2) A la fin de cet article, le ms. A. plus ou moins étendus, tirés de Démo-
-renvoie à un autre qui se trouve plus crite, et entremèlés de commentaires.
-loin : III, xxιx. K 21.
-)
+1\. Voici dans quels termes Démocrite expose ces choses aux prophètes égyptiens : « Je t'écris, ô Philarète, pour t'exposer tout au long la puissance de l'art. Voici le catalogue des espèces : le mercure, tiré du cinabre, l'antimoine de Coptos, de Chalcédoine, d'Italie, la litharge, la céruse, le plomb, l'étain, le fer, le cuivre, la chrysocolle, le claudianon, la cadmie, la pyrite, l'androdamas, le soufre, la sandaraque, l'arsenic, le cinabre. »
 
+2\. « Les espèces suivantes sont employées pour l'or et l'argent ; car, blanchies, elles blanchissent, et jaunies, elles jaunissent. Celles qui blanchissent sont les suivantes : la terre de Chio, l'astérite, la terre de Samos, la terre de Cimole et l'aphrosélinon. »
 
-### 0207
+3\. « Les (espèces) qui se délaient sont celles-ci : le soufre natif, le sel de Cappadoce, les sels de toutes sortes, la fleur de sel, le calcaire, qui a été appelé aussi le suc laiteux du mûrier, (ou) du figuier,* l'alun en lamelles, le misy, le chalcanthon, les feuilles de pêcher, les feuilles de laurier.* »
 
-EXPOSE DETAILLE DE L'UVRE
-129
-de l'art. Voici le catalogue des espèces : le mercure, tiré du cinabre,
-l'antimoine de Coptos, de Chalcédoine, d'Italie, la litharge, la céruse, le
-plomb, l'étain, le fer, le cuivre, la chrysocolle, le claudianon, la cadmie,
-la pyrite, l'androdamas, le soufre, la sandaraque, l'arsenic, le cinabre. »
-2. « Les espèces suivantes sont employées pour l'or et l'argent; car,
-blanchies, elles blanchissent, et jaunies, elles jaunissent. Celles qui blan-
-chissent sont les suivantes : la terre de Chio, l'astérite, la terre de Samos, la
-terre de Cimole et l'aphrosélinon. n
-3. α Les (espèces) qui se délaient sont celles-ci : le soufre natif, le sel de
-Cappadoce, les sels de toutes sortes, la fleur de sel, le calcaire, qui a été appelé
-aussi le suc laiteux du mûrier, (ou) du figuier (1), l'alun en lamelles, le misy,
-le chalcanthon, les feuilles de pêcher, les feuilles de laurier (2). »
-4. « Voici les (espèces) employées pour jaunir : la terre pontique, celle
-qui est brulée, la terre attique, celle qui fournit le bleu mâle et le bleu
-femelle, commun aux deux teintures (3); et parmi les plantes, le ricin et la
-fleur de carthame, la chélidoine et l'ochumenon (basilic) (4) ; et, parmi les
-sucs, la gomme (5) ». Il disait au sujet de la gomme : « les sucs sont aussi
-employés pour la composition blanche ».
-5. Mettez en évidence les produits qui doivent être délayés plus tard, en
-vue de l'opération de l'iosis, et traitez (les) conformément à l'opinion
-d'après laquelle les corps qui n'ont pas de substance propre agissent con-
-venablement sans feu (6).
-Quelques-uns veulent employer au 2e et au 3e rang dans l'opération de
-l'iosis, les plantes, telles que la fleur de l'anagallis et la rhubarbe, et les
-(espèces) semblables ; quelques-uns emploient le safran et la racine de
-(1) Noms symboliques.
-logue aux couleurs végétales et aux
-(2) Ce sont les noms symboliques de | fleurs des plantes. V. p. 71, note 4,
-quelques substances minérales, analo- | p. 8o ; p. 108, note 6; p. 123, note 6 ;
-gues aux noms donnés plus haut au cal- | p. 153, note 2; v. aussi p. 84, note 5, etc.
-(3) Théophraste parle de ces deux
-caire et tirés de la nomenclature pro- |
-phétique (Introd., p. 10). De semblables | bleus (Introd., p. 245). Le bleu mâle
-substances minérales sont parfois dési- | parait être une couleur de cobalt ; le
-gnées dans d'autres endroits du texte | bleu femelle, une couleur de cuivre.
-sous le nom de plantes ; probablement
-(4) V. Leique, p. 8, note 1.
-parce que l'on en tirait des matières | (5) Lexique, p. 10
-colorantes, ou fleurs, d'apparence ana- (6) V. l'article suivant, II,, vvI, p. 167.
+*) Noms symboliques.
 
+*) Ce sont les noms symboliques de quelques substances minérales, analogues aux noms donnés plus haut au calcaire et tirés de la nomenclature prophétique (_Introd._, p. 10). De semblables substances minérales sont parfois désignées dans d'autres endroits du texte sous le nom de _plantes_ ; probablement parce que l'on en tirait des matières colorantes, ou _fleurs_, d'apparence analogue aux couleurs végétales et aux fleurs des plantes. V. p. 71, note 4, p. 80 ; p. 108, note 6 ; p. 123, note 6 ; p. 153, note 2 ; v. aussi p. 84, note 5, etc.
 
-### 0208
+4\. « Voici les (espèces) employées pour jaunir : la terre pontique, celle qui est brûlée, la terre attique, celle qui fournit le bleu mâle et le bleu femelle, commun aux deux teintures* ; et parmi les plantes, le ricin et la fleur de carthame, la chélidoine et l'ochumenon (basilic)* ; et, parmi les sucs, la gomme.* » Il disait au sujet de la gomme : « les sucs sont aussi employés pour la composition blanche. »
 
-160
-ZOSIME
-mandragore, celle qui porte de petits tubercules. 'ajouterai que sans elle
-rien n'est teint, et que toutes (les espèces) sont délayées en même temps
-qu'elle avec la gomme, dans l'opération de l'iosis. Mais tous ont rappelé
-qu'il ne faut pas détruire le ferment dans cette liqueur ; et il en est de même
-pour le corps qui doit être teint.
-6. Si tu dois teindre en argent, (il faut) faire macérer en même temps une
-feuille d'argent ; pour teindre en or, c'est une feuille d'or. Car le blé engendre
-le blé, et le lion (engendre) le lion, et l'or (engendre) l'or (1). Projette, dit-il,
-de l'argent commun, et tu teindras. Car une seule liqueur est désignée pour
-les deux (teintures).
-Voici à présent ce qui regarde la teinture de la préparation (2). L'eau
-divine préparée suivant la vraie formule, celle qui est bien fabriquée, teint
-les préparations ; et lorsque la préparation est teinte, alors elle-même teint à
-son tour. C'est pour cela que les ferments, les ferments préparatoires, les
-ferments acides, les ferments d'or et analogues sont tenus cachés. [Or
-en toutes choses tout est découvert par les gens intelligents.]
-7. Parlons des quatre corps qui résistent au feu, des (corps) qui servent de
-support (à la teinture). c'est-à-dire de la composition ultérieure. Après l'avoir
-composée, nous en prenons une partie, en y ajoutant de l'eaudivine, jusqu'à
-ce que se produise la couleur ei le ton du corps correspondant (3), selon
-Marie. Quand on a obtenu la composition ultérieure, les quatre corps qui
-servent de support, non-seulement on projette sur eux la composition du
-ferment d'or, mais aussi la composition de l'eau de soufre. On doit faire
-la projection sur les (corps) que voici : le fer, ou l'étain, ou le plomb,
-ou le cuivre, etc. Tous ces corps subissent la projection. Ecoute ce qu'il
-dit dans le chapitre des deux compositions : « Si tu projettes sur du fer.
-(il s'affine) ; si tu projettes, sur du cuivre, il s'affine d'abord ; si c'est sur
-du plomb, il perd sa fluidité ; si tu opères d'abord sur l'étain, il devient
-rigide. Projette ainsi, dit-il, et pour que tu ne te trompes pas, blanchis
-d'abord ».
-(1) V. la lettre d'Isis, p. 33. --- Ov- la liqueur destinée à la teinture des
-PIODoRE, p. 96.
-| métaux ; on lui communique d'ahord à
-(2) άρμακον : c'est ce que les alchi- | elle-même une teinture convenable.
-nistes latins appellent medicina. C'est (3) L'or ou l'argent.
+*) Théophraste parle de ces deux bleus (_Introd._, p. 245). Le bleu mâle paraît être une couleur de cobalt ; le bleu femelle, une couleur de cuivre.
 
+*) V. _Lexique_, p. 8, note 1.
 
-### 0209
+*) _Lexique_, p. 10.
 
-EXPOsE DETAILLE DE LEUVRE
-161
-8. Discourons maintenant sur l'affinage (1) du cuivre. Les espèces emplo-
-yées comprennent les feuilles de pêcher et de laurier (2), ainsi que les terres
-blanches, (les sucs) de murier et de figuier (3), le suc de tithymale, le natron
-roux, le sel de Cappadoce et les (substances) semblables. Dans cette liqueur,
-dit-il, dépose les écailles du cuivre (4), pendant 15 jours et tu le trou-
-veras affiné, c'est-à-dire blanchi. Telle est la composition de la liqueur
-du soufre blanc.
-Voici ce que le Philosophe a exposé dans la dernière classe des liqueurs :
-α Certes le soufre blanc blanchit le cuivre. Mais s'il s'agit du soufre jaune,
-le cuivre est traité par la couperose et le sori ; puis, après l'avoir jauni,
-on met ce cuivre, en même temps que le soufre, dans du vinaigre, etc.,
-afin qu'il devienne ios. » Il dit en effet, que la couperose produit la
-couleur d'or. Si la couperose est délayée avec le soufre, la pyrite et le
-sori, et le soufre jaune ajouté à ce mélange jaune ; et si on le laisse
-déposer (sur le métal, afin qu'il le ronge), le soufre produit ainsi le
-jaune (5).
-9. Qu'est-ce donc que l'affinage, ou le jaunissement? L'affinage et le jau-
-nissement different entre eux seulement par la couleur : c'est-à-dire que
-l'affinage par le soufre (est) un blanchiment; tandis que l'opération de l'iosis
-est un jaunissement. Voyons ce qu'il dit encore : « Si tu veux amollir le fer,
-prépare des écailles (6) menues de fer ; dispose une couche de terre
-de Samos; puis étends une seconde couche d'alun lamelleux. Tu obtiendras
-un métal mou et blanc. » Or, les espèces de cette nature appartiennent au
-(genre du) soufre blanc. Hermès, parlant du ramollissement, disait ensuite :
-« Et il sera blanchi ». C'est pour cette raison que le Philosophe disait :
-(1) Les mots affinage, affiné, sont
-(2) Voir la note 2 de la p. 159
-empoyés ici, faute de mieux, pour tra-
-(3 Le calcaire, d'après le texte de
-duire le mot grec ἐξίωσις. En réalité il la p. 159, 3 3.
-s'agit de la transformation du métal
-(4) Introd., p. 233.
-préalablement changé en ios (oxyde,
-(5) La fin de cette recette confuse
-sulfure, sel basique) ; et qui est régénéré semble répondre à l'affinage de l'or par
-avec une couleur nouvelle, provenant un mélange complexe, analogue au
-de la formation d'un alliage, au moins. cément royal (Introd., p. 14 et 15).
-superficiel, tel qu'un arséniure ou un
-(6) Fer oxydé des batitures Introd.,
-p. 252).
-amalgame.
-21
+5\. Mettez en évidence les produits qui doivent être délayés plus tard, en vue de l'opération de l'iosis, et traitez (les) conformément à l'opinion d'après laquelle les corps qui n'ont pas de substance propre agissent convenablement sans feu.*
 
+*) V. l'article suivant, 3, 17, p. 167.
 
-### 0210
+Quelques-uns veulent employer au 2e et au 3e rang dans l'opération de l'iosis, les plantes, telles que la fleur de l'anagallis et la rhubarbe, et les (espèces) semblables ; quelques-uns emploient, le safran et la racine de mandragore, celle qui porte de petits tubercules. J'ajouterai que sans elle rien n'est teint, et que toutes (les espèces) sont délayées en même temps qu'elle avec la gomme, dans l'opération de l'iosis. Mais tous ont rappelé qu'il ne faut pas détruire le ferment dans cette liqueur ; et il en est de même pour le corps qui doit être teint.
 
-162
-ZOSIME
-α Mets en outre la moitié de la préparation blanche, c'est-à-dire du soufre
-blanc » (1).
-10. Cherchons maintenant ce que c'est que la rigidité. Le Philosophe (dit):
-α Prends du plomb blanc qui a perdu sa fusibilité, grâce à la terre de Chio
-et à l'alun. Ces espèces appartiennent (au genre) du soufre blanc. Or le
-soufre blanc, une fois blanchi, fait blanchir ». Démocrite (dit en-
-core) : α Lorsque tu auras affiné, amolli, donné de la rigidité et oté la flui-
-dité, ou bien lorsque tu auras blanchi ». Le blanchiment (s'obtient) par le
-soufre blanc. Vois le Philosophe, pris d'un transport divin au sujet de ce
-soufre blanc : α Sl la préparation devient semblable au marbre, il y a là un
-grand mystère ; car elle blanchit le cuivre, c'est-à-dire elle l'affine ; elle
-amollit le fer ; elle ote à létain sa flexibilité, au plomb sa fluidité; elle rend
-les substances solides et les teintures fixes.
-Ces teintures, (ce sont) les espèces, depuis le mercure (2), jusqu'à la chryso-
-colle, celles qu'on appelle la fleur d'or. Quelques-uns ont parlé à bon
-droit de ce soufre, au sujet de toutes (ces choses). En effet, Stephanus (3),
-lorsqu'il disait : α les substances solides », parlait des quatre corps. Dautres
-disaient : α c'est l'eau divine, (c'est) le grand mystère entre tous, ce qui
-devient semblable au marbre, ce qui blanchit toute substance, ce qui blan-
-chit le corps du molybdochalque (4), c'est la fumée des cobathia (5). C'est là
-ce qui rend les teintures fixes, ce qui maintient solides les substances ».
-Or, si tu veux parler (de rendre) les substances solides, ce n'est pas pour
-que les substances amenées à une mollesse oléagineuse se crevassent,
-mais afin d'éviter la déperdition des (matières) qui ont coutume de dispa-
-raitre par l'action du feu, depuis la vapeur sublimée jusqu'à la chryso-
-colle; attendu qu'il s'agit d'obtenir des teintures. Ecoute-le parler à ce
-sujet : « l faut mettre, en outre, du fer, ou du cuivre, ou de l'étain, ou du
-(1) Le mot soufre blanc a dans tout | (2) D'après M. --- ABKELb, l'argent.
-ce passage un sens particulier. Il parait | (3) Ce passage est dû à un commenta-
-s'agir des compositions arsénicales et | teur de date plus récente.
-sulfurées, destinése à produire soit un | (4) De la magnésie, B.
-(5) Lexique, p. 10. --- OxpopoE,
-laiton tournant au blanc, soit un arsé-
-niure métallique complexe, analogueau | p. 91, note 4. --- Introd. p. 245 ---
-tombac ; peut-être même tout alliage | En marge de M, on ajoute : l'eau du
-1 soufre apyre.
-métallique blanc. dur et riide.
+6\. Si tu dois teindre en argent, (il faut) faire macérer en même temps une feuille d'argent ; pour teindre en or, c'est une feuille d'or. Car le blé engendre le blé, et le lion (engendre) le lion, et l'or (engendre) l'or.* Projette, dit-il, de l'argent commun, et tu teindras. Car une seule liqueur est désignée pour les deux (teintures).
 
+*) V. la _lettre d'Isis_, p. 33. --- Olympiodore, p. 96.
 
-### 0211
+Voici à présent ce qui regarde la teinture de la préparation.* L'eau divine préparée suivant la vraie formule, celle qui est bien fabriquée, teint les préparations ; et lorsque la préparation est teinte, alors elle-même teint à son tour. C'est pour cela que les ferments, les ferments préparatoires, les ferments acides, les ferments dor et analogues sont tenus cachés. [Or en toutes choses tout est découvert par les gens intelligents.]
 
-EXPosE DAILLE DE L'EUVRE
-163
-plomb ». Voilà ce qu'il nomme des teintures : les quatre corps, lesquels
-une fois teints, teignent (a leur tour). Or ce qui teint les teintures et les
-choses teintes, (c'est) l'eau divine, le grand mystère, ce qui est semblable
-au marbre ; ce qui rend toutes choses aptes à l'opération, ce qui brule le
-cuivre et le blanchit, ce qui fixe le mercure, ce qui affine, voilà le grand
-mystère de l'art tout entier. En effet, l'eau jaune est un mystère manifeste.
-11. Mets donc un peu de gomme et tu teindras toute sorte de corps.
-C'est là ce qui agit dans la calcination, le blanchiment, le jaunissement,
-la fixation du mercure, l'iosis. Lorsqu'il parle des substances solides, en
-traitant de la destruction des substances, il parle (de la perte) des espèces
-volatiles. Or ce soufre blanc est récapitulé dans les deux compositions ;
-car il dit : « Si c'est sur le fer, il amollit d'abord, etc. ». C'est-a-dire
-blanchis d'abord toutes choses, comme il a été expliqué, lorsque tu auras
-affiné et ramolli, rendu rigide et non fluide ; blanchis le Tout, les quatre
-corps qui servent de support. Tel est le début en suivant une marche uni-
-que, celle du blanchiment. Or le blanchiment (s'obtient) au moyen du soufre
-blanc. Le poids des soufres blancs se trouve dans la dernière classe, celle
-des liqueurs blanches, savoir : arsenic doré 1 once, (autant de) natron et
-matières semblables, pellicules des feuilles de pêcher et de laurier 1 once,
-(autant de) suc de murier, sel, etc. Il faut mêler ensemble ces matières, sui-
-vant la proportion des pesées. Le mercure va, dans les deux compositions,
-s'emparer de toutes (les matières), c'est-a-dire les ramollir; jy reviendrai à
-propos du cinabre (1). Mais pour que cette amalgamation ait lieu, il ne faut
-pas délayer les deux compositions avec des blancs d'œufs, de l'eau de gomme
-blanche. Car dans ces (compositions), le mercure (2) a pour effet d'attaquer
-tout, de s'emparer de tout, de tout amollir. Ie me suis expliqué là-dessus
-dans (le chapitre des) molbdocalques.
-12. Quelques-uns ont adouci l'eau divine, en la rendant plus épaisse, et
-nt repris les compositions avec le mercure. En effet, la composition
-(1) Lc. : Au lieu du cinabre, « de l'ar- |
-(2) Au lieu du mercure, ABK : α l'ar-
-gent ». --- Signe de l'argent coucé | gentν. Dans Lb l'argent est à l'accusatif,
-ABKE. V. Introd., p. 120, Pl. vn, | c'est-à-dire que c'est lui qui est atta-
-l. 22. Le sens de ce symbole particulier | qué. Le mot mercure pourrait désigner
-ici notre arsenic (Introd., p. 239).
-est incertain
-est incertain.
+*) Φάρμακον : c'est ce que les alchimistes latins appellent _medicina_. C'est la liqueur destinée à la teinture des métaux ; on lui communique d'abord à elle-même une teinture convenable.
 
+7\. Parlons des quatre corps qui résistent au feu, des (corps) qui servent de support (à la teinture), c'est-à-dire de la composition ultérieure. Après l'avoir composée, nous en prenons une partie, en y ajoutant de l'eau divine, jusqu'à ce que se produise la couleur et le ton du corps correspondant,* selon Marie. Quand on a obtenu la composition ultérieure, les quatre corps qui servent de support, non-seulement on projette sur eux la composition du ferment d'or, mais aussi la composition de l'eau de soufre. On doit faire la projection sur les (corps) que voici : le fer, ou l'étain, ou le plomb, ou le cuivre, etc. Tous ces corps subissent la projection. Écoute ce qu'il dit dans le chapitre _des deux compositions_ : « Si tu projettes sur du fer, (il s'affine) ; si tu projettes, sur du cuivre, il s'affine d'abord ; si c'est sur du plomb, il perd sa fluidité ; si tu opères d'abord sur l'étain, il devient rigide. Projette ainsi, dit-il, et pour que tu ne te trompes pas, blanchis d'abord. »
 
-### 0212
+*) L'or ou l'argent.
 
-164
-ZOSIME
-blanche contient les œufs et la gomme. D'autres mettaient le Tout dans un
-grand vase de verre (1), luté tout autour, et ils faisaient chauffer sur un feu
-faible ; ils y plaçaient de l'eau divine, et cuisaient comme (on fait pour) la
-pourpre. Il faut procéder dans la transformation comme on le fait avec
-le produit tiré de la mer, lorsque ce produit est changé en pourpre véri-
-table. Par suite, le Philosophe (dit) : « La céruse a une puissance différente
-en raison de lhelcysma (2), selon qu'il s'agit de celle qui sert à la teinture
-en or, c'est-à-dire en pourpre, ou bien de celle qui sert à la teinture en
-blanc, c'est-à-dire en argent». La même composition délayée possède plusieurs
-sortes d'actions. α Toutes les substances (métalliques), dit-il, proviennent
-de la seule nature du plomb; le cuivre ajouté, tu le sais, forme toute la com-
-position (3) ». Voilacomment il a désigné la mutation parl'helcysma, dans ses
-démonstrations: Après avoir fait chauffer l'eau divine ». Par ce mot α faire
-chauffer , ils ont désignéla production (de la) couleur. Ils ne se sontpas bornés
-à unir le mercure (4); mais, en outre, ils ont blanchi et jauni la composition,
-faisant chauffer sur un feu doux et ne laissant pas la fumée se dissiper par l'ins-
-trument. Car c'est en elle que réside l'esprit tinctorial. On fait cuire jusqu'à
-ce que la couleur soit répandue (dans toute la masse) ; les uns pendant neuf
-heures, d'autres pendant deux jours (5). Cela fait, on recouvre l'instrument
-avec une coupe et on le place sur une érotais, ou dans un matras, au-
-dessus du fourneau ; on chauffe le fourneau, à partir de ce moment, pendant
-un jour (6), d'autres pendant deux. On regarde à travers la coupe ce que
-devient la céruse, puis on enleve le produit.
-13. Quelques-uns fabriquent du jaune (7) ; ils font un trou au milieu (du
-vase). A la partie inférieure on ne trouve que des scories, (la vapeur) s'étant
-séparée à la partie supérieure ; car dans (la composition) à deux couleurs, la
-scorie se rencontre avec le plomb. Après avoir détaché la scorie, on obtient le
-(1) Troullos. mot à mot, truelle. C'est | (4) Lb ajoute: « Au soufre ν.
-(5) B : Un jour et une nuit. --- Lb :
-quelque instrument inconnu.
-(2)Πelcsma,scorie d'argent (Introd., 12 heures.
-p. 266). Il y a un jeu de mots fondé sur (6) A : Un jour et une nuit.
-(7) Ou bien : a préparent du plomb, ν
-le double sens de ce mot, qui signifie
-à la fois : écume tirée des métaux et pro- | suivant la variante adoptée pour le
-Texte grec, p. 165. l. 8.
-duit (coquillage) tiré de la mer.
-(3) Molybdochalaue
+8\. Discourons maintenant sur l'affinage* du cuivre. Les espèces employées comprennent les feuilles de pêcher et de laurier,* ainsi que les terres blanches, (les sucs) de mûrier et de figuier,* le suc de tithymale, le natron roux, le sel de Cappadoce et les (substances) semblables. Dans cette liqueur, dit-il, dépose les écailles du cuivre,* pendant 15 jours et tu le trouveras affiné, c'est-à-dire blanchi. Telle est la composition de la liqueur du soufre blanc.
 
+*) Les mots affinage, affiné, sont employés ici, faute de mieux, pour traduire le mot grec ἐξίωσις. En réalité il s'agit de la transformation du métal préalablement changé en _ios_ (oxyde, sulfure, sel basique) ; et qui est régénéré avec une couleur nouvelle, provenant de la formation d'un alliage, au moins superficiel, tel qu'un arséniure ou un amalgame.
 
-### 0213
+*) Voir la note 2 de la p. 159.
 
-EXPOsE DETAILLE DE L'UUVRE
-105
-corps métallique. On pulvérise cette pierre et on l'expose au soleil, jusqu'à ce
-qu'elle soit blanchie. On prend la moitié du poids du produit, on y ajoute du
-mercure et du soufre comme complément, ainsi que de la gomme blanche.
-On fixe sur de la cendre chaude pendant un jour entier, jusqu'à ce que l'eau
-divine soit complètement desséchée. On ajoute donc de l'eau divine. Lors-
-que toute cette eau a été consommée, on la renouvelle, et l'on fait chauffer
-les matras pendant une heure, (sur un feu) indirect : on obtient ainsi lacéruse.
-La substance encore bouillante est transportée sur du soufre apyre, et sur
-de l'eau de soufre, pour l'autre moitié du poids : on laisse déposer pendant
-(deux) jours, jusqu'a ce que l'ios soit produit.
-14. Quelques-uns enfouissent le vase dans le crottin de cheval, pendant le
-même nombre de jours. On y met du cuivre, en ajoutant après la teinture
-du fer blanchi (1), si l'on veut fabriquer de l'argent. Si c'est de l'or, on délaie
-de nouveau avec le produit moitié de son poids de mercure et moitié de
-soufre (j'entends du soufre jaune), ainsi que de l'eau de soufre natif et de la
-gomme. On fxe en chauffant par en dessous et l'on commence par faire
-cuire, pendant deux jours et deux nuits. Après avoir enlevé bouillant, on
-met de l'eau divine sur le résidu du soufre, et l'on fait chauffer pendant
-deux jours. Quand le produit est cuit à point, on ajoute de l'argent commun.
-15. La préparation du blanc est celle-ci : soufre, arsenic, sandaraque,
-cinabre, en quantités égales, macérés d'avance ; sel de Cappadoce, autant ;
-fleur de sel, alun, lie de vin cuite, calcaire cuit, aphroselinon, misy cru et
-cuit, natron et sel, mêlés à parties égales avec de l'eau de mer. On expose au
-soleil pendant un nombre convenable de jours, jusqu'à ce que la teinture
-devienne capable de résister au feu. Ensuite on délaie ces matières avec de
-l'eau divine, de façon à rendre la couleur stable à chaud. Ie veux parler de
-l'eau blanche, (obtenue) au moyen de la chaux délayée. Après avoir rendu la
-couleur stable, tu la mélanges, à raison d'une mine pour une demi-mine,
-et la quantité suffisante d'eau divine.
-16. L'eau de soufre obtenue au moyen de la chaux se fabrique de la
-nanière suivante : Après avoir mélangé toutes les eaux du catalogue, par
-ortions égales, ajoute des terres blanches jusqu'à ce que (le mélange)
-(1) Voir III, xι1, p. 154.
+*) Le calcaire, d'après le texte de la p. 159, § 3.
 
+*) _Introd._, p. 233.
 
-### 0214
+Voici ce que le Philosophe a exposé dans la dernière classe des liqueurs : « Certes le soufre blanc blanchit le cuivre. Mais s'il s'agit du soufre jaune, le cuivre est traité par la couperose et le sori ; puis, après l'avoir jauni, on met ce cuivre, en même temps que le soufre, dans du vinaigre, etc., afin qu'il devienne _ios_. » Il dit en effet, que la couperose produit la couleur d'or. Si la couperose est délayée avec le soufre, la pyrite et le son, et le soufre jaune ajouté à ce mélange jaune ; et si on le laisse déposer (sur le métal, afin qu'il le ronge), le soufre produit ainsi le jaune.*
 
-166
-ZOSME
-devienne très blanc. Mets dans une marmite, installe l'appareil avec du feu
-dessous et reçois ce qui distille. Emploie ce produit pour le délaiement du
-soufre et la cuisson de la composition.
-17. Le soufre jaune se prépare comme il suit : soufre, arsenic, sanda-
-raque, cinabre, sori, couperose, chalcite, misy, alun, natron, sel, bleu d'Ar-
-ménie ; tout cela macéré d'avance. Délaie avec du vinaigre, en exposant au
-soleil pendant un nombre convenable de jours. De ce soufre tu projettes
-une demi-mine, pour une mine (de matière).
-18. L'eau du soufre pur se prépare comme il suit : les eaux du cata-
-logue, par portions égales ; terre pontique, terre attique, bleu d'Arménie ;
-on ajoute des plantes, c'est-à-dire du safran et de la chélidoine, en quantité
-double. Mets dans une marmite, et, après avoir joint les diverses parties de
-l'appareil, prends l'eau qui en sort (l'eau de soufre), destinée aux produits
-qui résistent au feu. Arrose la composition avec de la gomme, du mercure
-et de l'eau de soufre, comme je l'ai dit précédemment, le tout par moitié.
-Après avoir fixé sur un bain de cendres chaudes, jusqu'àceque toute l'eau soit
-partie, fais cuire pendant 2 jours, jusqu'à ce que le produit soit devenu
-extrêmement jaune. Enlève le produit encore bouillant, mets-y le résidu
-de la préparation, et laisse déposer pendant un nombre convenable de
-jours, jusqu'à ce que le produit soit changé en ios. Après avoir desséché
-et pulvérisé, on conserve. C'est ce produit que l'on mêle avec l'argent
-commun pour teindre. Quelques-uns après avoir opéré l'iosis, enfouissent
-dans le crottin de cheval.
-19. Il a été établi que toutes les espèces (sont) communes aux liqueurs :
-si ce n'est que les matières blanchies font blanchir, et les matières jaunies
-font jaunir. Il faut savoir qu'après avoir accompli l'œuvre on doit mêler
-avec la composition. Quant à savoir ce qui teint le mieux, c'est un soufre
-dont tout le monde a parlé. Agathodémon, notamment, disait : α Prends
-du soufre, tantot blanc, tantot jaune, tantôt noir, tantot enfin blanc fixe, et
-tantot jaune fixe ». I a donc montré, comme on l'a dit, que toutes les
-espèces (sont) communes aux liqueurs ; si ce n'est que blanchies, elles
-font blanchir, et que jaunies, elles font jaunir
+*) La fin de cette recette confuse semble répondre à l'affinage de l'or par un mélange complexe, analogue au cément royal (_Introd._, p. 14 et 15).
 
+9\. Qu'est-ce donc que l'affinage, ou le jaunissement ? L'affinage et le jaunissement diffèrent entre eux seulement par la couleur : c'est-à-dire que l'affinage par le soufre (est) un blanchiment ; tandis que l'opération de l'iosis est un jaunissement. Voyons ce qu'il dit encore : « Si tu veux amollir le fer, prépare des écailles* menues de fer ; dispose une couche de terre de Samos ; puis étends une seconde couche d'alun lamelleux. Tu obtiendras un métal mou et blanc. » Or, les espèces de cette nature appartiennent au (genre du) soufre blanc. Hermès, parlant du ramollissement, disait ensuite : « Et il sera blanchi. » C'est pour cette raison que le Philosophe disait : « Mets en outre la moitié de la préparation blanche, c'est-à-dire du soufre blanc.* »
 
-### 0215
+*) Fer oxydé des batitures (_Introd._, p. 252).
 
-SUBSTANCES ET NON-SUBSTANCES
-III. XII. --- SUR ΟΕΤΙ ΟΤ .
-167
-'SSr-E ΟUE LA SUBSAACE SUIVVA LA,, E ΟESTEE ΟE
-LA ΟΝΟSBSΤAΝΟE2
-1. Démocrite a nommé substances les quatre corps métalliques ; il enten-
-dait par là le cuivre, le fer, l'étain et le plomb. Tout le monde les emploie
-dans les deux teintures (d'or et d'argent), et toutes les substances subissent
-les deux teintures. Toutes les substances ont été reconnues par les gyp-
-tiens comme produites par le plomb seul ; car c'est du plomb que provien-
-nent les trois autres corps (1). Il a donc nommé substances les matières
-résistant au feu, et les matières qui n'y résistent pas : non-substances. En
-effet, les non-substances agissent d'une facon convenable, indépendamment
-du feu. Il disait qu'elles sont engendrées par l'action des appareils et de la
-combustion ; tandis que le vrai résidu de la préparation, préparé sans l'ac-
-tion du feu, produit une teinture stable en blanc ou en jaune. L'emploi de
-la préparation fugace obtenue par la flamme détruit le jaunissement du
-molybdochalque défectueux, attendu qu'il le fait disparaitre. Sur ce point il
-ne faut pas se tromper. Vois comme il s'exprime à cet égard : α Amène à
-consistance visqueuse ; enduis avec la moitié de la préparation destinée à la
-cuisson et teins avec le reste, de façon que la couleur soit fixée sans le con-
-cours du feu ».
-2. On appelle non-substances les matières sulfureuses ne résistant pas au
-feu. Mais l'emploi des liquides convenables leur communique la propriété
-de résister au feu et d'y demeurer stables : car l'eau combat l'action du
-feu. C'est pour cela qu'il dit : α La nature, acquérant en propre la qualité con-
-traire, devient solide et fixe, dominante et dominée ». Ainsi elle acquierten
-propre la qualité sulfureuse, celle qui donne son nom à l'eau de soufre
-natif. Pourquoi parle-t-il aussi du contraire ? C'est que l'eau est le con-
-(1) On voit que les Egyptiens regar- | sophes et par ce qu'ils y faisaient résider
-daient le plomh comme le métal fonda- | la qualité métallique par excellence
-mental ; sans doute en vertu d'une idée | (voir, p. 102, note 2; p. 103, note 4, et
-analogue à celle du mercure des philo- | Introd., p. 58).
+*) Le mot _soufre blanc_ a dans tout ce passage un sens particulier. Il paraît s'agir des compositions arsénicales et sulfurées, destinées à produire soit un laiton tournant au blanc, soit un arséniure métallique complexe, analogue au tombac ; peut-être même tout alliage métallique blanc, dur et rigide.
 
+10\. Cherchons maintenant ce que c'est que la rigidité. Le Philosophe (dit) : « Prends du plomb blanc qui a perdu sa fusibilité, grâce à la terre de Chio et à l'alun. Ces espèces appartiennent (au genre) du soufre blanc. Or le soufre blanc, une fois blanchi, fait blanchir. » Démocrite (dit encore) : « Lorsque tu auras affiné, amolli, donné de la rigidité et ôté la fluidité, ou bien lorsque tu auras blanchi. » Le blanchiment (s'obtient) par le soufre blanc. Vois le Philosophe, pris d'un transport divin au sujet de ce soufre blanc : « Si la préparation devient semblable au marbre, il y a là un grand mystère ; car elle blanchit le cuivre, c'est-à-dire elle l'affine ; elle amollit le fer ; elle ôte à l'étain sa flexibilité, au plomb sa fluidité ; elle rend les substances solides et les teintures fixes.
 
-### 0216
+Ces teintures, (ce sont) les espèces, depuis le mercure,* jusqu'à la chrysocolle, celles qu'on appelle la fleur d'or. Quelques-uns ont parlé à bon droit de ce soufre, au sujet de toutes (des choses). En effet, Stephanus,* lorsqu'il disait : « les substances solides, » parlait des quatre corps. D'autres disaient : « c'est l'eau divine, (c'est) le grand mystère entre tous, ce qui devient semblable au marbre, ce qui blanchit toute substance, ce qui blanchit le corps du molybdochalque,* c'est la fumée des cobathia.* C'est là ce qui rend les teintures fixes, ce qui maintient solides les substances. » Or, si tu veux parler (de rendre) les substances solides, ce n'est pas pour que les substances amenées à une mollesse oléagineuse se crevassent, mais afin d'éviter la déperdition des (matières) qui ont coutume de disparaître par l'action du feu, depuis la vapeur sublimée jusqu'à la chrysocolle ; attendu qu'il s'agit d'obtenir des teintures. Écoute-le parler à ce sujet : « Il faut mettre, en outre, du fer, ou du cuivre, ou de l'étain, ou du plomb. » Voilà ce qu'il nomme des teintures : les quatre corps, lesquels une fois teints, teignent (à leur tour). Or ce qui teint les teintures et les choses teintes, (c'est) l'eau divine, le grand mystère, ce qui est semblable au marbre ; ce qui rend toutes choses aptes à l'opération, ce qui brûle le cuivre et le blanchit, ce qui fixe le mercure, ce qui affine, voilà le grand mystère de l'art tout entier. En effet, l'eau jaune est un mystère manifeste.
 
-168
-ZOSIME
-traire du feu. Sa qualité liquide empêche que les matières soumises au feu
-ne s'évaporent et ne se volatilisent. Elles sont comme ensevelies dans l'hu-
-midité et retenues jusqu'à ce qu'elles se teignent. L'eau retient parce
-qu'elle est liquide. C'est pour cela qu'il dit : α La nature acquéranten propre
-la qualité contraire », etc. On a expliqué comment au moyen des liquides
-on obtient des produits qui résistent au feu ; or, les liquides, c'est l'eau
-divine.
-III. XvI. --- SU Ε ΟEΕ L'AΤ A PALΙ
-DE TΟUS LES CΟRΡS
-EN TRAIAΝT 'UΝE TΕΙΝTURE UNIUE
-1. D'après le catalogue, on sait que Hermès et Démocrite ont parlé som-
-mairement d'une teinture unique, et les autres y ont fait allusion. C'est ainsi
-que Africanus dit : aα Ce que l'on emploie pour la teinture, ce sont les
-métaux, les liquides, les terres et les plantes ν. Chymès l'a déclaré avec
-vérité : α Un est le Tout, et c'ést par lui que le Tout a pris naissance. Un
-est le Tout, et si le Tout ne contenait pas tout, le Tout n'aurait pas pris nais-
-sance (1). I faut donc que tu projettes le Tout, afin de fabriquer le Tout ».
-Pébichius : « Par le moyen des quatre corps ». Marie : « Par le moyen de la
-feuille de la kérotais ». Agathodémon : α Après l'affinage du cuivre, (son) atté-
-nuation et (son) noircissement, et ensuite son blanchiment, alors aura lieu
-un jaunissement solide ». Toutes les autres (matières) sont expliquées sem-
-blablement chez eux.
-2. Lorsque Marie parle de cette question, elle dit : α Il existe un grand
-nombre de corps métalliques, depuis le plomb jusqu'au cuivre ». Lorsqu'elle
-parle des diplosis, elle dit : Il y a, en effet, deux sortes de matières emplo-
-yées, tantot l'alliage de cuivre et d'argent, tantot l'alliage d'or et d'argent ; le
-molybdochalque et tous les autres y sont compris » (2). Quant à la purifica-
-(1) Voir Introd., p. 132, 135, 136, les (2) Itrod., p. 56, 6o, 64.
-axiomes de la Chrysopée de Cléopâtre. |
+*) D'après M. --- ABKELb, l'argent.
 
+*) Ce passage est dû à un commentateur de date plus récente.
 
-### 0217
+*) De la magnésie, B.
 
-LES QUATRE CORPS ALIMENTS DES TEINTUREs 169
-tion de l'argent, ou à son noircissement, j'en ai parlé précédemment. Comme
-quoi une seule teinture s'applique à toutes (les matières), Marie seule le
-dit et le proclame en ces termes : « Si je parle du cuivre, ou du plomb, ou
-du fer, j'entends par là (leur) ios. »
-II. XX. --- LΕS ΟUAR ΟRΡS
-IENT DES TΕITURES
-1. Voici comment : Marie dit que le cuivre est teint d'abord, et qu'alors
-il teint. Leur cuivre, ce sont les quatre corps. Voici les teintures : (elles
-comprennent) les espèces solides et liquides du catalogue, ainsi que les
-plantes : les solides, depuis la vapeur sublimée jusqu à la chrysocolle. Quant
-à toutes les (especes liquides du catalogue, en réalité, il s'agit de l'eau
-divine.
-2. Ainsi, de même que nous sommes nourris au moyen des matières
-solides et liquides (réunies), et que nous sommes colorés seulement par
-leur qualité propre, de même se comporte leur cuivre ; et de même que nous
-ne sommes pas nourris au moyen de solides seuls, ou de liquides (seuls),
-de même aussi le cui vre ne l'est pas davantage. En effet, lorsque nous n'avons
-reçu (comme aliment) que de la matière solide, nous sommes enflammés,
-brulés, empoisonnés ; de même aussi leur cuivre. Par contre, si nous n'avons
-pris que des boissons, nous sommes enivrés, nous avons la tête lourde, nous
-avons les joues colorées, et nous vomissons ; (de même) aussi le cuivre. Lors-
-qu'il a pris la couleur de 'or. par l'action de l'eau divine, il est alourdi et
-rejette, et aussitot après (sa teinte) devient fugace. Mais lorsque nous avons
-pris en bonne proportion une nourriture composée des deux ordres de
-matière. solides et liquides, nous sommes alimentés raisonnablement ; nos
-joues se colorent raisonnablement et la faculté nutritive répartit la nourri-
-ture dans l'estomac, en raison de sa faculté de la retenir. De même aussi le
-cuivre, recevant les solides d'un coté à titre d'aliment, se nourrit d'autre
-part de l'eau divine unie à la gomme, à titre de vin ; il se colore, en raison
-22
+*) _Lexique_, p. 10. --- Olympiodore, p. 91, note 4. --- _Introd._ p. 245 --- En marge de M, on ajoute : l'eau du soufre apyre.
 
+11\. Mets donc un peu de gomme et tu teindras toute sorte de corps. C'est là ce qui agit dans la calcination, le blanchiment, le jaunissement, la fixation du mercure, l'iosis. Lorsqu'il parle des substances solides, en traitant de la destruction des substances, il parle (de la perte) des espèces volatiles. Or ce soufre blanc est récapitulé dans les deux compositions ; car il dit : « Si c'est sur le fer, il amollit d'abord, etc. » C'est-à-dire blanchis d'abord toutes choses, comme il a été expliqué, lorsque tu auras affiné et ramolli, rendu rigide et non fluide ; blanchis le Tout, les quatre corps qui servent de support. Tel est le début en suivant une marche unique, celle du blanchiment. Or le blanchiment (s'obtient) au moyen du soufre blanc. Le poids des soufres blancs se trouve dans la dernière classe, celle des liqueurs blanches, savoir : arsenic doré 1 once, (autant de) natron et matières semblables, pellicules des feuilles de pêcher et de laurier 1 once, (autant de) suc de mûrier, sel, etc. Il faut mêler ensemble ces matières, suivant la proportion des pesées. Le mercure va, dans les deux compositions, s'emparer de toutes (les matières), c'est-à-dire les ramollir ; j'y reviendrai à propos du cinabre.* Mais pour que cette amalgamation ait lieu, il ne faut pas délayer les deux compositions avec des blancs d'œufs, de l'eau de gomme blanche. Car dans ces (compositions), le mercure* a pour effet d'attaquer tout, de s'emparer de tout, de tout amollir. Je me suis expliqué là-dessus dans (le chapitre des) _molybdochalques_.
 
-### 0218
+*) Lc. : Au lieu du cinabre, « de l'argent. » --- Signe de l'argent _couché_ ABKE. V. _Introd._, p. 120, Pl. 8, l. 22. Le sens de ce symbole particulier est incertain.
 
-17
-ZOSIME
-de la faculté de retenir qui réside en lui. C'est ainsi que dans (l'ouvrage)
-précité, elle a dit : α Les sulfureux sont dominés et retenus par les sulfu-
-reux ». De là cette vérité : α La nature charme, vainc et domine la nature ».
-3. α De même, dit-elle, que l'homme est composé des quatre éléments; de
-même aussi le cuivre ; et de même que l'homme résulte (de l'association) des
-liquides, des solides et de l'esprit; de même aussi le cuivre. Or Apollon,
-dans ses oracles, dit que l'esprit est la vapeur :
-Et un esprit plus noir
-4. Marie a parlé convenablement de la vapeur (en disant) : « Le cuivre
-e teint pas, mais il est teint; et lorsqu'il a été teint, alors il teint; lorsqu'il
-a été nourri, il nourrit: lorsqu il a été complété. il complète » Bonne εant
-III. Xx. --- IL AU ΕΜΡLΟVRR 'AIN R
-DISCΟUS CΟΤRaDICΤIIE (2)
-1. Tu sais que : Un est le Tout et que du Tout nait le Tout. Or il faut
-savoir, comme nous l'avons démontré dans nos commentaires précédents,
-que les philosophes désignent sous le nom unique d'un corps tous ses déri-
-vés ; principalement lorsqu'ils parlent du cuivre et du corps de la magnésie.
-Non seulement la vapeur sublimée rend le cuivre sans ombre ; mais encore
-le cuivre admet toutes les espèces, de même que le corps de la magnésie se
-fixe avec toutes. En effet il dit : α Fixe le mercure avec le corps de la magné-
-sie (3). Chercherons-nous donc à retenir la vapeur sur le Tout, afin de le
-(1) Mème citation, page 12.
-contact avec divers métaux, et finale-
-(2) Le sous-titre vient probablement | ment l'emploi du sulfure d'arsenic (dé-
-de ce que cet article est tiré d'une dis- | signé par le nom d'alun rond) pour
-cussion contradictoire. Cet article apour | teindre le cuivre et les alliages qui en
-but d'expliquer le blanchiment des mé- | dérivent, à la façon du mercure.
-(3) DocRirE, Questions naturellcs
-taux par le mercure ; la préparation de
-celui-ci au moyen du cinabre mis en | et mystérieuses, p. 4.
+*) Au lieu du mercure, ABK : « l'argent. » Dans Lb l'argent est à l'accusatif, c'est-à-dire que c'est lui qui est attaqué. Le mot mercure pourrait désigner ici notre arsenic (_Introd._, p. 239).
 
+12\. Quelques-uns ont adouci l'eau divine, en la rendant plus épaisse, et ont repris les compositions avec le mercure. En effet, la composition blanche contient les œufs et la gomme. D'autres mettaient le Tout dans un grand vase de verre,* luté tout autour, et ils faisaient chauffer sur un feu faible ; ils y plaçaient de l'eau divine, et cuisaient comme (on fait pour) la pourpre. Il faut procéder dans la transformation comme on le fait avec le produit tiré de la mer, lorsque ce produit est changé en pourpre véritable. Par suite, le Philosophe (dit) : « La céruse a une puissance différente en raison de l'helcysma,* selon qu'il s'agit de celle qui sert à la teinture en or, c'est-à-dire en pourpre, ou bien de celle qui sert à la teinture en blanc, c'est-à-dire en argent. » La même composition délayée possède plusieurs sortes d'actions. « Toutes les substances (métalliques), dit-il, proviennent de la seule nature du plomb ; le cuivre ajouté, tu le sais, forme toute la composition.* » Voilà comment il a désigné la mutation par l'helcysma, dans ses démonstrations : « Après avoir fait chauffer l'eau divine. » Par ce mot « faire chauffer, » ils ont désigné la production (de la) couleur. Ils ne se sont pas bornés à unir le mercure* ; mais, en outre, ils ont blanchi et jauni la composition, faisant chauffer sur un feu doux et ne laissant pas la fumée se dissiper par l'instrument. Car c'est en elle que réside l'esprit tinctorial. On fait cuire jusqu'à ce que la couleur soit répandue (dans toute la masse) ; les uns pendant neuf heures, d'autres pendant deux jours.* Cela fait, on recouvre l'instrument avec une coupe et on le place sur une kérotakis, ou dans un matras, au-dessus du fourneau ; on chauffe le fourneau, à partir de ce moment, pendant un jour,* d'autres pendant deux. On regarde à travers la coupe ce que devient la céruse, puis on enlève le produit.
 
-### 0219
+*) _Troullos_, mot à mot, truelle. C'est quelque instrument inconnu.
 
-L ALUN ROND
-171
-fixer de cette manière? Tous les écrits (disent) passim : σ Après avoir retenu la
-vapeur ». Or nous avons appris par l'expérience que s'il n'y a pas d'or,
-d'argent, d'étain, de plomb, la vapeur ne s'absorbe pas : que ferions-nous
-donc des pierres et du fer (1)?
-2. Parmi les écrits, les uns disent : Il faut réduire le tout en bouillie et faire
-absorber l'eau de gomme : d'autres mettent en avant la vapeur (sublimée).
-Quant à moi je trouve préférable de broyer avec le cinabre. On sait que la
-cuisson de cette matière produit le mercure. C'est de cette façon qu'on le
-prépare. En effet, les espèces traitées au soleil, au moyen de l'eau ou du vinai-
-gre, engendrent la vapeur (sublimée). Cela, nous le savons par expérience.
-Tous les écrits et (notamment) Chymès et Marie parlent d'un mortier de
-plomb et d'un pilon de plomb (2). On y délaie la chaux et le cinabre, avec le
-vinaigre, au soleil, jusqu'à ce que le mercure se développe. On produit
-le même efet avec l'étain. Les (espèces) chauffées, ou calcinées, ou fixées,
-ou teintes, sont susceptibles de fournir le mercure, si l'opération est faite sui-
-vant les préceptes de l'art. Quelle que soit celle de ces matières que l'on tra-
-vaille, si elle est du cinabre en puissance, elle fournit de la vapeur et celle-
-ci s'échappe, le mélange étant délayé avec toutes sortes de corps.
-3. On dira peut-être qu'il est préférable de broyer (le mercure) préala-
-blement fixé et changé en ios ; attendu que les écrits ne parlent pas d'une
-simple fixation. Mais, suivant tous, la vapeur blanche. projetée sur notre
-cuivre, en fait de l'argent sans ombre. De même Stephanus, en présence de
-toutes les espèces, imagine qu'il s'agit d'une simple (fixation) par toutes les
-espèces. Mais, si l'on n'emploie qu'une simple fixation, sache tous que l'on
-ne fait rien par là. En effet, la vapeur s'évapore pendant la fixation dans le
-feu et, l'esprit tinctorial étant perdu, on n'obtient rien ; tandis que si le cina-
-bre est cuit avec les espèces, l'esprit n'est pas perdu. Cet esprit, c'est-a-dire
-la vapeur chauffée par le feu et poussée à la volatilisation, est retenu par
-les corps congéneres qui y sont unis, notamment par l'étain (3).
-(1) Ces matières n'absorbent pas le | avec du vinaigre dans des mortiers de
-cuivre, avec des pilons de cuivre: . N.
-mercure.
-(2) Pour broyer le cinabre et réduire XXXIII, 41.
-le mercure. Dans Pline, on produit | (3) Lb porte, au lieu de l'étain : Her-
-cette réduction, en broyant le cinabre | mès; le signe étant le mème à l'origine
+*) _Helcysma_, scorie d'argent (_Introd._, p. 266). Il y a un jeu de mots fondé sur le double sens de ce mot, qui signifie à la fois : écume tirée des métaux et produit (coquillage) tiré de la mer.
 
+*) Molybdochalque.
 
-### 0220
+*) Lb ajoute : « Au soufre. »
 
-172
-ZOSIME
-4. D'apres certain auteur, on doit se servir de l'alun rond (1), au lieu de la
-vapeur (du mercure). Marie s exprime conformément à cette opinion, lors-
-qu'elle dit : α L'infusion des teintures a lieu dans des fioles vertes : soumises
-à un feu graduellement croissant. Le fourneau en forme de four a des
-mamelons, à sa partie supérieure. Si tu ne peux réussir, emploie le double
-d'alun rond, couleur de cinabre (2) ; ce qui vaut mieux pour atteindre le
-même résultat. Avec d'autres pâtes on réussit aussi. En effet la vapeur
-sublimée se fixe seulement sur les quatre corps: quelques-uns disent qu'elle
-est absorbée par les autres corps, avec le concours de la chrysocolle. Pour
-ma part, je sais bien que la chrysocolle seule ne la retient pas ; (mais) les
-corps métalliques morts et délayés conservent tous la vapeur » (3.
-5. Il a été dit par Agathodémon que la chrysocolle et la vapeur sont amies
-l'une de l'autre ; (la chrysocolle) la retient ; l'une agit comme la limaille (4). ..
-l'autre, même broyée, n'a pas l'adhésion du cinabre (5). L'une et l'autre,
-étant délayées ensemble a l'état sec, s'amalgament. Mais la vapeur en puis-
-sance agit sur le cuivre en puissance (6) et ils s'unissent ainsi.
-6. Il faut chercher comment la vapeur est absorbée par toutes choses, non
-seulement par les corps métalliques à l'état vivant et délayé, mais encore a
-l'état brulé. En fait, elle est absorbée par les métaux, surtout ceux qui
-tirent leur origine du cuivre (7). Si tu ne réussis pas, mets le double de
-cinabre. On réussit ainsi avec tout ; c'est là ce que le Philosophe veut expri-
-mer en disant : « ll te faut comprendre toutes choses et d'abord ne pas te
-(Introd. Pl. I, l. 7; p. 104). --- Ce pas- | ramener simultanément à l'état mé-
-sage signifie que le sulfure de mercure, | tallique par des agents réducteurs ().
-étant réduit par un métal, ce métal fixe |
-l4) Des métaux qui s'unissent au mer-
-en mème temps le mercure, si l'on cure.
-opère par digestion prolongée ; tandis |
-(5) C'est-a-dire que l'emploi de l'arse-
-qu'une action brusque met à nu le mer- nic sublimé ne blanchit pas les métaux
-aussi facilement que celui du cinabre.
-cure, qui s'évapore.
-(1) C'est-à-dire employer le sulfure | (6) C'est-a-dire qu'au lieu d'employer
-d'arsenic. ou son dérivé (c'est ici | le cuivre libre et le principe colorant
-l'acide arsénieux, synonyme de l'alun ; | et volatil tiré de l'arsenic a l'état libre,
-v. p. 82, note 6), au lieu du cinabre ou | il faut opérer sur des composés suscep-
-| tibles de les engendrer.
-du mercure.
-(2) Réulgar (Introd., p. 238 et 244, |
-(7) C'est-a-dire par les alliages à base
-article Cinabre).
-| de cuivre, ou supposés tels.
-(3) Sans doute à la condition de les
+*) B : Un jour et une nuit. --- Lb : 12 heures.
 
+*) A : Un jour et une nuit.
 
-### 0221
+13\. Quelques-uns fabriquent du jaune* ; ils font un trou au milieu (du vase). A la partie inférieure on ne trouve que des scories, (la vapeur) s'étant séparée à la partie supérieure ; car dans (la composition) à deux couleurs, la scorie se rencontre avec le plomb. Après avoir détaché la scorie, on obtient le corps métallique. On pulvérise cette pierre et on l'expose au soleil, jusqu'à ce qu'elle soit blanchie. On prend la moitié du poids du produit, on y ajoute du mercure et du soufre comme complément, ainsi que de la gomme blanche. On fixe sur de la cendre chaude pendant un jour entier, jusqu'à ce que l'eau divine soit complètement desséchée. On ajoute donc de l'eau divine. Lorsque toute cette eau a été consommée, on la renouvelle, et l'on fait chauffer les matras pendant une heure, (sur un feu) indirect : on obtient ainsi la céruse. La substance encore bouillante est transportée sur du soufre apyre, et sur de l'eau de soufre, pour l'autre moitié du poids : on laisse déposer pendant (deux) jours, jusqu'à ce que l'ios soit produit.
 
-173
-LES SOUFRES
-relâcher de l'art; car la méditation mène au chemin véritable ν. Ces choses
-ont été rapportées par moi, qui voulais montrer que l'alun rond agit sem-
-blablement. ainsi aue l'a dit surtout la divine Marie.
-III. XXI. --- SUR LΕS SΟRRS
+*) Ou bien : « préparent du plomb, » suivant la variante adoptée pour le _Texte grec_, p. 165, l. 8.
+
+14\. Quelques-uns enfouissent le vase dans le crottin de cheval, pendant le même nombre de jours. On y met du cuivre, en ajoutant après la teinture du fer blanchi,* si l'on veut fabriquer de l'argent. Si c'est de l'or, on délaie de nouveau avec le produit moitié de son poids de mercure et moitié de soufre (j'entends du soufre jaune), ainsi que de l'eau de soufre natif et de la gomme. On fixe en chauffant par en dessous et l'on commence par faire cuire, pendant deux jours et deux nuits. Après avoir enlevé bouillant, on met de l'eau divine sur le résidu du soufre, et l'on fait chauffer pendant deux jours. Quand le produit est cuit à point, on ajoute de l'argent commun.
+
+*) Voir 3, 13, p. 154.
+
+15\. La préparation du blanc est celle-ci : soufre, arsenic, sandaraque, cinabre, en quantités égales, macérés d'avance ; sel de Cappadoce, autant ; fleur de sel, alun, lie de vin cuite, calcaire cuit, aphroselinon, misy cru et cuit, natron et sel, mêlés à parties égales avec de l'eau de mer. On expose au soleil pendant un nombre convenable de jours, jusqu'à ce que la teinture devienne capable de résister au feu. Ensuite on délaie ces matières avec de l'eau divine, de façon à rendre la couleur stable à chaud. Je veux parler de l'eau blanche, (obtenue) au moyen de la chaux délayée. Après avoir rendu la couleur stable, tu la mélanges, à raison d'une mine pour une demi-mine, et la quantité suffisante d'eau divine.
+
+16\. L'eau de soufre obtenue au moyen de la chaux se fabrique de la manière suivante : Après avoir mélangé toutes les eaux du catalogue, par portions égales, ajoute des terres blanches jusqu'à ce que (le mélange) devienne très blanc. Mets dans une marmite, installe l'appareil avec du feu dessous et reçois ce qui distille. Emploie ce produit pour le délaiement du soufre et la cuisson de la composition.
+
+17\. Le soufre jaune se prépare comme il suit : soufre, arsenic, sandaraque, cinabre, sori, couperose, chalcite, misy, alun, natron, sel, bleu d'Arménie ; tout cela macéré d'avance. Délaie avec du vinaigre, en exposant au soleil pendant un nombre convenable de jours. De ce soufre tu projettes une demi-mine, pour une mine (de matière).
+
+18\. L'eau du soufre pur se prépare comme il suit : les eaux du catalogue, par portions égales ; terre pontique, terre attique, bleu d'Arménie ; on ajoute des plantes, c'est-à-dire du safran et de la chélidoine, en quantité double. Mets dans une marmite, et, après avoir joint les diverses parties de l'appareil, prends l'eau qui en sort (l'eau de soufre), destinée aux produits qui résistent au feu. Arrose la composition avec de la gomme, du mercure et de l'eau de soufre, comme je l'ai dit précédemment, le tout par moitié. Après avoir fixé sur un bain de cendres chaudes, jusqu'à ce que toute l'eau soit partie, fais cuire pendant 2 jours, jusqu'à ce que le produit soit devenu extrêmement jaune. Enlève le produit encore bouillant, mets-y le résidu de la préparation, et laisse déposer pendant un nombre convenable de jours, jusqu'à ce que le produit soit changé en ios. Après avoir desséché et pulvérisé, on conserve. C'est ce produit que l'on mêle avec l'argent commun pour teindre. Quelques-uns après avoir opéré l'iosis, enfouissent dans le crottin de cheval.
+
+19\. Il a été établi que toutes les espèces (sont) communes aux liqueurs : si ce n'est que les matières blanchies font blanchir, et les matières jaunies font jaunir. Il faut savoir qu'après avoir accompli l'œuvre on doit mêler avec la composition. Quant à savoir ce qui teint le mieux, c'est un soufre dont tout le monde a parlé. Agathodémon, notamment, disait : « Prends du soufre, tantôt blanc, tantôt jaune, tantôt noir, tantôt enfin blanc fixe, et tantôt jaune fixe. » Il a donc montré, comme on l'a dit, que toutes les espèces (sont) communes aux liqueurs ; si ce n'est que blanchies, elles font blanchir, et que jaunies, elles font jaunir.
+
+---
+
+#### 3\. --- 17. Sur cette Question : Qu'est-ce que la Substance suivant l'Art, et qu'est-ce que la Non-Substance ?
+
+1\. Démocrite a nommé substances les quatre corps métalliques ; il entendait par là le cuivre, le fer, l'étain et le plomb. Tout le monde les emploie dans les deux teintures (d'or et d'argent), et toutes les substances subissent les deux teintures. Toutes les substances ont été reconnues par les Égyptiens comme produites par le plomb seul ; car c'est du plomb que proviennent les trois autres corps.* Il a donc nommé substances les matières résistant au feu, et les matières qui n'y résistent pas : non-substances. En effet, les non-substances agissent d'une façon convenable, indépendamment du feu. Il disait qu'elles sont engendrées par l'action des appareils et de la combustion ; tandis que le vrai résidu de la préparation, préparé sans l'action du feu, produit une teinture stable en blanc ou en jaune. L'emploi de la préparation fugace obtenue par la flamme détruit le jaunissement du molybdochalque défectueux, attendu qu'il le fait disparaître. Sur ce point il ne faut pas se tromper. Vois comme il s'exprime à cet égard : « Amène à consistance visqueuse ; enduis avec la moitié de la préparation destinée à la cuisson et teins avec le reste, de façon que la couleur soit fixée sans le concours du feu. »
+
+*) On voit que les Égyptiens regardaient le plomb comme le métal fondamental ; sans doute en vertu d'une idée analogue à celle du mercure des philosophes et par ce qu'ils y faisaient résider la qualité métallique par excellence (voir, p. 102, note 2 ; p. 103, note 4, et _Introd._, p. 58).
+
+2\. On appelle non-substances les matières sulfureuses ne résistant pas au feu. Mais l'emploi des liquides convenables leur communique la propriété de résister au feu et d'y demeurer stables : car l'eau combat l'action du feu. C'est pour cela qu'il dit : « La nature, acquérant en propre la qualité contraire, devient solide et fixe, dominante et dominée. » Ainsi elle acquiert en propre la qualité sulfureuse, celle qui donne son nom à l'eau de soufre natif. Pourquoi parle-t-il aussi du contraire ? C'est que l'eau est le contraire du feu. Sa qualité liquide empêche que les matières soumises au feu ne s'évaporent et ne se volatilisent. Elles sont comme ensevelies dans l'humidité et retenues jusqu'à ce qu'elles se teignent. L'eau retient parce qu'elle est liquide. C'est pour cela qu'il dit : « La nature acquérant en propre la qualité contraire, » etc. On a expliqué comment au moyen des liquides on obtient des produits qui résistent au feu ; or, les liquides, c'est l'eau divine.
+
+---
+
+#### 3\. --- 18. Sur ce que l'Art a parlé de Tous les Corps en Traitant d'Une Teinture Unique.
+
+1\. D'après le catalogue, on sait que Hermès et Démocrite ont parlé sommairement d'une teinture unique, et les autres y ont fait allusion. C'est ainsi que Africanus dit : « Ce que l'on emploie pour la teinture, ce sont les métaux, les liquides, les terres et les plantes. » Chymès l'a déclaré avec vérité : « Un est le Tout, et c'est par lui que le Tout a pris naissance. Un est le Tout, et si le Tout ne contenait pas tout, le Tout n'aurait pas pris naissance.* Il faut donc que tu projettes le Tout, afin de fabriquer le Tout. » Pébichius : « Par le moyen des quatre corps. » Marie : « Par le moyen de la feuille de la kérotakis. » Agathodémon : « Après l'affinage du cuivre, (son) atténuation et (son) noircissement, et ensuite son blanchiment, alors aura lieu un jaunissement solide. » Toutes les autres (matières) sont expliquées semblablement chez eux.
+
+*) Voir _Introd._, p. 132, 135, 136, les axiomes de la Chrysopée de Cléopâtre.
+
+2\. Lorsque Marie parle de cette question, elle dit : « Il existe un grand nombre de corps métalliques, depuis le plomb jusqu'au cuivre. » Lorsqu'elle parle des diplosis, elle dit : « Il y a, en effet, deux sortes de matières employées, tantôt l'alliage de cuivre et d'argent, tantôt l'alliage d'or et d'argent ; le molybdochalque et tous les autres y sont compris.* » Quant à la purification de l'argent, ou à son noircissement, j'en ai parlé précédemment. Comme quoi une seule teinture s'applique à toutes (les matières), Marie seule le dit et le proclame en ces termes : « Si je parle du cuivre, ou du plomb, ou du fer, j'entends par là (leur) ios. »
+
+*) _Introd._, p. 56, 60, 64.
+
+---
+
+#### 3\. --- 19. Les Quatre Corps sont l'Aliment des Teintures.
+
+1\. Voici comment : Marie dit que le cuivre est teint d'abord, et qu'alors il teint. Leur cuivre, ce sont les quatre corps. Voici les teintures : (elles comprennent) les espèces solides et liquides du catalogue, ainsi que les plantes ; les solides, depuis la vapeur sublimée jusqu'à la chrysocolle. Quant à toutes les (espèces) liquides du catalogue, en réalité, il s'agit de l'eau divine.
+
+2\. Ainsi, de même que nous sommes nourris au moyen des matières solides et liquides (réunies), et que nous sommes colorés seulement par leur qualité propre, de même se comporte leur cuivre ; et de même que nous ne sommes pas nourris au moyen de solides seuls, ou de liquides (seuls), de même aussi le cuivre ne l'est pas davantage. En effet, lorsque nous n'avons reçu (comme aliment) que de la matière solide, nous sommes enflammés, brûlés, empoisonnés ; de même aussi leur cuivre. Par contre, si nous n'avons pris que des boissons, nous sommes enivrés, nous avons la tête lourde, nous avons les joues colorées, et nous vomissons ; (de même) aussi le cuivre. Lorsqu'il a pris la couleur de l'or, par l'action de l'eau divine, il est alourdi et rejette, et aussitôt après (sa teinte) devient fugace. Mais lorsque nous avons pris en bonne proportion une nourriture composée des deux ordres de matière, solides et liquides, nous sommes alimentés raisonnablement ; nos joues se colorent raisonnablement et la faculté nutritive répartit la nourriture dans l'estomac, en raison de sa faculté de la retenir. De même aussi le cuivre, recevant les solides d'un côté à titre d'aliment, se nourrit d'autre part de l'eau divine unie à la gomme, à titre de vin ; il se colore, en raison de la faculté de retenir qui réside en lui. C'est ainsi que dans (l'ouvrage) précité, elle a dit : « Les sulfureux sont dominés et retenus par les sulfureux. » De là cette vérité : « La nature charme, vainc et domine la nature. »
+
+3\. « De même, dit-elle, que l'homme est composé des quatre éléments ; de même aussi le cuivre ; et de même que l'homme résulte (de l'association) des liquides, des solides et de l'esprit ; de même aussi le cuivre. Or Apollon, dans ses oracles, dit que l'esprit est la vapeur :
+
+« Et un esprit plus noir, humide, pur.* »
+
+*) Même citation, page 152.
+
+4\. Marie a parlé convenablement de la vapeur (en disant) : « Le cuivre ne teint pas, mais il est teint ; et lorsqu'il a été teint, alors il teint ; lorsqu'il a été nourri, il nourrit ; lorsqu'il a été complété, il complète. » Bonne santé.
+
+---
+
+#### 3\. --- 20. Il faut employer l'Alun Rond Discours Contradictoire.*
+
+*) Le sous-titre vient probablement de ce que cet article est tiré d'une discussion contradictoire. Cet article a pour but d'expliquer le blanchiment des métaux par le mercure ; la préparation de celui-ci au moyen du cinabre mis en contact avec divers métaux, et finalement l'emploi du sulfure d'arsenic (désigné par le nom d'alun rond) pour teindre le cuivre et les alliages qui en dérivent, à la façon du mercure.
+
+1\. Tu sais que : Un est le Tout et que du Tout naît le Tout. Or il faut savoir, comme nous l'avons démontré dans nos commentaires précédents, que les philosophes désignent sous le nom unique d'un corps tous ses dérivés ; principalement lorsqu'ils parlent du cuivre et du corps de la magnésie. Non seulement la vapeur sublimée rend le cuivre sans ombre ; mais encore le cuivre admet toutes les espèces, de même que le corps de la magnésie se fixe avec toutes. En effet il dit : « Fixe le mercure avec le corps de la magnésie.* Chercherons-nous donc à retenir la vapeur sur le Tout, afin de le fixer de cette manière ? Tous les écrits (disent) _passim_ : « Après avoir retenu la vapeur. » Or nous avons appris par l'expérience que s'il n'y a pas d'or, d'argent, d'étain, de plomb, la vapeur ne s'absorbe pas : que ferions-nous donc des pierres et du fer* ?
+
+*) Démocrite, _Questions naturelles et mystérieuses_, p. 46.
+
+*) Ces matières n'absorbent pas le mercure.
+
+2\. Parmi les écrits, les uns disent : Il faut réduire le tout en bouillie et faire absorber l'eau de gomme : d'autres mettent en avant la vapeur (sublimée). Quant à moi je trouve préférable de broyer avec le cinabre. On sait que la cuisson de cette matière produit le mercure. C'est de cette façon qu'on le prépare. En effet, les espèces traitées au soleil, au moyen de l'eau ou du vinaigre, engendrent la vapeur (sublimée). Cela, nous le savons par expérience.
+
+Tous les écrits et (notamment) Chymès et Marie parlent d'un mortier de plomb et d'un pilon de plomb.* On y délaie la chaux et le cinabre, avec le vinaigre, au soleil, jusqu'à ce que le mercure se développe. On produit le même effet avec l'étain. Les (espèces) chauffées, ou calcinées, ou fixées, ou teintes, sont susceptibles de fournir le mercure, si l'opération est faite suivant les préceptes de l'art. Quelle que soit celle de ces matières que l'on travaille, si elle est du cinabre en puissance, elle fournit de la vapeur et celle-ci s'échappe, le mélange étant délayé avec toutes sortes de corps.
+
+*) Pour broyer le cinabre et réduire le mercure. Dans Pline, on produit cette réduction, en broyant le cinabre avec du vinaigre dans des mortiers de cuivre, avec des pilons de cuivre : _H. N._ 33, 41.
+
+3\. On dira peut-être qu'il est préférable de broyer (le mercure) préalablement fixé et changé en ios ; attendu que les écrits ne parlent pas d'une simple fixation. Mais, suivant tous, la vapeur blanche, projetée sur notre cuivre, en fait de l'argent sans ombre. De même Stephanus, en présence de toutes les espèces, imagine qu'il s'agit d'une simple (fixation) par toutes les espèces. Mais, si l'on n'emploie qu'une simple fixation, sachez tous que l'on ne fait rien par là. En effet, la vapeur s'évapore pendant la fixation dans le feu et, l'esprit tinctorial étant perdu, on n'obtient rien ; tandis que si le cinabre est cuit avec les espèces, l'esprit n'est pas perdu. Cet esprit, c'est-à-dire la vapeur chauffée par le feu et poussée à la volatilisation, est retenu par les corps congénères qui y sont unis, notamment par l'étain.*
+
+*) Lb porte, au lieu de l'étain : Hermès ; le signe étant le même à l'origine (_Introd._ Pl. 1, l. 7 ; p. 104). --- Ce passage signifie que le sulfure de mercure, étant réduit par un métal, ce métal fixe en même temps le mercure, si l'on opère par digestion prolongée ; tandis qu'une action brusque met à nu le mercure, qui s'évapore.
+
+4\. D'après certain auteur, on doit se servir de l'alun rond,* au lieu de la vapeur (du mercure). Marie s'exprime conformément à cette opinion, lorsqu'elle dit : « L'infusion des teintures a lieu dans des fioles vertes ; soumises à un feu graduellement croissant. Le fourneau en forme de four a des mamelons, à sa partie supérieure. Si tu ne peux réussir, emploie le double d'alun rond, couleur de cinabre* ; ce qui vaut mieux pour atteindre le même résultat. Avec d'autres pâtes on réussit aussi. En effet la vapeur sublimée se fixe seulement sur les quatre corps ; quelques-uns disent qu'elle est absorbée par les autres corps, avec le concours de la chrysocolle. Pour ma part, je sais bien que la chrysocolle seule ne la retient pas ; (mais) les corps métalliques morts et délayés conservent tous la vapeur.* »
+
+*) C'est-à-dire employer le sulfure d'arsenic, ou son dérivé (c'est ici l'acide arsénieux, synonyme de l'alun ; v. p. 82, note 6), au lieu du cinabre ou du mercure.
+
+*) Réalgar (_Introd._, p. 238 et 244, article Cinabre).
+
+*) Sans doute à la condition de les ramener simultanément à l'état métallique par des agents réducteurs ( ? ).
+
+5\. Il a été dit par Agathodémon que la chrysocolle et la vapeur sont amies l'une de l'autre ; (la chrysocolle) la retient ; l'une agit comme la limaille* ... l'autre, même broyée, n'a pas l'adhésion du cinabre.* L'une et l'autre, étant délayées ensemble à l'état sec, s'amalgament. Mais la vapeur en puissance agit sur le cuivre en puissance* et ils s'unissent ainsi.
+
+*) Des métaux qui s'unissent au mercure.
+
+*) C'est-à-dire que l'emploi de l'arsenic sublimé ne blanchit pas les métaux aussi facilement que celui du cinabre.
+
+*) C'est-à-dire qu'au lieu d'employer le cuivre libre et le principe colorant et volatil tiré de l'arsenic à l'état libre, il faut opérer sur des composés susceptibles de les engendrer.
+
+6\. Il faut chercher comment la vapeur est absorbée par toutes choses, non seulement par les corps métalliques à l'état vivant et délayé, mais encore à l'état brûlé. En fait, elle est absorbée par les métaux, surtout ceux qui tirent leur origine du cuivre.* Si tu ne réussis pas, mets le double de cinabre. On réussit ainsi avec tout ; c'est là ce que le Philosophe veut exprimer en disant : « Il te faut comprendre toutes choses et d'abord ne pas te relâcher de l'art ; car la méditation mène au chemin véritable. » Ces choses ont été rapportées par moi, qui voulais montrer que l'alun rond agit semblablement, ainsi que l'a dit surtout la divine Marie.
+
+*) C'est-à-dire par les alliages à base de cuivre, ou supposés tels.
+
+---
+
+#### 3\. --- 21. Sur les Soufres.*
+
+*) B : « Sur les eaux divines. »
+
 1. Ne m'as-tu pas demandél'explication concernant les soufres, demeurant
 jusqu à ce jour fidele à ton serment ? Cette explication te sera donnée
 en temps opportun. Tu sais que ce n'est pas seulement le Philosophe qui
