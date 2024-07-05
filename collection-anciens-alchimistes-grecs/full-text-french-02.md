@@ -70,15 +70,15 @@
 
 #### [3. --- 16. Sur l'Exposé détaillé de l'Œuvre discours a Philarète.](#3-----16-sur-lexposé-détaillé-de-lœuvre-discours-a-philarète-1)
 
-#### [3. --- 17. Sur cette Question : Qu'est-ce que la Substance suivant l'Art, et qu'est-ce que la Non-Substance ?]()
+#### [3. --- 17. Sur cette Question : Qu'est-ce que la Substance suivant l'Art, et qu'est-ce que la Non-Substance ?](#3-----17-sur-cette-question--quest-ce-que-la-substance-suivant-lart-et-quest-ce-que-la-non-substance--1)
 
-#### [3. --- 18. Sur ce que l'Art a parlé de Tous les Corps en Traitant d'Une Teinture Unique.]()
+#### [3. --- 18. Sur ce que l'Art a parlé de Tous les Corps en Traitant d'Une Teinture Unique.](#3-----18-sur-ce-que-lart-a-parlé-de-tous-les-corps-en-traitant-dune-teinture-unique-1)
 
-#### [3. --- 19. Les Quatre Corps sont l'Aliment des Teintures.]()
+#### [3. --- 19. Les Quatre Corps sont l'Aliment des Teintures.](#3-----19-les-quatre-corps-sont-laliment-des-teintures-1)
 
-#### [3. --- 20. Il faut employer l'Alun Rond Discours Contradictoire.]()
+#### [3. --- 20. Il faut employer l'Alun Rond Discours Contradictoire.](#3-----20-il-faut-employer-lalun-rond-discours-contradictoire-1)
 
-#### [3. --- 21. Sur les Soufres.]()
+#### [3. --- 21. Sur les Soufres.](#3-----21-sur-les-soufres-1)
 
 ---
 
