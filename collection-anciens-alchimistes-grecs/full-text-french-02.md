@@ -6479,737 +6479,219 @@ Tous les écrits et (notamment) Chymès et Marie parlent d'un mortier de plomb e
 
 *) B : « Sur les eaux divines. »
 
-1. Ne m'as-tu pas demandél'explication concernant les soufres, demeurant
-jusqu à ce jour fidele à ton serment ? Cette explication te sera donnée
-en temps opportun. Tu sais que ce n'est pas seulement le Philosophe qui
-a mentionné les soufres, mais encore tous les prophètes ; car. sans les soufres
-il n'y aura rien, c'est a-dire sans l'eau divine. En effet toute la composition
-est absorbée par elle ; c'est par elle qu'elle est cuite ; par elle, qu'elle est
-brulée ; par elle, qu'elle est fixée; par elle, qu'elle est teinte ; par elle, qu'elle
-subit l'iosis et par elle, qu'elle est affinée (2). Car il dit : « Mets de l'eau
-de soufre natif et un peu de gomme : tu teins par là toute sorte de corps ».
-Ecoute encore le même auteur : « Laisse descendre et le produit se forme (3):
-c'est la le mystère manifeste ν. Mais quelqu'un dira : Qu'est-ce qui ressem-
-ble à l'eau divine, parmi les sulfureux ? --- Nous lui répondrons : d'abord
-qu'est-ce qui a opéré avec autre chose que les eaux divines ? Or si (personne)
-n'a opéré autrement, c'est avec raison que mon Philosophe n'a pas parlé
-d'autre chose que ce que nous comprenons (par lὰ).
-2. On appelle done divine l'eau de soufre. Ecoute bien. On appelle divine
-la vapeur sublimée, émise de bas en haut. De même aussi, la cendre for-
-mée sur les parois des conduites de fumée est appelée divine. Semblable-
-ment aussi les gouttes jaillissantes des bains ; les gouttes qui se fixeni
-aux couvercles des chaudières, on les appelle pareillement divines. Le
-mercure blanc, on l'appelle encore divin, parce que lui aussi est émis de
-bas en haut (4.
-(1) B : « Sur les eaux divines ν.
-(2) Cp. p. 147.
-(3) Cp. Stephanus, édition Ideler,
-p. 247. l. 21.
-(4) Cette phrase répond à l'axiome :
-« n haut les choses célestes, etc. ν
-(Introd., p. 162 et 163); le nom d'eau
-divine correspondant aux choses céles- -
+1\. Ne m'as-tu pas demandé l'explication concernant les soufres, demeurant jusqu'à ce jour fidèle à ton serment ? Cette explication te sera donnée en temps opportun. Tu sais que ce n'est pas seulement le Philosophe qui a mentionné les soufres, mais encore tous les prophètes ; car, sans les soufres il n'y aura rien, c'est-à-dire sans l'eau divine. En effet toute la composition est absorbée par elle ; c'est par elle qu'elle est cuite ; par elle, qu'elle est brûlée ; par elle, qu'elle est fixée ; par elle, qu'elle est teinte ; par elle, qu'elle subit l'iosis et par elle, qu'elle est affinée.* Car il dit : « Mets de l'eau de soufre natif et un peu de gomme : tu teins par là toute sorte de corps. » Ecoute encore le même auteur : « Laisse descendre et le produit se forme* : c'est là le mystère manifeste. » Mais quelqu'un dira : Qu'est-ce qui ressemble à l'eau divine, parmi les sulfureux ? --- Nous lui répondrons : d'abord qu'est-ce qui a opéré avec autre chose que les eaux divines ? Or si (personne) n'a opéré autrement, c'est avec raison que mon Philosophe n'a pas parlé d'autre chose que ce que nous comprenons (par là).
 
+*) Cp. p. 147.
 
-### 0222
+*) Cp. Stephanus, édition Ideler, p. 247, l. 21.
 
-174
-ZOSIME
-3. Les anciens (1) ont l'habitude de faire cuire les sulfureux, en les
-chauffant sur un feu léger dans des fioles. Or ce que le feu effectue par
-artifice, le soleil l'effectue par le concours de la nature divine. Le grand
-Hermès dit : α Le soleil qui fait tout ». Hermès dit encore partout :
-a Expose au soleil ei délaie la vapeur au soleil ». Ca et la il désigne le soleil.
-Le feu solaire accomplit toutes les opérations que nous avons dit précé-
-demment s'effectuer dans des fioles. Lautre composition est bouillie de
-cette façon avec la saumure jusqu'à blanchiment. Il en est de même des
-choses dont il nous parle comme exécutées sous la canicule et sous l'infuence
-solaire, ainsi que nous l'enseigne l'expérience des deux procédés.
-De même que le levain du pain, employé en petite quantité, fait lever une
-grande quantité de pâte ; de même aussi la petite feuille d'or ou d'argent
-engendre toute la poudre de projection (et, fait fermenter toutes choses.
+2\. On appelle donc divine l'eau de soufre. Ecoute bien. On appelle divine la vapeur sublimée, émise de bas en haut. De même aussi, la cendre formée sur les parois des conduites de fumée est appelée divine. Semblablement aussi les gouttes jaillissantes des bains ; les gouttes qui se fixent aux couvercles des chaudières, on les appelle pareillement divines. Le mercure blanc, on l'appelle encore divin, parce que lui aussi est émis de bas en haut.*
+
+*) Cette phrase répond à l'axiome : « En haut les choses célestes, etc. » (_Introd._, p. 162 et 163) ; le nom d'eau divine correspondant aux choses célestes et en même temps au soufre, par le double sens du mot grec. --- On voit aussi par ce paragraphe quel sens compréhensif avaient les mots : soufre ou divin, eau de soufre ou eau divine ; mots entre lesquels règne une perpétuelle confusion.
+
+3\. Les anciens* ont l'habitude de faire cuire les sulfureux, en les chauffant sur un feu léger dans des fioles. Or ce que le feu effectue par artifice, le soleil l'effectue par le concours de la nature divine. Le grand Hermès dit : « Le soleil qui fait tout. » Hermès dit encore partout : « Expose au soleil et délaie la vapeur au soleil. » Çà et là il désigne le soleil. Le feu solaire accomplit toutes les opérations que nous avons dit précédemment s'effectuer dans des fioles. L'autre composition est bouillie de cette façon avec la saumure jusqu'à blanchiment. Il en est de même des choses dont il nous parle comme exécutées sous la canicule et sous l'influence solaire, ainsi que nous l'enseigne l'expérience des deux procédés.
+
+*) Ce qui suit se compose d'une série d'alinéas, pour la plupart sans liaison les uns avec les autres.
+
+De même que le levain du pain, employé en petite quantité, fait lever une grande quantité de pâte ; de même aussi la petite feuille d'or ou d'argent engendre toute la poudre de projection (et) fait fermenter toutes choses.
+
 Si nous entendons dire 3, 5 et 7, on veut faire entendre le total 15.
-Voilà comment ils jugent à propos d'opérer. On fait tout amollir dans
-des vases de verre; car les poteries de terre doivent être écartées dans
-l'opération de l'iosis, de crainte qu'elles n'absorbent la teinture et la fleur
-de la teinture. Leur nature réceptrice se sature d'abord et se teint avec la
-fleur d'or, et ensuite la scorie du cuivre n'absorbe plus la fleur de l'iosis.
-4. Là, nous opérons la teinture dans des vases de verre, vu qu'ils se
-prêtent convenablement à l'iosis. Mais il ne faut pas toucher (la teinture)
-avec les mains, car elle est mortelle. Lorsque l'or y a été dissous, c'est le plus
-délétère de tous les métaux.
-Les uns délaient avec l'ios, ce que tu as appris à connaitre : j'entends le
-soufre ; ils (en) enduisent la feuille d'argent.
-En opérant de cette façon, ils font chauffer progressivement l'appareil
-de l'art, sur un fourneau arrondi, dans un creuset disposé sur des gradins :
-et l'or se produit.
-5. Quelques-uns, et Marie (entre autres), ont mentionné la figure d'en bas.
-tes et en mème temps au soufre, par | mots entre lesquels règne une perpé-
-le double sens du mot grec. --- On voit | tuelle confusion.
-aussi par ce paragraphe quel sens com- |
-(1) Ce qui suit se compose d'une
-préhensif avaient les mots : soufre | série d'alinéas, pour la plupart sans
-ou divin, eau de soufre ou eau divine ; | liaison les uns avec les autres.
 
+Voilà comment ils jugent à propos d'opérer. On fait tout amollir dans des vases de verre ; car les poteries de terre doivent être écartées dans l'opération de l'iosis, de crainte qu'elles n'absorbent la teinture et la fleur de la teinture. Leur nature réceptrice se sature d'abord et se teint avec la fleur d'or, et ensuite la scorie du cuivre n'absorbe plus la fleur de l'iosis.
 
-### 0223
+4\. Là, nous opérons la teinture dans des vases de verre, vu qu'ils se prêtent convenablement à l'iosis. Mais il ne faut pas toucher (la teinture) avec les mains, car elle est mortelle. Lorsque l'or y a été dissous, c'est le plus délétère de tous les métaux.
 
-175
-LES SOUFRES
-α C'est ainsi qu'ils ont préparé, le mercure, dit-elle, ainsi que le soufre et
-l'ios, en délayant l'ensemble au soleil jusqu'à ce que le tout devienne ios.
-Ils disent que celui-ci (ainsi préparé) est plus actif. Quelques-uns ont
-accompli cette iosis au soleil seulement, sans rien ajouter, et ils affirment
-qu'ils ont obtenu l'objet de leur recherche. D'autres ont délayé avec l'eau
-divine, affirmant que c'est la leur soufre ; --- c'est aussi leur mercure (1). 'ai
-admis l'opinion de ceux-ci, plutot que celle des autres. D'autres projetaient
-du mercure, tantot cru, tantôt a l'état de concrétion jaune (2). Quelques-uns,
-après l'opération de l'iosis, n'ont rien effectué au delà.
-6. Quant aux philosophes, ils s'exprimaient par énigmes au sujet de
-(l'opération qui succède à) l'iosis, disant : α Pour teindre l'or, il vaut mieux
-opérer après l'iosis ». D'autres, parmi les hiérogrammates qui ont écrit uni
-quement sur cet art, en s'occupant du délaiement (3), disaient que l'iosis
-seule fait tout, et principalement l'ios. Cela leur convenait ainsi. D'autres,
-après avoir fait cuire, faisaient chauffer et mettaient au feu, à la suite
-de la fonte ; ceux-ci préféraient traiter le Tout par délaiement. Ceux qui
-voulaient n'avoir recours qu'au blanchiment, enduisaient une feuille
-d'argent, faisaient chauffer et cuire. Ils polissaient jusqu'à ce que tout eut
-absorbé la matière délayée, en opérant avec l'eau (de soufre ?), le mercure et
-quelque substance semblable.
-7. Comme dans la cuisson de l'art diverses couleurs se manifestent, Aga-
-thodémon plus que tous s'est préoccupé des délaiements. En cela ils sont
-d'accord pour enduire le petit objet (4) avec du soufre, de la chrysocolle et de
-la fleur de sel (délayés). Si tu t'aperçois, dit-il, que certaines substances sont
-brulées, fais chauffer et délaie au soleil, jusqu'à ce que (la couleur) se déve-
-(1) Voir la note 2 de la page suivante | yer cette poudre dans un liquide (délaie-
-ment σ λειώσιμον dans le Dictionnaire
-et celle de la page 166.
-(2) Introd., p. 104, Pl. I, l. 21 ; et | Français-Grec moderne de Byzantius),
-p. 112, Pl. IV,l. 17. Est-ce l'oxyde de | ou de la léviger ; soit de saupoudrer la
-poudre sèche, ou d'étendre la poudre
-mercure précipité ?
-(3)On remarquera les sens multiples | délayée dans un liquide visqueux, à la
-du mot λειόω, et du substantif corres- | surface d'un métal, lequel se trouvera
-pondant λείωσις. Ils'agit, suivant les cas : | verni ou teint après avoir subi l'action
-soit de polir la surface d'un métal, ou | du feu. Dans le présent, cedernier sens
-de la rendre lisse à l'aide d'un vernis ; | est surtout applicable.
-soit de broyer une poudre ; soit de déla- | (4) Voir p. 157, § 2
+Les uns délaient avec l'ios, ce que tu as appris à connaître : j'entends le soufre ; ils (en) enduisent la feuille d'argent.
 
+En opérant de cette façon, ils font chauffer progressivement l'appareil de l'art, sur un fourneau arrondi, dans un creuset disposé sur des gradins : et l'or se produit.
 
-### 0224
+5\. Quelques-uns, et Marie (entre autres), ont mentionné la figure d'en bas. « C'est ainsi qu'ils ont préparé, le mercure, dit-elle, ainsi que le soufre et l'ios, en délayant l'ensemble au soleil jusqu'à ce que le tout devienne ios. Ils disent que celui-ci (ainsi préparé) est plus actif. Quelques-uns ont accompli cette iosis au soleil seulement, sans rien ajouter, et ils affirment qu'ils ont obtenu l'objet de leur recherche. D'autres ont délayé avec l'eau divine, affirmant que c'est là leur soufre ;--- c'est aussi leur mercure.* J'ai admis l'opinion de ceux-ci, plutôt que celle des autres. D'autres projetaient du mercure, tantôt cru, tantôt à l'état de concrétion jaune.* Quelques-uns, après l'opération de l'iosis, n'ont rien effectué au delà.
 
-176
-ZOSIME
-loppe. Par la, ils ont de préférence indiqué la cuisson et le délaiement. Ils
-agissent ainsi pour montrer la puissance de la préparation : prenant des
-objets d'argent et les couvrant d'un enduit jusqu'à moitié, ils font chauffer
-la préparation ; et lorsqu'ils enlèvent l'objet, il est doré dans la partie
-nduite. tandis que l'autre (partie) reste intacte (1).
+*) Voir la note 2 de la page suivante et celle de la page 166.
+
+*) _Introd._, p. 104, Pl. 1, l. 21 ; et p. 112, Pl. 4, l. 17. Est-ce l'oxyde de mercure précipité ?
+
+*) On remarquera les sens multiples du mot λειόω, et du substantif correspondant λείωσις. Il s'agit, suivant les cas : soit de polir la surface d'un métal, ou de la rendre lisse à l'aide d'un vernis ; soit de broyer une poudre ; soit de délayer cette poudre dans un liquide (délaiement = λειώσιμον dans le _Dictionnaire Français-Grec moderne_ de Byzantius), ou de la léviger ; soit de saupoudrer la poudre sèche, ou d'étendre la poudre délayée dans un liquide visqueux, à la surface d'un métal, lequel se trouvera verni ou teint après avoir subi l'action du feu. Dans le § présent, ce dernier sens est surtout applicable.
+
+6\. Quant aux philosophes, ils s'exprimaient par énigmes au sujet de (l'opération qui succède à) l'iosis, disant : « Pour teindre l'or, il vaut mieux opérer après l'iosis. » D'autres, parmi les hiérogrammates qui ont écrit uniquement sur cet art, en s'occupant du délaiement,* disaient que l'iosis seule fait tout, et principalement l'ios. Cela leur convenait ainsi. D'autres, après avoir fait cuire, faisaient chauffer et mettaient au feu, à la suite de la fonte ; ceux-ci préféraient traiter le Tout par délaiement. Ceux qui voulaient n'avoir recours qu'au blanchiment, enduisaient une feuille d'argent, faisaient chauffer et cuire. Ils polissaient jusqu'à ce que tout eût absorbé la matière délayée, en opérant avec l'eau (de soufre ? ), le mercure et quelque substance semblable.
+
+*) Voir p. 157, § 2.
+
+7\. Comme dans la cuisson de l'art diverses couleurs se manifestent, Agathodémon plus que tous s'est préoccupé des délaiements. En cela ils sont d'accord pour enduire le petit objet* avec du soufre, de la chrysocolle et de la fleur de sel (délayés). « Si tu t'aperçois, dit-il, que certaines substances sont brûlées, fais chauffer et délaie au soleil, jusqu'à ce que (la couleur) se développe. Par là, ils ont de préférence indiqué la cuisson et le délaiement. Ils agissent ainsi pour montrer la puissance de la préparation : prenant des objets d'argent et les couvrant d'un enduit jusqu'à moitié, ils font chauffer la préparation ; et lorsqu'ils enlèvent l'objet, il est doré dans la partie enduite, tandis que l'autre (partie) reste intacte.*
+
+*) Ce dernier § indique clairement qu'il s'agit de donner à un objet d'orfèvrerie une coloration en or superficielle, comme dans les Papyrus de Leide : _Introd._, p. 59 et 60.
+
 Telle est l'explication concernant l'eau divine.
-III. XXII. --- SU LS SSURΕS
-1. L'explication concernant les mesures met en évidence tout le mystère
-de la cuisson ; car c'est là la composition, c'est là le poids, c'est la le blan-
-chiment, c'est là le jaunissement. Or, dans le discours sur la composition,
-ces matières (ont été traitées en passant), et il en a été de nouveau question
-(dans le discours) sur le cuivre et l'iosis. Il parait employer ce plomb, lors-
-qu'il dit : «α saupoudre avec du plomb.. Il ne parle pas du plomb simplement,
-mais il ajoute : a avec notre plomb noir, provenant du minerai de Coptos
-et de la litharge ». Or l'opération de saupoudrer me parait être un délaie-
-ment, comme je le montre d'après tous les écrits, dans mon Traité sur
-'Action, en y parlant du poids. Ils ont l'habitude de peser ensemble secrè-
-tement les choses au moyen desquelles ils brulent, ou saupoudrent, ou
-projettent. Ils pèsent le plomb destiné au saupoudrage : le blanchiment
-est soumis à la pesée ainsi que l'ios, lors de la projection. En effet : « rejette,
-dit-il, la moitié de la' préparation blanche, etc. ».
-2. Ainsi toutes choses ont été cachées dans toutes les opérations de l'art,
-relativement à la pesée comparative et à l'iosis. e dis toutes choses en même
-temps : attendu que si le soufre prédomine dans la coupe, on ne voit pas la
-composition placée au-dessous, de façon à connaitre quand elle est blanchie
-par (l'action du) soufre lui-même. C'est lorsqu'il devient blanc, que l'on
-reconnait que la (composition) située au-dessous a été blanchie. Par suite,
-(1) Ce dernier § indique clairement | ficielle, comme dans les Papyrus de
-qu'il s'agit de donner à un objet d'or- j l.eide : Introd., p. 59et 6o.
-fèvrerie une coloration en or super- 1
 
-
-### 0225
-
-COMMENT ON BRULE LES CORPS
-177
-Agathodémon disait de prendre (chaque préparation de) soufre (1), qu'il fut
-blanc ou quelconque (2). C'est son état qui indique la cuisson. On enlève et
-on fait chauffer (le produit) avec le surplus du soufre ; il le sépare (en deux
-portions ?), plutot qu'il ne l'affine ; car il s'empare de (la composition)
-blanchie. Si on le laisse (trop longtemps), il tourne au jaune.
-C'est pourquoi le soufre produisant le blanchiment, nous chercherons
-le poids du Tout d'apres les philosophes (3). On prend dans la (classe) der-
-nière des liquides, une once d'arsenic et moitié autant de natron ; des pelli-
-cules de feuilles de pêcher encore tendres, deux onces; du sel, la moitié;
-du suc de murier, une once. Puis on délaie tout cela avec de l'alun
-lamelleux et du vinaigre, ou de l'urine, ou de la lessive de chaux, jusqu'à
-ce qu'il se forme une liqueur. Ensuite, on teint les feuilles (métalliques ?)
-ternies; puis on fait disparaitre l'ombre du métal. Il faut mettre tous les
-résidus, et, avant tout, une partie d'arsenic et de sandaraque, deux parties
-de chaux, ainsi que les eaux divines. Après avoir obtenu une liqueur
-blanche semblable à du marbre, on arrose avec elle ; ou bien l'on y fait
-cuire dans le vase (Troullon) (4) la composition susdite.
-II. XXIII. --- ΟΜΙΕΝΤ ΟΝ BRULΕ LΕS CΟRΡS
-1. Cherchons maintenant, d'après les philosophes, ce que c'est que
-bruler les corps ; car l'explication concernant les poids y aboutit et
-l'ensemble (de notre étude) renferme (cette question). Introduis le Philo-
-sophe disant : « Prends la vapeur (qui provient) de l'arsenic, fixe-la suivant
-l'usage ; ajoute du cuivre ou du fer a (la préparation) sulfureuse, et le métal
-blanchit ». Quelques-uns expliquent le (mot) α sulfureuse par α brulée » :
-car ceux-ci dans leur ignorance brulent le cuivre avec le soufre, et le fer
-avec la magnésie. Or ce n'est pas la bruler, mais détruire. L'opération de
-(1) Au-dessus du signe du soufre, E | (2) Cp. p. 166, 8 19.
-écrit celui du mercure; et Lb donne à | (3) Voir p. 161, 5 8; p. 163, 5 11, etc.
-la place de ces signes le nom du mer- | (4) Cp. p. 164.
-cure en toutes lettres.
-23
-
-
-### 0226
-
-178
-ZOSIME
-bruler dans le Philosophe est nommée blanchiment. De même que l'affi-
-nage et les autres opérations ont été démontrés être un blanchiment; de
-même aussi l'opération de bruler dont il parle ici est un blanchiment ;
-dans le second (cas), c'est un jaunissement.
-2. Ainsi, le Philosophe brule le cuivre au moyen de l'eau de soufre,
-pratiquant une décoction, comme il a été dit précédemment. « En effet, dit-il,
-mets (y) la moitié de la préparation blanche : ce sera le premier degré.
-Fais la cuire. Nous conservons l'autre moitié pour l'iosis. » C'est aussi
-pour cette raison que Pébichius, passim, disait : α Partagez la préparation
-en deux parties. Brulez le cuivre dans du bois de laurier (1), c'est-à-dire dans
-la composition blanche ; car les corps brulés de cette façon avec des feuilles
-de laurier, aprξs avoir été cuits dans l'eau de soufre, sont blanchis en même
-temps. Tel est le (précepte). Emploie du cuivre ou du fer sulfuré ; par ce
-(procédé), il sera aussi blanchi ». Agathodémon donne le même conseil : à
-savoir que les corps doivent bouillir et cuire avec la vapeur dans l'eau divine.
-De cette façon il y a opération de bruler et blanchiment. Car à l'occasion
-de l'étain le Philosophe supposait la cuisson : α Tu feras cuire la vapeur
-indiquée précédemment dans l'huile de ricin ou de raifort, après y avoir
-mélangé un peu d'alun ». Il dit ensuite : « Fais les mélanges de l'étain, etc.
-et toutes choses seront traitées jusqu'au bout avec deux classes (de corps) seu-
-lement ». Après avoir parlé des jours, il a mentionné toutes choses ; après
-avoir parlé des huiles, il a mentionné l'eau divine ; à la suite de l'alun,
-le soufre ; à la suite de l'étain, les deux formules ; car la vapeur (sublimée)
-impregne ce métal (2).
-3. Les projections (se font) encore ici avec les liqueurs de soufre ; tandis
-que la cuisson concerne l'ensemble, qui (est) une combustion, ou une décoc-
-tion et un blanchiment. C'est par là que les corps sont brulés et cuits.
-Cette opération (est celle) qui a été proclamée de tout temps ; celle que
-tous les écrits enseignent en termes mystérieux, (en prescrivant de) bruler
-le cuivre avec le soufre. Mais les autres (modes de) chauffage sont des des-
-tructions, plutot que des combustions. Le cuivre, s'il est brulé, (devient) un
-(1) Voir p. 159. --- Ce mot parait signi- | porte au blanchiment des métaux par
-la vapeur de l'arsenic, avec le concours
-fier un sulfure arsénical.
-(2) Toute cette description se rap- | de la liqueur appelée eau divine
-
-
-### 0227
-
-MESURE DU IAUNISSEMENT
-179
-cuivre propre à tout et apte à la teinture ; en disparaissant, il devient élec-
-trum. Si l'on force le feu, il devient jaune, la moitié du soufre étant brulée.
-Il faut le quart de magnésie. Ainsi nous ajoutons 4 onces de cuivre, 1 once
-de fer, 6 scrupules de magnésie ; 2 chalques (1) d'étain et de plomb, de la
-cadmie, du claudianon, de la chrysocolle, du cinabre, en proportion du
-nombre d'onces des métaux. Si tu procèdes en proportions égales, par à peu
-près, tu peux réussir. Mais opérer dans ces conditions, c'est laborieux et
-peu sensé. Il faut procéder par pesées. Démocrite ayant dit : α Rien n'a été
-omis, rien ne manque » ; certes, par le mérite de Démocrite l rien n'est laissé
-en arrière : la composition des corps dissous, c'est-a-dire la montée de l'eau
-divine et de la vapeur, nous l'avons exposée sincèrement; et nous avons
-donné par la l'interprétation du Livre. Maintenant que nous avons décrit la
-mesure pour l'acte de brler, examinons celle du jaunissement.
-III. XXIV. --- SUR LA MΕSUR DΟ ΠASSΕΜΕΝT
-1. Pourquoi Agathodémon a-t-il écrit sur ce sujet? Ce n'est pas en vue
-d'enseigner la mesure, mais pour dire qu'il faut employer en safran et en ché-
-lidoine le double des autres herbes ; car celles-ci ont de plus grandes pro-
-priétés tinctoriales. Il règle la proportion, en raison du soufre blanc. L'eau
-tirée des soufres, des jus et des herbes, est appelée ici eau de soufre pur.
-C'est avec cela qu'ils arrosent et font cuire la composition blanche : elle
-est jaunie par la. Fais cuire, comme tu l'as entendu dire précédem-
-ment, en enlevant dès que la matière jaunit. C'est la mesure du jaunis-
-sement. Telle est l'explication concernant la mesure, annoncée plus haut.
-2. Il faut savoir que pendant qu'on accomplit l'œuvre, plusieurs causes
-concourent, les unes visibles à l'œil nu, les autres non. Les premières sont
-les espèces lavées ou mélangées, le molybdochalque et les similaires, la
-pyrite et les similaires. Il ne faut pas que la pyrite et l'androdamas soient
-(1) 1chalque 8e d'obole πo gr. o91. | donné par erreur au signe d'Iermès le
-Lb dit α de mercure », au lieu d'étain ; | sens moderne de mercure, au lieu du
-probablement parce que le copiste a sens ancien d'étain (Introd., p. 84).
-
-
-### 0228
-
-180
-ZOSIME
-traités d'avance par le vinaigre, d'après ce que disent les écrits, afin d'éviter
-que leur partie cuivreuse ne se change en ios ; --- plus tard elle sera mélangée
-avec le cinabre et ses similaires. Il est permis (de les exposer) au soleil, ainsi
-que les autres choses semblables.
-3. Marie (place) en première ligne le molybdochalque et les (procédés de)
-fabrication. L'opération de bruler (est) ce que tous les anciens préconisents
-Marie, la première, dit : α Le cuivre brulé avec le soufre, traité par l'huile
-de natron, et repris après avoir subi plusieurs fois le même traitement,
-devient un or excellent et sans ombre. Voici ce que dit le Dieu : Sachez
-tous que, d'apres l'expérience, en brulant le cuivre (d'abord), le soufre ne
-produit aucun effet. Mais lorsque vous brulez (d'abord) le soufre, alors
-non-seulement il rend le cuivre sans tache, mais encore il le rapproche
-de l'or ». Marie, dans la description située au-dessous de la figure, le
-proclame une seconde fois, et dit : « Ceci m'a été gracieusement révélé
-par le Dieu, à savoir que le cuivre est d'abord brulé avec le soufre, puis
-avec le corps de la magnésie ; et l'on souffle jusqu'à ce que les parties sul-
-fureuses s'en échappent avec l'ombre : (alors) le cuivre devient sans ombre ».
-4. C'est ainsi que tous brulenι. C'est ainsi que dans la chimie (μᾶζα) (1) de
-Moῖse on brule avec du soufre, du sel, de l'alun et du soufre (j'entends le
-soufre blanc). Ainsi encore Chymès brule dans beaucoup d'endroits, sur
-tout lorsqu'il opère avec la chélidoine. Ainsi dans Pébichius, l'opération de
-bruler dans du bois de laurier (2) est exposée énigmatiquement et par péri-
-phrase ; les feuilles de laurier signifiant le soufre blanc. Telle est l'explica-
-tion concernant les mesures.
-5. Voici ce que Marie a dit, çà et là, dans mille endroits : α Brule notre
-cuivre avec du soufre et, après avoir été repris, il sera sans ombre ». Non seu-
-lement elle sait le bruler avec le soufre blanc, mais encore le blanchir et le
-rendre sans ombre. C'est aussi avec le (soufre) que Démocrite brule.
-blanchit et rend sans ombre. Et encore, α non seulement ils brulent le soufre
-jaune, mais ils rendent le métal sans ombre et le jaunissent ». Voici ce que
-dit Démocrite : α Le safran a la même action que la vapeur ; de même que
-(2) Voir p. 159, s 3 et note 2; p. 178,
-(1)Voirsur le motμᾶζα. Introd..p. 209 |
-et 257, et la Diplosis de Moῖse. n. ο tο
-note 1.
-
-
-### 0229
-
-sUR L'EAU DIVINE
-181
-la casia par rapport à la cannelle ». Dans la chimie de Mose, vers la fin,
-pareillement, il y a ce texte : α Arrose avec l'eau de soufre natif, il devien-
-dra jaune et sans ombre »; c'est-à-dire évidemment, brulé.
-6. Telle est l'opération de bruler ; tels sont le blanchiment, le jaunisse-
-ment, et dans les deux (cas), le fait de rendre (le métal) sans ombre. Brulant
-et reprenant de cette manière, vous rendrez le cuivre pareil à l'or (et) sans
-ombre, apte à la diplosis de l'argent et de l'or (1). Mais personne, à moins de
-connaitre toute la route, ne pratiquera bien la diplosis ; autrement il agi-
-rait comme celui qui dessécherait des raisins encore verts. Quelques-uns
-placent, dans tous leurs pots de terre des vases de verre carrés, pour faire
-cuire et digérer sur la kérotakis (bain marie) ; et ils les appellent lécythes
-(facons). Agathodémon prescrit de délayer fortement, en se conformant à la
-marche suivie par les médecins pour les collyres.
-7. Tel est donc l'acte de bruler les corps ; telle l'explication concernant les
-mesures. L'acte de bruler est appelée blanchiment ; pour le soufre, cet acte
-est appelé blanchiment et destruction de l'ombre. Le blanchiment même
-est appelé iosis et l'affinage est aussi un blanchiment. L'acte de bruler est
-encore appelé jaunissement, la destruction de l'ombre, jaunissement, et
-l'iosis, jaunissement. Le prophète Chymès, s'écriait avec enthousiasme :
-α Après les projections, il faut le rendre jaune et sans ombre ». Ensuite on
-t'expliauera le procédé relatif a l'eau divine et a l'iosis ou décomposition.
-III. XXV. --- SUR LAU
-1 ν
-1. Il faut montrer d'abord que l'eau divine est un composé de tous les
-liquides, obtenu par leur mélange, et que son nom est donné à tous les
-liquides. De même que l'on a nommé composition solide, le produit obtenu
-avec chacune des compositions solides, envisagée spécialement ; de même
-aussi, la composition liquide, tirée de chacune des espèces liquides, est dé-
-(1) On voit qu'il s'agit, ici comme | tal (Introduction, pages 20, 53 et 56).
-dans les Papyrus de Leide, de fabri- |
-(2) Cet article est un commentaire,
-quer un alliage d'or, qui conserve | plus récent que les vieux auteurs. ---
-les propriétés apparentes de ce mé- | Voir III, xiv, p. 155.
-
-
-### 0230
-
-182
-ZOSIME
-nommée eau divine, et l'on désigne ces deux compositions par mille noms.
-L'eau divine est désignée par les mots : saumure, eau de mer. urine d'impu-
-bère, vinaigre, saumure acide, huile de ricin, (huile) de raifort, baume,
-lait de la mère d'un enfant mâle, lait de vache noire, urine de génisse et de
-brebis ; quelques-uns la dénomment urine d'âne ; d'autres encore, eau de
-chaux et de marbre, de lie de vin ; eau de soufre, d'arsenic et de sandaraque,
-de natron, d'alun lamelleux ; et encore lait d'ânesse, de chevre, de chienne ;
-eau de cendre de choux et autres eaux produites par la cendre ; d'autres
-désignent aussi par ce nom l'eau de miel et d'oxymel, de vinaigre, de natron,
-et l'eau aérienne (rosée), celle du Nil, de 'Arction (1), le vin Aminéen, le vin
-de grenade, le vin d'olivier, le cidre, la bière, enfin un liquide quelconque,
-pour ne pas énumérer toutes les eaux.
-2. Les Anciens ont donné souvent des noms divers au blanc et au jaune.
-Il me parait convenable d'exposer quelles distinctions le philosophe
-Pébichiu a faites dans sa lettre au Philosophe, sur les liqueurs jaunes.
-α Etends avec du vin Aminéen »... Ils n'ont pas énuméré le vin nouveau, parmi
-les liqueurs destinées au blanchiment. Pébichius dit encore : α Le cidre, le
-vin d'olivier et le vin de grenade ». En ne distinguant pas davantage, ils n'ont
-pas rendu service à (leurs) auditeurs, et ils ont agi avec peu d'intelligence.
-En effet, en traitant des diverses espèces, le Philosophe les emploie pour le
-blanchiment et pour le jaunissement ; il les emploie pour les traitements
-que tu as entendu signaler précédemment, destinés à bruler et à faire
-cuire. Il dit à propos de la pyrite : « Prenant la pyrite, traite-la et délaie-la,
-soit avec de la saumure acide, etc. ». Voilà ce qu'il entend par eau divine
-blanche. Ensuite, à propos du cinabre : « Rends le cinabre blanc au moyen
-de l'huile, ou du vinaigre et du miel, etc. ». A propos de l'Androdamas, de
-même encore : α avec la saumure, ou la saumure acide ν. Ensuite il ajoute :
-aα Fais chauffer l'eau de soufre natif v; afin de te faire connaitre que les eaux de
-mer, l'urine, le vinaigre, l'huile de cinabre, l'eau de miel, tout cela c'est l'eau
-divine. En effet par une seule espèce il fait entendre le tout. Plus loin, dans
-l'article de l'Androdamas, voulant parler clairement, il disait : α Fais chauffer
-l'eau de soufre natif, car les liquides sont les eaux de soufre natif ».
-(1) Plante ? (DioscoiDE, Mat. méd., V, 104.)
-
-
-### 0231
-
-PREPARATION DE LOCRE
-183
-3. α Les (matières à) projection tirées de la chaux changent de nom et de
-couleur, quand il s agit du soufre blanc. Ce sont la terre de Chio, l'astérite
-et la sélénite, pour la classe du blanc. Quand il s'agit du jaune, projette de
-l'ocre attique, du minium du Pont cuit, et les similaires ν.
-Au sujet de la chrysocolle, il dit : α Brulant cette matière et l'arrosant
-d'huile jusqu'à sept fois ». Dans la Chrysopée, il a fait blanchir d'abord
-chacune de ces (substances). Il emploie semblablement la litharge dans
-les deux compositions. Car il n'y a pas plus de deux décoctions pour ac
-complir l'opération. Parmi les liqueurs. il comprend la vapeur et la litharge,
-(mêlées) avec le miel le plus blanc. Il ne négligeait aucun des liquides ; mais
-il les employaitdans les deux compositions. En effet il mélangeait une solution
-de comaris et de lentilles (?), en y ajoutant une préparation de chélidoine ; et
-il disait obtenir la composition de l'eau divine. Il prescrit de faire bouillir
-l'eau de chaux (obtenue par le marbre) avec de l'huile, et la pyrite avec du
-miel. Il décrit l'eau divine de diverses façons, dans ses quatre livres. Dans
-le livre de l'Argent ; il parle de la terre de Chio, de l'astérite, de la sélénite,
-et de sa propre projection. Dans le livre dudaune, il s agit de la terre deSinope,
-de l'ocre attique et de la pierre phrygienne. α Tu trouveras dans le traité des
-Pierres, le sang de bouc et le suc de lotos ; et, plus loin ce qui est utile. ..
-Les sulfureux sont dominés par les sulfureux, et les liquides par les liquides
-correspondants (1). En effet les sulfureux sont retenus par les sulfureux. »
-II. XXvI. --- SUR LA ΡRΕ
-1. La préparation de l'ocre se fait dans la montagne (voisine) de la mer
-appelée Adriatique. Il y alà des crevasses de la montagne ; à travers les fentes
-on voit des couches d'ocre en plaques. L'ocre est produite aussi en Babylonie
-dans la montagne. On voit l'ocre dans les fentes ; on l'enlève et on la fait
-(1) Axiome souvent répété, p. 2oet 145. | res, t. , p. 701, éd. Schneider ; Leipsic,
-(2) Le premier paragraphe est un | 1818). On y remarquera l'assimilation
-lragment technique. probablement fort | du réalgar, du minium et de la rubrique
-ncien (voir TuEornasre, Sur les pier- | avec l'ocre (voir Introd., p. 261).
-
-
-### 0232
-
-184
-ZOSIME
-cuire : on obtient ainsi la rubrique, que l'on appelle encore minium de
-Sinope. Nous, nous n'employons ni cette rubrique, ni ce minium de Sinope.
-Mais l'ocre indiquée ci-dessus est la véritable teinture ; à moins que le métal
-que l'on se propose de teindre ne soit le corps de la magnésie, ou le plomb noir.
-2. Quel rang doit lui être assigné en dehors des matières tinctoriales,
-tous les écrits s'expliquent sur ce point. Si par conséquent tu veux lui
-fixer un rang, c'est là que tu trouveras le résultat cherché ; surtout si
-tu suis Marie et le Philosophe. Le Philosophe mentionne les pyrites, le
-cinabre, le claudianon, la cadmie, l'androdamas, la chrysocolle. ll dit qu'il
-convient de faire agir sur le molybdochalque, le cinabre, ou le corps de la
-magnésie, substance qui est appelée plomb noir. Si maintenant tu en viens
-à la Chrysopée, tu verras quelles (substances) désagrègent l'étain, le fer ou
-le cuivre : ce sont le cinabre, la litharge blanche. A ton tour comprends ce
-que tu cherches : par la magnésie, entends le molybdochalque ; par le plomb,
-c'est (encore) le molybdochalque. Lorsqu'ils parlent d'Argyropée ou de Chry-
-sopée, ils entendent le molybdochalque ; c'est là le produit qu'ils traitent,
-puis soumettent (à la teinture). Au moment voulu, ils le fixent, après l'avoir
-désagrégé; alors ils blanchissent, ou jaunissent le métal durci par eux.
-3. Ils blanchissent le cuivre et, après l'avoir broyé, ils le gardent
-jusqu'au résultat final. L'opération faite avec le soufre et le mercure, ils
-l'appellent bruler. Ils appellent cuivre brulé, ce métal rendu couleur de sang
-(en vue du blanchimentj, teint superficiellement et à fond (1). C'est là ce
-qu'ils appellent bruler ; par là (le Philosophe) fait entendre la composition
-totale; il désigne sa dilution, (opérée) en vue des deux teintures. En suivant
-la voie directe, il a parlé d'abord du blanchiment, puis du jaunissement.
-III. XXVI. --- SUR LΕ TRlΤΕRΥ ΕΙ ΟΟΟΡ MΤALLIΟUΕ
-DE LA AAGΕSIE
-1. Introduisons de nouveau les Anciens. Ils disent que le cinabre produit le
-blanchiment de la magnésie. Pour rendre efficaces les discours antérieurs que
-(1) Cp. Introd., p. 233, le cuivre brulé, et plus haut, p. 154 et 178.
-
-
-### 0233
-
-TRAITEMENT DU CORPS DE LA MAGNÉSIE
-185
-j'ai écrits, relativement aux quatre corps qui servent de supports et à la mesure
-que comporte à leur sujet la composition crue et cuite (1), il est nécessaire
-de faire l'application de tout cela a l'explication de la magnésie. Il faut dire
-comment on forme le corps (métallique) de la magnésie; et si le blanchiment
-varie suivant la macération, ainsi que je te l'ai dit précédemment. Laisse-
-la devant le fourneau ; que le fourneau soit allumé avec du bois et des
-écorces de cobathia rouges (2), car la fumée de ces écorces blanchit tout. Si
-donc tu en recueilles la fumée, la magnésie l'absorbe et elle est blanchie.
-2. N'avons-nous pas rappelé dans le 7e livre, en parlant des cobathia rouges,
-que nous devions apprendre d'abord de quelle magnésie parlent les philoso-
-phes ? Si c'est de la (magnésie) simple, provenant de Chypre, ou de la ma-
-gnésie composée, obtenue par notre art ? En effet, en délayant la magnésie
-simple, ils veulent parler de la composée (3) ; mais ils entendaient en même
-temps la simple. C'est de cette façon que l'art a été caché par le double sens.
-attribué aux dénominations.
-3. Le philosophe Hermès, après l'eau de mer, nomme le natron, le vinaigre,
-le sang de moucheron (4), le suc du styrax, l'alun lamelleux, et autres
-substances semblables, et il dit : α Laisse-la devant le fourneau, comme je l'ai
-dit précédemment, avec un feu d'écorces de cobathia rouges, car la fumée des
-cobathia rouges blanchit tout, étant blanche elle-même (5).
-4. Ainsi parle Hermès ; mais nous devons savoir que le natron, le styrax,
-l'alun schisteux et la cendre des rameaux de palmier, c'est le soufre blanc,
-qui blanchit tout. Quant au sang de moucheron et au vinaigre, c'est l'eau de
-soufre (obtenue) avec la chaux ; les écorces des cobathia rouges, ce sont les
-sulfureux, principalement l'arsenic, lequel ressemble aux cobathia : ce sont
-(1) P. 15o et 151.
-voulue et amenée par la nomenclature
-(2) Composé arsenical (voir plus bas). | prophétique, entre le nom des écailles
-(3) Molybdochalque.
-ou morceaux de cobathia rouges, c'est-
-14) Lexique, p. 10. I ya ici un symbo- | à-dire des sulfures d'arsenic (Introd.,
-lisme et des dénominations semblables | p. 245) et celui des écorces et rameaux
-aux noms prophétiques du Papyrus V des palmiers. Rappelons que le mème
-de Leide (Introd., p. 10 et 11) et de | mot grec φοῖνι signife rouge et palmier.
-| La dernière phrase du g 2 montre le
-Dioscoride.
-(5) Olympiodore, p. 91. Dans tout ce | caractère intentionnel de ces confusions.
-passage existe une confusion, quisemble
-24
-
-
-### 0234
-
-186
-ZOSIME
-là les corps employés pour teindre en or. Il dit : α La fumée des cobathia
-blanchit tout. » Voulant enseigner ce que c'est que les cobathia, le Philo-
-sophe dit : α La vapeur du soufre blanchit tout. »
-5. Maintenant le Philosophe voulant t'enseigner (ce que c'est que) lacendre
-des palmiers maritimes, qui est aussi l'eau divine, s'exprime ainsi dans la
-seconde classe, celle des liqueurs blanches: α Ayant dissous la cendre du bois
-des peupliers blancs dans l'eau de soufre [[ceci n'est pas pris dans un sens
-simple], ou dans l'eau de soufre obtenue par la chaux, laquelle provient de
-la cendre blanche, du marbre, ou de la chaux vive. » De même que les
-sulfureux ont été dits (provenir) des cobathia rouges, de même l'eau de
-soufre tire sa composition du soufre ; celui -ci est aussi désigné sous le nom
-de palmier. De plus (on voit que) le blanchiment de la magnésie composée
-est produit par la composition du soufre blanc et que la composition liquide
-du blanc est obtenue par la chaux. Ce sont là toutes (matieres) dont (j'ai
-expliqué) la préparation, dans mon discours sur la composition ; j'en ai dit
-la mesure, dans le discours sur les mesures ; le mode de cuisson et la
-conduite du fourneau, dans le discours sur la cuisson.
-6. Voilà pour le blanchiment du corps de la magnésie. Or il vous est
-loisible, à vous qui avez du bon sens, d'entreprendre ce qui est le mieux et
-de nous seconder, au lieu de nous précipiter dans ce gouffre (de difficultés).
-Celui qui fait quelque autreraisonnement concernant cette doctrine, demeure
-dans une obscurité profonde; il agit comme un homme qui frapperait l'air
-avec ses mains, et la mer avec ses pieds. Ceux qui marchent dans le vide et
-parlent tout à fait en l'air, travaillent inutilement par des procédés qui leur
-sont propres (à modifier) le type du corps (métallique).
-7. Mais toi, ô bienheureuse, renonce à ces vains éléments dont on trouble
-tes oreilles ; car j ai oui dire que tu converses avec Paphnutia la vierge et
-certains hommes sans instruction (1). Les choses que tu leur entends dire
-(1) Cette discussion finale parait être | méritent d'être notés. Le premier
-adressée par Zosime à Théosébie ; (v. | vient s'ajouter à ceux des femmes alchi-
-Olmpiodore, p. 9ο). Elle est carac- | mistes : Marie, Cléopatre, Théosébie.
-téristique et met au jour la personna- | Nilus était d'ailleurs un nom assez ré-
-lité des alchimistes égyptiens et leurs | pandu en Egypte : plusieurs personna-
-controverses. --- Cp. Démocrite, p. 50. | ges historiques l'ont porté.
---- Les noms de Paphnutia et de Nilus
-
-
-### 0235
-
-TRAITEMENT DU CORPS DE LA MAGNESIE
-187
-sont vaines et tu entreprends de faire des raisonnements vides de sens.
-Renonce à la société des gens qui ont l'esprit aveuglé et l'imagination trop
-enflammée. Il faut plaindre ces gens-là, et écouter le langage de la vérité,
-de la bouche des hommes dignes de l'annoncer. Ces gens-là ne veulent
-pas de secours ; ils ne supportent pas d'être instruits par des maitres,
-se flattant d'être des maitres (eux-mêmes). Ils prétendent être honorés pour
-leurs raisonnements vains et vides (de sens). Lorsqu'on veut leur en-
-seigner quels sont les degrés de la vérité, ils ne supportent pas la connais-
-sance de l'art et ils ne (la) digèrent pas. Ils désirent l'or plutôt que la
-raison. Echauffés par une démence extrême, ils deviennent incapables
-de raisonnement et ne sauraient attendre la richesse. En effet s ils étaient
-guidés par la raison, l'or les accompagnerait et serait en leur pouvoir : car
-la raison est maitresse de l'or. Celui qui s'y attache, qui la désire et sy
-unit, trouvera l'or placé devant nous, au milieu des détours qui le uennent
-caché.
-8. La raison est l'indicatrice de tous les biens, comme on l'a dit quelque
-part (1). La philosophie est la connaissance de la vérité, et révele les êtres qui
-existent. Celui qui accepte la raison, verra par elle l'or placé devant (ses)
-yeux. Mais ceux qui ne supportent pas la raison marchent constamment
-dans le vide, et entreprennent les actes les plus ridicules. C'est ainsi que
-le rire fut provoqué par Nilus, ce prtre ton ami, qui faisait cuire le molyb-
-dochalque dans un four de campagne (comme s'il avait fait cuire des pains),
-opérant avec les cobathia pendant toute une journée. Aveuglé des yeux du
-corps, il ne pensait pas que son procédé était mauvais, mais il. soufflait; et
-sortant (le produit) après le refroidissement, il ne montrait que de la cendre. .
-Quand on lui demandait ou était le blanchiment, embarrassé, il disait qu il
-avait pénétré dans la profondeur. Ensuite il mettait du cuivre, il teignait la
-scorie; car le cuivre n'étant arrêté par aucun solide, passait outre et dispa-
-raissait lui-même dans la profondeur; de même pour le blanchiment de la
-magnésie. Ayant entendu ces choses (de la bouche) de ses contradicteurs,
-Paphnutia fut tournée en grande dérision ; et vous le serez aussi, si vous
-tombez dans la même démence. Embrasse pour moi Nilus, celui qui cuit
-(1) E Lb α Comme l'a dit le Philosophe ».
-
-
-### 0236
-
-188
-ZOSIME
-avec les cobathia, et sois pleinement édifiée sur l'économie du corps de la
-magnésie.
-III. XXVII. --- SUR L ΟRΡS DΕ LA ΜAΟΝS
-E SU SΟΝ TAATn
-1. Voici ce que Marie exposelibéralementetclirement, au sujet de ce qu'elle
-nomme les pains de la magnésie. Le premier degré dans la vérité du mystère
-se trouve expliqué dans ces (passages). Ainsi donc Marie veut que ce soit
-là le corps de la magnésie ; elle le proclame non seulement dans ce passage,
-mais dans beaucoup d'autres. Dans un autre endroit, elle dit : αSans le
-concours du plomb noir, on ne saurait produire ce corps de la magnésie (1),
-dont nous avons précisé et accompli la préparation. Telles sont, dit-elle, les
-doctrines ; et sans se lasser, (les) enseignant pour la 2eet 3e fois, elle nomme
-corps de la magnésie le plomb noir et le molybdochalque ; à ce sujet,
-elle parle du cinabre (2), ou du plomb, et de la pierre étésienne. C'estce corps
-qui produit la fusion simultanée (3) de toutes les matières cuites et dorées
-en puissance. Les matières crues, il les cuit ; et il en opère la diplosis.
-Il produit, dit-elle, en puissance toutes les matières dorées par cuisson ;
-car ce n'est pas encore en acte. Sur ce (point) j'écrirai un autre discours; mais
-pour le moment occupons-nous de notre sujet.
-2. Il a donc été exposé par Marie que le corps de la magnésie, c'est le
-molybdochalque noir ; car il n'a pas encore été teint. α C'est ce molybdo-
-chalque que tu dois teindre, en y projetant les motaria (4) de la sandaraque
-jaune, afin que l'or cuit n'existe plus (seulement) en puissance, mais en
-acte. » Ainsi (s'exprime) Marie, après avoir nommé pains le corps de la
-magnésie.
-Nous devons, avant tout, montrer que le Philosophe est du même senti-
-ment, en ce qui (concerne) le corps de la magnésie qu'on appelait : LE
 ---
-(3) V. p. 78, 101, 113, 128.
-(1)ale molybdochalque par lequelν Lb. |
-ί4) V. p. 108, 112, 157.
-(2) α du cuivre », BAKELb.
 
+#### 3\. --- 22. Sur les Mesures.
 
-### 0237
+1\. L'explication concernant les mesures met en évidence tout le mystère de la cuisson ; car c'est là la composition, c'est là le poids, c'est là le blanchiment, c'est là le jaunissement. Or, dans le discours sur la composition, ces matières (ont été traitées en passant), et il en a été de nouveau question (dans le discours) sur le cuivre et l'iosis. Il paraît employer ce plomb, lorsqu'il dit : « saupoudre avec du plomb. » Il ne parle pas du plomb simplement, mais il ajoute : « avec notre plomb noir, provenant du minerai de Coptos et de la litharge. » Or l'opération de saupoudrer me paraît être un délaiement, comme je le montre d'après tous les écrits, dans mon Traité sur l'Action, en y parlant du poids. Ils ont l'habitude de peser ensemble secrètement les choses au moyen desquelles ils brûlent, ou saupoudrent, ou projettent. Ils pèsent le plomb destiné au saupoudrage : le blanchiment est soumis à la pesée ainsi que l'ios, lors de la projection. En effet : « rejette, dit-il, la moitié de la préparation blanche, etc. »
 
-SUR LE CORPS DE LA MAGNE
-19
-Touτ. Ce molybdochalque était le plomb noir. Lorsqu'ils disaient que le
-mercure est fixé avec le corps de la magnésie, ils voulaient dire par le corps
-complet, tel qu'il a été exposé dans mon premier mémoire, et que Marie
-le dit plus haut du corps de la magnésie. Elle dit (encore) : « Tu trouveras
-du plomb noir: emploie-le après y avoir mêlé du mercure. » Or c'est lui que
-dénomment les classes (du Philosophe), c'est lui dont parle le Philosophe
-dans ses préambules : α Mêle du mercure au corps de la magnésie. » Ainsi le
-Philosophe lui-même désigne le plomb noir et la pyrite. Il ne parle pas (du
-plomb) simplement, pour que tu ne t'égares pas, mais il dit α à notre (plomb)
-noir ». Pour que tu ne méconnaisses pas le molybdochalque, il dit que :
-αle mercure seul rend le cuivre sans ombre; il ne fixera pas (seulement) le corps
-de la magnésie, mais encore le cuivre ». De cette façon aussi le Philosophe
-désigne sous le nom du Tout, le corps de la magnésie et le plomb noir (1).
-Dans les livres des anciens, le molybdochalque a été rangé dans une seule
-et même classe (avec le plomb). Ce que l'on proclame du mercure, on le
-proclame de toute sorte de pierres, comme je l'ai déclaré dans les premiers
-(chapitres).
-3. C'est donc la l'or cuit en puissance. Et s'il est blanchi ou jauni, alors
-aussi les matières crues réagissent sur les matières cuites : c'est-à-dire que
-si du cuivre blanc est jeté sur du (cuivre) brut de Chypre, il produit de l'ar-
-gent. Mais s'il est jauni, en le projetant sur de l'argent ordinaire brut, on
-produit de l'or. Après avoir mouillé avec de la couperose, du vin Aminéen
-et du vinaigre ordinaire, laisse pendant 14 jours : c'est la le (temps) voulu
-pour la fabrication de l'argent.
-4. Comme on échoue souvent dans le traitement, parce qu'on ne connait
-pas la vérité sur le délaiement, rappelons ce qui a été dit touchant les vapeurs :
-c'est la couperose qui amène la vapeur à la coloration en or. Semblablement
-aussi, Agathodémon, dans son enseignement sur la teinture préalable, disait
-ceci : α Afin que tu puisses savoir l'effet que tu produis, en arrivant à cette
-couperose que tu connais, c'est sa propriété tinctoriale qui amène la vapeur
-à développer l'or. Cela a été montré dans l'écrit sur l'affinage, et rappelé au
-sujet des deux (teintures). Dans le discours sur les mesures, il est dit que les
-(1) Le molybdochalaue. ABKELb.
+2\. Ainsi toutes choses ont été cachées dans toutes les opérations de l'art, relativement à la pesée comparative et à l'iosis. Je dis toutes choses en même temps : attendu que si le soufre prédomine dans la coupe, on ne voit pas la composition placée au-dessous, de façon à connaître quand elle est blanchie par (l'action du) soufre lui-même. C'est lorsqu'il devient blanc, que l'on reconnaît que la (composition) située au-dessous a été blanchie. Par suite, Agathodémon disait de prendre (chaque préparation de) soufre,* qu'il fût blanc ou quelconque.* C'est son état qui indique la cuisson. On enlève et on fait chauffer (le produit) avec le surplus du soufre ; il le sépare (en deux portions ? ), plutôt qu'il ne l'affine ; car il s'empare de (la composition) blanchie. Si on le laisse (trop longtemps), il tourne au jaune.
 
+*) Au-dessus du signe du soufre, E écrit celui du mercure ; et Lb donne à la place de ces signes le nom du mercure en toutes lettres.
 
-### 0238
+*) Cp. p. 166, § 19.
 
-ZOSIME
-190
-pierres les plus belles et aimées de Dieu sont les pierres blanches et les
-pierres couleur de sang; c'est là ce qu'on a appelé pyrite. Elles sont multi-
-colores et de noms multiples ; les uns parlent de l'alabastron (1), d'autres
-appliquent aux deux le nom de pyrite, ainsi que je l'ai montré. En effet,
-nulle autre pierre que la pyrite n'est plus belle et aimée de Dieu.
-5. Maintenant le discours a pour sujet le corps de la magnésie. Ce nom
-unique signifie toutes les choses fabriquées avec la vraie mesure de la macé-
-ration nécessaire. Le cinabre (2) produit le véritable corps de la magnésie.
-Ne m'écartant pas de cette vérité, je voulais, moi aussi, égaler la capacité de
-celui qui a dit (3) : α O femme, je ne parlais pas (du plomb) ordinaire, afin que
-tu ne t'égarasses pas. » Mais comme je ne suis pas Démocrite, je te jure par son
-mérite que je ne m'égare pas ; et (tu ne tomberas pas dans l'erreur) sans
-retour de ceux qui prétendent que la cendre sans corps (métallique) a été
-appelée le corps de la magnésie (4).
-On a dit que le mercure est incorporel. e dis, moi aussi, que ceux-là ont
-compris quelque chose. En montrant le résultat à obtenir, ils donnent la
-mesure de leur intelligence. Mais ils ne tiennent pas en réalité le résultat,
-car la cendre n'a pas été appelée le corps de la magnésie, mais l'incorporel.
-Or le mercure est aussi un corps (métallique). Ne va pas m'opposer cette
-subtilité, que ceci comprend tous les corps métalliques et que la cendre des
-incorporels a été appelée le corps de la magnésie, il n'en est rien. Mais que
-veut-il dire, si ce n'est que (les incorporels), étant de nature sulfureuse, se
-volatilisent? Ce sont donc les choses fixes et non fugaces qui sont appelées
-des corps. C'est pourquoi Marie dit : α le corps de la magnésie est la chose
-secrète qui provient du plomb, de la pierre étésienne et du cuivre ».
-6. Toutes les choses de cet ordre, mélangées aux matières volatiles, sont
-appelées corps. C'est ainsi qu'il parle du mercure, dans son traité des liquides
-blancs : «mêles-y de l'alun lamelleux, ou du molybdochalque, ou de lachaux,
-afin que le (mercure) incorporel devienne un corps ». De même, au sujet de
-la chrysocolle, il dit : α celle-ciaussi est fugace ». Sur le même sujet Agathodé-
-(4) Voir plus haut ce qui est dit de
-(1) Leique, p. 4. Introd., p. 238.
-(2) S'agit-il ici de l'hématite? v. p. 39. | Nilus, p. 187.
-(3) Sans doute Zosime s'adressant ἡ |
-Théoséhis
-Théosébie.
+C'est pourquoi le soufre produisant le blanchiment, nous chercherons le poids du Tout d'après les philosophes.* On prend dans la (classe) dernière des liquides, une once d'arsenic et moitié autant de natron ; des pellicules de feuilles de pêcher encore tendres, deux onces ; du sel, la moitié ; du suc de mûrier, une once. Puis on délaie tout cela avec de l'alun lamelleux et du vinaigre, ou de l'urine, ou de la lessive de chaux, jusqu'à ce qu'il se forme une liqueur. Ensuite, on teint les feuilles (métalliques ? ) ternies ; puis on fait disparaître l'ombre du métal. Il faut mettre tous les résidus, et, avant tout, une partie d'arsenic et de sandaraque, deux parties de chaux, ainsi que les eaux divines. Après avoir obtenu une liqueur blanche semblable à du marbre, on arrose avec elle ; ou bien l'on y fait cuire dans le vase (_Troullon_)* la composition susdite.
 
+*) Voir p. 161, § 8 ; p. 163, § 11, etc.
 
-### 0239
+*) Cp. p. 164.
 
-SUR LE CORPS DE LA MAGNESIE
-191
-mon: αVeille, dit-il, à ce que son esprit tinctorial ne s'en aille pas. » Bien
-qu'elle soit volatile, on l'appelle un corps ; le Philosophe parle de ses
-mélanges dans la classe de la chrysocolle. α Teins toute sorte de corps avec
-le cuivre, l'argent, l'or. » Marie, au sujet de la chrysocolle: α... après avoir
-pesé, (opère) avec du molybdochalque, pendant un jour »... Ou bien : a pre-
-nant de la chrysocolle et du cinabre, délaie avec de la litharge blanche et fais
-disparaitre (la nature du métal. Si le cuivre est modifié et amené a l'état de
-corps (métallique), projettes-y de la couleur d'or et tu auras de l'or ». Ainsi
-la chrysocolle reçoit cette qualification de corps, lorsqu'elle a été bien
-mélangée, et quoiqu'elle soit fugace par elle-même, parce que tu en fais un
-corps par transmutation.
-7. Ainsi, convertir et transmuter (1), dans ces auteurs, signifie donner un
-corps aux incorporels, c'est-à-dire aux matières fugaces. Par leur transforma-
-tion on obtient le molybdochalque, le plomb noir, celui qui doit être traité
-avec le mercure, et devenir le corps de la magnésie. Ils ne veulent pas dire,
-comme certains, que la mutation s'applique au fait de convertir et de trans-
-muter le mercure. Mais lorsque les matières fugaces ont pris un corps, la
-conversion a lieu pour tous les corps, par leur teinture en blanc ou
-en jaune. En effet cette conversion est appelée transmutation, après que les
-incorporels ont pris un corps, par l'effet de l'art. Dans la conversion rétro-
-grade accomplie par le feu, c'est-a-dire dans le blanchiment ou le jaunisse-
-ment, les matières délayées fortement et associées par le feu, sont de nou-
-veau rendues fugaces et redeviennent incorporelles (2). A ce moment elles
-sont réduites au dernier degré de la division. La vapeur sublimée, la première
-des matières incorporelles, conduit ainsi à l'art suprême.
+---
+
+#### 3\. --- 23. Comment on Brûle les Corps.
+
+1\. Cherchons maintenant, d'après les philosophes, ce que c'est que brûler les corps ; car l'explication concernant les poids y aboutit et l'ensemble (de notre étude) renferme (cette question). Introduis le Philosophe disant : « Prends la vapeur (qui provient) de l'arsenic, fixe-la suivant l'usage ; ajoute du cuivre ou du fer à (la préparation) sulfureuse, et le métal blanchit. » Quelques-uns expliquent le (mot) « sulfureuse » par « brûlée ; » car ceux-ci dans leur ignorance brûlent le cuivre avec le soufre, et le fer avec la magnésie. Or ce n'est pas là brûler, mais détruire. L'opération de brûler dans le Philosophe est nommée blanchiment. De même que l'affinage et les autres opérations ont été démontrés être un blanchiment ; de même aussi l'opération de brûler dont il parle ici est un blanchiment ; dans le second (cas), c'est un jaunissement.
+
+2\. Ainsi, le Philosophe brûle le cuivre au moyen de l'eau de soufre, pratiquant une décoction, comme il a été dit précédemment. « En effet, dit-il, mets (y) la moitié de la préparation blanche : ce sera le premier degré. Fais la cuire. Nous conservons l'autre moitié pour l'iosis. » C'est aussi pour cette raison que Pébichius, _passim_, disait : « Partagez la préparation en deux parties. Brûlez le cuivre dans du bois de laurier,* c'est-à-dire dans la composition blanche ; car les corps brûlés de cette façon avec des feuilles de laurier, après avoir été cuits dans l'eau de soufre, sont blanchis en même temps. Tel est le (précepte). Emploie du cuivre ou du fer sulfuré ; par ce (procédé), il sera aussi blanchi. » Agathodémon donne le même conseil : à savoir que les corps doivent bouillir et cuire avec la vapeur dans l'eau divine. De cette façon il y a opération de brûler et blanchiment. Car à l'occasion de l'étain le Philosophe supposait la cuisson : « Tu feras cuire la vapeur indiquée précédemment dans l'huile de ricin ou de raifort, après y avoir mélangé un peu d'alun. » Il dit ensuite : « Fais les mélanges de l'étain, etc. et toutes choses seront traitées jusqu'au bout avec deux classes (de corps) seulement. » Après avoir parlé des jours, il a mentionné toutes choses ; après avoir parlé des huiles, il a mentionné l'eau divine ; à la suite de l'alun, le soufre ; à la suite de l'étain, les deux formules ; car la vapeur (sublimée) imprègne ce métal.*
+
+*) Voir p. 159. --- Ce mot paraît signifier un sulfure arsénical.
+
+*) Toute cette description se rapporte au blanchiment des métaux par la vapeur de l'arsenic, avec le concours de la liqueur appelée eau divine.
+
+3\. Les projections (se font) encore ici avec les liqueurs de soufre ; tandis que la cuisson concerne l'ensemble, qui (est) une combustion, ou une décoction et un blanchiment. C'est par là que les corps sont brûlés et cuits. Cette opération (est celle) qui a été proclamée de tout temps ; celle que tous les écrits enseignent en ternies mystérieux, (en prescrivant de) brûler le cuivre avec le soufre. Mais les autres (modes de) chauffage sont des destructions, plutôt que des combustions. Le cuivre, s'il est brûlé, (devient) un cuivre propre à tout et apte à la teinture ; en disparaissant, il devient électrum. Si l'on force le feu, il devient jaune, la moitié du soufre étant brûlée. Il faut le quart de magnésie. Ainsi nous ajoutons 4 onces de cuivre, 1 once de fer, 6 scrupules de magnésie ; 2 chalques* d'étain et de plomb, de la cadmie, du claudianon, de la chrysocolle, du cinabre, en proportion du nombre d'onces des métaux. Si tu procèdes en proportions égales, par à peu près, tu peux réussir. Mais opérer dans ces conditions, c'est laborieux et peu sensé. Il faut procéder par pesées. Démocrite ayant dit : « Rien n'a été omis, rien ne manque ; » certes, par le mérite de Démocrite ! rien n'est laissé en arrière : la composition des corps dissous, c'est-à-dire la montée de l'eau divine et de la vapeur, nous l'avons exposée sincèrement ; et nous avons donné par là l'interprétation du Livre. Maintenant que nous avons décrit la mesure pour l'acte de brûler, examinons celle du jaunissement.
+
+*) 1 chalque = 8e d'obole = 0,091. gr.  
+Lb dit « de mercure, » au lieu d'étain ; probablement parce que le copiste a donné par erreur au signe d'Hermès le sens moderne de mercure, au lieu du sens ancien d'étain (_Introd._, p. 84).
+
+---
+
+#### 3\. --- 24. Sur la Mesure du Jaunissement.
+
+1\. Pourquoi Agathodémon a-t-il écrit sur ce sujet ? Ce n'est pas en vue d'enseigner la mesure, mais pour dire qu'il faut employer en safran et en chélidoine le double des autres herbes ; car celles-ci ont de plus grandes propriétés tinctoriales. Il règle la proportion, en raison du soufre blanc. L'eau tirée des soufres, des jus et des herbes, est appelée ici eau de soufre pur. C'est avec cela qu'ils arrosent et font cuire la composition blanche : elle est jaunie par là. Fais cuire, comme tu l'as entendu dire précédemment, en enlevant dès que la matière jaunit. C'est la mesure du jaunissement. Telle est l'explication concernant la mesure, annoncée plus haut.
+
+2\. Il faut savoir que pendant qu'on accomplit l'œuvre, plusieurs causes concourent, les unes visibles à l'œil nu, les autres non. Les premières sont les espèces lavées ou mélangées, le molybdochalque et les similaires, la pyrite et les similaires. Il ne faut pas que la pyrite et l'androdamas soient traités d'avance par le vinaigre, d'après ce que disent les écrits, afin d'éviter que leur partie cuivreuse ne se change en ios ;--- plus tard elle sera mélangée avec le cinabre et ses similaires. Il est permis (de les exposer) au soleil, ainsi que les autres choses semblables.
+
+3\. Marie (place) en première ligne le molybdochalque et les (procédés de) fabrication. L'opération de brûler (est) ce que tous les anciens préconisents Marie, la première, dit : « Le cuivre brûlé avec le soufre, traité par l'huile de natron, et repris après avoir subi plusieurs fois le même traitement, devient un or excellent et sans ombre. Voici ce que dit le Dieu : Sachez tous que, d'après l'expérience, en brûlant le cuivre (d'abord), le soufre ne produit aucun effet. Mais lorsque vous brûlez (d'abord) le soufre, alors non-seulement il rend le cuivre sans tache, mais encore il le rapproche de l'or. » Marie, dans la description située au-dessous de la figure, le proclame une seconde fois, et dit : « Ceci m'a été gracieusement révélé par le Dieu, à savoir que le cuivre est d'abord brûlé avec le soufre, puis avec le corps de la magnésie ; et l'on souffle jusqu'à ce que les parties sulfureuses s'en échappent avec l'ombre : (alors) le cuivre devient sans ombre. »
+
+4\. C'est ainsi que tous brûlent. C'est ainsi que dans la chimie (μᾶζα)* de Moïse on brûle avec du soufre, du sel, de l'alun et du soufre (j'entends le soufre blanc). Ainsi encore Chymès brûle dans beaucoup d'endroits, sur tout lorsqu'il opère avec la chélidoine. Ainsi dans Pébichius, l'opération de brûler dans du bois de laurier* est exposée énigmatiquement et par périphrase ; les feuilles de laurier signifiant le soufre blanc. Telle est l'explication concernant les mesures.
+
+*) Voir sur le mot μᾶζα, _Introd._, p. 209 et 257, et la _Diplosis de Moïse_, p. 40.
+
+*) Voir p. 159, § 3 et note 2 ; p. 178, note 1.
+
+5\. Voici ce que Marie a dit, çà et là, dans mille endroits : « Brûle notre cuivre avec du soufre et, après avoir été repris, il sera sans ombre. » Non seulement elle sait le brûler avec le soufre blanc, mais encore le blanchir et le rendre sans ombre. C'est aussi avec le (soufre) que Démocrite brûle, blanchit et rend sans ombre. Et encore, « non seulement ils brûlent le soufre jaune, mais ils rendent le métal sans ombre et le jaunissent. » Voici ce que dit Démocrite : « Le safran a la même action que la vapeur ; de même que la casia par rapport à la cannelle. » Dans la chimie de Moïse, vers la fin, pareillement, il y a ce texte : « Arrose avec l'eau de soufre natif, il deviendra jaune et sans ombre ; » c'est-à-dire évidemment, brûlé.
+
+6\. Telle est l'opération de brûler ; tels sont le blanchiment, le jaunissement, et dans les deux (cas), le fait de rendre (le métal) sans ombre. Brûlant et reprenant de cette manière, vous rendrez le cuivre pareil à l'or (et) sans ombre, apte à la diplosis de l'argent et de l'or.* Mais personne, à moins de connaître toute la route, ne pratiquera bien la diplosis ; autrement il agirait comme celui qui dessécherait des raisins encore verts. Quelques-uns placent, dans tous leurs pots de terre des vases de verre carrés, pour faire cuire et digérer sur la kérotakis (bain marie) ; et ils les appellent lécythes (flacons). Agathodémon prescrit de délayer fortement, en se conformant à la marche suivie par les médecins pour les collyres.
+
+*) On voit qu'il s'agit, ici comme dans les Papyrus de Leide, de fabriquer un alliage d'or, qui conserve plus les propriétés apparentes de ce métal (_Introduction_, pages 20, 53 et 56).
+
+7\. Tel est donc l'acte de brûler les corps ; telle l'explication concernant les mesures. L'acte de brûler est appelée blanchiment ; pour le soufre, cet acte est appelé blanchiment et destruction de l'ombre. Le blanchiment même est appelé iosis et l'affinage est aussi un blanchiment. L'acte de brûler est encore appelé jaunissement, la destruction de l'ombre, jaunissement, et l'iosis, jaunissement. Le prophète Chymès, s'écriait avec enthousiasme : « Après les projections, il faut le rendre jaune et sans ombre. » Ensuite on t'expliquera le procédé relatif à l'eau divine et à l'iosis ou décomposition.
+
+---
+
+#### 3\. --- 25. Sur l'Eau Divine.*
+
+*) Cet article est un commentaire, plus récent que les vieux auteurs. ---- Voir 3, 14, p. 155.
+
+1\. Il faut montrer d'abord que l'eau divine est un composé de tous les liquides, obtenu par leur mélange, et que son nom est donné à tous les liquides. De même que l'on a nommé composition solide, le produit obtenu avec chacune des compositions solides, envisagée spécialement ; de même aussi, la composition liquide, tirée de chacune des espèces liquides, est dénommée eau divine, et l'on désigne ces deux compositions par mille noms. L'eau divine est désignée par les mots : saumure, eau de mer, urine d'impubère, vinaigre, saumure acide, huile de ricin, (huile) de raifort, baume, lait de la mère d'un enfant mâle, lait de vache noire, urine de génisse et de brebis ; quelques-uns la dénomment urine d'âne ; d'autres encore, eau de chaux et de marbre, de lie de vin ; eau de soufre, d'arsenic et de sandaraque, de natron, d'alun lamelleux ; et encore lait d'ânesse, de chèvre, de chienne ; eau de cendre de choux et autres eaux produites par la cendre ; d'autres désignent aussi par ce nom l'eau de miel et d'oxymel, de vinaigre, de natron, et l'eau aérienne (rosée), celle du Nil, de l'Arction,* le vin Aminéen, le vin de grenade, le vin d'olivier, le cidre, la bière, enfin un liquide quelconque, pour ne pas énumérer toutes les eaux.
+
+*) Plante ? (Dioscoride, _Mat. méd._, 5, 104.)
+
+2\. Les Anciens ont donné souvent des noms divers au blanc et au jaune. Il me paraît convenable d'exposer quelles distinctions le philosophe Pébichius faites dans sa lettre au Philosophe, sur les liqueurs jaunes. « Etends avec du vin Aminéen ... » Ils n'ont pas énuméré le vin nouveau, parmi les liqueurs destinées au blanchiment. Pébichius dit encore : « Le cidre, le vin d'olivier et le vin de grenade. » En ne distinguant pas davantage, ils n'ont pas rendu service à (leurs) auditeurs, et ils ont agi avec peu d'intelligence. En effet, en traitant des diverses espèces, le Philosophe les emploie pour le blanchiment et pour le jaunissement ; il les emploie pour les traitements que tu as entendu signaler précédemment, destinés à brûler et à faire cuire. Il dit à propos de la pyrite : « Prenant la pyrite, traite-la et délaie-la, soit avec de la saumure acide, etc. » Voilà ce qu'il entend par eau divine blanche. Ensuite, à propos du cinabre : « Rends le cinabre blanc au moyen de l'huile, ou du vinaigre et du miel, etc. » A propos de l'Androdamas, de même encore : « avec la saumure, ou la saumure acide. » Ensuite il ajoute : « Fais chauffer l'eau de soufre natif ; » afin de te faire connaître que les eaux de mer, l'urine, le vinaigre, l'huile de cinabre, l'eau de miel, tout cela c'est l'eau divine. En effet par une seule espèce il fait entendre le tout. Plus loin, dans l'article de l'Androdamas, voulant parler clairement, il disait : « Fais chauffer l'eau de soufre natif, car les liquides sont les eaux de soufre natif. »
+
+3\. « Les (matières à) projection tirées de la chaux changent de nom et de couleur, quand il s'agit du soufre blanc. Ce sont la terre de Chio, l'astérite et la sélénite, pour la classe du blanc. Quand il s'agit du jaune, projette de l'ocre attique, du minium du Pont cuit, et les similaires. »
+
+Au sujet de la chrysocolle, il dit : « Brûlant cette matière et l'arrosant d'huile jusqu'à sept fois. » Dans la Chrysopée, il a fait blanchir d'abord chacune de ces (substances). Il emploie semblablement la litharge dans les deux compositions. Car il n'y a pas plus de deux décoctions pour accomplir l'opération. Parmi les liqueurs, il comprend la vapeur et la litharge, (mêlées) avec le miel le plus blanc. Il ne négligeait aucun des liquides ; mais il les employait dans les deux compositions. En effet il mélangeait une solution de comaris et de lentilles ( ? ), en y ajoutant une préparation de chélidoine ; et il disait obtenir la composition de l'eau divine. Il prescrit de faire bouillir l'eau de chaux (obtenue par le marbre) avec de l'huile, et la pyrite avec du miel. Il décrit l'eau divine de diverses façons, dans ses quatre livres. Dans le livre de l'Argent ; il parle de la terre de Chio, de l'astérite, de la sélénite, et de sa propre projection. Dans le livre du Jaune, il s'agit de la terre de Sinope, de l'ocre attique et de la pierre phrygienne. « Tu trouveras dans le traité des Pierres, le sang de bouc et le suc de lotos ; et, plus loin ce qui est utile ... Les sulfureux sont dominés par les sulfureux, et les liquides par les liquides correspondants.* En effet les sulfureux sont retenus par les sulfureux. »
+
+*) Axiome souvent répété, p. 20 et 145.
+
+---
+
+#### 3\. --- 26. Sur la Préparation de l'Ocre.*
+
+*) Le premier paragraphe est un fragment technique, probablement fort ancien (voir Théophraste, _Sur les pierres_, t. 1, p. 701, éd. Schneider ; Leipzig, 1818). On y remarquera l'assimilation du réalgar, du minium et de la rubrique avec l'ocre (voir _Introd._, p. 261).
+
+1\. La préparation de l'ocre se fait dans la montagne (voisine) de la mer appelée Adriatique. Il y a là des crevasses de la montagne ; à travers les fentes on voit des couches d'ocre en plaques. L'ocre est produite aussi en Babylonie dans la montagne. On voit l'ocre dans les fentes ; on l'enlève et on la fait cuire : on obtient ainsi la rubrique, que l'on appelle encore minium de Sinope. Nous, nous n'employons ni cette rubrique, ni ce minium de Sinope. Mais l'ocre indiquée ci-dessus est la véritable teinture ; à moins que le métal que l'on se propose de teindre ne soit le corps de la magnésie, ou le plomb noir.
+
+2\. Quel rang doit lui être assigné en dehors des matières tinctoriales, tous les écrits s'expliquent sur ce point. Si par conséquent tu veux lui fixer un rang, c'est là que tu trouveras le résultat cherché ; surtout si tu suis Marie et le Philosophe. Le Philosophe mentionne les pyrites, le cinabre, le claudianon, la cadmie, l'androdamas, la chrysocolle. Il dit qu'il convient de faire agir sur le molybdochalque, le cinabre, ou le corps de la magnésie, substance qui est appelée plomb noir. Si maintenant tu en viens à la Chrysopée, tu verras quelles (substances) désagrègent l'étain, le fer ou le cuivre : ce sont le cinabre, la litharge blanche. A ton tour comprends ce que tu cherches : par la magnésie, entends le molybdochalque ; par le plomb, c'est (encore) le molybdochalque. Lorsqu'ils parlent d'Argyropée ou de Chrysopée, ils entendent le molybdochalque ; c'est là le produit qu'ils traitent, puis soumettent (à la teinture). Au moment voulu, ils le fixent, après l'avoir désagrégé ; alors ils blanchissent, ou jaunissent le métal durci par eux.
+
+3\. Ils blanchissent le cuivre et, après l'avoir broyé, ils le gardent jusqu'au résultat final. L'opération faite avec le soufre et le mercure, ils l'appellent brûler. Ils appellent cuivre brûlé, ce métal rendu couleur de sang (en vue du blanchiment), teint superficiellement et à fond.* C'est là ce qu'ils appellent brûler ; par là (le Philosophe) fait entendre la composition totale ; il désigne sa dilution, (opérée) en vue des deux teintures. En suivant la voie directe, il a parlé d'abord du blanchiment, puis du jaunissement.
+
+*) Cp. _Introd._, p. 233, le cuivre brûlé, et plus haut, p. 154 et 178.
+
+---
+
+#### 3\. --- 27. Sur le Traitement du Corps Métallique de la Magnésie.
+
+1\. Introduisons de nouveau les Anciens. Ils disent que le cinabre produit le blanchiment de la magnésie. Pour rendre efficaces les discours antérieurs que j'ai écrits, relativement aux quatre corps qui servent de supports et à la mesure que comporte à leur sujet la composition crue et cuite,* il est nécessaire de faire l'application de tout cela à l'explication de la magnésie. Il faut dire comment on forme le corps (métallique) de la magnésie ; et si le blanchiment varie suivant la macération, ainsi que je te l'ai dit précédemment. Laisse-la devant le fourneau ; que le fourneau soit allumé avec du bois et des écorces de cobathia rouges,* car la fumée de ces écorces blanchit tout. Si donc tu en recueilles la fumée, la magnésie l'absorbe et elle est blanchie.
+
+*) P. 150 et 151.
+
+*) Composé arsenical (voir plus bas).
+
+2\. N'avons-nous pas rappelé dans le 7e livre, en parlant des cobathia rouges, que nous devions apprendre d'abord de quelle magnésie parlent les philosophes ? Si c'est de la (magnésie) simple, provenant de Chypre, ou de la magnésie composée, obtenue par notre art ? En effet, en délayant la magnésie simple, ils veulent parler de la composée* ; mais ils entendaient en même temps la simple. C'est de cette façon que l'art a été caché par le double sens attribué aux dénominations.
+
+*) Molybdochalque.
+
+3\. Le philosophe Hermès, après l'eau de mer, nomme le natron, le vinaigre, le sang de moucheron,* le suc du styrax, l'alun lamelleux, et autres substances semblables, et il dit : « Laisse-la devant le fourneau, comme je l'ai dit précédemment, avec un feu d'écorces de cobathia rouges, car la fumée des cobathia rouges blanchit tout, étant blanche elle-même.* »
+
+*) _Lexique_, p. 10. Il y a ici un symbolisme et des dénominations semblables aux noms prophétiques du Papyrus V de Leide (_Introd._, p. 10 et 11) et de Dioscoride.
+
+*) _Olympiodore_, p. 91. Dans tout ce passage existe une confusion, qui semble voulue et amenée par la nomenclature prophétique, entre le nom des écailles ou morceaux de cobathia rouges, c'est-à-dire des sulfures d'arsenic (_Introd._, p. 245) et celui des écorces et rameaux des palmiers. Rappelons que le même mot grec φοῖνιξ signifie rouge et palmier. La dernière phrase du § 2 montre le caractère intentionnel de ces confusions.
+
+4\. Ainsi parle Hermès ; mais nous devons savoir que le natron, le styrax, l'alun schisteux et la cendre des rameaux de palmier, c'est le soufre blanc, qui blanchit tout. Quant au sang de moucheron et au vinaigre, c'est l'eau de soufre (obtenue) avec la chaux ; les écorces des cobathia rouges, ce sont les sulfureux, principalement l'arsenic, lequel ressemble aux cobathia : ce sont là les corps employés pour teindre en or. Il dit : « La fumée des cobathia blanchit tout. » Voulant enseigner ce que c'est que les cobathia, le Philosophe dit : « La vapeur du soufre blanchit tout. »
+
+5\. Maintenant le Philosophe voulant t'enseigner (ce que c'est que) la cendre des palmiers maritimes, qui est aussi l'eau divine, s'exprime ainsi dans la seconde classe, celle des liqueurs blanches : « Ayant dissous la cendre du bois des peupliers blancs dans l'eau de soufre [ceci n'est pas pris dans un sens simple], ou dans l'eau de soufre obtenue par la chaux, laquelle provient de la cendre blanche, du marbre, ou de la chaux vive. » De même que les sulfureux ont été dits (provenir) des cobathia rouges, de même l'eau de soufre tire sa composition du soufre ; celui-ci est aussi désigné sous le nom de palmier. De plus (on voit que) le blanchiment de la magnésie composée est produit par la composition du soufre blanc et que la composition liquide du blanc est obtenue par la chaux. Ce sont là toutes (matières) dont (j'ai expliqué) la préparation, dans mon discours sur la composition ; j'en ai dit la mesure, dans le discours sur les mesures ; le mode de cuisson et la conduite du fourneau, dans le discours sur la cuisson.
+
+6\. Voilà pour le blanchiment du corps de la magnésie. Or il vous est loisible, à vous qui avez du bon sens, d'entreprendre ce qui est le mieux et de nous seconder, au lieu de nous précipiter dans ce gouffre (de difficultés). Celui qui fait quelque autre raisonnement concernant cette doctrine, demeure dans une obscurité profonde ; il agit comme un homme qui frapperait l'air avec ses mains, et la mer avec ses pieds. Ceux qui marchent dans le vide et parlent tout à fait en l'air, travaillent inutilement par des procédés qui leur sont propres (à modifier) le type du corps (métallique).
+
+7\. Mais toi, ô bienheureuse, renonce à ces vains éléments dont on trouble tes oreilles ; car j'ai oui dire que tu converses avec Paphnutia la vierge et certains hommes sans instruction.* Les choses que tu leur entends dire sont vaines et tu entreprends de faire des raisonnements vides de sens. Renonce à la société des gens qui ont l'esprit aveuglé et l'imagination trop enflammée. Il faut plaindre ces gens-là, et écouter le langage de la vérité, de la bouche des hommes dignes de l'annoncer. Ces gens-là ne veulent pas de secours ; ils ne supportent pas d'être instruits par des maîtres, se flattant d'être des maîtres (eux-mêmes). Ils prétendent être honorés pour leurs raisonnements vains et vides (de sens). Lorsqu'on veut leur enseigner quels sont les degrés de la vérité, ils ne supportent pas la connaissance de l'art et ils ne (la) digèrent pas. Ils désirent l'or plutôt que la raison. Échauffés par une démence extrême, ils deviennent incapables de raisonnement et ne sauraient attendre la richesse. En effet s'ils étaient guidés par la raison, l'or les accompagnerait et serait en leur pouvoir : car la raison est maîtresse de l'or. Celui qui s'y attache, qui la désire et s'y unit, trouvera l'or placé devant nous, au milieu des détours qui le tiennent caché.
+
+*) Cette discussion finale parait être adressée par Zosime à Théosébie ; (v. _Olympiodore_, p. 90). Elle est caractéristique et met au jour la personnalité des alchimistes égyptiens et leurs controverses. --- Cp. _Démocrite_, p. 50. --- Les noms de Paphnutia et de Nilus méritent d'être notés. Le premier vient s'ajouter à ceux des femmes alchimistes : Marie, Cléopâtre, Théosébie. --- Nilus était d'ailleurs un nom assez répandu en Égypte : plusieurs personnages historiques l'ont porté.
+
+8\. La raison est l'indicatrice de tous les biens, comme on l'a dit quelque part.* La philosophie est la connaissance de la vérité, et révèle les êtres qui existent. Celui qui accepte la raison, verra par elle l'or placé devant (ses) yeux. Mais ceux qui ne supportent pas la raison marchent constamment dans le vide, et entreprennent les actes les plus ridicules. C'est ainsi que le rire fut provoqué par Nilus, ce prêtre ton ami, qui faisait cuire le molybdochalque dans un four de campagne (comme s'il avait fait cuire des pains), opérant avec les cobathia pendant toute une journée. Aveuglé des yeux du corps, il ne pensait pas que son procédé était mauvais, mais il soufflait ; et sortant (le produit) après le refroidissement, il ne montrait que de la cendre. Quand on lui demandait où était le blanchiment, embarrassé, il disait qu'il avait pénétré dans la profondeur. Ensuite il mettait du cuivre, il teignait la scorie ; car le cuivre n'étant arrêté par aucun solide, passait outre et disparaissait lui-même dans la profondeur ; de même pour le blanchiment de la magnésie. Ayant entendu ces choses (de la bouche) de ses contradicteurs, Paphnutia fut tournée en grande dérision ; et vous le serez aussi, si vous tombez dans la même démence. Embrasse pour moi Nilus, celui qui cuit avec les cobathia, et sois pleinement édifiée sur l'économie du corps de la magnésie.
+
+*) E Lb « Comme l'a dit le Philosophe. »
+
+---
+
+#### 3\. --- 28. Sur le Corps de la Magnésie et sur son Traitement.
+
+1\. Voici ce que Marie expose libéralement et clairement, au sujet de ce qu'elle nomme les pains de la magnésie. Le premier degré dans la vérité du mystère se trouve expliqué dans ces (passages). Ainsi donc Marie veut que ce soit là le corps de la magnésie ; elle le proclame non seulement dans ce passage, mais dans beaucoup d'autres. Dans un autre endroit, elle dit : « Sans le concours du plomb noir, on ne saurait produire ce corps de la magnésie,* dont nous avons précisé et accompli la préparation. Telles sont, dit-elle, les doctrines ; » et sans se lasser, (les) enseignant pour la 2e et 3e fois, elle nomme corps de la magnésie le plomb noir et le molybdochalque ; à ce sujet, elle parle du cinabre,* ou du plomb, et de la pierre étésienne. C'est ce corps qui produit la fusion simultanée* de toutes les matières cuites et dorées en puissance. Les matières crues, il les cuit ; et il en opère la diplosis. Il produit, dit-elle, en puissance toutes les matières dorées par cuisson ; car ce n'est pas encore en acte. Sur ce (point) j'écrirai un autre discours ; mais pour le moment occupons-nous de notre sujet.
+
+*) « le molybdochalque par lequel » Lb.
+
+*) « du cuivre, » BAKELb.
+
+*) V. p. 78, 101, 113, 128.
+
+2\. Il a donc été exposé par Marie que le corps de la magnésie, c'est le molybdochalque noir ; car il n'a pas encore été teint. « C'est ce molybdochalque que tu dois teindre, en y projetant les _motaria_* de la sandaraque jaune, afin que l'or cuit n'existe plus (seulement) en puissance, mais en acte. » Ainsi (s'exprime) Marie, après avoir nommé pains le corps de la magnésie.
+
+*) V. p. 108, 112, 157.
+
+Nous devons, avant tout, montrer que le Philosophe est du même sentiment, en ce qui (concerne) le corps de la magnésie qu'on appelait : **Le Tout**. Ce molybdochalque était le plomb noir. Lorsqu'ils disaient que le mercure est fixé avec le corps de la magnésie, ils voulaient dire par le corps complet, tel qu'il a été exposé dans mon premier mémoire, et que Marie le dit plus haut du corps de la magnésie. Elle dit (encore) : « Tu trouveras du plomb noir : emploie-le après y avoir mêlé du mercure. » Or c'est lui que dénomment les classes (du Philosophe), c'est lui dont parle le Philosophe dans ses préambules : « Mêle du mercure au corps de la magnésie. » Ainsi le Philosophe lui-même désigne le plomb noir et la pyrite. Il ne parle pas (du plomb) simplement, pour que tu ne t'égares pas, mais il dit « à notre (plomb) noir. » Pour que tu ne méconnaisses pas le molybdochalque, il dit que : « le mercure seul rend le cuivre sans ombre ; il ne fixera pas (seulement) le corps de la magnésie, mais encore le cuivre. » De cette façon aussi le Philosophe désigne sous le nom du Tout, le corps de la magnésie et le plomb noir.* Dans les livres des anciens, le molybdochalque a été rangé dans une seule et même classe (avec le plomb). Ce que l'on proclame du mercure, on le proclame de toute sorte de pierres, comme je l'ai déclaré dans les premiers (chapitres).
+
+*) Le molybdochalque, ABKELb.
+
+3\. C'est donc là l'or cuit en puissance. Et s'il est blanchi ou jauni, alors aussi les matières crues réagissent sur les matières cuites : c'est-à-dire que si du cuivre blanc est jeté sur du (cuivre) brut de Chypre, il produit de l'argent. Mais s'il est jauni, en le projetant sur de l'argent ordinaire brut, on produit de l'or. Après avoir mouillé avec de la couperose, du vin Aminéen et du vinaigre ordinaire, laisse pendant 14 jours : c'est là le (temps) voulu pour la fabrication de l'argent.
+
+4\. Comme on échoue souvent dans le traitement, parce qu'on ne connaît pas la vérité sur le délaiement, rappelons ce qui a été dit touchant les vapeurs : c'est la couperose qui amène la vapeur à la coloration en or. Semblablement aussi, Agathodémon, dans son enseignement sur la teinture préalable, disait ceci : « Afin que tu puisses savoir l'effet que tu produis, en arrivant à cette couperose que tu connais, c'est sa propriété tinctoriale qui amène la vapeur à développer l'or. Cela a été montré dans l'écrit sur l'affinage, et rappelé au sujet des deux (teintures). Dans le discours sur les mesures, il est dit que les pierres les plus belles et aimées de Dieu sont les pierres blanches es les pierres couleur de sang ; c'est là ce qu'on a appelé pyrite. Elles sont multicolores et de noms multiples ; les uns parlent de l'alabastron,* d'autres appliquent aux deux le nom de pyrite, ainsi que je l'ai montré. En effet, nulle autre pierre que la pyrite n'est plus belle et aimée de Dieu.
+
+*) _Lexique_, p. 4. _Introd._, p. 238.
+
+5\. Maintenant le discours a pour sujet le corps de la magnésie. Ce nom unique signifie toutes les choses fabriquées avec la vraie mesure de la macération nécessaire. Le cinabre* produit le véritable corps de la magnésie. Ne m'écartant pas de cette vérité, je voulais, moi aussi, égaler la capacité de celui qui a dit* : « O femme, je ne parlais pas (du plomb) ordinaire, afin que tu ne t'égarasses pas. » Mais comme je ne suis pas Démocrite, je te jure par son mérite que je ne m'égare pas ; et (tu ne tomberas pas dans l'erreur) sans retour de ceux qui prétendent que la cendre sans corps (métallique) a été appelée le corps de la magnésie.*
+
+*) S'agit-il ici de l'hématite ? v. p. 39.
+
+*) Sans doute Zosime s'adressant à Théosébie.
+
+*) Voir plus haut ce qui est dit de Nilus, p. 187.
+
+On a dit que le mercure est incorporel. Je dis, moi aussi, que ceux-là ont compris quelque chose. En montrant le résultat à obtenir, ils donnent la mesure de leur intelligence. Mais ils ne tiennent pas en réalité le résultat, car la cendre n'a pas été appelée le corps de la magnésie, mais l'incorporel. Or le mercure est aussi un corps (métallique). Ne va pas m'opposer cette subtilité, que ceci comprend tous les corps métalliques et que la cendre des incorporels a été appelée le corps de la magnésie, il n'en est rien. Mais que veut-il dire, si ce n'est que (les incorporels), étant de nature sulfureuse, se volatilisent ? Ce sont donc les choses fixes et non fugaces qui sont appelées des corps. C'est pourquoi Marie dit : « le corps de la magnésie est la chose secrète qui provient du plomb, de la pierre étésienne et du cuivre. »
+
+6\. Toutes les choses de cet ordre, mélangées aux matières volatiles, sont appelées corps. C'est ainsi qu'il parle du mercure, dans son traité des liquides blancs : « mêles-y de l'alun lamelleux, ou du molybdochalque, ou de la chaux, afin que le (mercure) incorporel devienne un corps. » De même, au sujet de la chrysocolle, il dit : « celle-ci aussi est fugace. » Sur le même sujet Agathodémon : « Veille, dit-il, à ce que son esprit tinctorial ne s'en aille pas. » Bien qu'elle soit volatile, on l'appelle un corps ; le Philosophe parle de ses mélanges dans la classe de la chrysocolle. « Teins toute sorte de corps avec le cuivre, l'argent, l'or. » Marie, au sujet de la chrysocolle : « ... après avoir pesé, (opère) avec du molybdochalque, pendant un jour ... » Ou bien : « prenant de la chrysocolle et du cinabre, délaie avec de la litharge blanche et fais disparaître (la nature du métal). Si le cuivre est modifié et amené à l'état de corps (métallique), projettes-y de la couleur d'or et tu auras de l'or. » Ainsi la chrysocolle reçoit cette qualification de corps, lorsqu'elle a été bien mélangée, et quoiqu'elle soit fugace par elle-même, parce que tu en fais un corps par transmutation.
+
+7\. Ainsi, convertir et transmuter,* dans ces auteurs, signifie donner un corps aux incorporels, c'est-à-dire aux matières fugaces. Par leur transformation on obtient le molybdochalque, le plomb noir, celui qui doit être traité avec le mercure, et devenir le corps de la magnésie. Ils ne veulent pas dire, comme certains, que la mutation s'applique au fait de convertir et de transmuter le mercure. Mais lorsque les matières fugaces ont pris un corps, la conversion a lieu pour tous les corps, par leur teinture en blanc ou en jaune. En effet cette conversion est appelée transmutation, après que les incorporels ont pris un corps, par l'effet de l'art. Dans la conversion rétrograde accomplie par le feu, c'est-à-dire dans le blanchiment ou le jaunissement, les matières délayées fortement et associées par le feu, sont de nouveau rendues fugaces et redeviennent incorporelles.* A ce moment elles sont réduites au dernier degré de la division. La vapeur sublimée, la première des matières incorporelles, conduit ainsi à l'art suprême.
+
+*) Dans le texte grec l'auteur oppose les mots στροφή et ἐκστροφή, et les verbes correspondants. Ces mots paraissent encore signifier : convertir la nature intérieure d'un métal en or ou en argent, en en transmutant ou extrayant la nature antérieure, qui était celle du cuivre, du plomb, de l'étain ou du fer. Une semblable extraction s'exprime par le mot κατασπάω.
+
+*) Cp. p. 21.
+
 8. Ainsi donc, les matières incorporelles sont de nouveau rendues corpo-
 relles au moyen du mercure, dans l'iosis, afin que les corps soient formés ;
 mais après que (les matières corporelles) ont été décomposées, elles sont
