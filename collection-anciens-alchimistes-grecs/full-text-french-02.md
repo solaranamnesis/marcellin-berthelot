@@ -80,6 +80,20 @@
 
 #### [3. --- 21. Sur les Soufres.](#3-----21-sur-les-soufres-1)
 
+#### [3. --- 22. Sur les Mesures.]()
+
+#### [3. --- 23. Comment on Brûle les Corps.]()
+
+#### [3. --- 24. Sur la Mesure du Jaunissement.]()
+
+#### [3. --- 25. Sur l'Eau Divine.]()
+
+#### [3. --- 26. Sur la Préparation de l'Ocre.]()
+
+#### [3. --- 27. Sur le Traitement du Corps Métallique de la Magnésie.]()
+
+#### [3. --- 28. Sur le Corps de la Magnésie et sur son Traitement.]()
+
 ---
 
 # Texte Grec.
