@@ -80,19 +80,19 @@
 
 #### [3. --- 21. Sur les Soufres.](#3-----21-sur-les-soufres-1)
 
-#### [3. --- 22. Sur les Mesures.]()
+#### [3. --- 22. Sur les Mesures.](#3-----22-sur-les-mesures-1)
 
-#### [3. --- 23. Comment on Brûle les Corps.]()
+#### [3. --- 23. Comment on Brûle les Corps.](#3-----23-comment-on-brûle-les-corps-1)
 
-#### [3. --- 24. Sur la Mesure du Jaunissement.]()
+#### [3. --- 24. Sur la Mesure du Jaunissement.](#3-----24-sur-la-mesure-du-jaunissement-1)
 
-#### [3. --- 25. Sur l'Eau Divine.]()
+#### [3. --- 25. Sur l'Eau Divine.](#3-----25-sur-leau-divine-1)
 
-#### [3. --- 26. Sur la Préparation de l'Ocre.]()
+#### [3. --- 26. Sur la Préparation de l'Ocre.](#3-----26-sur-la-préparation-de-locre-1)
 
-#### [3. --- 27. Sur le Traitement du Corps Métallique de la Magnésie.]()
+#### [3. --- 27. Sur le Traitement du Corps Métallique de la Magnésie.](#3-----27-sur-le-traitement-du-corps-métallique-de-la-magnésie-1)
 
-#### [3. --- 28. Sur le Corps de la Magnésie et sur son Traitement.]()
+#### [3. --- 28. Sur le Corps de la Magnésie et sur son Traitement.](#3-----28-sur-le-corps-de-la-magnésie-et-sur-son-traitement-1)
 
 ---
 
