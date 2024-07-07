@@ -6706,609 +6706,311 @@ On a dit que le mercure est incorporel. Je dis, moi aussi, que ceux-là ont comp
 
 *) Cp. p. 21.
 
-8. Ainsi donc, les matières incorporelles sont de nouveau rendues corpo-
-relles au moyen du mercure, dans l'iosis, afin que les corps soient formés ;
-mais après que (les matières corporelles) ont été décomposées, elles sont
-(1) Dans le texte grec l'auteur oppose
-les mots στροφ et ἐκστροφ, et les verbes
-correspondants. Ces mots paraissent
-signifier : convertir la nature intérieure
-d'un métal en or ou en argent, en en
-transmutant ou extrayant la nature l
-antérieure, qui était celle du cuivre,
-du plomb, de l'étain ou du fer. Une
-semblable extraction s'exprime encore
-par le mot κατασπάω.
-(2) Cp. p. 21.
+8\. Ainsi donc, les matières incorporelles sont de nouveau rendues corporelles au moyen du mercure, dans l'iosis, afin que les corps soient formés ; mais après que (les matières corporelles) ont été décomposées, elles sont rendues incorporelles et l'effet se produit par une action indépendante du concours du feu.
 
+Ailleurs on a parlé (pour cet effet) des biles* et autres matières semblables qui, elles aussi, sont congénères du soufre et de l'eau de soufre. Or quelle autre substance agit bien sans le secours du feu, si ce n'est l'eau divine ? C'est d'elle que Pébichius (dit) qu'elle est plus puissante que n'importe quel feu. Dans le Chapitre des Sulfureux, il est dit qu'elle agit sans le secours du feu. Marie (l'appelle) la préparation ignée.* Elle dit encore que si les corps ne sont pas rendus incorporels et les incorporels corporels,* rien de ce que l'on attend n'aura lieu : c'est-à-dire que si les matières résistant au feu ne sont pas mélangées avec celles qui s'évaporent au feu, on n'obtiendra rien de ce que l'on attend.
 
-### 0240
+*) Il semble que ce soit là une expression symbolique pour désigner les matières colorantes jaunes, et surtout celles qui produisent à froid des sulfures colorés en jaune.
 
-192
-ZOSIME
-rendues incorporelles et l'effet se produit par une action indépendante du
-concours du feu.
-Ailleurs on a parlé (pour cet effet) des biles (1) et autres matières sem-
-blables qui, elles aussi, sont congénères du soufre et de l'eau de soufre. Or
-quelle autre substance agit bien sans le secours du feu, si ce n'est l'eau
-divine? C'est d'elle que Pébichius (dit) qu'elle est plus puissante que n'im-
-porte quel feu. Dans le Chapitre des Sulfureux, il est dit qu'elle agit sans
-le secours du feu. Marie (l'appelle) la préparation ignée (2). Elle dit encore
-que si les corps ne sont pas rendus incorporels et les incorporels corpo-
-rels (3), rien de ce que l'on attend n'aura lieu : c'est-a-dire que si les
-matières résistant au feu ne sont pas mélangées avec celles qui s'évaporent
-au feu, on n'obtiendra rien de ce que l'on attend.
-9. Quels sont donc les corps et les incorporels dans notre art (4)?
-Les incorporels sont la pyrite et ses similaires, la magnésie et ses simi-
-laires, le mercure et ses similaires, la chrysocolle et ses similaires, toutes
-(matières) incorporelles. Les corps sont le cuivre, le fer, l'étain et le plomb :
-ces (matières) ne s'évaporent pas au feu; ce sont là les corps. Lorsque les
-unes (de ces matières) sont mêlées aux autres, les corps deviennent incorpo-
-rels et les incorporels deviennent corps. Mélange de cette manière le mer-
-cure, celui qui est désigné dans les classes, et tu produiras ce qui est attendu,
-ce dont Marie a dit : α Si deux ne deviennent un »; c'est-à-dire si les (matières)
-volatiles ne se combinent pus avec les matières fixes, rien n'aura lieu de ce
-qui est attendu. Si l'on ne blanchit et si deux ne deviennent pas trois (5),
-avec le soufre blanc qui blanchit (rien n'aura lieu de ce qui est attendu).
-Mais lorsqu'on jaunit, trois deviennent quatre ; car on jaunit avec le soufre
-jaune. Enfin lorsqu'on teint en violet (6), toutes les (matières ensemble)
-parviennent à l'unité.
-10. Que veut dire Ostanes, lorsqu'il parle de la combinaison des
-(1) Il semble que ce soit là une ex- | sant à froid les mèmes effets que le feu.
-pression symbolique pour désigner les | (3) Voir p. 101.
-matières colorantes jaunes, et surtout
-(4) Voir p. 21, 1o1 et 191.
-celles qui produisent à froid des sulfures |
-(5) V. p. 21.
-colorés en jaune.
-(6) Ou bien lorsqu'on opère l'iosis,
-(2) C'est à-dire la préparation produi- | le mot grec ayant ce double sens.
+*) C'est-à-dire la préparation produisant à froid les mêmes effets que le feu.
 
+*) Voir p. 101.
 
-### 0241
+9\. Quels sont donc les corps et les incorporels dans notre art* ?
 
-SUR LE CORPS DE LA MAGNESIE
-193
-matières volatiles avec celles qui ne le sont pas ? La pierre pyrite a de
-l'affinité pour le cuivre. » Ostanes ne parlait pas du mercure, mais du délaie-
-ment extrême, c'est-à-dire de la condition ou la pyrite ne donne lieu à
-aucun dépôt, se trouvant entièrement liquéfiée. Il faut dès lors que tu com-
-prennes, au sujet de l'eau et de la liquéfaction, ce que le Philosophe a déve-
-loppé en parlant des lavages et des délaiements. Au sujet du délaiement, il a
-dit: « afin que le produit devienne comme de l'eau ». Le Philosophe a dit
-encore: a La magnésie et l'aimant ont de l'affinité pour le fer. » Et le Maitre
-dit encore : α le mercure a de l'affinité pour l'étain ». Le disciple dit : α le mer-
-cure s'amalgame à l'étain ». Il dit aussi : « Ceci blanchit toute sorte de corps.
-Le plomb aussi a de l'affinité pour la pyrite ; la pierre étésienne, pour le
-plomb. » Le Philosophe, en faisant ces raisonnements, disait, au sujet de
-notre art, que la nature charme la nature.
-11. Article sur la magnésie : Après avoir tout extrait, tu trouveras un corps
-noir, ou du plomb noir ; souvent aussi une grande quantité de scories, à la
-partie supérieure. Si on les goûte, on verra qu'elles ressemblent à la lie
-de vin. Après les avoir rejetées, on trouve, à l'intérieur du plomb noir, le
-cuivre que celui-ci renferme, la magnésie qui y est contenue. On appellecelle-
-ci : molybdochalque ou corps de la magnésie. C'est sur celle-ci que j'ai
-écrit ; c'est elle que tous les écrits proclament ; c'est elle qui égare les
-chercheurs ; c'est ce molybdochalque que préconisent les écrits des ancêtres.
-D'apres l'explicatiod'Apollon, c'est le corps de la magnésie ; c'est le cuivre,
-c'est le corps dont Théophile disait qu'il reçoit une couronne de cuivre ;
-Hermès disait de son côté : « Le corps de la magnésie dont tu désires
-apprendre le traitement et la mesure... » A son sujet nous avons dit que le
-cinabre, c'est le blanchiment ; ou bien encore le jaunissement, lequel exige
-que les (matières) soient blanchies préalablement. Voilà le traitement, tel
-qu'il a été décrit par nous.
-25
+*) Voir p. 21, 101 et 191.
 
+Les incorporels sont la pyrite et ses similaires, la magnésie et ses similaires, le mercure et ses similaires, la chrysocolle et ses similaires, toutes (matières) incorporelles. Les corps sont le cuivre, le fer, l'étain et le plomb : ces (matières) ne s'évaporent pas au feu ; ce sont là les corps. Lorsque les unes (de ces matières) sont mêlées aux autres, les corps deviennent incorporels et les incorporels deviennent corps. Mélange de cette manière le mercure, celui qui est désigné dans les classes, et tu produiras ce qui est attendu, ce dont Marie a dit : « Si deux ne deviennent un ; » c'est-à-dire si les (matières) volatiles ne se combinent pas avec les matières fixes, rien n'aura lieu de ce qui est attendu. Si l'on ne blanchit et si deux ne deviennent pas trois,* avec le soufre blanc qui blanchit (rien n'aura lieu de ce qui est attendu). Mais lorsqu'on jaunit, crois deviennent quatre ; car on jaunit avec le soufre jaune. Enfin lorsqu'on teint en violet,* toutes les (matière ensemble) parviennent à l'unité.
 
-### 0242
+*) V. p. 21.
 
-194
-ZOSIME
-III. XxX. --- SUR LA PΙΕRRΕ PΗΙLΟSΟΡΗAL
-1. Marie dit : α Si notre plomb est noir, c'est qu'il lest devenu; car le plomb
-commun est noir des le principe. Or comment est-il formé? Si tu ne prives
-pas les corps métalliques de leur état et si tu ne ramenes pas les corps pri-
-vés de leur état a l'état de corps (métalliques) ; si tu ne fais pas de deux
-choses une seule, rien de ce que l'on attend n'a lieu (2). Si le Tout n'est pas
-atténué dans le feu, si la vapeur sublimée réduite en esprit ne monte pas,
-rien ne sera mené à terme. » Et encore : « e ne dis pas avec du plomb
-simplement, mais avec notre plomb noir. Voici comment l'on prépare le
-plomb noir ; c'est par la cuisson que l'on arrive (à reproduire le) plomb
-commun. Car le plomb commun est noir des le principe, tandis que
-notre plomb devient noir, ne l'étant pas d'abord. »
-2. Les philosophes ont partagé toutes les opérations de la pierre en quatre
-phases : 1 noircissement ; 2e blanchiment ; 3e jaunissement, et 4e teinture
-en violet. Entre le noircissement, le blanchiment et le jaunissement se
-place la lévigation ou macération et le lavage des espèces. Or il est impos-
-sible que ces choses se fassent autrement que par le traitement opéré au
-moyen de l'appareil à gorge (3) et de l'union des parties.
-3. Pélage le Philosophe dit : α Voici à quel signe on reconnait que le com-
-σ
-mencement de la teinture en violet a lieu. C'est la teinture se produisant à
-l'intérieur qui est la véritable teinture en violet, laquelle a été aussi appe-
-lée ios de l'or. Si on l'accomplit, la teinture a lieu ; sinon, elle n'a pas
-lieu. Veille donc à ce que la teinture pénetre dans la profondeur ; sinon la
-teinture n'a pas lieu. »
-4. L'alabastron est la pierre la plus blanche, la pierre encéphale (4),
-(1) Suite de fragments, réunis à une | sent des textes déja donnés sous une
-époque relativement récente, comme | forme plus développée.
-le montre d'ailleurs le titre lui-mème ; |
-(2) Voir la page précédente, la page
-la dénomination expresse de pierre 101, etc.
-pilosophale n'existant pas dans les | (3) Voir Introd., p. 164 ; SvxέsιusIυs,
-auteurs antérieurs au vne siècle, bien | p. 65, et p. 144.
-1ΥΣ ( ereσκ εeιs
-que la notion mème soit plus ancienne.
+*) Ou bien lorsqu'on opère l'iosis, le mot grec ayant ce double sens.
 
+10\. Que veut dire Ostanès, lorsqu'il parle le la combinaison des matières volatiles avec celles qui ne le sont pas ? « La pierre pyrite a de l'affinité pour le cuivre. » Ostanès ne parlait pas du mercure, mais du délaiement extrême, c'est-à-dire de la condition où la pyrite ne donne lieu à aucun dépôt, se trouvant entièrement liquéfiée. Il faut dès lors que tu comprennes, au sujet de l'eau et de la liquéfaction, ce que le Philosophe a développé en parlant des lavages et des délaiements. Au sujet du délaiement, il a dit : « afin que le produit devienne comme de l'eau. » Le Philosophe a dit encore : « La magnésie et l'aimant ont de l'affinité pour le fer. » Et le Maître dit encore : « le mercure a de l'affinité pour l'étain. » Le disciple dit : « le mercure s'amalgame à l'étain. » Il dit aussi : « Ceci blanchit toute sorte de corps. Le plomb aussi a de l'affinité pour la pyrite ; la pierre étésienne, pour le plomb. » Le Philosophe, en faisant ces raisonnements, disait, au sujet de notre art, que la nature charme la nature.
 
-### 0243
+11\. Article sur la magnésie : Après avoir tout extrait, tu trouveras un corps noir, ou du plomb noir ; souvent aussi une grande quantité de scories, à la partie supérieure. Si on les goûte, on verra qu'elles ressemblent à la lie de vin. Après les avoir rejetées, on trouve, à l'intérieur du plomb noir, le cuivre que celui-ci renferme, la magnésie qui y est contenue. On appelle celle-ci : molybdochalque ou corps de la magnésie. C'est sur celle-ci que j'ai écrit ; c'est elle que tous les écrits proclament ; c'est elle qui égare les chercheurs ; c'est ce molybdochalque que préconisent les écrits des ancêtres. D'après l'explication d'Apollon, c'est le corps de la magnésie ; c'est le cuivre, c'est le corps dont Théophile disait qu'il reçoit une couronne de cuivre ; Hermès disait de son côté : « Le corps de la magnésie dont tu désires apprendre le traitement et la mesure ... » A son sujet nous avons dit que le cinabre, c'est le blanchiment ; ou bien encore le jaunissement, lequel exige que les (matières) soient blanchies préalablement. Voilà le traitement, tel qu'il a été décrit par nous.
 
-SUR LA PIERRE PHILOSOPHALE
-192
-celle qui est comme une paillette brulante. Prends-la, pulvérise et fais
-macérer dans du vinaigre ; mets dans un linge, et enfouis le tout dans le
-crottin de cheval, ou dans la fiente d'oiseau, pendant 20 jours, comme
-dit le divin Zosime.
-5. Les soufres sont au nombre de deux, la composition est une. Donc, il
-y a deux mercures, savoir la composition blanche et l'eau divine, selon
-Démocrite. L'eau divine mêlée au soufre rend les substances sulfureuses (1),
-parce que ces matières ont une grande affinité entre elles.
-6. Synésius expose ceci dans le traité de la Chrysopée : α Démocrite a dit :
-Le mercure qui (provient) du cinabre. Et dans le Traité du blanc (Argyropée)
-il a dit : Le mercure tiré de la sandaraque, etc. (2). »
-7. Dioscorus a dit : α De même que la cire se transforme en assimilant
-la couleur surajoutée, de même aussi le mercure se transforme (3). »
-8. ll y a deux jaunissements, deux blanchiments (4), deux compositions,
-la sèche et la liquide : la composition sèche, dans le catalogue du jaune, ce
-sont les plantes et les minéraux. Il y a deux compositions liquides : une
-dans le jaune, et une dans le blanc. Les liquides jaunes dérivent des plantes
-jaunes (5), telles que le safran, la chélidoine et les similaires. Dans la com-
-position blanche on comprend: parmi les matières sèches, toutes les matières
-blanches, telles que la terre de Crete, la terre de Cimole et les analogues ;
-parmi les liquides blancs, toutes les eaux blanches, telles que la décoction
-d'orge (biere ?) et les similaires.
-9. Olympiodore dit: La macération a lieu depuis le 25 du mois de méchir
-jusqu'au 25 du dernier mois de l'automne(6)... Toutes les choses que tu peux
-faire macérer et lessiver, laisse-les déposer dans des vases (convenables).
-La macération s'exécute sur la terre limoneuse, jusqu'à ce que la partie
-limoneuse s'en aille et que le minerai soit isolé. Cet art ne se pratique pas au
-moyen du feu. »
-10. Le feu est de 40 jours pour l'opération entière.
-(1) L'auteur joue sur le double sens
-de θεῖον.
-(2) SvNίsiυs, p. 66.
-(3) Sγκίsiuυsiυs, p. 66.
-(4) OvoopoE, p. 109 ; et passim.
-(5) Cp. p. 71, 123, 153, note 2; p. 159,
-note 2, etc.
-(6) Ou du mois Mésori (voir p. 75).
+---
 
+#### 3\. --- 29. Sur la Pierre Philosophale.*
 
-### 0244
+*) Suite de fragments, réunis à une époque relativement récente, comme le montre d'ailleurs le titre lui-même ; la dénomination expresse de _pierre philosophale_ n'existant pas dans auteurs antérieurs au 7e siècle, bien que la notion même soit plus ancienne. La plupart de ces fragments reproduisent des textes déjà donnés sous forme plus développée.
 
-196
-ZOSIME
-Les anciens ont caché l'art sous la multiplicité des discours (1) et ils ont
-donné un grand nombre de dénominations à l'eau divine (2).
-11. Marie dit (3) : α Si tous les corps métalliques ne sont pas atténués par
-l'action du feu, et si la vapeur sublimée réduite en esprit ne monte pas,
-rien ne sera mené à terme. »
+1\. Marie dit : « Si notre plomb est noir, c'est qu'il l'est devenu ; car le plomb commun est noir dès le principe. Or comment est-il formé ? Si tu ne prives pas les corps métalliques de leur état et si tu ne ramènes pas les corps privés de leur état à l'état de corps (métalliques) ; si tu ne fais pas de deux choses une seule, rien de ce que l'on attend n'a lieu.* Si le Tout n'est pas atténué dans le feu, si la vapeur sublimée réduite en esprit ne monte pas, rien ne sera mené à terme. » Et encore : « Je ne dis pas avec du plomb simplement, mais avec notre plomb noir. Voici comment l'on prépare le plomb noir ; c'est par la cuisson que l'on arrive (à reproduire le) plomb commun. Car le plomb commun est noir dès le principe, tandis que notre plomb devient noir, ne l'étant pas d'abord. »
+
+*) Voir la page précédente, la page 101, etc.
+
+2\. Les philosophes ont partagé toutes les opérations de la pierre en quatre phases : 1° noircissement ; 2° blanchiment ; 3° jaunissement, et 4° teinture en violet. Entre le noircissement, le blanchiment et le jaunissement se place la lévigation ou macération et le lavage des espèces. Or il est impossible que ces choses se fassent autrement que par le traitement opéré au moyen de l'appareil à gorge* et de l'union des parties.
+
+*) Voir _Introd._, p. 164 ; Synésius, p. 65, et p. 144.
+
+3\. Pélage le Philosophe dit : « Voici à quel signe on reconnaît que le commencement de la teinture en violet a lieu. C'est la teinture se produisant à l'intérieur qui est la véritable teinture en violet, laquelle a été aussi appelée ios de l'or. Si on l'accomplit, la teinture a lieu ; sinon, elle n'a pas lieu. Veille donc à ce que la teinture pénètre dans la profondeur ; sinon la teinture n'a pas lieu. »
+
+4\. L'alabastron est la pierre la plus blanche, la pierre encéphale,* celle qui est comme une paillette brûlante. Prends-la, pulvérise et fais macérer dans du vinaigre ; mets dans un linge, et enfouis le tout dans le crottin de cheval, ou dans la fiente d'oiseau, pendant 20 jours, comme dit le divin Zosime.
+
+*) _Lexique_, p. 4 et 6.
+
+5\. Les soufres sont au nombre de deux, la composition est une. Donc, il y a deux mercures, savoir la composition blanche et l'eau divine, selon Démocrite. L'eau divine mêlée au soufre rend les substances sulfureuses,* parce que ces matières ont une grande affinité entre elles.
+
+*) L'auteur joue sur le double sens de θεῖον.
+
+6\. Synésius expose ceci dans le traité de la Chrysopée : « Démocrite a dit : « Le mercure qui (provient) du cinabre. Et dans le Traité du blanc (Argyropée) il a dit : Le mercure tiré de la sandaraque, etc.* »
+
+*) Synésius, p. 66.
+
+7\. Dioscorus a dit : « De même que la cire se transforme en assimilant la couleur surajoutée, de même aussi le mercure se transforme.* »
+
+*) Synésius, p. 66.
+
+8\. Il y a deux jaunissements, deux blanchiments,* deux compositions, la sèche et la liquide : la composition sèche, dans le catalogue du jaune, ce sont les plantes et les minéraux. Il y a deux compositions liquides : une dans le jaune, et une dans le blanc. Les liquides jaunes dérivent des plantes jaunes,* telles que le safran, la chélidoine et les similaires. Dans la composition blanche on comprend : parmi les matières sèches, toutes les matières blanches, telles que la terre de Crète, la terre de Cimole et les analogues ; parmi les liquides blancs, toutes les eaux blanches, telles que la décoction d'orge (bière ? ) et les similaires.
+
+*) Olympiodore, p. 109 ; et _passim_.
+
+*) Cp. p. 71, 123, 153, note 2 ; p. 159, note 2, etc.
+
+9\. Olympiodore dit : « La macération a lieu depuis le 25 du mois de méchir jusqu'au 25 du dernier mois de l'automne* ... Toutes les choses que tu peux faire macérer et lessiver, laisse-les déposer dans des vases (convenables). La macération s'exécute sur la terre limoneuse, jusqu'à ce que la partie limoneuse s'en aille et que le minerai soit isolé. Cet art ne se pratique pas au moyen du feu. »
+
+*) Ou du mois Mésori (voir p. 75).
+
+10\. Le feu est de 40 jours pour l'opération entière.
+
+Les anciens ont caché l'art sous la multiplicité des discours* et ils ont donné un grand nombre de dénominations à l'eau divine.*
+
+*) Olympiodore, p. 75 et 76.
+
+*) Cp. p. 101 et 182.
+
+11\. Marie dit* : « Si tous les corps métalliques ne sont pas atténués par l'action du feu, et si la vapeur sublimée réduite en esprit ne monte pas, rien ne sera mené à terme. »
+
+*) Tout ce paragraphe semble formé avec des phrases disjointes, tirées des écrits de Marie ; elles sont en partie extraites d'Olympiodore, qui les avait prises directement de ces écrits (v. p. 101).
+
 Le molybdochalque c'est la pierre étésienne.
+
 Dans toute l'opération la préparation est noire dès le commencement.
-Lorsque tu vois tout devenir cendre, comprends alors que tu as bien
-opéré (4). Pulvérise cette scorie, épuise-la de sa partie soluble et lave-la six
-ou sept fois, dans des eaux édulcorées, après chaque fonte. On opère par fu-
-sions et selon la richesse du minerai. En effet, en suivant cette marche et le
-lavage, dit Marie, « la composition est adoucie et pourvue de ses éléments ».
-Après la fin de l'iosis, une projection ayant eu lieu, le jaunissement stable
-des liquides se produit.
-En faisant cela tu fais sortir au dehors la nature cachée à l'intérieur. En
-effet, α transforme, dit-elle, leur nature même, et tu trouveras ce que tu
-cherches ν.
-12. Les compositions sont au nombre de deux: le blanchiment et le
-jaunissement ; et il y a deux blanchiments et deux jaunissements (5), l'un par
-délaiement et l'autre par cuisson. Le délaiement ne se fait pas d'une manière
-quelconque, mais seulement dans une demeure consacrée ; là existent un
-lac et de gros poissons (6).
-13. Marie dit : σ oignez le mâle et la femelle et vous trouverez ce qui est
-cherché (7). » Et Marie dit ailleurs : α N'allez pas toucher avec vos mains,
-car c'est une préparation ignée (8). »
-14. On donne plusieurs dénominations aux deux compositions, telles
-que, etc. (Reproduction du texte traduit en tête de la page 182.)
-(4) Cp. OLVp1opoRE, p. 107.
-(1) ΘLκionoE, p. 75 et 76.
-(5) Cp. p. 108.
-(2) Cp. p. 101 et 182.
-(3) Tout ce paragraphe semble formé
-(6) Cp. OnpoDοRE, p. 109. Dans
-avec des phrases disjointes, tirées des | E Lb « un lieu de repos », au lieu de
-écrits de Marie ; elles sont en partie | « gros poissons ».
-(7) Cp. p. 147.
-extraites d'OLvpiopoRr, qui les avait
-prises directementde ces écrits (v.p..101). | (8) Cp. p. 112.
 
+Lorsque tu vois tout devenir cendre, comprends alors que tu as bien opéré.* Pulvérise cette scorie, épuise-la de sa partie soluble et lave-la six ou sept fois, dans des eaux édulcorées, après chaque fonte. On opère par fusions et selon la richesse du minerai. En effet, en suivant cette marche et le lavage, dit Marie, « la composition est adoucie et pourvue de ses éléments. »
 
-### 0245
+*) Cp. Olympiodore, p. 107.
 
-SUR LA PIERRE PHILOSOPHALE
-197
-15. Les appareils des compositions doivent être en verre, parce que (alors)
-ils permettent l'iosis, sans que (les opérateurs) aient besoin de toucher avec
-leurs mains ; car le mercure est mortel, lorsqu'il a dissous l'or : c'est le plus
-délétère de tous les métaux.
-16. Ce que l'on se propose dans la calcination. c'est d'abord le blanchi-
-ment, puis le jaunissement. Projette, dit-il, la moitié de la préparation
-blanche, pour la première opération, et fais-en une décoction de cette
-manière ; l'autre moitié est conservée pour l'iosis. C'est aussi pour cette
-raison que Pébichius dit, passim : α Partage en deux portions la prépara-
-tion (1). » Il disait aussi : « Renferme l'une dans un vase de terre cuite et mets
-l'autre avec le cuivre (2). » I indique, par le vase de terre cuite, la cuisson,
-et par le cuivre l'iosis. Il voulait parler du blanchiment, en disant : α Brulez
-le cuivre sur un feu de bois de laurier, c'est-à-dire dans la composition
-blanche. »
-17. Agathodémon dit : « Fais une décoction de l'eau divine avec la vapeur
-sublimée ; de cette façon, on brule et on opère le blanchiment ». Et encore :
-α Faire cuire la vapeur décrite précédemment avec l'huile de ricin ou de
-raifort, après y avoir mêlé un peu d'alun (3). »
-18. Zosime dit : α Pour accomplir exactement la présente opération, il
-faut laver l'aigle d'airain, pendant les 365 jours (de l'année) entiers », et
-ainsi de suite, dans tout le cours du traité (4).
-19. Le divin Sophar dit : « e vis un aigle d'airain descendre dans la
-source pure, etc. » (Reproduction de cinq lignes déja données à la page 12.)
-20. La magnésie tire son étymologie du fait de mélanger (μιγνύειν) les
-matières unies par la combinaison.
-21. Le divin Zosime dit : Démocrite, mon excellent maitre, dit avec
-raison : α Reçois la pierre qui n'est pas une pierre. » (Reproduction d'un
-passage déjà donné, p. 13o, jusqu'à ces mots : alait d'ânesse ou de chèvre ».)
-22. Zosime disait : α Ne redoute point de chauffer fortement; épuise
-lélément liquide des corps. Il y a mille (modes de) chauffer le cuivre (5) ;
-(1) P. 165 et 178.
-(2) P. 158.
-(3) P. 178.
-(4) P. 129 et 135.
-(5) Voir p. 154 et 1σσ.
+Après la fin de l'iosis, une projection ayant eu lieu, le jaunissement stable des liquides se produit.
 
+En faisant cela tu fais sortir au dehors la nature cachée à l'intérieur. En effet, « transforme, dit-elle, leur nature même, et tu trouveras ce que tu cherches. »
 
-### 0246
+12\. Les compositions sont au nombre de deux : le blanchiment et le jaunissement ; et il y a deux blanchiments et deux jaunissements,* l'un par délaiement et l'autre par cuisson. Le délaiement ne se fait pas d'une manière quelconque, mais seulement dans une demeure consacrée ; là existent un lac et de gros poissons.*
 
-198
-ZOSIME
-ils rendent le cuivre plus apte à la teinture. Fais sortir la nature au dehors
-et tu trouveras ce qui est cherché ; car la nature est cachée à l'intérieur.
-Or, la nature étant extraite, le blanc ne se voit plus ; mais après l'expulsion
-du mercure indiquée précédemment, le jaune apparait, par le jaunissement
-annoncé de l'ios. Ou sont donc ceux qui déclarent impossible de changer
-la nature ? Voici que la nature est changée ; elle devient fixe et prend la
-qualité de l'or, en retournant vers le noir. En effet, si l'humidité provenant
-de l'expulsion du mercure, circulant dans la (nature) terrestre du corps
-solide de la poudre sèche, ne va pas dissoudre et expulser la liquidité,
-conformément à la propriété essentielle de cette expulsion du mercure, alors
-rien n'aura lieu de ce qui est attendu. Si l'on n'opère pas la dissolution et
-l'épuisement de l'élément liquide par l'échauffement, rien n'aura lieu de ce
-qui est attendu. Si le produit n'est pas dissous et échauffé, puis refroidi,
-rien n'aura lieu de ce qui est attendu. Mais si toutes choses sont faites
-à leur rang et par ordre, tu pourras espérer arriver au résultat, avec l'aide
-de la divine Providence. »
-23. Le temps de la gestation n'est pas moindre de neuf mois, quand
-il n'y a pas avortement. Le temps de la cuisson pour tous les produits,
-(notamment) lorsqu'on opère sur des lames, n'est pas moindre de neuf
-heures. Tel est le mode de gestation. Quant au temps de l'opération faite
-sur l'autel en forme de coupe, il faut tenir compte de la macération. En effet,
-considère que les modes d'opérer sont au nombre de trois. Le premier mode
-seapporte au mélange. Si tu m'as bien compris, il embrasse les substances
-pétries et fermentées, à la façon de la farine tirée du grain. De même le
-liquide ne sera pas vaporisé outre mesure, mais seulement selon que le
-besoin s'en fera sentir ; de même aussi, pour la composition. (Reproduction
-du 5 5, p. 142, jusqu'à la fin.)
-24. C'est là la pierre étésienne. Edulcore la poudre sèche (de projection)
-et desseche. Fixe et affine la poudre sèche, en prenant : couperose, trois
-parties ; magnésie, une partie ; cuivre affiné, une partie ; poudre sèche, une
-partie. Délaie ensemble, en arrosant au soleil avec duvinaigre blanc, pendant
-sept jours ; puis fais cuire pendant deux ou trois jours. En enlevant (le
-produit), tu trouveras l'or teint en rouge couleur de sang. C'est la le cinabre
-des philosophes et l'homme d'or. La poudre de projection s'est condensée
+*) Cp. p. 108.
 
+*) Cp. Olympiodore, p. 109. Dans E Lb « un lieu de repos, » au lieu de « gros poissons. »
 
-### 0247
+13\. Marie dit : « Joignez le mâle et la femelle et vous trouverez ce qui est cherché.* » Et Marie dit ailleurs : « N'allez pas toucher avec vos mains, car c'est une préparation ignée.* »
 
-SUR LA POUDRE SECHE
-199
-(aux dépens) des liqueurs. Si le feu est excessif, elle devient jaune ; mais
-(alors) elle n'est pas utile.
-III. XX. --- SUR LA CΟΜΡΟΟΡΙΟΝ
-ΟES lAΤIΕRES (1)
-La composition relative aux matières premières a réuni dans un seul
-esprit, ô Théosébie, les compositions partielles des anciens. En outre elle
-montre, au moyen du fait, les noms des composés (restés) ignorés dans
-leurs écrits, comme (par exemple) la cendre et les (matières) semblables.
-ΟOr, il faut savoir quelles substances, d'après le Philosophe, produisent la
-résistance au feu (2) ; que le corps allié (au mercure) le rend capable de
-résister au feu, et ainsi de suite. Car le sage, prenant les matières premières,
-poursuivra du commencement à la fin. Mais je ne pouvais placer là les
-produits complets, attendu que je ne les trouvais pas che ces (auteurs) ; je
-ne pouvais exposer ce que (Démocrite) n'avait pas dit ; je ne pouvais faire
-autre chose que réunir avec vraisemblance les choses dispersées, interpréter
-les choses allégoriques ; tout ce qu'il est permis de faire dans des commen-
-taires, je l'ai fait. Bonne santé.
-II. XXXI. --- SR LA PΟUΡRΕ SΕΟΗΕ
-.Ε PRΟIΕΟΤ0Ο,
-1. La poudre de projection véritable a trois puissances et trois actions
-procédant de ces puissances. (Ce sont) la teinture, la pénétration, la fixation.
-Le (corps) mathématique a trois dimensions, la longueur, la largeur et la
-profondeur. Le corps naturel est triplement étendu et (en outre) susceptible
-(1) Ceci parait être une lettre-dé- | fragment α περὶ ἀφορμῶν συνθέσεως 2.
-dicace, ou un épilogue de Zosime, |
-cΣ)ἐx. . ] aEa use isne du mereure.
-transformé par quelque copiste en
+*) Cp. p. 147.
 
+*) Cp. p. 112.
 
-### 0248
+14\. On donne plusieurs dénominations aux deux compositions, telles que, etc. (Reproduction du texte traduit en tête de la page 182.)
 
-20
-ZOSIME
-de figure ; il a la longueur, la largeur, la profondeur et la capacité de figure.
-De même aussi, au sujet de (notre) espèce, nous parlerons de la teinture,
-de la pénétration, de la fixation, et de l'éclat (durable). Or le corps a trois
-dimensions, nous le désignerons comme figuré, non figuré, et susceptible
-de prendre toutes les figures ; sa matière subissant les puissances et les
-actions (de la poudre de projection) (1).
-III. XxI. --- SUR LΟS
-1. La puissance propre à l'ios est complémentaire de la substance qui en
-est le support ; regardée comme indivisible, elle en fait partie. Sans elle, la
-substance demeure incomplète. En effet, les parties des substances sont elles-
-mêmes des substances, comme (le) dit Porphyre ; car la substance produit la
-puissance ; et la puissance, l'action ; et l'action, les choses en acte. Donc les
-puissances substantielles proviennent des substances et sont inséparables des
-substances.
-XIII. --- SR
-CAUSΕSES
-III.
-1. Il y a, selon le naturaliste Aristote (2), quatre causes de tout (être)
-ngendré, savoir : les causes efficiente, matérielle, organique et spécifique.
-Par exemple, la porte a pour cause efficiente, le constructeur qui l'a faite ;
-pour cause matérielle, le bois, le fer, la colle forte ; pour cause organique, la
-hache, la tarière, etc. ; pour cause spécifique, l'espèce même de la matière de
-la porte, ou quelque autre. Selon Platon, il y a encore deux autres (causes) :
-la cause exemplaire et la cause finale.
-(1) Cp. Svηέsius, p. 66 et 67 ; Ori- | Mfétapn., I. 3; --- Morale a Eudème,
-|VII, 10 ; --- Psique, II, 3. --- PLκro,
-gines de l'lcnimie, p. 75, 265, 267.
-1 Cn. Aisrorr, Gener., I. 7; --- | Timée, p. 37, D.
+15\. Les appareils des compositions doivent être en verre, parce que (alors) ils permettent l'iosis, sans que (les opérateurs) aient besoin de toucher avec leurs mains ; car le mercure est mortel, lorsqu'il a dissous l'or : c'est le plus délétère de tous les métaux.
 
+16\. Ce que l'on se propose dans la calcination, c'est d'abord le blanchiment, puis le jaunissement. Projette, dit-il, la moitié de la préparation blanche, pour la première opération, et fais-en une décoction de cette manière ; l'autre moitié est conservée pour l'iosis. C'est aussi pour cette raison que Pébichius dit, _passim_ : « Partagez en deux portions la préparation.* » Il disait aussi : « Renferme l'une dans un vase de terre cuite et mets l'autre avec le cuivre.* » Il indique, par le vase de terre cuite, la cuisson, et par le cuivre l'iosis. Il voulait parler du blanchiment, en disant : « Brûlez le cuivre sur un feu de bois de laurier, c'est-à-dire dans la composition blanche. »
 
-### 0249
+*) P. 165 et 178.
 
-LAVAGE DE LA CAnIπ
-III. XXXIV. --- ΕΝΕΜΕΝΤ DΕ LA VΕRΘ
-1. Traitant le feu du mercure par le feu et alliant l'esprit à l'esprit, afin
-d'enchainer par les mains la vierge, ce démon fugace (1).
-Divers ossements des Perses ayant été calcinés par la violence du feu (2),
-ils ont perdu leur propre volatilité.
-2. Ramenons les deux corps : après les avoir réunis dans le mélange et
-transformés, ils sont régénérés. L'être sans ame devient animé ; l'être sans
-corps est rendu corporel, et ils n'admettent pas d'autre changement.
-2OI
-III. XXv. --- LΕS ΗΟΜΕS ΜΕΤLL1ΟlES
-Cet homme d'airain que tu vois dans la fontaine a changé de corps et
-il est devenu l'homme d'asèm ; quelques jours après, tu le vois (transformé
-en) homme d'or (3). Arrose-le avec de la saumure acide ; de cette facon
-il devient blanc et convenable.
-III. XxXVI. --- LAVAΕ DE LA CADl
-1. Après avoir pris la cadmie botruitis (5), qui reste dans la préparation
-du cuivre, divise-la en agitant. Pulvérise avec soin : ensuite broie et projette
-dans l'eau. Broie de nouveau dans l'eau avec le pilon, puis délaie avec la
-main ; lorsque le produit est à point, laisse déposer. Après avoir bien
-égoutté, verse de nouveau de l'eau et répète la même chose plusieurs fois,
-(1) Le mercure ? Voir page 146. |
-(3) Cp. le Serpent, p. 23; Zosir,
-p. 120.
-note 3.
-Dans E on lit : Au moyen de l'ios du | (4) Ce morceau, ainsi que celui sur
-mercure, nous triomphons du feu par | l'ocre, représente un extrait de quelque
-auteur perdu, congénère de Dioscoip,
-le feu, et nous allions, etc.
-(2) Var. M: Dispersant les ossements | Mat. méd. V, 84, vers la fin.
-(5) Introd., p. 239.
-des Perses calcinée aη
-26
+*) P. 158.
 
+17\. Agathodémon dit : « Fais une décoction de l'eau divine avec la vapeur sublimée ; de cette façon, on brûle et on opère le blanchiment. » Et encore : « Faire cuire la vapeur décrite précédemment avec l'huile de ricin ou de raifort, après y avoir mêlé un peu d'alun.* »
 
-### 0250
+*) P. 178.
 
-202
-ZOSIME
-jusqu'à ce que l'eau reste sans former de mousse. Après avoir bien égoutté
-fais sécher au soleil.
-II XXXVII. --- SUR LA ΤΕΝΤRΕ
-1. Si (l'on) n'a pas pratiqué convenablement la teinture noire, le travail
-de l'argent ne pourra plus être tempéré. Les adeptes d'Agathodémon appel-
-lent : teinture supérieure (καταβαφή), celle que l'on exécute en délayant ainsi ;
-quant à la décoction, ils l'appellent teinture simple (βαφή) ; car ils distinguent
-la teinture simple et la teinture supérieure. Ils veulent donc que la tein-
-ture simple (βαφή) soit (la teinture en) argent et la teinture supérieure (κατα-
-βαφή), (la teinture en) or. A propos de l'acte de bruler, tu trouveras ceci :
-α Autre chose est de bruler en vue de la teinture simple, et autre chose de
-brûler en vue de la teinture supérieure. Tout le reste, jusqu à la raréfaction,
-l'altération (de nature), (bref) toutes les autres (opérations), ils les dissimu-
-lent dans leurs discours.
-III. XXXVIII. --- SUR LΕ AUNISSΕMΝT
-1. « Tous ne pensaient pas, ὁ femme (1), que le jaunissement suivit
-immédiatement le blanchiment ; or le plus souvent la composition blanche,
-quand elle est cuite, tourne au jaune. » Et un peu plus loin : « quelques-uns
-ont fait une chose préférable à celles-ci. En effet, laissant refroidir, ils
-distillaient et rectifiaient au soleil l'eau divine jaune, pendant le nombre
-de jours prescrit. Puis ils opéraient la décoction et la cuisson ». Et un peu
-plus loin : α Eau divine rectifiée, préparée avec de la chaux, deux parties, et
-du soufre, une partie (2) ; on met en décoction dans un pot et on décante ;
-puis on met en décoction de nouveau. C'est la l'eau de soufre, que l'on
-projette pour obtenir les deux couleurs (3). »
-|Leide ; Introduction, pages 46 et 68.
-(1) Théosébie.
-(2) C'est à peu près la même formule | (3)Lbajoute: α je dis l'eau aérienne ».
-(celle d'un polysulfure de calcium) | Le ms. M continue par l'article tiré
-que la recette 89 du Papyrus X de | d'Agatharchide (Introd., p. 185).
+18\. Zosime dit : « Pour accomplir exactement la présente opération, il faut laver l'aigle d'airain, pendant les 365 jours (de l'année) entiers, » et ainsi de suite, dans tout le cours du traité.*
 
+*) P. 129 et 135.
 
-### 0251
+19\. Le divin Sophar dit : « Je vis un aigle d'airain descendre dans la source pure, etc. » (Reproduction de cinq lignes déjà données à la page 125.)
 
-L'EAU AERIENNE
-III. XXXI. --- L'ΕAU AΕRlΕΝΝΕ
-203
-1. « Cette composition a besoin d'abord de quelques liquides, etc. (mor-
-ceau tiré d'OLκIoDoRE, p. 97, premier alinéa tout entier).
-2. Au sujet des minerais, tout le monde s'explique sur ce point. Je
-commencerai par reproduire le témoignage qui le concerne, à cause de ton
-incrédulité. Zosime, dans son livre du Compte fnal, adressé à Théosébie,
-s'explique en disant (2) : α Pour le roi d'Egypte, o femme, tout consistait en
-ces deux arts, l'art de l'analyse (3), et l'art des produits naturels et minerais.
-C'est l'art divin des transformations, c'est-à-dire l'art dogmatique pour
-tous ceux qui s'occupent de manipulations, j entends les quatre arts relatifs
-a la fabrication (des métaux). Cet art divin a été révélé aux prêtres seuls, etc. »
-(La suite, p. 97 jusqu'au bas de la page, et jusqu'aux mots α ils seraient
-châtiés », qui commencent la page 98.)
-3. C'est là l'image du monde, célebre dans les anciens écrits, le mortier
-mystique des Egyptiens et des hiérogrammates d'Egypte, par lequel
-l'affinité des natures charme les natures consubstantielles (4). Voici le
-consubstantiel Orphique et la lyre Hermaique, dans laquelle s'accomplit
-l'agréable et harmonieuse combinaison des substances. Mélangées suivant
-les rites, elles s 'élancent de la (terre ?) vers le chœur céleste ; le feu opérant
-leur transmutation.
-4. A la suite, entre le noircissement et le blanchiment, a lieu la macé-
-ration et le lavage des produits ; entre le blanchiment et le jaunisse-
-ment, le traitement par tusion. De la même façon, comme intermédiaire
-entre le jaunissement et la teinture en violet, se place la division en deux de
-la composition. Le terme du blanchiment, c'est le traitement par l'appareil
-en forme de mamelle (5).
-(1) Suite de fragments indépendants | tunes » (astrologie ?) ; ou bien encore
-les uns des autres, et reproduisant | α L'art des teintures convenables ν.
-parfois des morceaux déja imprimés, |
-(4) Ce mot semble répondre aux dis-
-avec certaines variantes.
-|cussions sur la nature du Père et du Fils
-(2) Cp. OIL.VMPlοωoE, p. 97 et Zosin, | dans la Trinité, au temps du Concile
-de Nicée ; Cp. p. 136.
-III. L1, 13.
-(3)Var. : a L'art des produits royauxν;
-(5) Cp. Svέsιυs, p. 65.
-u bien : α L'art des matières onnor- |
+20\. La magnésie tire son étymologie du fait de mélanger (μιγνύειν) les matières unies par la combinaison.
 
+21\. Le divin Zosime dit : Démocrite, mon excellent maître, dit avec raison : « Reçois la pierre qui n'est pas une pierre. » (Reproduction d'un passage déjà donné, p. 130, jusqu'à ces mots : « lait d'ânesse ou de chèvre. » )
 
-### 0252
+22\. Zosime disait : « Ne redoute point de chauffer fortement ; épuise l'élément liquide des corps. Il y a mille (modes de) chauffer le cuivre* ; ils rendent le cuivre plus apte à la teinture. Fais sortir la nature au dehors et tu trouveras ce qui est cherché ; car la nature est cachée à l'intérieur. Or, la nature étant extraite, le blanc ne se voit plus ; mais après l'expulsion du mercure indiquée précédemment, le jaune apparaît, par le jaunissement annoncé de l'ios. Où sont donc ceux qui déclarent impossible de changer la nature ? Voici que la nature est changée ; elle devient fixe et prend la qualité de l'or, en retournant vers le noir. En effet, si l'humidité provenant de l'expulsion du mercure, circulant dans la (nature) terrestre du corps solide de la poudre sèche, ne va pas dissoudre et expulser la liquidité, conformément à la propriété essentielle de cette expulsion du mercure, alors rien n'aura lieu de ce qui est attendu. Si l'on n'opère pas la dissolution et l'épuisement de l'élément liquide par l'échauffement, rien n'aura lieu de ce qui est attendu. Si le produit n'est pas dissous et échauffé, puis refroidi, rien n'aura lieu de ce qui est attendu. Mais si toutes choses sont faites à leur rang et par ordre, tu pourras espérer arriver au résultat, avec l'aide de la divine Providence. »
 
-204
-ZOSIME
-5. 12 Dans le noircissement, on sépare le produit fondu de la cendre ;
-2e Dans la macération, on sépare la cendre de la liqueur ;
-3e Puis vient le lavage des espèces brulées, sept fois répété dans un vase
-d'Ascalon ; ce lavage est le 1es blanchiment et la disparition de la coloration
-en noir des espèces ;
-4 Le blanchiment, par le mélange avec une petite quantité d'eau blanch
-ou jaune, produit ce rayon de miel (1), recherché par les manipulateurs ;
-5e Le jaunissement suit ; (car) le blanchiment mène au jaunissement ;
-6e Alors s'accomplit la division en deux de la composition ;
-7e Celle-ci étant partagée en deux, on prend l'une des parties, laquelle
-transformée en ios, amollit, délaie et (2) accomplit la fixation.
-6. D'autres, dit-il (3), (se sont expliqués) sur la couleur, sur la décoction
-et sur l'œuvre de la théorie secrète. On commence par projeter le cuivre.
-Après le traitement dans le laboratoire, il réjouit les yeux ; puis, avec le
-temps, la teinte devient plus claire (4), lorsqu'on opère avec de l'or préparé
-au moyen de la gomme, de la liqueur d'or, etc.
-III. X. --- SUR LΕ BLAΝΗΕΝN
-1. Il faut que vous sachiez que la chose capitale c'est le blanchiment ;
-après le blanchiment, on jaunit aussitot le mystère accompli.
-2. Le blanchiment réside dans l'acte de bruler ; or bruler c'est revivifier
-par le feu ; car de telles (matières) se brulent et se revivifient d'elles-mêmes (5) ;
-elles se fécondent elles-mêmes et engendrent ainsi l'animal cherché par
-les philosophes.
-3. Si tu blanchis, tu teindras facilement, et si tu teins en violet ou en
-(1) SvEsius, p. 66. --- Lh ajoute : | coloration superficielle, obtenue par un
-« Et fabrique la pierre sèche, recher- | procédé d'orfèvre. --- Introd., p. 56, 58.
-(5) Ce texte se trouve avec des va-
-chée, etc. ».
-(2) Lb intercale : c Et l'autre partie ν. riantes importantes dans SvNέsius,
-p. 63.
-(3) Addition de A seul.
-(4) Il semble qu'il s'agisse ici d'une l
+*) Voir p. 154 et 177.
 
+23\. Le temps de la gestation n'est pas moindre de neuf mois, quand il n'y a pas avortement. Le temps de la cuisson pour tous les produits, (notamment) lorsqu'on opère sur des lames, n'est pas moindre de neuf heures. Tel est le mode de gestation. Quant au temps de l'opération faite sur l'autel en forme de coupe, il faut tenir compte de la macération. En effet, considère que les modes d'opérer sont au nombre de trois. Le premier mode se rapporte au mélange. Si tu m'as bien compris, il embrasse les substances pétries et fermentées, à la façon de la farine tirée du grain. De même le liquide ne sera pas vaporisé outre mesure, mais seulement selon que le besoin s'en fera sentir ; de même aussi, pour la composition. (Reproduction du § 5, p. 142, jusqu'à la fin.)
 
-### 0253
+24\. C'est là la pierre étésienne. Edulcore la poudre sèche (de projection) et dessèche. Fixe et affine la poudre sèche, en prenant : couperose, trois parties ; magnésie, une partie ; cuivre affiné, une partie ; poudre sèche, une partie. Délaie ensemble, en arrosant au soleil avec du vinaigre blanc, pendant sept jours ; puis fais cuire pendant deux ou trois jours. En enlevant (le produit), tu trouveras l'or teint en rouge couleur de sang. C'est là le cinabre des philosophes et l'homme d'or. La poudre de projection s'est condensée (aux dépens) des liqueurs. Si le feu est excessif, elle devient jaune ; mais (alors) elle n'est pas utile.
 
-205
-LIVRE VERITABLE DE SOPHE
-cinabre, tu seras bienheureux, o Dioscorus ; car c'est là ce qui affranchit de
-la pauvreté, cette maladie incurable (1).
-III. XLI. --- LIVRΕ VRRΤABLΕ DΕ SΟΡΗΕ LΕVΤΤIΕ
-ET DU DIVIN SEIΟΝEUΕ ΡES IΕΕREUX (Ε) DES ΕERΕUΚ () DΕs PUISSAΝΟES SABAΟTI
-LIVRE ΥSTIΟUE DE ZΟSIMΕ LΕ ΤIΕBAIN
-1. Voici la mesure du mercure.
-Agathodémon dit : α Fais cuire, extrais l'or. » On projette le cuivre.
-On obtient la feuille de Marie, formée de deux métaux (3) ; on la fait cuire au
-feu (4) en vue de la teinture au moyen de l'huile et du miel et on reprend
-par le mercure : tel est le travail (régulier). Que le cuivre, amené de nou-
-veau à l'état d'ios, soit fondu avec l'or, suivant la mesure du mercure.
-Marie dit : α Lorsque la composition s'est formée d'elle-même, ou bien
-par le moyen de la saumure vinaigrée et qu'on a fait cuire, délaie avec le
-soufre, c'est-à-dire avec le soufre sublimé, soit dans un flacon, (soit) sur
-une kérotakis, puis verse, ou délaie, et regarde si tu as accompli l'œuvre.
-Si tu ne (l') as pas accompli avec un certain jaune, emploie notre ios avec
-la matière qui précède la teinture : c'est la ce qui est nécessaire pour rendre
-l'or parfait ; autrement l'or ne jaunit pas. Projette donc de nouveau avec la
-matière qui précède la teinture, ou bien délaie avec l'argent transformé: du
-noir scintillant, 1 partie d'ios, de misy brut, ainsi que de la matière qui pré-
-cède la teinture, afin de dissoudre une portion du cuivre.
-2. Il est cuit ; car même s'il ne contient pas de mercure, il faut (le)
-cuire, attendu qu'avant l'action du feu, il n'y a pas de teinture. Il faut
-lui faire subir l'action purificatrice par les matières (convenables), afin de
-constater qu'il est pur. Essaie, ou bien fais fondre. Si tu connais les deux
-marches, celles des uifs et de ......., ne crains pas d'essayer, (en exécutant)
-en détail toutes les choses que je t'ai exposées.
-(3) Cp. p. 148, 151.
-(1) Cp. Svvἐsus, p. 63.
-(2) Cp. Origines de llcnimie, p. 58. | (4 Sur la kérotais.
-Sophé est une forme du nom de hhne
+---
 
+#### 3\. --- 30. Sur la Composition des Matières Premières.*
 
-### 0254
+*) Ceci paraît être une lettre-dédicace, ou un épilogue de Zosime, transformé par quelque copiste en fragment « περὶ ἀφορμῶν συνθέσεως. »
 
-206
-ZOSIME
-Cette exposition ne donne lieu à aucune équivoque ; mais elle a pour but
-de t'engager à essayer si la fortune t'est favorable et si tu as tout à fait réussi.
-En t'appuyant sur ces (connaissances), tu n'échoueras pas ; mais par cette
-méthode tu vaincras la pauvreté, surtout si tu as le talent et lhabileté de
-surmonter les obstacles. Dans des milliers d'ouvrages on enseigne comment
-le cuivre est blanchi et jauni convenablement. Il n'est propre à être allié
-par diplosis que s'il est changé en ios. Il peut être traité méthodiquement
-par mille (moyens) ; mais il n'est rendu propre à l'alliage que par une seule
-voie, en devenant notre vrai cuivre ; c'est là toute la formule. Telle est la tein-
-ture efficace, celle qu'ils leur ont enseignée, la teinture cherchée depuis des
-siècles et qui ne peut être découverte autrement que de cette façon. Quel
-est le principe convenable pour ces effets, je te l'ai montré dans l'écrit sur
-la couperose. On y dit comment le cuivre teint, et l'on y parle du plomb
-et de tout ce qui est susceptible de recevoir la teinture.
-III. XII. --- LIVRΕ VΕ SΟPΗ LΕΟVΤΕΝ
-E D DIVIΝ ARE DES EBREUΝ (Ε DES PUISSACES SABAΟT
-1. Discours du livre véritable de Sophé l'Egyptien, du divin Seigneur
-des Hébreux (et) des puissances Sabaoth. Il y a deux sciences et deux
-sagesses : celle des Egyptiens et celle des Hébreux, laquelle est rendue plus
-solide.par la justice divine. La science et la sagesse des meilleurs dominent
-les uns et les autres ; elles viennent des siècles anciens. Leur génération
-est dépourvue de roi, autonome, immatérielle ; elle ne recherche rien des
-corps matériels et corruptibles ; elle opère sans subir d'action (étrangère),
-soutenue maintenant par la prière et la grâce (divine). Le symbole de la
-chimie est tiré de la création, (aux yeux de ses adeptes) qui sauvent et puri-
-fient l'âme divine enchainée dans les éléments, et surtout qui séparent
-l'esprit divin confondu avec la chair. De même qu'il existe un soleil, fleur du
-feu, un soleil céleste, œil droit du monde ; de même le cuivre, sil devient
-fleur (c'est-à-dire s'il prend la couleur de l'or) par la purification, devient
+La composition relative aux matières premières a réuni dans un seul esprit, ô Théosébie, les compositions partielles des anciens. En outre elle montre, au moyen du fait, les noms des composés (restés) ignorés dans leurs écrits, comme (par exemple) la cendre et les (matières semblables. Or, il faut savoir quelles substances, d'après le Philosophe, produisent la résistance au feu* ; que le corps allié (au mercure) le rend capable de résister au feu, et ainsi de suite. Car le sage, prenant les matières premières, poursuivra du commencement à la fin. Mais je ne pouvais placer là les produits complets, attendu que je ne les trouvais pas chez ces (auteurs) ; je ne pouvais exposer ce que (Démocrite) n'avait pas dit ; je ne pouvais faire autre chose que réunir avec vraisemblance les choses dispersées, interpréter les choses allégoriques ; tout ce qu'il est permis de faire dans des commentaires, je l'ai fait. Bonne santé.
 
+*) En marge : signe du mercure.
 
-### 0255
+---
 
-LIVRE VERITABLE DE SOPHE
-207
-alors un soleil terrestre, qui est roi sur la terre, comme le soleil est roi dans
-le ciel.
+#### 3\. --- 31. Sur la Poudre Sèche* (de Projection).
+
+*) Ceci paraît être une lettre-dédicace, ou un épilogue de Zosime, transformé par quelque copiste en fragment « περὶ ἀφορμῶν συνθέσεως. »
+
+1\. La poudre de projection véritable a trois puissances et trois actions procédant de ces puissances. (Ce sont) la teinture, la pénétration, la fixation. Le (corps) mathématique a trois dimensions, la longueur, la largeur et la profondeur. Le corps naturel est triplement étendu et (en outre) susceptible de figure ; il a la longueur, la largeur, la profondeur et la capacité de figure. De même aussi, au sujet de (notre) espèce, nous parlerons de la teinture, de la pénétration, de la fixation, et de l'éclat (durable). Or le corps a trois dimensions, nous le désignerons comme figuré, non figuré, et susceptible de prendre toutes les figures ; sa matière subissant les puissances et les actions (de la poudre de projection).*
+
+*) Cp. Synésius, p. 66 et 67 ; _Origines de l'Alchimie_, p. 75, 265, 267.
+
+---
+
+#### 3\. --- 32. Sur l'Ios.
+
+1\. La puissance propre à l'ios est complémentaire de la substance qui en est le support ; regardée comme indivisible, elle en fait partie. Sans elle, la substance demeure incomplète. En effet, les parties de substances sont elles-mêmes des substances, comme (le) dit Porphyre ; car la substance produit la puissance ; et la puissance, l'action ; et l'action, les choses en acte. Donc les puissances substantielles proviennent des substances et sont inséparables des substances.
+
+---
+
+#### 3\. --- 33. Sur les Causes.
+
+1\. Il y a, selon le naturaliste Aristote,* quatre causes de tout (être) engendré, savoir : les causes efficiente, matérielle, organique et spécifique. Par exemple, la porte a pour cause efficiente, le constructeur qui l'a faite ; pour cause matérielle, le bois, le fer, la colle forte ; pour cause organique, la hache, la tarière, etc. ; pour cause spécifique, l'espèce même de la matière de la porte, ou quelque autre. Selon Platon, il y a encore deux autres (causes) : la cause exemplaire et la cause finale.
+
+*) Cp. Aristote, _Gener._, 1, 7 ;--- _Métaph._, 1, 3 ;--- _Morale à Eudème_, 7, 10 ;--- _Physique_, 2, 3. --- Platon, _Timée_, p. 37, D.
+
+---
+
+#### 3\. --- 34. Enchainement de la Vierge.
+
+1\. Traitant le feu du mercure par le feu et alliant l'esprit à l'esprit, afin d'enchaîner par les mains la vierge, ce démon fugace.*
+
+*) Le mercure ? Voir page 146, note 3.  
+Dans E on lit : Au moyen de l'ios du mercure, nous triomphons du feu par le feu, et nous allions, etc.
+
+Divers ossements des Perses ayant été calcinés par la violence du feu,* ils ont perdu leur propre volatilité.
+
+*) Var. M : Dispersant les ossements des Perses calcinés, etc.
+
+2\. Ramenons les deux corps : après les avoir réunis dans le mélange et transformés, ils sont régénérés. L'être sans me devient animé ; l'être sans corps est rendu corporel, et ils n'admettent pas d'autre changement.
+
+---
+
+#### 3\. --- 35. Les Hommes Métalliques.
+
+Cet homme d'airain que tu vois dans la fontaine a changé de corps et il est devenu l'homme d'asèm ; quelques jours après, tu le vois (transformé en) homme d'or.* Arrose-le avec de la saumure acide ; de cette façon il devient blanc et convenable.
+
+*) Cp. le _Serpent_, p. 23 ; Zosime, p. 120.
+
+---
+
+#### 3\. --- 36. Lavage de la Cadmie.*
+
+*) Ce morceau, ainsi que celui sur l'ocre, représente un extrait de quelque auteur perdu, congénère de Dioscoride, _Mat. méd._ 5, 84, vers la fin.
+
+1\. Après avoir pris la cadmie _botruitis_,* qui reste dans la préparation du cuivre, divise-la en agitant. Pulvérise avec soin : ensuite broie et projette dans l'eau. Broie de nouveau dans l'eau avec le pilon, puis délaie avec la main ; lorsque le produit est à point, laisse déposer. Après avoir bien égoutté, verse de nouveau de l'eau et répète la même chose plusieurs fois, jusqu'à ce que l'eau reste sans former de mousse. Après avoir bien égoutté fais sécher au soleil.
+
+*) _Introd._, p. 239.
+
+---
+
+#### 3\. --- 37. Sur la Teinture.
+
+1\. Si (l'on) n'a pas pratiqué convenablement la teinture noire, le travail de l'argent ne pourra plus être tempéré. Les adeptes d'Agathodémon appellent : teinture supérieure (καταβαφή), celle que l'on exécute en délayant ainsi ; quant à la décoction, ils l'appellent teinture simple (βαφή) ; car ils distinguent la teinture simple et la teinture supérieure. Ils veulent donc que la teinture simple (βαφή) soit (la teinture en) argent et la teinture supérieure (καταβαφή), (la teinture en) or. A propos de l'acte de brûler, tu trouveras ceci : « Autre chose est de brûler en vue de la teinture simple, et autre chose de brûler en vue de la teinture supérieure. Tout le reste, jusqu'à la raréfaction, l'altération (de nature), (bref) toutes les autres (opérations), ils les dissimulent dans leurs discours. »
+
+---
+
+#### 3\. --- 38. Sur le Jaunissement.
+
+1\. « Tous ne pensaient pas, ô femme,* que le jaunissement suivît immédiatement le blanchiment ; or le plus souvent la composition blanche, quand elle est cuite, tourne au jaune. » Et un peu plus loin : « quelques-uns ont fait une chose préférable à celles-ci. En effet, laissant refroidir, ils distillaient et rectifiaient au soleil l'eau divine jaune, pendant le nombre de jours prescrit. Puis ils opéraient la décoction et la cuisson. » Et un peu plus loin : « Eau divine rectifiée, préparée avec de la chaux, deux parties, et du soufre, une partie* ; on met en décoction dans un pot et on décante ; puis on met en décoction de nouveau. C'est là l'eau de soufre, que l'on projette pour obtenir les deux couleurs.* »
+
+*) Théosébie.
+
+*) C'est à peu près la même formule (celle d'un polysulfure de calcium) que la recette 89 du Papyrus X de Leide ; _Introduction_, pages 46 et 68.
+
+*) Lb ajoute : « je dis l'eau aérienne. » Le ms. M continue par l'article tiré d'Agatharchide (_Introd._, p. 185).
+
+---
+
+#### 3\. --- 39. L'Eau Aérienne.*
+
+*) Suite de fragments indépendants les uns des autres, et reproduisant parfois des morceaux déjà imprimés, avec certaines variantes.
+
+1\. « Cette composition a besoin d'abord de quelques liquides, etc. (morceau tiré d'Olympiodore, p. 97, premier alinéa tout entier). »
+
+2\. Au sujet des minerais, tout le monde s'explique sur ce point. Je commencerai par reproduire le témoignage qui le concerne, à cause de ton incrédulité. Zosime, dans son livre du _Compte final_, adressé à Théosébie, s'explique en disant* : « Pour le roi d'Égypte, ô femme, tout consistait en ces deux arts, l'art de l'analyse,* et l'art des produits naturels et minerais. C'est l'art divin des transformations, c'est-à-dire l'art dogmatique pour tous ceux qui s'occupent de manipulations, j'entends les quatre arts relatifs à la fabrication (des métaux). Cet art divin a été révélé aux prêtres seuls, etc. » (La suite, p. 97 jusqu'au bas de la page, et jusqu'aux mots « ils seraient châtiés, » qui commencent la page 98.)
+
+*) Cp. Olympiodore, p. 97 et Zosime, 3, 51, 1-3.
+
+*) Var. : « L'art des produits royaux ; » ou bien : « L'art des matières opportunes » (astrologie ? ) ; ou bien encore : « L'art des teintures convenables. »
+
+3\. C'est là l'image du monde, célèbre dans les anciens écrits, le mortier mystique des Égyptiens et des hiérogrammates d'Egypte, par lequel l'affinité des natures charme les natures consubstantielles.* Voici le consubstantiel Orphique et la lyre Hermaïque, dans laquelle s'accomplit l'agréable et harmonieuse combinaison des substances. Mélangées suivant les rites, elles s'élancent de la (terre ? ) vers le chœur céleste ; le feu opérant leur transmutation.
+
+*) Ce mot semble répondre aux discussions sur la nature du Père et du Fils dans la Trinité, au temps du Concile de Nicée ; Cp. p. 136.
+
+4\. A la suite, entre le noircissement et le blanchiment, a lieu la macération et le lavage des produits ; entre le blanchiment et le jaunissement, le traitement par fusion. De la même façon, comme intermédiaire entre le jaunissement et la teinture en violet, se place la division en deux de la composition. Le terme du blanchiment, c'est le traitement par l'appareil en forme de mamelle.*
+
+*) Cp. Synésius, p. 65.
+
+5\. 1° Dans le noircissement, on sépare le produit fondu de la cendre ;
+
+2° Dans la macération, on sépare la cendre de la liqueur ;
+
+3° Puis vient le lavage des espèces brûlées, sept fois répété dans un vase d'Ascalon ; ce lavage est le 1er blanchiment et la disparition de la coloration en noir des espèces ;
+
+4° Le blanchiment, par le mélange avec une petite quantité d'eau blanche ou jaune, produit ce rayon de miel,* recherché par les manipulateurs ;
+
+*) Synésius, p. 66. --- Lb ajoute : « Et fabrique la pierre sèche, recherchée, etc. »
+
+5° Le jaunissement suit ; (car) le blanchiment mène au jaunissement ;
+
+6° Alors s'accomplit la division en deux de la composition ;
+
+7° Celle-ci étant partagée en deux, on prend l'une des parties, laquelle transformée en ios, amollit, délaie et* accomplit la fixation.
+
+*) Lb intercale : « Et l'autre partie. »
+
+6\. D'autres, dit-il,* (se sont expliqués) sur la couleur, sur la décoction et sur l'œuvre de la théorie secrète. On commence par projeter le cuivre. Après le traitement dans le laboratoire, il réjouit les yeux ; puis, avec le temps, la teinte devient plus claire,* lorsqu'on opère avec de l'or préparé au moyen de la gomme, de la liqueur d'or, etc.
+
+*) Addition de A seul.
+
+*) Il semble qu'il s'agisse ici d'une coloration superficielle, obtenue par un procédé d'orfèvre. --- _Introd._, p. 56, 58.
+
+---
+
+#### 3\. --- 40. Sur le Blanchiment.
+
+1\. Il faut que vous sachiez que la chose capitale c'est le blanchiment ; après le blanchiment, on jaunit aussitôt le mystère accompli.
+
+2\. Le blanchiment réside dans l'acte de brûler ; or brûler c'est revivifier par le feu ; car de telles (matières) se brûlent et se revivifient d'elles-mêmes* ; elles se fécondent elles-mêmes et engendrent ainsi l'animal cherché par les philosophes.
+
+*) Ce texte se trouve avec des variantes importantes dans Synésius, p. 63.
+
+3\. Si tu blanchis, tu teindras facilement, et si tu teins en violet ou en cinabre, tu seras bienheureux, ô Dioscorus ; car c'est là ce qui affranchit de la pauvreté, cette maladie incurable.*
+
+*) Cp. Synésius, p. 63.
+
+---
+
+#### 3\. --- 41. Livre Véritable de Sophé l'Égyptien et du Divin Seigneur des Hébreux (et) des Puissances Sabaoth Livre Mystique de Zosime le Thébain.*
+
+*) Cp. _Origines de l'Alchimie_, p. 58. Sophé est une forme du nom de Chéops.
+
+1\. Voici la mesure du mercure.
+
+Agathodémon dit : « Fais cuire, extrais l'or. » On projette le cuivre. On obtient la feuille de Marie, formée de deux métaux* ; on la fait cuire au feu* en vue de la teinture au moyen de l'huile et du miel et on reprend par le mercure : tel est le travail (régulier). Que le cuivre, amené de nouveau à l'état d'ios, soit fondu avec l'or, suivant la mesure du mercure.
+
+*) Cp. p. 148, 151.
+
+*) Sur la kérotakis.
+
+Marie dit : « Lorsque la composition s'est formée d'elle-même, ou bien par le moyen de la saumure vinaigrée et qu'on a fait cuire, délaie avec le soufre, c'est-à-dire avec le soufre sublimé, soit dans un flacon, (soit) sur une kérotakis, puis verse, ou délaie, et regarde si lu as accompli l'œuvre. Si tu ne (l') as pas accompli avec un certain jaune, emploie notre ios avec la matière qui précède la teinture : c'est là ce qui est nécessaire pour rendre l'or parfait ; autrement l'or ne jaunit pas. Projette donc de nouveau avec la matière qui précède la teinture, ou bien délaie avec l'argent transformé : du noir scintillant, 1 partie d'ios, de misy brut, ainsi que de la matière qui précède la teinture, afin de dissoudre une portion du cuivre.
+
+2\. Il est cuit ; car même s'il ne contient pas de mercure, il faut (le) cuire, attendu qu'avant l'action du feu, il n'y a pas de teinture. Il faut lui faire subir l'action purificatrice par les matières (convenables), afin de constater qu'il est pur. Essaie, ou bien fais fondre. Si tu connais les deux marches, celles des Juifs et de ... ne crains pas d'essayer, (en exécutant) en détail toutes les choses que je t'ai exposées.
+
+Cette exposition ne donne lieu à aucune équivoque ; mais elle a pour but de t'engager à essayer si la fortune t'est favorable et si tu as tout à fait réussi. En t'appuyant sur ces (connaissances), tu n'échoueras pas ; mais par cette méthode tu vaincras la pauvreté, surtout si tu as le talent et l'habileté de surmonter les obstacles. Dans des milliers d'ouvrages on enseigne comment le cuivre est blanchi et jauni convenablement. Il n'est propre à être allié par diplosis que s'il est changé en ios. Il peut être traité méthodiquement par mille (moyens) ; mais il n'est rendu propre à l'alliage que par une seule voie, en devenant notre vrai cuivre ; c'est là toute la formule. Telle est la teinture efficace, celle qu'ils leur ont enseignée, la teinture cherchée depuis des siècles et qui ne peut être découverte autrement que de cette façon. Quel est le principe convenable pour ces effets, je te l'ai montré dans l'écrit sur la couperose. On y dit comment le cuivre teint, et l'on y parle du plomb et de tout ce qui est susceptible de recevoir la teinture.
+
+---
+
+#### 3\. --- 42. Livre Véritable de Sophé l'Égyptien et du Divin Maitre des Hébreux (et) des Puissances Sabaoth.
+
+1\. Discours du livre véritable de Sophé l'Égyptien, du divin Seigneur des Hébreux (et) des puissances Sabaoth. Il y a deux sciences et deux sagesses : celle des Égyptiens et celle des Hébreux, laquelle est rendue plus solide par la justice divine. La science et la sagesse des meilleurs dominent les uns et les autres ; elles viennent des siècles anciens. Leur génération est dépourvue de roi, autonome, immatérielle ; elle ne recherche rien des corps matériels et corruptibles ; elle opère sans subir d'action (étrangère), soutenue maintenant par la prière et la grâce (divine). Le symbole de la chimie est tiré de la création, (aux yeux de ses adeptes) qui sauvent et purifient l'âme divine enchaînée dans les éléments, et surtout qui séparent l'esprit divin confondu avec la chair. De même qu'il existe un soleil, fleur du feu, un soleil céleste, œil droit du monde ; de même le cuivre, s'il devient fleur (c'est-à-dire s'il prend la couleur de l'or) par la purification, devient alors un soleil terrestre, qui est roi sur la terre, comme le soleil est roi dans le ciel.
+
 2. Voici (1) les teintures parfaites, communiquant la vraie couleur du
 soleil (2), telles que celle de Démocrite, et, l'unité qui transmet la teinture, la
 comaris scythique, la (teinture) parfaite (de l'argent), celle d'Isis (3), celle que
