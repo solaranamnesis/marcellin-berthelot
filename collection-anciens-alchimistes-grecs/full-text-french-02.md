@@ -94,6 +94,34 @@
 
 #### [3. --- 28. Sur le Corps de la Magnésie et sur son Traitement.](#3-----28-sur-le-corps-de-la-magnésie-et-sur-son-traitement-1)
 
+#### [3. --- 29. Sur la Pierre Philosophale.]()
+
+#### [3. --- 30. Sur la Composition des Matières Premières.]()
+
+#### [3. --- 31. Sur la Poudre Sèche (de Projection).]()
+
+#### [3. --- 32. Sur l'Ios.]()
+
+#### [3. --- 33. Sur les Causes.]()
+
+#### [3. --- 34. Enchainement de la Vierge.]()
+
+#### [3. --- 35. Les Hommes Métalliques.]()
+
+#### [3. --- 36. Lavage de la Cadmie.]()
+
+#### [3. --- 37. Sur la Teinture.]()
+
+#### [3. --- 38. Sur le Jaunissement.]()
+
+#### [3. --- 39. L'Eau Aérienne.]()
+
+#### [3. --- 40. Sur le Blanchiment.]()
+
+#### [3. --- 41. Livre Véritable de Sophé l'Égyptien et du Divin Seigneur des Hébreux (et) des Puissances Sabaoth Livre Mystique de Zosime le Thébain.]()
+
+#### [3. --- 42. Livre Véritable de Sophé l'Égyptien et du Divin Maitre des Hébreux (et) des Puissances Sabaoth.]()
+
 ---
 
 # Texte Grec.
