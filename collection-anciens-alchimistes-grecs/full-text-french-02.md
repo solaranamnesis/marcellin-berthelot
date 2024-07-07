@@ -94,33 +94,33 @@
 
 #### [3. --- 28. Sur le Corps de la Magnésie et sur son Traitement.](#3-----28-sur-le-corps-de-la-magnésie-et-sur-son-traitement-1)
 
-#### [3. --- 29. Sur la Pierre Philosophale.]()
+#### [3. --- 29. Sur la Pierre Philosophale.](#3-----29-sur-la-pierre-philosophale-1)
 
-#### [3. --- 30. Sur la Composition des Matières Premières.]()
+#### [3. --- 30. Sur la Composition des Matières Premières.](#3-----30-sur-la-composition-des-matières-premières-1)
 
-#### [3. --- 31. Sur la Poudre Sèche (de Projection).]()
+#### [3. --- 31. Sur la Poudre Sèche (de Projection).](#3-----31-sur-la-poudre-sèche-de-projection-1)
 
-#### [3. --- 32. Sur l'Ios.]()
+#### [3. --- 32. Sur l'Ios.](#3-----32-sur-lios-1)
 
-#### [3. --- 33. Sur les Causes.]()
+#### [3. --- 33. Sur les Causes.](#3-----33-sur-les-causes-1)
 
-#### [3. --- 34. Enchainement de la Vierge.]()
+#### [3. --- 34. Enchainement de la Vierge.](#3-----34-enchainement-de-la-vierge-1)
 
-#### [3. --- 35. Les Hommes Métalliques.]()
+#### [3. --- 35. Les Hommes Métalliques.](#3-----35-les-hommes-métalliques-1)
 
-#### [3. --- 36. Lavage de la Cadmie.]()
+#### [3. --- 36. Lavage de la Cadmie.](#3-----36-lavage-de-la-cadmie-1)
 
-#### [3. --- 37. Sur la Teinture.]()
+#### [3. --- 37. Sur la Teinture.](#3-----37-sur-la-teinture-1)
 
-#### [3. --- 38. Sur le Jaunissement.]()
+#### [3. --- 38. Sur le Jaunissement.](#3-----38-sur-le-jaunissement-1)
 
-#### [3. --- 39. L'Eau Aérienne.]()
+#### [3. --- 39. L'Eau Aérienne.](#3-----39-leau-aérienne-1)
 
-#### [3. --- 40. Sur le Blanchiment.]()
+#### [3. --- 40. Sur le Blanchiment.](#3-----40-sur-le-blanchiment-1)
 
-#### [3. --- 41. Livre Véritable de Sophé l'Égyptien et du Divin Seigneur des Hébreux (et) des Puissances Sabaoth Livre Mystique de Zosime le Thébain.]()
+#### [3. --- 41. Livre Véritable de Sophé l'Égyptien et du Divin Seigneur des Hébreux (et) des Puissances Sabaoth Livre Mystique de Zosime le Thébain.](#3-----41-livre-véritable-de-sophé-légyptien-et-du-divin-seigneur-des-hébreux-et-des-puissances-sabaoth-livre-mystique-de-zosime-le-thébain-1)
 
-#### [3. --- 42. Livre Véritable de Sophé l'Égyptien et du Divin Maitre des Hébreux (et) des Puissances Sabaoth.]()
+#### [3. --- 42. Livre Véritable de Sophé l'Égyptien et du Divin Maitre des Hébreux (et) des Puissances Sabaoth.](#3-----42-livre-véritable-de-sophé-légyptien-et-du-divin-maitre-des-hébreux-et-des-puissances-sabaoth-1)
 
 ---
 
