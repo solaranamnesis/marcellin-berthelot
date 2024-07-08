@@ -7039,382 +7039,156 @@ Cette exposition ne donne lieu à aucune équivoque ; mais elle a pour but de t'
 
 1\. Discours du livre véritable de Sophé l'Égyptien, du divin Seigneur des Hébreux (et) des puissances Sabaoth. Il y a deux sciences et deux sagesses : celle des Égyptiens et celle des Hébreux, laquelle est rendue plus solide par la justice divine. La science et la sagesse des meilleurs dominent les uns et les autres ; elles viennent des siècles anciens. Leur génération est dépourvue de roi, autonome, immatérielle ; elle ne recherche rien des corps matériels et corruptibles ; elle opère sans subir d'action (étrangère), soutenue maintenant par la prière et la grâce (divine). Le symbole de la chimie est tiré de la création, (aux yeux de ses adeptes) qui sauvent et purifient l'âme divine enchaînée dans les éléments, et surtout qui séparent l'esprit divin confondu avec la chair. De même qu'il existe un soleil, fleur du feu, un soleil céleste, œil droit du monde ; de même le cuivre, s'il devient fleur (c'est-à-dire s'il prend la couleur de l'or) par la purification, devient alors un soleil terrestre, qui est roi sur la terre, comme le soleil est roi dans le ciel.
 
-2. Voici (1) les teintures parfaites, communiquant la vraie couleur du
-soleil (2), telles que celle de Démocrite, et, l'unité qui transmet la teinture, la
-comaris scythique, la (teinture) parfaite (de l'argent), celle d'Isis (3), celle que
-proclame Héron (Horus ?); voici l'affinage de l'or et la liqueur d'or.
-La liqueur d'argent versée sur de l'argent produit de l'argent, lorsqu'elle
-est mise en réaction avec le sidérochalque. Ces (teintures) communiquent
-(la couleur de) l'argent dans leurs réactions. Elles produisent aussi les
-doublements et les triplements (4) et les alliages d'or et d'argent. Ainsi il
-convienι de travailler par des moyens artificiels, sans or ni argent ; (il con-
-vient) d'accomplir des doublements tels, que l'on ne puisse plus séparer
-l'or et l'argent, comme on le ferait pour des matières adultérées et discor-
-dantes, qui n'ont pas produit de l'or véritable. Ainsi quand tu auras obtenu
-du cuivre sans ombre, tu (le) blanchiras avec des préparations blanchis-
-santes et tu le jauniras avec des préparations jaunissantes ; tu le teindras
-(avec) la cadmie ou le cinabre : c'est ainsi que l'or est fabriqué dans les
-temples de Vulcain (5). Je l'ai proclamé en parlant de la fabrication des
-cendres : c'est en elle que tout le mystère de la teinture a été caché (6).
-3. Le cuivre ayant été blanchi, noirci et jauni, tu teins l'asèm et tu
-obtiens l'or, à l'aide du cuivre blanchi. En effet, c'est du cuivre que nais-
-sent toutes les espèces (7) : j'entends le cinabre, la cadmie, l'or, la sanda-
-raque et le reste. Le plomb se transforme en beaucoup (de corps) et il en
-est de même du cuivre (destiné aux) couronnes, qui provient de ces corps.
-Tu trouveras dans les temples de Vulcain () les (procédés de) fabrication de
-(1) e regarde le mot ούδαμοῦ comme | du Serment d'Isis et des traités hermé-
-ajouté ici par l'erreur d'un copiste ; à | tiques. Sur les livresattribués à Chéops,
-moins que ce ne soit le débris d'une | voir la note en tête de l'article précé-
-| dent.
-phrase qui a disparu.
-(2) C'est-à-dire de l'or.
-(6) Cp. OLvroooRE, p. 99 et à la
-(3) Cp. p. 31, note 2, et p. 36, note 3. | suite.
-(4) Intrοd., Papyrus de Leide, p. 29. |
-(7) Le cuivre est envisagé ici comme
-(5) Il s agit sans doute des Temples | l'agent tinctorial par excellence, le
-de Phtha (Vulcain). Tout ce morceau | générateur de toute couleur jaune ou
-semble fort ancien et contemporain | rouge dans les métaux ou leurs dérivés,
+2\. Voici* les teintures parfaites, communiquant la vraie couleur du soleil,* telles que celle de Démocrite, et, l'unité qui transmet la teinture, la comaris scythique, la (teinture) parfaite (de l'argent), celle d'Isis,* celle que proclame Héron (Horus ? ) ; voici l'affinage de l'or et la liqueur d'or.
 
+*) Je regarde le mot οὐδαμοῦ comme ajouté ici par l'erreur d'un copiste ; à moins que ce ne soit le débris d'une phrase qui a disparu.
 
-### 0256
+*) C'est-à-dire de l'or.
 
-2Oð
-ZOSIME
-l'or. C'est des mélanges (de ces métaux) que naissent loutes les espèces. Leurs
-traitements engendrent les substances les unes par les autres et il se
-produit des formes (très diverses) dans les traitements. En les appréciant
-toutes, fais usage des meilleures.
-III. XLIII. --- CΡΙTIES ΟΕ AΤΤIΕΟDΟΕ
-1. Sur la(pierre) étésienne, c'est-à-dire composée du Tout, en tant que pierre
-étésienne (2), et par là d'une grande uiilité. En effet, dans les traitements,
-elle fait apparaitre diverses couleurs : l'une dans le traitement de la érota-
-kis, une autre dans l'opération de la fusion à l'état de liquide oléagineux :
-à savoir une couleur jaune et une couleur noire. La couleur jaune varie
-depuis la nuance rougeâtre du foie. la nuance de la myrrhe, celle de la cire,
-ou toutes celles que tu sais. La couleur noire peut être semblable à l'or et
-scintillante. Or ce qui est efficace pour le noircissement, l'est aussi pour
-le jaunissement. Le jaune devient aussi couleur de sang, très stable, et fina-
-lement pareil à du safran desséché. Si on le brule deux ou trois fois avec
-du soufre, d'après ces écrits, et si on le met en digestion quelque temps
-dans du fumier, on obtient alors des couleurs transformées et jaunies soli-
-dement ; leur modification initiale ayant eu lieu dans le sens du mieux et
-non du pire. Ce sont là les traitements appelés fixateurs, pour les teintures
-vraiment solides.
-2. Sur ce que la teinture, c'est-à-dire l'altération qui se produit dans
-l'iosis, n'est désignée ni comme blanche, ni comme jaune. En effet les deux
-soufres qui précedent, le blanc et le jaune, ont reçu ces noms, ainsi que les
-teintures. Mais la teinture même, qu'il s' agisse d'un changement ou d'une
-décomposition, est une opération plus avancée.
-tandis que le plomb est la matière | d'un extrait ou d'un bref commentaire.
-(2) Salmasii Plinianæ exercitationes,
-première commune, qui se change dans |
-776, b, D. Le Lexique (p. 6, 7, 13.
-les divers métaux.
-(1) Ce sont les titres des divers ouvra- | 16) l'assimile à la pyrite et à la chryso-
-ges perdus de Zosime, parfois suivis | lithe, au porphyre et à l'androdamas.
+*) Cp. p. 31, note 2, et p. 36, note 3.
 
+La liqueur d'argent versée sur de l'argent produit de l'argent, lorsqu'elle est mise en réaction avec le sidérochalque. Ces (teintures) communiquent (la couleur de) l'argent dans leurs réactions. Elles produisent aussi les doublements et les triplements* et les alliages d'or et d'argent. Ainsi il convient de travailler par des moyens artificiels, sans or ni argent ; (il convient) d'accomplir des doublements tels, que l'on ne puisse plus séparer l'or et l'argent, comme on le ferait pour des matières adultérées et discordantes, qui n'ont pas produit de l'or véritable. Ainsi quand tu auras obtenu du cuivre sans ombre, tu (le) blanchiras avec des préparations blanchissantes et tu le jauniras avec des préparations jaunissantes ; tu le teindras (avec) la cadmie ou le cinabre : c'est ainsi que l'or est fabriqué dans les temples de Vulcain.* Je l'ai proclamé en parlant de la fabrication des cendres : c'est en elle que tout le mystère de la teinture a été caché.*
 
-### 0257
+*) _Introd._, Papyrus de Leide, p. 29.
 
-CHAPITRES A THÉODORE
-209
-3. Sur deux autres corps appelés soufres; qui ne sont pas des soufres de
-l'ordre des premiers, mais des compositions qu'ils désignent aujourd'hui
-sous les noms de sulfureuses (ou divines), non en tant que soufre, mais à
-cause de l'euvre divine accomplie par ces corps (1).
-4. Sur ce que dans la composition on forme d'abord la matière fixatrice,
-celle qui résiste au feu et qui est tinctoriale. La première et la seconde
-nous sont manifestées dans l'asèm naturel, la dernière dans l'or obtenu
-par teinture. Mais la solution de la question est celle-la.
-5. Sur ce que dans la matrice et d'une façon invisible pour nous, la
-matière fixatrice se forme avec deux (éléments), la semence et le sang; puis
-l'animal une fois formé résiste au feu. C'est dans le feu de la matrice qu'il
-est teint, c'est-à-dire qu'il reçoit une couleur, une forme et une grandeur,
-tout (cela) dans un lieu invisible. Mais lorsque cet être a été enfanté, il se
-manifeste à nous. C'est ainsi qu'il faut travailler, sans se laisser égarer par
-lhomonymie (2) des écrits ou des autres préceptes.
-6. Sur la décomposition ; sur la production du sang ; sur la fermen-
-tation, la transformation et la régénération ; sur l'iosis et l'affinage et les
-différents noms de l'ios.
-Comme quoi l'ios est dit eau de soufre natif ; comaris scythique et
-sanglante ; semence d'or et toute semence ; ios de cuivre ; eau de cuivre et
-cau de couperose ; fleur de cuivre et préparation cuivrée ; préparation de
-miel, corps doux et indestructible, en raison de l'adoucissement, et par
-suite de la résistance à l'attaque des agents délétères.
-On ne l'a pas appelé seulement d'un nom masculin, féminin et neutre ;
-muis encore on lui a donné une forme diminutive, telle que la petite eau de
-cuivre ; d'autres, disent l'eau de la petite masse : or la masse, c'est le cuivre.
-Voila pourquoi dans les écritures juives et dans toute écriture, on parle d'une
-masse inépuisable (3) que Moise obtenait d'après le précepte du Seigneur.
-(1) L'auteur joue sur le double sens | de « masse inépuisable » (recette 7,
-p. 29). --- La chimie de Moise, traité
-du mot θεtα.
-(2) Cp. p. 196 et passim.
-| qui sera donné plus loin, est aussi dési-
-(3) Tout ce passage parait se rap- | gnée sous le nom de maa (v. p. 180).
-porter à la production d'un ferment | Ce mot mème a été employé comme
-métallique, indiqué précisément dans | synonyme de la chimie (Introduction
-le Papyrus X de Leide sous le titre . p. 209, 257).
+*) Il s'agit sans doute des Temples de Phtha (Vulcain). Tout ce morceau semble fort ancien et contemporain du Serment d'Isis et des traités hermétiques. Sur les livres attribués à Chéops, voir la note en tête de l'article précédent.
 
+*) Cp. Olympiodore, p. 99 et à la suite.
 
-### 0258
+3\. Le cuivre ayant été blanchi, noirci et jauni, tu teins l'asèm et tu obtiens l'or, à l'aide du cuivre blanchi. En effet, c'est du cuivre que naissent toutes les espèces* : j'entends le cinabre, la cadmie, l'or, la sandaraque et le reste. Le plomb se transforme en beaucoup (de corps) et il en est de même du cuivre (destiné aux) couronnes, qui provient de ces corps. Tu trouveras dans les temples de Vulcain ( ? ) les (procédés de) fabrication de l'or. C'est des mélanges (de ces métaux) que naissent toutes les espèces. Leurs traitements engendrent les substances les unes par les autres et il se produit des formes (très diverses) dans les traitements. En les appréciant toutes, fais usage des meilleures.
 
-210
-ZOSIME
-Or ce mot, corrompu par le temps, est devenu petite masse. D'autres
-le tirent du phanos qui sert à puiser l'eau et qui porte des mamelons (1).
-7. Sur le bruissement du feu éteint (dans l'eau ? ; et sur le frémissement,
-c'est-à-dire le sifflement produit par le retrait du soue ; ou bien sur le
-souffle produit par aspiration, ou par inspiration, et expiration (2).
-8. Sur ce que quelques-uns des prêtres, ayant trouvé un écrit sincère,
-ne croyaient pas pouvoir travailler autrement que d'après les démonstra-
-tions de cet ouvrage.
-9. Sur ce que l'art de l'iosis se rapporte aussi aux deux autres livres. En
-effet, s'il est autre, quant à l'espèce ; du moins, quant au genre, c'est le
-même : c'est encore l'(art) tinctorial.
-10. Sur ce qui est dit de l'affinage, de l'enlevement de l'ombre, de la
-trunsformation et de l'extraction de la nature cachée, de la régénération par
-le feu : tout cela s'entend du blanchiment.
-11. Sur les traitements utiles, depuis le blanc jusqu au jaune, et depuis le
-jaune jusqu'au blanc. Au sujet des soufres notamment, il faut rechercher ce
-que dit le Philosophe dans sa dernière classe des liquides. α Fixe : arsenic,
-1 once; soufre, une demi-once ; écorce, 1 livre ; pèse-les ensemble. Pour le
-jaune, au lieu de peser les écorces en même temps, mets du safran et de la
-chélidoine. Au lieu des terres blanches, le même poids d'ocre, de terre de
-Sinope, ou de couperose, ou de sori. Quant aux (matières) qui ne sont pas
-comprises dans la pesée commune, unifie(-les) avec habileté, à la façon
-des enfants des médecins (3). Les liquides sont presque (tous) vulgaires,
-sauf quelques- uns que tu connais. »
-12. Sur ce qu'il faut comprendre que nous nous sommes chargés d'un
-labeur terrible, en entreprenant de réduire à une essence commune, c'est-à-
-dire de marier à cette heure les natures ; comme quoi tout discours nous a été
-(1) L'auteur joue sur le mot μαζύγιον, | l. 42 ; pag. 2, l. 1 et suiv. ; pa. 3, l. 2.
-qu'il tire tantôt de μζα, masse ; tantot | et passim).
-(3) C'est le fac secundum arte des
-de μαζός, mamelon.
-(2) Les bruits divers résultant des | formules pharmaceutiques d'aujour-
-diverses formes de souffle jouaient un | d'hui. Les enfants des médecins sont
-rôle important che les gnostiques. | les apprentis.
-(Voir Papyrus de Leide V, pagina 1, l
+*) Le cuivre est envisagé ici comme l'agent tinctorial par excellence, le générateur de toute couleur jaune ou rouge dans les métaux ou leurs dérivés, tandis que le plomb est la matière première commune, qui se change dans les divers métaux.
 
+---
 
-### 0259
+#### 3\. --- 43. Chapitres de Zosime a Théodore.*
 
-DIVISIONS DE L'ART CHIMIQUE
-211
-révélé a nous-mêmes ; ce qu'il faut rechercher dans ce discours ; comme quoi
-l'art revient à ceci : qu'est-ce? de quelle nature est-ce? et pourquoi est-ce?
-13. Sur ce que toutes les teintures des anciens sont réalisées en suivant la
-marche de la composition solide, c'est-a-dire de l'iosis. Car si vous mettez
-une partie d'ios, et 1 partie des espèces traitées, c'est-à-dire des poudres
-appelées tinctoriales, et si vous faites cuire, vous aurez un résultat exact.
-14. Sur ce que la matière incombustible est celle qui ne possède plus ce qui
-peut éprouver la combustion, mais seulement ce qui aété brulé : il en estainsi
-des bois, et (pareillement) des sucs (animaux), dans les fièvres non critiques.
-15. Sur ce que le résidu des maières brulées, c'est--dire la scorie,
-représente l'acte accompli du Tout.
-16. Sur la transmutation des quatre éléments (entr'eux) ; comme quoi
-non seulement les (matières) venant de la terre et de l'eau se changent en
-feu, mais encore sont emportées vers le haut (1) ; car le feu s'élève ; or il
-ne prend pas cette image au hasard, mais à cause de l'art et de ses espèces.
-Comme quoi ces matières étant d'abord terre et eau deviennent feu, et sont
-portées vers le haut. En effet c'est par leur seule qualité (propre) que les
-éléments sont opposés entr'eux, et non par leur substance ; car la subtance
-n'est pas contraire à la substance, en tant que substance. C'est aussi pour
-cette raison que le Philosophe appelait substances les quatre éléments.
-Pour unifier leur substantialité, elles attirent dans leur intérieur la prépara-
-tion enduite à leur extérieur. De même que les éléments dissous en eux
-accomplissent toutes choses, de même aussi l'art ; et de même que les quatre
-transformations triomphent des mélanges précédents, de même aussi nos
-arts, par les transmutations, triomphent des natures.
-III. XIV. --- SUR LΕS D 'ARP CΗΙΜΟ
-1. Comme quoi il faut chercher les discours utiles eux-mêmes, et que
-faut-il dire au sujet de l'art des discours : ou bien que c'est un art ? ou bien
-(1) Au-dessus M donne ici le signe du cinabre, et répète ce signe au-dessus du mot feu.
+*) Ce sont les titres des divers ouvrages perdus de Zosime, parfois suivis d'un extrait ou d'un bref commentaire.
 
+1\. Sur la (pierre) étésienne, c'est-à-dire composée du Tout, en tant que pierre étésienne,* et par là d'une grande utilité. En effet, dans les traitements, elle fait apparaître diverses couleurs : l'une dans le traitement de la kérotakis, une autre dans l'opération de la fusion à l'état de liquide oléagineux : à savoir une couleur jaune et une couleur noire. La couleur jaune varie depuis la nuance rougeâtre du foie, la nuance de la myrrhe, celle de la cire, ou toutes celles que tu sais. La couleur noire peut être semblable à l'or et scintillante. Or ce qui est efficace pour le noircissement, l'est aussi pour le jaunissement. Le jaune devient aussi couleur de sang, très stable, et finalement pareil à du safran desséché. Si on le brûle deux ou trois fois avec du soufre, d'après ces écrits, et si on le met en digestion quelque temps dans du fumier, on obtient alors des couleurs transformées et jaunies solidement ; leur modification initiale ayant eu lieu dans le sens du mieux et non du pire. Ce sont là les traitements appelés fixateurs, pour les teintures vraiment solides.
 
-### 0260
+*) _Salmasii Plinianæ exercitationes_, 776, _b_, _D._ Le _Lexique_ (p. 6, 7, 13, 16) l'assimile à la pyrite et à la chrysolithe, au porphyre et à l'androdamas.
 
-ZOSIME
-212
-avant de poser la question : qu'est-ce ? ou de quelle nature est-ce ?(1) il faut
-demander : pourquoi est-ce? En ce qui touche les notions, ils les expo-
-saient chacune en particulier, et tous étaient absurdes et embarrassés ; car
-on peut rencontrer une difficulté indivisible.
-De même que les lignes musicales les plus générales étant au nombre
-de quatre, A, , 1, , on forme avec elles 24 lignes d'espèces diverses ; et
-qu'il y a aussi des centres et des lignes obliques, selon qu'il a été dit à propos
-des sons, et attendu qu'il est impossible de composer autrement les mélodies
-innombrables des hymnes, pour le service (du culte ?), la révélation, ou
-quelque autre partie de la science sacrée... (Phrase inintelligible.)
-Puis vient un long développement sur la musique et sur la comparaison en tre
-ses divisions et celles de la chimie. On n'a pas cru utile de traduire les § 2. ῦ, 4.
-5. De même que si tu divises en quatre parties la philosophie par excellence,
-la matière étant répartie suivant sa nature, tu trouveras la (science) générale
-et la (science) spéciale, ainsi que les différentes classes (de sujets) ; de même
-aussi, en cherchant à partager exactement la philosophie (chimique) en
-quatre parties, nous trouvons qu'elle contient : premièrement le noircisse-
-ment, secondement le blanchiment, troisièmement le jaunissement, et qua-
-trièmement la teinture en violet (2). De même encore que chacune des par-
-ties susdites comporte des subdivisions et un triage intermédiaires entre les
-lignes et les points principaux de la ligne, si l'on veut procéder par ordre ;
-de même aussi (en chimie) entre le noircissement et le blanchiment, il y a la
-macération et le lavage des espèces ; entre le blanchiment et le jaunissement,
-il y a la lévigation. Puis, entre le jaunissement et la teinture en violet,
-il y a la division par moitié de la composition... Mais la fin de la teinture en
-violet est impossible sans le traitement au moyen de l'appareil à gorge, etsans
-l'union des parties. Il est impossible de procéder autrement dans notre
-science ; si quelques-uns, tels que Epibéchius, ont étudié le jaunissement
-sans parler du blanchiment, ils ne l'ont pas fait sans parler de la macéra-
-tion ou du lavage des espèces, choses qui font maintenant partie (de l'étude)
-du blanchiment complet.
-( Voir dans article précédent l | . . a est un ré-
-8 12
-5 12.
+2\. Sur ce que la teinture, c'est-à-dire l'altération qui se produit dans l'iosis, n'est désignée ni comme blanche, ni comme jaune. En effet les deux soufres qui précèdent, le blanc et le jaune, ont reçu ces noms, ainsi que les teintures. Mais la teinture même, qu'il s'agisse d'un changement ou d'une décomposition, est une opération plus avancée.
 
+3\. Sur deux autres corps appelés soufres, qui ne sont pas des soufres de l'ordre des premiers, mais des compositions qu'ils désignent aujourd'hui sous les noms de sulfureuses (ou divines), non en tant que soufre, mais à cause de l'œuvre divine accomplie par ces corps.*
 
-### 0261
+*) L'auteur joue sur le double sens du mot θεῖα.
 
-FABRICATION DU MERCURE
-Le § 6 est sans intérèt.
-7. Le présent volume est intitulé livre métallique (et) chimique sur la
-Chrysopée, l'Argyropée, la fixation du mercure. Ce (livre) traite des
-vapeurs, des teintures qui proviennent des (êtres) vivants (), ainsi que des
-teintures des pierres vertes, des grenats et des pierres de toutes autres cou-
-leurs, de (la fabrication) des perles, et des colorations en garance des étoffes
-de peau destinées à lEmpereur. Toutes ces choses sont produites avec les
-eaux salées et les œufs, au moyen de l'art métallique (1).
-213
-III. XL. --- FABRCAΤΟΝ D MΕRCRRE
-1. Prenant de la céruse et de la sandaraque par parties égales, délaie
-vec du vinaigre jusqu'à ce que la masse s'épaississe ; ensuite, mettant dans
-un vase non étamé, recouvre avec un couvercle de cuivre ; lute tout autour
-et fais chauffer doucement sur des charbons. Lorsque tu présumes que
-l'opération est à point, découvre légèrement, et, avec une barbe de plume,
-enlève le mercure (2).
-2. Prenant du minerai couleur d'or, pulvérise, puis évapore jusqu'à ce
-que le produit soit bien sec. Mélangeant alors avec du sel, fais chauffer
-dans le fourneau pendant un jour et une nuit. Après avoir enlevé, lave,
-jusqu'à ce que le sel dissous se soit écoulé ; dessèche de nouveau ; pétris
-avec du vinaigre et abandonne un peu (de temps), jusqu'à ce que la matière
-soit imbibée ; puis dessèche. Remets sur le fourneau, (cette fois) sans laver et
-fais cela encore une fois, en pétrissant avec du vinaigre. Remets au fourneau
-quatre ou cinq fois, jusqu'à ce que la matière devienne comme du vermillon.
-Ensuite, prenant de la scorie d'asèm à poids égal, pulvérise et mélange.
-Puis. après avoir fait fondre, sépare (en deux parties), saupoudre du plomb
-(1) Ce paragraphe est étranger à ce | nir du mercure ordinaire, mais de l'ar-
-qui précède : c'est le titre d'un ouvrage | senic sublimé, lequel reçoit ici le nom
-erdu, mais dont certains extraits | de mercure, parce qu'il blanchit le
-emblent exister dans notre ve partie. | cuivre. (Introd, p. 99 et 239. --- Dἐo-
-(2) Cette préparation ne saurait four- | crr, p. 53).
+4\. Sur ce que dans la composition on forme d'abord la matière fixatrice, celle qui résiste au feu et qui est tinctoriale. La première et la seconde nous sont manifestées dans l'asèm naturel, la dernière dans l'or obtenu par teinture. Mais la solution de la question est celle-là.
 
+5\. Sur ce que dans la matrice et d'une façon invisible pour nous, la matière fixatrice se forme avec deux (éléments), la semence et le sang ; puis l'animal une fois formé résiste au feu. C'est dans le feu de la matrice qu'il est teint, c'est-à-dire qu'il reçoit une couleur, une forme et une grandeur, tout (cela) dans un lieu invisible. Mais lorsque cet être a été enfanté, il se manifeste à nous. C'est ainsi qu'il faut travailler, sans se laisser égarer par l'homonymie* des écrits ou des autres préceptes.
 
-### 0262
+*) Cp. p. 196 et _passim_.
 
-ZOSIME
-214
-avec ces deux produits (et chauffe) jusqu'à ce que ces matières soient dissi-
-pées. Après avoir fait dessécher, tu trouveras le plomb durci ; fais-le fondre
-par petits fragments ; souffle afin de faire apparaitre le métal (1).
-3. Prends de la terre provenant des bords du fleuve d'Egypte qui roule de
-l'or, pétris-la avec un peu de son, qui provient de la (fabrication de la) fleur de
-farine. Après avoir agité préalablement, mélangé et fait une pâte, mélange
-de nouveau dans un vase de ferre cuite, jusqu'à ce que les deux (substances)
-soient tout à fait confondues et qu'il se soit formé comme une pâte de pain.
-Ensuite, reprends et forme de petits pains ; puis, ayant étendu avec soin sur
-une planche, fais évaporer au soleil jusqu'a ce que la matière soit bien sèche.
-Puis mets dans un mortier ; reprends, mets dans une marmite neuve ;
-ferme avec soin la marmite, place-la à une distance d'une palme du sol ;
-recouvre de fumier et fais du feu au-dessous. Lorsque la flamme se produit,
-découvre, remue avec un instrument de ſer, jusqu'à ce que tu voies que le
-tout est cuit et semblable à une cendre noire. Si la matière n'est pas
-devenue telle, agite de nouveau en suivant le même procédé ; recouvre,
-fais chauffer ensemble ; puis retire du feu et laisse refroidir pendant un jour.
-Ayant pris une poignée (de cette matière) avec les deux mains, jette-la dans
-un vase de terre cuite ; ajoute du mercure, agite méthodiquement avec la main.
-Ensuite, ote de la marmite une autre poignée, ajoute une mesure d'eau, et
-lave. Ajoute encore une autre mesure (d'eau), et lave semblablement ; (opère
-ainsi) jusqu'à ce que la marmite soit vidée ; alors lave avec précaution
-jusqu'à ce qu'on soit parvenu au mercure. Mets dans un linge, presse
-avec soin jusqu'à épuisement. En déliant le linge, tu trouveras la partie
-solide. Après avoir fait cela, mets une boulette (du produit) sur un
-plat neuf ; fais au milieu, en enlevant de la matière, une sorte de fos-
-sette ; déposes-y la boulette, et recouvrant, dispose le plat de telle sorte
-qu'il dépasse partout également, à partir de sa partie centrale et jusqu'à la
-moitié de sa largeur. Recouvre de nouveau la marmite ; et que celle-ci
-adhère au plat. Plaçant (la marmite) sur les pieds d'un support, fais chauffer
-(1) I semble qu'il s'agisse dans ce | plomb. Cp. Introd., Papyrus de Leide,
-paragraphe d'une fabrication d'asèm, | p. 64.
-dont on opère la diplosis au moyen du |
+6\. Sur la décomposition ; sur la production du sang ; sur la fermentation, la transformation et la régénération ; sur l'iosis et l'affinage et les différents noms de l'ios.
 
+Comme quoi l'ios est dit eau de soufre natif ; comaris scythique et sanglante ; semence d'or et toute semence ; ios de cuivre ; eau de cuivre et eau de couperose ; fleur de cuivre et préparation cuivrée ; préparation de miel, corps doux et indestructible, en raison de l'adoucissement, et par suite de la résistance à l'attaque des agents délétères.
 
-### 0263
+On ne l'a pas appelé seulement d'un nom masculin, féminin et neutre ; mais encore on lui a donné une forme diminutive, telle que la petite eau de cuivre ; d'autres, disent l'eau de la petite masse : or la masse, c'est le cuivre. Voilà pourquoi dans les écritures juives et dans toute écriture, on parle d'une masse inépuisable* que Moïse obtenait d'après le précepte du Seigneur.
 
-DIVERSITÉ DU CUIVRE BRULE
-215
-sur un feu clair, avec du bois sec ou de la bouse de vache, jusqu'à ce que
-le fond du plat devienne brulant. Aie de l'eau auprès de toi pour arroser
-la préparation avec une éponge, en veillant à ce que l'eau ne tombe pas
-dans le plat. Apres la chauffe, retire le plat du feu et, découvrant, tu trouve-
-ras ce que tu cherchee 11)
-III. XIVI. --- SUR LA ΟIVRE BRL
-Le premier paragraphe est identique à l'article III, xi11, p. 154.
-2. La vapeur sublimée est une substance brûlée au moyen des alambics,
-sur un feu léger de cobathia.
-Quant aux fixations (au moyen) des scories tirées de la partie inférieure,
-c'est ce que les prophètes des anciens voulaient obtenir. Tout le monde
-entend par là les minerais, parce que la matière des corps (métalliques) est
-dite tétrasomie, et aussi parce que les Egyptiens désiraient obtenir le plomb
-noir (2). C'est dans cette opération que réside le noircissement. Or sachez
-que les scories sont tout le mystère (3) ; car les anciens parlent du plomb
-noir, parce qu'il est le support de la substance. Comment cela arrive-t-il?
-Si tu ne rends pas les corps incorporels, si de deux tu ne fais pas un (4),
-aucun des résultats attendus ne se produira. Si toutes choses n'ont pas été
-atténuées, si la vapeur sublimée n'a pas été réduite à l'état d'esprit, puis
-fixée, rien ne sera mené à terme. Qu'il s'agisse du molybdochalque, c'est
-ce que montrent les traitements des deux scories. Or, prépare une liqueur
-avec le plomb, en prenant : natron, quatre parties ; alun rond, une partie ;
-misy, deux parties ; sel de Cappadoce, 4 parties; mets (le tout) dans du vinai-
-gre très fort et fabrique une liqueur. Dans ces (opérations), tu oteras l'éclat
-aux feuilles (métalliques). C'est de cette façon que la liqueur a été reconnue
-principe et fin. Lorsque tu verras que tout est devenu cendre (5), comprends
-(1) Cette description semble répon-
-dre à l'extraction de l'or de son mine-
-ai par amalgamation.
-(2) OxpoDoRE, p. 95.
-(3) OLvriopon, p. 99.
-(4) OLvpoDoRE, p. 101.
-(5) OLvoooo, p. 107.
+*) Tout ce passage paraît se rapporter à la production d'un ferment métallique, indiqué précisément dans le Papyrus X de Leide sous le titre de « masse inépuisable » (recette 7, p. 29). --- La chimie de Moïse, traité qui sera donné plus loin, est aussi désignée sous le nom de _maza_ (v. p. 180). Ce mot même a été employé comme synonyme de la chimie (_Introduction_, p. 209, 257).
 
+Or ce mot, corrompu par le temps, est devenu petite masse. D'autres le tirent du phanos qui sert à puiser l'eau et qui porte des mamelons.*
 
-### 0264
+*) L'auteur joue sur le mot μαζύγιον, qu'il tire tantôt de μᾶζα, masse ; tantôt de μαζός, mamelon.
 
-216
-ZOSIME
-alors que tu as bien exécuté la préparation par le feu. Pulvérise donc cette
-scorie et épuise-la de sa partie soluble ; lave-la six et sept fois dans des
-eaux édulcorées, après chaque fonte. Ces fontes ont lieu en raison de la
-richesse du minerai. En suivant cette marche et ce lavage, la composition
-s'adoucit. Après la fin de l'opération de l'iosis, une projection étant faite,
-on obtient un jaunissement stable. En faisant cela, tu fais sortir au dehors
-la nature cachée à l'intérieur. En effet, transforme la nature, dit-il, et tu
-trouveras ce que tu cherches. (1) La nature étant transformée perd sa cou-
-leur blanche.
-III. XLVII. --- SUR LΕS Ε LΕS FΟRREUΚ
-1. Voici la description du fourneau ci-dessous ; le Philosophe n'en a pas
-fait mention, mais il a parlé seulement des prismes et des autres (appareils),
-sur lesquels j'ai écrit dans (mon) commentaire relatif a la façon de règler le
-feu. Dans le sanctuaire antique de Memphis (2), j'ai vu en détail un fourneau
-qui s'y trouvait; j'ai reconnu qu'il n'avait pas été mis en état par les gens
-initiés aux choses sacrées. Bonne santé.
-2. Un grand nombre de constructions d'appareils ont été décrites par
-Marie ; non seulement ceux qui concernent les eaux divines (ou sulfureuses),
-mais encore beaucoup d'espèces de kérotais et de fourneaux. Or les appa-
-reils pour le soufre sont ceux qu'il est nécessaire d'exposer en premier lieu.
-Parmi eux, il faut parler d'abord du récipient en verre, avec le tube en terre,
-le matras udcoé, le vase à col étroit. dans lequel pénètre le tube disposé en
-juste proportion avec l'ouverture du récipient (3).
+7\. Sur le bruissement du feu éteint (dans l'eau ? ) ; et sur le frémissement, c'est-à-dire le sifflement produit par le retrait du souffle ; ou bien sur le souffle produit par aspiration, ou par inspiration, et expiration.*
+
+*) Les bruits divers résultant des diverses formes de souffle jouaient un rôle important chez les gnostiques. (Voir Papyrus de Leide W, _pagina_ 1, l. 42 ; _pag._ 2, l. 1 et suiv. ; _pag._ 3, l. 2, et _passim_).
+
+8\. Sur ce que quelques-uns des prêtres, ayant trouvé un écrit sincère, ne croyaient pas pouvoir travailler autrement que d'après les démonstrations de cet ouvrage.
+
+9\. Sur ce que l'art de l'iosis se rapporte aussi aux deux autres livres. En effet, s'il est autre, quant à l'espèce ; du moins, quant au genre, c'est le même : c'est encore l'(art) tinctorial.
+
+10\. Sur ce qui est dit de l'affinage, de l'enlèvement de l'ombre, de la transformation et de l'extraction de la nature cachée, de la régénération par le feu : tout cela s'entend du blanchiment.
+
+11\. Sur les traitements utiles, depuis le blanc jusqu'au jaune, et depuis le jaune jusqu'au blanc. Au sujet des soufres notamment, il faut rechercher ce que dit le Philosophe dans sa dernière classe des liquides. « Fixe : arsenic, 1 once ; soufre, une demi-once ; écorce, 1 livre ; pèse-les ensemble. Pour le jaune, au lieu de peser les écorces en même temps, mets du safran et de la chélidoine. Au lieu des terres blanches, le même poids d'ocre, de terre de Sinope, ou de couperose, ou de sori. Quant aux (matières) qui ne sont pas comprises dans la pesée commune, unifie(-les) avec habileté, à la façon des enfants des médecins.* Les liquides sont presque (tous) vulgaires, sauf quelques-uns que tu connais. »
+
+*) C'est le _fac secundum artem_ des formules pharmaceutiques d'aujourd'hui. Les enfants des médecins sont les apprentis.
+
+12\. Sur ce qu'il faut comprendre que nous nous sommes chargés d'un labeur terrible, en entreprenant de réduire à une essence commune, c'est-à-dire de marier à cette heure les natures ; comme quoi tout discours nous a été révélé à nous-mêmes ; ce qu'il faut rechercher dans ce discours ; comme quoi l'art revient à ceci : qu'est-ce ? de quelle nature est-ce ? et pourquoi est-ce ?
+
+13\. Sur ce que toutes les teintures des anciens sont réalisées en suivant la marche de la composition solide, c'est-à-dire de l'iosis. Car si vous mettez une partie d'ios, et 1 partie des espèces traitées, c'est-à-dire des poudres appelées tinctoriales, et si vous faites cuire, vous aurez un résultat exact.
+
+14\. Sur ce que la matière incombustible est celle qui ne possède plus ce qui peut éprouver la combustion, mais seulement ce qui a été brûlé : il en est ainsi des bois, et (pareillement) des sucs (animaux), dans les fièvres non critiques.
+
+15\. Sur ce que le résidu des matières brûlées, c'est-à-dire la scorie, représente l'acte accompli du Tout.
+
+16\. Sur la transmutation des quatre éléments (entre eux) ; comme quoi non seulement les (matières) venant de la terre et de l'eau se changent en feu, mais encore sont emportées vers le haut* ; car le feu s'élève ; or il ne prend pas cette image au hasard, mais à cause de l'art et de ses espèces. Comme quoi ces matières étant d'abord terre et eau deviennent feu, et sont portées vers le haut. En effet c'est par leur seule qualité (propre) que les éléments sont opposés entr'eux, et non par leur substance ; car la substance n'est pas contraire à la substance, en tant que substance. C'est aussi pour cette raison que le Philosophe appelait substances les quatre éléments. Pour unifier leur substantialité, elles attirent dans leur intérieur la préparation enduite à leur extérieur. De même que les éléments dissous en eux accomplissent toutes choses, de même aussi l'art ; et de même que les quatre transformations triomphent des mélanges précédents, de même aussi nos arts, par les transmutations, triomphent des natures.
+
+*) Au-dessus M donne ici le signe du cinabre, et répète ce signe au-dessus du mot feu.
+
+---
+
+#### 3\. --- 44. Sur les Divisions de l'Art Chimique.
+
+1\. Comme quoi il faut chercher les discours utiles eux-mêmes, et que faut-il dire au sujet de l'art des discours : ou bien que c'est un art ? ou bien avant de poser la question : qu'est-ce ? ou de quelle nature est-ce* ? il faut demander : pourquoi est-ce ? En ce qui touche les notions, ils les exposaient chacune en particulier, et tous étaient absurdes et embarrassés ; car on peut rencontrer une difficulté indivisible.
+
+*) Voir dans l'article précédent le § 12.
+
+De même que les lignes musicales les plus générales étant au nombre de quatre, Α, Β, Γ, Δ, on forme avec elles 24 lignes d'espèces diverses ; et qu'il y a aussi des centres et des lignes obliques, selon qu'il a été dit à propos des sons, et attendu qu'il est impossible de composer autrement les mélodies innombrables des hymnes, pour le service (du culte ? ), la révélation, ou quelque autre partie de la science sacrée ... (Phrase inintelligible.)
+
+Puis vient un long développement sur la musique et sur la comparaison entre ses divisions et celles de la chimie. On n'a pas cru utile de traduire les §§ 2, 3, 4.
+
+5\. De même que si tu divises en quatre parties la philosophie par excellence, la matière étant répartie suivant sa nature, tu trouveras la (science) générale et la (science) spéciale, ainsi que les différentes classes (de sujets) ; de même aussi, en cherchant à partager exactement la philosophie (chimique) en quatre parties, nous trouvons qu'elle contient : premièrement le noircissement, secondement le blanchiment, troisièmement le jaunissement, et quatrièmement la teinture en violet.* De même encore que chacune des parties susdites comporte des subdivisions et un triage intermédiaires entre les lignes et les points principaux de la ligne, si l'on veut procéder par ordre ; de même aussi (en chimie) entre le noircissement et le blanchiment, il y a la macération et le lavage des espèces ; entre le blanchiment et le jaunissement, il y a la lévigation. Puis, entre le jaunissement et la teinture en violet, il y a la division par moitié de la composition ... Mais la fin de la teinture en violet est impossible sans le traitement au moyen de l'appareil à gorge, et sans l'union des parties. Il est impossible de procéder autrement dans notre science ; si quelques-uns, tels que Epibéchius, ont étudié le jaunissement sans parler du blanchiment, ils ne l'ont pas fait sans parler de la macération ou du lavage des espèces, choses qui font maintenant partie (de l'étude) du blanchiment complet.
+
+*) Cp. p. 194, le § 2 qui est un résumé du texte actuel.
+
+Le § 6 est sans intérêt.
+
+7\. Le présent volume est intitulé livre métallique (et) chimique sur la Chrysopée, l'Argyropée, la fixation du mercure. Ce (livre) traite des vapeurs, des teintures qui proviennent des (êtres) vivants ( ? ), ainsi que des teintures des pierres vertes, des grenats et des pierres de toutes autres couleurs, de (la fabrication) des perles, et des colorations en garance des étoffes de peau destinées à l'Empereur. Toutes ces choses sont produites avec les eaux salées et les œufs, au moyen de l'art métallique.*
+
+*) Ce paragraphe est étranger à ce qui précède : c'est le titre d'un ouvrage perdu, mais dont certains extraits semblent exister dans notre 5e partie.
+
+---
+
+#### 3\. --- 45. Fabrication du Mercure.
+
+1\. Prenant de la céruse et de la sandaraque par parties égales, délaie avec du vinaigre jusqu'à ce que la masse s'épaississe ; ensuite, mettant dans un vase non étamé, recouvre avec un couvercle de cuivre ; lute tout autour et fais chauffer doucement sur des charbons. Lorsque tu présumes que l'opération est à point, découvre légèrement, et, avec une barbe de plume, enlève le mercure.*
+
+*) Cette préparation ne saurait fournir du mercure ordinaire, mais de l'arsenic sublimé, lequel reçoit ici le nom de mercure, parce qu'il blanchit le cuivre. (_Introd._, p. 99 et 239. --- Démocrite, p. 53).
+
+2\. Prenant du minerai couleur d'or, pulvérise, puis évapore jusqu'à ce que le produit soit bien sec. Mélangeant alors avec du sel, fais chauffer dans le fourneau pendant un jour et une nuit. Après avoir enlevé, lave, jusqu'à ce que le sel dissous se soit écoulé ; dessèche de nouveau ; pétris avec du vinaigre et abandonne un peu (de temps), jusqu'à ce que la matière soit imbibée ; puis dessèche. Remets sur le fourneau, (cette fois) sans laver et fais cela encore une fois, en pétrissant avec du vinaigre. Remets au fourneau quatre ou cinq fois, jusqu'à ce que la matière devienne comme du vermillon. Ensuite, prenant de la scorie d'asèm à poids égal, pulvérise et mélange. Puis, après avoir fait fondre, sépare (en deux parties), saupoudre du plomb avec ces deux produits (et chauffe) jusqu'à ce que ces matières soient dissipées. Après avoir fait dessécher, tu trouveras le plomb durci ; fais-le fondre par petits fragments ; souffle afin de faire apparaître le métal.*
+
+*) Il semble qu'il s'agisse dans ce paragraphe d'une fabrication d'asèm, dont on opère la diplosis au moyen du plomb. Cp. _Introd._, Papyrus de Leide, p. 64.
+
+3\. Prends de la terre provenant des bords du fleuve d'Égypte qui roule de l'or, pétris-la avec un peu de son, qui provient de la (fabrication de la) fleur de farine. Après avoir agité préalablement, mélangé et fait une pâte, mélange de nouveau dans un vase de terre cuite, jusqu'à ce que les deux (substances) soient tout à fait confondues et qu'il se soit formé comme une pâte de pain. Ensuite, reprends et forme de petits pains ; puis, ayant étendu avec soin sur une planche, fais évaporer au soleil jusqu'à ce que la matière soit bien sèche. Puis mets dans un mortier ; reprends, mets dans une marmite neuve ; ferme avec soin la marmite, place-la à une distance d'une palme du sol ; recouvre de fumier et fais du feu au-dessous. Lorsque la flamme se produit, découvre, remue avec un instrument de fer, jusqu'à ce que tu voies que le tout est cuit et semblable à une cendre noire. Si la matière n'est pas devenue telle, agite de nouveau en suivant le même procédé ; recouvre, fais chauffer ensemble ; puis retire du feu et laisse refroidir pendant un jour. Ayant pris une poignée (de cette matière) avec les deux mains, jette-la dans un vase de terre cuite ; ajoute du mercure, agite méthodiquement avec la main Ensuite, ôte de la marmite une autre poignée, ajoute une mesure d'eau, et lave. Ajoute encore une autre mesure (d'eau), et lave semblablement ; (opère ainsi) jusqu'à ce que la marmite soit vidée ; alors lave avec précaution jusqu'à ce qu'on soit parvenu au mercure. Mets dans un linge, presse avec soin jusqu'à épuisement. En déliant le linge, tu trouveras la partie solide. Après avoir fait cela, mets une boulette (du produit) sur un plat neuf ; fais au milieu, en enlevant de la matière, une sorte de fossette ; déposes-y la boulette, et recouvrant, dispose le plat de telle sorte qu'il dépasse partout également, à partir de sa partie centrale et jusqu'à la moitié de sa largeur. Recouvre de nouveau la marmite ; et que celle-ci adhère au plat. Plaçant (la marmite) sur les pieds d'un support, fais chauffer sur un feu clair, avec du bois sec ou de la bouse de vache, jusqu'à ce que le fond du plat devienne brûlant. Aie de l'eau auprès de toi pour arroser la préparation avec une éponge, en veillant à ce que l'eau ne tombe pas dans le plat. Après la chauffe, retire le plat du feu et, découvrant, tu trouveras ce que tu cherches.*
+
+*) Cette description semble répondre à l'extraction de l'or de son minerai par amalgamation.
+
+---
+
+#### 3\. --- 46. Sur la Diversité du Cuivre Brulé.
+
+Le premier paragraphe est identique à l'article 3, 13, p. 154.
+
+2\. La vapeur sublimée est une substance brûlée au moyen des alambics, sur un feu léger de cobathia.
+
+Quant aux fixations (au moyen) des scories tirées de la partie inférieure, c'est ce que les prophètes des anciens voulaient obtenir. Tout le monde entend par là les minerais, parce que la matière des corps (métalliques) est dite tétrasomie, et aussi parce que les Égyptiens désiraient obtenir le plomb noir.* C'est dans cette opération que réside le noircissement. Or sachez que les scories sont tout le mystère* ; car les anciens parlent du plomb noir, parce qu'il est le support de la substance. Comment cela arrive-t-il ? Si tu ne rends pas les corps incorporels, si de deux tu ne fais pas un,* aucun des résultats attendus ne se produira. Si toutes choses n'ont pas été atténuées, si la vapeur sublimée n'a pas été réduite à l'état d'esprit, puis fixée, rien ne sera mené à terme. Qu'il s'agisse du molybdochalque, c'est ce que montrent les traitements des deux scories. Or, prépare une liqueur avec le plomb, en prenant : natron, quatre parties ; alun rond, une partie ; misy, deux parties ; sel de Cappadoce, 4 parties ; mets (le tout) dans du vinaigre très fort et fabrique une liqueur. Dans ces (opérations), tu ôteras l'éclat aux feuilles (métalliques). C'est de cette façon que la liqueur a été reconnue principe et fin. Lorsque tu verras que tout est devenu cendre,* comprends alors que tu as bien exécuté la préparation par le feu. Pulvérise donc cette scorie et épuise-la de sa partie soluble ; lave-la six et sept fois dans des eaux édulcorées, après chaque fonte. Ces fontes ont lieu en raison de la richesse du minerai. En suivant cette marche et ce lavage, la composition s'adoucit. Après la fin de l'opération de l'iosis, une projection étant faite, on obtient un jaunissement stable. En faisant cela, tu fais sortir au dehors la nature cachée à l'intérieur. En effet, transforme la nature, dit-il, et tu trouveras ce que tu cherches.* La nature étant transformée perd sa couleur blanche.
+
+*) Olympiodore, p. 95
+
+*) Olympiodore, p. 99.
+
+*) Olympiodore, p. 101.
+
+*) Olympiodore, p. 107.
+
+*) La fin de ce paragraphe reproduit avec des variantes notables, le § 11 de la p.196.
+
+---
+
+#### 3\. --- 47. Sur les Appareils et les Fourneaux.
+
+1\. Voici la description du fourneau ci-dessous ; le Philosophe n'en a pas fait mention, mais il a parlé seulement des prismes et des autres (appareils), sur lesquels j'ai écrit dans (mon) commentaire relatif à la façon de régler le feu. Dans le sanctuaire antique de Memphis,* j'ai vu en détail un fourneau qui s'y trouvait ; j'ai reconnu qu'il n'avait pas été mis en état par les gens initiés aux choses sacrées. Bonne santé.
+
+*) Temple de Phta.
+
+2\. Un grand nombre de constructions d'appareils ont été décrites par Marie ; non seulement ceux qui concernent les eaux divines (ou sulfureuses), mais encore beaucoup d'espèces de kérotakis et de fourneaux. Or les appareils pour le soufre sont ceux qu'il est nécessaire d'exposer en premier lieu. Parmi eux, il faut parler d'abord du récipient en verre, avec le tube en terre, le matras udcoé, le vase à col étroit, dans lequel pénètre le tube disposé en juste proportion avec l'ouverture du récipient.*
+
+*) Ce sont les appareils des figures 14, 14 _bis_ et 15 de l'_Introduction_, p. 139 et 140.
+
 Il y a une autre manière de recueillir l'eau divine : le tube n'est pas alors
 disposé comme avec le tribicos, mais placé à l'extrémité d'un autre tube de
 (3) Ce sont les appareils des figures
