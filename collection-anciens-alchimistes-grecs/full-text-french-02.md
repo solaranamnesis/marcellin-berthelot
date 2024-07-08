@@ -122,6 +122,18 @@
 
 #### [3. --- 42. Livre Véritable de Sophé l'Égyptien et du Divin Maitre des Hébreux (et) des Puissances Sabaoth.](#3-----42-livre-véritable-de-sophé-légyptien-et-du-divin-maitre-des-hébreux-et-des-puissances-sabaoth-1)
 
+#### [3. --- 43. Chapitres de Zosime a Théodore.]()
+
+#### [3. --- 44. Sur les Divisions de l'Art Chimique.]()
+
+#### [3. --- 45. Fabrication du Mercure.]()
+
+#### [3. --- 46. Sur la Diversité du Cuivre Brulé.]()
+
+#### [3. --- 47. Sur les Appareils et les Fourneaux.]()
+
+...
+
 ---
 
 # Texte Grec.
