@@ -122,15 +122,15 @@
 
 #### [3. --- 42. Livre Véritable de Sophé l'Égyptien et du Divin Maitre des Hébreux (et) des Puissances Sabaoth.](#3-----42-livre-véritable-de-sophé-légyptien-et-du-divin-maitre-des-hébreux-et-des-puissances-sabaoth-1)
 
-#### [3. --- 43. Chapitres de Zosime a Théodore.]()
+#### [3. --- 43. Chapitres de Zosime a Théodore.](#3-----43-chapitres-de-zosime-a-théodore-1)
 
-#### [3. --- 44. Sur les Divisions de l'Art Chimique.]()
+#### [3. --- 44. Sur les Divisions de l'Art Chimique.](#3-----44-sur-les-divisions-de-lart-chimique-1)
 
-#### [3. --- 45. Fabrication du Mercure.]()
+#### [3. --- 45. Fabrication du Mercure.](#3-----45-fabrication-du-mercure-1)
 
-#### [3. --- 46. Sur la Diversité du Cuivre Brulé.]()
+#### [3. --- 46. Sur la Diversité du Cuivre Brulé.](#3-----46-sur-la-diversité-du-cuivre-brulé-1)
 
-#### [3. --- 47. Sur les Appareils et les Fourneaux.]()
+#### [3. --- 47. Sur les Appareils et les Fourneaux.](#3-----47-sur-les-appareils-et-les-fourneaux-1)
 
 ...
 
