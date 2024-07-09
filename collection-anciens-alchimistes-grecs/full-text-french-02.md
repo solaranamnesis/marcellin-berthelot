@@ -132,7 +132,23 @@
 
 #### [3. --- 47. Sur les Appareils et les Fourneaux.](#3-----47-sur-les-appareils-et-les-fourneaux-1)
 
-...
+#### [3. --- 48. Fabrication de l'Argent avec la Tutie.]()
+
+#### [3. --- 49. Du même Zosime sur les Appareils et Fourneaux. Commentaires Authentiques sur la Lettre Ω.]()
+
+#### [3. --- 50. Sur le Tribicos et le Tube.]()
+
+#### [3. --- 51. Le Premier Livre du Compte Final de Zosime le Thébain.]()
+
+#### [3. --- 52. Interprétation sur Toutes Choses en Général et (Notamment) sur les Feux.]()
+
+#### [3. --- 53. La Céruse.]()
+
+#### [3. --- 54. Sur le Blanchiment.]()
+
+#### [3. --- 55. Explication sur les Feux.]()
+
+#### [3. --- 56. Sur les Vapeurs.]()
 
 ---
 
