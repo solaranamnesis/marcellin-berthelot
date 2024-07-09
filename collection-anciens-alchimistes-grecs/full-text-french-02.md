@@ -7201,1065 +7201,342 @@ Quant aux fixations (au moyen) des scories tirées de la partie inférieure, c'e
 
 *) Ce sont les appareils des figures 14, 14 _bis_ et 15 de l'_Introduction_, p. 139 et 140.
 
-Il y a une autre manière de recueillir l'eau divine : le tube n'est pas alors
-disposé comme avec le tribicos, mais placé à l'extrémité d'un autre tube de
-(3) Ce sont les appareils des figures
-(1) La fin de ce paragraphe reproduit |
-avec des variantes notables, le S 11 de | 14, 14 bis et 15 de l'Introduction, p. 139
-et 140.
-la p. 196.
-(2) Temple de Phta.
-
-
-### 0265
-
-APPAREILS ET FOURNEAUX
-217
-cuivre (1); il est long d'une coudée ou d'une coudée et demie. On y ajuste
-de la même manière un récipient unique et, au-dessous (du tube de cuivre),
-le matras contenant le soufre apyre. Après avoir tout disposé, on fait
-chauffer. Voici le modele. Il faut avoir dans tous les cas, une coupe pleine
-d'eau et rafraichir le vase tout autour avec une éponge.
-3. En ce qui touche le soufre, quelques-uns (se servent) du phanos et
-des appareils semblables, qui ont une base en forme de serpent. Ils y fixent
-aussi le mercure jaune isolément, en le soumettant à la vapeur du soufre.
-n cela ils comprennent mal les écrits antiques, qui ont caché que le phanos
-n'a pas de role ici (?). l'ai été surpris (en lisant) cet écrit ; car deux mystères
-y ont été celés. Nous ne cherchons pas comment la combustion par le sou-
-fre, qui est blanc et blanchit tout, rend jaune le seul mercure ; (comment)
-ce produit, étant blanc en puissance et en acte, lorsqu'il est brulé avec un
-corps blanc, produit du jaune. I fallait que les modernes recherchassent
-avant tout ces choses et comprissent l'autre mystère, à savoir que le mer-
-cure n'est pas fixé par le soufre seul, mais qu'il faut pour cela la composi-
-tion tout entière.
-4. 'ai ri, en écoutant la lecture de ton écrit qui décrit ce genre d'opéra-
-tions : Que le matras, est-il dit, contienne une mine de soufre apyre ». ..
-je me suis étonné de ce que, ne pouvant supporter les reproches, tu aies
-prétendu écrire de pareilles choses ; tu as blâmé à tort ce philosophe, car
-tu n'as pas compris ce qu'il a dit. Dans les précédents commentaires, j'ai
-dit que je parlais de la fabrication des eaux, mais non de leur distillation ;
-car autre chose est la fabrication, autre chose la distillation. (Chacun) de
-ces auteurs a parlé amplement de la distillation ; mais aucun n'a exposé
-la fabrication ; c'était là le mystère qu'on ne devait pas révéler, celui qui
-a été tout à fait caché. Or la distillation est de telle nature et (s'accomplit) au
-moyen de tels appareils (2). Quant à la fabrication, c'est-à-dire la composi-
-tion de cette eau, elle a été décrite dans l'exposé détaillé de l'œuvre (3).
-5. e vais décrire le tribicos (4) : Fabrique, dit-il, trois tubes de cuivre
-(1) Figure 16, p. 140 de l'Introduc- |
-(3) Cependant il va la décrire de nou-
-tion.
-veau 5 6. --- Cp. II, xvi, p. 158.
-(2) Ceux qu'il va décrire.
-(4) Fig. 15, p. 139 de l'Introduction.
-28
-
-
-### 0266
-
-.
-218
-laminé; dispose la lame ductile de façon qu'elle ait l'épaisseur du couvercle,
-ou un peu plus : par exemple, la moitié de l'épaisseur d'une monnaie de cuivre.
-Fabrique donc trois tubes dans ces conditions, et fabrique un (gros tube)
-de cuivre (1), long d'une coudée, ayant une palme de diamètre. L'ouverture
-du gros tube sera en proportion convenable; les trois (petits) tubes ont
-une ouverture adaptée à celle du col du petit récipient. Vis-a-vis du tube
-du pouce sont les deux tubes de l'index (2), ajustés au moyea d'une clavette,
-des deux cotés, près de l'extrémité du gros tube ; vers cette extrémité existent
-trois orifices, ajustés aux tubes ainsi raccordés (avec le gros tube). Ces ori-
-fices sont soudés d'une façon excentrique avec le récipient supérieur,
-celui ou se rend la partie volatile.
-Place le gros tube de cuivre au-dessus du matras en terre cuite, qui contient
-le soufre. Après avoir luté les jointures avec de la pâte de farine, adapte
-aux extrémités des (petits) tubes des récipients en verre grands et forts, afin
-qu'ils ne cassent pas, en raison de la chaleur de l'eau. Porte ce qui monte
-dans les appareils ou le Philosophe dit que l'eau s'élève.
-6. Quant à la préparation et à la composition, je ne craindrai pas de t'écrire
-(1) On traduit ainsi le mot χαλκεῖον, | s est également rapprochée de notre
-qui désigne en effet le gros tube verti- | chapiteau moderne (v. p. 161 de l'In-
-cal, dans la fig. 16 de la page 140 de | trod.), ou plus exactement de celle du
-l'Introd. ; σωλῆνες doit être entendu des | pélican. appareil distillatoire qui était
-trois tubes abducteurs, par lesquels | encore usité au siècle dernier.
-les produits distillés s'échappent du |
-(2) Les mots ἀντίχειρος σωλήν (tube du
-tribicos ; βῆκος ouβίκος est le récipient, ou | pouce) et λιχανός σωλήν (tube de l'in-
-s'écoulent les produits. Ce mot désigne | dex), sont appliqués à des tubes diffé-
-aussi (fig. 14, p. 138) le chapiteau, ap- | rents dans les fig. 11 (p. 132 del'Introd.)
-pelé autrement φιάλη dans la fig. 11 | et 15 (p. 139 de l'ntrod.). Le premier
-(p. 132). Enfin λωπάς est le matras ou | nom désigne dans les deux figures un
-l'on place le soufre et qui est exposé | petit tube oblique et descendant. Quant
-directement à l'action du feu. Ces dési- | au second nom, la fig. 15 parait indi-
-gnations s'appliquent aux figures du | quer le gros tube ascendant, de direc-
-|tion inverse, qui est désigné dans la fig.
-manuscrit de Venise.
-Dans le manuscrit A, plus moderne | 14 (p. 138), sous le nom de « tube de
-(fig. 37, p. 161 de l'Introd.). λωπάς a le | terre cuite », et dans la fig. 16 (p. 140),
-mème sens ; mais χαλκεῖον s'applique ici | sous le nom de χαλκεον, objet dont
-au chapiteau, qui a pris une forme nou- | il a été question dans la note pré-
-velle et caractéristique. La description | cédente. Ces désignations ne corres-
-du texte a cessé de répondre à cette | pondent pas exactement au texte ci-
-dernière forme. La forme du λωπάς | dessus, dans lequel le tube du pouce
-ZOSIME
-
-
-### 0267
-
-APPAREILS ET FOURNEAUX
-219
-sur ce point, ô ma princesse. La fabrication des eaux comprend ce qui suit(1):
-lEau de soufre, d'arsenic, de sandaraque ; la vapeur, l'eau de lie, l'eau
-de chaux, l'eau de cendre de choux, l'eau d'alun, l'eau d'urine, de lait
-d'ânesse, de chèvre ; parfois le lait de chienne, le lait de vache, et le lait
-de la femme mère d'un enfant male, suivant Agathodémon : le vinaigre,
-l'eau de mer, le miel et le ricin ou gr (?), l'urine d'un impubère et la
-gomme. Leur production a lieu comme il suit. Chaque eau se prépare à la
-façon d'une saumure proprement dite. Quand il s'agit de l'eau de cendre,
-elle se prépare comme la lessive pour savonner, que j'ai décrite dans l'ex-
-posé des manipulations. Si tu ne réussis pas, opère la composition avec
-une cotyle d'eau. mploie une once des espèces suivantes (2), savoir : une
-once de soufre et une once d'eau pure ; une once d'arsenic et une cotyle
-d'eau.....; de la lie cuite, éteinte dans le vinaigre ; de la chaux éteinte dans
-une cotyle d'urine de chat ; de l'alun, une once, délayé dans une cotyle
-d'eau de mer ; du natron roux, même quantité. Après avoir fait cuire sépa-
-rément et ensemble les eaux, pendant un peu de temps, afin qu'elles prennent
-de la force, fais dessécher ou distiller dans un autre vase, en y mêlant le
-miel et l'huile. S'il est besoin de soufre blanc (3), délaie dans l'eau la terre
-de Chio, l'astérite, l'aphrosélinon de Coptos cuit, la terre de Samos, celles
-de Carie, de Cimole, ou l'antimoine (?). Mettant dans un vase l'eau devenue
-bleue, ajoutes (y) du marbre (tiré) de la terre, du misy brut, et une autre
-partie de chaux ; on en emploie deux parties, suivant les écrits des anciens,
-ou le produit est nommé l'eau double de chaux. Ajuste l'appareil sur le
-matras, fais monter l'eau et mets en uvre.
-7. L'eau jaune se prépare comme il suit : Soient toutes les eaux obte-
-nues d'après les règles précédentes ; au lieu de faire l'addition de deux par-
-ties de chaux. ajoute une partie de sel, après avoir fait cuire chacune
-de ces eaux séparément et les avoir mélangées, délaies-y, non plus des terres
-est mis en opposition avec les deux
-(2 Cp. p. 165, 5 12.
-tuhes de l'index : ces derniers représen- |
-(3) Ce mot est une désignation géné-
-tant deux des petits tubes descendants | rique, applicable à toutes les espèces
-du tribicos, le tube du pouce seraitalors | suivantes, ainsi qu'il a été dit ailleurs,
-le rosime. comme dans la fs. | ¶ῖ g s
-(1) Cp. p. 182.
-
-
-### 0268
-
-ZOSIME
-220
-blanches, mais des terres jaunes. Car nous voulons obtenir de l'eau jaune.
-Or, les terres jaunes sont l'ocre attique, le minium du Pont. le misy cuit,
-la couperose cuite, et les matières semblables ; toutes les plantes (jaunes)
-que l'on connait communément (1), ainsi que le jaune d'œuf, le safran
-des œufs et la chélidoine double. Quant aux herbes, ne les incorpore pas
-avec l'eau, mais seulement les terres. Puis, changeant de vase, comme
-on le fait d'ordinaire, ajoute les plantes et fuis cuire quatre ou cinq fois,
-dans l'appareil. Fais monter l'eau et emploie-la, avec addition de gomme.
-Après avoir découvert (l'appareil), tu trouveras les herbes brulées, ayant
-perdu leur teinte propre, c'est-a-dire leur esprit propre. La portion la plus
-pure de cette eau divine a une vertu et une nature telle que, si vous trempe
-l'argent dans keau bouillante, la teinture sera indélébile. Bonne santé l
-III. XIVIII. --- FABRΟΤΤΟΝ DΕ L'RΕNΤAVΕCLLΤΥIΕ
-Prenant de la tutie, environ 2o hexages (poids), broyez jusqu'à ce qu'elle
-devienne or (3); (prenant) environ 5 hexages de soufre apyre, broyeκ jusqu'à
-ce qu'il devienne plomb (4). Ensuite prenant 6 blancs d'œufs, après avoir
-décapé, mettez dans l'alambic, et faites cuire pendant deux jours et deux nuits
-nlevez pour voir si la matière est bien à point ; remettez de nouveau (la
-matière) et faites cuire (encore) pendant un jour. Ensuite prenant du cuivre,
-environ 10 hexages, mettez-le dans un creuset et projetez-y 6 cotyles (de la
-matière ci-dessus): vous obtenez de l'argent (5).
-(3) Prenne la couleur de l'or.
-(1) Cp. p. 166, 18. Sur le sens du |
-(4) Prenne la couleur du plomb, en
-mot plante, voir p. 71, p. 123, p. 153,
-agissant sur les oxydes mélangés qui
-note 2, p. 1δ9, 5 4 et note 2, etc.
-(2) Recette surajoutée dans le manus- forment la tutie.
-(5) C'est-a-dire un alliage blanc.
-crit de St-Marc et plus moderne.
-
-
-### 0269
-
-APPAREILS ET FOURNEAUX
-III. XLX. --- DU MΕE ΟSSΕ
-SUR LES APPAREILS ET FΟURVEAὕΝ. ΟΟMΕΝΥAIES AΤlEΝTIΟΟES
-SUR LA LETrnn 0 ιι
-221
-1. Lélément est rond, formé de deux parties : il appartient à la septième
-Zone, celle de Saturne (2), dans le langage des êtres corporels ; car dans le
-langage des incorporels, il y a une autre chose qui ne doit pas être révélée.
-Nicothée seul (la) sait, lui le personnage caché. Or, dans le langage des êtres
-corporels, cet élément est appelé l'océan, l'origine et la semence de tous les
-dieux. Tels les principes fondamentaux du langage des êtres corporels (3).
-Sous le nom de ce grand et admirable élément 2, on comprend la descrip-
-tion des appareils de l'eau divine, celle de tous les fourneaux simples et
-machinés, de tous, absolument parlant.
-2. Zosime (s'adressant) à Théosébie, lui explique ceci avec bonne volonté.
-a« (L'exposé des) teintures convenables, o femme, a fait tourner en ridicule
-mon livre sur les fourneaux. En effet, beaucoup (d'écrivains), remplis de bien-
-veillance pour leur propre génie, se sont moqués des teintures convenables
-et ils ont regardé le livre sur les fourneaux et appareils comme n'étant pas
-conforme à la vérité. Aucun discours ne peut leur persuader ce qui est la
-vérité, s'il n'est inspiré par leur propre génie. Par un destin fatal, ce qu ils
-avaient reçu, ils le tournaient à mal dans leur langage, au détriment de l'art
-et de leur propre succès, les mêmes mots étant détournés malheureusement
-dans les deux sens (opposés). C'est avec peine que, contraints par la nécessité
-(1) Ce titre est probablement celui | la lettre 2, dans la concordance des
-de l'un des livres de Zosime, désignés voyelles avec ces astres; ainsi qu au
-chacun par l'une des lettres de l'al- plomb, dans la nomenclature des métaux
-phabet. Le premier paragraphe serait (corps métalliques).
-(3) Cette multiplicité des langages
-le début du livre ; il roule sur une
-suite de jeux de mots sur l'oméga, assi- mystiques, ou un mème sens s'exprime
-milé ἡ l'cuf philosophique et à l'océan. | par des mots divers, tandis qu'un mème
-(2) Saturne occupe le 7e des cercles | signe répond à plusieurs sens, se
-concentriques ou zonesdel'univers, qui | retrouve dans le Papyrus V de Leide,
-ont la terre pour centre commun, dans | Introd., p. 18. La Cabbale repose aussi
-la classification des astres errants ou | sur des conventions analogues.
-Saturne corresnn aui ἡ
-planètes ; Saturne correspond aussi à
-σ
-
-
-### 0270
-
-ZOSIME
-222
-des démonstrations, ils accordaient quelque point, même au sujet des choses
-qu'ils avaient comprises précédemment. Mais de tels auteurs ne doivent
-être approuvés, ni par Dieu, ni par les philosophes. Car les temps (des opé-
-rations) étant désignés dans le dernier détail, et après que le Génie les a
-favorisés dans l'ordre corporel (1), ils refusent d'accorder un autre point,
-oubliant toutes les choses évidentes qui précedent. Ils ont du partout obéir à
-la destinée, pour les choses déja dites et pour leurs contraires, sans pouvoir
-rien imaginer d'autre, relativement aux êtres corporels ; (je dis) rien d'autre
-que l'ordre fatal de la destinée. Les hommes de cette espèce, lermès,
-dans le traité sur les Natures, les appelait des insensés, propres seulement
-à faire cortège à la destinée, mais incapables de rien comprendre aux choses
-incorporelles, ni même de concevoir la destinée qui les conduit avec
-justice. Mais ils font outrage à ses enseignements sur les êtres corporels,
-et ils se livrent à des imaginations étrangères à leur propre bonheur.
-3. Hermes et Zoroastre ont déclaré que la race des philosophes est supé-
-rieure à la destinée. En effet, ils ne jouissent pas du bonheur qui vient de
-celle-ci. Dominant ses plaisirs, ils ne sont pas atteints par les maux qu elle
-cause ; vivant toujours dans leur for intérieur, ils n'acceptent pas les beaux
-présents qu'elle offre, parce qu'ils en voient la fin malheureuse. C'est pour
-cette raison qu'Hésiode (2) nous présente Prométhée donnant des conseils à
-Epiméthée : α Quel est le bonheur que les hommes jugent le plus grand de
-tous ? Une belle femme, dit-on, avec beaucoup d'argent. » I dit qu'il
-ne reçoit aucun présent de upiter Olympien ; mais il les rejette, ensei-
-gnant à son frère qu'il doit repousser, au nom de la philosophie, les
-orésents de upiter, c'est-à-dire les dons de la destinée.
-4. Quant à Zoroastre, se glorifiant de la connaissance de toutes les
-choses supérieures et de celles de la magie, il dit qu'il se détourne du langage
-des êtres corporels ; que tout ce qui vient de la destinée est mauvais, soit
-en détail, soit dans l'ensemble. Hermès, toutefois, parlant des choses exté-
-rieures, condamne la magie, disant que l'homme spirituel, celui qui se
-onnait lui-même, ne réussit en rien par la magie, et ne regarde pas comme
-ἀres eιors vesds.
-la régénération des corps métalliques.
-
-
-### 0271
-
-223
-APPAREILS ET FOURNEAUX
-convenable de violenter la nécessité. Mais il laisse aller (les choses), telles
-qu'elles vont de nature et d'autorité. Il a pour seul objet de se chercher lui-
-même, de connaitre Dieu, et de dominer la triade innommable. Il laisse la
-destinée faire ce qu'elle veut, en la laissant agir sur le limon terrestre,
-c'est-a-dire sur le corps. Il s'exprime ainsi : Si tu comprends et si tu te
-conduis convenablement, tu contempleras le fils de Dieu, devenu tout (1)
-en faveur des âmes saintes. Pour tirer ton ame du sein de la région (corpo-
-relle), régie par la destinée, (et l'amener) vers la (région) incorporelle, vois
-comme il est devenu tout, (c'est-à-dire à la fois) Dieu, ange, et homme sujet
-à la souffrance. En effet pouvant tout, il devient tout ce qu'il veut ; il obéit
-à son père, en pénétrant tout corps, en éclairant l'esprit de chacun ; il s'est
-élancé dans la région heureuse, là ou il était avant d'avoir pris un corps.
-Tu le suivras, excité et guidé par lui vers cette lumière.
-5. Regarde le tableau que Cébès a tracé, ainsi que le trois fois grand Pla-
-ton et le mille fois grand Hermès ; vois comment Toth interprète la pre-
-mière parole hiératique, lui le premier homme, interprète de tous les êtres,
-et dénominateur de toutes les choses corporelles. Or les Chaldéens, les
-Parthes, les Medes et les Hébreux le nomment Adam : ce qui signifie terre
-vierge, terre sanglante, terre ignée et terre charnelle (2). Ces choses se
-trouvent dans les bibliothèques des Ptolémées, déposées dans chaque sanc-
-tuaire, notamment au Sérapéum ; (elles y ont été mises) lorsque Asenan, l'un
-des grands prêtres de Iérusalem, envoya Hermès (3), qui interpréta toute la
-Bible hébraique en grec et en égyptien.
-6. C'est ainsi que le premier homme est appelé Toth parmi nous, et
-parmi eux, Adam ; nom donné par la voix des anges. On le désigne symbo-
-liquement au moyen des quatre éléments (4), qui correspondent aux points
-(1) Ce mot vague est expliqué deux | Voir CLNτ 1ALExapRE, cité dans
-| les Origines de l'Alcnimie. p. 39 et4ο.
-lignes plus bas.
-(2) Ce texte est mutilé, comme on le | On remarquera que l'origine de la tra-
-voit dans OLXMoropo, p. 95, note 5. duction grecque de la Bible se trouve
-En effet ce qui est relatif à la terre | expliquée ici autrement que dans la
-s'applique à Eve.
-traduction des Septante.
-(3) Le nom d'ermès reprend ici le |
-(4) Le mème mot signifie lettre et
-sens générique, suivant lequel il était | élément.
-l'auteur de tous les ouvrages égyptiens. |
-
-
-### 0272
-
-224
-ZOSIME
-cardinaux de la sphère, et en disant qu'il se rapporte au corps (1). En effet,
-la lettre A de son nom désigne l'Orient (νατολή) et l'Air (Λήρ). La lettre
-D désigne le couchant (Aύσις), qui s'abaisse à cause de sa pesanteur. La lettre
-M montre le Midi (εσημβρία), c'est-a-dire le feu de la cuisson qui pro-
-duit la maturation des corps, la 4 zone et la zone moyenne.
-Ainsi l'Adam charnel, sous sa forme apparente, est appelé Toth ; mais
-l'homme spirituel contenu en lui (porte un nom) propre et appellatif. Or
-nous ignorons jusqu'à présent quel est ce nom propre ; car Nicothée, ce
-personnage que l'on ne peut trouver, savait seul ces choses. Quant au nom
-appellatif, c'est celui de φῶς (lumière, feu) : c'est pour cela que les hommes
-sont appelés φῶτες (mortels).
-7. Lorsqu'il était dans le Paradis sous forme de lumière (φῶς), soumis à
-l'inspiration de la destinée, ils lui persuadèrent en profitant de son inno-
-cence et de son incapacité d'action, de revêtir (2) le (personnage d') Adam,
-celui qui (était soumis à) la destinée, celui qui (répond) aux quatre éléments.
-Lui, à cause de son innocence, ne refusa pas ; et ils se vantaient d'avoir
-asservi (en lui) l'homme extérieur.
-C'est dans ce sens qu'Hésiode (3) a parlé du lien avec lequel upiter attacha
-Prométhée. Ensuite, après ce lien, il lui en envoie un autre, (c'est-à-dire)
-Pandore, que les Hébreux nomment Eve. Or, Prométhée et Epiméthée,
-c'est un seul et même homme dans le langage allégorique ; c'est l'ame et
-le corps. Prométhée est tantot l'image de l'âme ; tantot (celle) de l'esprit.
-C'est aussi l'image de la chair, à cause de la désobéissance d'Lpiméthée,
-commise à l'égard de Prométhée, son propre (frère).
-Notre intelligence dit : Le fils de Dieu, qui peut tout et qui devient tout
-lorsqu'il (le) veut, se manifeste comme il veut à chacun. ésus-Christ s'ajou-
-taità Adam et (le)ramenait au Paradis, ou les mortels vivaient précédemment.
-8. I apparut aux hommes privés de toute puissance, étant devenu
-homme (lui-même), sujet à la souffrance et aux coups. (Cependant), ayant
-secrètement dépouillé son propre caractère mortel, il n'éprouvait (en réalité)
-aucune souffrance ; et il avait semblé fouler aux pieds la mort, et la
-(1) En tant que formé par la réu-
-(2) Voir plus haut.
-(3) Cp. Téogonie. vers 521, 618.
-nion des auatre éléments.
-
-
-### 0273
-
-APPAREILS ET FOURNEAUX
-repousser, pour le présent et jusqu'à la fin du monde : tout cela en
-secret. Ainsi dépouillé des apparences, il conseillait aux siens d'échanger
-aussi secrètement leur esprit avec celui de l'Adam qu ils avaient en eux,
-de le battre et de le mettre à mort, cet homme aveugle étant amené à rivali-
-ser avec l'homme spirituel et lumineux : c'est ainsi qu'ils tuent leur propre
-Adam (1).
-9. Ces choses se font jusqu'à ce que vienne le démon Antimimos (2) ;
-jaloux d'eux et voulant les induire de nouveau en erreur, il se dit lui-
-même fils de Dieu ; bien qu'étant sans forme (originale) (3), ni d'ame ni de
-corps. Mais devenus plus sensés, par suite de la prise de possession de celui
-qui est réellement fils de Dieu, ils lui abandonnent leur propre Adam ;
-immolant leurs esprits mortels, ils demeurent sauvés, dans. le lieu parti-
-culier ou ils se trouvaient avant (la création du) monde. Ainsi, avant d'ac-
-complir ces choses, il envoie d'abord l'Antimimos, le rival, son précurseur,
-sorti de la Perse, lequel tient des discours pleins d'erreurs et de fables, et
-dirige les hommes suivant la destinée. Or les éléments de son nom sont au
-nombre de neuf, la diphthongue étant conservée (4), suivant le but que se
-propose la destinée. Ensuite, après sept périodes, plus ou moins, il viendra
-aussi lui-même, en vertu de sa nature propre.
-10. Ces choses sont dites seulement par les Hébreux, ainsi que par les
-livres sacrés d'Hermès sur l'homme lumineux etsur le fils de Dieu, son guide ;
-sur l'Adam terrestre et sur Antimimos son guide, qui se dit, par blasphème
-et erreur le fils de Dieu. Or les Grecs appellent l'Adam terrestre Epimé-
-thée : ce qui veut dire conseillé par son esprit particulier, c'est-a-dire par
-son frère, qui lui disait de ne pas accepter les dons de upiter. Toutefois,
-s'étant abusé et repenti, et ayant cherché la région heureuse, il explique
-tout, et il conseille en tout ceux qui ont un entendement spirituel. Mais
-(1) Ce passage, ainsi que ceux qui doctrines persanes sur les deux prin-
-précèdent doivent ètre rapprochés des cipes.
-doctrines des docètes et de celles de (3) Comme son nom l'indique.
-certains gnostiques. (Cp. RENAN, His-
-(4) S'agit-il d'εlμαρμένη, qui a 9 lettres
-toire des Origines du Cnristianisme, et une dipthongue ; ou bien du génitif
-ἀντιμίμου, qui satisfait aux mèmes con-
-t. V, p. 421, 458, 525, etc.
-(2) Contrefacteur. --- Son interven- ditions ; ou bien encore de φαοσφόρος,
-tion rappelle le manichéisme et laε 1 ifa
-tion rappelle le manichéisme et les ,
-
-
-### 0274
-
-226
-ZOSIME
-ceux qui n'ont qu'un entendement corporel, appartiennent à la destinée iIs
-n'admettent ou ne confessent rien d'autre.
-11. Tous ceux qui (font des teintures) convenables et réussissent (par hasard)
-ne disent pas autre chose ; ils persiflent l'art exposé dans le grand livre sur
-les fourneaux, et ils ne comprennent pas non plus le Poète lorsqu'il dit :
-α Mais les Dieux n'avaient pas encore donné en même temps aux hommes.... etc. »
-Ils ne réfléchissent à rien et ne voient pas les divers genres de vie des
-hommes : comme quoi les hommes réussissent différemment dans un seul
-(et même) art ; comment ils opèrent différemment dans un seul (et même)
-art ; comment ils pratiquent un seul (et même) art, au moyen des carac-
-tères et des figures diverses des astres (). Ils ne voient pas que tel artisan
-est paresseux (?), tel artisan isolé ; tel autre dégénère, tel devient pire, tel ne
-progresse pas. Il arrive aussi que l'on rencontre dans tous les arts des
-gens qui travaillent un même art avec des outils et des procédés différents,
-et qui ont u un degré différent l'intelligence et la réussite.
-12. Parmi tous les arts, c'est surtout dans l'art sacré qu'il convient de
-considérer ces choses. Par exemple, après une fracture, si le patient ren-
-contre un prêtre (habile), celui-ci agissant de sa propre inspiration (1), réunit
-les fragments, de telle sorte que l'on entend le craquement des os qui se
-rejoignent. Si l'on ne trouve pas un tel prêtre, que le blessé cependant
-ne craigne pas de mourir, mais que l'on amène des médecins avec leurs
-livres, pourvus de dessins et de figures ombrées. Etant pansé conformément
-aux lignes des figures du livre, le blessé est entouré de liens mécaniquement
-et il continue à vivre, après avoir repris la santé. Nulle part l'homme ne se
-résigne à mourir, faute de trouver un prêtre qui réunisse les fractures.
-Au contraire, ceux-ci, les malheureux (ignorants), se laissent mourir de faim,
-plutot que d'apprendre à connaitreet à pratiquer la description des fourneaux,
-telle qu'elle esttracée : c'est par là que, devenus bienheureux, ils triomphe-
-.
-raient de la pauvreté, cette maladie incurable. En voilà asse sur ce chapitre.
-13. Quant à moi j'arrive à mon sujet, qui concerne les fourneaux.
-(1) C'est la pratique du prètre rebouteur, envisagée comme supérieure à la
-science écrite dn mdaσ
-science écrite du médecin.
-
-
-### 0275
-
-APPAREILS ET FOURNEAUX
-Ayant reçu les lettres que tu as écrites, j'ai vu que tu m'invites à rédiger
-pour toi la description des appareils. 'ai été surpris de voir que tu écrives
-pour obtenir de moi la connaissance des choses qui ne doivent pas être con-
-nues ; n'as-tu pas entendu le Philosophe ; lorsqu'il dit: α Ces choses, je les ai
-passées volontairement sous silence, parce qu'elles sont décrites amplement
-dans mes autres écrits »? Cependant tu as voulu les apprendre de moi ;
-ne crois pas du reste que mon écrit soit plus digne de foi que celui des
-anciens, et sache que je ne pourrais pas (les surpasser). Mais, afin que nous
-entendions tout ce qui a été dit par eux, je vais t'exposer ce que je sais.
-Voici ce que c'est.
-14. Récipient de verre, tube de terre cuite de la longueur d'une coudée.
-Matras ou vase à étroite embouchure, dont le goulot est proportionné à la
-grosseur du tube. Voici le modele (1). Il faut avoir une coupe d'eau et
-mouiller le vase avec une éponge. Pour les vapeurs sublimées, ainsi que
-pour le mercure, c'est le même vase.
-On peut fixer le mercure dans le phanos (vase) et dans des appareils sembla-
-bles, ayant un récipient de forme serpentine. On jaunit (le mercure) par la
-vapeur du soufre; c'est là ce que conseillent les anciens écrits, le phanos
-ne contenant pas le soufre (2). Tu seras surpris, au sujet de cet écrit, de ce que
-deux mystères manifestes y ont été cachés. D'abord ne cherchons-nous pas
-comment la vapeur du soufre, qui blanchit (les métaux), rend (cependant)
-le mercure jaune, ni comment cela arrive lorsqu'il est brulé? Et en outre,
-comment ce mercure, étant blanc en puissance et en fait, devient jaune
-lorsqu'il est brulé et fixé par une substance blanche ?
-15. I fallait donc que les modernes cherchassent avant tout ces choses.
-Quant à l'autre mystère, je pense que (le mercure) n'est pas fixé seul, mais
-avec toute la composition. Maintenant les appareils dans lesquels on exécute
-aussi la (fabrication de l'eau) de soufre natif, la fixation du mercure, l'arro-
-sage des mélanges et leur teinture sont ceux-ci.
-(Suit la formule de lEcrevisse, Introd., p. 152.)
-(1) répond à la figure 16 de la | p. 216, avec des variantes considérables.
-p. 140 de l'Introd. Ce passage repro- | (2) Les Ms. indiquent le plomb, sans
-duit la fin du second alinéa du 5 2 de la | doute par suite d'une confusion de signes.
-
-
-### 0276
-
-228
-ZOSIME
-16. L'ios qui provient du cuivre sans ombre, étant jauni, est soumis à
-l'action de la sublimation ; puis on le dépose dans du miel blanc.
-17. La masse molle, jaunie par notre cuivre, agit en son lieu et place,
-. : tout cela se trouve chez Agathode
-mais moins fortement que. .....
-mon.
-18. La masse molle obtenue avec les petites scories, mettez-la dans le
-phanos (vase) et fixez avec la vapeur des soufres volatilisés, afin qu'elle
-devienne comme du cinabre. Ensuite mettez-la dans des bocaux ou dans
-des coupes, étalez et employez comme ci-dessus.
-Signes de : Ciel ; soleil (ou or). Terre, ciel (1).
-19. Comme on le voit, toutes les espèces (provenant) des vapeurs.
-ont été mélangées par Agathodémon : telles sont la chrysocolle, la
-(pierre) étésienne, la fleur d'or et en général toutes celles qui servent dans
-la teinture de l'argent, ainsi que le comporte sa dernière classe. Or il
-emploie les vapeurs, afin d'éviter que l'argent se réduise en scorie, ou qu'il
-ne cède sa substance aux corps épais et terreux, susceptibles d'être calcinés
-et torréfie
-III. 1. --- SUR LΕ ΤIBΟΟS ΕΤ LΕ ΤΟΕ
-1. e vais te décrire le tribicos. On appelle ainsi la construction en cuivre
-transmise traditionnellement par Marie (2). Voici en quels termes : Fabrique,
-dit-elle, trois tubes de cuivre laminé et aminci, d'une épaisseur dont voici la
-mesure: ce sera à peu près celle d'une poêle en airain, à faire cuire les gâteaux ;
-la longueur sera d'une coudée et demie. Fabrique donc trois tubes dans ces
-conditions, et fabrique aussi un (gros) tube, ayant environ une palme de dia-
-metre et une ouverture proportionnée à celle du vase de cuivre (3). Les trois
-tubes auront une embouchure adaptée au col du petit récipient, au moven
-(1) Dans B ces signes sont répétés au- | --- Il y a ici des variantes considérables.
-(3) Ici χαλκεῖον parait signifier cha-
-lessus des mots : α toutes les espèces ».
-(2) Voir l'article précédent, p. 217, 5. | piteau (voir la note 1 de la p. 218)
-
-
-### 0277
-
-APPAREILS ET FOURNEAUX
-229
-d'une clavette, par le tube du pouce (1) ; afin que les deux tubes de l'index
-s'adaptent latéralement aux deux mains (2). Vers l'extrémité du vase de
-cuivre, existent trois orifices, ajustés aux tubes et bien raccordés. On
-les soude d'une façon excentrique au récipient supérieur, destiné à rece-
-voir la partie volatile. On place le vase de cuivre au-dessus du matras en
-terre cuite qui contient le soufre. Après avoir luté les jointures avec de la
-pate de farine, adapte aux extrémités des tubes des récipients en verre,
-grands et forts, afin qu'ils ne cassent pas en raison de la chaleur de l'eau
-qui entraine la matière distillée. Voici la figure : Tube de l'index (3).
-Le 5 2 est la reproduction du premier alinéa du § 2 de l'article III, xLv1, p. 216.
-l.e 3 reproduit le § 4 du mème article (p. 217), mais avec des variantes très
-importantes que l'on va donner.
-3. 'ai ri en écoutant ce qui est relatif aux diverses classes de ces
-appareils. Car tu dis : Pour chaque opération, que le matras contienne
-une mine de soufre apyre. Et je t'ai admirée aussi en ceci que, ne suppor-
-tant pas le reproche, tu aies prétendu écrire de pareilles choses. De plus tu
-en es venue à critiquer le Philosophe, parce qu'il a osé dire : α Ces choses je
-les ai passées sous silence, attendu qu'elles sont déjà exposées avec grands
-détails dans les écrits des autres .. (Lute) avec du suif, ou de la cire, ou
-de la terre grasse, ou avec ce que tu voudras, et, après avoir calciné,
-enlève ». Or voici la figure qui se trouve dans les écrits.
-Insistant dans un sentiment d'envie indomptable, tu critiques vainement le
-Philosophe; car tu n'as pas compris ce qu'il dit. Ilne veut pas parler, comme
-dans les commentaires précédents, de la fabrication des eaux, mais de leur
-distillation ; car autre chose est la fabrication, autre chose la distillation. Il
-a dit qu'on n'écrivait rien en détail sur leur mercure ; nul d'entre eux n'en
-exposait la fabrication ; car c'était là le mystère caché. C'est une chose celée
-avec soin. La distillation a donc lieu au moyen de ces appareils, ou d'autres
-similaires, imaginés par les gens intelligents ; tels sont ceux qui ont
-(3) Ceci désigne la figure 15 de la
-(1) Cp., la note 2 de la p. 218.
-(2) C'est-a-dire aux deux récipients | p. 139 de l'Intrο
-cOrrespondante
-correspondants.
-
-
-### 0278
-
-230
-ZOSIME
-étudié auparavant les Pneumatiques d'Archimède, ou d'Héron et d'autres
-auteurs, ainsi que leurs écrits relatifs à la mécanique.
-4. Sur d'autres fourneaux. --- Comme la suite de notre discours a pour sujet
-les fourneaux et la teinture, je ne veux pas te répéter ce qui se trouve dans
-les écrits des autres. En effet, chez Marie, la description du fourneau pré-
-sentée ici ne figure pas. Le Philosophe n'en a pas fait mention, mais seu-
-lement des prismes et des autres (appareils) dont j'ai parlé en passant,
-dans le commentaire sur les règles du feu (1). Afin qu'il ne puisse rien
-manquer à tes écrits, parles-y du fourneau de Marie, celui dont Agatho-
-démon a fait mention, en ces termes : « Or voici la description de la classe
-des kérotais destinées au soufre mis en suspension. Prenant une coupe, fais
-(y) des divisions, c'est-a-dire fais avec une pierre une entaille centrale et
-circulaire dans le fond de la coupe, afin d'y engager à la partie inférieure une
-saucière de dimension correspondante (2). Dispose un vase mince de terre
-cuite, ajusté et suspendu à la coupe, retenu par elle dans sa partie supé-
-rieure ; et s'avançant vers la kérotakis de fer. Dispose la ſeuille (métallique)
-que tuvoudras, conformémentà l'écrit, au-dessus du vaseet au-dessous de la ké-
-rotais, en même temps que la coupe, de telle façon que tu puisse voira l'inté-
-rieur. Après avoir luté les jointures, fais cuire autanιd'heures que le dit notre
-rédaction. Voilà pour le soufre en suspension. Pour l'arsenic en suspension,
-onopèresemblablement. Pratique un petit trou d'aiguille aucentre du vase.
-5. Autre coupe de verre placée au-dessous. Le vase de terre cuite sera de
-dimension telle qu'ils'ajuste aux parties arrondies et conforme àces porties(3).
-6. C'est le fourneau en forme de four, dit Marie, ayant à la partie supé-
-rieure trois trous (suçoirs), destinés à arrêter (les gros morceaux) et à évacuer
-(les parties fondues) (4). Fais chauffer progressivement, en brulant des roseaux
-grecs pendant deux ou trois jours et autant de nuits, selon ce que comporte la
-teinture, et laisse torréfier completement dans le fourneau. Puis fais descendre
-pendant tout un jour de l'asphalte, en yajoutant ce que tu sais, plus du cuivre
-(1) Cp. page 216.
-(3) Figures 24 et 24 bis de la
-(2) Figure 25 de la page 149 et | page 48 de lIntroduction.
-figure 22 de la page 146 de lIntro- | (4) Ce sont les figures 20 et 21,
-page 143 de l'ntroduction.
-duction.
-
-
-### 0279
-
-231
-LE COMPTE FINAL
-blanc ou jaune. Or (cela) peutse faire ainsi : l'appareil en forme de crible blan-
-chit, jaunit, produitde l'ios. Cuis légèrement, comme pour produire du fard,
-la teinture des mélanges et tout ce que tu pourras imaginer. Telle est la fabri-
-cation.
-II. I. --- LΕ PRΕΙΕR LIVRΕ D ΟΟΡΡΤ FΙNL
-DE ΟSIΜE LΕ TΗΕBAIΝ
-1. Ici, se trouve confirmé le livre de la Vérité.
-Zosime à Théosébie, salut l
-Tout le royaume d'Egypte (1), o Femme, dépend de ces deux arts, celui
-des (teintures) convenables et celui des minerais. L'art appelé divin, soit
-dans ses parties dogmatiques et philosophiques, soit dans la plupart des
-questions de moindre portée, a été confié à ses gardiens pour leur subsistance.
-Il en est ainsi non seulement pour cet art, mais encore pour les quatre aris
-appelés libéraux et pour les arts manuels. Leur puissance créatrice appartient
-aux rois. S'ils le permettent, celui-là l'expose de vive voix, ou l'interprète
-d'après les stèles, qui en a reçu la connaissance comme héritage de ses aieux.
-Mais celui qui possédait la connaissance de ces choses ne fabriquait pas
-(pour lui-même), car il cut été puni ; de même que les artisans qui
-savent frapper la monnaie royule n'ont pas le droit de la frapper pour eux-
-mêmes, sous peine de châtiment. De mêmeaussi, sous les rois Egyptiens, les
-artisans de l'art de la cuisson et ceux qui possédaient la connaissance des
-procédés n'opéraient pas pour eux-mêmes ; mais ils opéraient pour les rois
-d'gypte, et travaillaient en vue de leurs trésors. Ils avaient des chefs par-
-ticuliers placés à leur tête, et grande était la tyrannie exercée dans l'art de la
-cuisson, non seulement en elle-même, mais aussi en ce qui touche les mines
-d'or. Car en ce qui touche la fouille, c'était une règle, chez les Egyptiens,
-qu'il fallait une autorisation écrite.
-2. Quelques-uns reprochent à Démocrite et aux anciens. . . (La suite
-omme à la page 98, jusqu à la fin du parographe.)
-(1) Cp. p. 2o3 etOLvuPioDoRE, p. 97. --- Le texte actuel offre des variantes notables.
-
-
-### 0280
-
-232
-ZOSIME
-3. ..... Quant aux teintures convenables, personne ni parmi les uifs, ni
-parmi les Grecs, ne les a jamais exposées. En effet, ils les plaçaient dans les
-images, formées avec leurs propres couleurs et destinées à les conserver.
-Les opérations faites sur les minéraux diffèrent beaucoup des teintures
-convenables. Ils étaient très jaloux de la divulgation de l'art lui-même ; et
-ne laissaient pas le manipulateur sans punition. Celui qui fait une fouille
-sans autorisation, peut être précipité (et mis à mort) par les surveillants des
-marchés de la ville, chargés du recouvrement des impots royaux. De même
-il n'était pas permis de mettre en œuvre secrètement les fourneaux, ou de
-fabriquer en secret les teintures convenables. Aussi tu ne trouveras per-
-sonne parmi les anciens qui révèle ce qui est caché, et qui expose quelque
-chose de clair à cet égard. e n'ai rencontré que Démocrite seul, parmi les
-anciens, qui ait fait entendre clairement quelque chose à cet égard, dans
-les énumérations de ses catalogues.
-En effet, voici comment il débute, dans le préambule de sa composition
-sur les arts libéraux : ici observe sa malice. I parlait seulement, au début, du
-mercure et du corps de la magnésie. Or les autres (substances) sont toutes
-de la classe des teintures convenables. Il s'exprime ainsi : « Ocre attique,
-minium du Pont, soufre natif: on en prend une livre; pierre phrygienne, sori
-jaune, couperose sèche, cinabre, misycuit, misy cru. Tu fabriqueras l'andro-
-damas, le soufre, l'arsenic, la sandaraque. Pour ne pas énumérer tout ce
-qui est dans les quatre catalogues, tu trouveras toutes les substances propres
-aux (teintures)et pour que tu exécutes ce qu'il fait entendre la dessus, il a
-énuméré les (substances) crues et les (substances) cuites, qui répondent aux
-deux arts. Il parle de préférence des teintures parmi les choses convenables.
-Lorsqu'il dit : misycru, misycuit. sori jaune, couperose sèche et autres simi-
-laires ;il parle des (substances) qui ont subi un certain traitement, en s'atta-
-chant aux arts libéraux. Mais pourquoi ne parle-t-il pas de toutes ces subs-
-tances, apres qu'elles ont été traitéés et jaunies, telles que le mercure jaune
-et le corps (de la magnésie) jaune, et généralement tout le catalogue jaune?
-4. Vois commentce qu' il pensaitet ce qu'il écrivait était présenté sous forme
-énigmatique ; il voulait tout faire entendre par énigmes. Les témoignages les
-plus dignes de foi qu il ait trouvés sur ces choses, il les a fait entendre par
-énigmes. Comment se fait-il que sachant qu'il n'y a qu'une teinture et qu'une
-
-
-### 0281
-
-233
-LE COMPTE FINAI
-marche, il représentait celles-ci comme multiples, disant : α Parmi ces
-natures, il n'en est pas de meilleure pour les teintures... r ; afin de montrer
-que les mêmes espèces peuvent servir à composer convenablement plusieurs
-teintures, la proportion variant suivant la quantité des espèces (destinées
-aux teintures [?]) depuis une seule jusqu'au nombre de cinquante et une. En
-même temps, il parle de l'opération naturelle, c'est-a-dire de la matière de la
-fabrication de l'or, et il met en évidence les teintures naturelles. Il dit
-encore : α de vous ai engagés dans un grand travail, si quelques-uns ayant
-opéré avec une quantité considérable de matière, venaient à échouer dans
-la fabrication des produits naturels ».
-Au temps d'Hermès, on appelait teintures naturelles celles qui devaient
-être inscrites (plus tard) sous un titre commun, dans son ouvrage intitulé :
-Liνre des Teintures naturelles, dédié à Isidore (1). Lorsqu'elles avaient
-réussi avec les objets de cuivre, elles devenaient et étaient dites convena-
-bles. Au surplus, on reproche aux anciens et surtout à Hermès, de ne les
-avoir exposées, ni publiquement, ni en secret, et de ne pas avoir fait enten-
-dre ce que c'est.
-5. Seul, Démocrite l'a exposé dans son ouvrage et l'a fait entendre. Mais
-eux, ils ont gravé ces procédés sur les stèles, dans l'ombre des sanc-
-tuaires, en caractères symboliques ; ils y ont gravé ces procédés et la
-chorographie de l'gypte (2) ; de telle sorte que, si quelqu'un osait
-affronter les ténèbres du sanctuaire pour obtenir la connaissance d'une
-façon illicite, il ne réussit pas à comprendre les caractères, malgré son
-audace et sa peine (3). Mais les uifs, ayant été initiés, ont transmis ces
-procédés convenables, qui leur avaient été confiés. Voici ce qu'ils con-
-seillent dans leurs traités : Si tu découvres nos trésors, abandonne l'or
-à ceux qui veulent se détruire eux-mêmes. Après avoir trouvé les carac-
-tères qui décrivent ces choses, tu réuniras toutes ces richesses en peu (de
-emps) ; mais si tu te bornes à prendre ces richesses, tu te détruiras toi-
-(1) Synonyme : Pἐrίsis.
-opinions tirées des paroles charnelles. »
-(2) Voir le texte de Clément d'Alexan- | --- On voit à quelles imaginations don-
-drie, Origines de l'Alcnimie, p. 41.
-naient lieu les vieux textes hiéroglyphi-
-(3) Note de A. a Il faut pénétrer le | ques que l'on ne comprenait plus (Cp.
-sens spirituel du caractère, et éviter les | Introduction. p. 235).
-
-
-### 0282
-
-234
-ZOSIME
-même, par suite de l'envie des rois qui gouvernent et de celle de tous les
-hommes (1).»
-6. Ily avait deux genres de (teintures) convenables, dans les toiles teintes (2),
-qu'ils présentaient à leurs prêtres ; voici pourquoi elles étaient appelées
-convenables (3), c'est parce qu'ils opéraient au moment voulu les teintures,
-à la volonté de ceux qui (les) attendaient ; mais pour ceux qui ne le deman-
-daient pas, ils opéraient autrement. Les (teintures) convenables étaient obte-
-nues par le mélange des espèces tinctoriales, en opéran t avec les espèces
-pures. Les unes appartiennent à ces arts précieux ; quant à l'autre genre
-de teintures pures et naturelles, voici l'interprétation que Hermès grava
-sur les stèles : α Fais fondre seulement la matière jaune verdâtre, la
-matière jaune, la noire, la verte et les similaires. » Ils appelaient ces terres,
-en langage mystique, des minerais. Hermès indique aussi les espèces de cou-
-leurs : α Celles-ci agissent naturellement ; mais elles sont surpassées par les
-produits supra-terrestres. Or si quelque initié s'en débarrasse, il obtiendra
-ce qu'il cherche. »
-7. Ceux qui apportaient (les couleurs fabriquées par voie surnaturelle (?),
-étant ainsi mis de coté, conseillaient aux gens considérables d'agir contre
-nous tous, savants, opérant par des actions naturelles. Ils ne voulaient pas
-être mis de coté par les hommes (4), mais être suppliés et adjurés de céder
-ce qu'ils avaient fabriqué, en retour des offrandes et des sacrifces. Ils tinrent
-donc cachés tous les procédés naturels, ceux qui donnent les résultats sans
-artifice. Ce n'était pas seulement par jalousie contre nous, mais parce qu'ils
-étaient soucieux de leur existence et ne voulaient pas s'exposer à être battus
-de verges, chassés, et à mourir de faim, en cessantde recevoir les offrandes des
-sacrifices. Ils opérerent ainsi : Ils cachèrent les procédés naturels et mirent en
-avant les leurs, qui étaient d'ordre surnaturel (5); ils exposèrent à leurs
-(1) Note de A. a Il y a beaucoup | gines de lAlchimie, p. 242 et suiv.).
-(3) Ou opportunes.
-de livres relatifs à la chimie. Les |
-uns parlent des teintures naturelles ; |
-(4) Comme imposteurs.
-(5) Ce curieux passage accuse la riva-
-les autres, des surnaturelles : les deux|
-ordres de livres sont mensonge et vérité | lité des opérateurs procédant par la
-magie et avec charlatanisme, contre
-dissimulée. »
-(2) La teinture des étoffes est ici | ceux qui opéraient par la science seule
-ux (voir Ori- | et qui leur enlevaient leur clientèle.
-
-
-### 0283
-
-235
-LE COMPTE FINAL
-prêtres que les gens du peuple négligeraient les sacrifices, s'ils n'avaient plus
-recours aux procédés surnaturels, pour s'adresser à ceux qui possédaient
-cette prétendue connaissance des alliages vulgaires, cet art de fabriquer
-les eaux et de faire les lavages. C'est ainsi que, par l'effet de la coutume,
-de la loi et de la crainte, leurs sacrifices étaient tres suivis. Ils n'accom-
-plissaient même plus leurs annonces mensongères. Lorsque leurs sanc-
-tuaires venaient à être désertés et leurs sacrifices négligés, ils obtenaient
-encore des hommes restés (auprès d'eux), qu'ils s'adonnassent aux sacrifices,
-en les flattant par des songes (1) et d'autres tromperies, ainsi que par certains
-conseils. Ils revenaient sans cesse à ces promesses mensongères et surnatu-
-relles, pour complaire aux hommes amis du plaisir, misérables et ignorants.
-Toi aussi, ὸ femme, ils veulent te gagner à leur cause, par l'intermédiaire
-de leur faux prophète ; ils te flattent ; étant affamés, (ils convoitent) non
-seulement les sacrifices, mais encore ton âme (2).
-8. Toi donc, ne te laisses pas séduire, ô femme, ainsi que je te l'ai expli-
-qué dans le livre concernant l'Action. Ne te mets pas à divaguer en cher-
-chant Dieu; mais reste assise à ton foyer, et Dieu viendra à toi, lui qui est
-partout ; il n'est pas confiné dans le lieu le plus bas, comme les démons (3).
-Repose ton corps, calme tes passions, résiste au désir, au plaisir, à la
-colère, au chagrin et aux doue fatalités de la mort. En te dirigeant ainsi,
-tu appelleras à toi l'être divin, et l'être divin viendra à toi, lui qui est par-
-tout et nulle part. Sans être appelée, offre des sacrifices : non pas les (sacrifi-
-ces) avantageux pour ces hommes, et destinésà les nourrir et à leur complaire;
-mais des (sacrifices) qui les éloignent et les détruisent, tels que ceux qu a
-préconisés Membrès, s'adressant à Salomon, roi de Iérusalem, et principa-
-lement tels que ceux qu'a décrits Salomon lui-même, d'après sa propre
-sagesse. En opérant ainsi, tu obtiendras les teintures convenables, authen-
-tiques et naturelles. Fais ces choses jusqu'à ce que tu sois devenue par-
-faite dans ton àme. Mais, lorsque tu reconnaitras que tu es arrivée à la per-
-(1) Les Papyrus de Leide renferment | des polémiques entre Zosime et ses
-diverses formules pour procurer des | rivaux, polémiques dont nous avons la
-songes et artifices magiques, à côté des | trace en plus d'un point de ses écrits.
-procédés chimiques (voir Introd. p. 13). | Cp. p. 186 et 187.
-(2) Ce paragraphe montre le caractère | (3) Cp. OLrνropoor, p. 9o.
-
-
-### 0284
-
-236
-ZOSIME
-fection, alors redoute (l'intervention) des éléments naturels de la matière :
-descendant vers le Pasteur, et te plongeant dans la méditation, remonte ainsi
-à ton origine.
-9. Quant à moi, je viendrai au secours de ton insuffisance ; mais réfléchis
-et rappelle-toi la chose cherchée : il faut qu'elle n'éprouve pas d'amoindris-
-sement, mais qu'elle suive ses degrés réguliers.
-Ecoute-le, quand il dit un peu plus loin: un seul produit existe, en lequel
-doivent se réunir deux œufs(1) ; les composants sont divers ; l'un est humide et
-froid, l'autre sec et froid, et les deux produisent une œuvre unique. Il faut
-entendre ici les deux couleurs de l'œuf et admirer les changements de
-couleurs qui proviennent de l'œuf, ainsi que ceux qui précèdent, et toutes
-les générations de couleurs ; comme quoi elles indiquent l'expulsion de la
-matière (étrangère) ; après d'autres phénomenes, on peut les observer ; mais
-elles ne reparaissent pas (dans un état) semblable. Pourquoi (faut-il expli-
-quer tout cela) (2)? N'est-ce pas parce qu'ils le cachent par jalousie ? Ils ne
-veulent pas que personne puisse comprendre et trouver par leur secours la
-voie des teintures favorables. Quelqu'un dira qu'il ne s agit pas seulement
-du changement des noms, mais encore de tout l'art, qui n'est pas exposé
-(par tout le monde) d'une façon semblable ; il l'est tantôt d'une façon, tantot
-de la façon contraire. Tout cela est nouveau, dis-je ; les artisans le savent,
-eux qui voient les causes des fautes commises ; ils savent que nous avons
-produit telle chose, plutôt que telle autre ; que nous avons négligé telle
-chose, et que nous avons fait telle autre chose avec plus de paresse.
-10. Quant à moi, je reviendrai à mon propos. Il y a deux marches de
-teintures convenables, selon qu'on opère sur les espèces crues ou cuites.
-Le procédé de la cuisson est affranchi d'une grande fatigue ; il a besoin
-d'une grande adresse et il est plus court, comme l'a dit la divine Marie. Pour
-ce procédé de cuisson, il y a de nombreuses variétés de liquides et de feux.
-Tantot on cuit avec de l'eau, tantôt avec du vin. (Parmi les feux), les uns sont
-obtenus avec des charbons et soutenus pendant tout le temps ; dans les autres
-(1) Dans ce passage, le mot œuf est | (2) Note de A. a (Ainsi parle) l'esprit
-pris dans un sens mystique, comme | capable de comprendre, d'une manière
-désignant le produit d'une opération | droite et saine.
-chimique. Cp. p. 18 et 19.
-
-
-### 0285
-
-SUR LES FEUX
-257
-on procède par insufflation, suivant une certaine mesure. Dans d'autres
-on emploie des broussailles ; dans d'autres, des fourneaux, et dans d'autres
-des chiffons ; ou bien l'on opère par d'autres voies : par tous ces moyens on
-obtient beaucoup de choses diverses. Ainsi, par exemple, pour le noir : sui-
-vant la diversité des eufs (1), on peut avoir le noir des corbeaux, le noir des
-corneilles, le noir très foncé, la couleur gris cendré sur les toiles peintes.
-On y dessine aussi (2) des arbres, ou des pierres, ou de l'eau, ou des animaux,
-tous semblablement. Quant aux autres couleurs susdites, tu en as les
-démonstrations comprises sous la lettre K (3). Il faut tenir compte de la
-proportion des couleurs ; si tu entends parler de l'ocre jaune, ne suppose pas
-simplement que j'aie changé la préparation et que je tienne un langage mysté-
-rieux, dans le seul but de créer des difficultés ; car dans l'art, toutes les
-préparations (indiquées pour notre) recherche réussissent.
-11. Ces teintures ont une nature propre. Elles résultent de la décompo-
-sition de produits tantôt nombreux, tantot en petit nombre ; elles sont
-fabriquées dans de petits fourneaux, avec des vases de verre, ou bien dans
-des creusets grands et petits : on opère ainsi dans différents appareils, au
-moyen de feux diversement réglés. L'épreuve manifeste la bonté des pro-
-duits obtenus en suivant ces divers perfectionnements. Voicique tu as les
-démonstrations des feux dans la lettre 2, ainsi que celles de toutes les
-choses cherchées. Tel sera mon commencement, ô femme à la robe de
-pourpre.
-III. II. --- IΝΕRΡRΕΤAΤΙΟΝ SUR ΤΟUs ΟΠΟSES
-EΝ GENERAL E (ΝΟΤAΜΕΕΤ) SUR LES FEUX
-1. Veille à ne pas t'égarer et à jaunir non seulement le plomb et le cuivre,
-mais encore les espèces métalliques appelées liqueur d'or, or massiffetc.] (4),
-(1) Voir la note 1 de la page préccdente. un livre sur la chimie adressé à sa
-sœur Théosébie, divisé en sections dé-
-(2) Sur les étoffes peintes ?
-(3) Un peu plus loin Zosime vise la signées par les lettres de l'alphabet
-section 2 (voir aussi p. 221).
-grec.
-Suidas rapporte que Zosime avait écrit | (4) Ou la matière dorée.
-
-
-### 0286
-
-238
-ZOSIME
-lesquelles sont au nombre de 78, plus ou moins. 'ai dit 78, plus ou
-moins, suivant que l'on emploie (ou non) le mercure. Or il faut connaitre
-l'épreuve et la vertu des préparations, ainsi qu'il le rappelle en parlant des
-feux ; il faut faire cuire, en introduisant du fer. En effet, les uns faisaient
-cuire une demi-heure seulement ; d'autres une heure, d'autres deux, d'autres
-trois, et quelques-uns même quatre.
-2. Tout l'art consiste dans les feux légers (1) ; fais cuire les couleurs et
-laisse (sur le feu) jusqu'à refroidissement ; regarde dans les (vases) de verre
-ce qui se passe. De cette façon, (la matière) jaunit par le délaiement et par la
-décoction. C'est là l'eau divine, l'eau aux deux couleurs, blanche et jaune ;
-on lui a donné mille dénominations.
-3. Sans l'eau divine, il n'y a rien: toute la composition s'accomplit par elle:
-c'est par elle qu'elle est cuite ; c'est par elle qu'elle est calcinée ; c'est par elle
-qu'elle est fixée ; c'est par elle qu elle est jaunie ; c'est par elle qu'elle est dé-
-composée ; c'est par elle qu'elle est teinte ; c'est par elle qu'elle subit l'iosis et
-'affinage ; c'est par elle qu'elle est mise en décoction. En effet, il dit : « En
-employant l'eau du soufre natif et un peu degomme, tu teindras toute sorte de
-corps. Toutes les choses qui tirent leur origine de l'eau sont incompatibles
-avec celles q proviennent du feu ; de telle sorte que, sans le catalogue de
-tous les liquides, il n'y a rien de sur. »
-4. Quelques-uns, tous peut-être, ont rappelé qu'il faut que cette eau, des-
-tinée à agir comme ferment, détruise le semblable par le semblable, en
-opérant sur le corps que l'on veut teindre, soit en argent, soit en or. Si tu
-veux teindre l'argent, fais réagir des feuilles d'argent ; si c'est l'or, des feuilles
-d'or. Car Démocrite (dit) : α Projette l'eau (divine) sur l'or commun, et tu
-donneras une teinte parfaite d'or. Une seule liqueur est reconnue comme
-agissant sur les deux (métaux). » Il faut donc que l'eau divine joue le role
-d'un levain produisant le semblable, soit avec l'argent, soit avec l'or. En
-effet, de même que le levain du pain, bien qu'en petite quantité, fait lever
-une grande quantité de pâte ; de même aussi, agit une petite quantité d'or
-ou d'argent, avec le concours de ce vinaigre (2).
-(1) Cette phrase est restée, comme la (2) B. .. de même un peu d'or :
-seule trace du morceau tout entier, dans | la poudre sèche doit faire tout fer-
-l menter ν.
-M (voir Introd.. p. 185).
-M (voir Introd., p. 185).
-
-
-### 0287
-
-SUR LE BLANCHIMENT
-III. IIII. --- LA ΟΕRUSΕ
-239
-1.... puissance ; après l'opération, la céruse est adoucie au moyen del'eaude
-pluie et abandonnée à elle-même. Décante l'eau et tu trouves une matière tout
-a fait blanche. La litharge commune, tirée du plomb, aune puissance merveil-
-leuse quand elle est associée au vinaigre. Le plombperd ses propriétés métal-
-liques, étant salifié et adouci : cette litharge devient ainsi très blanche et
-présente tout à fait l'aspect de la céruse (1).
-J'admire aussi la rubrique (minium) ; (je vois) comment elle jaunit au feu.
-La sandaraque a aussi une puissance merveilleuse (2).
-ΕNN
-IV. --- S
-1. e veux que vous sachie que le point capital en toutes choses, c'est le
-blanchiment ; aussitôt après le blanchiment, on jaunit: c'est le mystère par-
-fait, c'est-a-dire l'iosis, laquelle s'effectue à son tour au moyen du vinaigre,
-agent des puissances divines. Ie vous révélerai d'abord le chapitre de
-l'huile sulfureuse ; et je vous exposerai comment on opère les blanchiments
-des plombs, et quelle est l'origine de l'esprit tinctorial. Car sans les
-plombs on ne peut pas accomplir l'œuvre : le plomb sert à éprouver toute
-substance (3). C'est ce que le Philosophe a décrit merveilleusement par un
-exposé indirect, en disant : « Si les substances ont subi l'action des agents
-qui servent a l'épreuve, (la) nature du produit est indélébile (4).
-(1) C'est une fabrication de céruse,
-au moyen du vinaigre, agissant soit sur
-le plomb, soit sur la litharge.
-(2) On remarquera l'analogie établie
-entre la formation de la céruse, matière
-blanche, produite au moyen de la li-
-tharge jaune et du minium rouge, et la
-métamorphose de la sandaraque (réal-
-gar) rouge, en acide arsénieux blanc.
-Dansd'autres passages, l'acide arsénieux
-est mème désigné par le nom de céruse.
-(3) Par la coupellation?
-(4) En d'autres termes : quand le
-plomb est intervenu dans la transmu-
-tation, le métal transformé résiste
-ensuite aux essais d'analyse faits au
-moyen de ce mόο
-moyen de ce métal.
-
-
-### 0288
-
-240
-ZOSIME
-2. Je veux que vous sachiez d'abord que l'épreuve définitive se fait avec le
-vinaigre. En second lieu, c'est l'épreuve par le plomb dont le Philosophe a
-parlé dans son second chapitre, (en disant) : « Si les substances ont subi l'ac-
-tion des agents qui servent à l'épreuve, la nature du produit est indélébile. »
-II. LV. --- ΧΡΙPLCAΤIΟN SUR LS FΕUX
-7. Je vous expliquerai, avec tous les prophètes, la puissance des feux,
-afin que votre travail soit parfait et conforme aux traditions, de façon à ne
-pas échouer. En effet, le Philosophe exposait, en parlant des feux, comment
-l'unité de l'espèce est transformée par un feu excessif; car l'excès des feux est
-contraire à toute l'opération. Pour les choses auxquelles vous êtes exercés préa-
-lablement, je vous transmets les préceptes suivants : Si les matières sulfureuses
-sont cuites dans des vases de verre, il est nécessaire d'employer les feux
-dont se servent les peintres avec la érotakis. Il est nécessaire que le
-vase de verre soit garni d'un lut céramique, de l'épaisseur d'un demi-doigt;
-afin que le vase ne casse pas sous l'infuence de la chaleur. Voici la pro-
-portion convenable pour les feux : Si tu dois faire cuire légèrement les
-(matières), en les poussant vers le jaune, il est nécessaire d'employer les
-feux modérés, tels que ceux usités dans le fourneau à fusion des figures en
-couleur. Lorsque tu veux opérer de façon à amener le produit au jaune, laisse
-dans le fourneau pendant six heures ; je parle de la durée moyenne ; cela
-suffit : les feux amènent ainsi le produit uu jaune.
-III. IVI. --- SUR LΕS VPΡUR
-1. On les appelle vapeurs sublimées, à cause de ce fait que les substances
-sont élevées de bas en haut, au-dessus des cendres, vers la partie supérieure,
-comme il est exposé dans le traitement des eaux. Ainsi on les appelle vapeurs
-sublimées, à cause de ce fait qu'elles montent du bas vers le sommet de
-l'appareil, et nous avons exposé comment on opère l'aspiration de ces
-vapeurs ou de ces gouttes condensées.
-
-
-### 0289
-
-241
-SUR LES VAPEURS
-On enlève les scories de la marmite, on les délaie et on projette sur
-elles les âmes que l'on en a tirées (1). Ces ames tirées des corps (métal-
-liques), ils les sublimèrent de nouveau au moyen de l'appareil en forme de
-mamelle, disant que c'était la l'iosis, accomplie par les réactions de longue
-durée. Ils combinèrent avec les autres vapeurs sublimées ce qu ils
-nommaient des corps --- ce que nous appelons un corps métallique --- en
-opérant avec les soufres, les sulfuras (agissant sur) les feuilles de cuivre, ou
-d'asèm (2), ou d'or. C'est de cette façon qu'ils pratiquèrent la teinture avec
-les matières auxiliaires, sans tenir aucun compte de leur second traitement.
-2. Il a désigné l'eau filtrée (agissant) sur les cendres, en disant : « Dispose
-l'appareil et apporte les cendres ; la cendre éprouve l'action de l'eau, agissant
-dans l'appareil. » C'est aussi pour cela qu'Agathodémon (dit) : « La cendre
-est tout ; c'est sur elle qu'opère la décoction ou la cuisson, ou bien ce que
-l'on appelle le délaiement. » Ainsi, au moyen de la décomposition, de l'ex-
-traction, de l'iosis, de la cuisson modérée, les anciens disaient que le Tout
-se parfait.
-Il est impossible de traiter autrement la fabrication (3) de la composition.
-Car ce fait que la décoction et l'extraction sont un délaiement est connu des
-interprètes de la science. L'iosis, ils la nommèrent décoction ; la décoction
-et l'extraction, délaiement, destiné à produire une atténuation extrême. En
-outre ils parlèrent du feu, parce qu'il produit la chaleur, la combustion
-et la flamme. Les anciens traitaient d'enfantillage et de travail de femme
-la recherche des simples connaisseurs. Mais nous ne sommes pas obligés
-pour cette raison d'effectuer l'iosis au moyen du feu, ainsi qu'on opère
-pour les pierres teintes, ou dans le traitement des liquides pour la pourpre
-fabriquée à froid. Je dis que l'expérience nous enseignera la vérité ; elle
-nous conduira à accomplir l'uvre une et parfaite et à (obtenir) la poudre
-de projection stable.
-3. Après la fabrication de cet ios, ils transporterent les vapeurs et (les)
-réunirent aux scories restantes, et de cette façon ils arriverent au terme.
-(3) Au lieu de la fabrication, les ma-
-(1) C'est-a-dire des vapeurs subli- |
-nuscrits portent : α la pyrite , (ou son
-mées: mercure, arsenic, soufre, etc.
-| signe), lequel est presque le mème.
-(2) Ms. A. a d'argent ν.
-
-
-### 0290
-
-242
-ZOSIME
-C'est alors qu'ils projetaient la poudre tinctoriale sur les corps, attendu que
-Zosime dit : α Ainsi les esprits prennent un corps et les corps morts
-sont ranimés par l'âme qui provient d'eux, et qui est de nouveau reçue
-en eux. Ils réalisent l'œuvre divine, deux éléments se dominant mutuellement
-et étant dominés l'un par l'autre. » En effet, il obtient par là l'esprit fugace
-du corps poursuivant (1), et il nous instruit à rendre la teinture résistante au
-feu, par le moyen du feu. Telle est, je pense, d'apres le Philosophe, l'eau de
-chaux, ou de sandaraque, l'eau de natron, l'eau de lie, l'eau fabriquée avec
-la cendre des sulfureux, l'eau de la première distillation.
-4. Il faut la rectifier comme la lessive des savonniers (2), et recueillir
-les eaux qui en proviennent : or la lessive des savonniers ne se réduit jamais
-en vapeur, mais elle est rectifiée (3). Comment donc, ô philosophes, Zosime (4)
-peut-il dire que le sens des écritures n'est pas compris, à moins que l'on n'em-
-ploie l'appareil qui opère l'extraction sur le cuivre? et que le terme de l'art
-n'est pas celui-la, mais consiste dans l'appareil et dans la fixation qui y est
-accomplie? D'autres se servaient seulement de flacons pour les deux genres
-de compositions (5). Après avoir fait monter l'eau, ils la réunissaient à la
-chaux ordinaire, en délayant dans un mortier ; non pas suivant une mesure
-précise, mais de façon que la partie sèche dépassât le liquide de deux, trois
-ou quatre doigts.
-(1) V. p. 105.
-(2) Ce mot ne doit pas être pris dans
-e sens de la chimie moderne.
-(3) Par filtration.
-(4) Dans BA, c'est Démocrite.
-(5) Sans procéder par distillation, ou
-1 ηe
-sublimation.
+Il y a une autre manière de recueillir l'eau divine : le tube n'est pas alors disposé comme avec le _tribicos_, mais placé à l'extrémité d'un autre tube de cuivre* ; il est long d'une coudée ou d'une coudée et demie. On y ajuste de la même manière un récipient unique et, au-dessous (du tube de cuivre), le matras contenant le soufre apyre. Après avoir tout disposé, on fait chauffer. Voici le modèle. Il faut avoir dans tous les cas, une coupe pleine d'eau et rafraîchir le vase tout autour avec une éponge.
+
+*) Figure 16, p. 140 de l'_Introduction_.
+
+3\. En ce qui touche le soufre, quelques-uns (se servent) du phanos et des appareils semblables, qui ont une base en forme de serpent. Ils y fixent aussi le mercure jaune isolément, en le soumettant à la vapeur du soufre. En cela ils comprennent mal les écrits antiques, qui ont caché que le phanos n'a pas de rôle ici ( ? ). J'ai été surpris (en lisant) cet écrit ; car deux mystères y ont été celés. Nous ne cherchons pas comment la combustion par le soufre, qui est blanc et blanchit tout, rend jaune le seul mercure ; (comment) ce produit, étant blanc en puissance et en acte, lorsqu'il est brûlé avec un corps blanc, produit du jaune. Il fallait que les modernes recherchassent avant tout ces choses et comprissent l'autre mystère, à savoir que le mercure n'est pas fixé par le soufre seul, mais qu'il faut pour cela la composition tout entière.
+
+4\. J'ai ri, en écoutant la lecture de ton écrit qui décrit ce genre d'opérations : « Que le matras, est-il dit, contienne une mine de soufre apyre ... » je me suis étonné de ce que, ne pouvant supporter les reproches, tu aies prétendu écrire de pareilles choses ; tu as blâmé à tort ce philosophe, car tu n'as pas compris ce qu'il a dit. Dans les précédents commentaires, j'ai dit que je parlais de la fabrication des eaux, mais non de leur distillation ; car autre chose est la fabrication, autre chose la distillation. (Chacun) de ces auteurs a parlé amplement de la distillation ; mais aucun n'a exposé la fabrication ; c'était là le mystère qu'on ne devait pas révéler, celui qui a été tout à fait caché. Or la distillation est de telle nature et (s'accomplit) au moyen de tels appareils.* Quant à la fabrication, c'est-à-dire la composition de cette eau, elle a été décrite dans l'exposé détaillé de l'œuvre.*
+
+*) Ceux qu'il va décrire.
+
+*) Cependant il va la décrire de nouveau § 6. --- Cp. 3, 16, p. 158.
+
+5\. Je vais décrire le tribicos* : Fabrique, dit-il, trois tubes de cuivre laminé ; dispose la lame ductile de façon qu'elle ait l'épaisseur du couvercle, ou un peu plus : par exemple, la moitié de l'épaisseur d'une monnaie de cuivre. Fabrique donc trois tubes dans ces conditions, et fabrique un (gros tube) de cuivre,* long d'une coudée, ayant une palme de diamètre. L'ouverture du gros tube sera en proportion convenable ; les trois (petits) tubes ont une ouverture adaptée à celle du col du petit récipient. Vis-à-vis du tube du pouce sont les deux tubes de l'index,* ajustés au moyen d'une clavette, des deux côtés, près de l'extrémité du gros tube ; vers cette extrémité existent trois orifices, ajustés aux tubes ainsi raccordés (avec le gros tube). Ces orifices sont soudés d'une façon excentrique avec le récipient supérieur, celui où se rend la partie volatile.
+
+*) Fig. 15, p. 139 de l'_Introduction_.
+
+*) On traduit ainsi le mot χαλκεῖον, qui désigne en effet le gros tube vertical, dans la fig. 16 de la page 140 de l'_Introd._ ; σωλῆνες doit être entendu des trois tubes abducteurs, par lesquels les produits distillés s'échappent du tribicos ; βῆκος ou βίκος est le récipient, où s'écoulent les produits. Ce mot désigne aussi (fig. 14, p. 138) le chapiteau, appelé autrement φιάλη dans la fig. 11 (p. 132). Enfin λωπάς est le matras où l'on place le soufre et qui est exposé directement à l'action du feu. Ces désignations s'appliquent aux figures du manuscrit de Venise.  
+Dans le manuscrit A, plus moderne (fig. 37, p. 161 de l'_Introd._), λωπάς a le même sens ; mais χαλκεῖον s'applique ici au chapiteau, qui a pris une forme nouvelle et caractéristique. La description du texte a cessé de répondre à cette dernière forme. La forme du λωπάς s'est également rapprochée de notre chapiteau moderne (v. p. 161 de l'_Introd._), ou plus exactement de celle du pélican, appareil distillatoire qui était encore usité au siècle dernier.
+
+*) Les mots ἀντίχειρος σωλήν (tube du pouce) et λιχανός σωλήν (tube de l'index), sont appliqués à des tubes différents dans les fig. 11 (p. 132 de l'_Introd._) et 15 (p. 139 de l'_Introd._). Le premier nom désigne dans les deux figures un petit tube oblique et descendant. Quant au second nom, la fig. 15 paraît indiquer le gros tube ascendant, de direction inverse, qui est désigné dans la fig. 14 (p. 138), sous le nom de « tube de terre cuite, » et dans la fig. 16 (p. 140), sous le nom de χαλκεῖον, objet dont il a été question dans la note précédente. Ces désignations ne correspondent pas exactement au texte ci-dessus, dans lequel le tube du pouce est mis en opposition avec les deux tubes de l'index : ces derniers représentant deux des petits tubes descendants du tribicos, le tube du pouce serait alors le troisième, comme dans la fig. 15.
+
+Place le gros tube de cuivre au-dessus du matras en terre cuite, qui contient le soufre. Après avoir luté les jointures avec de la pâte de farine, adapte aux extrémités des (petits) tubes des récipients en verre grands et forts, afin qu'ils ne cassent pas, en raison de la chaleur de l'eau. Porte ce qui monte dans les appareils où le Philosophe dit que l'eau s'élève.
+
+6\. Quant à la préparation et à la composition, je ne craindrai pas de t'écrire sur ce point, ô ma princesse. La fabrication des eaux comprend ce qui suit* : l'Eau de soufre, d'arsenic, de sandaraque ; la vapeur, l'eau de lie, l'eau de chaux, l'eau de cendre de choux, l'eau d'alun, l'eau d'urine, de lait d'ânesse, de chèvre ; parfois le lait de chienne, le lait de vache, et le lait de la femme mère d'un enfant mâle, suivant Agathodémon ; le vinaigre, l'eau de mer, le miel et le ricin ou _gry_ ( ? ), l'urine d'un impubère et la gomme. Leur production a lieu comme il suit. Chaque eau se prépare à la façon d'une saumure proprement dite. Quand il s'agit de l'eau de cendre, elle se prépare comme la lessive pour savonner, que j'ai décrite dans l'exposé des manipulations. Si tu ne réussis pas, opère la composition avec une cotyle d'eau. Emploie une once des espèces suivantes,* savoir : une once de soufre et une once d'eau pure ; une once d'arsenic et une cotyle d'eau ... ; de la lie cuite, éteinte dans le vinaigre ; de la chaux éteinte dans une cotyle d'urine de chat ; de l'alun, une once, délayé dans une cotyle d'eau de mer ; du natron roux, même quantité. Après avoir fait cuire séparément et ensemble les eaux, pendant un peu de temps, afin qu'elles prennent de la force, fais dessécher ou distiller dans un autre vase, en y mêlant le miel et l'huile. S'il est besoin de soufre blanc,* délaie dans l'eau la terre de Chio, l'astérite, l'aphrosélinon de Coptos cuit, la terre de Samos, celles de Carie, de Cimole, ou l'antimoine ( ? ). Mettant dans un vase l'eau devenue bleue, ajoutes (y) du marbre (tiré) de la terre, du misy brut, et une autre partie de chaux ; on en emploie deux parties, suivant les écrits des anciens, où le produit est nommé l'eau double de chaux. Ajuste l'appareil sur le matras, fais monter l'eau et mets en œuvre.
+
+*) Cp. p. 182.
+
+*) Cp. p. 165, § 15.
+
+*) Ce mot est une désignation générique, applicable à toutes les espèces suivantes, ainsi qu'il a été dit ailleurs, voir p. 162, § 10 et note, p. 180, § 4, p. 185, § 4 et p. 186, § 5, etc.
+
+7\. L'eau jaune se prépare comme il suit : Soient toutes les eaux obtenues d'après les règles précédentes ; au lieu de faire l'addition de deux parties de chaux, ajoute une partie de sel, après avoir fait cuire chacune de ces eaux séparément et les avoir mélangées, délaies-y, non plus des terres blanches, mais des terres jaunes. Car nous voulons obtenir de l'eau jaune. Or, les terres jaunes sont l'ocre attique, le minium du Pont, le misy cuit, la couperose cuite, et les matières semblables ; toutes les plantes (jaunes) que l'on connaît communément,* ainsi que le jaune d'œuf, le safran des œufs et la chélidoine double. Quant aux herbes, ne les incorpore pas avec l'eau, mais seulement les terres. Puis, changeant de vase, comme on le fait d'ordinaire, ajoute les plantes et fais cuire quatre ou cinq fois, dans l'appareil. Fais monter l'eau et emploie-la, avec addition de gomme. Après avoir découvert (l'appareil), tu trouveras les herbes brûlées, ayant perdu leur teinte propre, c'est-à-dire leur esprit propre. La portion la plus pure de cette eau divine a une vertu et une nature telle que, si vous trempez l'argent dans l'eau bouillante, la teinture sera indélébile. Bonne santé !
+
+*) Cp. p. 166, § 18. Sur le sens du mot plante, voir p. 71, p. 123, p. 153, note 2, p. 159, § 4 et note 2, etc.
+
+---
+
+#### 3\. --- 48. Fabrication de l'Argent avec la Tutie.*
+
+*) Recette surajoutée dans le manuscrit de St-Marc et plus moderne.
+
+Prenant de la tutie, environ 20 hexages (poids), broyez jusqu'à ce qu'elle devienne or* ; (prenant) environ 5 hexages de soufre apyre, broyez jusqu'à ce qu'il devienne plomb.* Ensuite prenant 6 blancs d'œufs, après avoir décapé, mettez dans l'alambic, et faites cuire pendant deux jours et deux nuits. Enlevez pour voir si la matière est bien à point ; remettez de nouveau (la matière) et faites cuire (encore) pendant un jour. Ensuite prenant du cuivre, environ 10 hexages, mettez-le dans un creuset et projetez-y 6 cotyles (de la matière ci-dessus) : vous obtenez de l'argent.*
+
+*) Prenne la couleur de l'or.
+
+*) Prenne la couleur du plomb, en agissant sur les oxydes mélangés qui forment la tutie.
+
+*) C'est-à-dire un alliage blanc.
+
+---
+
+#### 3\. --- 49. Du même Zosime sur les Appareils et Fourneaux. Commentaires Authentiques sur la Lettre Ω.*
+
+*) Ce titre est probablement celui de l'un des livres de Zosime, désignés chacun par l'une des lettres de l'alphabet. Le premier paragraphe serait le début du livre ; il roule sur une suite de jeux de mots sur l'oméga, assimilé à l'œuf philosophique et à l'océan.
+
+1\. L'élément Ω est rond, formé de deux parties : il appartient à la septième zone, celle de Saturne,* dans le langage des êtres corporels ; car dans le langage des incorporels, il y a une autre chose qui ne doit pas être révélée. Nicothée seul (la) sait, lui le personnage caché. Or, dans le langage des êtres corporels, cet élément est appelé l'océan, l'origine et la semence de tous les dieux. Tels les principes fondamentaux du langage des êtres corporels.* Sous le nom de ce grand et admirable élément Ω, on comprend la description des appareils de l'eau divine, celle de tous les fourneaux simples et machinés, de tous, absolument parlant.
+
+*) Saturne occupe le 7e des cercles concentriques ou zones de l'univers, qui ont la terre pour centre commun, dans la classification des astres errants ou planètes ; Saturne correspond aussi à la lettre Ω, dans la concordance des voyelles avec ces astres ; ainsi qu'au plomb, dans la nomenclature des métaux (corps métalliques).
+
+*) Cette multiplicité des langages mystiques, où un même sens s'exprime par des mots divers, tandis qu'un même signe répond à plusieurs sens, se retrouve dans le Papyrus W de Leide, _Introd._, p. 18. La Cabbale repose aussi sur des conventions analogues.
+
+2\. Zosime (s'adressant) à Théosébie, lui explique ceci avec bonne volonté. « (L'exposé des) teintures convenables, ô femme, a fait tourner en ridicule mon livre sur les fourneaux. En effet, beaucoup (d'écrivains), remplis de bienveillance pour leur propre génie, se sont moqués des teintures convenables et ils ont regardé le livre sur les fourneaux et appareils comme n'étant pas conforme à la vérité. Aucun discours ne peut leur persuader ce qui est la vérité, s'il n'est inspiré par leur propre génie. Par un destin fatal, ce qu'ils avaient reçu, ils le tournaient à mal dans leur langage, au détriment de l'art et de leur propre succès, les mêmes mots étant détournés malheureusement dans les deux sens (opposés). C'est avec peine que, contraints par la nécessité des démonstrations, ils accordaient quelque point, même au sujet des choses qu'ils avaient comprises précédemment. Mais de tels auteurs ne doivent être approuvés, ni par Dieu, ni par les philosophes. Car les temps (des opérations) étant désignés dans le dernier détail, et après que le Génie les a favorisés dans l'ordre corporel,* ils refusent d'accorder un autre point, oubliant toutes les choses évidentes qui précèdent. Ils ont dû partout obéir à la destinée, pour les choses déjà dites et pour leurs contraires, sans pouvoir rien imaginer d'autre, relativement aux êtres corporels ; (je dis) rien d'autre que l'ordre fatal de la destinée. Les hommes de cette espèce, Hermès, dans le traité sur les Natures, les appelait des insensés, propres seulement à faire cortège à la destinée, mais incapables de rien comprendre aux choses incorporelles, ni même de concevoir la destinée qui les conduit avec justice. Mais ils font outrage à ses enseignements sur les êtres corporels, et ils se livrent à des imaginations étrangères à leur propre bonheur.
+
+*) C'est-à-dire dans l'opération de la régénération des corps métalliques.
+
+3\. Hermès et Zoroastre ont déclaré que la race des philosophes est supérieure à la destinée. En effet, ils ne jouissent pas du bonheur qui vient de celle-ci. Dominant ses plaisirs, ils ne sont pas atteints par les maux qu'elle cause ; vivant toujours dans leur for intérieur, ils n'acceptent pas les beaux présents qu'elle offre, parce qu'ils en voient la fin malheureuse. C'est pour cette raison qu'Hésiode* nous présente Prométhée donnant des conseils à Epiméthée : « Quel est le bonheur que les hommes jugent le plus grand de tous ? Une belle femme, dit-on, avec beaucoup d'argent. » Il dit qu'il ne reçoit aucun présent de Jupiter Olympien ; mais il les rejette, enseignant à son frère qu'il doit repousser, au nom de la philosophie, les présents de Jupiter, c'est-à-dire les dons de la destinée.
+
+*) _Œuvres et Jours_, vers 86.
+
+4\. Quant à Zoroastre, se glorifiant de la connaissance de toutes les choses supérieures et de celles de la magie, il dit qu'il se détourne du langage des êtres corporels ; que tout ce qui vient de la destinée est mauvais, soit en détail, soit dans l'ensemble. Hermès, toutefois, parlant des choses extérieures, condamne la magie, disant que l'homme spirituel, celui qui se connaît lui-même, ne réussit en rien par la magie, et ne regarde pas comme convenable de violenter la nécessité. Mais il laisse aller (les choses), telles qu'elles vont de nature et d'autorité. Il a pour seul objet de se chercher lui-même, de connaître Dieu, et de dominer la triade innommable. Il laisse la destinée faire ce qu'elle veut, en la laissant agir sur le limon terrestre, c'est-à-dire sur le corps. Il s'exprime ainsi : « Si tu comprends et si tu te conduis convenablement, tu contempleras le fils de Dieu, devenu tout* en faveur des âmes saintes. Pour tirer ton âme du sein de la région (corporelle), régie par la destinée, (et l'amener) vers la (région) incorporelle, vois comme il est devenu tout, (c'est-à-dire à la fois) Dieu, ange, et homme sujet à la souffrance. En effet pouvant tout, il devient tout ce qu'il veut ; il obéit à son père, en pénétrant tout corps, en éclairant l'esprit de chacun ; il s'est élancé dans la région heureuse, là où il était avant d'avoir pris un corps. Tu le suivras, excité et guidé par lui vers cette lumière.
+
+*) Ce mot vague est expliqué deux lignes plus bas.
+
+5\. Regarde le tableau que Cébès a tracé, ainsi que le trois fois grand Platon et le mille fois grand Hermès ; vois comment Toth interprète la première parole hiératique, lui le premier homme, interprète de tous les êtres, et dénominateur de toutes les choses corporelles. Or les Chaldéens, les Parthes, les Mèdes et les Hébreux le nomment Adam : ce qui signifie terre vierge, terre sanglante, terre ignée et terre charnelle.* Ces choses se trouvent dans les bibliothèques des Ptolémées, déposées dans chaque sanctuaire, notamment au Sérapéum ; (elles y ont été mises) lorsque Asenan, l'un des grands prêtres de Jérusalem, envoya Hermès,* qui interpréta toute la Bible hébraïque en grec et en égyptien.
+
+*) Ce texte est mutilé, comme on le voit dans Olympiodore, p. 95, note 5. En effet ce qui est relatif à la terre s'applique à Ève.
+
+*) Le nom d'Hermès reprend ici le sens générique, suivant lequel il était l'auteur de tous les ouvrages égyptiens. Voir Clément d'Alexandrie, cité dans les _Origines de l'Alchimie_, p. 39 et 40. On remarquera que l'origine de la traduction grecque de la Bible se trouve expliquée ici autrement que dans la traduction des Septante.
+
+6\. C'est ainsi que le premier homme est appelé Toth parmi nous, et parmi eux, Adam ; nom donné par la voix des anges. On le désigne symboliquement au moyen des quatre éléments,* qui correspondent aux points cardinaux de la sphère, et en disant qu'il se rapporte au corps.* En effet, la lettre A de son nom désigne l'Orient (Ἀνατολή) et l'Air (Ἀήρ). La lettre D désigne le couchant (Δύσις), qui s'abaisse à cause de sa pesanteur. La lettre M montre le Midi (Μεσημβρία), c'est-à-dire le feu de la cuisson qui produit la maturation des corps, la 4e zone et la zone moyenne.
+
+*) Le même mot signifie lettre et élément.
+
+*) En tant que formé par la réunion des quatre éléments.
+
+Ainsi l'Adam charnel, sous sa forme apparente, est appelé Toth ; mais l'homme spirituel contenu en lui (porte un nom) propre et appellatif. Or nous ignorons jusqu'à présent quel est ce nom propre ; car Nicothée, ce personnage que l'on ne peut trouver, savait seul ces choses. Quant au nom appellatif, c'est celui de φῶς (lumière, feu) : c'est pour cela que les hommes sont appelés φῶτες (mortels).
+
+7\. Lorsqu'il était dans le Paradis sous forme de lumière (φῶς), soumis à l'inspiration de la destinée, ils lui persuadèrent en profitant de son innocence et de son incapacité d'action, de revêtir* le (personnage d') Adam, celui qui (était soumis à) la destinée, celui qui (répond) aux quatre éléments. Lui, à cause de son innocence, ne refusa pas ; et ils se vantaient d'avoir asservi (en lui) l'homme extérieur.
+
+*) Voir plus haut.
+
+C'est dans ce sens qu'Hésiode* a parlé du lien avec lequel Jupiter attacha Prométhée. Ensuite, après ce lien, il lui en envoie un autre, (c'est-à-dire) Pandore, que les Hébreux nomment Eve. Or, Prométhée et Épiméthée, c'est un seul et même homme dans le langage allégorique ; c'est l'âme et le corps. Prométhée est tantôt l'image de l'âme ; tantôt (celle) de l'esprit. C'est aussi l'image de la chair, à cause de la désobéissance d'Épiméthée, commise à l'égard de Prométhée, son propre (frère).
+
+*) Cp. _Théogonie_, vers 521, 618.
+
+Notre intelligence dit : Le fils de Dieu, qui peut tout et qui devient tout lorsqu'il (le) veut, se manifeste comme il veut à chacun. Jésus-Christ s'ajoutait à Adam et (le) ramenait au Paradis, où les mortels vivaient précédemment.
+
+8\. Il apparut aux hommes privés de toute puissance, étant devenu homme (lui-même), sujet à la souffrance et aux coups. (Cependant), ayant secrètement dépouillé son propre caractère mortel, il n'éprouvait (en réalité) aucune souffrance ; et il avait semblé fouler aux pieds la mort, et la repousser, pour le présent et jusqu'à la fin du monde : tout cela en secret. Ainsi dépouillé des apparences, il conseillait aux siens d'échanger aussi secrètement leur esprit avec celui de l'Adam qu'ils avaient en eux, de le battre et de le mettre à mort, cet homme aveugle étant amené à rivaliser avec l'homme spirituel et lumineux : c'est ainsi qu'ils tuent leur propre Adam.*
+
+*) Ce passage, ainsi que ceux qui précèdent doivent être rapprochés des doctrines des docètes et de celles de certains gnostiques. (Cp. Renan, _Histoire des Origines du Christianisme_, t. 5, p. 421, 458, 525, etc.)
+
+9\. Ces choses se font jusqu'à ce que vienne le démon _Antimimos_* ; jaloux d'eux et voulant les induire de nouveau en erreur, il se dit lui-même fils de Dieu ; bien qu'étant sans forme (originale),* ni d'âme ni de corps. Mais devenus plus sensés, par suite de la prise de possession de celui qui est réellement fils de Dieu, ils lui abandonnent leur propre Adam ; immolant leurs esprits mortels, ils demeurent sauvés, dans le lieu particulier où ils se trouvaient avant (la création du) monde. Ainsi, avant d'accomplir ces choses, il envoie d'abord l'Antimimos, le rival, son précurseur, sorti de la Perse, lequel tient des discours pleins d'erreurs et de fables, et dirige les hommes suivant la destinée. Or les éléments de son nom sont au nombre de neuf, la diphtongue étant conservée,* suivant le but que se propose la destinée. Ensuite, après sept périodes, plus ou moins, il viendra aussi lui-même, en vertu de sa nature propre.
+
+*) Contrefacteur. --- Son intervention rappelle le manichéisme et les doctrines persanes sur les deux principes.
+
+*) Comme son nom l'indique.
+
+*) S'agit-il d'il d'εἱμαρμένη, qui a 9 lettres et une diphtongue ; ou bien du génitif ἀντιμίμου, qui satisfait aux mêmes conditions ; ou bien encore de φαοσφόρος, Lucifer ?
+
+10\. Ces choses sont dites seulement par les Hébreux, ainsi que par les livres sacrés d'Hermès sur l'homme lumineux et sur le fils de Dieu, son guide ; sur l'Adam terrestre et sur Antimimos son guide, qui se dit, par blasphème et erreur le fils de Dieu. Or les Grecs appellent l'Adam terrestre Épiméthée : ce qui veut dire conseillé par son esprit particulier, c'est-à-dire par son frère, qui lui disait de ne pas accepter les dons de Jupiter. Toutefois, s'étant abusé et repenti, et ayant cherché la région heureuse, il explique tout, et il conseille en tout ceux qui ont un entendement spirituel. Mais ceux qui n'ont qu'un entendement corporel, appartiennent à la destinée ; ils n'admettent ou ne confessent rien d'autre.
+
+11\. Tous ceux qui (font des teintures) convenables et réussissent (par hasard) ne disent pas autre chose ; ils persiflent l'art exposé dans le grand livre sur les fourneaux, et ils ne comprennent pas non plus le Poète lorsqu'il dit :
+
+« Mais les Dieux n'avaient pas encore donné en même temps aux hommes ... etc. »
+
+Ils ne réfléchissent à rien et ne voient pas les divers genres de vie des hommes : comme quoi les hommes réussissent différemment dans un seul (et même) art ; comment ils opèrent différemment dans un seul (et même) art ; comment ils pratiquent un seul (et même) art, au moyen des caractères et des figures diverses des astres ( ? ). Ils ne voient pas que tel artisan est paresseux ( ? ), tel artisan isolé ; tel autre dégénère, tel devient pire, tel ne progresse pas. Il arrive aussi que l'on rencontre dans tous les arts des gens qui travaillent un même art avec des outils et des procédés différents, et qui ont à un degré différent l'intelligence et la réussite.
+
+12\. Parmi tous les arts, c'est surtout dans l'art sacré qu'il convient de considérer ces choses. Par exemple, après une fracture, si le patient rencontre un prêtre (habile, celui-ci agissant de sa propre inspiration,* réunit les fragments, de telle sorte que l'on entend le craquement des os qui se rejoignent. Si l'on ne trouve pas un tel prêtre, que le blessé cependant ne craigne pas de mourir, mais que l'en amène des médecins avec leurs livres, pourvus de dessins et de figures ombrées. Etant pansé conformément aux lignes des figures du livre, le blessé est entouré de liens mécaniquement et il continue à vivre, après avoir repris la santé. Nulle part l'homme ne se résigne à mourir, faute de trouver un prêtre qui réunisse les fractures.
+
+*) C'est la pratique du prêtre rebouteur, envisagée comme supérieure à la science écrite du médecin.
+
+Au contraire, ceux-ci, les malheureux (ignorants), se laissent mourir de faim, plutôt que d'apprendre à connaître et à pratiquer la description des fourneaux, telle qu'elle est tracée : c'est par là que, devenus bienheureux, ils triompheraient de la pauvreté, cette maladie incurable. En voilà assez sur ce chapitre.
+
+13\. Quant à moi j'arrive à mon sujet, qui concerne les fourneaux. Ayant reçu les lettres que tu as écrites, j'ai vu que tu m'invites à rédiger pour toi la description des appareils. J'ai été surpris de voir que tu écrives pour obtenir de moi la connaissance des choses qui ne doivent pas être connues ; n'as-tu pas entendu le Philosophe ; lorsqu'il dit : « Ces choses, je les ai passées volontairement sous silence, parce qu'elles sont décrites amplement dans mes autres écrits ? » Cependant tu as voulu les apprendre de moi ; ne crois pas du reste que mon écrit soit plus digne de foi que celui des anciens, et sache que je ne pourrais pas (les surpasser). Mais, afin que nous entendions tout ce qui a été dit par eux, je vais t'exposer ce que je sais. Voici ce que c'est.
+
+14\. Récipient de verre, tube de terre cuite de la longueur d'une coudée. Matras ou vase à étroite embouchure, dont le goulot est proportionné à la grosseur du tube. Voici le modèle.* Il faut avoir une coupe d'eau et mouiller le vase avec une éponge. Pour les vapeurs sublimées, ainsi que pour le mercure, c'est le même vase.
+
+*) Il répond à la figure 16 de la p. 140 de l'_Introd_. Ce passage reproduit la fin du second alinéa du § 2 de la p. 216, avec des variantes considérables.
+
+On peut fixer le mercure dans le phanos (vase) et dans des appareils semblables, ayant un récipient de forme serpentine. On jaunit (le mercure) par la vapeur du soufre ; c'est là ce que conseillent les anciens écrits, le phanos ne contenant pas le soufre.* Tu seras surpris, au sujet de cet écrit, de ce que deux mystères manifestes y ont été cachés. D'abord ne cherchons-nous pas comment la vapeur du soufre, qui blanchit (les métaux), rend (cependant) le mercure jaune, ni comment cela arrive lorsqu'il est brûlé ? Et en outre, comment ce mercure, étant blanc en puissance et en fait, devient jaune lorsqu'il est brûlé et fixé par une substance blanche ?
+
+*) Les Ms. indiquent le plomb, sans doute par suite d'une confusion de signes.
+
+15\. Il fallait donc que les modernes cherchassent avant tout ces choses. Quant à l'autre mystère, je pense que (le mercure) n'est pas fixé seul, mais avec toute la composition. Maintenant les appareils dans lesquels on exécute aussi la (fabrication de l'eau) de soufre natif, la fixation du mercure, l'arrosage des mélanges et leur teinture sont ceux-ci.
+
+(Suit la formule de l'Écrevisse, _Introd._, p. 152.)
+
+16\. L'ios qui provient du cuivre sans ombre, étant jauni, est soumis à l'action de la sublimation ; puis on le dépose dans du miel blanc.
+
+17\. La masse molle, jaunie par notre cuivre, agit en son lieu et place, mais moins fortement que ... : tout cela se trouve chez Agathodémon.
+
+18\. La masse molle obtenue avec les petites scories, mettez-la dans le phanos (vase) et fixez avec la vapeur des soufres volatilisés, afin qu'elle devienne comme du cinabre. Ensuite mettez-la dans des bocaux ou dans des coupes, étalez et employez comme ci-dessus.
+
+Signes de : Ciel ; soleil (ou or). Terre, ciel.*
+
+*) Dans B ces signes sont répétés au-dessus des mots : « toutes les espèces. »
+
+19\. Comme on le voit, toutes les espèces (provenant) des vapeurs, ont été mélangées par Agathodémon : telles sont la chrysocolle, la (pierre) étésienne, la fleur d'or et en général toutes celles qui servent dans la teinture de l'argent, ainsi que le comporte sa dernière classe. Or il emploie les vapeurs, afin d'éviter que l'argent se réduise en scorie, ou qu'il ne cède sa substance aux corps épais et terreux, susceptibles d'être calcinés et torréfiés.
+
+---
+
+#### 3\. --- 50. Sur le Tribicos et le Tube.
+
+1\. Je vais te décrire le tribicos. On appelle ainsi la construction en cuivre transmise traditionnellement par Marie.* Voici en quels termes : Fabrique, dit-elle, trois tubes de cuivre laminé et aminci, d'une épaisseur dont voici la mesure : ce sera à peu près celle d'une poêle en airain, à faire cuire les gâteaux ; la longueur sera d'une coudée et demie. Fabrique donc trois tubes dans ces conditions, et fabrique aussi un (gros) tube, ayant environ une palme de diamètre et une ouverture proportionnée à celle du vase de cuivre.* Les trois tubes auront une embouchure adaptée au col du petit récipient, au moyen d'une clavette, par le tube du pouce* ; afin que les deux tubes de l'index s'adaptent latéralement aux deux mains.* Vers l'extrémité du vase de cuivre, existent trois orifices, ajustés aux tubes et bien raccordés. On les soude d'une façon excentrique au récipient supérieur, destiné à recevoir la partie volatile. On place le vase de cuivre au-dessus du matras en terre cuite qui contient le soufre. Après avoir luté les jointures avec de la pâte de farine, adapte aux extrémités des tubes des récipients en verre, grands et forts, afin qu'ils ne cassent pas en raison de la chaleur de l'eau qui entraîne la matière distillée. Voici la figure : Tube de l'index.*
+
+*) Voir l'article précédent, p. 217, § 5. --- Il y a ici des variantes considérables.
+
+*) Ici χαλκεῖον paraît signifier chapiteau (voir la note 1 de la p. 218).
+
+*) Cp., la note 2 de la p. 218.
+
+*) C'est-à-dire aux deux récipients correspondants.
+
+*) Ceci désigne la figure 15 de la p. 139 de l'_Introd._
+
+Le § 2 est la reproduction du premier alinéa du § 2 de l'article 3, 47, p. 216.
+
+Le § 3 reproduit le § 4 du même article (p. 217), mais avec des variantes très importantes que l'on va donner.
+
+3\. J'ai ri en écoutant ce qui est relatif aux diverses classes de ces appareils. Car tu dis : Pour chaque opération, que le matras contienne une mine de soufre apyre. Et je t'ai admirée aussi en ceci que, ne supportant pas le reproche, tu aies prétendu écrire de pareilles choses. De plus tu en es venue à critiquer le Philosophe, parce qu'il a osé dire : « Ces choses je les ai passées sous silence, attendu qu'elles sont déjà exposées avec grands détails dans les écrits des autres ... (Lute) avec du suif, ou de la cire, ou de la terre grasse, ou avec ce que tu voudras, et, après avoir calciné, enlève. » Or voici la figure qui se trouve dans les écrits.
+
+Insistant dans un sentiment d'envie indomptable, tu critiques vainement le Philosophe ; car tu n'as pas compris ce qu'il dit. Il ne veut pas parler, comme dans les commentaires précédents, de la fabrication des eaux, mais de leur distillation ; car autre chose est la fabrication, autre chose la distillation. Il a dit qu'on n'écrivait rien en détail sur leur mercure ; nul d'entre eux n'en exposait la fabrication ; car c'était là le mystère caché. C'est une chose celée avec soin. La distillation a donc lieu au moyen de ces appareils, ou d'autres similaires, imaginés par les gens intelligents ; tels sont ceux qui ont étudié auparavant les Pneumatiques d'Archimède, ou d'Héron et d'autres auteurs, ainsi que leurs écrits relatifs à la mécanique.
+
+4\. _Sur d'autres fourneaux_. --- Comme la suite de notre discours a pour sujet les fourneaux et la teinture, je ne veux pas te répéter ce qui se trouve dans les écrits des autres. En effet, chez Marie, la description du fourneau présentée ici ne figure pas. Le Philosophe n'en a pas fait mention, mais seulement des prismes et des autres (appareils) dont j'ai parlé en passant, dans le commentaire sur les règles du feu.* Afin qu'il ne puisse rien manquer à tes écrits, parles-y du fourneau de Marie, celui dont Agathodémon a fait mention, en ces termes : « Or voici la description de la classe des kérotakis destinées au soufre mis en suspension. Prenant une coupe, fais (y) des divisions, c'est-à-dire fais avec une pierre une entaille centrale et circulaire dans le fond de la coupe, afin d'y engager à la partie inférieure une saucière de dimension correspondante.* Dispose un vase mince de terre cuite, ajusté et suspendu à la coupe, retenu par elle dans sa partie supérieure ; et s'avançant vers la kérotakis de fer. Dispose la feuille (métallique) que tu voudras, conformément à l'écrit, au-dessus du vase et au-dessous de la kérotakis, en même temps que la coupe, de telle façon que tu puisses voir à l'intérieur. Après avoir luté les jointures, fais cuire autant d'heures que le dit notre rédaction. Voilà pour le soufre en suspension. Pour l'arsenic en suspension, on opère semblablement. Pratique un petit trou d'aiguille au centre du vase.
+
+*) Cp. page 216.
+
+*) Figure 25 de la page 149 et figure 22 de la page 146 de l'_Introduction_.
+
+5\. Autre coupe de verre placée au-dessous. Le vase de terre cuite sera de dimension telle qu'il s'ajuste aux parties arrondies et conforme à ces parties.*
+
+*) Figures 24 et 24 _bis_ de la page 48 de l'_Introduction_.
+
+6\. C'est le fourneau en forme de four, dit Marie, ayant à la partie supérieure trois trous (suçoirs), destinés à arrêter (les gros morceaux) et à évacuer (les parties fondues).* Fais chauffer progressivement, en brûlant des roseaux grecs pendant deux ou trois jours et autant de nuits, selon ce que comporte la teinture, et laisse torréfier complètement dans le fourneau. Puis fais descendre pendant tout un jour de l'asphalte, en y ajoutant ce que tu sais, plus du cuivre blanc ou jaune. Or (cela) peut se faire ainsi : l'appareil en forme de crible blanchit, jaunit, produit de l'ios. Cuis légèrement, comme pour produire du fard, la teinture des mélanges et tout ce que tu pourras imaginer. Telle est la fabrication.
+
+*) Ce sont les figures 20 et 21, page 143 de l'_Introduction_.
+
+---
+
+#### 3\. --- 51. Le Premier Livre du Compte Final de Zosime le Thébain.
+
+1\. Ici, se trouve confirmé le livre de la Vérité.
+
+Zosime à Théosébie, salut !
+
+Tout le royaume d'Égypte,* ô Femme, dépend de ces deux arts, celui des (teintures) convenables et celui des minerais. L'art appelé divin, soit dans ses parties dogmatiques et philosophiques, soit dans la plupart des questions de moindre portée, a été confié à ses gardiens pour leur subsistance. Il en est ainsi non seulement pour cet art, mais encore pour les quatre arts appelés libéraux et pour les arts manuels. Leur puissance créatrice appartient aux rois. S'ils le permettent, celui-là l'expose de vive voix, ou l'interprète d'après les stèles, qui en a reçu la connaissance comme héritage de ses aïeux. Mais celui qui possédait la connaissance de ces choses ne fabriquait pas (pour lui-même), car il eût été puni ; de même que les artisans qui savent frapper la monnaie royale n'ont pas le droit de la frapper pour eux-mêmes, sous peine de châtiment. De même aussi, sous les rois Égyptiens, les artisans de l'art de la cuisson et ceux qui possédaient la connaissance des procédés n'opéraient pas pour eux-mêmes ; mais ils opéraient pour les rois d'Égypte, et travaillaient en vue de leurs trésors. Ils avaient des chefs particuliers placés à leur tête, et grande était la tyrannie exercée dans l'art de la cuisson, non seulement en elle-même, mais aussi en ce qui touche les mines d'or. Car en ce qui touche la fouille, c'était une règle, chez les Égyptiens, qu'il fallait une autorisation écrite.
+
+*) Cp. p. 203 et Olympiodore, p. 97. --- Le texte actuel offre des variantes notables.
+
+2\. Quelques-uns reprochent à Démocrite et aux anciens ... (La suite comme à la page 98, jusqu'à la fin du paragraphe.)
+
+3\. ... Quant aux teintures convenables, personne ni parmi les Juifs, ni parmi les Grecs, ne les a jamais exposées. En effet, ils les plaçaient dans les images, formées avec leurs propres couleurs et destinées à les conserver. Les opérations faites sur les minéraux diffèrent beaucoup des teintures convenables. Ils étaient très jaloux de la divulgation de l'art lui-même ; et ne laissaient pas le manipulateur sans punition. Celui qui fait une fouille sans autorisation, peut être précipité (et mis à mort) par les surveillants des marchés de la ville, chargés du recouvrement des impôts royaux. De même il n'était pas permis de mettre en œuvre secrètement les fourneaux, ou de fabriquer en secret les teintures convenables. Aussi tu ne trouveras personne parmi les anciens qui révèle ce qui est caché, et qui expose quelque chose de clair à cet égard. Je n'ai rencontré que Démocrite seul, parmi les anciens, qui ait fait entendre clairement quelque chose à cet égard, dans les énumérations de ses catalogues.
+
+En effet, voici comment il débute, dans le préambule de sa composition sur les arts libéraux : ici observe sa malice. Il parlait seulement, au début, du mercure et du corps de la magnésie. Or les autres (substances) sont toutes de la classe des teintures convenables. Il s'exprime ainsi : « Ocre attique, minium du Pont, soufre natif : on en prend une livre ; pierre phrygienne, sori jaune, couperose sèche, cinabre, misy cuit, misy cru. Tu fabriqueras l'androdamas, le soufre, l'arsenic, la sandaraque. Pour ne pas énumérer tout ce qui est dans les quatre catalogues, tu trouveras toutes les substances propres aux (teintures) et pour que tu exécutes ce qu'il fait entendre la dessus, il a énuméré les (substances) crues et les (substances) cuites, qui répondent aux deux arts. Il parle de préférence des teintures parmi les choses convenables. Lorsqu'il dit : misy cru, misy cuit, son jaune, couperose sèche et autres similaires ; il parle des (substances) qui ont subi un certain traitement, en s'attachant aux arts libéraux. Mais pourquoi ne parle-t-il pas de toutes ces substances, après qu'elles ont été traitées et jaunies, telles que le mercure jaune et le corps (de la magnésie) jaune, et généralement tout le catalogue jaune ?
+
+4\. Vois comment ce qu'il pensait et ce qu'il écrivait était présenté sous forme énigmatique ; il voulait tout faire entendre par énigmes. Les témoignages les plus dignes de foi qu'il ait trouvés sur ces choses, il les a fait entendre par énigmes. Comment se fait-il que sachant qu'il n'y a qu'une teinture et qu'une marche, il représentait celles-ci comme multiples, disant : « Parmi ces natures, il n'en est pas de meilleure pour les teintures ... ; » afin de montrer que les mêmes espèces peuvent servir à composer convenablement plusieurs teintures, la proportion variant suivant la quantité des espèces (destinées aux teintures [ ? ]) depuis une seule jusqu'au nombre de cinquante et une. En même temps, il parle de l'opération naturelle, c'est-à-dire de la matière de la fabrication de l'or, et il met en évidence les teintures naturelles. Il dit encore : « Je vous ai engagés dans un grand travail, si quelques-uns ayant opéré avec une quantité considérable de matière, venaient à échouer dans la fabrication des produits naturels. »
+
+Au temps d'Hermès, on appelait teintures naturelles celles qui devaient être inscrites (plus tard) sous un titre commun, dans son ouvrage intitulé : _Livre des Teintures naturelles_, dédié à Isidore.* Lorsqu'elles avaient réussi avec les objets de cuivre, elles devenaient et étaient dites convenables. Au surplus, on reproche aux anciens et surtout à Hermès, de ne les avoir exposées, ni publiquement, ni en secret, et de ne pas avoir fait entendre ce que c'est.
+
+*) Synonyme : Pétésis.
+
+5\. Seul, Démocrite l'a exposé dans son ouvrage et l'a fait entendre. Mais eux, ils ont gravé ces procédés sur les stèles dans l'ombre des sanctuaires, en caractères symboliques ; ils y ont gravé ces procédés et la chorographie de l'Égypte* ; de telle sorte que, si quelqu'un osait affronter les ténèbres du sanctuaire pour obtenir la connaissance d'une façon illicite, il ne réussît pas à comprendre les caractères, malgré son audace et sa peine.* Mais les Juifs, ayant été initiés, ont transmis ces procédés convenables, qui leur avaient été confiés. Voici ce qu'ils conseillent dans leurs traités : « Si tu découvres nos trésors, abandonne l'or à ceux qui veulent se détruire eux-mêmes. Après avoir trouvé les caractères qui décrivent ces choses, tu réuniras toutes ces richesses en peu (de temps) ; mais si tu te bornes à prendre ces richesses, tu te détruiras toi-même, par suite de l'envie des rois qui gouvernent et de celle de tous les hommes.* »
+
+*) Voir le texte de Clément d'Alexandrie, _Origines de l'Alchimie_, p. 41.
+
+*) Note de A. « Il faut pénétrer le sens spirituel du caractère, et éviter les opinions tirées des paroles charnelles. » --- On voit à quelles imaginations donnaient lieu les vieux textes hiéroglyphiques que l'on ne comprenait plus (Cp. _Introduction_, p. 135).
+
+*) Note de A. « Il y a beaucoup de livres relatifs à la chimie. Les uns parlent des teintures naturelles ; les autres, des surnaturelles : les deux ordres de livres sont mensonge et vérité dissimulée. »
+
+6\. Il y avait deux genres de (teintures) convenables, dans les toiles teintes,* qu'ils présentaient à leurs prêtres ; voici pourquoi elles étaient appelées convenables,* c'est parce qu'ils opéraient au moment voulu les teintures, à la volonté de ceux qui (les) attendaient ; mais pour ceux qui ne le demandaient pas, ils opéraient autrement. Les (teintures) convenables étaient obtenues par le mélange des espèces tinctoriales, en opérant avec les espèces pures. Les unes appartiennent à ces arts précieux ; quant à l'autre genre de teintures pures et naturelles, voici l'interprétation que Hermès grava sur les stèles : « Fais fondre seulement la matière jaune verdâtre, la matière jaune, la noire, la verte et les similaires. » Ils appelaient ces terres, en langage mystique, des minerais. Hermès indique aussi les espèces de couleurs : « Celles-ci agissent naturellement ; mais elles sont surpassées par les produits supra-terrestres. Or si quelque initié s'en débarrasse, il obtiendra ce qu'il cherche. »
+
+*) La teinture des étoffes est ici assimilée à celle des métaux (voir _Origines de l'Alchimie_, p. 242 et suiv.).
+
+*) Ou opportunes.
+
+7\. Ceux qui apportaient (les couleurs fabriquées) par voie surnaturelle ( ? ), étant ainsi mis de côté, conseillaient aux gens considérables d'agir contre nous tous, savants, opérant par des actions naturelles. Ils ne voulaient pas être mis de côté par les hommes,* mais être suppliés et adjurés de céder ce qu'ils avaient fabriqué, en retour des offrandes et des sacrifices. Ils tinrent donc cachés tous les procédés naturels, ceux qui donnent les résultats sans artifice. Ce n'était pas seulement par jalousie contre nous, mais parce qu'ils étaient soucieux de leur existence et ne voulaient pas s'exposer à être battus de verges, chassés, et à mourir de faim, en cessant de recevoir les offrandes des sacrifices. Ils opérèrent ainsi : Ils cachèrent les procédés naturels et mirent en avant les leurs, qui étaient d'ordre surnaturel* ; ils exposèrent à leurs prêtres que les gens du peuple négligeraient les sacrifices, s'ils n'avaient plus recours aux procédés surnaturels, pour s'adresser à ceux qui possédaient cette prétendue connaissance des alliages vulgaires, cet art de fabriquer les eaux et de faire les lavages. C'est ainsi que, par l'effet de la coutume, de la loi et de la crainte, leurs sacrifices étaient très suivis. Ils n'accomplissaient même plus leurs annonces mensongères. Lorsque leurs sanctuaires venaient à être désertés et leurs sacrifices négligés, ils obtenaient encore des hommes restés (auprès d'eux), qu'ils s'adonnassent aux sacrifices, en les flattant par des songes* et d'autres tromperies, ainsi que par certains conseils. Ils revenaient sans cesse à ces promesses mensongères et surnaturelles, pour complaire aux hommes amis du plaisir, misérables et ignorants. Toi aussi, ô femme, ils veulent te gagner à leur cause, par l'intermédiaire de leur faux prophète ; ils te flattent ; étant affamés, (ils convoitent) non seulement les sacrifices, mais encore ton âme.*
+
+*) Comme imposteurs.
+
+*) Ce curieux passage accuse la rivalité des opérateurs procédant par la magie et avec charlatanisme, contre ceux qui opéraient par la science seule et qui leur enlevaient leur clientèle.
+
+*) Les Papyrus de Leide renferment diverses formules pour procurer des songes et artifices magiques, à côté des procédés chimiques (voir _Introd_, p. 13).
+
+*) Ce paragraphe montre le caractère des polémiques entre Zosime et ses rivaux, polémiques dont nous avons la trace en plus d'un point de ses écrits. Cp. p. 186 et 187.
+
+8\. Toi donc, ne te laisses pas séduire, ô femme, ainsi que je te l'ai expliqué dans le livre concernant l'Action. Ne te mets pas à divaguer en cherchant Dieu ; mais reste assise à ton foyer, et Dieu viendra à toi, lui qui est partout ; il n'est pas confiné dans le lieu le plus bas, comme les démons.* Repose ton corps, calme tes passions, résiste au désir, au plaisir, à la colère, au chagrin et aux douze fatalités de la mort. En te dirigeant ainsi, tu appelleras à toi l'être divin, et l'être divin viendra à toi, lui qui est partout et nulle part. Sans être appelée, offre des sacrifices : non pas les (sacrifices) avantageux pour ces hommes, et destinés à les nourrir et à leur complaire ; mais des (sacrifices) qui les éloignent et les détruisent, tels que ceux qu'a préconisés Membrès, s'adressant à Salomon, roi de Jérusalem, et principalement tels que ceux qu'a décrits Salomon lui-même, d'après sa propre sagesse. En opérant ainsi, tu obtiendras les teintures convenables, authentiques et naturelles. Fais ces choses jusqu'à ce que tu sois devenue parfaite dans ton âme. Mais, lorsque tu reconnaîtras que tu es arrivée à la perfection, alors redoute (l'intervention) des éléments naturels de la matière : descendant vers le Pasteur, et te plongeant dans la méditation, remonte ainsi à ton origine.
+
+*) Cp. Olympiodore, p. 90.
+
+9\. Quant à moi, je viendrai au secours de ton insuffisance ; mais réfléchis et rappelle-toi la chose cherchée : il faut qu'elle n'éprouve pas d'amoindrissement, mais qu'elle suive ses degrés réguliers.
+
+Écoute-le, quand il dit un peu plus loin : un seul produit existe, en lequel doivent se réunir deux œufs* ; les composants sont divers ; l'un est humide et froid, l'autre sec et froid, et les deux produisent une œuvre unique. Il faut entendre ici les deux couleurs de l'œuf et admirer les changements de couleurs qui proviennent de l'œuf, ainsi que ceux qui précèdent, et toutes les générations de couleurs ; comme quoi elles indiquent l'expulsion de la matière (étrangère) ; après d'autres phénomènes, on peut les observer ; mais elles ne reparaissent pas (dans un état) semblable. Pourquoi (faut-il expliquer tout cela)* ? N'est-ce pas parce qu'ils le cachent par jalousie ? Ils ne veulent pas que personne puisse comprendre et trouver par leur secours la voie des teintures favorables. Quelqu'un dira qu'il ne s'agit pas seulement du changement des noms, mais encore de tout l'art, qui n'est pas exposé (par tout le monde) d'une façon semblable ; il l'est tantôt d'une façon, tantôt de la façon contraire. Tout cela est nouveau, dis-je ; les artisans le savent, eux qui voient les causes des fautes commises ; ils savent que nous avons produit telle chose, plutôt que telle autre ; que nous avons négligé telle chose, et que nous avons fait telle autre chose avec plus de paresse.
+
+*) Dans ce passage, le mot œuf est pris dans un sens mystique, comme désignant le produit d'une opération chimique. Cp. p. 18 et 19.
+
+*) Note de A. « (Ainsi parle) les capable de comprendre, d'une manière droite et saine. »
+
+10\. Quant à moi, je reviendrai à mon propos. Il y a deux marches de teintures convenables, selon qu'on opère sur les espèces crues ou cuites. Le procédé de la cuisson est affranchi d'une grande fatigue ; il a besoin d'une grande adresse et il est plus court, comme l'a dit la divine Marie. Pour ce procédé de cuisson, il y a de nombreuses variétés de liquides et de feux. Tantôt on cuit avec de l'eau, tantôt avec du vin. (Parmi les feux), les uns sont obtenus avec des charbons et soutenus pendant tout le temps ; dans les autres on procède par insufflation, suivant une certaine mesure. Dans d'autres on emploie des broussailles ; dans d'autres, des fourneaux, et dans d'autres des chiffons ; ou bien l'on opère par d'autres voies : par tous ces moyens on obtient beaucoup de choses diverses. Ainsi, par exemple, pour le noir : suivant la diversité des œufs,* on peut avoir le noir des corbeaux, le noir des corneilles, le noir très foncé, la couleur gris cendré sur les toiles peintes. On y dessine aussi* des arbres, ou des pierres, ou de l'eau, ou des animaux, tous semblablement. Quant aux autres couleurs susdites, tu en as les démonstrations comprises sous la lettre K.* Il faut tenir compte de la proportion des couleurs ; si tu entends parler de l'ocre jaune, ne suppose pas simplement que j'aie changé la préparation et que je tienne un langage mystérieux, dans le seul but de créer des difficultés ; car dans l'art, toutes les préparations (indiquées pour notre) recherche réussissent.
+
+*) Voir la note 1 de la page précédente.
+
+*) Sur les étoffes peintes ?
+
+*) Un peu plus loin Zosime vise la section Ω (voir aussi p. 221).  
+Suidas rapporte que Zosime avait écrit un livre sur la chimie adressé à sa sœur Théosébie, divisé en sections désignées par les lettres de l'alphabet grec.
+
+11\. Ces teintures ont une nature propre. Elles résultent de la décomposition de produits tantôt nombreux, tantôt en petit nombre ; elles sont fabriquées dans de petits fourneaux, avec des vases de verre, ou bien dans des creusets grands et petits : on opère ainsi dans différents appareils, au moyen de feux diversement réglés. L'épreuve manifeste la bonté des produits obtenus en suivant ces divers perfectionnements. Voici que tu as les démonstrations des feux dans la lettre Ω, ainsi que celles de toutes les choses cherchées. Tel sera mon commencement, ô femme à la robe de pourpre.
+
+---
+
+#### 3\. --- 52. Interprétation sur Toutes Choses en Général et (Notamment) sur les Feux.
+
+1\. Veille à ne pas t'égarer et à jaunir non seulement le plomb et le cuivre, mais encore les espèces métalliques appelées liqueur d'or, or massif [etc.],* lesquelles sont au nombre de 78, plus ou moins. J'ai dit 78, plus ou moins, suivant que l'on emploie (ou non) le mercure. Or il faut connaître l'épreuve et la vertu des préparations, ainsi qu'il le rappelle en parlant des feux ; il faut faire cuire, en introduisant du fer. En effet, les uns faisaient cuire une demi-heure seulement ; d'autres une heure, d'autres deux, d'autres trois, et quelques-uns même quatre.
+
+*) Ou la matière dorée.
+
+2\. Tout l'art consiste dans les feux légers* ; fais cuire les couleurs et laisse (sur le feu) jusqu'à refroidissement ; regarde dans les (vases) de verre ce qui se passe. De cette façon, (la matière) jaunit par le délaiement et par la décoction. C'est là l'eau divine, l'eau aux deux couleurs, blanche et jaune ; on lui a donné mille dénominations.
+
+*) Cette phrase est restée, comme la seule trace du morceau tout entier, dans M (voir _Introd._, p. 185).
+
+3\. Sans l'eau divine, il n'y a rien : toute la composition s'accomplit par elle ; c'est par elle qu'elle est cuite ; c'est par elle qu'elle est calcinée ; c'est par elle qu'elle est fixée ; c'est par elle qu'elle est jaunie ; c'est par elle qu'elle est décomposée ; c'est par elle qu'elle est teinte ; c'est par elle qu'elle subit l'iosis et l'affinage ; c'est par elle qu'elle est mise en décoction. En effet, il dit : « En employant l'eau du soufre natif et un peu de gomme, tu teindras toute sorte de corps. Toutes les choses qui tirent leur origine de l'eau sont incompatibles avec celles qui proviennent du feu ; de telle sorte que, sans le catalogue de tous les liquides, il n'y a rien de sûr. »
+
+4\. Quelques-uns, tous peut-être, ont rappelé qu'il faut que cette eau, destinée à agir comme ferment, détruise le semblable par le semblable, en opérant sur le corps que l'on veut teindre, soit en argent, soit en or. Si tu veux teindre l'argent, fais réagir des feuilles d'argent ; si c'est l'or, des feuilles d'or. Car Démocrite (dit) : « Projette l'eau (divine) sur l'or commun, et tu donneras une teinte parfaite d'or. Une seule liqueur est reconnue comme agissant sur les deux (métaux). » Il faut donc que l'eau divine joue le rôle d'un levain produisant le semblable, soit avec l'argent, soit avec l'or. En effet, de même que le levain du pain, bien qu'en petite quantité, fait lever une grande quantité de pâte ; de même aussi, agit une petite quantité d'or ou d'argent, avec le concours de ce vinaigre.*
+
+*) B « ... de même un peu d'or : la poudre sèche doit faire tout fermenter. »
+
+---
+
+#### 3\. --- 53. La Céruse.
+
+1\. ... puissance ; après l'opération, la céruse est adoucie au moyen de l'eau de pluie et abandonnée à elle-même. Décante l'eau et tu trouves une matière tout à fait blanche. La litharge commune, tirée du plomb, aune puissance merveilleuse quand elle est associée au vinaigre. Le plomb perd ses propriétés métalliques, étant salifié et adouci : cette litharge devient ainsi très blanche et présente tout à fait l'aspect de la céruse.*
+
+*) C'est une fabrication de céruse, au moyen du vinaigre, agissant soit sur le plomb, soit sur la litharge.
+
+J'admire aussi la rubrique (minium) ; (je vois) comment elle jaunit au feu. La sandaraque a aussi une puissance merveilleuse.*
+
+*) On remarquera l'analogie établie entre la formation de la céruse, matière blanche, produite au moyen de la litharge jaune et du minium rouge, et la métamorphose de la sandaraque (réalgar) rouge, en acide arsénieux blanc. Dans d'autres passages, l'acide arsénieux est même désigné par le nom de céruse.
+
+---
+
+#### 3\. --- 54. Sur le Blanchiment.
+
+1\. Je veux que vous sachiez que le point capital en toutes choses, c'est le blanchiment ; aussitôt après le blanchiment, on jaunit : c'est le mystère parfait, c'est-à-dire l'iosis, laquelle s'effectue à son tour au moyen du vinaigre, agent des puissances divines. Je vous révélerai d'abord le chapitre de l'huile sulfureuse ; et je vous exposerai comment on opère les blanchiments des plombs, et quelle est l'origine de l'esprit tinctorial. Car sans les plombs on ne peut pas accomplir l'œuvre : le plomb sert à éprouver toute substance.* C'est ce que le Philosophe a décrit merveilleusement par un exposé indirect, en disant : « Si les substances ont subi l'action des agents qui servent à l'épreuve, (la) nature du produit est indélébile.* »
+
+*) Par la coupellation ?
+
+*) En d'autres termes : quand le plomb est intervenu dans la transmutation, le métal transformé résiste ensuite aux essais d'analyse faits au moyen de ce métal.
+
+2\. Je veux que vous sachiez d'abord que l'épreuve définitive se fait avec le vinaigre. En second lieu, c'est l'épreuve par le plomb dont le Philosophe a parlé dans son second chapitre, (en disant) : « Si les substances ont subi l'action des agents qui servent à l'épreuve, la nature du produit est indélébile. »
+
+---
+
+#### 3\. --- 55. Explication sur les Feux.
+
+1\. Je vous expliquerai, avec tous les prophètes, la puissance des feux, afin que votre travail soit parfait et conforme aux traditions, de façon à ne pas échouer. En effet, le Philosophe exposait, en parlant des feux, comment l'unité de l'espèce est transformée par un feu excessif ; car l'excès des feux est contraire à toute l'opération. Pour les choses auxquelles vous êtes exercés préalablement, je vous transmets les préceptes suivants : Si les matières sulfureuses sont cuites dans des vases de verre, il est nécessaire d'employer les feux dont se servent les peintres avec la kérotakis. Il est nécessaire que le vase de verre soit garni d'un lut céramique, de l'épaisseur d'un demi-doigt ; afin que le vase ne casse pas sous l'influence de la chaleur. Voici la proportion convenable pour les feux : Si tu dois faire cuire légèrement les (matières), en les poussant vers le jaune, il est nécessaire d'employer les feux modérés, tels que ceux usités dans le fourneau à fusion des figures en couleur. Lorsque tu veux opérer de façon à amener le produit au jaune, laisse dans le fourneau pendant six heures ; je parle de la durée moyenne ; cela suffit : les feux amènent ainsi le produit au jaune.
+
+---
+
+#### 3\. --- 55. Sur les Vapeurs.
+
+1\. On les appelle vapeurs sublimées, à cause de ce fait que les substances sont élevées de bas en haut, au-dessus des cendres, vers la partie supérieure, comme il est exposé dans le traitement des eaux. Ainsi on les appelle vapeurs sublimées, à cause de ce fait qu'elles montent du bas vers le sommet de l'appareil, et nous avons exposé comment on opère l'aspiration de ces vapeurs ou de ces gouttes condensées.
+
+On enlève les scories de la marmite, on les délaie et on projette sur elles les âmes que l'on en a tirées.* Ces âmes tirées des corps (métalliques), ils les sublimèrent de nouveau au moyen de l'appareil en forme de mamelle, disant que c'était là l'iosis, accomplie par les réactions de longue durée. Ils combinèrent avec les autres vapeurs sublimées ce qu'ils nommaient des corps --- ce que nous appelons un corps métallique --- en opérant avec les soufres, les sulfures (agissant sur) les feuilles de cuivre, ou d'asèm,* ou d'or. C'est de cette façon qu'ils pratiquèrent la teinture avec les matières auxiliaires, sans tenir aucun compte de leur second traitement.
+
+*) C'est-à-dire des vapeurs sublimées : mercure, arsenic, soufre, etc.
+
+*) Ms. A. « d'argent. »
+
+2\. Il a désigné l'eau filtrée (agissant) sur les cendres, en disant : « Dispose l'appareil et apporte les cendres ; la cendre éprouve l'action de l'eau, agissant dans l'appareil. » C'est aussi pour cela qu'Agathodémon (dit) : « La cendre est tout ; c'est sur elle qu'opère la décoction ou la cuisson, ou bien ce que l'on appelle le délaiement. » Ainsi, au moyen de la décomposition, de l'extraction, de l'iosis, de la cuisson modérée, les anciens disaient que le Tout se parfait.
+
+Il est impossible de traiter autrement la fabrication* de la composition. Car ce fait que la décoction et l'extraction sont un délaiement est connu des interprètes de la science. L'iosis, ils la nommèrent décoction ; la décoction et l'extraction, délaiement, destiné à produire une atténuation extrême. En outre ils parlèrent du feu, parce qu'il produit la chaleur, la combustion et la flamme. Les anciens traitaient d'enfantillage et de travail de femme la recherche des simples connaisseurs. Mais nous ne sommes pas obligés pour cette raison d'effectuer l'iosis au moyen du feu, ainsi qu'on opère pour les pierres teintes, ou dans le traitement des liquides pour la pourpre fabriquée à froid. Je dis que l'expérience nous enseignera la vérité ; elle nous conduira à accomplir l'œuvre une et parfaite et à (obtenir) la poudre de projection stable.
+
+*) Au lieu de la fabrication, les manuscrits portent : « la pyrite, » (ou son signe), lequel est presque le même.
+
+3\. Après la fabrication de cet ios, ils transportèrent les vapeurs et (les) réunirent aux scories restantes, et de cette façon ils arrivèrent au terme. C'est alors qu'ils projetaient la poudre tinctoriale sur les corps, attendu que Zosime dit : « Ainsi les esprits prennent un corps et les corps morts sont ranimés par l'âme qui provient d'eux, et qui est de nouveau reçue en eux. Ils réalisent l'œuvre divine, deux éléments se dominant mutuellement et étant dominés l'un par l'autre. » En effet, il obtient par là l'esprit fugace du corps poursuivant,* et il nous instruit à rendre la teinture résistante au feu, par le moyen du feu. Telle est, je pense, d'après le Philosophe, l'eau de chaux, ou de sandaraque, l'eau de natron, l'eau de lie, l'eau fabriquée avec la cendre des sulfureux, l'eau de la première distillation.
+
+*) V. p. 105.
+
+4\. Il faut la rectifier comme la lessive des savonniers,* et recueillir les eaux qui en proviennent : or la lessive des savonniers ne se réduit jamais en vapeur, mais elle est rectifiée.* Comment donc, ô philosophes, Zosime* peut-il dire que le sens des écritures n'est pas compris, à moins que l'on n'emploie l'appareil qui opère l'extraction sur le cuivre ? et que le terme de l'art n'est pas celui-là, mais consiste dans l'appareil et dans la fixation qui y est accomplie ? D'autres se servaient seulement de flacons pour les deux genres de compositions.* Après avoir fait monter l'eau, ils la réunissaient à la chaux ordinaire, en délayant dans un mortier ; non pas suivant une mesure précise, mais de façon que la partie sèche dépassât le liquide de deux, trois ou quatre doigts.
+
+*) Ce mot ne doit pas être pris dans le sens de la chimie moderne.
+
+*) Par filtration.
+
+*) Dans BA, c'est Démocrite.
+
+*) Sans procéder par distillation, ou sublimation.
+
+---
