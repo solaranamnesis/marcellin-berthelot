@@ -7509,7 +7509,7 @@ J'admire aussi la rubrique (minium) ; (je vois) comment elle jaunit au feu. La s
 
 ---
 
-#### 3\. --- 55. Sur les Vapeurs.
+#### 3\. --- 56. Sur les Vapeurs.
 
 1\. On les appelle vapeurs sublimées, à cause de ce fait que les substances sont élevées de bas en haut, au-dessus des cendres, vers la partie supérieure, comme il est exposé dans le traitement des eaux. Ainsi on les appelle vapeurs sublimées, à cause de ce fait qu'elles montent du bas vers le sommet de l'appareil, et nous avons exposé comment on opère l'aspiration de ces vapeurs ou de ces gouttes condensées.
 
