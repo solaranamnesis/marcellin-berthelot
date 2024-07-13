@@ -831,6 +831,8 @@ un astérisque. --- τὸ ἀποκαλύπτον Lb*. | le jeu de mots de II, v
 ὰρ] F. l. ἐὰν δὲ. --- 14. οανῶ ALbt. --- ε.õe
 suivant.
 
+---
+
 #### 3. --- 8. ΠΕΡΙ ΤΟΥ ΑΥΤΟΥ ΘΕΙΟΥ ΥΔΑΤΟΣ.
 
 _Transcrit sur_ M, f. 113 v. ;--- _Collationné sur_ B, f. 86 r. ;--- _sur_ A, f. 83 r. --- _Consulté_ E, f. 183 v.
