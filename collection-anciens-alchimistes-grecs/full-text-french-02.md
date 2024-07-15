@@ -1028,7 +1028,7 @@ dans M. --- 28. εὶ δὶ ὄπερ ἔλεγεν] τοῦτο δὲ | ἐκ �
 
 ---
 
-3. 13. --- ΠΕΡΙ ΔΙΑΦΟΡΑΣ ΧΑΛΚΟΥ ΚΕΚΑΥΜΕΝΟΥ.
+#### 3. --- 13. ΠΕΡΙ ΔΙΑΦΟΡΑΣ ΧΑΛΚΟΥ ΚΕΚΑΥΜΕΝΟΥ.
 
 _Transcrit sur_ M, f. 144 r. --- _Collationné sur_ B, f. 123 r. ;--- _sur_ A, f. 115 v. ;--- _sur_ K, f. 20 r. ;--- _sur_ E, f. 47 r. ;--- _sur_ Lb (_copie de_ E), p. 169. --- _Chap._ 36 _de la compilation du Chrétien dans_ E Lb. --- _Ce texte, dans son entier, forme le_ § 1 _du morceau_ 3, 46. _Nous le donnons ici aνec les principales νariantes de ce morceau, désignées par un astérisque_.
 
@@ -1045,7 +1045,7 @@ _Transcrit sur_ M, f. 144 r. --- _Collationné sur_ B, f. 123 r. ;--- _sur_ A, f
 
 ---
 
-3. 14. --- ΠΕΡΙ ΤΟΥ ΟΤΙ ΠΑΝΤΩΝ ΤΩΝ ΥΓΡΩΝ ΤΟ ΘΕΙΟΝ ΥΔΩΡ ΚΑΛΟΥΣΙΝ · ΚΑΙ ΤΟΥΤΟ ΣΥΝΘΕΤΟΝ ΕΣΤΙΝ, ΚΑΙ ΟΥΧ ΑΠΛΟΥΝ.
+#### 3. --- 14. ΠΕΡΙ ΤΟΥ ΟΤΙ ΠΑΝΤΩΝ ΤΩΝ ΥΓΡΩΝ ΤΟ ΘΕΙΟΝ ΥΔΩΡ ΚΑΛΟΥΣΙΝ · ΚΑΙ ΤΟΥΤΟ ΣΥΝΘΕΤΟΝ ΕΣΤΙΝ, ΚΑΙ ΟΥΧ ΑΠΛΟΥΝ.
 
 _Transcrit sur_ M, f. 144 r. --- _Collationné sur_ B, f. 123 r. ;--- _sur_ A, f. 116 r. ; (A ou
 A¹) ;--- _sur_ A, f. 242 v. (A²) ;--- _sur_ E, f. 47 v. ;--- _sur_ Lb (_copie de_ E), p. 173. ---
@@ -1082,7 +1082,7 @@ les notations alchimiques, pl. III, l. 4 | καὶ πῆξον B etc. --- ἡμ.
 
 ---
 
-3. 15. --- ΠΕΡΙ ΤΟΥ ΕΝ ΠΑΝΤΙ ΚΑΙΡΩ ΑΡΚΤΕΟΝ.
+#### 3. --- 15. ΠΕΡΙ ΤΟΥ ΕΝ ΠΑΝΤΙ ΚΑΙΡΩ ΑΡΚΤΕΟΝ.
 
 _Transcrit sur_ M, f. 144 v. --- _Collationné sur_ B, f. 124 r. ;--- _sur_ A, f. 116 v. ;--- _sur_ K, f. 20 v. ;--- _sur_ E, f. 48 v. ;--- _sur_ Lb, p. 177. --- _Les variantes de_ M, _par rapport à_ BAK, _ont été reportées en marge de_ K. --- _Chap._ 38 _de la compilation du Chrétien dans_ E Lb.
 
@@ -1125,7 +1125,7 @@ siècle). --- 13. δεt δὶ πρῶτον Lb --- 14 | μος... μφιβαλλ
 
 ---
 
-3. 16. --- ΠΕΡΙ ΤΗΣ ΚΑΤΑ ΠΛΑΤΟΣ ΕΚΔΟΣΕΩΣ ΤΟ ΕΡΓΟΝ.*
+#### 3. --- 16. ΠΕΡΙ ΤΗΣ ΚΑΤΑ ΠΛΑΤΟΣ ΕΚΔΟΣΕΩΣ ΤΟ ΕΡΓΟΝ.*
 
 _Transcrit sur_ M, f. 145 v. --- _Collationné sur_ B, f. 126 r. ;--- _sur_ A, f. 118 r. ;--- _sur_ K, f. 21 v. (_suite_ f. 113 v.) ;--- _sur_ E, f. 51 r. ;--- _sur_ Lb (_copie de_ E), p. 187. --- _Les variantes et restitutions de_ M, _par rapport à_ BAK, _ont été reportées en marge de_ K. --- _Chap._ 39 _de la compilation du Chrétien dans_ E Lb.
 
