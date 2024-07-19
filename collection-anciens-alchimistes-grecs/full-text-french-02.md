@@ -1295,7 +1295,7 @@ _Transcrit sur_ M, f. 150 r. --- _Collationné sur_ B, f. 133 v. ;--- _sur_ A, f
 
 ---
 
-3. 19. --- ΠΕΡΙ ΤΟΥ ΤΡΟΦΗΝ ΕΙΝΑΙ ΤΑ Δʹ ΣΩΜΑΤΑ ΤΩΝ ΒΑΦΩΝ · ΕΙΣΙΝ ΔΕ.*
+#### 3. --- 19. ΠΕΡΙ ΤΟΥ ΤΡΟΦΗΝ ΕΙΝΑΙ ΤΑ Δʹ ΣΩΜΑΤΑ ΤΩΝ ΒΑΦΩΝ · ΕΙΣΙΝ ΔΕ.*
 
 _Transcrit sur_ M, f. 150 v. --- _Collationné sur_ B, f. 134 r. ;--- _sur_ A, f. 123 r. ;--- _sur_ K, f. 22 v. ;--- _sur_ E, f. 59 r. ;--- _sur_ Lb, p. 227. --- _Les variantes et restitutions de_ M _ont été reportées en marge de_ K. --- _Chapitre_ 42 _de la compilation du Chrétien dans_ E Lb.
 
@@ -1317,7 +1317,7 @@ B etc. --- 12. ἡ] ἀλὰ καὶ L. --- 14. καὶ | 19 et 20. καταλό
 
 ---
 
-3. 20. --- ΠΕΡΙ ΤΟΥ ΧΡΗΣΤΕΟΝ ΣΤΥΠΤΗΡΙᾼ ΣΤΡΟΓΓΥΛῌ ΑΝΤΙΛΟΓΟΣ.*
+#### 3. --- 20. ΠΕΡΙ ΤΟΥ ΧΡΗΣΤΕΟΝ ΣΤΥΠΤΗΡΙᾼ ΣΤΡΟΓΓΥΛῌ ΑΝΤΙΛΟΓΟΣ.*
 
 _Transcrit sur_ M. f. 151 r. --- _Collationné sur_ B, f. 135 r. ;--- _sur_ A, f. 123 v. ;--- _sur_ K, f. 22 v. ;--- _sur_ E, f. 60 r. ;--- _sur_ Lb, p. 225. --- _Les νariantes de_ M _ont été reportées en marge de_ K. --- _Chap._ 43 _de la compilation du Chrétien dans_ E Lb.
 
@@ -1357,7 +1357,7 @@ Lb seul. --- 10. M mg. : ἐψ. avec renvoi | σίως Lb. --- 26 επε-ι-ι. 
 
 ---
 
-3. 21. --- ΠΕΡΙ ΘΕΙΩΝ.*
+#### 3. --- 21. ΠΕΡΙ ΘΕΙΩΝ.*
 
 _Transcrit sur_ M, f. 152 r. --- _Collationné sur_ B, f. 136 v. ;--- _sur_ A, f. 125 r. ;--- _sur_ K. f. 23 ;--- _sur_ E, f. 62 v. ;--- _sur_ Lb, p. 233. --- _Les variantes et restitutions de_ M _ont été reportées en marge de_ K. --- _Chap._ 44 _de la compilation du Chrétien dans_ E Lb.
 
@@ -1404,7 +1404,7 @@ de *: ὄτε ὑδράργυρος καὶ ἐν αὐτῶ χρυσὸς σα�
 
 ---
 
-3. 22. --- ΠΕΡΙ ΣΤΑΘΜΩΝ.
+#### 3. --- 22. ΠΕΡΙ ΣΤΑΘΜΩΝ.
 
 _Transcrit sur_ M, f. 153 r. ;--- _Collationné sur_ B, f. 139 r. ;--- _sur_ A, f. 127 r. ;--- _sur_ K, f. 24 v. ;--- _sur_ E, f. 65 r. ;--- _sur_ Lb, p. 243. --- _Les variantes et restitutions de_ M _ont été reportées en marge de_ K. --- _Chap._ 45 _de la compilation du Chrétien dans_ E Lb.
 
@@ -1434,7 +1434,7 @@ A mg. : λοιπὸν τῆς puis le signe de θεῖον. l ἔ- R R a --- ---
 
 ---
 
-3. 23. --- ΠΕΡΙ ΚΑΥΣΕΩΣ ΣΩΜΑΤΩΝ.
+#### 3. --- 23. ΠΕΡΙ ΚΑΥΣΕΩΣ ΣΩΜΑΤΩΝ.
 
 _Transcrit sur_ M, f. 154 r. --- _Collationné sur_ B, f. 139 v. ;--- _sur_ A. f. 127 v. ;--- _sur_ K, f. 25 r. ;--- _sur_ E, f. 66 v. ;--- _sur_ Lb, p. 249 --- _Les νariantes et restitutions de_ M _ont été reportées en marge de_ K. --- _Chap._ 46 _de la compilation du Chrétien dans_ E Lb.
 
@@ -1466,7 +1466,7 @@ Lb. --- 15. καὶ λεύκωσις καλεται, καὶ ἐν | ὁγία �
 
 ---
 
-3. 24. --- ΠΕΡΙ ΣΤΑΘΜΟΥ ΞΑΝΘΩΣΕΩΣ.
+#### 3. --- 24. ΠΕΡΙ ΣΤΑΘΜΟΥ ΞΑΝΘΩΣΕΩΣ.
 
 _Transcrit sur_ M, f. 154 v. --- _Collationné sur_ B, f. 141 r. ;--- _sur_ A, f. 128 v. ;--- _sur_ K, f. 26 r. ;--- _sur_ E, f. 68 r. ;--- _sur_ Lb, p. 257. --- _Les νariantes et restitutions de_ M _ont été reportées en marge de_ K. --- _Chap._ 47 _de la compilation du Chrétien dans_ E Lb.
 
