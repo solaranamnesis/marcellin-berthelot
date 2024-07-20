@@ -1523,7 +1523,7 @@ M ; ὑαλίνοις Lb. --- 14. ὄπτουσι M, ici | biffé) αὐτὸν 
 
 ---
 
-3. 25. --- ΠΕΡΙ ΘΕΙΟΥ ΥΔΑΤΟΣ.*
+#### 3. --- 25. ΠΕΡΙ ΘΕΙΟΥ ΥΔΑΤΟΣ.*
 
 _Transcrit sur_ M. f. 156 r. --- _Collationné sur_ B, f. 143 r. ;--- _sur_ A, f. 129 v. ;--- _sur_ K, f. 26 v. ;--- _sur_ E, f. 70 v. ;--- _sur_ Lb, p. 267. --- _Les variantes et restitutions de_ M _ont été reportées en marge de_ K. --- _Chap._ 48 _de la compilation du Chrétien dans_ E Lb.
 
@@ -1554,7 +1554,7 @@ satif partout) Lb. --- 18. τοῦ χαλκοῦ λέγει
 
 ---
 
-3. 26. --- ΠΕΡΙ ΣΚΕΥΑΣΙΑΣ ΩΧΡΑΣ.*
+#### 3. --- 26. ΠΕΡΙ ΣΚΕΥΑΣΙΑΣ ΩΧΡΑΣ.*
 
 _Transcrit sur_ M, f. 157 r. --- _Collationné sur_ B, f. 144 v. ;--- _sur_ A, f. 131 r. ;--- _sur_ K. f. 27 v., _puis_ 108 r ;--- _sur_ E, f. 73 r. ;--- _sur_ Lb, p. 277. --- _Les νariantes et restitutions de_ M _ont été reportées en marge de_ K. --- _Chap._ 49 _de la compilation du Chrétien dans_ E Lb.
 
@@ -1585,7 +1585,7 @@ cées) M. --- 12. νόει, ἤγουν τῆς μαγνησίας | ἔχων] 
 
 ---
 
-3. 27. --- ΠΕΡΙ ΟΙΚΟΝΟΜΙΑΣ ΤΟΥ ΤΗΣ ΜΑΓΝΗΣΙΑΣ ΣΩΜΑΤΟΣ.
+#### 3. --- 27. ΠΕΡΙ ΟΙΚΟΝΟΜΙΑΣ ΤΟΥ ΤΗΣ ΜΑΓΝΗΣΙΑΣ ΣΩΜΑΤΟΣ.
 
 _Transcrit sur_ M, f. 157 v. --- _Collationné sur_ B, f. 145 v. ;--- _sur_ A, f. 131 v. ;--- _sur_ K, f. 28 r. ;--- _sur_ E, f. 73 v. ;--- _sur_ Lb, p. 281. --- _Les νariantes et restitutions de_ M _ont été reportées en marge de_ K. --- _Chap._ 50 _de la compilation du Chrétien dans_ E Lb.
 
