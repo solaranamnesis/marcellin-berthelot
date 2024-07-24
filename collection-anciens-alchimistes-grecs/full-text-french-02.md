@@ -218,7 +218,7 @@
 
 #### [3. --- 43. Chapitres de Zosime a Théodore.](#3-----43-chapitres-de-zosime-a-théodore-1)
 
-#### [3. --- 44. Sur les Divisions de l'Art Chimique.](#3-----44-sur-les-divisions-de-lart-chimique-1)
+#### [3. --- 44. Sur les Divisions de l'Art Chimique.](#3-----44-sur-les-divisions-de-lart-chimique-3)
 
 #### [3. --- 45. Fabrication du Mercure.](#3-----45-fabrication-du-mercure-1)
 
