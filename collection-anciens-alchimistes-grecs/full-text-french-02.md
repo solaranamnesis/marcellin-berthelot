@@ -252,7 +252,7 @@
 
 #### [3. --- 52. Interprétation sur Toutes Choses en Général et (Notamment) sur les Feux.](#3-----52-interprétation-sur-toutes-choses-en-général-et-notamment-sur-les-feux-1)
 
-#### [3. --- 53. La Céruse.](#3-----53-la-céruse-1)
+#### [3. --- 53. La Céruse.](#3-----53-la-céruse-3)
 
 #### [3. --- 54. Sur le Blanchiment.](#3-----54-sur-le-blanchiment-1)
 
