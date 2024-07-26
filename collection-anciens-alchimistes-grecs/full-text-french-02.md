@@ -2605,7 +2605,7 @@ morceau II, xLIx.
 
 ---
 
-3. 52. --- ἙΡΜΗΝΕΙΑ ΠΕΡΙ ΠΑΝΤΩΝ ΑΠΛΩΣ ΚΑΙ ΠΕΡΙ ΤΩΝ ΦΩΤΩΝ.
+#### 3. --- 52. ἙΡΜΗΝΕΙΑ ΠΕΡΙ ΠΑΝΤΩΝ ΑΠΛΩΣ ΚΑΙ ΠΕΡΙ ΤΩΝ ΦΩΤΩΝ.
 
 _Transcrit sur_ A, f. 264 r. --- _Collationné sur_ B, f. 88 r. (_à partir du_ § 2).
 
@@ -2627,7 +2627,7 @@ la phrase ἐλαφρὰ --- ἀναφέοει. puis notre l e τ A --- 20 I 2
 
 ---
 
-3. 53. --- La Céruse.
+#### 3. --- 53. La Céruse.
 
 _Transcrit sur_ A (_continuation du texte précédent_).
 
@@ -2644,7 +2644,7 @@ l'or surmonté de la finale ου, puis τὸ (f, l. εὶ γὰρ..) --- 17. F. 
 
 ---
 
-3. 54. --- ΠΕΡΙ ΛΕΥΚΩΣΕΩΣ.
+#### 3. --- 54. ΠΕΡΙ ΛΕΥΚΩΣΕΩΣ.
 
 _Transcrit sur_ A (_continuation, sans titre, du texte précédent_). --- _Même texte, aνec le titre, dans_ B, f. 90 v., _et dans_ K, f. 5 v., _jusqu'à_ μυστήριον (ligne 3).
 
@@ -2654,7 +2654,7 @@ _Transcrit sur_ A (_continuation, sans titre, du texte précédent_). --- _Même
 
 ---
 
-3. 55. --- ΕΡΜΗΝΕΙΑ ΠΕΡΙ ΤΩΝ ΦΩΤΩΝ.
+#### 3. --- 55. ΕΡΜΗΝΕΙΑ ΠΕΡΙ ΤΩΝ ΦΩΤΩΝ.
 
 _Transcrit sur_ A (_continuation du texte précédent_).
 
@@ -2669,7 +2669,7 @@ et 3. --- 4. F. l. ἀποτελοῦσα. --- 5. F. l. | F. l. τοῦτο --- 
 
 ---
 
-3. 56. --- ΠΕΡΙ ΑΙΘΑΛΩΝ.
+#### 3. --- 56. ΠΕΡΙ ΑΙΘΑΛΩΝ.
 
 _Transcrit sur_ M, f. 116 v. --- _Collationné sur_ B, f. 89 r. ;--- _sur_ A, f. 14 r. (= A¹) ;--- _sur_ A, f. 91 r. (= A²) ;--- _sur_ Κ, f. 4 v. --- _sur_ Lc, p. 205. --- _Variantes de_ M _ajoutées en marge de_ K.
 
