@@ -2424,7 +2424,7 @@ signes du ciel, du soleil (ou de l'or), de
 
 ---
 
-3. 50. --- ΠΕΡΙ ΤΟΥ ΤΡΙΓΒΙΚΟΥ ΚΑΙ ΤΟΥ ΣΩΛΗΝΟΣ.
+#### 3. --- 50. ΠΕΡΙ ΤΟΥ ΤΡΙΓΒΙΚΟΥ ΚΑΙ ΤΟΥ ΣΩΛΗΝΟΣ.
 
 _Transcrit sur_ M, f. 194 r. --- _Collationné sur_ B, f. 83 v. ;--- _sur_ C, f. 57 r. ;--- _sur_ A, f. 81 r. (= A ou A¹) ;--- _sur_ A, f. 221 r. (= A²) ;--- _sur_ K. f. 101 r.
 
@@ -2472,7 +2472,7 @@ MK. --- 15. ὑάλη MK. Corr. conj. --- βασιν MK. Corr. conj. --- 22. F. 
 
 ---
 
-3. 51. --- ΤΟ ΠΡΩΤΟΝ ΒΙΒΛΙΟΝ ΤΗΣ ΤΕΛΕΥΤΑΙΑΣ ΑΠΟΧΗΣ ΖΩΣΙΜΟΥ ΘΗΒΑΙΟΥ.
+#### 3. --- 51. ΤΟ ΠΡΩΤΟΝ ΒΙΒΛΙΟΝ ΤΗΣ ΤΕΛΕΥΤΑΙΑΣ ΑΠΟΧΗΣ ΖΩΣΙΜΟΥ ΘΗΒΑΙΟΥ.
 
 _Transcrit sur_ A, f. 251 v. --- _Contenu aussi dans Laur._, art. 33. --- _Toutes les variantes insérées dans le texte sont des corrections conjecturales_.
 
