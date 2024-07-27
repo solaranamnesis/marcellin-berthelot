@@ -464,17 +464,19 @@ _Transcrit_ (§ 1 et 2) _sur_ M, f. 95 r., et (§ 3) _sur_ A, f. 8 v. --- _Colla
 
 3\. Ἄρσις δὲ ἑρμηνεύεται ὁ κουφισμός · ἀνθ ᾽ ὧν αἴρεται καὶ κουφίζεται* ἡ τοῦ ὕδατος ἐπίχυσις, ἐκ τῆς τοῦ σώματος συμπλοκῆς ἀνεμποδίστως τὸ μολύβδου πήσηται ὑπόμονος τούτῳ ποιῆσαι.* Ἀρκεστῶμεν τῇ θυείᾳ καὶ τῷ δοίδυκι ἐπὶ τῶν δύο βαφῶν · ἐπὶ δὲ τοῦ χαλκοῦ, ἐπεὶ περὶ τούτου Ζώσιμος καὶ ὑπὸ πλήθους ὑδάτων σηπόμενον διὰ τῆς τοῦ ἀέρος ὑγρότητος τε καὶ θερμότητος αὐξανόμενον ἄνθη φορεῖ κατὰ πολὺ γλυκύτητα, καὶ τῇ ποιότητι τῆς φύσεως καρποφορεῖ* :
 
-2. νοήμοσιν] νεύμασιν mss. Corr. conj. | ἀρσενικοῦ κ. τ. λ. jusqu'à μὴ ἀποκαλύψαι καὶ
-Meme variante et mème correction, | δημοσιεῦσαι (voir ci-après V, xx). --- 11.
-ci-après ligne 13. --- αὐτῶν] αὐστιῶ (ρ au- | σεύει] σέβη M. Corr. conj. --- 15. M mg :
-dessus de ι) A. F. l. αὐτοὶ. --- Tοῦτο --- οὐ | ὡς ἡμάρτηκε. (Main du Ve siècle, peut-
-λθον] Réd. de A : Tοῦτον δὶ ἐκάλ. λίθον οὐ | etre celle de Bessarion.) --- 17. ασιτικῶ
-λίθον. --- 6. τὸν μόνον --- μυστήριον] Réd. (sans esprit) M. F. l. τοῦ ἀσιατικοῦ. --- 21.
-de A: τὸν μόνον ἐν ταῖς ἡμετέραις ἐργ. κρύπτον, | ἀνθῶν ms. Corr. conj. --- 23. ἐμποδίστως
-τοῦτο γάρ ἐστι τὸ μιθρ. μυστ. --- Après ces | τὸ signe du soufre et πέσηται biffés dans
-mots, A se sépare de M jusqu'à la fin | le ms.; ὑπόμονος τούτο ποιῆσαι seulement
-de notre § 2 et continue ainsi : Στέφα- | à sa marge, après plusieurs mots biffés.
-υοe δέοησιν ·Λάβι ἐκ τῶν τεσσάρων στοιχείων
+*) νοήμοσιν] νεύμασιν mss. Corr. conj. Même variante et même correction, ci-après ligne 13. --- αὐτῶν] αὐστιῶ (ρ au-dessus de ι) A. F. l. αὐτοὶ. --- Tοῦτο --- οὐ λίθον] Réd. de A : Τοῦτον δὲ ἐκάλ. λίθον οὐ λίθον.
+
+*) τὸν μόνον --- μυστήριον] Réd. de A : τὸν μόνον ἐν ταῖς ἡμετέραις ἐργ. κρύπτον, τοῦτο γάρ ἐστι τὸ μιθρ. μυστ. --- Après ces mots, A se sépare de M jusqu'à la fin de notre § 2 et continue ainsi : Στέφανος δέ φησιν ·Λάβε ἐκ τῶν τεσσάρων στοιχείων ἀρσενικοῦ κ. τ. λ. jusqu'à μὴ ἀποκαλύψαι καὶ δημοσιεῦσαι (voir ci-après 4, 20).
+
+*) σεύει] σέβη M. Corr. conj.
+
+*) M mg : ὡς ἡμάρτηκε. (Main du 15e siècle, peut-être celle de Bessarion.)
+
+*) ασιτικῶ (sans esprit) M. F. l. τοῦ ἀσιατικοῦ.
+
+*) ἀνθῶν ms. Corr. conj.
+
+*) ἐμποδίστως τὸ signe du soufre et πέσηται biffés dans le ms. ; ὑπόμονος τούτο ποιῆσαι seulement à sa marge, après plusieurs mots biffés.
 
 ---
 
