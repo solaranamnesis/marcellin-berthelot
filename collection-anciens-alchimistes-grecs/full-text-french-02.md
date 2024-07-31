@@ -1250,22 +1250,33 @@ _Transcrit sur_ M, f. 112 r. --- _Collationné sur_ B, f. 84 v. ; --- _sur_ A, f
 
 5\. Ὅτι ἐπὶ τοῦ συνθέματος ὀπὴν ἔχει τὸ ὀστράκινον ἄγγος ἀποκαλύπτον* τὴν φιάλην τὴν ἐπὶ τὴν κηροτακίδα, ἵνα περιβλέπων εἰ λευκανθῇ,* ἢ ξανθωθῇ. Ἡ δὲ ὀπὴ τοῦ ὀστρακίνου ἄγγους ἐπιπωμάζεται φιάλῃ ἑτέρᾳ, ἵνα μὴ δι ᾽ αὐτῆς ἐκπνεύσῃ καὶ τὸ καρκινοειδὲς αὐτοῦ ἐκφύγῃ, ὅ ἐστι μονοήμερον. Ἐὰν γὰρ ἄλλη ἡ ἕψησις, καὶ ἄλλη ἡ* ὄπτησις, δύο καμίνων χρεία, πρῶτον φανῶν ληκυθίων, ἔπειτα κηροτακίδων,* ἢ πηξάδων, ἢ βουκλῶν · ἐὰν καρκινοειδὴς ἡ ὁμοία αὐτῶν* ἑψηθῆναι, ἐπιτιθέντα κηροτακίδων ἐκτείνων, τὰ δὲ ποιοῦν ὡς ἄρρευστον.* Ἔλεγεν ὁ ἀρχαῖος Ζώσιμος. « Μίαν τάξιν οἶδα ἐγὼ δύο ἔργα* ἔχουσαν · μίαν μὲν ἵνα ῥεύσῃ διὰ τῆς ῥυτῆς, καὶ δευτέραν ἵνα* ξηρανθῇ ὑγρότης μολύβδου ἀκενώτην · πηχθήσεται γὰρ καὶ ξηρανθήσεται αὕτη.* »
 
-1. γρom. BA, f. mel. --- 2. μολιβώδη M ; | 15. ἡ ὁμοία] ἡ ἡ ὁμ. Lb*, mel. --- 16. ῶστε
-μολιβδώση BA. Corr. conj. --- 3. ἐνεστι] | ἐψηθῆναι Lb*, mel. --- ἐπιτιθίντα jusqu'à
-εὶ ἐστι M ; οὕν εὶ om. BA. Corr. conj. | ἄρρευστον (l. suiv.)] Réd. de Lb : ἐπιτε-
---- εὶ τοῦτο M. --- F. l. ἡμᾶς. ---4. ἔσται MA. | θένταἐπὶ κηροτ., ἐκτεινόμενα δὲ ποιεῖν ἄρρευστα.
---- ἐπειδὴ λοιπὸν] λοιπὸν om. BA, f. mel. | --- 17. Mίαν τάξιν οἶδα κ. τ. λ.] Mème
---- 5. ῶδε] ἐνταῦθα A. --- 9. Transcrit | citation dans Pélage, ci-après, V, 1, 6.
-sur A (f.83 r., l. 8et suiv.) tout notre 5, | --- 18. μίαν] πρῶτον Lb, mel. --- βυτῆς]
-qui manque dans MB. --- Ce para- | βιτῆς A. --- δευτέρα mss. ; δεύτερον Lb*, f.
-graphe est reproduit dans le morceau | mel. --- Réd. de Lb : ξηρανθῆ καὶ ξανθωθῆ
-II, xxX, 23. Les principales variantes | ἡ ὑγρότης τοῦ μολ. σῶα καὶ ἀκεραία καὶ
-sont rapportées ici et désignées par | ἀκίνωτος ῆ). --- 20. Ce passage explique
-un astérisque. --- τὸ ἀποκαλύπτον Lb*. | le jeu de mots de II, v1, 2, p. 11
---- 10. περιβλίπεις Lb* --- F. l. ῖνα περιβλέ- (M. B.). --- Après αῦτη, M et B repren-
-πnς. --- εὶ] ἡ A. Corr. conj. --- 13. ἐὰν | nent la suite du texte avec le morceau
-ὰρ] F. l. ἐὰν δὲ. --- 14. οανῶ ALbt. --- ε.õe
-suivant.
+*) γὰρ om. BA, f. mel.
+
+*) μολιβώδη M ; μολιβδώση BA. Corr. conj.
+
+*) ἕνεστι] εἰ ἐστι M ; οὗν εἰ om. BA. Corr. conj. --- εἰ τοῦτο M. --- F. l. ἡμᾶς.
+
+*) ἔσται MA. --- ἐπειδὴ λοιπὸν] λοιπὸν om. BA, f. mel.
+
+*) ὧδε] ἐνταῦθα A.
+
+*) Transcrit sur A (f.83 r., l. 8 et suiv.) tout notre § 5, qui manque dans MB. --- Ce paragraphe est reproduit dans le morceau 3, 29, 23. Les principales variantes sont rapportées ici et désignées par un astérisque. --- τὸ ἀποκαλύπτον Lb⋆.
+
+*) περιβλέπεις Lb⋆ --- F. l. ἵνα περιβλέπῃς. --- εἰ] ἢ A. Corr. conj.
+
+*) ἐὰν γὰρ] F. l. ἐὰν δὲ.
+
+*) φανῶ ALb⋆.
+
+*) ἡ ὁμοία] ᾖ ἡ ὁμ. Lb⋆, mel.
+
+*) ὥστε ἑψηθῆναι Lb⋆, mel. --- ἐπιτιθέντα jusqu'à ἄρρευστον (l. suiv.)] Réd. de Lb⋆ : ἐπιτεθέντα ἐπὶ κηροτ., ἐκτεινόμενα δὲ ποιεῖν ἄρρευστα.
+
+*) Mίαν τάξιν οἶδα κ. τ. λ.] Même citation dans Pélage, ci-après, 4, 1, 6.
+
+*) μίαν] πρῶτον Lb⋆, mel. --- ῥυτῆς] ῥιτῆς A. --- δευτέρα mss. ; δεύτερον Lb⋆, f. mel. --- Réd. de Lb⋆ : ξηρανθῇ καὶ ξανθωθῇ ἡ ὑγρότης τοῦ μολ. σῶα καὶ ἀκεραία καὶ ἀκένωτος < ᾖ. >
+
+*) Ce passage explique le jeu de mots de 3, 6, 2, p. 119 (_M. B._). --- Après αὕτη, M et B reprennent la suite du texte avec le morceau suivant.
 
 ---
 
