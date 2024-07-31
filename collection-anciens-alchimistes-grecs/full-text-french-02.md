@@ -1392,12 +1392,17 @@ _Après ce morceau, on lit dans_ A Lc :
 
 _Transcrit sur_ A, f. 112 r. --- _Collationné sur_ B, f. 118 r. ;--- _sur_ K, f. 18 r. ;--- _sur_ E, f. 41 r. ;--- _sur_ Lb (copie de E), p. 145. --- _Chap. 3 de la compilation du Chrétien dans_ E Lb. --- _Sauf indication spéciale, les νariantes de_ Lb _peuνent être considérées comme étant communes à ce manuscrit et à son original_ E, _dans tous les morceaux que renferment ces deux manuscrits_.
 
-4. άθίκτου Lc, f. mel. --- ῦ. γένεσιν Betc., rude et la finale ου (ἡλίου ) B ; τοῦ χρυσοῦ
-f. mel. --- 9. ὡς γὰρ.. .] Cp. II, xx1, 3. | Lc. Corr. conj. --- 15. ἐποίηα A. --- 19. ἀρ-
---- 1θ. χρυσίον] signe pur et simple de l'or | γύρου] signe du mercure BAK ; signe de
-et du soleil MAK : siene avec l'esprit l l'argent E ; ἀργύρου en toutes lettres Lb.
-20
-et du soleil MAK ; signe avec l'esprit
+*) ἀθίκτου Lc, f. mel.
+
+*) γένεσιν B etc., f. mel.
+
+*) ὡς γὰρ ... ] Cp. 3, 21, 3.
+
+*) χρυσίον] signe pur et simple de l'or et du soleil MAK ; signe avec l'esprit rude et la finale ου (ἡλίου ? ) B ; τοῦ χρυσοῦ Lc. Corr. conj.
+
+*) ἐποίηα A.
+
+*) ἀργύρου] signe du mercure BAK ; signe de l'argent E ; ἀργύρου en toutes lettres Lb.
 
 1\. Λαβὼν τὴν ψυχὴν τοῦ χαλκοῦ τὴν οὖσαν ἐπάνω τοῦ ὕδατος τῆς ὑδραργύρου, ποίησον σῶμα πνευματικόν · ἀνα- (f. 112 v.) βαίνει γὰρ ἐπάνω ἡ ψυχὴ τοῦ χαλκοῦ ἡ κεκολλημένη ἐν τῇ χώνῃ. Τὸ δὲ ὕδωρ μένει κάτω ἐν τῇ κηροτακίδι, ἵνα παγῇ μετὰ τοῦ κόμμεως χρυσάνθιον, χρυσοζώμιον, καὶ τὰ ἑξῆς. Ἄλλοι δέ φασι περὶ χρώματος καὶ ἑψήσεως* καὶ ἔργου μυστικῆς θεωρίας. Ἀρχὴ μέν · ὁ χαλκὸς ἐμβαλλόμενος μετὰ τῆς οἰκονομίας ἐν τῷ ἐργαλείῳ τῆς πράξεως ἐπιδείκνυται ὀμμάτων τέρψιν · ἐν δὲ τῷ χρονίζειν γινομένης ἀπομαυρούσθ < ω ? > μετὰ τοῦ κόμμεως* χρυσῷ σύνθετον, χρυσοζώμιον, καὶ τὰ ἑξῆς. Περὶ εἰσποιήσεως ἔγραφεν ἐν ᾗ καὶ περὶ τῆς πήξεως κηρύττουσι. Καὶ πάλιν ἡ Μαρία* · « Βάλλων ὕδωρ θείου καὶ κόμμι ὀλίγον, θὲς ἐν θερμοσποδιᾷ · οὕτω γάρ φασι παρ ᾽ αὐτοῖς τὸ ὕδωρ πήγνυσθαι. » Καὶ πάλιν ἡ Μαρία · « Ἐν τῷ* σκευαστῷ χρυσάνθιον · καὶ ἐν τῷ πετάλῳ τῆς κηροτακίδος ἐχέτω, φησὶ, τὸ ὕδωρ τοῦ θείου, κόμμι ὀλίγον, ὅταν παρ ᾽ αὐτοῖς πήγνυται · τούτῳ ἐπ ᾽ ὀλίγον βολβίτοις · μετὰ γὰρ τὸ « ἐπ ᾽ ὀλίγον, » ταῦτα πάλιν ἡ Μαρία* · « Χαλκοῦ τοῦ ἡμῶν μέρος ἓν, χρυσοῦ μέρος ἓν, ποίει δίχυτον πέταλον καὶ ὑπόθες ἐπὶ τῷ κρεμαστῷ θείῳ καὶ ἔα νυχθήμερα γʹ, ἕως ὀπτηθῇ.* »
 
