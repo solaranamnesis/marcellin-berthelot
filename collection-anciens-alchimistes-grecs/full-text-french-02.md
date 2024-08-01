@@ -1736,15 +1736,29 @@ _Transcrit sur_ M, f. 144 v. --- _Collationné sur_ B, f. 124 r. ;--- _sur_ A, f
 
 *) διὰ πρήσματα M.
 
---- 1. τὸ δὲ θεῖον Lb. 2. παχὐν M ; παχέα | et 16. προσβάσεως M --- 17. ψύξεις, τοῦ
-tἶναι αὐτὰ Lb. --- τότε λοιπὸν B etc. --- 5. | ἀλιστέου Lb. --- 18. τὸ κόμμι ἐστὶ δάκρυον
-IIηfχιος B etc. --- 6. καὶ τὸ μὶν ἐν (sur | Lb. --- 19. κατὰ τὸ θέρος Lb. --- τινων οὶ
-grattage) ἔχ. Lb seul --- 10. τὸ θεῖον θικ- | λέγουσιν Lb. --- 20. A mg. : λέπε ἔμπροσ-
-τον (en signe) M ; τῶ et le mème signe | θεν εὶς φύλλl κβ' τὴν βῆσιν τοῦ λόγου ὄπου τὸ
-B etc. sauf Lb, qui écrit θείφ en toutes | σημεῖον τοῦτο ,puis un signe de renvoi,
-lettres. --- 12. δοκοῦντες τισὶν ἄπαντα κρ. | reproduit en rouge 21 ff. plus loin
-B etc. --- M mg. : nota (main du xvie | (f.139 r.) en regard des mots: Καὶ ὁ ώσι-
-siècle). --- 13. δεt δὶ πρῶτον Lb --- 14 | μος... μφιβαλλόμενος (II, xxix, 21).
+*) τὸ δὲ θεῖον Lb.
+
+*) παχὺν M ; παχέα εἶναι αὐτὰ Lb. --- τότε λοιπὸν B etc.
+
+*) Πηβήχιος B etc.
+
+*) καὶ τὸ μὲν ἓν (sur grattage) ἒχ. Lb seul
+
+*) τὸ θεῖον ἄθικτον (en signe) M ; τῷ et le même signe B etc. sauf Lb, qui écrit θείῳ en toutes lettres.
+
+*) δοκοῦντες τισὶν ἅπαντα κρ. B etc. --- M mg. : _nota_ (main du 16e siècle).
+
+*) δεῖ δὲ πρῶτον Lb
+
+*) προσβάσεως M
+
+*) ψύξεις, τοῦ ἁλιστέου Lb.
+
+*) τὸ κόμμι ἐστὶ δάκρυον Lb.
+
+*) κατὰ τὸ θέρος Lb. --- τινων οἳ λέγουσιν Lb.
+
+*) A mg. : Βλέπε ἔμπροσθεν εἰς φύλλ ` κβ ʹ τὴν ῥῆσιν τοῦ λόγου ὅπου τὸ σημεῖον τοῦτο, puis un signe de renvoi, reproduit en rouge 21 ff. plus loin (f. 139 r.) en regard des mots : Καὶ ὁ Ζώσιμος ... ἀμφιβαλλόμενος (3, 29, 21).
 
 ---
 
