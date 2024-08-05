@@ -3918,11 +3918,17 @@ _Les paragraphes suiνants_ (14-fin) _ont été collationnés sur_ B, f. 82 v. ;
 
 19\. Ὡς φαίνεται οὖν, ὅλα τὰ εἴδη τὰ ἐξ αἰθαλῶν ὁ Ἀγαθοδαίμων,* οἷον χρυσόκολλαν, καὶ ἐτήσιον, καὶ χρυσάνθιον, καὶ ἁπλῶς* πάντα εἰς τὴν καταβαφὴν τοῦ ἀργύρου κέκραται, ὡς ἔχει αὐτοῦ ἡ* ὑστέρα τάξις. Αἰθάλας δὲ βάλλει, ἵνα μὴ σκωριάσῃ ὁ ἄργυρος, ἢ ἀπουσιάσῃ τῶν παχέων σωμάτων καὶ γεωδεστέρων εἰωθότων καίεσθαι καὶ φρύγεσθαι.
 
-9. Après αὐτοῦ] espace blanc pour 5 | la terre, du ciel. Les mèmes signes sont
-ou 6 lettres M seul. F. l. ὁμοίως. --- 11. | répétés dans B, au-dessus de ὄλα τὰ εῖδη.
-ἐμφανῶς] F. l. ἐν φανῶ. --- 14. Entre nos | --- 15. γοῦν B etc. --- 16. χρυσόκολλα M.
-g5 18 et 19, les manuscrits donnent les | --- 17. κραταιῶς ἔχει mss. Corr. conj.
-signes du ciel, du soleil (ou de l'or), de
+*) Après αὐτοῦ] espace blanc pour 5 ou 6 lettres M seul. F. l. ὁμοίως.
+
+*) ἐμφανῶς] F. l. ἐν φανῷ.
+
+*) Entre nos §§ 18 et 19, les manuscrits donnent les signes du ciel, du soleil (ou de l'or), de la terre, du ciel. Les mêmes signes sont répétés dans B, au-dessus de ὅλα τὰ εἴδη.
+
+*) γοῦν B etc.
+
+*) χρυσόκολλα M.
+
+*) κραταιῶς ἔχει mss. Corr. conj.
 
 ---
 
