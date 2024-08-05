@@ -3456,15 +3456,27 @@ _Transcrit sur_ M, f. 179 r. ;--- _Collationné sur_ A, f. 237 r. ;--- _sur_ K, 
 
 7\. Περὶ οἰσμοῦ, τουτέστιν ἐκφωνήσεως, ἐναποσβεννυμένου πυρός · καὶ σιγμοῦ, τουτέστιν συριγμοῦ, πνεύματος ἐκπεμπομένου ἐξ ὑποστροφῆς [ἢ σιγμοῦ, τουτέστιν πνεύματος ἐπομένου καὶ ἐφελκομένου],* ἤγουν ἀναρροφωμένου καὶ εἰσφερομένου.*
 
-1. M mg. : Mῖ, avec renvoi à ἀφ κοειδἐς A. --- 16. ἐγλυκισμένως MK ; ἐγλυτ
-ἐνὸς. --- 2. Signe du mercure au-dessus | κισμένος A. --- 17. καταφ.] μεταφορἄς Lc.
-de ἀσήμω M. --- χρυσῶ en signe MΚ ; | --- 20. ἐμ πάση M, comme dans les papy-
-signe de la chrysocolle A; είς χρυσὸν | rus et dans les inscriptions. --- 21. Après
-Lc. --- 3. λῦσις M ; λεύκωσις A. --- 6. | λόγου] M. F. l. π. κυριακοῦ λόγου --- 23.
-πῦρ, καταβάπτεται Lc. --- 11. παλιγγενη- | Ce passage trouve son interprétation
-σείας MK. --- Après ἰώσεως] καὶ μεταβολῆς | dans un article du papyrus X de Leyde
-add. A. --- M mg. : περὶ ἰοῦ (main du | sur le ferment métallique. Voir l'In-
-xe siècle). --- 15. χαλκυῶδες MK ; χαλ- | troduction, p. 29 et 41 (M. B.).
+*) M mg. : Mᵞ, avec renvoi à άφ ᾽ ἑνὸς.
+
+*) Signe du mercure au-dessus de ἀσήμω M. --- χρυσῷ en signe MΚ ; signe de la chrysocolle A ; εἰς χρυσὸν Lc.
+
+*) λῦσις M ; λεύκωσις A.
+
+*) πῦρ, καταβάπτεται Lc.
+
+*) παλιγγενησείας MK. --- Après ἰώσεως] καὶ μεταβολῆς add. A. --- M mg. : περὶ ἰοῦ (main du 13e siècle).
+
+*) χαλκυῶδες MK ; χαλκοειδὲς A.
+
+*) ἐγλυκισμένως MK ; ἐγλυκισμένος A.
+
+*) καταφ.] μεταφορᾶς Lc.
+
+*) ἐμ πάση M, comme dans les papyrus et dans les inscriptions.
+
+*) Après λόγου] λ M. F. l. π. κυριακοῦ λόγου.
+
+*) Ce passage trouve son interprétation dans un article du papyrus X de Leyde sur le ferment métallique. Voir l'Introduction, p. 29 et 41 (_M. B._).
 
 8\. Περὶ τοῦ ὅτι εὑρόντες τινὲς τῶν ἱερέων γραφὴν ἄφθονον οὐκ ἐπίστευσαν ἐργάσασθαι, εἰ μὴ διὰ τούτων τῶν συγγραμμάτων διὰ τὴν ἀπόδειξιν.
 
