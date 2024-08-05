@@ -3756,13 +3756,21 @@ _Transcrit sur_ M, f. 188 r. (_main du_ 15e-16e _siècle_.) --- _Collationné su
 
 < Λαβὼν > τουτίας Ϛᵞ κʹ, τρίψον ἕως ἂν γένηται χρυσός · καὶ θείου* ἀπύρου Ϛᵞ εʹ, τρίψον ἕως ἂν γένηται μόλυβδος. Εἶτα ὠῶν Ϛʹ λευκὰ λαβὼν, σμήξας, βάλε εἰς βικίον, καὶ ἕψει νυχθήμερα βʹ. Καὶ ἐκβαλὼν ἐὰν κόπτηται, αὖθις βαλὼν ἕψει ἡμέραν αʹ. Εἶτα λαβὼν χαλκοῦ Ϛᵞ ιʹ, βάλε εἰς χώνην · καὶ ἐπίβαλε ἀπὸ τούτου κ° Ϛʹ · καὶ γίνεται ἄργυρος.
 
-2. ῖνα λέγεται M, leçon a retenir si l'on | (C. E. R.) --- 15. κατακαίσας] MK. Corr.
-prend να dans le sens de ou. --- F. l. διάσ- | conj. --- 17. ῖστω] F. l. ἔσται. --- 20. ]
-βεστον (M. B.). --- 5. πρὸς τὴν] F. l. πρόσθεν.
-γ K, abréviation de ἐξάγιον, 6e partie
---- 8. Cp. II, xv1, 4. --- 10. λέκυθος MK. | de l'once. Cp. du Cange, Glossarium
---- 13. ἔψει ἡ II, MK. Corr. conj. | infime græcitatis, et H. Estienne, The-
-(M. B.). --- F. l. ἕψει δ ἡ Me scil. ἡμέρας | saurus, éd. Didot, νoce Eξάγιον.
+*) ἵνα λέγεται M, leçon à retenir si l'on prend ἵνα dans le sens de _où_. --- F. l. διάσβεστον (_M. B._).
+
+*) πρὸς τὴν] F. l. πρόσθεν.
+
+*) Cp. 3, 16, 4.
+
+*) λέκυθος MK.
+
+*) ἔψει Δʹ ἡ Πρ, MK. Corr. conj. (_M. B._). --- F. l. ἕψει δʹ ἡ Μρ scil. ἡμέρας (_C. E. R._)
+
+*) κατακαΐσας] MK. Corr. conj.
+
+*) ἔστω] F. l. ἔσται.
+
+*) Ϛᵞ ] ῾Ϛγ K, abréviation de ἑξάγιον, 6e partie de l'once. Cp. du Cange, Glossarium infimæ græcitatis, et H. Estienne, Thesaurus, éd. Didot, _voce_ Ἑξάγιον.
 
 ---
 
