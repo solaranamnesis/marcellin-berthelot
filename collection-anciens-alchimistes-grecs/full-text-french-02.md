@@ -8,7 +8,7 @@
 
 ## Avec la Collaboration de M. Ch.-Em. Ruelle,
 
-### Bibliothécaire a la Bibliotheque Sainte-Geneviève.
+### Bibliothécaire a la Bibliothèque Sainte-Geneviève.
 
 ### Seconde Livraison.
 
@@ -178,7 +178,7 @@
 
 #### [3. --- 15. Sur cette Question doit-on en n'importe quel Moment entreprendre l'Œuvre ?](#3-----15-sur-cette-question-doit-on-en-nimporte-quel-moment-entreprendre-lœuvre--1)
 
-#### [3. --- 16. Sur l'Exposé détaillé de l'Œuvre discours a Philarète.](#3-----16-sur-lexposé-détaillé-de-lœuvre-discours-a-philarète-1)
+#### [3. --- 16. Sur l'Exposé détaillé de l'Œuvre discours à Philarète.](#3-----16-sur-lexposé-détaillé-de-lœuvre-discours-a-philarète-1)
 
 #### [3. --- 17. Sur cette Question : Qu'est-ce que la Substance suivant l'Art, et qu'est-ce que la Non-Substance ?](#3-----17-sur-cette-question--quest-ce-que-la-substance-suivant-lart-et-quest-ce-que-la-non-substance--1)
 
@@ -232,7 +232,7 @@
 
 #### [3. --- 42. Livre Véritable de Sophé l'Égyptien et du Divin Maitre des Hébreux (et) des Puissances Sabaoth.](#3-----42-livre-véritable-de-sophé-légyptien-et-du-divin-maitre-des-hébreux-et-des-puissances-sabaoth-1)
 
-#### [3. --- 43. Chapitres de Zosime a Théodore.](#3-----43-chapitres-de-zosime-a-théodore-1)
+#### [3. --- 43. Chapitres de Zosime à Théodore.](#3-----43-chapitres-de-zosime-a-théodore-1)
 
 #### [3. --- 44. Sur les Divisions de l'Art Chimique.](#3-----44-sur-les-divisions-de-lart-chimique-3)
 
