@@ -4280,14 +4280,25 @@ _Transcrit sur_ A (_continuation du texte précédent_).
 
 1\. ... ... δύναμις · μετὰ δὲ τὴν ἐργασίαν τὸ ψιμμίον ὕδατι ὑετίῳ γλυκιζόμενον, καὶ ἐώμενον καταστῆναι · τὸ δὲ ὕδωρ ἀπόχεε ἀπ ᾽ αὐτοῦ, καὶ εὑρίσκεται πάνυ λευκότατον · καὶ ἡ λιθάργυρος ἡ κοινὴ μολύβδου ἐστὶν, θαυμαστὴν δύναμιν ἔχει, κοινωνίαν ποιούμενος τῷ ὄξει · ἡ γὰρ καὶ αὐτὸ ἀσώματον* εὑρίσκεται, ἁλμιζόμενον δὲ καὶ γλυκιζόμενον, καὶ αὐτὴ λευκοτάτη εὑρίσκεται καὶ πάνυ παρεμφαίνουσα τὸ ψιμμίθιον. Θαυμάζω δὲ καὶ τὸ σηρικὸν πῶς ἐν τῷ πυρὶ ξανθοῦται, καὶ τὸ σανδαράχην δύναμιν* ἔγει θαυμαστήν.
 
-2. ἐθέλης βάπτειν] ἡ ἀ λῆς βάπτην A. | ce ms. qui reprend plus bas avec le
-Corr. conj. ---2.7. εῖτε --- ἤ χρυσύν]. Texte morceau III, LI. --- 9. A mg. après
-omis ici dans B et dans III, x. --- 3. cette ligne : λίπι (λείπει), puis les 7 der-
-συνσήπτει A. --- 5. F. l. σήπειν. --- 6. F. nières lignes du f. 264 et les 9 pre-
-l. ζυμοῦν. --- 7. Cp. III, xx1, 3. --- 8. mières du f. 265, laissées en blanc. ---
-Réd. de B : τὸ μικρὸν puis le signe de 14. τὸ puis le signe de ὄξος, puis ἡ γὰρ...
-l'or surmonté de la finale ου, puis τὸ (f, l. εὶ γὰρ..) --- 17. F. l. σανδαράχιν
-πᾶνμέλλει ξηρίον ζυμοῦν (fin du texte dans | (forme néogrecque de σανδαράχιον ?).
+*) ἐθέλῃς βάπτειν] ἡ ἀ λῆς βάπτην A. Corr. conj.
+
+*) εἴτε --- ἢ χρυσόν]. Texte omis ici dans B et dans 3, 10.
+
+*) συνσήπτει A.
+
+*) F. l. σήπειν.
+
+*) F. l. ζυμοῦν.
+
+*) Cp. 3, 21, 3.
+
+*) Réd. de B : τὸ μικρὸν puis le signe de l'or surmonté de la finale ου, puis τὸ πᾶν μέλλει ξηρίον ζυμοῦν (fin du texte dans ce ms. qui reprend plus bas avec le morceau 3, 53).
+
+*) A mg. après cette ligne : λίπι (λείπει), puis les 7 dernières lignes du f. 264 et les 9 premières du f. 265, laissées en blanc.
+
+*) τὸ puis le signe de ὄξος, puis ἡ γὰρ ... (f, l. εἰ γὰρ ... )
+
+*) F. l. σανδαράχιν (forme néogrecque de σανδαράχιον ? ).
 
 ---
 
