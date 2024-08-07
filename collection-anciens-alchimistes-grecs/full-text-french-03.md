@@ -28,9 +28,9 @@
 
 ...
 
-# [Cinquième Partie. --- Traités Techniques.]()
+# [Cinquième Partie. --- Traités Techniques.](#cinquième-partie-----traités-techniques-1)
 
-# [Sixième Partie. --- Commentateurs.]()
+# [Sixième Partie. --- Commentateurs.](#sixième-partie-----commentateurs-1)
 
 ---
 
