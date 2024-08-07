@@ -342,7 +342,7 @@ _Transcrit sur_ M, f. 92 v. --- _Collationné_ (le § 1, seul existant) _sur_ M,
 
 *) ἐπιτρέπων AK.
 
-*) καθευθῆναι] AK. F. l. καθαρθῆναι, avoir été purifié (αρ diffère peu de ευ dans les mss. du Xe siècle).
+*) καθευθῆναι] AK. F. l. καθαρθῆναι, avoir été purifié (αρ diffère peu de ευ dans les mss. du 10e siècle).
 
 *) Réd. de Lc : ... γράφειν ἕως ἄν αὐξ. ἡ σταφ. αὐτῶν καὶ τὰ στόμ. αὐτῶν ἀνεωγ. καὶ τὰς ὄψ. ἄνω ἔχειν. Ajouté ἔχειν d'après Lc.
 
