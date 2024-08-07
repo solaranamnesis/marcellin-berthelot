@@ -430,6 +430,8 @@ _Transcrit sur_ M, f. 92 v. --- _Collationné_ (le § 1, seul existant) _sur_ M,
 
 *) μολύβδου ... ] ἤγουν τοῦ μολ., τοῦ χ., τοῦ κασ., τοῦ ἀργ., ἵνα γένωνται τέλειος χρυσός Lc ; même leçon dans AK jusqu'à ἀργ., moins le mot ἤγουν, --- Les mots ἀσήμου et ἀργύρου sont la traduction du signe lunaire ; l'un des deux est de trop. Lc écrit ἀργύρου en toutes lettres.
 
+---
+
 #### 3. --- 2. ΖΩΣΙΜΟΣ ΛΕΓΕΙ ΠΕΡΙ ΤΗΣ ΑΣΒΕΣΤΟΥ.*
 
 _Transcrit_ (§ 1 et 2) _sur_ M, f. 95 r., et (§ 3) _sur_ A, f. 8 v. --- _Collationné la copie de_ M _sur_ A, f. 8 r.
