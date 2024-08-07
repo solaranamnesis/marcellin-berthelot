@@ -19,7 +19,7 @@ English - PDF
 ## Collection des Anciens Alchimistes Grecs. Seconde Livraison.
 
 [French - Plain Text](collection-anciens-alchimistes-grecs/full-text-french-02.md)  
-[French - PDF](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french.pdf) | [Biolinum](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_atkinson.pdf) | Cursive | CustomDesign1 | CustomDesign2 | CustomPurplePaper | CustomPurplePaperZincWhite   
+[French - PDF](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french.pdf) | [Biolinum](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_atkinson.pdf) | Cursive | CustomDesign1 | CustomDesign2 | [CustomPurplePaper](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple01.pdf) | [CustomPurplePaperZincWhite](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple02.pdf)  
 English - Plain Text  
 English - PDF  
 
