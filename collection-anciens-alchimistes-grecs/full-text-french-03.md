@@ -32,15 +32,16 @@
 
 # Texte Grec.
 
+## Quatrième Partie.
 
-OATRΙE PARTΙE
-LEURS
-IV. 1. --- ΙΕΑAΓΙΟΥ ΤΙλΟΣΟΟΟΥ ΠΕΡΙ ΤΗΣ ΘΕΙΑΣ
-ΤΑrΤΣ ΚΑΙ IΕΡΑΣ ΤΕΝΗΣ.
+### Les Vieux Auteurs.
+
+#### 4. --- 1. ΙΕΑAΓΙΟΥ ΤΙλΟΣΟΟΟΥ ΠΕΡΙ ΤΗΣ ΘΕΙΑΣ ΤΑrΤΣ ΚΑΙ IΕΡΑΣ ΤΕΝΗΣ.
 
 Transcrit sur M, f. 62 v. ; --- Collationné sur A, f. 222 v. : --- sur K (copie de
 M ?) f. 72 v. ; --- sur Lc, p. 49. --- Contenu aussi dans les mss. de Vienne (cod.
 med. gr., 51 et 52, dériνes de M).
+
 1] (ί μὶν προγενέστεροι καὶ ἐρασταὶ καὶ ἀνάπλεοι φιλόσοφοι
 ἐφησαν ὅτι πᾶσα τέχνη ἐνεκεν τοῦ τέλους αὐτῆς ἐπινοεῖται τῶ βίω
 5 οἶον ἡ τεκτονικὴ μία οὕσα διὰ τοῦτό ἐστιν ῖνα ποιήση θρόνον ἡ
