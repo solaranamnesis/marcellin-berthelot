@@ -1,6 +1,6 @@
 \documentclass[a4paper, 11pt, oneside, polutonikogreek, french]{article}
-\usepackage{lmodern}
 \usepackage[T1]{fontenc}
+\usepackage{aurical}
 % Load encoding definitions (after font package)
 
 \usepackage{textalpha}
@@ -47,17 +47,17 @@
 \usepackage{wasysym}
 \usepackage{svg}
 
-\newcommand*\svgA{\includesvg[height=0.7em]{svgs-yellow/01.svg}}
-\newcommand*\svgB{\includesvg[height=0.7em]{svgs-yellow/02.svg}}
-\newcommand*\svgC{\raisebox{0.5ex}{\includesvg[width=1em]{svgs-yellow/03.svg}}}
+\newcommand*\svgA{\includesvg[height=0.7em]{svgs-cerulean/01.svg}}
+\newcommand*\svgB{\includesvg[height=0.7em]{svgs-cerulean/02.svg}}
+\newcommand*\svgC{\raisebox{0.5ex}{\includesvg[width=1em]{svgs-cerulean/03.svg}}}
 
 \usepackage{sectsty}
 \usepackage[titles]{tocloft}
 
-\allsectionsfont{\bfseries}
-\sectionfont{\bfseries\Huge}
-\subsectionfont{\bfseries\LARGE}
-\subsubsectionfont{\bfseries\Large}
+\allsectionsfont{\Fontauri}
+\sectionfont{\Fontauri\Huge}
+\subsectionfont{\Fontauri\LARGE}
+\subsubsectionfont{\Fontauri\Large}
 
 \usepackage{setspace}
 \onehalfspacing
@@ -65,21 +65,40 @@
 % change color of text, example replace all \color{Goldenrod} with \color{lightgray}
 
 \makeatletter % change only the display of \thepage, but not \thepage itself:
-\patchcmd{\ps@plain}{\thepage}{\bfseries\large\color{SpringGreen}{\thepage}}{}{}
+\patchcmd{\ps@plain}{\thepage}{\bfseries\large\color{Cerulean}{\thepage}}{}{}
 \makeatother
 
-\color{SpringGreen}
+\color{Cerulean}
 
 \begin{document}
-\bfseries
-\pagestyle{plain} % after changing a pagestyle command, it's necessary to invoke it explicitly
+\Fontauri
+\renewcommand{\cftfigfont}{\Fontauri}
+\renewcommand{\cftfigpagefont}{\Fontauri}
 
-\renewcommand{\thefigure}{\bfseries{\arabic{figure}}}
-\renewcommand\thefootnote{\bfseries{\tiny\arabic{footnote}}}
+\renewcommand{\cftsecfont}{\Fontauri}
+\renewcommand{\cftsubsecfont}{\Fontauri}
+\renewcommand{\cftsubsubsecfont}{\Fontauri}
+% fix toc page numbers
+\let\origcftsecfont\cft
+\let\origcftsecpagefont\cftsecpagefont
+\let\origcftsecafterpnum\cftsecafterpnum
+\renewcommand{\cftsecpagefont}{\Fontauri{\origcftsecpagefont}}
+\renewcommand{\cftsecafterpnum}{\Fontauri{\origcftsecafterpnum}}
+\let\origcftsubsecpagefont\cftsubsecpagefont
+\let\origcftsubsecafterpnum\cftsubsecafterpnum
+\renewcommand{\cftsubsecpagefont}{\Fontauri{\origcftsubsecpagefont}}
+\renewcommand{\cftsubsecafterpnum}{\Fontauri{\origcftsubsecafterpnum}}
+\let\origcftsubsubsecpagefont\cftsubsubsecpagefont
+\let\origcftsubsubsecafterpnum\cftsubsubsecafterpnum
+\renewcommand{\cftsubsubsecpagefont}{\Fontauri{\origcftsubsubsecpagefont}}
+\renewcommand{\cftsubsubsecafterpnum}{\Fontauri{\origcftsubsubsecafterpnum}}
+
+\renewcommand{\thefigure}{\Fontauri{\arabic{figure}}}
+\renewcommand\thefootnote{\Fontauri{\footnotesize\arabic{footnote}}}
 \let\oldfootnote\footnote
-    \renewcommand{\footnote}[1]{\oldfootnote{\bfseries\large#1}}
+    \renewcommand{\footnote}[1]{\oldfootnote{\Fontauri\large#1}}
 
-\AddToShipoutPictureBG{\includegraphics[width=\paperwidth,height=\paperheight]{custom-purple-02.jpeg}}
+\AddToShipoutPictureBG{\includegraphics[width=\paperwidth,height=\paperheight]{custom-purple-01.jpeg}}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	%\scshape % Use small caps for all text on the title page
@@ -138,7 +157,7 @@
 \end{titlepage}
 \pagestyle{fancy}
 \fancyhf{}
-\cfoot{\bfseries{\thepage}}
+\cfoot{\Fontauri{\thepage}}
 \Large
 \setlength{\parskip}{1mm plus1mm minus1mm}
 \clearpage
