@@ -36,7 +36,7 @@
 
 ### Les Vieux Auteurs.
 
-#### 4. --- 1. ΙΕΑAΓΙΟΥ ΤΙλΟΣΟΟΟΥ ΠΕΡΙ ΤΗΣ ΘΕΙΑΣ ΤΑrΤΣ ΚΑΙ IΕΡΑΣ ΤΕΝΗΣ.
+#### 4\. --- 1. ΙΕΑAΓΙΟΥ ΤΙλΟΣΟΟΟΥ ΠΕΡΙ ΤΗΣ ΘΕΙΑΣ ΤΑrΤΣ ΚΑΙ IΕΡΑΣ ΤΕΝΗΣ.
 
 Transcrit sur M, f. 62 v. ; --- Collationné sur A, f. 222 v. : --- sur K (copie de
 M ?) f. 72 v. ; --- sur Lc, p. 49. --- Contenu aussi dans les mss. de Vienne (cod.
@@ -7884,5 +7884,11 @@ BLEMMIDES
 κο.] abréviation de κοτύλου (synonyme τινὸς... (voir p. suiv.).
 
 # Traduction.
+
+## Quatrième Partie.
+
+### Les Vieux Auteurs.
+
+#### 4\. --- 1.
 
 ...
