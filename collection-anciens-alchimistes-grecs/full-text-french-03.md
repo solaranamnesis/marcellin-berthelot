@@ -28,6 +28,10 @@
 
 ...
 
+# [Cinquième Partie. --- Traités Techniques.]()
+
+# [Sixième Partie. --- Commentateurs.]()
+
 ---
 
 # Texte Grec.
@@ -7890,5 +7894,13 @@ BLEMMIDES
 ### Les Vieux Auteurs.
 
 #### 4\. --- 1.
+
+...
+
+# Cinquième Partie. --- Traités Techniques.
+
+...
+
+# Sixième Partie. --- Commentateurs.
 
 ...
