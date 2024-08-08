@@ -22,19 +22,19 @@
 
 # [Texte Grec.](#texte-grec-1)
 
-## [Quatrième Partie.]()
+## [Quatrième Partie.](#quatrième-partie-2)
 
-### [Les Vieux Auteurs.]()
+### [Les Vieux Auteurs.](#les-vieux-auteurs-2)
 
 ...
 
 # [Traduction.](#traduction-1)
 
-## [Quatrième Partie.]()
+## [Quatrième Partie.](#quatrième-partie-3)
 
-### [Les Vieux Auteurs.]()
+### [Les Vieux Auteurs.](#les-vieux-auteurs-3)
 
-#### [4. --- 1. Pélage le Philosophe sur l'Art Divin et Sacré.]()
+#### [4. --- 1. Pélage le Philosophe sur l'Art Divin et Sacré.](#4-----1-pélage-le-philosophe-sur-lart-divin-et-sacré-1)
 
 ...
 
