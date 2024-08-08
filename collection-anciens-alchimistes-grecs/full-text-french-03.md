@@ -7893,7 +7893,81 @@ BLEMMIDES
 
 ### Les Vieux Auteurs.
 
-#### 4\. --- 1.
+#### 4\. --- 1. Pélage le Philosophe sur l'Art Divin et Sacré.*
+
+1\. Les anciens philosophes, amoureux (des sciences) et remplis (de zèle), disaient que tout art a été inventé à cette fin (de profiter) à la vie. Ainsi l'art du constructeur a pour objet essentiel de fabriquer un siège, une boîte, ou un navire, au moyen de la seule nature de la (matière) ligneuse.* De même l'art tinctorial* a été inventé en vue de fabriquer une certaine teinture et de produire une certaine qualité* : c'est là aussi la fin de l'art. Il faut savoir que les anciens rapportent un fait exact lorsqu'ils disent : « Le cuivre ne teint pas, mais il est teint, et lorsqu'il a été teint, il teint.* » C'est pour cette raison que tous les écrits exposent dans des termes pareils le travail du cuivre, et montrent comment on le teint : et s'il est teint, alors il teint ; mais s'il n'est pas teint, il ne peut pas teindre, ainsi qu'on l'a (déjà) dit. Voilà pourquoi l'on recommande de rendre le cuivre exempt d'ombre, afin que devenu brillant il puisse recevoir la teinture.
+
+*) Cet article porte le nom de Pélage, l'un des vieux alchimistes (Cp. _Olympiodore_, p. 96 et 194) ; mais il renferme des additions et gloses plus modernes. Le texte est fort obscur et il est difficile d'en garantir le sens exact. Toutefois il semble se rapporter à la dorure et à l'argenture des métaux, tels que le cuivre et le fer : ces métaux doivent être préalablement oxydés ou sulfurés à la surface, puis décapés et rendus brillants ; on étend ensuite à leur surface l'or ou l'argent « atténués : » c'est-à-dire amenés à un grand état de division (poudre ou coquille d'or), ou d'amincissement (feuilles d'or et d'argent) ; sinon même rendus plastiques et mous par leur amalgamation au mercure ; ou bien encore dans certains cas, divisés, et peut-être rendus solubles ( « spiritualisés » ) par l'action préalable d'un sulfure métallique et d'un sel alcalin. --- Tout ceci doit donc, à l'origine, avoir exprimé le fait que l'on dore ou l'on argente un métal au moyen de l'or ou de l'argent divisés, ou d'une composition renfermant ces corps ; puis on a ajouté l'idée de la transmutation du fond même du métal.
+
+*) Cp. Synésius, p. 67.
+
+*) Appliqué aux métaux, c'est-à-dire l'art de la transmutation.
+
+*) Qualité ou couleur d'or ou d'argent.
+
+*) Cp. p. 170 et _passim_.
+
+Par l'ombre du cuivre, il faut entendre la teinte noire qu'il produit dans l'argent. En effet, tu sais que le cuivre soumis au traitement* et projeté sur l'argent le noircit au dedans et au dehors : ce noircissement produit dans l'argent, les écrits le nomment ombre. C'est pour cela qu'il faut traiter le cuivre* jusqu'à ce qu'il ne puisse plus produire de noircissement, lorsqu'il est projeté sur l'argent.
+
+*) C'est-à-dire brûlé, changé en protoxyde par un premier traitement ? Cp. _Introd._, p. 233 ; _Traduction_, p. 154.
+
+*) C'est-à-dire réduire complètement à l'état métallique le protoxyde, formé d'abord à la surface du cuivre ?
+
+2\. Ainsi il faut traiter le cuivre, aussi bien que l'or naturel, jusqu'à ce qu'il ne produise plus le moindre noircissement dans l'argent. C'est pour cette raison que Démocrite, lui aussi, a dit dans son livre sur l'argent : « Vérifie si le cuivre est devenu sans ombre ; car si le cuivre n'est pas devenu sans ombre, ne t'en prends pas au cuivre (de ton insuccès), mais à toi-même.* »
+
+*) Cp. p. 133.
+
+3\. On traite le cuivre par l'eau divine, lorsqu'il a éprouvé la décomposition, qu'il a été délayé, cuit et lavé. « On le lave, dit-il, jusqu'à ce que tout son ios soit expulsé. » Souviens-toi, à cet égard, de ce que disent les philosophes : « Après que le cuivre a été affiné, noirci et ultérieurement blanchi ; alors (seulement) la teinture est solide. »
+
+Comprends bien les six opérations. L'iosis se fait au moyen de l'eau divine ; l'affinage a lieu dans le lavage ; le noircissement s'exécute lorsque le chrysolithe est mélangé (avec le cuivre brûlé), avant le lavage ; l'atténuation, lorsqu'il est délayé dans le chrysolithe ; le blanchiment, lorsqu'il est desséché après délaiement avec le chrysolithe ; enfin le jaunissement se fait lorsque les substances pouvant teindre en jaune sont appliquées et introduites pendant la durée de la digestion dans de petits amas de fumier.
+
+Telles sont les six transformations qui se font dans le cuivre, afin de (le) teindre. Si elles ne sont pas toutes effectuées, rien n'est fait ; attendu que si le cuivre ne devient pas jaune et brillant, rien n'est fait.
+
+4\. Ainsi (il faut) d'abord teindre, transformer, couper en morceaux le cuivre ; de cette façon on obtient une iosis parfaite au moyen de l'eau divine, entends par iosis parfaite la dorure (qui a lieu) dans la décomposition. Or, c'est cette iosis que le vieux Zosime avait en vue lorsqu'il disait : « Celui qui fait de l'ios fait de l'or ; et celui qui n'en fait pas, ne fait rien.* Lorsque tu verras la dorure parfaite avec le soufre,* alors comprends que tu as accompli une rouille parfaite, en colorant le métal par le soufre, non seulement à la surface, mais aussi dans la profondeur. »
+
+*) Cp. p. 145.
+
+*) Ou bien plutôt avec l'eau divine.
+
+Il y a (là) l'indication du commencement de l'iosis, ainsi que de celle qui est produite à l'intérieur, c'est-à-dire de la véritable iosis, laquelle est aussi désignée comme l'ios de l'or. Veille donc à ce qu'elle soit effectuée dans la profondeur. Si elle ne l'est pas, il n'y a pas d'iosis. Cette opération est aussi appelée jaunissement par le Philosophe, qui dit : « Prenant de la pyrite, traite-(la) jusqu'à ce qu'elle devienne jaune. » Il appelle pyrite le cuivre, à cause du caractère igné de sa nature ; et aussi parce qu'il faut qu'il devienne tel que l'iosis s'accomplisse.
+
+5\. De la même façon, il arrive à l'affinage, qu'il indique aussi dans ces termes : « jusqu'à ce que l'opération inverse de l'iosis soit effectuée. Qu'il y ait d'abord noircissement et la réduction suivra. Prenant donc une partie de chrysolithe, trois parties de magnésie,* délaie en l'absence de tout liquide ; délaie jusqu'à ce que les substances se pénètrent mutuellement et se combinent. Alors il ne subsiste plus aucune apparence du soufre blanc et (le mélange) devient tout à fait noir comme de l'encre à écrire. Laisse-le reposer pendant trois jours ; puis, le jetant alors dans le bassin, verse dessus le liquide avec lequel on a coutume de laver ; délaie de nouveau et fais cuire avec du soufre répandu tout autour. »
+
+*) Signe du cinabre sur le mot magnésie, dans M ; le mot cinabre est écrit à la suite de μαγνησία dans Lc.
+
+Comment se fait le traitement ? comment le produit a-t-il une nature incombustible ? Ce qu'on appelle chalcopyrite, c'est le plomb (traité par le) soufre apyre. Lave le chrysolithe étésien, dit-il, jusqu'à ce que son ios en sorte. De cette façon rien n'est perdu, le cuivre demeurant uni au plomb. C'est là ce qu'on appelle la grande purification ; on l'appelle aussi affinage et noircissement : noircissement à cause de la couleur noire du mélange ; affinage, à cause de la transformation et de la dissolution (du produit) provenant de l'ios. C'est cette opération que l'on nomme aussi grand lavage. Après avoir recueilli ce produit dans des vases, laisse-le déposer. Et après avoir clarifié la liqueur, fais sécher le sédiment : tu trouveras qu'il ressemble à de l'encre à écrire. Broie ce produit jusqu'à ce qu'il se développe un jaune parfait. Modifie le produit en y versant ce qui suit : produit décanté,* quatre parties ; matière jaune, une partie ; plomb, une partie ; puis mouille un peu, de façon à former une sorte de boue, et délaie jusqu'à ce que le plomb disparaisse. Enlève et réduis à l'état de pâte ; expose au soleil et laisse sécher, en arrosant peu à peu, jusqu'à ce que le plomb ait disparu ; puis laisse sécher. Alors projette le produit amené à l'aspect convenable.
+
+*) ῥητῆς MAK, ῥυτῆς Lc. Cp. 3, 6, 2, p. 128 et 3, 7, 5, p. 143.
+
+6\. Le vieux Zosime disait* : « Je connais une classe unique, qui comporte deux opérations : la première pour que la fluidité soit produite par l'extraction ; la seconde pour que l'humidité du plomb soit desséchée. » Agis de cette manière, en desséchant ; puis ajoute une quantité égale de coupholithe et délaie avec du vinaigre (fabriqué) au moyen du géranium, jusqu'à blanchiment. Veille donc à ne pas manquer (l'opération) au moment du blanchiment.* On la manque, lorsqu'on ne voit pas apparaître la beauté du cuivre sans ombre, développée au moyen du blanchiment, après que le cuivre a perdu toute sa substance terrestre excédante et sa grossièreté matérielle. Si donc le cuivre sans ombre est blanchi, il devient un être spirituel, et dès lors aucune autre chose ne manque ; il n'y a plus d'autre retard, si ce n'est en raison de la nécessité de le sécher et de le blanchir.
+
+*) Cp. 3, 7, 5, p. 143.
+
+*) Cp. 3, 6, 20, p. 136.
+
+7\. Comprends ici (que) toutes les choses déversées sont rejetées et que rien ne reste,* sinon l'or, le plomb et la pierre étésienne, nommée chrysolithe.* Donc, après avoir édulcoré la poudre solide et après l'avoir desséchée, mets avec cette poudre trois parties de couperose, une partie de magnésie, une partie de cuivre. Ajoutes-y une partie de poudre solide. Délaie au soleil, en arrosant avec du vinaigre blanc pendant sept jours ; plus tard, après avoir desséché, fais digérer dans du fumier et laisse cuire pendant deux ou trois jours. Lorsque tu retireras (le vase), tu trouveras l'or teint en rouge comme du sang. Tel est le cinabre des philosophes et le cuivre jaune une couleur sans ombre. Souviens-toi à ce propos que le vieil auteur disait : « Le cuivre devenu sans ombre teint toute espèce de corps.* » C'est aussi pour cette raison que le Philosophe disait : « Pourquoi parlez-vous de la matière multiple ? le produit naturel est un, et une, la nature qui domine le Tout. » Comprenons que par le produit naturel il entend l'or conforme à la nature ; car cet or naturel domine le Tout, étant formé par les corps subordonnés. Ainsi, par exemple, si on l'étale sur le fer ou le cuivre, il domine la surface de ces (corps), qui se trouve revêtue d'or naturel.
+
+*) Ce paragraphe traite d'un autre sujet que le précédent.
+
+*) Au-dessus, signe du cinabre, M.
+
+*) Cp. Démocrite, p. 49.
+
+8\. C'est ainsi que l'on opère : le produit est dissous au moyen de l'eau divine, fermenté comme le levain du pain* ; ensuite le chrysolithe étant délayé avec ce produit, à parties égales, l'eau agit conformément à la nature du produit, avec le concours de la décantation* ; puis le chrysolithe est mis en œuvre, après le mélange de (l'or) naturel.*
+
+*) Lc ajoute : « il vainc toute nature. »
+
+*) Ou de la liquéfaction.
+
+*) Lc ajoute : « Le mystère est traité. Et Zosime dit : »
+
+Zosime dit : « L'or naturel, étant changé en esprit au moyen du chrysolithe,* teint conformément à sa nature ; l'argent, si nous le dissolvons au moyen de l'eau divine et si nous le changeons en esprit au moyen du chrysolithe, teint le cuivre en blanc. » Il disait aussi cela en d'autres termes : « En effet les deux teintures ne diffèrent en rien l'une de l'autre, si ce n'est par la couleur, c'est-à-dire qu'elles comportent un seul et même mode de traitement,* d'après lequel (les corps sont) d'abord dissous au moyen de l'eau divine et plus tard la poudre solide est changée en esprit au moyen du chrysolithe. » Or elles diffèrent par la couleur. Chacune d'elles teint suivant sa nature propre : l'or teint l'or, et l'argent teint l'argent. N'entends-tu pas le vieil auteur disant : « Celui qui sème du blé fait naître et récolte le blé ; l'or aussi fait naître l'or ; pareillement l'argent fait naître l'argent.* »
+
+*) S'agit-il ici de la dissolution de l'or, au moyen d'un sulfure métallique ?
+
+*) Cp. p. 136.
+
+*) _Isis à Horus_, ci-dessus, p. 33 ; et 3, 16, 6.
 
 ...
 
