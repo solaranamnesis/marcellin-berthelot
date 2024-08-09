@@ -7979,6 +7979,40 @@ Zosime dit : « L'or naturel, étant changé en esprit au moyen du chrysolithe,*
 
 *) _Isis à Horus_, ci-dessus, p. 33 ; et 3, 16, 6.
 
+9\. Pour la même raison le vieux Philosophe s'exprimait ainsi* : « Nous emploierons des (éléments) naturels. » Or il est nécessaire de savoir que l'or teint naturellement, après avoir été d'abord dissous au moyen de l'eau divine et plus tard changé en esprit au moyen du chrysolithe. Il est appelé aussi, d'après sa nature, corps solide ; et il faut qu'il soit d'abord dissous et plus tard changé en esprit : de cette façon il teint toutes choses naturellement. Car les deux autres éléments* étant, d'après leur nature propre, volatils et combustibles, sont dissipés dans le feu. De là vient que le vieux Zosime disait : « Le mystère de la teinture d'or,* c'est de changer les corps (tinctoriaux métalliques) en esprits, afin de teindre dans l'état de spiritualité ; conformément aux descriptions, et sans arrêt dans l'opération.* En effet, lorsqu'ils sont à l'état solide, ils ne peuvent teindre ; ils doivent être d'abord atténués et spiritualisés. Or l'eau divine d'abord les atténue, et plus tard le chrysolithe les spiritualise.* Ainsi notons qu'il y a deux teintures, selon la spécialité des deux corps (or et argent). Quant aux autres (corps), ils interviennent et transforment la teinture, en s'y associant et en y coopérant. Les agents de transformation dissolvent et spiritualisent ; les agents coopérateurs sont ceux que l'on projette au moment de la fusion. Il faut noter d'ailleurs que l'or ou l'argent, simplement disposé en enduit superficiel, ne domine pas le fer ou le cuivre : il faut que ces métaux soient traités d'abord par des mordants. De même, dans la transmutation, ni l'or ni l'argent n'ont de puissance, s'ils n'ont pas été d'abord traités par des mordants. Il convient donc d'arroser la poudre sèche avec les mordants liquides, afin que la teinture rendue astringente et pénétrant jusqu'au fond, se fixe et agisse dans la profondeur du corps, la poudre de projection étant dissoute. Pour cette raison la nature est charmée par la nature, etc.
+
+*) Lc : « Le vieux Philosophe s'écriait : Employons, employons des éléments naturels. »
+
+*) Le plomb et l'étain, opposés à l'or et à l'argent.
+
+*) Ces mots sont précédés dans A par la glose suivante : « La poudre sèche devient apte à fixer la couleur, lorsqu'elle est arrosée avec les liquides ; ce qui développe la teinture, par la décomposition opérée dans ceux-ci. »
+
+*) Lu comme A Lc : ἐπισταθμίαν, étape.
+
+*) Sur le sens de ce passage, voir la note 1 de la p. 243.
+
+10\. Conçois donc que l'on fait absorber par le corps métallique l'eau divine, le chrysolithe et les mordants. N'est-ce pas ainsi que la nature du corps (métallique) se réjouit ? Elle se réjouit de la nature de l'eau, étant par elle alimentée, épaissie et augmentée. Est-ce que le cuivre, qui est sans charme et sans éclat par essence, n'est pas charmé et rendu brillant lorsqu'on lui associe la nature brillante de l'eau divine ? Est-ce que la nature du corps épais et terrestre n'est pas vaincue par la nature spirituelle et aérienne du chrysolithe ? Est-ce qu'il n'est pas dominé par les liqueurs astringentes, comme il arrive à l'or et l'argent fixés à la surface du fer ou du cuivre ? Il faut convenir en général que, si le fer ou le cuivre n'a pas été traité par les mordants, il n'est pas dominé par l'or ou l'argent, étendu à sa surface.* Mais s'il a été ainsi traité et qu'alors il soit enduit, il est dominé en vertu de la puissance du mordant.*
+
+*) C'est-à-dire le fer ou le cuivre ne peuvent être argentés ou dorés que s'ils sont décapés à la surface, avant que l'on y étende la composition destinée à la dorure ou à l'argenture.
+
+*) Signe du cinabre, A.
+
+11\. Mais on objectera : Si l'or ou l'argent constituent des poudres de projection, capables de produire deux teintures, comment effectuer l'opération de l'iosis, et la réduction, et l'atténuation, et le noircissement, puis le blanchiment ? C'est qu'alors le jaunissement sera solide, selon ce qui a été dit précédemment. Nous disons en effet que toute chose se trouve en puissance et se développe ensuite dans les deux teintures. En effet, il a été dit* que l'on appelle iosis la dissolution (effectuée) dans l'eau divine, parce que l'iosis réside en puissance dans l'eau (divine). Il en est de même pour la réduction, l'atténuation, le noircissement et le blanchiment, qui suit la transformation. Puis vient le jaunissement solide, non seulement en puissance, mais aussi en acte. Toutes ces choses sont exécutées avant que l'or soit blanchi, et plus tard jauni solidement, jusqu'à ce que (l'or) spirituel et parfait soit achevé et accompli. Le Philosophe a raison de dire : « O natures célestes, démiurges des natures créatrices* » : en effet, c'est à la façon d'une création que les deux natures des soufres, suivant le caractère liquide du mélange (de la magnésie) et le caractère sec de l'essence (du cinabre), transforment par leur vertu créatrice les natures terrestres des corps, en natures spirituelles et tinctoriales. Les natures célestes de ces soufres doivent être entendues comme des natures qui ne peuvent être enlevées par la suite.* C'est pourquoi il dit aussi : « Rien n'a été oublié, rien ne fait défaut, sauf le brouillard et la montée de l'eau ; » au lieu de dire : Rien d'autre n'est attendu. Il dit encore : « Mais si le corps est réduit au dernier degré d'atténuation, comme le brouillard de l'eau (divine), et que l'eau à son tour soit évaporée sur ce corps, voici que le Tout est ramené à ses éléments. »
+
+*) Cp. § 3 et 4.
+
+*) Démocrite, p. 50.
+
+*) C'est-à-dire que la transmutation a changé l'essence du métal.
+
+12\. La montée de l'eau est interprétée comme un allègement, parce qu'on fait monter et qu'on allège l'infusion de l'eau, combinée au corps ... Il nous suffira de nous rappeler que l'on opère avec le mortier et le pilon, dans le cas des deux teintures ... S'il s'agit du cuivre, on emploie la coupe en forme d'autel. Zosime parlait aussi de cet (appareil) : (il disait) que l'arbre (est) une plante cultivée, arrosée et qui fermente en raison de l'abondance de l'eau ; grandissant, en raison de l'humidité et de la chaleur de l'air, il porte des fleurs ; enfin, grâce à la grande douceur et à la qualité favorable de sa nature, il porte des fruits.*
+
+*) Ceci complète le texte des p. 123 et 124.
+
+---
+
+#### 4\. --- 2. Le Philosophe Ostanès a Petasius sur l'Art Sacré et Divin.*
+
 ...
 
 # Cinquième Partie. --- Traités Techniques.
