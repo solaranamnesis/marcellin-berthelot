@@ -36,7 +36,7 @@
 
 #### [4. --- 1. Pélage le Philosophe sur l'Art Divin et Sacré.](#4-----1-pélage-le-philosophe-sur-lart-divin-et-sacré-1)
 
-#### [4. --- 2. Le Philosophe Ostanès a Petasius sur l'Art Sacré et Divin.]()
+#### [4. --- 2. Le Philosophe Ostanès a Petasius sur l'Art Sacré et Divin.](#4-----2-le-philosophe-ostanès-a-petasius-sur-lart-sacré-et-divin-1)
 
 ...
 
