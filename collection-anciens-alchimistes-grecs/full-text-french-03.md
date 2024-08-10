@@ -8111,7 +8111,9 @@ La suite de ce morceau reproduit un texte déjà donné, à la page 142,* jusqu'
 
 J'ai neuf lettres et quatre syllabes ; entends-moi. Les trois premières syllabes ont chacune deux lettres. L'autre syllabe contient le reste des lettres : cinq sont muettes (consonnes). Le nombre total exprimé renferme seize centaines, plus trois ; plus quatre fois treize : sachant qui je suis, tu seras initié à la divine sagesse que je contiens.
 
-3. 5. --- Agathodémon, Hermès et Divers.
+---
+
+#### 4\. --- 5. Agathodémon, Hermès et Divers.
 
 **Oracle d'Orphée Explication et Commentaire d'Agathodémon sur l'Oracle d'Orphée.*
 
