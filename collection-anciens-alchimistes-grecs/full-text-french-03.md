@@ -8015,6 +8015,106 @@ Zosime dit : « L'or naturel, étant changé en esprit au moyen du chrysolithe,*
 
 #### 4\. --- 2. Le Philosophe Ostanès a Petasius sur l'Art Sacré et Divin.*
 
+*) Ce fragment est le seul qui porte le nom d'Ostanès, auteur apocryphe souvent cité aux 3e et 4e siècles de notre ère, et dont Zosime nous a conservé des phrases énigmatiques (p. 129). Le traité arabe, attribué au même écrivain, est évidemment pseudonyme (_Introd._, p. 219). Le morceau actuel est écrit dans une langue symbolique dont le sens nous échappe : cette langue rappelle la nomenclature du Papyrus de Leide et des prêtres égyptiens, cités dans Dioscoride (_Introd._, p. 10 et 11). Les signes du mercure et du cinabre, etc., placés au-dessus de certains mots, dont le sens littéral est tout différent, confirment cette manière de voir.
+
+1\. La nature du corps inaltérable (l'or) se plait dans une petite quantité de liquide* ; car c'est par le mercure que les mélanges se dépouillent de la matière qui leur sert de support. C'est au moyen de l'eau précieuse et divine que cette maladie* est traitée. (Par là) les yeux des aveugles voient ; les oreilles des sourds entendent ; ceux dont la langue est embarrassée parlent clairement.
+
+*) Signe du mercure au-dessus, dans M.
+
+*) La pauvreté. Cp., p. 163.
+
+2\. Voici la préparation de cette eau divine : Prends les œufs du serpent du chêne* qui au mois d'août habite* dans les montagnes de l'Olympe, du Liban ou du Taurus. Prends ces œufs frais, mets-en une livre dans un vase de verre. Jettes-y de l'eau divine, toute chaude ; fais monter quatre fois dans la région céleste, jusqu'à ce que l'huile distillée devienne couleur de pourpre. Prends : amiante, 13 onces ; sang de coquillages (de pourpre), 9 onces ; œufs d'éperviers aux ailes d'or, 5 onces. Ces œufs se trouvent près des cèdres du Liban, dans la montagne. Délaie dans un mortier de pierre ces espèces, (savoir) l'amiante, le coquillage et les œufs, jusqu'à ce que le tout soit unifié. Puis fais distiller sept fois, dans un alambic de verre, et mets de côté. Réunis la première composition avec la seconde,* et délaie pendant trois jours. Après accomplissement de l'opération,* jette dans un (vase) de verre toutes les matières délayées ensemble, et plonge le vase dans de l'eau de mer, pendant un jour et une nuit. (Alors) l'eau divine aura été complètement préparée.
+
+*) Signe du mercure au-dessus, dans M ; à côté, dans A.
+
+*) Au-dessus de ce mot, signe du cinabre, dans M.
+
+*) Au-dessus de ce mot, dans M, un signe que l'on peut traduire par magnésie.
+
+*) Au-dessus de ce mot, Iosis, dans A.
+
+3\. Cette eau divine ressuscite* les morts et fait mourir* les vivants ; elle éclaircit* les choses obscures et obscurcit* les choses claires ; elle s'empare de l'eau de mer et fait disparaître le feu. Quelques petites gouttes de cette eau donnent au plomb l'aspect de l'or, avec le concours du Dieu invisible et tout-puissant, qui pratique la sagesse et la puissance, et qui ordonne que du non-être toutes choses soient amenées à l'être, qu'elles prennent la naissance et soient douées de forme. C'est à celui-là seul qu'il faut attribuer la force, au Dieu unique, universel et véritable. A lui et au souverain de notre vie et de notre salut, Jésus-Christ, ainsi qu'au Saint-Esprit, intelligence directrice (du monde), gloire et magnificence dans la série indéfinie des siècles ! Amen.*
+
+*) Au-dessus de ce mot, dans M, le même signe, qui a été traduit dans la note par magnésie.
+
+*) Au-dessus, le signe du cinabre, M.
+
+*) Même signe, dans M.
+
+*) Même signe, dans M.
+
+*) Cette finale est due à un moine chrétien. Mais le début semble le débris, devenu inintelligible, d'un vieux morceau symbolique ; ainsi que le montrent d'ailleurs les signes placés au-dessus de certains mots dans les manuscrits.
+
+---
+
+#### 4\. --- 3. Jean l'Archiprêtre en Évagie sur l'Art Divin.
+
+1-9\. Reproduction des §§ 15 à 24 et dernier du Traité de Zosime sur la Vertu et l'Interprétation (p. 135 à 139), sauf ces premiers mots :
+
+Observons et voyons, si nous philosophons, en définissant de préférence cette expression énigmatique : « Lorsque quelque chose manque aux qualités, on ne réussit à rien de ce que l'on attend. »
+
+10\. Voici des renseignements plus abondants sur la façon dont se forment les effluves lunaires : Rends-toi dans la grotte d'Ostanès, vois les vases des eaux préparées en nombre par lui, et remplis-les d'eau potable ; ou bien encore, te rendant au fleuve du Nil, opère comme il a été écrit, comme l'a déclaré Hermès par ces mots : Ce qui tombe du déclin lunaire, où cela se trouve-t-il ? où cela se traite-t-il ? et comment cela a-t-il une nature incombustible ? Tu trouveras la réponse chez moi et chez Agathodémon.* Le produit de ces effluves, on le voit tomber dans des récipients qui le reçoivent ; il est doué d'une nature incombustible, jaune comme la couleur d'or. Adouci par les eaux douces et potables, il est dépouillé de toute matière étrangère. Parmi les couleurs, on désigne le chrysanthème, la chrysolithe, la coquille d'or, la liqueur d'or et toutes les substances dont le nom est formé au moyen de l'or et se rapporte à l'or. Tel est le nom de la pyrite ; cette pierre étant convenablement blanchie dans l'eau divine, puis soumise à l'évaporation, se trouve jaunie de cette façon et débarrassée (de son principe étranger). L'ios desséché est désigné sous le nom de l'or. Celui qui produit l'or produit l'ios et celui qui n'en produit pas, ne produit rien.
+
+*) Cp., p. 132.
+
+11\. Tout cela, tous les écrits (alchimiques) l'ont révélé et l'ont érigé en doctrine pour la seule extraction, lorsqu'ils disaient : Extrais la nature et tu trouveras ce qui est cherché. Car la nature est cachée à l'intérieur : là se trouve contenue la nature. Lorsque tu veux opérer, procède en suivant la marche indiquée dans toutes les inscriptions sur stèle, et ainsi que Démocrite l'a écrit sur une stèle* : « Observe, en prenant l'ios, que tantôt il adhère à l'alun, tantôt à l'ocre, tantôt à la chélidoine,* en t'appliquant différemment, suivant les circonstances, et en ouvrant ton esprit. Observe aussi que l'ios lui-même a la faculté de se dissoudre. En le soumettant à un traitement énergique, il est dissous, ou bien il est (absorbé) et pénètre dans le cinabre.* C'est pourquoi il ne faut pas le projeter, vu qu'il devient esprit. On doit dès-lors éviter un feu violent : car autrement on ne pénétrerait pas jusque dans la profondeur du cœur du corps fondu. » Rappelons que tous ces préceptes sont donnés sur une seule stèle, le philosophe s'exprimant ainsi : « Prenant la rhubarbe du Pont, délaie-la dans du vin d'Amina desséché ; donne (au mélange) la consistance de la cire ; enduis-en les feuilles d'argent, avec une couche de l'épaisseur de l'ongle, ou plus mince. Enduis ainsi la moitié (l'une des faces de la feuille) ; mets-la dans un vase neuf ; et lutant tout autour, chauffe simplement, jusqu'à ce que la préparation soit absorbée. Fais aussi cela pour l'autre moitié (c'est à dire l'autre face), jusqu'à ce que la feuille se soit amincie ; puis fais fondre.
+
+*) Il semble prouvé par ce passage que les plus vieux textes, même ceux du Pseudo-Démocrite, ont été inscrits sur des stèles, ou peut-être sur des inscriptions gravées par colonnes sur les parois des chambres secrètes des temples, telle que celle où l'on lit encore de nos jours la formule sacrée du Kyphi. --- Cp. _Origines de l'Alchimie_, p. 38, _Introd._, p. 200 et le récit de l'Evocation, dans Démocrite, _Physica et Mystica_, p. 45 ; voir aussi p. 39.
+
+*) _Ios_ semble représenter ici le principe de la coloration en jaune, plutôt qu'une matière jaune déterminée.
+
+*) Ou bien dans l'or, d'après Lc ; ce qui indique que ce dernier copiste (17e siècle) a admis que le signe du cinabre représente ici l'or. --- Cp. _Introd._, p. 122.
+
+12\. Exposant ces choses aux Perses,* il dit : « Cet homme a accompli cela par sa propre sagesse ; ayant employé des espèces convenables, il enduisait extérieurement les substances, et il les imprégnait profondément par l'action du feu. Il dit que c'est l'usage chez les Perses de procéder ainsi. C'est pourquoi, dans toutes les inscriptions sur stèles, il transmet au vulgaire le précepte de teindre à fond par enduit ; il montre aussi comment on évite les insuccès. Car souvent, la préparation étant surabondante, les enduits n'étaient pas absorbés entièrement et ne produisaient pas leur effet spécifique. Nous avons dit que le feu, lorsqu'il est activé par le soufflet avec une trop grande force, détermine la déperdition de l'esprit et, par suite, ne produit pas l'effet* cherché.
+
+*) Cp. p. 61.
+
+*) Dans tout ce passage, il semble qu'il s'agisse d'une opération effectuée à l'aide de la kérotakis, dans le but de teindre un métal, après l'avoir enduit de soufre, d'arsenic sulfuré, ou d'autres sulfures jaunes : ce qui le dissout à la surface et l'amincit peu à peu. Mais il faut ménager le fondant, pour qu'il ne détruise pas tout le métal. Il faut aussi chauffer doucement, afin que le fondant puisse pénétrer le métal ; tandis qu'il serait évaporé ou brûlé par l'action d'un feu trop énergique.
+
+13\. Ostanès emploie aussi le même procédé, en disant à la fin de son traité : « Il faut teindre les lames métalliques dans les liqueurs et enduire ainsi la préparation ; car de cette façon elle recevra facilement la teinture. » Mais, moi je vous dis à mon tour, et je rappelle à votre attention quelle est la pratique des orfèvres et de tous ceux qui savent teindre l'or avec la couperose, le sel et l'ocre.* En procédant chacun à sa façon, ils purifient l'or, d'après les moyens précités et de mille autres manières. En saupoudrant et délayant, ils font disparaître l'éclat de certains bijoux. Leurs espèces sont soumises à l'action du soufflet ; ils en épuisent l'action et ils s'efforcent de faire pénétrer la teinte convenable dans toute la profondeur.
+
+*) On voit qu'il s'agit ici de donner à l'or une couleur convenable, conformément aux pratiques des orfèvres (voir dans l'_Introduction_, Papyrus de Leide, p. 56 et 58).
+
+14\. De même que l'aimant attire à lui le fer par sa nature ; de même aussi la couperose attire à elle, par sa nature propre, toute nature fusible contenue dans l'or.* De même qu'il existe, dit-on, une pierre noire sacrée qui, par sa nature, donne l'habileté aux praticiens qui la portent ; de même aussi nous voyons agir tous les fondants par leur nature propre. Telle est la propriété astringente,* pour les corps employés à purifier l'or, et la propriété rectificatrice ( ? ) de la matière appelée _thénacar_, celle du natron, et des substances semblables, prises isolément ou mélangées deux à deux, lorsqu'elles exercent naturellement leur puissance spécifiques sur les feuilles métalliques qui en sont enduites.
+
+*) C'est la purification de l'or par le sulfate de fer et le sel marin (voir _Introduction_, p. 14).
+
+*) De la couperose.
+
+15\. Il a été trouvé bon par les anciens de faire aussi les enduits des feuilles au moyen de corps gras, par exemple avec les jaunes d'œuf.* C'est pourquoi il (Démocrite) fait entendre (par énigmes) [que l'on opère] au moyen de l'huile de ricin, de l'urine des impubères, et des sels, c'est-à-dire des corps qui ont une puissance astringente. Il a été aussi érigé en doctrine qu'il faut préférer le vinaigre blanc, pur, bien préparé, et très fort.* On dit qu'il attaque les corps métalliques et les acidifie, à cause de sa propriété astringente. En les délayant avec la couperose, jusqu'à consistance visqueuse, ils prennent une consistance cireuse et mettent en jeu les actions spécifiques qui font réussir les traitements.
+
+*) Ce mot semble employé ici dans un sens symbolique (voir sur les parties de l'œuf philosophique, p. 18 et 21).
+
+*) Le mot vinaigre, dans la langue de nos auteurs, désigne toute liqueur acide, alcaline, ou généralement douée d'activité chimique. Cependant il semble que, dans te passage actuel, il s'agisse en particulier de l'acide de la couperose, c'est-à-dire de l'acide sulfurique, plus ou moins impur.
+
+16\. Il faut surveiller avec soin les accouchements, afin que l'avortement n'ait pas lieu.* Les avortements de la chair se produisent et donnent lieu à des êtres qui ne participent pas à la lumière du monde, à cause de l'imperfection (du fœtus ? ) et parce que l'on n'a pas observé le moment favorable pour l'enfantement. De même [dans] notre fabrication, lorsque (le travail) n'est pas accompli suivant ses règles propres, on ne réussit pas à obtenir les produits annoncés dans l'écrit. Certaines plantes et semences, soumises à l'action sidérale, dans les moments où l'atmosphère se trouve dans un certain désordre, sont gâtées par le vent, et privées de leur fécondité, et il en est souvent de même dans les actions chimiques génératrices. C'est pourquoi si les premiers composants sont mélangés convenablement, sans excès ni défaut des contraires ; si la liaison des enduits a lieu en bonne proportion, le tout viendra à bon terme. On sait qu'il faut veiller à ce que le moment de l'enfantement n'arrive pas avant 9 mois ; (autrement) l'avortement aura lieu. De même la (durée) de la cuisson pour toutes les feuilles, (métalliques) n'est pas moindre de 9 heures ; car ce procédé est conforme à celui de l'enfantement.*
+
+*) Ce paragraphe n'a qu'une relation éloignée avec ceux qui précèdent. Cp. p. 198.
+
+*) Le Traité de Jean se termine ici dans le manuscrit Lc. La suite fait partie d'un traité de Zosime.
+
+17\. Quant au moment (convenable) pour le fonctionnement de l'autel en forme de coupe, juges-en suivant le degré de la macération. En effet, considère qu'il y a trois procédés d'opération et de mélange. Le premier procédé, entends-moi bien, comporte les choses pétries et fermentées, ainsi qu'on fait pour le limon et pour la farine. De même que le (corps) liquide ne doit pas être vaporisé outre mesure, mais seulement jusqu'au degré voulu ; de même aussi, pour la composition, le vase de terre cuite qui recouvre la coupe placée sur la kérotakis a une ouverture, afin que l'on puisse voir si la composition blanchit ou jaunit.
+
+La suite de ce morceau reproduit un texte déjà donné, à la page 142,* jusqu'aux mots : « Le vieux Zosime. »
+
+*) Cp. p. 230.
+
+---
+
+#### 4\. --- 4. Enigme de la Pierre Philosophale d'après Hermès et Agathodémon.*
+
+*) Cette énigme se trouve aussi dans les livres Sibyllins, L. 1, vers 141-146 --- Cp. _Origines de l'Alchimie_, p. 136 et Zosime, p. 135.
+
+J'ai neuf lettres et quatre syllabes ; entends-moi. Les trois premières syllabes ont chacune deux lettres. L'autre syllabe contient le reste des lettres : cinq sont muettes (consonnes). Le nombre total exprimé renferme seize centaines, plus trois ; plus quatre fois treize : sachant qui je suis, tu seras initié à la divine sagesse que je contiens.
+
+3. 5. --- Agathodémon, Hermès et Divers.
+
+**Oracle d'Orphée Explication et Commentaire d'Agathodémon sur l'Oracle d'Orphée.*
+
+_Agathodémon à Osiris, salut !_
+
+*) L'alchimie se trouve rattachée par ce texte aux oracles orphiques, comme le sont la magie et les croyances mystiques des premiers siècles de notre ère. Les oracles d'Apollon et autres produits de la même littérature sont d'ailleurs cités à plusieurs reprises, notamment par Olympiodore (p. 86, 94, 96, 103, et p. 152, 170, etc.).
+
 ...
 
 # Cinquième Partie. --- Traités Techniques.
