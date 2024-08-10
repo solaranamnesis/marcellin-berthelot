@@ -42,6 +42,8 @@
 
 #### [4. --- 4. Enigme de la Pierre Philosophale d'après Hermès et Agathodémon.](#4-----4-enigme-de-la-pierre-philosophale-daprès-hermès-et-agathodémon-1)
 
+#### [4. --- 5. Agathodémon, Hermès et Divers.]()
+
 ...
 
 # [Cinquième Partie. --- Traités Techniques.](#cinquième-partie-----traités-techniques-1)
