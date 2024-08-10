@@ -42,7 +42,7 @@
 
 #### [4. --- 4. Enigme de la Pierre Philosophale d'après Hermès et Agathodémon.](#4-----4-enigme-de-la-pierre-philosophale-daprès-hermès-et-agathodémon-1)
 
-#### [4. --- 5. Agathodémon, Hermès et Divers.]()
+#### [4. --- 5. Agathodémon, Hermès et Divers.](#4-----5-agathodémon-hermès-et-divers-1)
 
 ...
 
@@ -8117,7 +8117,7 @@ J'ai neuf lettres et quatre syllabes ; entends-moi. Les trois premières syllabe
 
 #### 4\. --- 5. Agathodémon, Hermès et Divers.
 
-**Oracle d'Orphée Explication et Commentaire d'Agathodémon sur l'Oracle d'Orphée.*
+**Oracle d'Orphée Explication et Commentaire d'Agathodémon sur l'Oracle d'Orphée**.*
 
 _Agathodémon à Osiris, salut !_
 
