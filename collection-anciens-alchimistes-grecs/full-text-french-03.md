@@ -38,6 +38,10 @@
 
 #### [4. --- 2. Le Philosophe Ostanès a Petasius sur l'Art Sacré et Divin.](#4-----2-le-philosophe-ostanès-a-petasius-sur-lart-sacré-et-divin-1)
 
+#### [4. --- 3. Jean l'Archiprêtre en Évagie sur l'Art Divin.]()
+
+#### [4. --- 4. Enigme de la Pierre Philosophale d'après Hermès et Agathodémon.]()
+
 ...
 
 # [Cinquième Partie. --- Traités Techniques.](#cinquième-partie-----traités-techniques-1)
