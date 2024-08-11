@@ -44,6 +44,10 @@
 
 #### [4. --- 5. Agathodémon, Hermès et Divers.](#4-----5-agathodémon-hermès-et-divers-1)
 
+#### [4. --- 6. L'Espèce est Composée et non pas Simple et quel en est le Traitement.]()
+
+#### [4. --- 7. Fabrication principalement celle du Tout.]()
+
 ...
 
 # [Cinquième Partie. --- Traités Techniques.](#cinquième-partie-----traités-techniques-1)
