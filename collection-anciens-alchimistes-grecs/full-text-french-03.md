@@ -44,9 +44,9 @@
 
 #### [4. --- 5. Agathodémon, Hermès et Divers.](#4-----5-agathodémon-hermès-et-divers-1)
 
-#### [4. --- 6. L'Espèce est Composée et non pas Simple et quel en est le Traitement.]()
+#### [4. --- 6. L'Espèce est Composée et non pas Simple et quel en est le Traitement.](#4-----6-lespèce-est-composée-et-non-pas-simple-et-quel-en-est-le-traitement-1)
 
-#### [4. --- 7. Fabrication principalement celle du Tout.]()
+#### [4. --- 7. Fabrication principalement celle du Tout.](#4-----7-fabrication-principalement-celle-du-tout-1)
 
 ...
 
