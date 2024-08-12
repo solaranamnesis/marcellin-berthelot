@@ -70,6 +70,8 @@
 
 #### [4. --- 18. Conclusion de la Fabrication.]()
 
+#### [4. --- 19. Procédés de Jamblique.]()
+
 ...
 
 # [Cinquième Partie. --- Traités Techniques.](#cinquième-partie-----traités-techniques-1)
