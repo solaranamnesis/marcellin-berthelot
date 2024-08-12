@@ -48,6 +48,28 @@
 
 #### [4. --- 7. Fabrication principalement celle du Tout.](#4-----7-fabrication-principalement-celle-du-tout-1)
 
+#### [4. --- 8. Autre Traitement.]()
+
+#### [4. --- 9. Qu'est-ce que la Chaux des Anciens ?]()
+
+#### [4. --- 10. Suite du même Texte.]()
+
+#### [4. --- 11. Autre Traitement de la Chaux.]()
+
+#### [4. --- 12. Autre Procédé de Fabrication de la Chaux.]()
+
+#### [4. --- 13. Autre Article sur la Chaux.]()
+
+#### [4. --- 14. Autre Article.]()
+
+#### [4. --- 15. Autre Article.]()
+
+#### [4. --- 16. Autre Article --- La Fabrication.]()
+
+#### [4. --- 17. Autre Traitement.]()
+
+#### [4. --- 18. Conclusion de la Fabrication.]()
+
 ...
 
 # [Cinquième Partie. --- Traités Techniques.](#cinquième-partie-----traités-techniques-1)
@@ -8390,7 +8412,7 @@ Tel est le discours* sur la chaux, saur le tout-puissant calcaire,* le corps inv
 
 *) On remarquera que le mot calcaire (τίτανος) se trouve finalement assimilé au mot chaux (ἄσβεστος), contrairement à ce qui est écrit au début de l'article 4, 9. --- Cp. ἀσβέστωμα dans Théoctonicos, _Introd._, p. 210.
 
-4. 19. --- Procédés de Jamblique.*
+#### 4\. --- 19. Procédés de Jamblique.*
 
 *) _Origines de l'Alchimie_, p. 144.
 
