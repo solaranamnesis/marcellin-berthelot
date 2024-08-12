@@ -8211,6 +8211,189 @@ Cette dernière est accomplie par l'action de la vapeur (mercure, arsenic, sulfu
 
 *) Chapitre attribué à Agathodémon, dans la vieille liste du manuscrit de St-Marc (_Introduction_, p. 175 ; n° 31). --- Voir la note placée en tête de l'article 4, 6. --- L'article 4, 7, renferme une suite de morceaux de dates diverses, sur la dorure et la transmutation. --- Dans AKE le mot Tout est suivi de ceux-ci : « la pierre philosophale. » Dans Lb, le titre est : « fabrication de l'or, principalement de toute la pierre philosophale ; » ce qui est un vrai contresens par rapport au titre original.
 
+1\. Maintenant, comme l'obscurité de la question soulevée de part et d'autre n'a pas été dissipée, il convient de vous décrire, dès l'abord et par ordre, la fabrication du Tout, (et celle) de la gomme d'or.* La partie jaune, le jaune d'œuf bouilli,* est délayé exactement dans la gomme d'or (préparée par) notre art.* On n'opère pas dans un mortier et avec un pilon, mais dans des appareils à digestion, en forme de mamelles,* où l'on soumet à l'action de la chaleur la gomme d'or. Or les (matières) délayées avec cette substance s'unissent à celles dont on a enlevé l'ombre ( ? ). Ces choses, une fois unies entre elles, sont nettoyées à deux reprises. Quant à ce qui reste à la partie inférieure, on le fait réagir de nouveau sur le (contenu) de la partie supérieure. Cela ne se fait pas dans les appareils de digestion, munis de tubes (distillatoires) ; mais dans les appareils terminés par des parties arrondies.* On opère à une chaleur douce, pendant 40 jours, plus ou moins, jusqu'à ce que la réaction amène le produit à une apparence invariable.
+
+*) J'ai interprété tout ce passage comme se rapportant à une opération de dorure par vernis (voir _Introd._, p. 60), ou peut-être de dorure exécutée au moyen du mercure, dont le nom n'est pourtant pas prononcé.
+
+*) Ces mots doivent être entendus dans un sens mystique (voir la _Nomenclature de l'œuf_, p. 19 et 22).
+
+*) Signe de la chrysocolle dans MBAKE. E en marge et Lc, au lieu de la gomme d'or, disent : « le soleil, » c'est-à-dire l'or. De même au mot gomme d'or, trois lignes plus bas.
+
+*) Appareils à kérotakis (voir la note suivante).
+
+*) C'est-à-dire que l'on n'emploie pas les alambics, tels que ceux des fig. 14, 15, 16 (p. 138, 139, 148 de l'_Introd._) ; mais les appareils à kérotakis, tels que ceux des fig. 20, 21, 22, etc. (p. 143, etc. de l'_Introd._).
+
+2\. Le cinabre, torréfié dans des marmites* lutées de tous côtés, produit le mercure,* lequel s'appelle l'eau divine, l'eau blanche, le liquide argentin. Il accomplit par là les oracles d'Apollon :
+
+Pareil à un laurier vierge, il s'élève lui-même dans les couvercles des marmites.
+
+*) Ce paragraphe n'a, ce semble, aucun rapport avec le précédent ; à moins que ce dernier ne se rapporte à la dorure au mercure.
+
+*) Signe de l'argent, B.
+
+On l'y trouve, après le feu éteint, et on le recueille ; car il fuit le feu. On obtient de même le mercure avec du cinabre artificiel, matière rare, c'est-à-dire trouvée rarement : je veux parler du cinabre obtenu par voie sèche et torréfaction convenable ; aussi peut-il être appelé vraiment sec. Il s'agit surtout de celui que l'on appelle desséché et facilement volatil, employé dans l'épreuve des âmes. Étant devenu un esprit éthéré, il s'élance vers l'hémisphère supérieur ; il descend et remonte, évitant l'action du feu, jusqu'à ce que, arrêtant son essor de fugitif,* il soit parvenu à un état de sagesse. Tant qu'il n'est pas arrivé à ce terme, il est difficile à retenir et il est mortel.* C'est de lui qu'Apollon dit dans ses oracles :
+
+Et un esprit plus noir, humide, pur.*
+
+*) De là le _servus fugitivus_ des Arabes (_Introd._, p. 217 et 258 ;--- voir aussi Olympiodore, p. 104 et 105).
+
+*) C'est une description poétique de la distillation du mercure, préparée au moyen du cinabre. Le caractère délétère de la vapeur de mercure est rappelé ici (voir _Origines de l'Alchimie_, p. 172 et 231 ;--- voir aussi le présent volume, p. 174).
+
+*) Cp. p. 152, 170.
+
+3\. Le mercure, étant fixé, fixe ; étant retenu, il retient ; or il est dit que telle est la fin de l'art. Le savant Zosime l'a proclamé : « Il est fixé par une vapeur semblable. » C'est aussi ce dont parle le Philosophe naturaliste (disant) : « Les matières sulfureuses teignent et se volatilisent ; mais elles sont retenues par le mercure, leur congénère ; car le soufre demeure jusqu'à ce qu'il soit combiné, jusqu'à ce que les matières sulfureuses soient dominées par leurs semblables, les matières liquides par le liquide correspondant. » Voilà pourquoi Zosime disait, dans son livre des _Clefs_ : « Ainsi la vapeur est retenue par une autre nature et lui obéit, attendu que la nature domine la nature. »
+
+4\. Ceux qui contemplent ces choses, dit Démocrite, s'écrient : « O natures célestes, créatrices des natures ! O natures grandioses, qui triomphez des natures par les transmutations ! » Il nomme natures célestes les appareils sphériques, dans lesquels on opère la décomposition et la distillation des eaux : je ne parle pas seulement des premières eaux séparées (par distillation), mais aussi des dernières, qui ne sont plus conformes à la mesure,* étant mélangées nécessairement aux (matières) non décomposées. Soit que tu en rejettes une (quantité) égale, ou bien un peu moindre, ou bien un peu plus grande, il n'y aura pas préjudice.
+
+*) C'est-à-dire qui ne sont plus pures et claires, à cause des projections et altérations qui surviennent à la fin de l'opération ( ? ).
+
+5\. Il vaut mieux projeter en moindre quantité le cuivre dans la composition restante, attendu que Démocrite dit : « Mais il faut qu'elle contienne aussi un peu de soufre apyre, afin que la préparation pénètre à l'intérieur. » Il entend par ces mots : « un peu de soufre apyre, » le produit incombustible, c'est-à-dire le cuivre. Et encore lorsqu'il dit qu'un quart d'argent suffit pour purifier le cuivre, il appelle asèm le cuivre, à cause de son caractère inconnu.* Il appelle aussi cuivre, la première eau, qui communique une teinte sombre et fugace, en l'assimilant au cuivre obscurci. En effet, le cuivre ne se produit jamais sans ombre, comme le dit Marie ; à moins que l'on n'en fasse disparaître l'ombre, en la détruisant par un traitement convenable.*
+
+*) Jeu de mots sur ἄσημον.
+
+*) Cet article est difficile à entendre et rendu plus confus encore par des substitutions voulues entre les mots cuivre, asèm, eaux, etc.  
+Il paraît s'appliquer à la coloration du cuivre par les composés sulfurés et arsénicaux, dans les appareils sphériques à kérotakis. On peut mettre plus ou moins de sulfure d'arsenic (appelé eau, à cause de sa fusibilité), parce que l'excédent s'en va par sublimation. Il vaut même mieux en mettre plus, pour que la teinture du métal s'effectue à une plus grande profondeur. Le métal ne doit pas être du cuivre pur, mais du cuivre mélangé avec son quart d'argent.
+
+---
+
+4. 8. --- Autre Traitement.*
+
+*) Ces recettes sont exposées avec un symbolisme trop compliqué, pour être entendues clairement.
+
+1\. Quelques-uns se sont illustrés en opérant ainsi ; d'autres faisaient bouillir ou torréfiaient le Tout ; ils cassaient et divisaient (les œufs) avec leurs coquilles ; enlevant les enveloppes, et jetant dans un mortier le blanc et le jaune, ils les délayaient ensemble, et ajoutaient une nouvelle partie de jaune d'œuf par-dessus le jaune, ou bien, au contraire, par-dessus le blanc. Ainsi Zosime dit : « Pour le blanc, prends deux parties de chaux, et pour le jaune, le double aussi de safran et de chélidoine. Car si nous rendons κροκὸς oxyton et que nous ne le rendions pas baryton (κρόκος), c'est-à-dire si nous ne le rendons pas paroxyton, nous entendrons clairement ce qui est expliqué.* »
+
+*) C'est-à-dire si nous accentuons κροκός sur la dernière et non sur la première syllabe. --- Ce jeu de mots est difficile à comprendre. Cependant il semble se rapporter à la différence entre le safran, κροκός, et le jaune d'œuf, accentué parfois κροκόν d'après le _Thesaurus_ d'Henri Estienne. --- Ces deux mots sont pris d'ailleurs l'un et l'autre dans un sens symbolique, pour exprimer des sulfures et autres composés métalliques, colorés en jaune et destinés au jaunissement du métal.
+
+2\. Après avoir exécuté ensuite, suivant les mêmes proportions, la composition des eaux, dans les appareils en forme de mamelles,* on délaie convenablement dans un mortier. Puis, après avoir donné la consistance de l'huile, ou du vin, ou de la bière, on partage en deux, et, sans recourir au feu, on laisse déposer, se rappelant la (formule) : « Laisse en bas, et il se fera.* » Après le temps prescrit, on opère la distillation des eaux natives. C'est là le comaris scythique et le cuivre rouillé.
+
+*) Voir la note 3 de la p. 265.
+
+*) Voir Stéphanus dans Ideler, t. 2, p. 247. --- _Introd._, p. 179 et suiv.
+
+3\. Pétasius leur rend témoignage, en écrivant : « Or quelques-uns ont opéré l'iosis dans les appareils ; » au lieu de (dire) : Ils ont extrait le cuivre au moyen des appareils. Après avoir mélangé les unes et les autres (matières), je veux dire la feuille altérée et la feuille non altérée, ils les ont exposées deux ou trois fois à la chaleur du fumier.* Ils ont obtenu l'objet désiré, nous dit-il, soit de cette façon-ci, soit de celle-là, soit autrement. L'expérience l'enseignera. Porte-toi bien, dans le Seigneur.
+
+*) S'agit-il du fumier au sens propre ; ou bien au sens mystique, c'est-à-dire désignant une autre substance employée pour chauffer le fourneau ?
+
+---
+
+4. 9. --- Qu'est-ce que la Chaux des Anciens* ?
+
+*) Suite des chapitres attribués à Agathodémon, Hermès, Zosime, etc. (_Introd._, p. 175, n°s 31 et 32 de la vieille liste de St-Marc).
+
+1\. La chose étant ainsi et la nature fixant (le mercure ? ), arrivons à la fameuse chaux des anciens. A la différence du calcaire des pierres converti* en chaux, celle-ci ne blanchit pas ; au contraire, elle noircit. En effet, cette espèce étant délayée, et le liquide naturel étant mis à part, la matière qui reste au fond dans le plat est torréfiée et noircie ; c'est alors qu'on la nomme chaux.
+
+*) Lc. dit : « Les minerais de cuivre convertis en chaux. »
+
+On la reprend et on l'unit avec sa propre âme.* On la place (alors) pendant 15 jours,* sur un fourneau en bon état, soumis à une chaleur modérée : elle s'élève par sublimation en dehors du fourneau et se sépare des vapeurs retenues dans l'appareil. Elle produit ainsi l'eau divine tirée de la chaux, si le sublimé est blanc ; mais s'il est jaune, c'est l'eau divine native. En effet, les deux liquides (qui en dérivent) ne diffèrent entre eux que par la couleur ; ils pénètrent, teignent et fixent de la même façon.*
+
+*) C'est-à-dire avec le produit volatil que l'on en a tiré.
+
+*) Ou 15 heures : glose marginale, Lb.
+
+*) Toute cette description est obscure : cependant il en ressort que le nom de chaux a été appliqué dès cette époque reculée à des oxydes métalliques ; signification que ce mot a gardée pendant le moyen âge, et jusqu'à la fin du 18e siècle. Ici il s'agit du produit de la torréfaction et du grillage de ces scories, dont il est question dans Olympiodore (p. 95, 97, 101, 107, 113), et dans Zosime (p. 207, 215). Le grillage produisait des oxydes métalliques, de cuivre, plomb, zinc, etc. ; et ces oxydes, soumis à l'action du feu dans des vases analogues aux aludels (_Introd._, p. 172), produisaient des cadmies (_Introd._, p. 239). Avec ces cadmies, on obtenait, soit par voie de dissolution, soit par voie de fusion, point qui reste incertain, les liquides destinés à teindre les métaux en or ou en argent.
+
+Suivant la quantité du premier feu, les produits varient, surtout s'ils dérivent d'une matière unique, jaune ou blanche. En effet, Hermès, le grand dieu, dit que la chrysocolle* opère tout dans les premiers (feux) ; tandis que la grande chaleur du feu exerce sa puissance dans la première réduction en mercure pour parfaire le Tout. Si cette première (chaleur), n'opère pas, la seconde n'a aucune influence appréciable. Celle-ci expose à un grand insuccès, non seulement parce qu'elle est la mère (cause génératrice) des vapeurs fugitives, mais aussi parce qu'elle n'amène pas toujours la couleur cherchée.*
+
+*) Var. le Soleil ; Lb ; Cp. p. 156 et 174.
+
+*) Ceci semble vouloir dire que si la première action du feu a déterminé la déperdition des produits volatils, sans opérer la teinture du métal fondu, réduit en un liquide pareil au mercure, l'opération est compromise.
+
+---
+
+4. 10. --- Suite du même Texte.
+
+Quelques-uns soumettent à la sublimation la rouille du cuivre, jusqu'à ce qu'ils aient consommé presque toute la scorie, en l'épuisant à plusieurs reprises : ils pulvérisent, projettent et subliment, conformément à la parole d'Agathodémon disant : « Prends des vapeurs et encore des vapeurs.* »
+
+On trouve que le premier (produit) est jaune ; le second, blanc, et le troisième, noir.
+
+*) Des soufres, Lb.
+
+---
+
+4. 11. --- Autre Traitement de la Chaux.
+
+1\. Quelques-uns emploient l'eau jaune dans les iosis ; ou bien ils extraient l'eau blanche en une fois, suivant la nature des produits, ils exposent la première substance aux vapeurs* ; puis la seconde séparément, après l'iosis. Car il disait qu'il n'est pas avantageux de réitérer l'introduction du mordant et celle des produits additionnels dans les liquides : ce qui importe, c'est la combinaison des corps, la spécialité des appareils, le changement produit au moyen de la kérotakis, et le nombre des jours (employés) pour la décomposition.
+
+*) Il paraît s'agir ici des cadmies sublimées.
+
+2\. Il arrive que la rouille de cuivre, en raison de l'excès des vapeurs sublimées, non seulement est noircie, et teinte de la couleur des corps solides, mais se trouve complètement consommée. Dans ce cas, les opérateurs mélangeaient aussitôt le produit avec d'autres sublimés, de couleur semblable au cinabre, et le mettaient à part. La vapeur précédente, mélangée à la vapeur du mercure, en assure la fixation ; et par suite elle peut à son tour être retenue par une autre nature.*
+
+*) On associe l'action des cadmies sublimées à celle du mercure (ou de l'arsenic), afin de rendre la teinture du métal plus stable.
+
+---
+
+4. 12. --- Autre Procédé de Fabrication de la Chaux.
+
+D'autres ont employé seulement la chaux blanche* pour la décomposition. Sur le comaris blanc ils projetaient les eaux blanches, provenant des appareils ; sur le comaris jaune, ils projetaient les eaux jaunes. Après avoir fait digérer dans le creuset, pendant trois jours, ils enlevaient le produit et l'appliquaient à des matières fraîches de même espèce ; de même que ceux qui opèrent après le trente-deuxième (jour) pour la pourpre. En effet Hermès disait que les anciens connaissaient une pourpre et une pierre de couleur pourpre* : c'était la rouille du cuivre.* Ainsi Hermès, écrivant à Pausiris, lui disait : « Si tu trouves la pierre couleur de pourpre,* sache que c'est celle (dont je parle) ; or tu en possèdes la description, ô Pausiris, gravée avec soin dans ma petite Clef.* » Cependant Hermès n'a point composé d'ouvrage spécial sur la teinture des pierres,* ou de la pourpre ; mais sa « petite Clef » traite du comaris, selon les deux formules ; elle servait à éclaircir la difficulté de la rouille. Il s'est d'ailleurs beaucoup occupé de la chaux.
+
+*) Au lieu de ce signe, celui de l'or, qui résulte d'une altération, AB.
+
+*) La chalcite, Lb.
+
+*) Protoxyde de cuivre, ou cuivre brûlé. --- Voir _Introd._, p. 233.
+
+*) La pierre de la couperose, E.
+
+*) Traité du Pseudo-Hermès, Cp. _Introd._, p. 244.
+
+*) Des pierres de la couperose, Lb.
+
+---
+
+4. 13. --- Autre Article sur la Chaux.
+
+Quelques-uns mélangeaient la chaux* avec des eaux semblables, pendant une heure environ ; ils l'enlevaient (ensuite) et l'emportaient, en disant que c'était là la teinture du plomb de Marie, qui opère en un jour.* Ils trouvaient ceci exposé dans le passage de Zosime : « Mais la partie utile de la pierre ... » Et ils pensaient que c'était là la décomposition et l'iosis. Voilà pourquoi Démocrite écrit : « Or quelques-uns opéraient l'iosis dans les appareils ... ; » paroles que Pétasius interprétait ainsi : « Au lieu de dire : ils faisaient de la rouille de cuivre au moyen des appareils ; » et, prenant cette eau, ils l'unissaient à une autre eau, qui en était aussi extraite, et dans laquelle il y avait de la chaux ostracite* ; ils en employaient une quantité égale à celle-ci ; car le Philosophe dit : « Prends une partie de ce qui te sera indiqué par la suite et autant de la liqueur d'or, c'est-à-dire de la fleur d'or et de la coquille d'or. » Hermès parlait de la même (matière), comme d'une chose précieuse aux noms multiples : « Ainsi, en prenant une partie, et en y ajoutant de l'eau de soufre natif et un peu de gomme, tu teindras toute sorte de corps. » Il suivait la même marche pour les deux eaux (blanche et jaune).
+
+*) En marge de A : « ce que l'on projette s'appelle le second produit. »
+
+*) Cp. p. 191.
+
+*) Variété de cadmie ; _Introduction_, p. 240.
+
+---
+
+4. 14. --- Autre Article.
+
+D'autres, unissent la cendre* des premières eaux avec les vapeurs sublimées qui en proviennent, dans la proportion environ d'une cotyle à une once ; puis ils partagent le produit en deux ; ils arrosent pendant une heure environ et enlèvent l'eau. Ils ajoutent encore une autre (proportion de cendre) ; ils arrosent et enlèvent. Une troisième fois, mélangeant le produit avec de la cendre, ils reprennent les vapeurs (ainsi traitées) et (les mélangent aux sublimés restés dans l'appareil, sublimés blancs ou jaunes ou d'autre sorte, sans s'occuper de la proportion. En agissant (ainsi), ils suivent le grand Zosime,* qui dit : « De toute façon, en en employant plus ou moins, tu ne feras jamais mal ; car c'est là la marche de la fabrication, la seule chose cherchée depuis des siècles. »
+
+*) C'est-à-dire le dépôt formé dans les premières eaux (voir ce qui est relatif aux cendres ou scories dans la note 1 de la page 269).
+
+*) Démocrite, d'après E. Lb.
+
+---
+
+4. 15. --- Autre Article.
+
+Quelques-uns filtraient les scories, comme on le fait dans la fabrication du savon. Ils répétaient l'opération deux et trois fois en un seul jour, les unissant aux eaux de même espèce et de même couleur. Car ils disaient qu'il suffit de la première action du sublimé.
+
+---
+
+4. 16. --- Autre Article --- La Fabrication.
+
+Certains opéraient, non en un jour, mais en neuf jours, distillant par tiers les eaux employées. Ils mettaient en œuvre une proportion égale et pareille d'eaux, et ils gardaient pour employer au moment de la teinture.
+
+---
+
+4. 17. --- Autre Traitement.
+
+D'autres procédaient ainsi : ils extrayaient les vapeurs du troisième produit ; alors ils prenaient deux parties (onces ? ) du résidu qui en provenait et ils y ajoutaient un cotyle (de la vapeur) ; ils conservaient cette préparation.
+
+---
+
+4. 18. --- Conclusion de la Fabrication.
+
+Quant à moi, ayant recueilli les travaux de tous, je dis que Zosime n'avait pas tort de dire, en écrivant à Théosébie : « En effet, c'est un grand maître que l'expérience ; elle indique toujours aux gens de sens les choses avantageuses, d'après les résultats démontrés. »
+
+Tel est le discours* sur la chaux, saur le tout-puissant calcaire,* le corps invincible et le seul utile : celui qui l'aura trouvé, d'après la méthode exposée plus haut, triomphera de la maladie incurable de la misère. --- Portez-vous bien, amis et serviteurs du Christ notre Dieu.
+
+*) C'est la conclusion de toute une série de recettes pratiques sur la chaux des anciens chimistes : nous en avons donné l'explication plus haut, p. 269, note 1. Ces morceaux ont passé finalement dans la compilation du Chrétien ; mais dans l'ancienne liste de M, ils en étaient distincts (_Introd._, p. 175, n°s 31 et 32).
+
+*) On remarquera que le mot calcaire (τίτανος) se trouve finalement assimilé au mot chaux (ἄσβεστος), contrairement à ce qui est écrit au début de l'article 4, 9. --- Cp. ἀσβέστωμα dans Théoctonicos, _Introd._, p. 210.
+
+4. 19. --- Procédés de Jamblique.*
+
+*) _Origines de l'Alchimie_, p. 144.
+
 ...
 
 # Cinquième Partie. --- Traités Techniques.
