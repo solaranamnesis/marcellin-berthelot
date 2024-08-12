@@ -8256,7 +8256,7 @@ Il paraît s'appliquer à la coloration du cuivre par les composés sulfurés et
 
 ---
 
-4. 8. --- Autre Traitement.*
+#### 4\. --- 8. Autre Traitement.*
 
 *) Ces recettes sont exposées avec un symbolisme trop compliqué, pour être entendues clairement.
 
@@ -8276,7 +8276,7 @@ Il paraît s'appliquer à la coloration du cuivre par les composés sulfurés et
 
 ---
 
-4. 9. --- Qu'est-ce que la Chaux des Anciens* ?
+#### 4\. --- 9. Qu'est-ce que la Chaux des Anciens* ?
 
 *) Suite des chapitres attribués à Agathodémon, Hermès, Zosime, etc. (_Introd._, p. 175, n°s 31 et 32 de la vieille liste de St-Marc).
 
@@ -8300,7 +8300,7 @@ Suivant la quantité du premier feu, les produits varient, surtout s'ils dérive
 
 ---
 
-4. 10. --- Suite du même Texte.
+#### 4\. --- 10. Suite du même Texte.
 
 Quelques-uns soumettent à la sublimation la rouille du cuivre, jusqu'à ce qu'ils aient consommé presque toute la scorie, en l'épuisant à plusieurs reprises : ils pulvérisent, projettent et subliment, conformément à la parole d'Agathodémon disant : « Prends des vapeurs et encore des vapeurs.* »
 
@@ -8310,7 +8310,7 @@ On trouve que le premier (produit) est jaune ; le second, blanc, et le troisièm
 
 ---
 
-4. 11. --- Autre Traitement de la Chaux.
+#### 4\. --- 11. Autre Traitement de la Chaux.
 
 1\. Quelques-uns emploient l'eau jaune dans les iosis ; ou bien ils extraient l'eau blanche en une fois, suivant la nature des produits, ils exposent la première substance aux vapeurs* ; puis la seconde séparément, après l'iosis. Car il disait qu'il n'est pas avantageux de réitérer l'introduction du mordant et celle des produits additionnels dans les liquides : ce qui importe, c'est la combinaison des corps, la spécialité des appareils, le changement produit au moyen de la kérotakis, et le nombre des jours (employés) pour la décomposition.
 
@@ -8322,7 +8322,7 @@ On trouve que le premier (produit) est jaune ; le second, blanc, et le troisièm
 
 ---
 
-4. 12. --- Autre Procédé de Fabrication de la Chaux.
+#### 4\. --- 12. Autre Procédé de Fabrication de la Chaux.
 
 D'autres ont employé seulement la chaux blanche* pour la décomposition. Sur le comaris blanc ils projetaient les eaux blanches, provenant des appareils ; sur le comaris jaune, ils projetaient les eaux jaunes. Après avoir fait digérer dans le creuset, pendant trois jours, ils enlevaient le produit et l'appliquaient à des matières fraîches de même espèce ; de même que ceux qui opèrent après le trente-deuxième (jour) pour la pourpre. En effet Hermès disait que les anciens connaissaient une pourpre et une pierre de couleur pourpre* : c'était la rouille du cuivre.* Ainsi Hermès, écrivant à Pausiris, lui disait : « Si tu trouves la pierre couleur de pourpre,* sache que c'est celle (dont je parle) ; or tu en possèdes la description, ô Pausiris, gravée avec soin dans ma petite Clef.* » Cependant Hermès n'a point composé d'ouvrage spécial sur la teinture des pierres,* ou de la pourpre ; mais sa « petite Clef » traite du comaris, selon les deux formules ; elle servait à éclaircir la difficulté de la rouille. Il s'est d'ailleurs beaucoup occupé de la chaux.
 
@@ -8340,7 +8340,7 @@ D'autres ont employé seulement la chaux blanche* pour la décomposition. Sur le
 
 ---
 
-4. 13. --- Autre Article sur la Chaux.
+#### 4\. --- 13. Autre Article sur la Chaux.
 
 Quelques-uns mélangeaient la chaux* avec des eaux semblables, pendant une heure environ ; ils l'enlevaient (ensuite) et l'emportaient, en disant que c'était là la teinture du plomb de Marie, qui opère en un jour.* Ils trouvaient ceci exposé dans le passage de Zosime : « Mais la partie utile de la pierre ... » Et ils pensaient que c'était là la décomposition et l'iosis. Voilà pourquoi Démocrite écrit : « Or quelques-uns opéraient l'iosis dans les appareils ... ; » paroles que Pétasius interprétait ainsi : « Au lieu de dire : ils faisaient de la rouille de cuivre au moyen des appareils ; » et, prenant cette eau, ils l'unissaient à une autre eau, qui en était aussi extraite, et dans laquelle il y avait de la chaux ostracite* ; ils en employaient une quantité égale à celle-ci ; car le Philosophe dit : « Prends une partie de ce qui te sera indiqué par la suite et autant de la liqueur d'or, c'est-à-dire de la fleur d'or et de la coquille d'or. » Hermès parlait de la même (matière), comme d'une chose précieuse aux noms multiples : « Ainsi, en prenant une partie, et en y ajoutant de l'eau de soufre natif et un peu de gomme, tu teindras toute sorte de corps. » Il suivait la même marche pour les deux eaux (blanche et jaune).
 
@@ -8352,7 +8352,7 @@ Quelques-uns mélangeaient la chaux* avec des eaux semblables, pendant une heure
 
 ---
 
-4. 14. --- Autre Article.
+#### 4\. --- 14. Autre Article.
 
 D'autres, unissent la cendre* des premières eaux avec les vapeurs sublimées qui en proviennent, dans la proportion environ d'une cotyle à une once ; puis ils partagent le produit en deux ; ils arrosent pendant une heure environ et enlèvent l'eau. Ils ajoutent encore une autre (proportion de cendre) ; ils arrosent et enlèvent. Une troisième fois, mélangeant le produit avec de la cendre, ils reprennent les vapeurs (ainsi traitées) et (les mélangent aux sublimés restés dans l'appareil, sublimés blancs ou jaunes ou d'autre sorte, sans s'occuper de la proportion. En agissant (ainsi), ils suivent le grand Zosime,* qui dit : « De toute façon, en en employant plus ou moins, tu ne feras jamais mal ; car c'est là la marche de la fabrication, la seule chose cherchée depuis des siècles. »
 
@@ -8362,25 +8362,25 @@ D'autres, unissent la cendre* des premières eaux avec les vapeurs sublimées qu
 
 ---
 
-4. 15. --- Autre Article.
+#### 4\. --- 15. Autre Article.
 
 Quelques-uns filtraient les scories, comme on le fait dans la fabrication du savon. Ils répétaient l'opération deux et trois fois en un seul jour, les unissant aux eaux de même espèce et de même couleur. Car ils disaient qu'il suffit de la première action du sublimé.
 
 ---
 
-4. 16. --- Autre Article --- La Fabrication.
+#### 4\. --- 16. Autre Article --- La Fabrication.
 
 Certains opéraient, non en un jour, mais en neuf jours, distillant par tiers les eaux employées. Ils mettaient en œuvre une proportion égale et pareille d'eaux, et ils gardaient pour employer au moment de la teinture.
 
 ---
 
-4. 17. --- Autre Traitement.
+#### 4\. --- 17. Autre Traitement.
 
 D'autres procédaient ainsi : ils extrayaient les vapeurs du troisième produit ; alors ils prenaient deux parties (onces ? ) du résidu qui en provenait et ils y ajoutaient un cotyle (de la vapeur) ; ils conservaient cette préparation.
 
 ---
 
-4. 18. --- Conclusion de la Fabrication.
+#### 4\. --- 18. Conclusion de la Fabrication.
 
 Quant à moi, ayant recueilli les travaux de tous, je dis que Zosime n'avait pas tort de dire, en écrivant à Théosébie : « En effet, c'est un grand maître que l'expérience ; elle indique toujours aux gens de sens les choses avantageuses, d'après les résultats démontrés. »
 
