@@ -72,11 +72,11 @@
 
 #### [4. --- 19. Procédés de Jamblique.](#4-----19-procédés-de-jamblique-1)
 
-#### [4. --- 20. Comarius.]()
+#### [4. --- 20. Comarius.](#4-----20-comarius-1)
 
-#### [4. --- 21. Sur l'Art Divin et Sacré des Philosophes.]()
+#### [4. --- 21. Sur l'Art Divin et Sacré des Philosophes.](#4-----21-sur-lart-divin-et-sacré-des-philosophes-1)
 
-#### [4. --- 22. Chimie de Moïse.]()
+#### [4. --- 22. Chimie de Moïse.](#4-----22-chimie-de-moïse-1)
 
 ...
 
