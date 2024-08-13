@@ -72,6 +72,12 @@
 
 #### [4. --- 19. Procédés de Jamblique.](#4-----19-procédés-de-jamblique-1)
 
+#### [4. --- 20. Comarius.]()
+
+#### [4. --- 21. Sur l'Art Divin et Sacré des Philosophes.]()
+
+#### [4. --- 22. Chimie de Moïse.]()
+
 ...
 
 # [Cinquième Partie. --- Traités Techniques.](#cinquième-partie-----traités-techniques-1)
