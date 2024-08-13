@@ -8418,6 +8418,295 @@ Tel est le discours* sur la chaux, saur le tout-puissant calcaire,* le corps inv
 
 *) _Origines de l'Alchimie_, p. 144.
 
+1\. **Teinture de Jamblique.** --- Sel de Cappadoce, 2 drachmes ; cinabre d'Italie, 1/2 once ; arsenic, 1 once ; chalcite grillée, 6 drachmes ; spodos (ou scorie) c'est-à-dire écailles d'ocre, 6 scrupules.* Quelques-uns ajoutent : sidérochalque, 12 dr. ; spodos fine, 1/2 once ; ios, 3 onces ; chrysocolle, 6 drachmes ; cadmie de Thrace, 1/2 once. Après avoir broyé séparément, tu mêleras ensemble. Ajoute du suc de mandragore, jusqu'à consistance visqueuse, et délaie jusqu'à dessiccation. Ajoute du sang de lièvre marin,* jusqu'à ce que la même consistance se reproduise. Remplis-en la cavité d'un roseau* jusqu'au quatrième nœud, et, après avoir obturé avec un chiffon de laine, abandonne pendant 14 jours. En reprenant le produit, tu trouveras du fer.*
+
+*) C'est une série de recettes tout à fait analogues à celles du Papyrus de Leide, du Pseudo-Démocrite et du Pseudo-Moïse, probablement aussi anciennes.
+
+*) Aplysie, mollusque.
+
+*) Vivant ( ? ), ou de peintre ( ? ).
+
+*) C'est-à-dire un produit couleur de fer ( ? ).
+
+Broie le produit avec du vin aromatique, jusqu'à consistance visqueuse, et conserve le dans le vase en forme de coquille. Ensuite, après avoir fait fondre un poids égal d'or pur, jette dans la coquille, et fais fondre, jusqu'à ce que la fumée n'ait plus de force et produise simplement une odeur de soufre. Après avoir enlevé, laisse refroidir.*
+
+*) Recette de diplosis fort compliquée, avec emploi de mercure, d'arsenic et de minerais divers. (Voir les recettes du Papyrus de Leide et autres, _Introd._, p. 45, 61, 62).
+
+2\. Délaie et ajoute de la bile d'ichneumon, ou de renard, ou de coq aux pieds noirs ( ? ) ; ainsi qu'un trochisque de pyrite. Fais sécher à l'ombre, et après avoir broyé, transvase dans un vase de verre.
+
+Mets dans une boîte avec du plomb, ou de l'étain ; enfouis dans (le fumier) de cheval pendant 15 jours, reprends le produit, et opère ainsi : Jette dans du vinaigre un poids égal à 3 oboles de la préparation précédente, et de la bile de chameau en quantité égale ; délaie et donne aux morceaux la grosseur des grains de sésame. Tu peux laisser reposer tranquillement pendant 7 jours ; si c'est pendant 10 jours, (donne aux grains) la grandeur de la lentille. Ensuite pratique une ouverture à la boîte, et délaie ce qui s'en écoule avec le lait d'une femme, mère d'un enfant mâle ; réitère l'enduit (à la surface du métal) pendant 7 jours ; ne lave pas (l'objet verni) pendant 36 jours.*
+
+*) Il semble qu'il s'agisse ici d'un vernis couleur d'or, appliqué à la surface des métaux (voir _Introd._, p. 59 et 60).
+
+3\. Pour la teinture, prends du safran, du misy cru, de la couperose, du bleu, de la chélidoine, 1 drachme de chaque, et projette sur une livre d'argent, pris à point. Ensuite prends du ferment antérieur contenu dans la boîte, 3 statères ; et, selon d'autres, 2 onces 1/2 ; le tout est mélangé ensemble et on en saupoudre la matière, jusqu'à ce que l'argent soit saturé et cesse d'être modifié : ce que l'on reconnaît à ce que cette matière se trouble et dépose.
+
+4\. **Fabrication de Jamblique.** --- Prenant une marmite neuve, place au-dessus une fiole et jette dans la fiole : mercure 1 once 1/3 ; cuivre, étain pur en limaille, 1 once 1/2 ou 2, avec un peu d'huile ; fais chauffer jusqu'à ce que le tout devienne homogène. Ensuite, ayant pris le produit, délaie-le avec ce qui suit : alun lamelleux, 1 once 1/2 ; misy cru, 1 once 1/2 ; arsenic, 1 once 1/2 ; mets dans un matras neuf, en délayant ces (matières) avec de l'eau de soufre et un peu de gomme. Puis, lutant avec soin, tu feras cuire sur un feu doux, jusqu'à ce que tu penses que les espèces se sont combinées. Ensuite, enlève ; arrose avec du vinaigre et de la saumure crue, pendant 7 jours. Après avoir fait sécher, pulvérise et projette dans l'huile sulfureuse bouillante,* jusqu'à ce que le produit devienne comme de la cire, puis aussitôt durcisse comme de la pierre. Pulvérise encore une fois le produit desséché. Mélange avec de la pierre pyriteuse, 1 once 1/2 ; et avec de la cadmie ostracite : un autre auteur dit avec de la cadmie olympique, celle qu'emploient les teinturiers et qu'ils appellent aussi placitis.* Délaie ensemble ; projette dans l'argent, quand il est à point, jusqu'à saturation et refus. Prenant de cet argent, 1 partie ; de l'or, 3 parties, et de la vapeur sublimée (mercure), le double, fais un amalgame. Place dans une fiole de verre, après y avoir mis une quantité égale de sinopis et de couperose. Délaie ensemble et bouche bien ; fais cuire pendant un jour et une nuit. Après avoir retiré, délaie avec de l'huile de raifort et de la litharge blanche, et, après avoir arrondi en boules, extrais la matière ; incorpores-y (un peu d'or) pur et tu obtiendras (avec le tout) de l'or pur.*
+
+*) C'est-à-dire dans l'amalgame décrit plus haut ?
+
+*) _Introd._, p. 239.
+
+*) Cp. Papyrus de Leide, recette 57, _Introd._, p. 46.
+
+5\. **Fabrication de l'Or.** --- Prenant du cuivre pur et rouge, réduis-le en lamelles minces ; place-le sur un feu de charbon ; souffle avec des soufflets et saupoudre de sel rouge et commun. Ensuite ajoute de l'ocre, puis du sel ; retourne la lamelle, répète la même opération autant qu'il te plaira, jusqu'à ce que l'ouvrage prenne l'apparence de l'or. Il en fait l'emploi et en possède l'apparence, même dans son épaisseur.
+
+6\. Ayant pris de cet or, 1 scrupule, et de l'argent préalablement décapé, 3 scrupules, fais fondre et réduis en feuilles ; enduis-les avec du fer préparé suivant le procédé hébreu, 2 scrupules, en opérant sur les deux faces : et le métal prendra l'apparence de l'or noir. Fais fondre de nouveau. Répète cela une 3e fois et tu obtiendras de l'or artificiel. Tu y ajouteras : or véritable, 1 once, et métal de la magnésie, 1 once, et tu auras de l'or à l'épreuve.*
+
+*) C'est un procédé de _Diplosis_ (_Introd._, p. 56, 61).
+
+7\. **Doublement de l'Or.** --- Fais bouillir le sublimé (mercure) dans l'huile de raifort. Ensuite, fixe et délaie avec le vinaigre, l'alun lamelleux et le sel, pendant 7 jours ; après avoir édulcoré, fais sécher et garde.*
+
+*) Série de petites recettes pour teindre en rouge ou en jaune, avec du cinabre et divers autres corps.
+
+Prenant de la couperose, 1 partie, et du soufre apyre, une partie, délaie ensemble et fais cuire dans une marmite ou dans un flacon luté, pendant 3 jours, et garde.
+
+Prends du cinabre ; colore avec l'huile de raifort ; opère la fixation dans des flacons, après avoir luté l'orifice, pendant 6 heures. Lave ; mets dans le mortier de l'alun et du sel, et délaie, pendant 7 jours ; après avoir bien lavé avec de l'eau, édulcore, fais sécher et garde.
+
+Après avoir pris de la chrysocolle, traite par l'urine de génisse pendant 7 jours. Ensuite teins en roux, dans l'huile de raifort, pendant 7 ou 8 jours. Fais bouillir dans l'huile de raifort, et garde.
+
+Prenant du misy, traite par l'urine d'un enfant impubère, pendant 7 jours, ou même davantage ; après avoir fait sécher, garde.
+
+Après avoir pris de l'arsenic, pulvérise-le et arrose de vinaigre, à plusieurs reprises, pendant 7 jours ; fais bouillir la liqueur dans laquelle (le mélange) a baigné pendant longtemps. Ensuite, après avoir lavé jusqu'à ce que la liqueur cesse d'être trouble, fais sécher. Ensuite, fais digérer 7 jours avec de l'urine de vache, et avoir lavé, fais sécher et garde.
+
+8\. Opère de cette manière le mélange des espèces, c'est-à-dire le sublimé, une once ; le cinabre, une once ; la chrysocolle, 2 onces ; le misy, 6 drachmes et 1 scrupule. Délaie ensemble, avec un peu de vinaigre ; amène en consistance de pâte et fais cuire au four, jusqu'à ce que le vase soit incandescent. Au produit cuit, mêle de l'arsenic, 2 drachmes ; de la sandaraque, 2 drachmes ; de la gomme, 2 drachmes. Délaie ensemble dans l'eau divine (obtenue au moyen de l'urine), pendant 7 jours, jusqu'à consistance visqueuse, et mets en œuvre. Avec ce produit, enduis les feuilles et elles seront transformées.*
+
+*) C'est un procédé pour teindre en couleur d'or. Cp. Papyrus de Leide, recettes 25, 55, 67, 69, etc. _Introd._, p. 35, 40 et 42.
+
+9\. Maintenant, si tu veux obtenir la poudre de projection elle-même, fais sécher. Quand tu veux faire emploi, ajoute l'eau obtenue par l'urine et le soufre et enduis-en les feuilles formées par le mélange du cuivre, de l'argent et de l'or. Or, la formule de ce mélange est celle-ci : Argent pur, 1 partie ; cuivre de Nicée supérieur, 1/2 partie. Partage en deux portions le cuivre et fais fondre avec la moitié l'argent, par trois fois, jusqu'à ce que l'alliage soit accompli. Après avoir réduit en feuilles, saupoudre avec de la pyrite traitée par la saumure, pendant 7 jours, puis édulcorée et cuite dans un vase luté pendant ... jours. Prends, fais fondre ; ajoute l'autre partie du cuivre, le vinaigre, l'argent, et répète trois fois cette fusion.
+
+10\. Ayant réduit en feuilles et saupoudré à plusieurs reprises de pyrite, fais cuire un jour et une nuit, et après avoir délayé avec du sublimé d'Italie (celui qui est employé pour les maladies des yeux),* moitié en poids ; fais fondre une seconde fois ; alors incorpore de l'or en quantité égale, et, après voir réduit en feuilles, teins en roux, en immergeant dans la liqueur* que voici : safran, fleur de carthame, chélidoine, cadmie zonitis,* 1 partie de chaque. Délaie le tout ensemble dans le vinaigre d'Egypte, pendant 7 jours et teins en rouge. Et alors, prenant la feuille, enduis-la d'abord avec cette préparation, au moyen d'une plume ; après avoir fait sécher, fait cuire dans un vase chauffé avec des lampes,* pendant 2 jours et 2 nuits. Après avoir enlevé, plie les feuilles ; puis les mettant dans un creuset, bien luté, fais fondre au four, et tu trouveras de l'électrum sans ombre.
+
+*) Le mot « sublimé » paraît vouloir désigner ici l'oxyde d'antimoine.
+
+*) A en marge : « liqueur de la teinture ignée. »
+
+*) _Introd._, p. 239.
+
+*) Cp. p. 299.
+
+Prends de la (pierre) étésienne, 1 partie ; batitures du fer, 1 partie ; métal de la magnésie, 1 partie ; délaie ensemble. Fais cuire pendant 5 jours et tu trouveras du noir bien homogène. Prends-en 2 parties ; orichalque de bonne qualité, 2 parties ; fais fondre jusqu'à mélange parfait, et il se forme (une substance) supérieure à l'électrum.
+
+---
+
+#### 4\. --- 20. Comarius.
+
+**Livre de Comarius, Philosophe et Grand-Prêtre enseignant a Cléopatre l'Art Divin et Sacré de la Pierre Philosophale.**
+
+1\. Seigneur, Dieu des puissances, démiurge de toute la création, auteur et artisan des (êtres) célestes et supracélestes, être bienheureux et demeurant à toujours, nous célébrons, nous bénissons, nous louons, nous adorons la sublimité de ton règne ; car tu es le principe et la fin ; toute la création visible et invisible t'obéit, parce que tu as tout créé. Comme ton serviteur a été créé, (et que) ton règne (est) éternel, nous te supplions, Seigneur très miséricordieux, au nom de ton ineffable amour des hommes, éclaire notre esprit et nos cœurs, afin que nous te glorifions (comme) notre seul vrai Dieu et père de Notre-Seigneur Jésus-Christ, avec ton Saint-Esprit bon et vivifiant, maintenant et toujours et dans les siècles des siècles. Amen.*
+
+*) Ce début est l'addition d'un moine byzantin, qui a commenté le livre de Comarius. Puis vient l'extrait proprement dit de ce livre, avec explications et interpolations du commentateur. Il est difficile de démêler la trame des fragments du vieil auteur gnostique, des déclamations enthousiastes du commentateur. Ce dernier écrit d'une façon fort analogue à Stephanus, s'il n'est Stephanus lui-même : identification qui expliquerait la confusion faite dans le manuscrit de St-Marc entre ce Traité et la 9e leçon de Stephanus. Cp. p. 123, note. Les symboles placés dans M au-dessus de certains mots, donnent l'interprétation des allégories ; mais cette interprétation a été ajoutée par une main plus moderne que celle du copiste primitif.
+
+2\. Je commencerai ce livre par l'écrit relatif à l'or et à l'argent, au sujet de l'entretien entre Comarius le Philosophe et Cléopâtre la Savante. Le livre que nous avons ici ne comprend pas les démonstrations de notre autre livre, relatif aux feux et aux substances. C'est celui du maître Comarius, philosophe et grand-prêtre, livre adressé à Cléopâtre la Savante.
+
+3\. Le philosophe Comarius enseigne à Cléopâtre la philosophie mystique ; il est assis sur un trône, et il s'est attaché à la philosophie secrète. Il a parlé pour ceux qui comprennent la science mystique et il a indiqué de sa main la Monade qui embrasse le Tout* ; il s'est exercé sur les quatre éléments et il a dit :
+
+*) Voir _Introd._, p. 17, la Monade de Moïse. --- Cette phrase indique que le Traité originaire de Comarius était une œuvre gnostique : ce qui répond en effet au caractère et à l'époque de Cléopâtre l'alchimiste. --- _Origines de l'Alchimie_, p. 61, 64.
+
+4\. « La terre a été solidifiée au-dessus des eaux ; et les eaux (se sont élevées) sur la cime des montagnes.* Prenant donc, ô Cléopâtre, la terre qui est au-dessus des eaux, formes-en un corps spirituel, (avec) l'esprit de l'alun.* --- Ces choses ressemblent à la terre et au feu, les unes au feu par la chaleur, les autres à la terre par la sécheresse. Les eaux qui sont au sommet des montagnes ressemblent à l'air par leur froidure ; par leur humidité, à l'eau, ainsi qu'au feu.
+
+*) Phrase mystique rappelant la création biblique ; mais elle est détournée dans un sens alchimique. Ceci rappelle encore les gnostiques.
+
+*) C'est-à-dire combine le corps métallique fixe avec un élément volatil dérivé de l'arsenic.
+
+Voici que d'une seule perle et d'une autre (encore), tu tires, ô Cléopâtre, toute la teinture.*
+
+*) Allusion à l'histoire des deux perles de Cléopâtre. V. aussi _Zosime_, p. 122.
+
+5\. Cléopâtre, ayant pris l'écrit de Comarius, commença à mettre en pratique les prescriptions des autres philosophes et à étudier la belle philosophie, partagée en quatre parties,* qui enseigne et découvre la matière provenant des natures, et la diversité des opérations. « Ainsi, (disent-ils), en recherchant la belle philosophie, nous la trouvons partagée en 4 parties ; c'est ainsi que nous avons découvert (l'idée) générale de la nature de chaque chose. Dans la première partie, il s'agit du noircissement ; dans la seconde, du blanchiment ; dans la troisième, du jaunissement, et dans la quatrième, de l'iosis.* Maintenant, chacune des (parties) susdites n'existe pas d'une façon générale, en dehors des (éléments), c'est-à-dire si nous ne prenons partout ces éléments, comme un point central, à partir duquel nous procédons par ordre. Ainsi, comme intermédiaire entre le noircissement, le blanchiment, le jaunissement et l'iosis, existent la macération et le lavage des espèces ; entre le blanchiment et le jaunissement, existe la pratique de la fusion de l'or ; entre le jaunissement et le blanchiment, existe le partage en deux de la composition.
+
+*) Cp. p. 212.
+
+*) Teinture en pourpre et en violet ?
+
+6\. L'œuvre s'accomplit* par le traitement au moyen de l'appareil en forme de mamelle ; on s'y propose de séparer les liquides (volatils) des résidus fixes, opération de longue durée.
+
+*) C'est le début de l'opération.
+
+En second lieu, vient la macération, où l'on mélange les eaux et les résidus humides ( ? ).
+
+Puis vient en troisième lieu la décomposition des espèces, qui sont brûlées sept fois à l'aide du feu, dans une jarre d'Ascalon. C'est ainsi que l'on opère le blanchiment et que l'on fait disparaître la teinte noire des espèces par l'action du feu.
+
+La quatrième opération, c'est le jaunissement, dans lequel on mélange (le produit) avec les autres eaux jaunes : on en forme une matière cireuse pour le jaunissement, afin d'atteindre le but cherché.
+
+La cinquième opération, c'est la fusion, qui amène (les matières) de la teinte jaune à la coloration en or.
+
+Pour le jaunissement, il faut, comme il a été dit, partager en deux de la composition : l'une des deux parties est mélangée avec les liquides jaunes et blancs. Puis tu fonds, en vue de ce que tu veux obtenir.
+
+Ajoutons encore que la décomposition est une iosis ; c'est l'iosis des espèces ; c'est-à-dire que par l'iosis et la décomposition, (on réalise) la transformation finale de la composition pour la dorure.*
+
+*) Cette description des opérations successives résume ce qui est dit en divers endroits de Zosime ; p. 212, etc.
+
+7\. Il faut, mes amis,* opérer comme il suit, lorsque vous voulez aborder ce bel art.* Voyez la nature des plantes et leur origine. Les unes descendent des montagnes et naissent de la terre ; les autres montent des vallons ; d'autres viennent des plaines. Voyez comment elles se développent ; car c'est dans des moments et en des jours particuliers que vous devez les récolter ; vous les tirez des îles de la mer, aussi bien que de la région la plus élevée. Voyez l'air qui les nourrit et leur fournit l'aliment (nécessaire) pour qu'elles ne dépérissent ni ne meurent. Voyez l'eau divine qui les arrose et l'air qui les gouverne, après qu'elles ont été pourvues d'un corps dans une essence unique.*
+
+*) Fin de Stephanus dans M. (Voir _Introd._, p. 181, 7°.)
+
+*) Lc ajoute : « Puis Cléopâtre dit aux philosophes. »
+
+*) Tout ce langage semble être allégorique et cacher un sens alchimique secret.
+
+8\. Ostanès et ses compagnons dirent à Cléopâtre : « En toi est caché tout le mystère étrange et terrible. Eclaire-nous, en répandant ta lumière au loin sur les éléments. Dis-nous comment le plus haut descend vers le plus bas, et comment le plus bas monte vers le plus haut* ; comment l'élément moyen s'approche du plus élevé, pour arriver à s'unifier avec lui, et quel est l'élément qui agit sur eux ; comment les eaux bénies descendent d'en haut pour visiter les morts étendus, enchaînés, accablés dans les ténèbres et dans l'ombre, à l'intérieur de l'Hadès* ; comment le remède de vie leur parvient et les éveille, en les tirant de leur sommeil, dans leur séjour particulier ; comment pénètrent les eaux nouvelles, produites au commencement de l'alitement et pendant sa durée, et venues par l'action du feu. La nuée les soutient : elle s'élève de la mer, soutenant les eaux.
+
+*) C'est un tableau allégorique de la distillation, ou plutôt de l'évaporation et de la condensation qui l'accompagne : les liquides condensés réagissant à mesure sur les produits exposés à leur action.
+
+*) Cp. Zosime, p. 118 et 127.
+
+9\. Or, les philosophes considérant les choses ainsi manifestées sont remplis de joie. Et Cléopâtre leur dit : « Les eaux en arrivant réveillent les corps et les esprits emprisonnés et impuissants. » En effet, dit-elle, ils sont de nouveau accablés ; et de nouveau ils seront renfermés dans l'Hadès. Mais peu à peu ils se développent, remontent, revêtent des couleurs variées et glorieuses, comme les fleurs au printemps* ; le printemps lui-même est joyeux et se réjouit de leur beauté.
+
+*) Cp. Zosime, p. 122, 123.
+
+10\. Or, je vous le dis, à vous qui êtes des gens sensés : les plantes,* les éléments, les pierres, lorsque vous les enlevez de leurs places (naturelles) paraissent en état de maturité. Ils ne le sont pas cependant, avant que tout n'ait subi l'épreuve du feu. Lorsqu'ils auront revêtu la gloire qui vient du feu, et la couleur éclatante (qui en résulte), alors se manifestera leur gloire cachée, la beauté tant cherchée et la transformation divine produite par la fusion. Car ils sont nourris dans le feu, comme l'embryon, nourri dans le ventre de la mère, s'accroît peu à peu. Lorsque le mois réglementaire, approche, (l'embryon) n'est pas empêché de venir au jour. C'est ainsi que procède cet art admirable. Les vagues et les flots successifs désagrègent les produits dans l'Hadès, dans le tombeau, où ils sont déposés. Mais lorsque le tombeau aura été ouvert, ils remonteront de l'Hadès, comme l'embryon sort du ventre (de sa mère).
+
+*) Au-dessus, signe du mercure, M.
+
+Les philosophes, contemplant la beauté de leur œuvre comme la tendre mère (contemple) le fruit de ses entrailles, cherchent alors (comment ils la nourriront) ; de même que la mère, pour son enfant. C'est là ce que cet art accomplit en employant au lieu de lait les eaux (qu'il prépare). Il imite le développement de l'enfant, la façon dont il est formé et amené à perfection. Tel est le mystère caché sous le sceau.
+
+11\. Maintenant je vous dirai, en vous éclairant de loin, où se trouvent les éléments et les plantes. Je commencerai par parler en énigmes. Monte au sommet le plus élevé, vers la montagne touffue, au milieu des arbres, et vois : (il y a) une pierre tout en haut ; prends l'arsenic (tiré) de cette pierre et sers-t'en pour blanchir divinement.
+
+Voici que, au milieu de la montagne, au-dessous de l'arsenic, se trouve son épouse,* à laquelle il s'unit, avec laquelle il obtient le plaisir : la nature se réjouit dans la nature, et sans lui, il n'y a pas d'union. Descends vers la mer d'Egypte et rapportes-en le minerai de la source, celui qui est appelé natron. Unis-le avec ces matières ; puis ramène au dehors la belle teinture universelle : en dehors d'elle, l'union n'a pas lieu ; car l'épouse est la mesure (de la teinture). Voici que la nature correspond à la nature ; et lorsque tu as assemblé toutes choses dans une proportion égale, c'est alors que les natures triomphent des natures et se complaisent entre elles.
+
+*) Le mercure, féminin en grec, ou plutôt l'arsenic jaune (sulfuré), appelé femelle, qui se trouve en bas du vase ; opposé à l'arsenic blanc (oxydé par grillage), appelé mâle, lequel se trouve amené en haut par la sublimation.
+
+12\. Voyez, philosophes, et comprenez : voici l'accomplissement de l'art, opéré par les conjoints, fiancé et fiancée, qui sont devenus un. Voici les plantes et leurs variétés. Je vous ai dit toute la vérité, et je vous dirai encore : Voyez et comprenez que de la mer remontent les nuées qui soutiennent les eaux bénites ; elles arrosent les terres et font pousser les semences et les fleurs. Semblablement opère notre nuée, sortant de notre élément, soutenant les eaux divines et arrosant les plantes et les éléments ; elle n'a besoin de rien de ce qui provient des autres terres.
+
+13\. Voici le mystère étrange, ô frères, le mystère tout à fait inconnu ; voici que la vérité vous a été manifestée. Voyez comment vous arrosez vos terres, comment vous nourrissez vos semences ; c'est ainsi que vous ferez fructifier le fruit arrivé à maturité.
+
+Ecoutez donc, comprenez et considérez avec exactitude les paroles que je prononce.
+
+Pour la suite de ce paragraphe, voir Zosime, depuis le bas de la page 122, le § 2 _bis_ en entier.
+
+14\. Voilà le mystère des philosophes ; c'est celui que nos pères vous ont juré de ne pas révéler, ni divulguer ; c'est celui qui concerne l'espèce divine et l'action divine. En effet, cela est divin qui, par l'union de la divinité, rend les substances divines* ; ce par quoi l'esprit prend un corps, les êtres mortels acquièrent une âme, et, recevant l'esprit qui sort des substances, sont dominés et se dominent entre eux. L'esprit ténébreux, rempli de vanité et de mollesse,* lorsqu'il domine les corps, les empêche d'être blanchis et de recevoir la beauté et la couleur que leur fait revêtir le créateur. De même le corps, l'esprit et l'âme sont affaiblis, à cause de l'ombre étendue sur eux.
+
+*) L'auteur joue sur l'identité du mot grec qui signifie soufre et divin.
+
+*) Cp. p. 106.
+
+15\. Mais lorsque l'esprit ténébreux et fétide est rejeté, au point de ne laisser ni odeur, ni couleur sombre, alors le corps devient lumineux et l'âme se réjouit, ainsi que l'esprit. Alors que l'ombre s'est échappée du corps, l'âme appelle le corps devenu lumineux,* et lui dit : Éveille-toi du fond de l'Hadès et lève-toi du tombeau ; réveille-toi en sortant des ténèbres. En effet, tu as revêtu le caractère spirituel et divin ; la voix de la résurrection a parlé ; la préparation de vie s'est introduite en toi. Car l'esprit* se réjouit à son tour dans le corps,* ainsi que l'âme dans le corps où elle réside. Il court avec une joyeuse précipitation pour l'embrasser ; il l'embrasse et l'ombre ne le domine plus, depuis qu'il a atteint la lumière* ; le corps ne supporte pas d'être séparé de l'esprit à tout jamais, et il se réjouit dans la demeure* de l'âme, parce que, après que le corps a été caché dans l'ombre, il l'a trouvé rempli de lumière.* Et l'âme s'est unie à lui, depuis qu'il est devenu divin par rapport à elle, et qu'il habite en elle. Car il a revêtu la lumière de la divinité (et ils ont été unis), et l'ombre s'est échappée de lui, et tous ont été unis dans la tendresse* : le corps,* l'âme* et l'esprit.* Ils sont devenus un ; c'est dans cette (unité) qu'a été caché le mystère. Par le fait de leur réunion le mystère s'est accompli. La demeure a été scellée, et (alors) s'est dressée une statue pleine de lumière et de divinité. Car le feu* les a unis et transmutés, et ils sont sortis de son sein.*
+
+*) Cp. l'homme lumineux, p. 224 et 225.
+
+*) Au-dessus du mot esprit, on lit en rouge le signe du cinabre, M. Dans A, c'est le signe du cuivre. Dans Lc, on lit « L'esprit du cuivre. »
+
+*) Au-dessus du mot corps, on lit l'abréviation du mot plomb dans M. --- Au-dessus du mot âme : signe de l'argent, M. --- Entre ἐν (dans) et ᾧ (le corps) : au-dessus, signe de l'or, M. --- Dans A, après le mot âme, signe du mercure : « ce qui est aussi l'or. » --- Lc interprète ces signes, en disant : « L'âme, c'est-à-dire le mercure ; elle court à l'or pour se fixer dans son embrassement, etc. »
+
+*) Au-dessus de lumière, signe du soufre natif, M.
+
+*) Au-dessus, signe de l'or, M.
+
+*) Au-dessus, signe du soufre natif, M.
+
+*) Dans A, en marge : le mercure exprimé par son signe, surmonté d'un μ. Il semble qu'il s'agisse d'un amalgame de plomb.
+
+*) Au-dessus, signe de l'or, M.
+
+*) Au-dessus, signe du mercure, M.
+
+*) Au-dessus, signe du cinabre, M.
+
+*) Au-dessus, signe du soufre natif, M.
+
+*) Au-dessus, signe de l'ios du cuivre, M.
+
+16\. (Ils sont sortis) pareillement du sen des eaux,* ainsi que de l'air qui les entretient* ; lui aussi les a transportés de l'ombre à la lumière, et du deuil à la joie radieuse ; de la maladie à la santé, et de la mort à la vie ; il les a revêtus d'une gloire divine et spirituelle, qu'ils n'avaient pas auparavant. En effet, c'est en eux qu'est caché tout le mystère et que subsiste une chose divine* et inaltérable. En raison de leur virilité,* les corps se pénètrent entre eux ; sortant de la terre, ils revêtent une lumière et une gloire divine, dès qu'ils ont crû, suivant leur nature propre, qu'ils ont changé d'apparence, qu'ils sont sortis du sommeil et ont quitté l'Hadès.* Car le sein du feu* les a enfantés : c'est en en sortant qu'ils ont revêtu la gloire ; et il les a amenés à une même unité. Aussi leur figure a été achevée, pour le corps, pour l'âme et pour l'esprit, et ils sont devenus un.
+
+*) Au-dessus, double signe du mercure, M.
+
+*) Au-dessus, signe de l'ios du cuivre, M.
+
+*) Ou un soufre, le mot grec ayant le double sens.
+
+*) Allusion à l'arsenic, dont le nom grec signifie _mâle_.
+
+*) Sur le sens de ce mot qui symbolise certains appareils, voir Zosime, p. 123, note 4.
+
+*) Au-dessus, signe du soufre natif, M.
+
+Le feu* a été subordonné à l'eau,* et la terre* à l'air.* Semblablement aussi l'air* a été subordonné au feu, et la terre* à l'eau,* le feu* et l'eau à la terre,* et l'eau* à l'air,* et ils sont devenus un. Des plantes et des vapeurs* s'est formée la substance unique : de la nature et du soufre s'est formée la substance sulfureuse,* qui poursuit et domine toute nature. Voici que les natures ont dominé les natures et les ont vaincues ; à cause de cela, elles changent les natures et les corps et tout (ce qui provient) de leur nature. Dès que la substance fugace* a pénétré dans celle qui n'est pas fugace,* et la substance dominante,* dans celle qui n'est pas dominante,* alors elles ont été unies entre elles.*
+
+*) Signe du soufre, M.
+
+*) Au-dessus, signe du mercure, M.
+
+*) Au-dessus, signe de l'Écrevisse, M. Cp. Zosime, p. 142, notes 4 et 7 ; et formule de la figure 28, _Introd._, p. 152. Il s'agit donc du molybdochalque.
+
+*) Au-dessus, signe du mercure, M.
+
+*) Même signe au-dessus, M.
+
+*) Au-dessus, signe de l'Écrevisse, M. --- Molybdochalque.
+
+*) Au-dessus, signe du mercure, M.
+
+*) Au-dessus, signe du cinabre, M.
+
+*) Au-dessus, signe de l'Écrevisse, M.
+
+*) Au-dessus, signe du mercure, M.
+
+*) Au-dessus, signe du cinabre, M.
+
+*) Au-dessus, signe du cinabre : ce signe est donc appliqué successivement au feu, à l'air et à la vapeur sublimée.
+
+*) Ou divine.
+
+*) Au-dessus, signe du mercure, M. Cp. le _servus fugitivus_, _Introd._, p. 217, et Zosime, p. 146 et 201.
+
+*) Au-dessus, signe de l'or, M.
+
+*) Au-dessus, signe du soufre natif, M.
+
+*) Au-dessus, signe de l'or, M.
+
+*) Ces phrases vagues et symboliques avaient pour les adeptes un sens, qui nous est révélé par les signes placés au-dessus des mots dans M. Leur date est incertaine ; mais elles semblent remonter, au moins comme origine, jusqu'aux vieux gnostiques, commentés plus tard par Stephanus et par les Byzantins contemporains d'Héraclius. En tout cas, elles sont le point de départ du galimathias mystique des Alchimistes arabes et latins. --- Cp. Ostanès, _Introd._, p. 217 --- Avicenne, _Introd._, p. 258. --- Zosime, p. 146, etc.
+
+17\. Tel est le mystère ; nous l'avons appris, frères, de Dieu et de notre père Comarius, le philosophe et l'archiprêtre. Voici que je vous ai exposé, ô frères, toute la vérité cachée, d'après beaucoup de sages et de prophètes.
+
+Or, les philosophes lui disent : tu nous as transportés, ô Cléopâtre, par ce que tu nous as dit. Bienheureux le sein* qui t'a portée !
+
+*) Signe du mercure surmonté d'un μ. A. --- Allusion alchimique à un texte de l'Évangile.
+
+Cléopâtre leur dit à son tour : C'est des corps célestes et des divins mystères que je vous ai parlé. En effet, par leur transformation et leur altération, ils transmutent les natures, ils leur font revêtir une gloire inconnue et suprême qu'elles n'avaient pas auparavant.
+
+Et le Sage (lui) dit : Explique-nous encore ceci, ô Cléopâtre : pourquoi a-t-on écrit : « c'est le mystère du tourbillon ; les corps sont l'art, pareil à la rotation d'une roue. Ne peut-on pas comparer le mystère à la course de la roue, et au pôle supérieur du monde, autour duquel tournent les habitations, les tours et les camps glorieux* ? »
+
+*) Ceci rappelle certains passages de Lucrèce. Cependant le texte de Comarius implique la rotation de la terre sur son axe ; tandis qu'elle est supposée immobile par la plupart des philosophes anciens.
+
+Cléopâtre dit : Les philosophes ont placé (l'art) dans ce rang convenable, où il a été mis par l'auteur et le maître de toutes choses. Voici que je vous dis que le pôle tournera, en partant des quatre éléments, et qu'il ne s'arrêtera point. Ces choses ont été fabriquées dans la terre d'Éthiopie, notre pays, où sont pris les plantes, les pierres et les corps divins : celui qui les y a placés, c'est un Dieu et non un homme. En chacun (d'eux) le démiurge a fait germer la puissance ; l'un* (d'eux) verdit,* et l'autre ne verdit* pas ; l'un (est) sec, l'autre humide* ; l'un est susceptible de réunir,* l'autre de séparer* ; l'un domine, l'autre est subordonné ; dans leurs rencontres mutuelles, ils se dominent les uns les autres, et l'un s'incorpore dans un autre, et communique l'éclat à un autre. Ils deviennent une nature unique, poursuivant et dominant toutes les natures. L'unité* elle-même triomphe de toute nature ignée* et terrestre* et en transforme toute la puissance. Voici que je vous expose le terme de l'œuvre : lorsqu'elle est achevée, on obtient une préparation meurtrière, qui parcourt le corps. De même qu'elle parcourt son propre corps, elle pénètre dans les autres corps. En effet, par la décomposition et l'action de la chaleur, on obtient une préparation qui court sans obstacle à travers toute sorte de corps.* Ainsi a été accompli l'art de la philosophie. --- Fin.
+
+*) Au-dessus, signe du mercure, M.
+
+*) Au-dessus, signe du plomb, ou plutôt du molybdochalque ( ? ) M.
+
+*) Au-dessus, signe du mercure, suivi de celui du plomb mal fait, M.
+
+*) Au-dessus, signe du mercure, M.
+
+*) Signe du mercure, M.
+
+*) Au-dessus, signe du soufre natif, M.
+
+*) Au-dessus, signe du mercure, M : il s'agit donc du mercure des philosophes.
+
+*) Au-dessus, signe du soufre mal fait M.
+
+*) Au-dessus, signe de l'or, ou plutôt de sa limaille (or divisé ou quintessence de l'or).
+
+*) M finit là. La phrase suivante est tirée de A Lc ; et le mot « fin » de Lc.
+
+---
+
+#### 4\. --- 21. Sur l'Art Divin et Sacré des Philosophes.
+
+C'est le texte donné plus haut sous le nom d'Ostanès, p. 250.
+
+---
+
+#### 4\. --- 22. Chimie de Moïse.
+
+**Bonne Fabrication et Succès du Créateur ; Succès du Travail et Longue Durée de la Vie.** *
+
+*) Sous le nom de Moïse, il existait un grand nombre d'ouvrages apocryphes, cités notamment dans le Papyrus W de Leide (_Introd._, p. 16) ; le traité actuel se rattache à la même tradition. C'est une vieille collection de recettes positives, tout à fait analogues à celles du Papyrus X de Leide, et probablement contemporaines, au moins pour la plupart des articles. Elle est citée en divers endroits, à côté des œuvres de Chymès, de Pebichius (p. 180 et p. 209 au bas).  
+--- Dans la chimie de Moïse, on retrouve un certain nombre de recettes, reproduites textuellement du Pseudo-Démocrite. Il est probable que c'étaient-là des recueils de procédés pratiques, formés de différentes sources, par des orfèvres et artisans, qui se les transmettaient comme une tradition secrète, en les grossissant de temps en temps de recettes nouvelles. Le Papyrus de Leide, le Pseudo-Démocrite, les procédés de Jamblique, la Chimie de Moïse représentent quelques-uns de ces cahiers venus jusqu'à nous. Le traité d'orfèvrerie que nous publions dans la 5e partie est un traité analogue : à côté de recettes écrites en grec byzantin, il reproduit une portion considérable du Pseudo-Démocrite.
+
 ...
 
 # Cinquième Partie. --- Traités Techniques.
