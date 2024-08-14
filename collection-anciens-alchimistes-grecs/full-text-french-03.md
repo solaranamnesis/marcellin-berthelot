@@ -8713,7 +8713,257 @@ C'est le texte donné plus haut sous le nom d'Ostanès, p. 250.
 *) Sous le nom de Moïse, il existait un grand nombre d'ouvrages apocryphes, cités notamment dans le Papyrus W de Leide (_Introd._, p. 16) ; le traité actuel se rattache à la même tradition. C'est une vieille collection de recettes positives, tout à fait analogues à celles du Papyrus X de Leide, et probablement contemporaines, au moins pour la plupart des articles. Elle est citée en divers endroits, à côté des œuvres de Chymès, de Pebichius (p. 180 et p. 209 au bas).  
 --- Dans la chimie de Moïse, on retrouve un certain nombre de recettes, reproduites textuellement du Pseudo-Démocrite. Il est probable que c'étaient-là des recueils de procédés pratiques, formés de différentes sources, par des orfèvres et artisans, qui se les transmettaient comme une tradition secrète, en les grossissant de temps en temps de recettes nouvelles. Le Papyrus de Leide, le Pseudo-Démocrite, les procédés de Jamblique, la Chimie de Moïse représentent quelques-uns de ces cahiers venus jusqu'à nous. Le traité d'orfèvrerie que nous publions dans la 5e partie est un traité analogue : à côté de recettes écrites en grec byzantin, il reproduit une portion considérable du Pseudo-Démocrite.
 
-...
+1\. Et le Seigneur dit à Moïse : Moi j'ai choisi le prêtre nommé Béséléel, de la tribu de Juda, pour travailler l'or, l'argent, le cuivre, le fer, toutes les pierres bonnes à travailler et les bols bons à façonner, et pour être le maître de tous les arts.
+
+2\. Prenant du mercure, de la couperose et du misy, à parties égales, délaye-les ensemble ; fais-en sublimer la vapeur, depuis la 1re heure jusqu'à la 10e ; puis, rejetant la matière, redistille le mercure 3 fois ; arrose-le avec l'urine d'un impubère pendant 7 jours, au soleil ; mets dans un récipient,* après avoir luté avec du sel et de la terre résistant au feu. Puis place le vase sur sa tête dans une marmite neuve. Prépare des feuilles de plomb. Ferme la marmite : après l'avoir recouverte de tous côtés avec un lut résistant au feu, chauffe sur un feu de bouse de vache, pendant un jour et une nuit, et garde le mercure ainsi fixé.*
+
+*) _Rogé ou rogion_, sorte de récipient (voir p. 143, 144 et 59).
+
+*) Fabrication d'un amalgame de plomb ?
+
+3\. **Traitement du mercure.** --- Prenant du mercure, fais bouillir avec de l'huile de raifort. Ensuite, fixe-le et délaye avec du vinaigre, de l'alun lamelleux et du sel, pendant 7 jours. Après l'avoir édulcoré, fais sécher et garde.
+
+Prenant du cinabre, donne la couleur du cinabre à l'huile de raifort placée dans un flacon, en opérant avec soin. Mets celui-ci dans une marmite, pendant 10 heures. Reprends, lave dans un mortier, ajoute du vinaigre, de l'alun lamelleux, du sel, et délaye pendant 7 jours. Après lavage dans l'eau édulcorée, fais sécher et garde.
+
+4\. Prenant du mercure fixé, du sandyx,* du cuivre brûlé et du vinaigre rectifié, filtre ; prenant du soufre pur, fais bouillir avec le produit filtré. Reprenant cette eau, délayes-y les jaunes des œufs,* et fais évaporer au moyen de l'alambic. Après avoir bien arrosé, mélange avec l'eau celle de l'alambic et mouille les poudres sèches pendant 10 jours. Lorsque le produit est convenablement refroidi, jette dans un vase de verre, et après avoir mis au feu une marmite, fais-y cuire la poudre sèche ; puis regarde ce qui se produit. Ensuite prenant 2 carats ( ? ) de la poudre sèche, projette-les sur (une) once d'étain et tu auras de l'argent.
+
+*) _Introd._, p. 262.
+
+*) Sens symbolique.
+
+5\. Prenant de l'urine d'impubère, solidifiée en façon de pierre blanche, et du mercure fixé, broie ensemble, jusqu'à ce que le mercure soit absorbé ; prenant de l'aphrosélinon, mouille au soleil pendant 3 jours, et garde le produit ainsi préparé.
+
+6\. Prenant de l'aphrosélinon, place-le dans une toile et plonge dans le vinaigre tout un jour ; délaye avec les mains. Laisse déposer la matière, et après avoir épuisé, déverse le vinaigre ; fais sécher, plonge dans (le produit) des blancs d'œufs, soumis à la distillation dans l'alambic ; et plaçant dans un récipient, garde l'aphrosélinon.
+
+7\. Prenant des limailles de cuivre jaune et blanc, du fer, de l'étain, de l'arsenic et de la sandaraque, ainsi que du mercure fixé et du sel de Cappadoce, (mêle) en quantités égales avec du sang de bouc ou de porc, et jetant dans une marmite neuve, remue convenablement ; mets sur un feu de bouse de vache. Après l'avoir allumé, fais, cuire une nuit et un jour et garde la poudre (de projection) d'argent.
+
+8\. **Pour faire sortir la rouille du cuivre**.* --- Prenant de l'alun lamelleux, du savon, du vinaigre, mets au feu le cuivre, et trempe.
+
+*) Ἐξίωσις a ici en réalité le sens de Ἴωσις.
+
+9\. Prenant du mercure fixé, broie avec du sel ammoniac, du cuivre brûlé et de la couperose, en quantités égales ; jette dans un récipient et, après avoir recouvert convenablement, fais cuire dans du crottin de cheval humide, jusqu'à ce qu'il se forme du vin d'Amina.*
+
+*) Nom mystique désignant une liqueur ressemblant à ce vin.
+
+10\. **Traitement du molybdochalque.** --- Prenant du misy, fais cuire avec de l'huile de raifort ; et emploie ainsi. Fais cuire 3 heures.
+
+11\. L'alun lamelleux est traité comme il suit : il est mis au feu et éteint dans le vinaigre ; ensuite on le pulvérise. Il est poussé au roux* sept fois.
+
+*) C'est-à-dire que le sulfure d'arsenic rouge est jauni par des grillages successifs.
+
+12\. **Traitement de la pyrite.** --- Après l'avoir fait bouillir dans l'eau de mer tout un jour, et après avoir fait sécher, emploie-la ainsi.
+
+13\. **Traitement de la chalcite.** --- Après l'avoir coupée en morceaux, reprends avec du miel, amène en consistance d'emplâtre, et place dans une petite marmite, en la fermant entièrement. Recouvre-la d'un lut convenable, et fais cuire sur un feu de charbons de bois ; fais cuire une bonne heure. Puis enlevant, fais sécher. Délayant de nouveau, en suivant la même marche, broie dans un mortier et donne la consistance du miel. Fais cela trois fois et emploie ainsi.
+
+14\. **Traitement de la pyrite.** --- Après l'avoir fait bouillir dans l'eau de mer, après l'avoir broyée pendant un jour et l'avoir fait sécher, traite-(la) comme il suit pour l'amortissement du mercure, à quantités égales, si tu veux blanchir. Broyant du soufre apyre dans l'urine d'un enfant avec de la saumure, de l'eau de mer et de l'alun lamelleux, fais bouillir sept fois, puis abandonne le mélange à lui-même : tu trouveras le mercure fixé comme de la céruse. Mélange le surplus à volonté et avec le produit que tu voudras, jusqu'à trois fois. Après avoir fait sécher, garde.
+
+15\. **Rouille du cuivre.** --- (Prenant) de la pierre couleur d'or, de la terre de Samos, du sel efflorescent, du suc de figuier, donnant au tout une consistance visqueuse, enduis-en les feuilles métalliques et elles seront dépouillées de leur corps.
+
+Suivent trois alinéas tirés de l'Œuf philosophique, 1, 3, 8-10, p. 20.
+
+16\. **Eau extraite par distillation.** --- Prenant des œufs, casses-en autant que tu voudras ; réunis deux blancs et deux jaunes ; après les avoir brouillés, extrais au moyen de l'appareil. L'eau blanche qui passe en premier lieu s'appelle « petite eau de pluie ; » en second lieu, « huile de raifort ; » en troisième lieu, « ricin verdâtre. »
+
+17\. **Fabrication de l'eau extraite par distillation.** --- Prenant des blancs d'œufs, jette dans une livre de blancs 1 once de notre chaux, et après avoir brouillé, casse des œufs entiers à volonté et laisse jusqu'à ce qu'ils s'écoulent par en bas, pendant 7 jours. Le 7e jour, après avoir enlevé de la masse (la partie la plus pure), place dans l'appareil distillatoire prescrit par l'art, avec du vinaigre, à proportion des œufs. Lute le fond (du vase) avec soin, fais cuire et fondre sur un feu de crottin de cheval. Lute le fond pour la distillation. Cette eau est « l'eau plus noire, pure.* »
+
+*) Paroles attribuées à l'oracle d'Apollon (3, 12, 4, p. 152, 170 ; et 4, 7, p. 266).
+
+18\. **Soufre apyre blanc.** --- Prenant parmi les œufs restants qui auront été distillés, 1 partie, délaie avec l'eau filtrée et, mettant dans un alambic, lute avec soin ; laisse 7 jours, et chaque jour secoue l'alambic ; le 7e jour, après avoir décanté toute la partie pure, garde-la. Quant à la partie sèche, fais-la cuire sur un feu doux pendant 6 heures ou plus, jusqu'à dessiccation. Ensuite, broyant le dépôt décanté pendant une 1/2 heure, (et) le jetant dans la marmite que tu sais, extrais au moyen de l'appareil, et broyant de nouveau, extrais avec l'eau. Fais cela trois fois et garde.
+
+19\. **Fabrication du soufre jaune avec le soufre blanc.** --- Prenant le soufre décrit précédemment, provenant du blanc, c'est-à-dire du liquide évaporé, ainsi que de celui qui a été changé en poudre sèche, délaie l'une et l'autre avec l'espèce excédente, provenant du soufre apyre susdit. Mets le blanc dans l'appareil et fais monter. Puis, de nouveau, délaie dans l'espèce correspondante et fais monter. Enlève-le lorsqu'il sera solidifié, et tu auras de très bel or.
+
+20\. **Jaunissement du mercure.** --- (Prends) de l'alun, jusqu'à ce qu'il soit transformé, tu sais comment. Projette sur de l'argent (sur du mercure ? ). Cache cela.
+
+21\. **Traitement de l'arsenic.** --- Broie le sublimé, jette-le dans la saumure et après avoir pilé une heure par jour pendant 12 jours, rince ensuite avec de l'eau édulcorée, jusqu'à ce qu'il n'ait plus l'odeur du vinaigre, puis fais dessécher. Fais cela jusqu'à trois fois, de façon à ce qu'il perde son goût aigre, et emploie ainsi.
+
+22\. **Fabrication du cuivre jaune*.** --- Prenant du cuivre de Chypre ductile à chaud, fais-en des lames, dépose sur les faces supérieures et inférieures de la cadmie blanche broyée avec soin, celle qui est produite en Dalmatie et dont se servent les ouvriers du cuivre. Après avoir luté, fais fondre pendant un jour, en évitant soigneusement qu'elle ne s'évapore. Après avoir ouvert (le vase), si le métal est en bon état, emploie-le ; sinon, fais chauffer une seconde fois avec de la cadmie, comme ci-dessus. Si le résultat est bon avec le cuivre de Chypre ductile à chaud, on mêle au cuivre couleur d'or (ainsi obtenu), 4 onces de cuivre couleur de sang, et 6 onces de déchet d'étain. Ajoute à l'étain 2 onces de magnésie, et fais fondre le cuivre. Ajoute l'étain, et opère l'alliage. Ensuite, ajoute le métal de la magnésie et opère l'alliage. Après refroidissement, tu trouveras un produit friable et facile à broyer. Broie-le, ajoutes-y 2 onces de chalcite, et fais cuire dans des plats lutés : tu trouveras le métal jaune, presque rose. Mélange bien et garde. Après avoir enlevé ces matières, fais-les fondre pour l'usage indiqué. Pour obtenir le métal verdâtre, on laisse pendant un temps prolongé.
+
+*) _Introd._, p. 175, n° 42. C'est une préparation de laiton.
+
+23\. **Fabrication de l'or.** --- Prenant la pyrite femelle et celle qui est couleur d'argent, que certains appellent pierre sidérite, traite comme tu sais, de manière à la rendre fluide. Si c'est au cuivre que tu l'ajoutes, tu blanchiras comme tu sais, et si c'est à l'argent, tu jauniras par la cuisson du soufre que tu sais. Puis projette le métal jaune sur l'argent et tu le teindras. La nature jouit de la nature.*
+
+*) Cp. Démocrite, p. 47. Il y a des variantes considérables.
+
+24\. **Autre fabrication. Blanchiment de l'arsenic.** --- Délayant de l'absinthe en quantité égale, avec un peu d'eau, garde (à l'état de) poudre sèche. Fais fondre le cuivre seul ; ajoute, et le produit devient friable. Broyant, fais cuire avec un poids égal de sel pendant 2 heures, et après avoir enlevé, tu trouveras le produit jaune et friable. En le transformant d'après la même marche, tu auras du cuivre ; avec de l'or noirci une partie, et de l'or, une partie, il se forme un bel or pur.
+
+25\. **Comment il faut fabriquer l'or a l'épreuve.** --- Prenant de la pierre magnétique 2 drachmes, du bleu vrai 2 drachmes, de la myrrhe 8 drachmes, de l'alun exotique 2 drachmes, broie au soleil avec du vin excellent.
+
+26\. Il y a certaines personnes qui, ne croyant pas à l'utilité des (matières) liquides, ne font pas les démonstrations nécessaires. Comprends l'utilité des matières liquides. Les soufres ont des effets merveilleux lorsqu'il s'agit d'amollir. Après avoir fait un mélange intime, on fond le tout ensemble sur un fourneau d'orfèvre, on souffle et on recueille l'alliage qui en provient.
+
+27\. **Traitement de la divine magnésie.** --- Après l'avoir broyée, ajoutes-y un ferment et fais cuire. Fais cela sept fois. Après l'avoir fait fondre, tu trouveras de très bel argent. Elle amollit tout, blanchit tout ; même le verre, elle le fait blanchir.*
+
+*) Ceci pourraît s'appliquer à l'oxyde de manganèse, _Introd._, p. 256.
+
+28\. **Traitement de la sandaraque.** --- Prenant de la sandaraque, fais-la bouillir dans l'urine par sept fois, et après dessiccation au soleil, emploie.
+
+29\. **Traitement de la pyrite.** --- Prenant de la pyrite couleur d'or (elle est produite en Libye, dans les montagnes d'Egypte, surtout dans l'Augasie ; or l'Augasie, c'est Tribouthis). Prenant, dis-je, la pyrite de couleur d'or, traite-la ainsi. Après l'avoir broyée, lave-la bien dans le vinaigre de saumure, par trois fois, et fais sécher. Prends-en deux parties, du plomb deux parties. Après avoir délayé le plomb, saupoudre avec la pyrite, et lorsqu'il s'est formé une mousse, mets dans un vase de terre cuite ; lute avec soin, fais cuire avec une flamme indirecte, pendant deux jours ; après avoir enlevé, garde. Nous appelons cela fleur (du cuivre). Prends-en trois parties, et du satyrion* une partie ; met en œuvre, en délayant dans du vin âpre au goût pendant un jour ; fais sécher, reprends, garde.
+
+*) Nom de plante.
+
+30\. **Traitement du soufre.** --- Prenant de la pierre jaunâtre et raboteuse, (on la trouve partout), ayant la couleur de la pierre phrygienne et la grosseur de la petite racine de l'élydrion ; prends-en (dis-je) et traite ainsi. Après l'avoir mise dans un vase, lave avec le vinaigre, trois fois ; et, mettant dans un vase de verre, arrose avec de la saumure en juste mesure, pendant deux jours. Ensuite après avoir épuisé, lave à plusieurs reprises dans l'eau édulcorée. Prends-en six parties, et du métal qui coule de lui-même, une partie ; après avoir fait sécher, reprends et garde.
+
+Ceci est ce que l'on nomme chrysolithe.
+
+31\. (Prenant) de la pierre couleur d'or, de la terre de Samos, du sel efflorescent, et du suc de figuier ; mets en consistance visqueuse, enduis-en les feuilles ; le cuivre est ainsi dépouillé de sa nature corporelle.
+
+31 _bis_\. **Sur l'argyropée*.**
+
+*) C'est le § 20 de Démocrite, p. 53. --- La chimie de Moïse renferme un certain nombre de fragments du traité de Démocrite ; ce qui montre qu'elle a été tirée des mêmes sources. --- V. p. 288, note.
+
+32\. **Matière de la chrysopée.** --- Prends du mercure (extrait) du cinabre, le métal de la magnésie, de la chrysocolle, c'est-à-dire de la renoncule (elle se trouve dans les pierres vertes), du claudianos, de l'arsenic jaune, de la cadmie, de l'androdamas, de l'alun écrasé, du soufre apyre rendu incombustible, de la pyrite, de l'ocre attique, du minium pontique, de l'eau divine native (soit que tu entendes par là celle qui provient du soufre seul, ou celle qui a été préparée avec le soufre traité par la chaux), de la vapeur sublimée, du sory jaune, de la couperose jaune et du cinabre.
+
+33\. **Matière des liqueurs.** --- **Les liqueurs.** --- Voici ce que contiennent les liqueurs : le safran de Cilicie, l'aristoloche, la fleur de carthame, l'élydrion, la fleur de mouron, celle des plantes bleues ; le bleu, la couperose, la gomme d'acanthe égyptienne, le vinaigre, l'urine d'impubère, l'eau de mer, l'eau de chaux, l'eau de cendre de choux, l'eau de lie, l'eau d'alun lamelleux, l'eau de nitre, l'eau d'arsenic, l'eau de soufre, l'urine, le lait d'ânesse, le lait de chienne. Telle est la matière de la Chrysopée ; ce sont là les choses qui transforment la matière, celles qui résistent au feu. En dehors d'elles, il n'y a rien de sûr. Si tu es intelligent et que tu opères comme il a été écrit, tu seras bienheureux.*
+
+*) Une partie de ce morceau se trouve dans Synésius (§ 5, p. 64), qui l'attribue à Démocrite.
+
+Jette du cuivre sur l'or par les moyens que voici : je veux dire à l'aide du corail d'or.* Tantôt tu changeras l'argent en or, tantôt le cuivre en électrum, tantôt le plomb en argent.* Telle est la matière expliquée dans la Chrysopée.*
+
+*) Ou coquille d'or. --- Cp. p. 46, note 6.
+
+*) Le texte dit en plomb.
+
+*) Un morceau analogue se trouve dans Démocrite, § 8, p. 48.
+
+34\. **Matière de l'argyropée.** --- Le mercure provient de l'arsenic, ou de la sandaraque, ou de la céruse, ou de la magnésie, ou de l'antimoine d'Italie.
+
+Voici son emploi : Il agit pour l'effet que tu désires, en produisant la transformation. Si tu traites le cuivre comme il convient, tu en extrais (la) nature.
+
+Terre de Chia, cadmie blanche, terre astérite, terre cimolienne, arsenic blanc, misy cuit, misy cru, litharge blanche, céruse, natron jaune c'est-à-dire purifiant,* sel de Cappadoce, magnésie blanche, aphrosélinon pour le verre bleu, calcaire cuit.
+
+*) Cp. _Lexique_, p. 14. --- _Introd._, p. 39.
+
+35\. Traduit dans Démocrite, 2, 1, fin du § 2, page 44 ; puis :
+
+Car la nature triomphe de la nature, et la nature domine la nature.
+
+36\. **Traitement de la pyrite.** --- Traduit dans Démocrite, § 6, p. 47.
+
+37\. **Traitement de la pyrite d'argent.** --- Traduit dans Démocrite, § 5, p. 47.
+
+38\. **Fabrication du soufre noir brûlé.** --- La plus vieille des choses qui proviennent de l'eau divine, c'est-à-dire celle qui existe dans ce dépôt, délaie-la avec son eau propre, c'est-à-dire avec l'urine d'un impubère, pendant un jour, et arrose de nouveau avec l'huile de ricin, jusqu'à consistance de miel. Mets dans un récipient large et spacieux, rempli seulement à moitié (de sa hauteur), afin qu'il y ait place pour l'ébullition pendant que l'on chauffera. Lute ce (récipient), pour qu'il n'y ait pas d'évaporation ; mets-le au fond d'une marmite. Après avoir luté la marmite, place-la sur un fourneau de verrier, dans la flamme d'en haut, jusqu'à dessiccation. Puis enlevant, délaie dans l'urine d'un impubère et, après nouvelle dessiccation, garde : c'est le noir provenant de l'huile de ricin brûlée.
+
+39\. **Fabrication de l'eau jaune.** --- (Prends) cinabre 2 parties, misy cru 1 partie, --- c'est le safran, --- délaie avec de l'urine d'impubère 1 livre, et de l'eau de cuivre, 1 once. Après avoir épuisé, délaie dans la même eau : elle purifiera. Délaie avec le cinabre précédent et le misy et extraies-en l'eau jaune ... ce sont les sucs, car une seule fois ...
+
+40\. **Blanchiment de la magnésie.** --- Prenant de la magnésie, et une quantité égale de sel de Cappadoce, mets dans un vase de terre cuite ; (laisse) à partir du soir jusqu'au matin. Or, si elle est noire, fais cuire jusqu'à ce qu'elle blanchisse ; mais il vaut mieux la faire cuire sur un fourneau de verrier. Cache ce mystère, car il contient tout ce qui concerne le blanchiment par décoction.
+
+41\. **Traitement de la très divine magnésie.** --- Même texte que § 27, p. 293, sauf légères variantes.
+
+42\. **Traitement de la sandaraque.** --- Prenant de la sandaraque, celle qui n'a pas la couleur du fer, ni l'apparence pierreuse, mais qui est rousse et couleur de sang ; après l'avoir broyée, saupoudre avec. La (sandaraque) ainsi choisie et répandue avec la limaille de cuivre ne se liquéfie pas.
+
+43\. **(Procédé pour) purifier le plomb.** --- (Prends) de l'alun et du natron ; nettoie avec de l'eau froide, du vinaigre ; soumets à l'action du feu et le produit devient blanc.
+
+La suite est conforme au § 30, à partir de la troisième ligne.
+
+44\. **Autre fabrication du cuivre brûlé.** --- Prends de la sandaraque, du soufre apyre, du corail et du safran ; mets dans un mortier, broie pendant 40 jours avec l'urine d'un enfant impubère. Après 40 jours, tu ajoutes l'eau de safran et tu broies pendant 20 autres jours, jusqu'à ce que les espèces se mêlent et se marient avec la limaille de cuivre. Après cela, tu mets la préparation dans un vase de terre cuite, bien luté, et tu fais chauffer la marmite sur un fourneau pendant 7 jours. Si le produit est trop blanc, fais chauffer pendant 3 autres jours, jusqu'à ce qu'il devienne jaune.
+
+45\. **Blanchiment du cuivre.** --- Prends du cuivre de Chypre ; il faut le forger. Ensuite, après l'avoir mis au feu, teins-le avec la terre de Cimole, délayée dans le vinaigre de saumure. Fais cela à plusieurs reprises ; après l'avoir mis au feu encore une fois, forge-le. Pour avoir du cuivre blanc, prends-en 1 partie, et argent 1 partie. Le tout devient blanc.
+
+46\. **Diplosis de l'argent.** --- Comme nous avons trouvé décrits dans un livre très sacré les alliages de l'argent au moyen de l'étain, il est nécessaire d'en exposer les mystères et les purifications, afin que tu ne puisses te tromper.
+
+Prenant de l'alun, du sel de Cappadoce, mêle-le avec de la magnésie ; il prend la couleur, lorsque l'amour tyrannique* ( ? ) ... la trempe, au moyen de l'huile, le rend brillant et inodore.
+
+*) Ici une phrase incompréhensible. (Voir _Origines de l'Alchimie_, p. 85.)
+
+47\. **Noircissement de l'argent*.** --- Prenant du soufre natif, fais cuire sur un feu doux, produit avec de jeunes branches. Répands dans l'urine fraîche d'un enfant impubère ; fais une décoction et donne deux bouillons. Ensuite, mets dans du vinaigre très fort ; place avec d'autre vinaigre dans un vase, amène à consistance visqueuse, et fais cuire une nuit et un jour, après avoir délayé avec du jaune. Ensuite, ajoute de l'argent et tu as un métal qui est à l'épreuve.
+
+*) _Introd._, p. 69.
+
+48\. **Vérification de l'or.** --- Prenant de l'alun 1 partie, du sel ammoniac de Canope, celui qu'emploient les orfèvres, 1 partie ; après que l'or est fondu, mélange.
+
+49\. **On traite ainsi la sandaraque** (Cp. § 42). --- Prenez de la sandaraque, celle qui n'est ni couleur de fer, ni pierreuse, mais la rousse couleur de sang, 10 onces. Après l'avoir très bien broyée, mets dans un vase de verre. Ajoute vinaigre très fort, 2 cotyles ; sel commun, 5 onces ; couvre le vase avec un chiffon de laine, pose dessus un plat à rebord et laisse macérer pendant 7 jours ; ensuite transfère dans un matras et mets sur le feu, pendant 3 heures. Enlève l'écume et lave dans de l'eau édulcorée : tu trouveras la (composition) devenue rouge comme du sang. Ensuite, fais sécher au soleil. Mets de nouveau dans le vase. Puis, ajoute de l'urine de vache, conservée pendant 7 jours, afin qu'elle devienne plus forte et plus piquante. Ajoute alors la sandaraque lavée, et laisse macérer pendant sept jours, de façon à ce que l'effet devienne plus intense. Ensuite, lave dans l'eau édulcorée, fais sécher au soleil. Après avoir enlevé, tu peux employer pour les usages que réclament les teintures.
+
+50\. **(Sur) le cuivre rouillé.** --- Prenant de l'androdamas, enduis les feuilles (métalliques) en dessus et en dessous, et après avoir luté projette dans le verre blanc.
+
+51\. **Liqueurs de la Chrysopée.** --- Traduit dans Démocrite, § 25, p. 56.
+
+52\. **Amollissement de l'or, de façon a pouvoir lui communiquer des empreintes.** --- Après avoir mélangé : natron roux 2 drachmes, cinabre 3 drachmes, délaie dans le vinaigre ; ajoute un peu d'alun et laisse sécher. Puis, après avoir broyé, mets à part. Prends de l'or, une demi-obole ; de l'arsenic couleur d'or, 1 drachme ; mêle le tout ; délaie, en ajoutant de la gomme pure arrosée d'eau. Reprends, applique le sceau que tu voudras ; laisse 2 jours : l'empreinte sera fixée.*
+
+*) L'empreinte se fait sur un vernis épais déposé à la surface du métal.
+
+53\. **Traitement de l'or avec l'huile.** --- Prenant : litharge, 4 drachmes ; or, 2 drachmes ; cuivre jaune (pyrrhochalque), 1 drachme ; alun, 1 drachme ; cadmie, 1 drachme ; broie avec la limaille d'argent ou d'or ; mélange ... Lorsqu'il s'est formé (une pâte de) consistance cireuse, alors (mélange) la chélidoine et l'arsenic, puis la cadmie et l'alun. Mettant dans un matras, fais chauffer sur un feu doux de charbon, en projetant du safran cru et du vinaigre de première qualité ; opère ainsi.
+
+54\. **Teinture de l'or.** --- Misy métallique, 4 parties ; racine de chélidoine, 1 partie ; broie en consistance de miel ; fais macérer dans l'urine d'un impubère et trempe dans l'eau froide.
+
+Le cuivre brûlé 7 fois et l'or modifié sont ce qui vaut le mieux. L'or est chauffé ; pendant qu'il est chauffé, il se transforme, et après transformation, il teint toute sorte de corps.
+
+55\. Prenant de la sandaraque, du soufre, de la litharge, de l'alun, du sel, de l'eau, du sublimé, 1 partie de chaque ; broie, jusqu'à ce que le mercure soit absorbé dans le vinaigre ; après avoir fait sécher, fais monter les vapeurs, jusqu'à blanchiment ; projette de cette poudre sèche, 1 drachme sur du cuivre de Chypre purifié, et garde.
+
+56\. Prenant : mercure, 1 partie ; misy, 1 partie ; mélange l'un et l'autre jusqu'à ce qu'ils soient unifiés ; puis, fais sublimer. Prenant cette vapeur, mélange avec la scorie ; renouvelle la sublimation et fais ainsi par trois fois. Après 3 jours, prends le mercure sublimé et mouille-le avec de l'urine, pendant 7 jours, en l'exposant à un soleil bien chaud, Puis, après l'avoir fait refroidir, mets-le dans une bouteille ; achève de remplir le vase avec du sel, et place-le dans une marmite dont l'orifice sera bouché. Ajoute du plomb jusqu'à ce que le vase (intérieur) soit caché ; lute le couvercle de la marmite. Lorsqu'elle est refroidie à point, mets-la sur un feu de fumier, pendant une nuit et un jour ; ensuite retire et garde.
+
+57\. **Fusion de la pierre incombustible.** --- Place cette pierre dans l'appareil à fondre et mets au-dessus de l'huile de lin, jusqu'à ce que tu voies la pierre couleur de feu ; puis, retire et broie bien. Prends un peu de magnésie, du sel ammoniac, un peu de natron, broie-les avec la pierre ; fais fondre, et apporte de l'eau alcaline ; mets cette eau dans le creuset, ainsi que les autres poudres avec la pierre ; souffle jusqu'à ce que le produit soit fondu. Ajoute une très petite quantité de sel broyé, retire, garde.
+
+Prenant de la magnésie, fais blanchir ; ajoute de la pyrite et du cuivre brûlé, en parties égales, et du mercure amorti. Quand tu voudras, prends un certain poids d'argent, projette de cette poudre sèche calcinée sur l'étain, et tu auras de l'asèm blanc.
+
+58\. Prenant : mercure, 3 livres ; arsenic, 1 livre ; sandaraque, 1 livre ; natron d'Alexandrie, 1 livre ; misy, 1 livre ; couperose, 1 livre ; mettant le tout dans un mortier, broie avec soin. Mets ensuite dans une marmite neuve, place sur un pot à pieds. Après avoir enduit tout autour avec un lut mêlé de poil, avoir fait de même pour le contour du couvercle, à la hauteur de 4 doigts ; et après avoir plâtré les bords (du vase), afin de rendre la clôture plus solide, pose un chapiteau renflé à la partie supérieure. Lute minutieusement les jointures, fais cuire sur un feu léger une première fois, à une flamme de chandelles, pendant une nuit et un jour. Pour augmenter graduellement le feu, chauffe à une flamme de lampes,* pendant un autre laps d'une nuit et un jour ; laisse refroidir, et, découvrant, enlève avec une plume* un peu de ce qui est à la surface pour t'assurer si la matière est blanchie. Retirant ce qui est au fond, mélange de nouveau, jette dans un mortier et broie avec soin. Remets dans la même marmite, lute avec un soin égal le couvercle, et fais cuire sur un feu léger et progressif, encore une nuit et un jour. Laisse refroidir, et découvrant de nouveau, fais comme précédemment, jusqu'à ce que (la composition) n'émette plus l'odeur du soufre et jusqu'à ce qu'elle devienne pareille à du plâtre. Après l'avoir enlevée, jette-la dans l'eau séparée de la chaux (par distillation) et extraite au moyen de l'alambic. Ajoute l'eau avec la composition et donne la consistance du miel. Broie minutieusement dans le mortier ; laisse sécher et garde.
+
+*) Cp. p. 278.
+
+*) Cp. la même page.
+
+59\. Prends de l'urine non corrompue, de la chalcite, du cuivre, et des enveloppes ( ? ) d'œufs, 6 onces ; broyant ces (matières) jusqu'à production de mousse, tu mets en décoction avec de l'urine, jusqu'à ce que le soufre natif soit dissout.
+
+Prends de l'étain, 1 partie ; du mercure, 2 parties [purifie l'étain, en le faisant fondre et le versant dans l'eau de mer, et en changeant trois fois (l'eau) en masse] ; ajoute dans le creuset de la poix et de l'alun lamelleux. Ensuite, il faut que tu frottes (tais ce mystère), jusqu'à ce que le soufre se sépare du mercure.
+
+Maintenant, éprouve ainsi le mercure, Prends-en ; mets-le dans un vase de verre ; broie dans le mortier, jusqu'à ce que la surface (tourne) au jaune. Ensuite, prends-le ; renferme-le dans un vase de verre, en remplissant le vase suivant l'usage, (après l'avoir) luté étroitement (garde ce mystère) par-dessous, afin que le vinaigre ne puisse s'échapper du vase ; puis laisse une nuit et un jour. Aussitôt après ce délai, tu trouveras le mystère du mercure et la manière dont nous le combattrons. Car le philosophe a écrit sur ce mercure : « Lorsque tu fixeras le mercure, le produit qui s'écoule de lui-même. » Or, ce qui s'écoule de soi-même, c'est le vinaigre ; et le vinaigre, c'est la magnésie.
+
+60\. ... Saupoudre ainsi dans le mortier, à la surface du cuivre. Que le cuivre soit acidulé préalablement avec du vinaigre fort, de l'alun et du savon jusqu'à 3 fois, par ordre. Après l'avoir introduit, fais fondre. Ajoute les mélanges susdits ; saupoudre plus épais avec les mélanges ; ceux-ci rendent (le produit) plus blanc. On verra à chaque fonte le métal devenir manifestement plus brillant que dans le moment qui précédait l'addition de la préparation. Lors donc que le produit sera fondu convenablement, verse dans un vase enduit au préalable de terre de Samos et laisse l'œuvre d'ensemble s'accomplir. Cache encore une fois, suivant l'usage.
+
+Ajoute de l'argent de première qualité, de l'argent d'Adrumète ; pendant la fonte, projette sur la terre de Samos le cuivre, afin qu'il se transforme, et teins : répète cela plusieurs fois, mélange, garde.
+
+61\. **Sur le cuivre ductile, étiré jusqu'à devenir très mince.** --- Procédé. --- Il est très bon pour l'usage, et pour la trempe.
+
+Prenant du cuivre blanc, une mine, fais fondre. Saupoudre avec du sel blanc, de l'alun en quantité égale : ces corps auront été mis à l'avance avec du vinaigre et desséchés. Ensuite, ces (matières) étant triturées, saupoudres-en le mortier, à la surface du cuivre. Lors donc qu'il aura été fondu convenablement, verse dans le liquide, jusqu'à ce qu'il le dépasse de 2 doigts, laisse refroidir. Ensuite, enlève, enduis ; puis, après avoir mis sur un feu tout à fait doux et convenable, éteins dans l'eau. Lorsque la matière sera refroidie, ne la dépose plus dans un liquide, mais recouvre-la dans un vase, avec du sel et de l'alun. Ensuite, (prenant) du sel 2 parties, et de l'alun 1 partie, mélange, laisse refroidir dans ces (matières). Quand le produit sera refroidi, enlève. Lorsque le produit sera très blanc, étire le reste comme tu voudras : il obéira, si tu l'étires chaud ; mais s'il est froid, et que tu veuilles en arracher violemment une partie, tu ne le pourras, tant est grande la bonté et la ténacité du métal. C'est là un métal excellent ; on en a fait l'expérience. Le cuivre de Chypre est plus propre à ces usages ; tu dois le comprendre.
+
+62\. **Rendre le safran infaillible par la fonte.** --- (Prends) arsenic lamelleux, 4 parties ; sandaraque rousse et pure, 4 parties ; métal de la magnésie, 4 onces ; noir scythique, 1 once ; natron vitreux couleur de cochenille, 6 onces ; broie l'arsenic en apparence de mousse ; mélange le noir scythique et délaie ensemble ; le tout devient vert. Ensuite ajoute de la sandaraque, broie ensemble de nouveau avec le natron, le métal de la magnésie, jusqu'à apparence de mousse, ou de sublimé. Mélange le tout avec chaque produit et délaie ; ajoute du vinaigre égyptien fort et de la bile de taureau ; délaie en consistance pâteuse. Après avoir fait sécher au soleil, pendant 3 jours, broie ; transvase dans un petit flacon et fais-y cuire cette matière pendant 5 jours. Ensuite enlève, broie, ajoute de la gomme ; broies-en 10 onces et projette ... Donne la consistance pâteuse ; fais fondre le safran ; ajoute la préparation, lorsque le safran devient vert et friable. (Prenant) de l'or divisé 1 partie, fais fondre et tu trouveras de l'or. Et si tu en veux de 1re qualité et bien fabriqué, (prends) de l'or travaillé 4 parties et du ... 1 partie ; faisant fondre ensemble, tu trouveras de l'or éprouvé et très beau. Cache cela. Tel est le mystère divin et non communiqué de la teinture de l'or.
+
+63\. Voici l'explication du corps (métallique) de la magnésie.
+
+Prenant de la magnésie femelle, broie avec soin ; mets dans un plat 2 onces de sel, recouvre avec un autre plat, de façon que le métal de la magnésie ne puisse s'échapper et se dissiper. Mettant donc dans le plat du soufre en (quantité) à peu près semblable, place très près de la petite colonne ( ? ) pendant deux jours. Ensuite, prenant le plat et le découvrant, racle le tour ; jette dans un mortier, broie ; mets dans le second plat. Après avoir luté de nouveau les jointures tout autour, mets sur le fourneau le soufre au milieu du vase, vers la droite ; opère pendant 3 jours ; chaque jour, retire, broie, et lute à l'entour, jusqu'à ce que la matière devienne blanche. Prends de cette (composition) 4 parties, et du natron naturel et vitreux 1 partie, délaie ensemble et projette. Prends, fais une pâte, dépose dans le creuset le métal de la magnésie.
+
+Bonne fabrication du créateur ; succès du travail et longue durée de la vie !
+
+---
+
+#### 4\. --- 23. Les Huit Tombeaux sur l'Art Divin et Sacré des Philosophes.*
+
+*) Morceau singulier que l'on a cru devoir placer ici, à cause de la mention de Cléopâtre. On peut le rapprocher du texte d'Olympiodore sur le tombeau d'Osiris (p. 103) ; des mythes égyptiens sur les quatre doubles tombeaux d'Osiris, et sur les huit dieux élémentaires assemblés par couples ; ainsi que de l'ogdoade mystique des gnostiques (_Origines de l'Alchimie_, p. 63. --- _Introd._, p. 17). On retrouve dans le Papyrus W de Leide, un procédé analogue pour rattacher le nombre huit au nombre sept, par l'addition d'une unité d'une autre espèce. Voir aussi les quatre étoiles à huit rayons, figurées dans la Chrysopée de Cléopâtre (_Introd._, p. 133).
+
+1\. Quant à nous, ayant écrit en énigmes, nous vous laissons, vous qui avez en main le présent livre, travailler assidûment et rechercher le sujet du mystère. En effet le Philosophe dit que les hommes ont écrit, mais que les Démons en sont jaloux.* C'est sans doute dans le royaume des cieux, que se trouvent ceux qui ont été jugés dignes (de comprendre). Quant à toi, en te conformant à la courte explication de Cléopâtre, tu porteras à la lumière l'objet obscur de la découverte et tu rendras service : « Monte, dit celle-ci, au plus haut de la maison.* » J'ajouterai qu'il s'agit de l'objet ailé formé par les quatre éléments,* et qui se trouve entre les deux luminaires, je veux dire le soleil et la lune : là existe l'œuf à l'apparence d'alabastron. Ce n'est certes pas un œuf d'oiseau ; mais sa forme rappelle celle de l'œuf.
+
+*) Cp. p. 92, et p. 76 note 1.
+
+*) Cp. p. 282, § 11.
+
+*) Allusion à l'uræus ailé, et à l'œuf du monde, créé par Phtah, d'où sortent le soleil et la lune.
+
+2\. Ote la peau, ouvre avec précaution, broie sans ménagement. Puis délaie, et prenant un vase de verre, mets-y le comaris ; (il a plusieurs noms). Après avoir luté à l'intérieur une autre marmite, mets-y le comaris brillant. Immerge-la et tiens-la très chaude dans le crottin de cheval, pendant 40 jours, en renouvelant le crottin tous les 7 jours. Après ce délai précis, prends le vase, ôtes-en le contenu, délaie bien dans le tombeau de pourpre et conserve le mort. C'est la première fabrication et le premier tombeau.
+
+3\. Ensuite prenant le mort, qui naturellement a de l'odeur, mets-(le) dans l'alambic et fais cuire sur un feu violent, en faisant monter l'eau, sans mélanger : la première (portion), mets-la à part, ainsi que la seconde, dans des vases de verre. Retire le dépôt, broie-le pendant 7 jours avec la seconde eau, dans le tombeau de pourpre ; garde la première eau ; ensuite ensevelis le corps, comme plus haut, dans du crottin de cheval, pendant 40 jours, en changeant le crottin tous les 7 jours. Tel est le second tombeau et la première calcination.
+
+4\. Après ce délai précis, retirant le produit du crottin, broie-le de nouveau dans un (mortier) de marbre, avec la première eau conservée plus haut ; mets dans des alambics, et fais monter les eaux comme précédemment. Garde l'une (des deux portions), et quant à l'autre, la délayant avec la cendre, mets-la encore dans du crottin de cheval, semblablement pendant 40 jours, en changeant le crottin tous les 7 jours. Le troisième tombeau est ainsi devenu naturellement la seconde calcination.
+
+5\. Ensuite, prenant l'objet enfoui, après le délai de 40 jours, délaie avec l'eau mise à part, place de nouveau dans des alambics et fais monter les eaux comme plus haut ; garde l'une (des 2 portions) et quant à l'autre, délaie-la dans la composition ; enfouis pendant 21 jours dans du crottin de cheval, en changeant le crottin tous les 7 jours. C'est le quatrième tombeau et la troisième calcination.
+
+6\. Après le délai précis de 21 jours, prends la composition et délaie-la avec l'eau conservée ; fais cela pendant 7 jours comme précédemment, et fais monter l'eau au moyen d'un alambic ; garde la première portion, et quant à la seconde, délaie-la dans la composition, enfouis pendant 21 jours, changeant le crottin tous les 7 jours. Le cinquième tombeau se trouve naturellement être la quatrième calcination.
+
+7\. Après le 21e jour, retirant, broie avec l'eau conservée, et place dans des alambics ; fais monter les eaux et garde l'une (des 2 portions) ; délaie l'autre et ensevelis pendant 21 jours : c'est le sixième tombeau, excellent (ami), et la cinquième calcination.
+
+8\. Ensuite, séparant de la portion décomposée la partie incorruptible, délaie avec l'eau conservée et fais monter les eaux ; garde l'une (des 2 portions) et délaie avec l'autre, comme précédemment, puis ensevelis pendant 21 jours. C'est le septième tombeau et la sixième calcination.
+
+9\. Enfin, retirant la composition du vase, délaie pendant 7 jours avec l'eau conservée ; et, prenant la composition, arrose-la, délayant dans (un mortier) de marbre ... toutes les eaux, pendant un nombre de jours suffisant pour que la composition absorbe les eaux : laisse refroidir au soleil et après cela sublime, et garde l'esprit : c'est le huitième tombeau et la septième calcination.*
+
+*) « Fin » dans E.
+
+---
+
+#### 4\. --- 24. Pour Blanchir (le Cuivre).*
+
+*) Ce morceau, placé à la suite du précédent dans A, est d'un tout autre caractère et rappelle plutôt les petits articles de la Chimie de Moïse.
+
+1\. Prenant de l'arsenic couleur d'or et folié, mélange avec une égale quantité de sel ; broie bien dans un mortier ; mets dans un (vase) de marbre et broie avec du vinaigre, comme pour préparer des peintures ; mets sécher au soleil. Broie de nouveau avec du vinaigre ; fais cela pendant 3 jours. Ensuite, prenant un vase neuf résistant au feu, mets-y la composition qui s'est formée et colorée ... en enduisant tout autour les jointures, de façon à éviter l'évaporation ; car elle détruirait toute la teinture. Il faut sublimer avec soin, de façon à ce qu'il n'y ait pas le moindre dépôt de noir. Mettant de nouveau dans un (mortier) de marbre, broie avec du vinaigre et sublime encore une fois. Puis prenant du cuivre rouge de bonne qualité, forme des lames larges et minces ; après avoir fait chauffer, plonge (les) dans le vinaigre par deux fois ; ensuite, faisant fondre le (cuivre) par trois fois, jette dans le vase 4 carats de cuivre, et tu verras le métal devenir blanc.
+
+2\. On jette un hexage pour mille milliers de poids purs, c'est-à-dire divins : il faut une unité de poids pour chaque millier, et à partir de mille (on compte) de nouveau un pour un (mille). Dans quelques (ouvrages) il a été écrit ... et il semble être plus vrai que le vinaigre divin et l'air, laissés de côté par suite du travail, sont mis un nombre égal de fois dans la coloquinte (composition ? ) et sont traités par un appareil spécial, afin qu'ils fassent mieux briller le métal ; de cette manière et avec ces (matières), la composition est délayée une seconde fois et est parachevée.
+
+---
 
 # Cinquième Partie. --- Traités Techniques.
 
