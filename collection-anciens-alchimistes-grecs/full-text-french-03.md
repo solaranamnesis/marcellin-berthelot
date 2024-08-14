@@ -78,9 +78,9 @@
 
 #### [4. --- 22. Chimie de Moïse.](#4-----22-chimie-de-moïse-1)
 
-#### [4. --- 23. Les Huit Tombeaux sur l'Art Divin et Sacré des Philosophes.]()
+#### [4. --- 23. Les Huit Tombeaux sur l'Art Divin et Sacré des Philosophes.](#4-----23-les-huit-tombeaux-sur-lart-divin-et-sacré-des-philosophes-1)
 
-#### [4. --- 24. Pour Blanchir (le Cuivre).]()
+#### [4. --- 24. Pour Blanchir (le Cuivre).](#4-----24-pour-blanchir-le-cuivre-1)
 
 # [Cinquième Partie. --- Traités Techniques.](#cinquième-partie-----traités-techniques-1)
 
