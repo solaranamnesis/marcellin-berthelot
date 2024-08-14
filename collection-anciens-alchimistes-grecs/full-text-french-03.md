@@ -8973,6 +8973,12 @@ Bonne fabrication du créateur ; succès du travail et longue durée de la vie !
 
 # Cinquième Partie. --- Traités Techniques.
 
+## 5. 1. --- Sur la très précieuse et célèbre Orfèvrerie.
+
+Ce traité est un cahier d'artisan praticien, analogue au Papyrus X de Leide (_Introd._, p. 19), aux recettes techniques du Pseudo-Démocrite (p. 46), aux procédés de Jamblique (p. 274), et à ceux de la Chimie de Moïse (voir la note au bas de la page 288). D'après la langue, ce texte appartient au grec populaire du moyen âge. Le manuscrit A qui le renferme est une copie écrite en 1478 ; mais la langue en est à peu près la même que celle de deux articles analogues, contenus dans le Ms. M, écrit au 11e siècle, l'un concernant les moulages en creux et en relief (φούρμας καὶ τύλους) ; l'autre, le plomb et l'or en feuilles ; ces morceaux seront donnés dans la suite de la 5e partie. Ce sont là des indications propres à fixer la date de notre traité, ou plus exactement une limite de la date des textes relatifs à ce genre de pratiques. En effet la date de rédaction originelle n'est certainement pas la même pour les divers articles que le traité renferme : les uns étant plus anciens et remontant parfois jusqu'à l'antiquité gréco Égyptienne ; tandis que les autres reproduisent des recettes postérieures et des additions peut-être contemporaines du dernier copiste. En tous cas, ce traité continue la vieille tradition de l'orfèvrerie alchimique, qui remonte aux anciens Égyptiens. Le nom de l'asèm y figure parfois comme distinct de celui de l'argent, et avec le sens qu'il possédait à l'origine (_Introd._, p. 62) ; quoiqu'il y ait souvent confusion, ce mot ayant fini par désigner l'argent à titre variable des orfèvres. De même le mot de διάργυρος y désigne parfois un alliage analogue à l'argent et comparable à l'asèm (v. p. 26) ; mais il s'applique dans d'autres passages au mercure lui-même, comme dans le néogrec : c'est encore là un mot dont le sens s'est modifié dans le cours des âges. L'ouvrage se termine par la reproduction de divers textes de Zosime : ce qui montre bien la connexité traditionnelle de la vieille alchimie grecque avec les procédés techniques des orfèvres du moyen âge. Tout ceci, je le répète, est conforme aux faits et aux idées développés dans mon _Introduction_, à l'occasion des recettes du Papyrus X de Leide.
+
+---
+
 ...
 
 # Sixième Partie. --- Commentateurs.
