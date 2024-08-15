@@ -8979,6 +8979,58 @@ Ce traité est un cahier d'artisan praticien, analogue au Papyrus X de Leide (_I
 
 ---
 
+1\. **Pour affiner l'or.** --- Prends du sel marin, mets avec de la lie solide ; ferme le vase (marmite ? ) à la partie supérieure, et place-le dans le foyer, jusqu'à incandescence. Ajoute, pour une livre de ce métal, 2 parties de sel tamisé, et le tiers de brique pilée et tamisée. Mets dans deux pots, alternativement, une couche de sel, et une couche d'or, aminci au marteau autant que possible. Enduis tout autour avec le lut de l'art. Mets alors le (vase) dans le fourneau, de façon que (la flamme) le lèche. Or le fourneau est disposé comme il suit. Prenant une marmite, perce-la à partir du centre vers les côtés, de trous en forme de croix ; ajoutes-y deux ferrements. Place les pots qui contiennent l'or, au milieu de la croix, et dans la couche inférieure de la marmite pratique un trou, afin que la scorie puisse s'échapper. Alors, remplis (le fourneau) de charbon et tâche de fondre l'or. Si l'or (n'est pas) rassemblé au centre, recommence le jour suivant : amollis la brique pilée avec du sel et répète l'opération, jusqu'à ce que tu voies le métal fondu.*
+
+*) Voir _Introd._, p. 15, le cément royal.
+
+2\. **Pour affiner l'argent.** --- Prépare un creuset avec de la cendre et de la brique tamisée ; mets 1 livre d'asèm dans le creuset ; coupe en morceaux 1 livre de plomb ; mets-en une partie dans le creuset, et fais chauffer. Laisse refroidir spontanément. Alors, prépare un autre creuset neuf avec de la terre ; place de nouveau l'asèm au milieu ; porte à l'incandescence et laisse refroidir spontanément. Enlève le métal et place-le dans un creuset ; fais-le fondre au feu, et coule comme tu voudras.
+
+3\. **Explication de la dorure.** --- Prends de l'or, 1 hexage ; bats-le sur une enclume, de façon à l'amincir ; coupe-le en morceaux et mets-le dans un creuset sur le feu, jusqu'à incandescence. Alors, à l'heure du _pater noster_, au milieu de l'or mets le mercure dans le creuset ; mélange et ôte (le creuset) du feu.
+
+Mets de l'eau dans une aiguière ; prends l'objet et lave-le bien dans ta main. Prenant d'autre part du mercure, mets-le dans l'eau contenue dans la coquille* et amalgame l'asèm, jusqu'à ce qu'il prenne une couleur orangée. Dore alors avec le mélange destiné à dorer.*
+
+*) Aiguière, ou vase en forme de coquille.
+
+*) C'est-à-dire avec l'amalgame d'or préparé plus haut.
+
+Après avoir mis (l'objet) au feu, enlève-le et frotte-le avec une brosse de soie de porc. Puis mets de nouveau au feu, cinq ou six fois ; lorsque tu verras que la couleur apparait au dehors, fais chauffer plus fort, et mets dans l'eau. Puis, frotte encore, chauffe de nouveau et mets dans l'eau.
+
+4\. **Autre dorure pour l'or filé.** --- Coule de l'argent dans une lingotière, de façon que la coulée soit amenée à une longueur septuple. Puis, expose la barre au feu, en la chauffant dans toute sa longueur deux ou trois fois. Ensuite lime la surface avec une petite lime en acier de Damas, et bats (d'autre part) l'or très mince, afin que l'union soit intime. Ensuite dispose la feuille d'or sur l'argent ; enroule-la autour, de façon à pouvoir opérer la soudure ; mets sur le feu et fais rougir. Puis enlève du feu et frotte avec de la cendre d'olivier : là où manque l'or, mets-en avec la pierre à aiguiser ; place de nouveau l'objet au milieu du feu, puis enlève et frotte ; répète cela par trois fois. Alors, mets la barre coulée dans la filière.
+
+5\. **Explication pour la cuisson*.** --- Prends deux parties d'argent affiné ; mets-les dans un creuset, au milieu du feu ; garnis le creuset avec la (cendre des os) de pieds de mouton. Ajoute le soufre à l'intérieur, par petites quantités, de façon que la vapeur s'échappe. Projette ainsi dans le creuset. Broie une autre portion (de métal avec du) soufre ; mets-la dans un creuset, jusqu'à ce qu'il soit rempli à moitié et recouvre bien. Fais fondre cette moitié, et alors bats sur l'enclume. Mets (ensuite) dans la coquille (aiguière) et lave bien. Ensuite, mets un peu de matière vitreuse dans un vase de plomb, et fais bouillir. Puis place dans un autre vase ; dispose l'objet d'argent ou d'or ciselé, avec du savon et du sel de soude.* Mets (l'objet) au feu.* Après l'avoir ôté du feu, polis avec la pierre ponce ; puis frotte avec une plume et chauffe encore, avec du charbon, dans un vase de terre.
+
+*) Il s'agit sans doute d'une opération d'émaillage, désignée par le mot ἔγκοψιν, ἔγκαψιν ou ἔγκαυσιν. --- Voir le Commentaire de _Reiske_ sur Constantin Porphyrogénète, _de Cerim. Aulæ byzantinæ_ (coll. Byzantine de Bonn), t. 3, p. 205. --- _Saglio_, Dictionn. des Antiquités grecques et romaines, art. _Cælatura_.
+
+*) Le mot savon doit être entendu ici comme signifiant un fondant alcalin. Quant au « sel de soude » je traduis ainsi le mot τζαπαρικόν. --- En effet du Cange traduit à la fois τζαπαρικὸν par _fossicius_ et ἀλας τζ. par sel ammoniac. C'était sans doute au début le sel ammoniac de Pline (_Introd._, p. 45 et 237), variété de natron on carbonate de soude. Mais j'ai exposé comment le même mot a fini par désigner aussi, dans le cours du moyen âge, notre sel ammoniac moderne : le sens du mot byzantin ayant changé de la même façon que celui de la vieille dénomination « sel ammoniac, » qu'il avait remplacée.
+
+*) Sans doute après l'avoir garni d'émail. Il y a ici, comme dans toute description technique, des omissions que le praticien suppléait, mais qu'il est difficile de deviner aujourd'hui.
+
+6\. **Explication de l'émail*.** --- Broie menu l'émail sur l'enclume et place-le dans la coquille ; puis lave bien. Ensuite dépose-le sur l'objet ciselé. Mets celui-ci au feu sur un fourneau de fer, la préparation pour émailler étant placée à l'intérieur du fourneau. Dans ce fourneau, il doit y avoir une feuille de fer cintrée et percée de trous. Comprime et frotte jusqu'à ce que tu voies l'argent couler avec le plomb sur le bois (du foyer). Mets de nouveau l'objet au feu sur le fourneau, de façon que l'émail se fixe la seconde fois.
+
+*) Pour incruster ou vernir un objet métallique.
+
+7\. **Explication du nettoyage.** --- Broie du sel, et mêle du savon* au vinaigre. Délaie bien, et mets au feu, de façon à faire cuire le produit avec de la lie solide. Mets de nouveau la lie au feu, jusqu'à bonne cuisson. Ensuite pèse le produit et mets 2 parties de lie brûlée et 1 partie de sel marin. Jette dans la coquille, délaie avec de l'eau, et nettoie l'asèm avec.
+
+*) Le mot savon signifie ici une matière alcaline, propre à nettoyer les métaux (voir la note 4 de la page précédente).
+
+8\. **Explication d'un autre nettoyage.** --- Prenant du savon, délaie bien avec beaucoup de sel. Ensuite, mets au feu avec de la lie solide, et humecte. Puis, calcine ; non pas complètement, mais de façon que l'intérieur du vase commence à rougir. Alors, ôte-le. Après avoir broyé, délaie avec de l'eau et emploie ce savon. Mets le fondant vitreux* par dessus.
+
+*) βοράχην : ce mot est l'origine du nom de notre borax ; mais dans la langue des anciens auteurs ce n'était pas la même chose.
+
+D'autres se bornent à nettoyer avec le fondant vitreux la surface de l'ouvrage qu'ils veulent dorer.
+
+9\. **Explication de la soudure royale.** --- Prenant : or trois parties, et une partie d'argent, provenant d'une vieille monnaie* ; coule dans la lingotière. Si le métal à travailler est mince, réduis (la soudure) en poudre fine ; mais si l'ouvrage est épais, fais-en une feuille.* Soude le fil chauffé avec 2 parties de cette soudure et un tiers de fondant vitreux.
+
+*) C'est donc de l'argent allié.
+
+*) De façon à la rouler à la surface de l'objet que l'on veut dorer. Cp. § 4.
+
+10\. **Sur la soudure royale de l'argent.** ---Prenant de l'argent, provenant d'une vieille monnaie, 3 hexages ; du cuivre rouge 1 hexage ; mêle-les dans un creuset et mets au feu. Verse dans la lingotière. Si l'ouvrage est mince, emploie de la poudre et soude ; s'il est épais, fais une feuille, soude et nettoie,
+
+D'autres mettent 3 parties d'asèm et 1 de cuivre.
+
+11\. **Autre explication de la soudure d'argent.** --- Prends de l'argent, 3 hexages, de tel argent que tu voudras, et du cuivre, 2 hexages. Mets-les au feu dans un creuset, de façon à les fondre. Alors ajoute de l'étain, 1 hexage ; mets-le au milieu du creuset ; laisse imbiber et verse sur le fil placé au-dessous ; aplatis sur une plaque de marbre. Ensuite bats sur l'enclume ; nettoie et soude.
+
 ...
 
 # Sixième Partie. --- Commentateurs.
