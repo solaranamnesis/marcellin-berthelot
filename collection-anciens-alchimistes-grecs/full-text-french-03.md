@@ -86,6 +86,8 @@
 
 ## [5. --- 1. Sur la très précieuse et célèbre Orfèvrerie.](#5-----1-sur-la-très-précieuse-et-célèbre-orfèvrerie-1)
 
+## [5. --- 2. Travail des Quatre Éléments.]()
+
 ...
 
 # [Sixième Partie. --- Commentateurs.](#sixième-partie-----commentateurs-1)
