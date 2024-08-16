@@ -9033,6 +9033,184 @@ D'autres mettent 3 parties d'asèm et 1 de cuivre.
 
 11\. **Autre explication de la soudure d'argent.** --- Prends de l'argent, 3 hexages, de tel argent que tu voudras, et du cuivre, 2 hexages. Mets-les au feu dans un creuset, de façon à les fondre. Alors ajoute de l'étain, 1 hexage ; mets-le au milieu du creuset ; laisse imbiber et verse sur le fil placé au-dessous ; aplatis sur une plaque de marbre. Ensuite bats sur l'enclume ; nettoie et soude.
 
+12\. **Autre soudure très prompte ou alamarsa.** --- Prenant du cuivre rouge, du minium du Pont, environ 2 (parties), et de la lie de vin, pas (tout à fait) autant ; prends toutes ces espèces ; étale sur le cuivre le minium pontique et la lie ; broie sur le marbre. Lute le creuset, en y pratiquant une cavité rectangulaire ; ou bien pratique un trou au milieu. Le cuivre devra être très menu. Le trou sera de la grandeur du chas d'une aiguille ; il est destiné à permettre à la fumée de s'échapper par en haut. Ensuite enlève ; verse dans la lingotière, et lorsque tu souderas, mets avec le cuivre le quart des espèces ci-dessus. Pour l'argent, tu en prends le tiers ; place ensuite dans un creuset, afin de faire fondre ; verse dans la lingotière. Prépare de la (soudure en) poudre. Lorsque tu voudras souder, nettoie, et mets cette poudre.
+
+13\. **Explication pour donner a un object la couleur d'or.** --- Prenant (la terre) appelée ocre, mets-la sur le feu, jusqu'à ce qu'elle rougisse ; alors, enlève, et délaie dans l'eau avec du sel ammoniac. Enduis-en l'objet à dorer ; mets-le au feu, et retourne, jusqu'à formation de fumée et apparition de la couleur ; puis mets dans l'eau.
+
+14\. **Pour donner la couleur d'or a un object d'argent : dorure.** --- Broie du soufre, de l'ail et de la lie, à parties égales ; ajoutes-y de la lie sèche, avec de l'urine et du sel ; fais chauffer au feu, et mets l'objet travaillé au milieu, jusqu'à l'heure du _pater noster_. Puis ôte-le et mets-le dans l'eau froide. Répète cela 5 à 6 fois, de façon que la couleur pénètre dans l'épaisseur de l'objet que l'on dore.
+
+Pour la cuisson,* broie ensemble : 3 parties de métal de vieille monnaie et un quart de plomb ; mets dans un creuset ; fonds dans un excès de soufre, en couvrant (le creuset).
+
+*) Opération d'émaillage.
+
+15\. **Pour (oter a) l'argent son éclat.** --- Prenant du sel ammoniac et du vert de gris, délaie dans du vinaigre ; enduis au soleil l'asèm : aussitôt il noircit. Si ces choses ne sont pas à ta disposition, enfume l'asèm avec un flambeau.
+
+16\. **Observation.** --- Le cuivre est blanchi par l'astriopsiaké, et par le jus du plantain, je veux parler du plantain à larges feuilles L'argent est blanchi et adouci par le salpêtre. Mets l'argent dans le creuset avec cette liqueur, en y ajoutant le savon tiré de la lie solide ; le sel ammoniac adoucit l'argent dans le creuset.
+
+17\. **Recette mystérieuse.** --- Prends de l'argent et un peu d'ios, jusqu'à ce qu'il y ait autant d'argent que tu en as besoin, et broie-les ensemble ; projette dans le creuset, soit sur l'étain, soit sur le cuivre, et il se produit un or véritable.
+
+18\. **Sur (la manière de) faire des empreintes.** --- Fais une fusion ou une coulée avec des métaux ; fais-les fondre là où se trouve le moule. Egalise bien la place, c'est-à-dire la tête du moulage, soit avec une lime, soit au moyen du tour. Applique un enduit sur sa tête, là où tu dois faire l'empreinte, avec une couche légère de cire, et fais une petite couronne avec la cire à l'entour, afin qu'elle garde le liquide au milieu. Alors prends une aiguille fine, et indique les marques de l'empreinte sur cette cire, les lettres par exemple, en prenant soin que l'aiguille pénètre bien dans le moule. Alors broie de l'argent et du vert de gris dans du jus de citron, et verse sur le moulage, sur les lettres tracées au pourtour de la pièce de monnaie, en opérant de façon que rien ne s'échappe au dehors. Si tu veux obtenir une impression profonde, laisse une nuit entière. Mais si tu ne tiens pas à ce qu'elle soit profonde, laisse une demi-journée. Après avoir enlevé, tu trouveras l'empreinte marquée convenablement ; car ce procédé attaque convenablement le métal fondu.
+
+19\. **Autre (recette) pour l'écriture en lettres d'or.** --- Broie le bol (destiné à l'opération), par exemple le cinabre ; ensuite ajoute du blanc d'œuf et mets dans un vase. Places-y de l'eau, mêle bien ; fais mousser et attends que toute la mousse soit tombée. Ensuite, prenant de cette eau qui provient de l'œuf, mélange-la avec le bol. Mets où tu désires, et, dès que le tout aura été desséché, place de nouveau, par-dessus le bol, le reste de l'œuf. Expose (les lettres d') or à l'air, et dès que (l'écriture) sera séchée, nettoie et polis avec la pierre.
+
+20\. **Sur (la manière de) faire des lettres capitales dans les livres.** --- Prends de l'or pur et fin, et mélange-le avec de l'argent ; mets au feu dans un creuset. Ensuite, prends du soufre et mélange sur un porphyre ; broie autant que tu pourras, afin que le tout devienne (fin) comme de la fleur de farine. Dispose le tout sur une tablette polie en argile ; et mets sur un feu doux, en recouvrant avec une poterie propre ; veille à ce que la matière soit chauffée jusqu'au rouge. Ensuite, laisse refroidir et délaie sur un porphyre, avec beaucoup d'eau et une éponge. Réunis, mets dans un vase propre ; et abandonne un peu (de temps), jusqu'à ce que le produit purifié se dépose. Ajoutant de l'eau, lessive jusqu'à purification (par départ) des matières étrangères.
+
+Lorsque tu voudras écrire, mets, à partir du soir, de la gomme avec de l'eau et fais cuire avec cet or. Ensuite, trace d'abord les capitales ; puis, emploie un autre produit, obtenu en mélangeant avec de l'ocre, de la gomme, de l'orcanette ( ? ) et du cinabre. En te plaçant au-dessus des lettres capitales, écris avec un pinceau de peintre, comme c'est l'usage, et confectionne les (lettres) d'or.
+
+21\. **Sur (la manière de) tracer des animaux dorés sur une coupe, ou sur un rameau, ou sur toute autre chose non dorée.** --- Prenant des os de mouton, fais-les calciner, jusqu'à ce qu'ils soient incinérés. Ensuite, mélange un peu de plâtre avec de la céruse et broie bien, jusqu'à ce que le tout soit bien incorporé, ajoutes-y de la colle de poisson. Applique aux endroits où tu (ne) veux (pas) dorer et jusqu'à dessiccation. Ensuite dore le reste.
+
+22\. **Sur la coloration au feu.** --- 2 parties d'argent, provenant de vieilles monnaies, et 3 parties de cuivre.
+
+23\. **Pour dorer des animaux sur une coupe et que le fond reste blanc.** --- Prends du blanc d'œuf et de la brique pilée et tamisée, sans humecter ; enduis le fond, et mets au soleil, afin de faire sécher. Ensuite, dore les animaux.
+
+24\. **Pour la soudure d'or.** --- Mets de l'alamarsa, 1 partie, et de l'or, 2 parties. Pour la (soudure) d'argent, mets 1 partie d'alamarsa et 2 parties d'asèm.
+
+25\. **Sur la manière de dorer le cuivre avec de l'argent.** --- Broie de l'argent fin et coupe-le en petits morceaux. Ensuite, fais comme (pour) l'or, lorsqu'on ajoute du mercure, amalgame et dore. Ajoute de la lie solide ; place dans l'huile et fais bouillir. Ensuite, mets la coupe au milieu, et qu'elle y reste un peu de temps. Alors ajoute du coton ( ? ) et délaie ; puis, mets dans l'huile et délaie, jusqu'à ce que le mercure soit réuni au milieu de l'huile.*
+
+*) Recette peu intelligible.
+
+26\. **Sur la dorure du bronze amalgamé ( ? ).** --- Pour amalgamer, prends de l'asèm beau et pur, avec (de la couleur) de citron ou d'orange ; mets-le dans de la lie pour le rendre brillant. Ensuite ajoute le bronze amalgamé ( ? ) et place-le sur l'asèm. Presque aussitôt l'or se dissout dans le mercure. Mets alors sur une plaque de fer large et propre, et polis au-dessus du feu. Frotte avec une patte de lièvre. Ensuite lorsque tu verras que la couleur est adhérente, emploie la dent de loup pour frotter* ; polis au-dessus du feu, et dore.
+
+*) Les anciens polissaient avec des dents d'animaux.
+
+27\. **Soudure** ... --- Au début, fais une soudure, en mettant 2 parties d'étain et 1 de plomb dans le creuset. Lorsque le tout sera fondu ensemble, ajoute un peu de sel ammoniac, puis de petits morceaux de limaille, de façon à faire la soudure. Mets le tout sur le marbre ; apporte rapidement les morceaux (qu'il s'agit de souder) et place-les (aussi) sur le marbre, afin de les souder ensemble.
+
+28\. Lorsque tu dores de l'argent et que la dorure ne prend pas, prends une plume avant de chauffer, et étale avec un peu de cire pure sur l'argent ; ensuite, dore.
+
+29\. **Pour dorer les animaux sur le fond de la coupe (sans que le fond soit doré).** --- Prends de la colle de peau et un peu de chaux ; fais fondre sur le feu. Puis enduis le champ avec une plume. Lorsque le métal (du fond) est recouvert, frotte les animaux avec le mercure.
+
+30\. **Sur (la manière de) donner une très belle couleur a l'argent doré.** --- Prends : soufre, 3 parties ; lie de vin de Malvoisie, 2 parties ; sel, 1 partie ; broie bien ; fais bien bouillir avec de l'eau. Puis place l'argent au milieu, (et laisse) jusqu'à l'heure du _Pater noster_. Ensuite enlève, mets dans l'eau froide et brosse.
+
+31\. **Lorsque l'asèm est défectueux.** --- Mets dans un creuset de la brique pilée grossièrement ; fais chauffer, jusqu'à ce que le métal bouillonne. Souffle d'en haut sur le creuset avec un chalumeau : le plomb est absorbé. Si le métal n'est pas purifié, répète l'opération. Frappe alors avec le marteau, et si (le métal) est défectueux, place à sa surface du mercure et de la brique, et remets au creuset.
+
+32\. **Sur la soudure de l'émail.** --- Prends : argent fin, 10 parties et 1 partie de cuivre. Mets un peu de soudure vitreuse et opère à ta volonté : broie finement, nettoie et soude.
+
+33\. **Sur (la manière de) faire du fil (d'argent) mince.** --- Prends de l'argent fin ; bats-le, coupe-le en morceaux et mets-le dans un vase de fer à fond arrondi. Ensuite, mets-le dans la filière et étire-le une fois. Coupe à la lime ; ... mets de la soudure vitreuse blanche ( ? ) et soude.
+
+34\. **Sur (la manière de) faire la cuisson.** --- (Opération d'émaillage.)* Prends de l'argent fin, 1 hexage ; du cuivre, 1 hexage, et du plomb, 1 hexage ; fais fondre dans un creuset ; ajoute une grande quantité de soufre broyé et mets dans un pot neuf ; laisse à l'état fondu tant que la vapeur s'échappe. Après refroidissement, coule la barre dans la lingotière avec du soufre. Ensuite, broie et lave, et mets où tu voudras.
+
+*) Voir la note 3 de la p. 309.
+
+35\. **Sur la manière de donner une très belle couleur a l'argent doré.** --- Prends du curcuma jaune. Broie bien et mets avec de la lie sèche dans l'eau, sur le feu : je veux dire de la lie de (vin de) Malvoisie et un peu de sel ; fais bouillir. Laisse l'objet dans la liqueur, jusqu'à l'heure du _Pater noster_. Ensuite, prends-le et mets-le dans l'eau froide : répète cela 2 et 3 fois.
+
+36\. **Sur la manière de recoller les petites marmites ; bain pour assembler les tuyaux (de poterie).** --- Arrose de la chaux tamisée et humecte-la bien pendant plusieurs jours. Ensuite ajoute (sur l'objet) la fleur de cette chaux ; fais bouillir aussi des pieds et des têtes de mouton ; jettes-en le jus sur la chaux. Fais bouillir encore un extrait fait avec l'écorce d'orme ( ? ) ; ajoute-y du blanc d'œuf et assemble ce que tu désires.
+
+37\. **Pour faire briller une perle fine.** --- Prends une pastèque, ou un concombre ; ouvre-le par le milieu ; places-y la perle fine et mets le concombre sur le fourneau, jusqu'à ce qu'il se désagrège : par là les perles reprennent leur éclat.
+
+38\. **Autre (recette).** --- Fais macérer la perle fine dans un oiseau ou dans un pigeonneau, et qu'elle y soit tenue (jusqu'à) l'heure du _Pater noster_ ; alors presse, afin de la faire sortir.
+
+39\. **Sur les fils métalliques des orfèvres.** --- Prenant de l'argent pur, ramollis-le avec le septuple de son poids de plomb, (jusqu'à ce) qu'il devienne mou comme de l'or. Ensuite nettoie-le et coule-le en barreau ; amène-le à une longueur double par le battage. Puis, fais-en des fils, des feuilles, des rameaux, des étoiles, des roses, des réseaux tordus et entrelacés, des animaux, des oiseaux, et tout autre objet que tu voudras. Dispose une lame de fer mince et d'épaisseur uniforme. Prenant de la gomme adragante, mets-la dans un vase avec de l'eau, et laisse tremper pendant une nuit ; le (lendemain) matin déverse l'eau : pour t'en servir, mets au feu, et amène en consistance de colle. Ensuite prends une pince à cheveux, saisis un à un les fils ou les feuilles et dépose-les dans la colle. Ensuite reprends-les, pour les poser sur la lame de fer, et fais ce que tu veux. Dès que tu l'auras exécuté, expose au feu, jusqu'à ce que la colle soit un peu brûlée.
+
+Alors, ajoute de l'argent fin, 1 hexage ; mets-le dans le creuset, et fais fondre.
+
+Pour souder, aplatis au marteau aussi finement que tu peux ; coupe en morceaux menus, avec de petits ciseaux ; et place cette soudure sur les fils, au moyen d'une plume mouillée. Ensuite, tu feras une limaille grossière ; mets-la (sur les fils), et, au-dessus, mets de la soude vitreuse, broyée finement ; soumets à l'action du feu. Ensuite, blanchis et polis ce qui n'a pas été travaillé. Alors affine, (en ajoutant) environ 2 carats de minerai de cuivre lavé, ou de misy ...
+
+Là où il n'y a pas l'émail, on peut employer cette soudure ; on peut l'exécuter avec de vieilles monnaies, ou bien partout où il s'agit d'alamarsa.
+
+40\. **Autre méthode mystérieuse.** --- Prenant de la chaux vive, mêle de l'huile avec la chaux et arrose bien, une fois ou deux. Mets alors dans l'alambic. Ajoute aussi de la lessive, en la versant tout autour et au-dessus, jusqu'à (une épaisseur) de deux doigts. Mets cette eau divine dans un autre flacon. Prenant alors une étoffe de lin, mouille-la dans cette eau ; expose au feu, et si l'étoffe s'enflamme, sache qu'elle n'est pas bien préparée. Ajoute de nouveau le liniment calcaire avec d'autre chaux ; opère comme précédemment, jusqu'à réussite, c'est-à-dire jusqu'à ce que l'étoffe ne s'enflamme pas dans le feu.* Alors, prenant l'huile, mets de l'étain dans le creuset ; et il se forme de l'or.
+
+*) C'est un procédé pour rendre une étoffe incombustible ; mais la phrase finale paraît une addition de quelque copiste, préoccupé de transmutation car elle n'a aucun rapport avec ce qui précède.
+
+41\. **Autre eau divine.** --- Prends de la couperose, 1 livre ; du sel de nitre, 1 livre ; et du cinabre,* 4 onces ; broie bien dans un mortier de pierre, et jetant dans l'alambic, mets sur le fourneau : lute avec de la pâte de levain et du blanc d'œuf. Mets à part la première eau. Quant à la seconde eau, celle qui coule ensuite de l'alambic, après avoir été condensée dans le chapiteau, c'est là ce qu'on appelle l'eau forte.*
+
+*) Ce doit-être plutôt de l'oxyde de fer ( ? ). --- _Introd._, p. 261.
+
+*) Acide azotique.
+
+Alors, prends de ces eaux 2 onces, et du mercure 2 onces ; mets le tout dans un matras (placé) sur de la cendre chaude ; et il se forme de l'eau de mercure.*
+
+*) Azotate de mercure impur.
+
+Ensuite prenant de l'eau qui reste, 1 once, et de l'argent pur, 1 once ; place le tout dans un autre matras sur de la cendre chaude ; et il se forme de l'eau d'argent.*
+
+*) Azotate d'argent.
+
+Alors mêle les deux eaux ensemble, l'eau de mercure et l'eau d'argent, dans un autre matras, à découvert ; et place sur de la cendre chaude : il se forme un produit blanc comme du cristal. Puis, prenant de ce cristal ce que tu voudras, de l'huile calcaire une quantité égale, et du mercure une autre quantité égale ; place dans un autre matras, et humecte bien, jusqu'à ce que le mercure soit dissous. Alors jette le tout dans un alambic ; fais un feu léger, rejette 3 fois l'eau qui sort de l'alambic et ajoute toujours de l'huile, en arrosant avec. Lorsque tu auras fait cela 3 fois, tu verras qu'il s'est formé, à l'intérieur de l'alambic, une sorte de pierre. Prends alors de cette espèce, 1 once, et du mercure 1 once ; il se produit ce que tu veux.*
+
+*) Les premiers alinéas se rapportent à des préparations faciles à comprendre ; le dernier est une recette de pierre philosophale. Toutes ces recettes sont relativement modernes, l'eau forte n'étant pas connue d'une façon si claire avant le 13e ou 14e siècle.
+
+42\. **Eau pour extraire l'or de l'asèm.** --- Prenant 2 parties de sel ammoniac, et 3 parties de sel de nitre ; broie bien dans un mortier. Ensuite, mettant dans l'alambic, lute avec de la cendre, de la brique pilée et es œufs ; place sur un fourneau, fais bouillir pendant trois heures. Ensuite ouvre pour retirer la préparation ; et de nouveau replace sur le feu et fais bouillir jusqu'à l'aurore, pendant la durée d'une bonne veillée. Le laps est de soixante-cinq heures, et le feu doit être ajouté peu à peu. (En opérant) ainsi, l'eau divine* aura été confectionnée complètement.
+
+*) Acide azotique.
+
+Quand tu voudras retirer l'or de l'asèm, coupe l'asèm en morceaux et le jetant dans le matras, bouche bien. Ensuite épuise l'action de l'eau divine et mets à part l'or : on obtient ainsi un métal en poudre. Agglomère-le avec l'outil à dorer.*
+
+*) Cette recette est relative à l'attaque d'un alliage contenant de l'or par l'acide nitrique. L'or reste comme résidu.
+
+43\. **Autre (recette) pareille.** --- Prenant de l'alun, 2 litres ; du sel de nitre, 1 livre ; du vitriol romain, une livre et demie ; broie, mets dans un alambic et, plaçant sur un fourneau, ferme bien. Ajoute en bas une fiole, pour recevoir l'eau forte. L'eau divine est ainsi confectionnée en 24 heures.
+
+Quand tu voudras retirer l'or de l'asèm, place l'eau forte à l'intérieur (d'un vase) de verre, posé sur de la cendre chaude : l'argent se dissout, et l'eau (forte) l'attaque en écumant. Ensuite, prenant l'eau qui contient l'argent et la mettant sur le fourneau dans l'alambic, fais un feu léger et reçois l'eau qui distille par les becs : l'argent* reste au fond.
+
+*) C'est-à-dire le composé formé par l'argent.
+
+44\. **Affinage de l'or.** --- Prenant de la marcassite, 8 onces ; du soufre, 4 onces ; fais fondre ensemble dans le creuset : il se forme de l'antimoine (sulfuré).*
+
+*) Cette recette, de même que les précédentes, est relativement moderne. C'est une purification du sulfure d'antimoine, appelé au début marcassite et, après sa purification, _antimoine_ : le nom moderne de cette substance apparaît ici pour la première fois dans les traités de notre collection.
+
+Lorsque tu voudras affiner l'or en grains, mets l'or dans un creuset au milieu du feu. Ensuite projette de l'antimoine (sulfuré), au milieu du creuset, à ta volonté, jusqu'à ébullition. Pour (obtenir un) refroidissement (régulier), place le creuset sur une brique de Grèce, au milieu du feu, jusqu'à refroidissement.*
+
+*) Sur ce procédé d'affinage de l'or par l'antimoine, v. _Introd._, p. 264.
+
+45\. **Autre (recette) semblable pour l'asèm.** --- Extrais l'or en poudre de l'asèm, et place la poussière dans le creuset. Ensuite délaie avec de l'antimoine, au milieu du creuset, et fais chauffer. Après cela, place sur une brique de Grèce, afin d'affiner et de laisser refroidir : on obtient ainsi de l'or fin.
+
+46\. **Lorsque l'argent ou l'or sont défectueux.** --- Mets dans le creuset du mercure neuf et de la brique pilée, fais chauffer et le métal s'adoucit. Plus tu en mets, plus le produit devient beau.
+
+47\. **Fixation du mercure.** --- Mets du mercure, la quantité que tu voudras, et du plomb, une quantité égale ; place-les dans un tesson de marmite, sur le fourneau. Ajoute un peu de bronze à canon, et il se forme un asèm de choix.*
+
+*) C'est bien là une formule analogue au vieil asèm du Papyrus de Leide. (_Introd._, p. 66), dont la formule est ainsi reproduite vers la fin du moyen âge. La date relative de cette recette est fournie par le mot « bronze à canon. »
+
+48\. **Autre (recette).** --- Mets du mercure dans un pot, avec du jus d'oignon et du bronze à canon ; place sur le fourneau. Prends de l'axonge et fais chauffer, de façon à obtenir une lessive. Projette cette lessive sur l'asèm, dans le creuset, et il se forme de l'or.
+
+49\. **Sur la manière de faire des lettres d'or**.* --- Prends du bronze couleur d'or ; broie sur un porphyre ; ajoute un peu de miel et broie beaucoup. Ensuite place dans la coquille et lave bien avec de l'eau, de façon à te débarrasser du miel. Ensuite prépare avec du blanc d'œuf et écris. Lorsque (les lettres) seront séchées, polis avec une petite pierre ponce, ou une dent de loup, et (le produit) devient beau. Presse le blanc de l'œuf avec une éponge à plusieurs reprises, de façon à rendre la masse bien fluide, qu'elle n'épaississe pas. Mets aussi de la litharge blanche et broyée. Lorsque l'or est devenu adhérent, lave le blanc d'œuf, de façon à l'enlever.
+
+*) Cp. _Introd._, p. 62 ; Papyrus X de Leide.
+
+50\. **Sur (la manière de) rendre le cuivre brillant comme de l'or**.* --- Prenant de la tutie volatilisée, 1 once ; semblablement de l'excrément, 1 once ; des figues sèches et noires, 1 once ; broie le tout dans un mortier et mélange. Apprête 1 once d'étain, et après l'avoir aplati, coupe-le en morceaux. Mélange (le cuivre) avec cette espèce ; place dans un creuset ; lute par en haut avec de l'argile, souffle et fais chauffer. Lorsque tu penseras que le métal est entré en fusion, recouvre et complète la fusion. Mélange de nouveau les espèces, et opère comme précédemment, de façon à employer la totalité de cette espèce, et elle devient pareille à de l'or.
+
+*) Cp. _Introd._, p. 58 à 60 ; Papyrus X de Leide.
+
+51\. **Sur le savon.** --- Prenant d'abord du savon, mélange, et broie avec du sel. Ensuite agite.
+
+52\. **Autre (recette).** --- Prenant du sel ammoniac, du sel et de l'eau, broie bien. Ensuite sers-t-en pour rendre le cuivre brillant.
+
+53\. **Le verre.** --- C'est la soudure vitreuse, qui agit avec le sel ammoniac l'alun et le sel.
+
+54\. **Sur (la manière de) blanchir l'étain.** --- Prenant du minium du Pont couleur de citron, autant que tu voudras, et du sel de nitre, une quantité égale, broie bien. Ensuite mélange. Puis mets avec le fondant précédent, sur un feu de charbon, et fais chauffer jusqu'à absence de fumée. Le produit devient blanc comme de la neige. Ensuite retire et broie bien ; et jetant de l'étain dans le creuset, (le poids de) 4 onces, joins-y l'opsiastiké,* 1 once. Mets à part 6 parties. Lorsque l'étain apparaît au milieu du creuset, projettes-y une première partie (de la préparation précédente) : recouvre avec des charbons, et fais chauffer jusqu'à ce que la vapeur, sorte. Puis de nouveau, mets une autre partie, en opérant comme la première fois, et en projetant. Verse alors dans une petite coupe en fer, et le traitement sera réalisé.
+
+*) Cp. § 16, p. 312.
+
+Lorsque tu voudras dorer de l'argent, dispose suivant l'emploi, et à ta volonté ; projette. Et lorsque tu auras mêlé le produit avec l'argent, ajoute aussi un peu de lie dans le creuset, je veux dire le quart.
+
+55\. **Sur la manière de rendre le cuivre pareil a de l'or.** --- Prenant de la tutie, 3 parties ; du curcuma, 1 partie ; des raisins secs et des figues sèches rousses, du miel, des fèves de* ... ( ? ) 1 partie, de l'enveloppe intérieure des amandes, de la réglisse, du jaune d'œuf et du safran, 1 partie, de la bile de bœuf roux desséchée, 1 partie. Broie la tutie, comme on broie le cinabre avec de l'huile et fais-en une pâte ; alors broie les autres espèces et unifie. Prenant 3 onces de cuivre, réduis en lames minces sur l'enclume ; humecte avec les espèces précédentes ; mets dans le creuset ; ferme avec le lut de l'art, mets au feu ; souffle bien avec l'appareil (à souffler). Quand le produit est fortement chauffé, tu projettes ces espèces et le cuivre devient beau comme de l'or.
+
+*) Voir le § 50.
+
+56\. **L'eau du traitement assuré.** --- Prenant la progéniture d'oiseaux vivants,* nette et sans tache, partage (en deux), comme pour des ragoûts : l'art culinaire nous est profitable en beaucoup de circonstances. Ensuite mets dans deux marmites, une partie de chaque liquide ; fais une grande extraction, avec les appareils à mamelon. Quand tu verras le produit couler au milieu de la bouteille et se figer à la surface comme de la cire, alors enlève-le et laisse refroidir. Casse le vase : tu trouveras au milieu un produit très précieux, pour ton usage.
+
+*) C'est-à-dire l'œuf philosophique : c'est une description d'opérations chimiques, avec expressions allégoriques, à la façon des anciens alchimistes.
+
+Cette plante* purifie le plomb au moyen du mercure ; elle affine l'or, le rendant pur et à toute épreuve. Fonds d'abord le plomb, pris sous le poids de 8 livres ; lorsque le plomb est fondu, ajoutes-y du mercure traité suivant l'art, 8 autres livres, et laisse chauffer, jusqu'à ce que le produit fume. Alors, ajoute une livre de cette plante et fais chauffer jusqu'à pleine ébullition. Remue avec un bâton enflammé pendant 4 heures. Ensuite porte au dehors et laisse l'enduit se refroidir ; alors le métal devient noir. D'autres fois, il se colore en rouge garance.*
+
+*) Sens symbolique pour la pierre philosophale.
+
+*) Cela veut-il dire qu'il se forme un oxyde ou un sulfure, tantôt noir, tantôt rouge ?
+
+Voici la préparation : fonds du plomb traité suivant l'art, 8 livres, et lorsqu'il est bien fondu, ajoute du mercure, 8 autres livres. Ajoute en second lieu, de la seconde plante, 1 livre ; fais bien chauffer pendant 1 heure 1/2, et laisse refroidir. En outre, fonds 8 livres de plomb, et, après la fusion, traite-le convenablement, à cinq reprises, comme nous l'avons dit précédemment ; la dernière fois, attache un morceau d'or au bout (du bâton).* Avec ce seul morceau d'or, les 8 livres de plomb et les 8 livres de mercure, joints avec cette plante, se changent en bel or.
+
+*) On voit ici l'origine de l'une des fraudes ordinaires des alchimistes charlatans.
+
+57\. Un autre dit : ...
+
+Vient ensuite un morceau emprunté à Zosime* et qui se trouve imprimé 3, 8, p. 143-144.
+
+*) Le nom du Pseudo-Démocrite a été substitué à celui de Zosime, par inadvertance, à la fin de la note transcrite au bas de la page 288.
+
+---
+
+## 5. --- 2. Travail des Quatre Éléments.*
+
+*) La date de ce morceau ne peut être précisée : il semble postérieur aux auteurs du 7e siècle, et assez moderne :--- Cp. _Zosime_, p. 211, § 16. --- On doit en rapprocher spécialement le Traité de Comarius, où figure un symbolisme analogue, p. 285. --- D'après les interprétations de M, dans le dernier traité, l'eau signifierait le mercure ; l'air signifierait tantôt le mercure, tantôt l'ios de cuivre, tantôt le cinabre ; le feu serait pris pour le soufre ; et parfois pour le cinabre ; la terre, pour le molybdochalque. Mais ces interprétations sont plus étroites que celles du morceau actuel, données dans les §§ 4, 7, 8, 11 ; lesquelles se rattachent elles-mêmes à la nomenclature de l'œuf philosophique. Le vague indéfini de ces nomenclatures rend l'intelligence précise de ces morceaux fort incertaine.
+
 ...
 
 # Sixième Partie. --- Commentateurs.
