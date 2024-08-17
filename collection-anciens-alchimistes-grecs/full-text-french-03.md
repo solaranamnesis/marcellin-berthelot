@@ -34,6 +34,12 @@
 
 ...
 
+## [Sixième Partie.]()
+
+### [Commentateurs.]()
+
+...
+
 # [Traduction.](#traduction-1)
 
 ## [Quatrième Partie.](#quatrième-partie-3)
@@ -108,7 +114,9 @@
 
 ...
 
-# [Sixième Partie. --- Commentateurs.](#sixième-partie-----commentateurs-1)
+## [Sixième Partie.]()
+
+### [Commentateurs.]()
 
 ...
 
@@ -8995,7 +9003,7 @@ Bonne fabrication du créateur ; succès du travail et longue durée de la vie !
 
 # Cinquième Partie. --- Traités Techniques.
 
-## 5. --- 1. Sur la très précieuse et célèbre Orfèvrerie.
+#### 5. --- 1. Sur la très précieuse et célèbre Orfèvrerie.
 
 Ce traité est un cahier d'artisan praticien, analogue au Papyrus X de Leide (_Introd._, p. 19), aux recettes techniques du Pseudo-Démocrite (p. 46), aux procédés de Jamblique (p. 274), et à ceux de la Chimie de Moïse (voir la note au bas de la page 288). D'après la langue, ce texte appartient au grec populaire du moyen âge. Le manuscrit A qui le renferme est une copie écrite en 1478 ; mais la langue en est à peu près la même que celle de deux articles analogues, contenus dans le Ms. M, écrit au 11e siècle, l'un concernant les moulages en creux et en relief (φούρμας καὶ τύλους) ; l'autre, le plomb et l'or en feuilles ; ces morceaux seront donnés dans la suite de la 5e partie. Ce sont là des indications propres à fixer la date de notre traité, ou plus exactement une limite de la date des textes relatifs à ce genre de pratiques. En effet la date de rédaction originelle n'est certainement pas la même pour les divers articles que le traité renferme : les uns étant plus anciens et remontant parfois jusqu'à l'antiquité gréco Égyptienne ; tandis que les autres reproduisent des recettes postérieures et des additions peut-être contemporaines du dernier copiste. En tous cas, ce traité continue la vieille tradition de l'orfèvrerie alchimique, qui remonte aux anciens Égyptiens. Le nom de l'asèm y figure parfois comme distinct de celui de l'argent, et avec le sens qu'il possédait à l'origine (_Introd._, p. 62) ; quoiqu'il y ait souvent confusion, ce mot ayant fini par désigner l'argent à titre variable des orfèvres. De même le mot de διάργυρος y désigne parfois un alliage analogue à l'argent et comparable à l'asèm (v. p. 26) ; mais il s'applique dans d'autres passages au mercure lui-même, comme dans le néogrec : c'est encore là un mot dont le sens s'est modifié dans le cours des âges. L'ouvrage se termine par la reproduction de divers textes de Zosime : ce qui montre bien la connexité traditionnelle de la vieille alchimie grecque avec les procédés techniques des orfèvres du moyen âge. Tout ceci, je le répète, est conforme aux faits et aux idées développés dans mon _Introduction_, à l'occasion des recettes du Papyrus X de Leide.
 
@@ -9227,7 +9235,7 @@ Vient ensuite un morceau emprunté à Zosime* et qui se trouve imprimé 3, 8, p.
 
 ---
 
-## 5. --- 2. Travail des Quatre Éléments.*
+#### 5. --- 2. Travail des Quatre Éléments.*
 
 *) La date de ce morceau ne peut être précisée : il semble postérieur aux auteurs du 7e siècle, et assez moderne :--- Cp. _Zosime_, p. 211, § 16. --- On doit en rapprocher spécialement le Traité de Comarius, où figure un symbolisme analogue, p. 285. --- D'après les interprétations de M, dans le dernier traité, l'eau signifierait le mercure ; l'air signifierait tantôt le mercure, tantôt l'ios de cuivre, tantôt le cinabre ; le feu serait pris pour le soufre ; et parfois pour le cinabre ; la terre, pour le molybdochalque. Mais ces interprétations sont plus étroites que celles du morceau actuel, données dans les §§ 4, 7, 8, 11 ; lesquelles se rattachent elles-mêmes à la nomenclature de l'œuf philosophique. Le vague indéfini de ces nomenclatures rend l'intelligence précise de ces morceaux fort incertaine.
 
@@ -9305,7 +9313,7 @@ Après l'avoir pulvérisée encore et arrosée plusieurs fois par jour, fais cui
 
 ---
 
-## 5. --- 3. Sur la Trempe du Fer.
+#### 5. --- 3. Sur la Trempe du Fer.
 
 1\. La trempe du fer, pour presque tout le monde, est utile à connaître ; elle est multiple, quant à la pratique.
 
@@ -9345,7 +9353,7 @@ La sécrétion liquide, entre autres propriétés, a celle de tremper le fer et 
 
 ---
 
-## 5. --- 4. Teinture du Cuivre Trouvé chez les Perses décrite sous le Règne de Philippe.*
+#### 5. --- 4. Teinture du Cuivre Trouvé chez les Perses décrite sous le Règne de Philippe.*
 
 *) BCA, etc., ajoutent : « roi de Macédoine ; tel que ce cuivre existe sur les portes de Sainte-Sophie, » et au-dessous : « Fabrication du cuivre jaune. » Ce morceau a été rédigé à l'époque byzantine, entre le 7e et le 11e siècle, comme l'indiquent la citation des Arabes et le mot de tutie, qui ne figure pas chez les anciens alchimistes. Cette observation s'applique aussi au numéro suivant. Mais le fond des recettes doit être plus ancien, et remonter, d'après le titre, à une époque antérieure à l'ère chrétienne. --- Voir aussi la note suivante. --- On trouve cité dans le traité de _De mirabilibus_ (ch. 49) attribué à Aristote, un cuivre indien, provenant des trésors de Darius et doué de propriétés spéciales qui le faisaient confondre avec l'or ; Introd., p. 261. --- Cp. _Origines de l'Alchimie_, p. 227, et le présent volume, p. 297. --- Le roi de Macédoine cité ici doit être l'un des successeurs d'Alexandre.
 
@@ -9361,7 +9369,7 @@ La sécrétion liquide, entre autres propriétés, a celle de tremper le fer et 
 
 ---
 
-## 5. --- 5. Trempe du Fer Indien, décrite a la même Époque.
+#### 5. --- 5. Trempe du Fer Indien, décrite a la même Époque.
 
 1\. Prenant du fer doux, 4 livres, coupe-le en petits morceaux ; puis prenant de l'écorce des fruits de palmier,* nommée _elileg_ chez les Arabes, 15 parties en poids, et 4 parties en poids de _belileg_,* pareillement nettoyé à l'intérieur, c'est-à-dire l'écorce seule ; ainsi que 4 parties d'_ambileg_, semblablement nettoyé, et de la magnésie des verriers ci-dessus mentionnée (magnésie femelle) 2 parties.* Broie le tout ensemble, pas trop menu, et mélange avec les 4 livres de fer. Puis mets dans un creuset et égalise bien la place du creuset, avant de chauffer ; car si tu ne prends pas ce soin, de façon à éviter que celui-ci (le creuset) ne soit déplacé, tu trouveras des difficultés dans l'opération de la fonte. Ensuite mets les charbons et pousse le feu jusqu'à ce que le fer soit fondu, et que les espèces (susdites) soient unies avec lui. Or les 4 livres de fer demandent 100 livres de charbon.
 
@@ -9379,7 +9387,7 @@ La sécrétion liquide, entre autres propriétés, a celle de tremper le fer et 
 
 ---
 
-## 5. --- 6. Fabrication des Verres.
+#### 5. --- 6. Fabrication des Verres.
 
 1\. Prenant des œufs,* le nombre que tu voudras ; lave-(les) dans de l'eau saumâtre, puis essuie-(les). Lave-(les) de nouveau dans de l'eau de natron ; puis après les avoir cassés, sépare les coquilles de leurs membranes (intérieures), dépose les jaunes isolément et le blanc isolément. Après avoir égorgé de petits oiseaux noirs, recueilli leur sang et l'avoir mis dans l'appareil, retires-en l'eau, soit au moyen d'un feu doux, soit d'un feu immatériel qui ne brûle pas.*
 
@@ -9409,13 +9417,15 @@ Alors, reprend les huiles tirées de tous les corps,* mélange-les ensemble et s
 
 ---
 
-## 5. --- 7. Coloration des Pierres, des Émeraudes, des Escarboucles et des Améthystes d'après le Livre tiré du Sanctuaire des Temples.*
+#### 5. --- 7. Coloration des Pierres, des Émeraudes, des Escarboucles et des Améthystes d'après le Livre tiré du Sanctuaire des Temples.*
 
 *) Ce petit traité est une collection de recettes, remontant pour certaines parties à une haute antiquité ; ainsi que semblent l'indiquer ces mots : « d'après le livre tiré du Sanctuaire des Temples. » Il s'y trouve, à côté de ces vieilles recettes : des discussions théoriques plus récentes, du genre de celle de Zosime et des commentateurs byzantins ; des citations plus ou moins étendues de Marie, de Moïse et de Démocrite ; enfin des gloses beaucoup plus modernes, à en juger par la citation des Ismaélites, c'est-à-dire des Arabes.  
 C'était là sans doute un ouvrage technique, qui a passé de main en main, en étant enrichi d'additions successives. Il était primitivement en dehors de la collection alchimique ; car il ne figure pas dans le ms. de St-Marc ; mais il devait faire partie d'une grande collection technique, dont le titre nous a été conservé (Voir 3, 44, § 7, p. 213 de la _Traduct._, et p. 220 du _Texte_), titre dans lequel ce petit traité paraît formellement désigné. Le traité de la teinture des perles, donné plus loin (5, 9), en faisait aussi partie ; ainsi qu'un traité sur la trempe, la coloration et le moulage des métaux, d'où paraissent tirés les morceaux 5, 3, 4, 5, 16 et 17. On reviendra plus loin sur ce dernier traité, à l'occasion des articles 16 et 17.
 
 ...
 
-# Sixième Partie. --- Commentateurs.
+## Sixième Partie.
+
+### Commentateurs.
 
 ...
