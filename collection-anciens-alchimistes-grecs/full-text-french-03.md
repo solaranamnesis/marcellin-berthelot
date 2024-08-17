@@ -88,6 +88,16 @@
 
 ## [5. --- 2. Travail des Quatre Éléments.](#5-----2-travail-des-quatre-éléments-1)
 
+## [5. --- 3. Sur la Trempe du Fer.]()
+
+## [5. --- 4. Teinture du Cuivre Trouvé chez les Perses décrite sous le Règne de Philippe.]()
+
+## [5. --- 5. Trempe du Fer Indien, décrite a la même Époque.]()
+
+## [5. --- 6. Fabrication des Verres.]()
+
+## [5. --- 7. Coloration des Pierres, des Émeraudes, des Escarboucles et des Améthystes d'après le Livre tiré du Sanctuaire des Temples.]()
+
 ...
 
 # [Sixième Partie. --- Commentateurs.](#sixième-partie-----commentateurs-1)
