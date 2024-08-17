@@ -28,6 +28,12 @@
 
 ...
 
+## [Cinquième Partie.]()
+
+### [Traités Techniques.]()
+
+...
+
 # [Traduction.](#traduction-1)
 
 ## [Quatrième Partie.](#quatrième-partie-3)
@@ -82,21 +88,23 @@
 
 #### [4. --- 24. Pour Blanchir (le Cuivre).](#4-----24-pour-blanchir-le-cuivre-1)
 
-# [Cinquième Partie. --- Traités Techniques.](#cinquième-partie-----traités-techniques-1)
+## [Cinquième Partie.]()
 
-## [5. --- 1. Sur la très précieuse et célèbre Orfèvrerie.](#5-----1-sur-la-très-précieuse-et-célèbre-orfèvrerie-1)
+### [Traités Techniques.]()
 
-## [5. --- 2. Travail des Quatre Éléments.](#5-----2-travail-des-quatre-éléments-1)
+#### [5. --- 1. Sur la très précieuse et célèbre Orfèvrerie.](#5-----1-sur-la-très-précieuse-et-célèbre-orfèvrerie-1)
 
-## [5. --- 3. Sur la Trempe du Fer.](#5-----3-sur-la-trempe-du-fer-1)
+#### [5. --- 2. Travail des Quatre Éléments.](#5-----2-travail-des-quatre-éléments-1)
 
-## [5. --- 4. Teinture du Cuivre Trouvé chez les Perses décrite sous le Règne de Philippe.](#5-----4-teinture-du-cuivre-trouvé-chez-les-perses-décrite-sous-le-règne-de-philippe-1)
+#### [5. --- 3. Sur la Trempe du Fer.](#5-----3-sur-la-trempe-du-fer-1)
 
-## [5. --- 5. Trempe du Fer Indien, décrite a la même Époque.](#5-----5-trempe-du-fer-indien-décrite-a-la-même-époque-1)
+#### [5. --- 4. Teinture du Cuivre Trouvé chez les Perses décrite sous le Règne de Philippe.](#5-----4-teinture-du-cuivre-trouvé-chez-les-perses-décrite-sous-le-règne-de-philippe-1)
 
-## [5. --- 6. Fabrication des Verres.](#5-----6-fabrication-des-verres-1)
+#### [5. --- 5. Trempe du Fer Indien, décrite a la même Époque.](#5-----5-trempe-du-fer-indien-décrite-a-la-même-époque-1)
 
-## [5. --- 7. Coloration des Pierres, des Émeraudes, des Escarboucles et des Améthystes d'après le Livre tiré du Sanctuaire des Temples.](#5-----7-coloration-des-pierres-des-émeraudes-des-escarboucles-et-des-améthystes-daprès-le-livre-tiré-du-sanctuaire-des-temples-1)
+#### [5. --- 6. Fabrication des Verres.](#5-----6-fabrication-des-verres-1)
+
+#### [5. --- 7. Coloration des Pierres, des Émeraudes, des Escarboucles et des Améthystes d'après le Livre tiré du Sanctuaire des Temples.](#5-----7-coloration-des-pierres-des-émeraudes-des-escarboucles-et-des-améthystes-daprès-le-livre-tiré-du-sanctuaire-des-temples-1)
 
 ...
 
