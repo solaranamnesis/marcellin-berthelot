@@ -9213,6 +9213,189 @@ Vient ensuite un morceau emprunté à Zosime* et qui se trouve imprimé 3, 8, p.
 
 *) La date de ce morceau ne peut être précisée : il semble postérieur aux auteurs du 7e siècle, et assez moderne :--- Cp. _Zosime_, p. 211, § 16. --- On doit en rapprocher spécialement le Traité de Comarius, où figure un symbolisme analogue, p. 285. --- D'après les interprétations de M, dans le dernier traité, l'eau signifierait le mercure ; l'air signifierait tantôt le mercure, tantôt l'ios de cuivre, tantôt le cinabre ; le feu serait pris pour le soufre ; et parfois pour le cinabre ; la terre, pour le molybdochalque. Mais ces interprétations sont plus étroites que celles du morceau actuel, données dans les §§ 4, 7, 8, 11 ; lesquelles se rattachent elles-mêmes à la nomenclature de l'œuf philosophique. Le vague indéfini de ces nomenclatures rend l'intelligence précise de ces morceaux fort incertaine.
 
+1\. **Ici commence l'explication détaillée de l'œuvre.** --- Prends le blanc et le jaune des œufs, et malaxe-les ensemble avec ta main, de façon à former un mélange en consistance pâteuse ; mets-le dans une marmite neuve ; ferme, et plonge (la marmite) dans du fumier, ou dans de la cendre chaude, ou dans de la paille (pourrie), pendant 7 ou 14 jours. Ensuite, enlève, place dans l'alambic sur un feu très bas. Prends l'eau blanche qui en provient. Or, quand tu verras que le produit passe trouble ou noir, arrête et mets ce produit à part. Prends l'huile ; augmente la force du feu, et après avoir recueilli le produit, mets-le à part. Quant à la matière qui reste dans le matras, recouvre-la : c'est là le cuivre brûlé et la magnésie asiatique.*
+
+*) D'après E ; tandis que d'après A, c'est : « l'aimant d'Asie. »
+
+2\. **Premier élément : l'eau. Premier travail, celui du vinaigre divin.** --- Aussitôt après avoir distillé, au moyen de l'appareil, l'eau divine, jusqu'à trois fois ; mets chaque fois, pour une livre, une once de chaux divine.
+
+Ensuite distille de nouveau avec des feuilles de myrte, par 7 fois. Opère de cette manière, jusqu'à ce que l'eau devienne transparente et brillante. C'est là ce qu'on appelle le vinaigre divin.
+
+3\. En suivant la première marche, conformément à ce que nous avons dit, aie soin, à chaque distillation, d'opérer la réaction dans l'alambic, pendant un jour, soit dans la fiente, ou dans la paille (pourrie), ou dans la cendre chaude. On y fait digérer l'alambic qui contient l'eau, avec une once de chaux nouvelle. Ensuite distille ; ajoute chaque fois de la chaux nouvelle : retire la précédente. Aussi, chaque fois que tu distilleras, chaque fois tu produiras un résultat utile.
+
+4\. **Nomenclature du vinaigre divin et de l'eau divine**.* --- Voici ce que disent les philosophes : Eau divine, vinaigre divin, magnésie blanche, eau de chaux, urine (d')impubère, mercure, eau de mer, lait virginal, lait d'ânesse, de chienne, de vache noire, eau d'alun, de cendre de choux, de natron, matière occidentale, vapeur. C'est là ce qui blanchit le corps de la magnésie, c'est-à-dire le cuivre brûlé ; c'est là ce qui transporte au dehors la nature cachée à l'intérieur. C'est là la nature qui triomphe de la nature, celle qui transmute les natures, celle qui délaie, celle qui enchaîne, celle qui fait concevoir et qui enfante, celle par qui le Tout est accompli.
+
+*) Cf. _Nomenclature de l'œuf_, p. 19 à 22, et Introd., p. 215. --- L'eau ou le vinaigre divin signifie non seulement le mercure, mais un grand nombre de liquides actifs, d'après la liste ci-dessous.
+
+5\. **(Second élément : l'air). Ici commence le travail de l'air.** --- Prends de l'huile ; mets pour une livre d'huile, 1 once de chaux ; laisse réagir, en faisant digérer dans du fumier pendant un jour.
+
+Ensuite distille et opère de même une fois chaque jour. Répète jusqu'à 20 ou 30 fois ; distille avec des feuilles de myrte, jusqu'à ce que (la préparation) devienne très pure, blanchâtre, jaune.
+
+6\. Quant au feu, je n'ai pas à te dire ce que doit être (celui) du fourneau : opère à ton gré, sur une lampe, ou sur un feu de paille, ou bien sur un feu très doux de fiente (desséchée), et pour ainsi dire sans feu. Que l'alambic soit entouré d'étoupe, ou plongé dans l'eau bouillante, ou bien dans le fumier, ou dans la lessive. Le mieux, c'est dans l'eau : ce qui est appelé fourneau humide.* Quelques-uns rectifient jusqu'à 50 fois ; et à chaque dixième fois, (la préparation) apparaît plus brillante en couleur.
+
+*) Notre bain-marie.
+
+Voici à quel signe (on reconnaît) que l'opération est achevée. Après avoir fait rougir au feu des feuilles de fer à cheval laminées, trempe-(les) jusqu'à 7 fois dans l'huile divine, et vois si la feuille blanchit, s'adoucit, change d'essence, devient parfaite et plus belle que l'or.* Sinon, travaille-la de nouveau ; c'est-à-dire recommence le traitement par l'huile divine.
+
+*) D'après E : « devient de l'argent parfait ; il est beau. Sinon, etc. »
+
+7\. **Ici commence la nomenclature (de l'air)**.* --- Son safran est appelé jaune d'œuf, sphère d'or, cinabre,* safran de Cilicie, ocre attique, terre de Sinope, nitre roux, natron d'Egypte, (bleu) d'Arménie, couperose, huile. L'huile qui en provient, lorsqu'elle a été décomposée et qu'elle a passé par l'appareil distillatoire, est appelée huile divine, vin d'Amina, cinabre des philosophes, comaris, soufre natif, (huile) de raifort, huile de ricin, liqueur d'or, pierre de Mélos, huile de lin, soufre apyre, sandaraque, arsenic, gomme, huile d'aristoloche, huile de mandragore, de rhubarbe, de chélidoine ; eau de pourpre, eau de fleur de cuivre, eau brillante comme de l'or, eau incombustible, alun décomposé, mercure, matière orientale.
+
+*) Cp., la _Nomenclature de l'œuf_, 1, 3, 4, p. 19 à 22, et _Introd._, p. 215. --- Le mot « air » paraît signifier ici le principe colorant qui teint en jaune dans la transmutation.
+
+*) Ce mot est omis dans E.
+
+8\. **(Substances) d'une autre nature.** --- Les mêmes esprits et (les mêmes) eaux ont été appelés par les philosophes perles* et pierres précieuses ; ils sont doués d'une grande puissance. En effet si tu les travailles, de façon à transporter au dehors la nature cachée à l'intérieur, tu parviendras au mystère des philosophes. C'est là le résumé du mystère. De cette façon, la préparation est blanchie, puis jaunie ; le cuivre de Chypre devient le cuivre brûlé, ou le corps de la magnésie, celui dont ils disent : La magnésie, traitée suivant l'art, ôte aux corps (métalliques) leur fragilité ; elle blanchit le cuivre, elle amollit le fer, elle ôte à l'étain sa mollesse, elle convertit le mercure en or.*
+
+*) Cp. p. 122.
+
+*) Cp. p. 55. --- Dans A, signe de l'argent, au lieu de celui du mercure.
+
+9\. **Troisième élément, le feu. Ici commence le travail du feu.** --- Ensuite prends le feu, c'est-à-dire le cuivre brûlé,* ce qui reste dans le plat. Après l'opération des œufs brûlés, broie finement, d'une façon continue et au soleil, pendant un jour entier. Le produit s'humecte peu à peu et émet de la fumée.
+
+*) Cp. 4, 10, p. 269.
+
+Alors arrose-le, broie et fais sécher au soleil, ou sur la cendre chaude, ou sur un fourneau, (en arrosant) avec du vinaigre divin, trois fois par jour. Tu feras cela jusqu'à ce que tu observes le signe suivant : l'argent prend une surface brillante dans le creuset. Projette-le en dehors de celui-ci. S'il est coloré en or, c'est bien ; sinon, réitère ton travail.
+
+10\. **Quatrième élément, la terre. Ici commence le travail de la terre, c'est-à-dire de la chaux toute puissante.** --- Pulvérise les coquilles des œufs, et broie-les avec du natron et de l'eau, pendant un jour.
+
+Ensuite, arrose-les à plusieurs reprises avec un liquide édulcorant. Puis dessèche et réduis à l'état de poudre fine.
+
+Ensuite, projette dans une dose d'eau égale au poids des œufs, et laisse dans un four de boulanger, ou sur un bain de cendre chaude, jusqu'à dessiccation, pendant 7 jours.
+
+Ensuite, enlève ; pulvérise encore, et, mêlant avec une quantité d'eau égale au poids des œufs, referme de nouveau (le vase). Laisse dans le four pendant 7 jours ; et opère ainsi jusqu'à trois fois.
+
+Ensuite pulvérise, après avoir fait sécher à plusieurs reprises au soleil, et après avoir arrosé pendant 3 jours, etc. Broie ainsi ; mets dans un vase ; ferme-le et soumets-le à l'action d'un fourneau de verrier pendant 2 jours et 2 nuits. Après avoir retiré (le vase), tu trouveras de la (terre) cimolienne verte.
+
+Après l'avoir pulvérisée encore et arrosée plusieurs fois par jour, fais cuire sur un feu de fiente (desséchée). Après avoir répété cela 3 ou 5 fois, tu la trouveras (convertie en) céruse très blanche. Le produit sera accompli, si tu trouves le cuivre blanchi dans le creuset. Sinon, recommence ton travail.
+
+11\. **Nomenclature de la terre**.* --- Les sages nommaient ces choses : chaux divine, terre de Chio, terre astérite, alun lamelleux, litharge blanche, (terre) cimolienne, (terre) stibienne, aphrosélinon, gomme, couperose, urine non fluide, céruse, androdamas, alabastron, suc de figuier et de tithymale.
+
+*) Voir les notes de la page 323. Le mot terre est pris ici dans un sens générique ; la terre est assimilée notamment à diverses chaux, c'est-à-dire aux oxydes métalliques, que nous appelons aujourd'hui même des terres dans certains cas. --- Cp. note 1 de la page 269.
+
+12\. **L'union des quatre éléments.** --- Fais attention, mon ami : si tu n'as pas traité convenablement les quatre éléments, suivant le procédé qui t'a été exposé, il ne faut pas entreprendre leur union. Il n'y aurait pas lieu de t'énorgueillir et tu en serais pour ta peine.
+
+**Fais attention.** --- Prends (du produit préparé plus haut sous le nom de) feu, 1 partie, et (du produit désigné sous le nom de) terre, 4 parties. Après avoir pulvérisé, mets dans un vase et place au-dessus (du produit désigné sous le nom de) l'air, le double (de la matière appelée) feu. Suspends le vase au milieu d'un autre vase de grande dimension, contenant du vinaigre piquant ; ferme le vase, et laisse pendant quelques jours, jusqu'à ce que (le contenu) devienne comme de la pâte fermentée.
+
+13\. Sache* que quelques-uns mettaient 2 parties du (produit appelé) terre et 1 partie du (produit appelé) feu ; d'autres, 3 parties de terre et 1 partie de feu ; d'autres encore, 4 parties et plus (de terre) et 1 partie de feu. Toutes ces (proportions) sont convenables ; mais la meilleure est celle qu'on a exposée ci-dessus.
+
+*) Le § 13 est entre parenthèses dans Lc, c'est-à-dire regardé comme une glose.
+
+14\. Voilà ce que nous avons écrit pour toi, mon ami, sans aucun sentiment d'envie, afin que tu ne t'égares point. Après que la composition est devenue pareille à une pâte fermentée, enlève et fais cuire sur un feu léger, afin qu'elle sèche. Ensuite pulvérise-la de nouveau sur un marbre romain, puis mets-la dans le vase ; mets-y aussi (du produit appelé) air, une quantité double (du produit appelé) feu, et suspends, comme tout à l'heure, le vase au milieu du vinaigre. Opère d'après le procédé ci-dessus jusqu'à 7 fois ; et chaque fois, mets l'air en quantité double du feu. Après la 7e fois, enlève, dessèche et pulvérise, avec de l'air employé en quantité double de la terre, et laisse le vase dans le fumier, pendant un jour et une nuit. Ensuite retire ; observe la couleur du produit : si elle est changée, c'est qu'il a commencé à parcourir le chemin prescrit ; sinon, soumets-le de nouveau au même travail, jusqu'à ce qu'il change d'apparence. Alors enlève-le de la même façon ; pulvérise à part et séparément de l'air ; fais un mélange avec l'air et le soufre, c'est-à-dire délaie le vinaigre divin* avec l'air, plusieurs fois par jour. Ensuite exécute de nouveau la réaction dans un vase, comme nous l'avons dit plus haut, avec du vinaigre piquant pendant deux jours. Le produit devient ainsi liquide comme de l'eau. Après l'avoir travaillé de cette façon, retire-le du vinaigre, et fixe-le sur un feu doux et convenable, jusqu'à ce qu'il se solidifie en une pierre (offrant l'apparence d'une) cire très consistante. Garde le produit obtenu par la grâce généreuse de Dieu, pour son honneur et pour ta (propre) délivrance de l'état de pauvreté.
+
+*) Le jeu de mot ordinaire entre le double sens de soufre et de divin, pour le mot θεῖον, est ici manifeste.
+
+---
+
+## 5. --- 3. Sur la Trempe du Fer.
+
+1\. La trempe du fer, pour presque tout le monde, est utile à connaître ; elle est multiple, quant à la pratique.
+
+Prends de la corne de chèvre ; fais la brûler et broie (la cendre) de façon à l'unir avec le double de sel, non en poids, mais en volume. Ajoute avec l'eau que tu connais,* et pétris de façon à former une pâte liquide. Avec cela il t'est facile d'obtenir une épée de telle qualité que tu voudras. Tu en nettoies le tranchant ; tu la mets sur des charbons, et tu la fais rougir au point voulu. Après cela, en la jetant dans l'eau que tu connais, tu auras une épée rendue tranchante par la trempe (qu'elle a reçue). Cette trempe est, comme on l'a dit, commune et presque universellement connue. La projection dans l'eau ne doit pas être quelconque, mais réglée suivant la forme et la destination de l'épée.
+
+*) L'auteur garde secrète la composition de la liqueur pour tremper, suivant un artifice très ordinaire parmi les praticiens.
+
+Pour les instruments destinés à tailler la pierre et généralement pour tous ceux qui ne possèdent pas un tranchant très aigu, on se borne à les plonger simplement dans l'eau après le chauffage. Mais les outils qui sont dans le cas contraire, comme par exemple les coutelas et les glaives, ne doivent pas être travaillés d'une façon quelconque : on les refroidit avec un linge mouillé, ou bien avec un morceau de laine humecté, tel que ceux que l'on emploie contre la pluie. On opère dans le sens du fil, en recouvrant le tranchant qui doit être trempé. Telle est cette trempe.
+
+2\. **Deuxième trempe.** --- Il y a aussi une autre espèce de trempe ; elle est destinée non seulement aux fers en général et susceptible de les rendre plus polis et plus brillants encore que la trempe précitée ; mais c'est aussi elle qui rend encore plus tranchant le fer appelé indien. Quelques-uns décapent le haut de l'épée avec de la terre blanche, d'autres avec des œufs d'oiseaux, ou bien avec d'autres (matières), soit simples et tirées de la nature, soit composées et obtenues par l'art. Parmi les décapages accomplis avec des matières artificielles, on peut citer l'espèce de trempe qui est obtenue au moyen du bois, avec la cendre de toute (espèce de bois) et l'huile* et quelques autres matières. Ce que je dis là est exempt d'obscurité pour la plupart.
+
+*) Cp. Pline, _H. N._, 34, 41.
+
+Prends donc cette matière ; fais-la chauffer, comme il est d'usage dans la pratique du fondeur d'or ; unis-la avec le tiers de son poids de sel ; ou bien, si le fer est tout à fait de bonne qualité, avec la moitié ; après avoir décapé, le tranchant du fer, fais rougir au feu. Ensuite, en suivant la marche qui t'a été indiquée précédemment, et en tenant compte de la diversité de la forme et de l'usage des instruments, projette dans l'eau. Or n'ignore pas que si le fer trempé vient à être rendu cassant à cause de sa dureté, il faudra le projeter dans l'huile, ou dans une graisse qui n'ait pas été cuite, ni mélangée à autre chose. En opérant et en travaillant ainsi, tu obtiendras pleinement le résultat voulu.
+
+3\. **Troisième trempe.** --- Je vais parler d'une trempe garantie par la philosophie mystique. C'est une chose étrange à connaître, surprenante à comprendre, une chose difficile à trouver, et (pourtant) connue de tous ; elle est recherchée avec ardeur, en raison de sa nature et bien qu'elle soit facile à connaître pour la plupart des hommes.* La terre n'engendre pas ce produit pour tous ; ce n'est pas le fruit d'un mauvais destin, mais celui d'un destin favorable, manifeste et tourné vers le ciel.* (C'est ainsi que la terre) coopère à la confection du plus sérieux des êtres, l'or ; en l'engendrant, elle ne le repousse pas au dehors ; mais elle le conserve dans son sein, elle le nourrit.
+
+*) Cp. p. 19, note 1 ; et p. 122.
+
+*) Cp. p. 222.
+
+Suit un passage mystique et inintelligible.
+
+Telle est la trempe très mystique, la trempe du fer indien.* Maintenant observe : si le fer qui doit être rendu tranchant était trop dur, ne l'emploie pas dans cet état. En effet, ainsi que nous l'avons dit, en parlant du mystère, il est détruit et brisé par tout ce qu'on lui présente. Mais, en le reprenant convenablement, par l'huile ou par l'eau de pluie, tu pourras ensuite l'employer, après avoir opéré suivant la mesure qu'enseignent aisément la pratique et l'expérience.
+
+*) Le texte reprend ici, en faisant suite au § 2 et en revenant sur la fin. Il semble que ce qui précède, depuis le début du § 3, est une intercalation due à un ancien commentateur, préoccupé de transmutation ; intercalation amenée par le mot « mystique, » mais qui n'offre aucun sens pratique relativement à la trempe du fer. --- Peut-être existait-il à l'origine, dans un manuscrit antérieur au nôtre, une troisième recette analogue à la seconde, et qui a été remplacée par le verbiage du glossateur. En tout cas la transcription de ces recettes est fort confuse dans les manuscrits. Les §§ 2 et 3 manquent dans A et B.
+
+4\. **Quatrième trempe.** --- Quant à la quatrième trempe, comparée aux précédentes, elle est encore meilleure, moins connue et plus admirable que celle-là. En outre, elle est plus simple. L'homme étant un animal supérieur à tous, vois quelle gloire lui est échue parmi les (êtres) mortels ; on pourrait énumérer bien des choses venant de lui qui sont remplies de merveilles. Parmi elles, il faut citer cette chose-là qui a reçu (en partage) la puissance de tremper et de rendre tranchant.
+
+Le passage qui suit est un pur galimatias.*
+
+*) Le début du § 4 donne lieu aux mêmes remarques que celui du § 3. Il semble qu'il y avait à cette place, dans un vieux manuscrit, une recette technique, qui a disparu pour faire place à la vaine déclamation d'un commentateur.
+
+La sécrétion liquide, entre autres propriétés, a celle de tremper le fer et de le rendre tranchant ; c'est par (elle) seule que le fer devient excellent. Or la trempe s'opère, comme on l'a dit dans ce qui précède, suivant la diversité d'emploi et de forme (des instruments) de fer ; mais pour tous, ainsi qu'on l'a dit en commençant, ce qui occupe le premier rang dans la trempe, c'est la sécrétion liquide.*
+
+*) S'agit-il d'une trempe opérée avec le lait ou l'urine ?
+
+---
+
+## 5. --- 4. Teinture du Cuivre Trouvé chez les Perses décrite sous le Règne de Philippe.*
+
+*) BCA, etc., ajoutent : « roi de Macédoine ; tel que ce cuivre existe sur les portes de Sainte-Sophie, » et au-dessous : « Fabrication du cuivre jaune. » Ce morceau a été rédigé à l'époque byzantine, entre le 7e et le 11e siècle, comme l'indiquent la citation des Arabes et le mot de tutie, qui ne figure pas chez les anciens alchimistes. Cette observation s'applique aussi au numéro suivant. Mais le fond des recettes doit être plus ancien, et remonter, d'après le titre, à une époque antérieure à l'ère chrétienne. --- Voir aussi la note suivante. --- On trouve cité dans le traité de _De mirabilibus_ (ch. 49) attribué à Aristote, un cuivre indien, provenant des trésors de Darius et doué de propriétés spéciales qui le faisaient confondre avec l'or ; Introd., p. 261. --- Cp. _Origines de l'Alchimie_, p. 227, et le présent volume, p. 297. --- Le roi de Macédoine cité ici doit être l'un des successeurs d'Alexandre.
+
+1\. Prenant de la tutie la plus haute,* ce que tu voudras ; broie et passe au tamis très fin ; mets dans un vase de terre cuite. Ajoute sur elle de l'huile de telle qualité que tu voudras, soit de l'huile commune, soit de l'huile de sésame. Reprends avec les mains, mélangeant et broyant l'huile avec la tutie dans le vase de terre, jusqu'à ce que la tutie soit imprégnée d'huile et qu'elle n'en absorbe plus. Lorsque tu verras qu'elle en a absorbé suffisamment, ajoute de nouveau et mélange une nouvelle dose de la même huile, jusqu'à ce qu'il se forme une pâte. Puis prenant de la couleur de palmier, je dis du rouge appelé _natef_ chez les Arabes,* un poids égal au cinquième de la tutie ; ajoute-le au-dessus de la tutie, dans le mélange opéré au préalable dans le vase de terre cuite, et après l'avoir réduit en morceaux qui ne soient ni trop petits ni trop gros. Puis, après avoir fait chauffer un four avec un feu très fort, mets le vase dans le four, en lutant l'ouverture du four jusqu'au lendemain. Ainsi la tutie sera brûlée et rendue noire. Retire-la le lendemain, broie et passe au tamis fin.
+
+*) C'est-à-dire la partie qui s'est sublimée à la partie supérieure du fourneau : c'est surtout de l'oxyde de zinc. --- Introd., p. 239 et 240.
+
+*) C'est probablement une préparation arsénicale, identique peut-être au rouge des cobathia, sulfure d'arsenic (réalgar) que l'on assimilait déjà à la cendre des palmiers, au temps de Zosime (voir p. 185). Cp. _Plinianœ exercitationes Salmasii_, 936 b C, 937 b F, 938 a A.
+
+2\. Lorsque tu voudras teindre le cuivre précité, ainsi qu'on ne teint pas mieux en Perse, prends 2 parties de beau cuivre de Chypre, et 1 partie de la poudre sèche préparée à l'avance au moyen de la tutie. Casse le cuivre en autant de menus morceaux que tu pourras ; mêles-y la poudre, et plaçant les 2 substances dans un creuset, souffle fort jusqu'à ce que le cuivre bouillonne avec la poudre. Lorsqu'il bouillonnera, ajoute encore du charbon, en soufflant énergiquement jusqu'à ce que les deux corps soient unifiés. Si tu veux connaître la beauté de la couleur, prends une baguette de fer à bout recourbé, retire (la matière) qui adhère au bout, et regarde : si la couleur te plaît, cesse de souffler ; mais si elle ne te plaît pas encore, continue de souffler et ajoute du charbon. En effet, plus l'on souffle le feu de charbon, plus le résultat que l'on se propose d'obtenir est satisfaisant.*
+
+*) Cette préparation devait fournir un alliage de cuivre et de zinc arsénical, analogue au tombac. --- Cp. Introd., Papyrus X de Leide, p. 60 à 62.
+
+---
+
+## 5. --- 5. Trempe du Fer Indien, décrite a la même Époque.
+
+1\. Prenant du fer doux, 4 livres, coupe-le en petits morceaux ; puis prenant de l'écorce des fruits de palmier,* nommée _elileg_ chez les Arabes, 15 parties en poids, et 4 parties en poids de _belileg_,* pareillement nettoyé à l'intérieur, c'est-à-dire l'écorce seule ; ainsi que 4 parties d'_ambileg_, semblablement nettoyé, et de la magnésie des verriers ci-dessus mentionnée (magnésie femelle) 2 parties.* Broie le tout ensemble, pas trop menu, et mélange avec les 4 livres de fer. Puis mets dans un creuset et égalise bien la place du creuset, avant de chauffer ; car si tu ne prends pas ce soin, de façon à éviter que celui-ci (le creuset) ne soit déplacé, tu trouveras des difficultés dans l'opération de la fonte. Ensuite mets les charbons et pousse le feu jusqu'à ce que le fer soit fondu, et que les espèces (susdites) soient unies avec lui. Or les 4 livres de fer demandent 100 livres de charbon.
+
+*) Ou plutôt de myrobolans, fruits du _Terminalia_. Voir la note suivante.
+
+*) Sur ces mots arabes, Cp. Saumaise, _Plinianœ exercitationes_, 930 b C, 931 a B et C etc.
+
+*) _Introd._, p. 255 et 256 : Oxyde de fer ou de manganèse.
+
+2\. Observe que si le fer n'est pas très doux, il n'a pas besoin de magnésie, mais seulement de toutes les autres espèces ; car la magnésie le rend sec au plus haut degré et il devient cassant. Mais s'il est doux, il n'est besoin que d'elle seule, ainsi qu'il a été dit plus haut ; car celle-ci accomplit tout.
+
+3\. Telle est la première et royale opération, celle que l'on étudie aujourd'hui, et au moyen de laquelle on fabrique des épées merveilleuses.* Elle a été découverte par les Indiens et exposée par les Perses, et c'est de ceux-ci qu'elle nous est venue.
+
+*) Cp. p. 40.
+
+---
+
+## 5. --- 6. Fabrication des Verres.
+
+1\. Prenant des œufs,* le nombre que tu voudras ; lave-(les) dans de l'eau saumâtre, puis essuie-(les). Lave-(les) de nouveau dans de l'eau de natron ; puis après les avoir cassés, sépare les coquilles de leurs membranes (intérieures), dépose les jaunes isolément et le blanc isolément. Après avoir égorgé de petits oiseaux noirs, recueilli leur sang et l'avoir mis dans l'appareil, retires-en l'eau, soit au moyen d'un feu doux, soit d'un feu immatériel qui ne brûle pas.*
+
+*) C'est là une formule sacramentelle, qui se trouve en tête de recettes très diverses. Cp. Zosime, 3, 8, p. 143. --- Ces expressions ont donc un caractère symbolique : elles désignent des produits minéraux, que l'on soumet à des sublimations et à des calcinations, avant de s'en servir pour fabriquer les verres des quatre couleurs désignés plus loin. Après cet exposé qui semble purement technique, un commentateur alchimique a ajouté une recette mystique, d'après laquelle ces quatre verres, associés avec les huiles mystérieuses, obtenues par la distillation ou la dissolution des corps métalliques, constituent le ferment d'or, ou pierre philosophale.
+
+*) D'après M. --- Etait-ce la flamme d'un gaz sans combustible visible ?
+
+Garde le résidu et l'eau. Si l'on obtient aussi de l'huile, mets-la à l'ombre. Quant au blanc d'œuf, soumets-le à l'extraction au moyen du feu ; tires-en l'eau et l'huile séparément, ainsi que le résidu, et garde ensemble à l'ombre.
+
+Broyant les coquilles avec les membranes, mets-(les) dans deux creusets, lutés avec de la terre broyée et feutrée avec des poils. Chauffe fortement au moyen de deux soufflets de peau, jusqu'à effervescence et jusqu'à ce que tu n'entendes plus le bouillonnement ; car lorsque (la matière) se trouve à point à l'intérieur, le bouillonnement cesse : dès que tu reconnaîtras à ce signe que le produit est cuit, laisse refroidir, en déposant (le creuset) sur le fourneau ; puis, en cassant (le creuset), tu trouveras du verre vert.
+
+2\. Semblablement, prenant aussi le résidu du blanc, et le mettant dans deux creusets, bien calfeutrés, fais chauffer le tout ensemble et tu trouveras du verre couleur citron, dit de Bérénice.
+
+3\. (Prenant) les jaunes, mettant leurs résidus dans deux creusets et chauffant, tu trouveras du verre blanc.
+
+4\. Semblablement, faisant chauffer les résidus du sang, tu trouveras du verre bleuâtre, celui qu'on appelle bleu.
+
+5\. Lorsque* tu auras fait chauffer ainsi isolément ces quatre corps, et que tu auras fabriqué isolément ces verres ; alors prends ces (matières) en proportion égale, mélange-les et broie-les toutes ensemble. Mets le tout dans deux creusets, l'un au-dessus, l'autre au-dessous ; fais fondre. Toutes ces (matières) doivent avoir été chauffées auparavant fortement. Lorsqu'elles auront bouilli et qu'elles seront à point, laisse le produit digérer, puis refroidir. Retire le tout des vases et broie finement.
+
+*) Sous-titre de A¹ ² ³ K : « la demeure qui réunit tout. »
+
+Alors, reprend les huiles tirées de tous les corps,* mélange-les ensemble et sers-t'en pour arroser (la poudre) ; de façon à donner à la composition la consistance d'une pâte fermentée épaisse, en délayant l'huile avec les verres, qui en représentent les corps. Laisse ensuite dans le mortier et expose au soleil dans le mortier même, pendant 3 jours. Lorsque ce ferment aura été exposé au soleil, il devra être cuit légèrement, et il produira du cinabre (ou de l'or ? ).*
+
+*) Produit de distillations ou dissolutions antérieures, lesquelles ont porté sur des produits (corps métalliques), désignés ici d'une façon symbolique.
+
+*) Signe du cinabre, confondu souvent avec celui du soleil et de l'or. Cp. _Introd._, p. 122, note 1 et p. 244.
+
+---
+
+## 5. --- 7. Coloration des Pierres, des Émeraudes, des Escarboucles et des Améthystes d'après le Livre tiré du Sanctuaire des Temples.*
+
+*) Ce petit traité est une collection de recettes, remontant pour certaines parties à une haute antiquité ; ainsi que semblent l'indiquer ces mots : « d'après le livre tiré du Sanctuaire des Temples. » Il s'y trouve, à côté de ces vieilles recettes : des discussions théoriques plus récentes, du genre de celle de Zosime et des commentateurs byzantins ; des citations plus ou moins étendues de Marie, de Moïse et de Démocrite ; enfin des gloses beaucoup plus modernes, à en juger par la citation des Ismaélites, c'est-à-dire des Arabes.  
+C'était là sans doute un ouvrage technique, qui a passé de main en main, en étant enrichi d'additions successives. Il était primitivement en dehors de la collection alchimique ; car il ne figure pas dans le ms. de St-Marc ; mais il devait faire partie d'une grande collection technique, dont le titre nous a été conservé (Voir 3, 44, § 7, p. 213 de la _Traduct._, et p. 220 du _Texte_), titre dans lequel ce petit traité paraît formellement désigné. Le traité de la teinture des perles, donné plus loin (5, 9), en faisait aussi partie ; ainsi qu'un traité sur la trempe, la coloration et le moulage des métaux, d'où paraissent tirés les morceaux 5, 3, 4, 5, 16 et 17. On reviendra plus loin sur ce dernier traité, à l'occasion des articles 16 et 17.
+
 ...
 
 # Sixième Partie. --- Commentateurs.
