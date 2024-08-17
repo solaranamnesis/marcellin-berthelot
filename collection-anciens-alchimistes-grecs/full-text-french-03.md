@@ -9001,7 +9001,9 @@ Bonne fabrication du créateur ; succès du travail et longue durée de la vie !
 
 ---
 
-# Cinquième Partie. --- Traités Techniques.
+## Cinquième Partie.
+
+### Traités Techniques.
 
 #### 5. --- 1. Sur la très précieuse et célèbre Orfèvrerie.
 
