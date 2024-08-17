@@ -94,9 +94,9 @@
 
 #### [4. --- 24. Pour Blanchir (le Cuivre).](#4-----24-pour-blanchir-le-cuivre-1)
 
-## [Cinquième Partie.]()
+## [Cinquième Partie.](#cinquième-partie-2)
 
-### [Traités Techniques.]()
+### [Traités Techniques.](#traités-techniques-2)
 
 #### [5. --- 1. Sur la très précieuse et célèbre Orfèvrerie.](#5-----1-sur-la-très-précieuse-et-célèbre-orfèvrerie-1)
 
@@ -114,9 +114,9 @@
 
 ...
 
-## [Sixième Partie.]()
+## [Sixième Partie.](#sixième-partie-2)
 
-### [Commentateurs.]()
+### [Commentateurs.](#commentateurs-2)
 
 ...
 
