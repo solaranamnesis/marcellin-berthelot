@@ -9424,6 +9424,126 @@ Alors, reprend les huiles tirées de tous les corps,* mélange-les ensemble et s
 *) Ce petit traité est une collection de recettes, remontant pour certaines parties à une haute antiquité ; ainsi que semblent l'indiquer ces mots : « d'après le livre tiré du Sanctuaire des Temples. » Il s'y trouve, à côté de ces vieilles recettes : des discussions théoriques plus récentes, du genre de celle de Zosime et des commentateurs byzantins ; des citations plus ou moins étendues de Marie, de Moïse et de Démocrite ; enfin des gloses beaucoup plus modernes, à en juger par la citation des Ismaélites, c'est-à-dire des Arabes.  
 C'était là sans doute un ouvrage technique, qui a passé de main en main, en étant enrichi d'additions successives. Il était primitivement en dehors de la collection alchimique ; car il ne figure pas dans le ms. de St-Marc ; mais il devait faire partie d'une grande collection technique, dont le titre nous a été conservé (Voir 3, 44, § 7, p. 213 de la _Traduct._, et p. 220 du _Texte_), titre dans lequel ce petit traité paraît formellement désigné. Le traité de la teinture des perles, donné plus loin (5, 9), en faisait aussi partie ; ainsi qu'un traité sur la trempe, la coloration et le moulage des métaux, d'où paraissent tirés les morceaux 5, 3, 4, 5, 16 et 17. On reviendra plus loin sur ce dernier traité, à l'occasion des articles 16 et 17.
 
+1\. Prends de la comaris,* difficile à trouver, matière que les Perses et les Égyptiens nomment _talac_, et d'autres talc, une demi-once ; du soufre, une demi-once ; et de l'eau de soufre natif, 18 onces. Délaie la comaris et incorpore-la avec le mercure. Puis mets dans un verre de forme courbe (fiole ? ), et conserve.
+
+*) On a regardé comme identiques dans la traduction les mots : _comaris_ et _comaros_.
+
+2\. Lorsque tu voudras colorer une émeraude, prends de la rouille de cuivre et du vinaigre de première qualité ; broie dans un mortier de verre ; après avoir mélangé de la bile de taureau ou de vautour desséchée et après avoir unis (ces produits) dans un mélange homogène, formes-en des boulettes, laisse refroidir à l'ombre, et conserve.
+
+3\. Lorsque tu veux colorer une pierre, mets ces boulettes dans un mortier de verre, et après avoir broyé, forme un mélange homogène avec le produit retiré du vase de forme courbe.
+
+Après avoir délayé le tout ensemble, fais une liqueur et mets dans une bassine de verre, enduite d'un lut qui résiste au feu. Prends les objets de verre, de telle forme que tu voudras ; introduis-les dans la bassine lutée qui contient la liqueur ; place des charbons, de façon à chauffer par dessous à une douce chaleur ; laisse prendre un seul bouillon, puis ôtant du feu, mets dans un lieu (frais), et laisse tremper pendant 3 jours. Après avoir retiré (les objets), tu obtiendras par la grâce de Dieu le résultat cherché.*
+
+*) Il paraît s'agir dans ce passage, d'une teinture superficielle des objets vitrifiés ; teinture opérée au moyen du talc, servant de support, d'un sel de cuivre, et d'une liqueur mélangée avec la bile, le tout formant un vernis adhérent.
+
+4\. En suivant la même marche, s'il s'agit de l'escarboucle,* mets en boulettes du sang de serpent (sang dragon)* et du suc d'orcanette ; délayant avec l'eau mentionnée plus haut dans (l'article de) l'émeraude, places-y l'objet de verre et tu le coloreras.
+
+*) Ou rubis.
+
+*) _Introduction_, p. 244.
+
+5\. Semblablement aussi pour l'améthyste, délaie de l'azur avec du suc d'isatis et fais des boulettes, comme il a été expliqué plus haut ; car il n'y a rien de meilleur.
+
+6\. **Quelles espèces produisent la coloration des pierres (précieuses) et par quel traitement**.* --- Nous savons que l'agent commun dans les œuvres de cet art, c'est la comaris, et nous nous proposons de parler de la coloration des pierres. Voyons d'abord quelles espèces sont susceptibles de colorer les pierres ; comment, unies à la comaris, elles colorent les verres, ou augmentent la teinte des (pierres) naturelles ; quels (sont) les vases et les moyens du traitement.
+
+*) C'est un second article, analogue au précédent, avec des répétitions et des détails nouveaux.
+
+En ce qui touche la fabrication des émeraudes, suivant l'opinion d'Ostanès, ce compilateur universel des anciens, (les espèces employées sont) la rouille du cuivre, les biles de toutes sortes d'animaux et matières similaires.
+
+Pour les hyacinthes (améthystes), on emploie la plante du même nom (jacinthe) et la racine d'isatis, mise en décoction avec elle.
+
+Pour l'escarboucle, c'est l'orcanette et le sang-dragon.
+
+Pour l'escarboucle qui brille la nuit, et qui est appelé couleur (de pourpre) marine, ce sont les biles d'animaux marins, poissons ou cétacés ; à cause de leur propriété de briller la nuit, et surtout de leur couleur plus ou moins glauque. C'est ce que manifestent leurs entrailles, leurs écailles et leurs os phosphorescents. En effet, Marie s'exprime ainsi : « Si tu veux (teindre) en vert, mélange la rouille du cuivre avec la bile de tortue ; si tu veux (obtenir une couleur) plus belle, c'est avec la bile de la tortue d'Inde. Mets-y les objets, et (la teinture) sera tout à fait de première qualité. Si tu n'as pas de bile de tortue, emploie du poumon marin bleu,* et tu feras une teinture plus belle. Lorsqu'elle est complètement développée, les objets teints émettent une lueur. »
+
+*) Méduse.
+
+Ainsi Ostanès, pour les émeraudes, a pris les biles des animaux et la rouille du cuivre, sans y ajouter la couleur marine. Pour l'hyacinthe, il a pris la plante du même nom, le noir indien et la racine d'isatis. Pour le rubis, l'orcanette et le sangdragon, Marie a pris, de son côté, la rouille du cuivre et les biles des animaux marins. Quant à la pierre qui brille la nuit, c'est celle que les savants en matière de pierres appellent hyacinthe. C'est pourquoi il continue en ces termes : « Lorsque la teinture est complètement développée, les objets projettent une lueur pareille aux rayons du soleil. »
+
+7\. Où les pierres prennent-elles cet éclat flamboyant ? car ni les biles, ni la rouille du cuivre ne peuvent le leur donner, étant vertes par nature. Que dirons-nous (à ce sujet) ? Est-ce qu'une opération si utile a échappé à Marie ? Celle-ci, (parle) de la fabrication des rubis, qu'elle a exposée en détail plus haut. Ostanès, lui, prend l'orcanette, le sang-dragon, et les agents colorants pour d'autres pierres. Il a parlé d'abord de la teinture de la pierre en rouge couleur de feu, mais qui ne brille pas la nuit. Dans ce passage, l'opérateur expose que la pierre la plus précieuse qu'il convienne de préparer et de teindre est celle qui émet des rayons lumineux la nuit : de telle sorte que ceux qui la possèdent puissent lire et écrire presque comme en plein jour. En effet, chaque escarboucle (teinte) peut être vue séparément de nuit, en raison de sa grosseur propre et de sa pureté, que la pierre soit naturelle ou artificielle. On peut se diriger à l'aide de la lumière, ainsi émise en vertu de la propriété (de ces pierres) de briller la nuit. Car le mot employé ici ne s'applique pas seulement à la pierre qui brille le jour, mais à celle qui brille la nuit.
+
+8\. Les biles des animaux en perdant leur matière aqueuse, sont desséchées à l'ombre. Dans cet état, on les incorpore à la rouille de notre cuivre, ainsi qu'à la comaris ; on fait cuire le tout ensemble, suivant les règles de l'art. Colorées par l'eau (divine), elles prennent une teinte stable. Cette eau étant écartée, les pierres sont chauffées, et encore chaudes, trempées dans la teinture, suivant les préceptes des Hébreux.
+
+Si toutefois la couleur tirée des biles ne donne pas à la pierre un vert suffisamment intense, on met celle-ci dans notre rouille, en ajoutant de la rouille de plomb commun, un peu de couperose et toutes les matières susceptibles de servir aux pierres que l'on veut surteindre, ou qui contiennent des figures : cela se fait principalement pour les émeraudes.
+
+9\. Il faut savoir que les biles des animaux marins ajoutent la phosphorescence à la coloration propre de chaque pierre, lorsqu'on les introduit en proportion convenable dans les (matières) tinctoriales propres à chaque couleur, ou avec certaines autres espèces. Il faut que toute teinture soit exécutée dans des vases de verre clairs, et toute chose accomplie suivant la règle universelle. Tu comprends qu'il doit en être ainsi, et que ces choses ne doivent pas être négligées.*
+
+*) Voir dans le t. 14 de la 6e série des _Annales de Chimie et de Physique_ (1888) les observations que j'ai faites sur ce procédé, destiné à rendre les pierres précieuses phosphorescentes.
+
+10\. **Procédé pour donner de l'éclat aux couleurs et pour fabriquer des pierres teintes**.* --- Le Philosophe, nous enseignant quel est le procédé pour donner de l'éclat aux couleurs des pierres teintes, dans le (livre) qui traite des pierres teintes par le cuivre, s'exprime en ces termes : « Ainsi que je l'ai appris dans le livre traditionnel, on prend la bile d'ichneumon, la bile de vautour. Dans ces biles, on fait macérer la rouille du cuivre pendant 40 jours, afin que la matière décomposée fournisse la substance qui colore les pierres et que la rouille rende cette espèce inaltérable, suivant Agathodémon. » C'est de cela que parle Moïse le divin prophète, dans sa Chimie* : « Plaçant toutes choses dans un petit ballon de verre, fais cuire jusqu'à ce que le produit devienne couleur de cinabre et accomplisse le mystère divin. » Il fait entendre que la chaleur doit être inoffensive et proportionnée à la composition, en parlant de l'exposition au soleil. Il le montre clairement aussi par sa lettre en vers iambiques adressée à Sanis, où il disait avec clarté :
+
+Et tu traiteras toutes choses comme (par l'exposition) à un soleil fort.
+
+*) Ici commence un troisième petit traité ou chapitre, sur le même sujet que les précédents.
+
+*) Il s'agit sans doute du traité imprimé à la p. 287 (4, 22), traité désigné aussi sous le nom de la _Maza_ de Moïse (p. 180 et 209). La phrase citée ici ne s'y trouve pas textuellement mais on y lit plusieurs textes analogues, notamment au § 3.
+
+11\. **Sur l'art chimique.** --- Prenant de la rubrique, 3 livres ; du verre pur, 1 livre ; de l'étain, 2 hexages ; délaie avec l'eau de soufre en consistance pâteuse. Mets ces matières dans un pot neuf et fais-les cuire sur du charbon, jusqu'à ce qu'il se forme du verre vert. Si le feu est de longue durée, la matière prend l'apparence de l'or ; et si l'on poursuit encore davantage, elle blanchit comme du cristal.
+
+12\. **Autre chapitre sur les pierres**.* --- Parmi les pierres, les unes sont teintes (simplement) ; les autres le sont avec l'emploi d'un fixateur. Parmi les pierres teintes, les unes sont colorées après attaque, et les autres sont teintes à leur surface dans leur état d'intégrité. De même aussi, parmi les (pierres) teintes, celles qui sont attaquées, ne le sont pas toutes dans leur étendue totale, les unes étant hétérogènes et les autres homogènes. Nous parlerons d'abord des (pierres) teintes à la surface, d'une façon uniforme, et ensuite des (pierres) teintes d'une façon hétérogène ; enfin, de la fabrication des perles.*
+
+*) Quatrième petit traité ou chapitre.
+
+*) Les sujets annoncés dans cet alinéa ne se retrouvent pas traités plus loin.
+
+13\. Il est nécessaire de connaître la préparation et la fabrication complète des pierres, au moyen d'une seule liqueur. Cherchons avant tout si une seule liqueur sert au travail complet ; ou bien s'il en faut deux, ou trois. En effet, toute pierre a besoin d'être amollie,* teinte et fixée.
+
+*) C'est-à-dire attaquée superficiellement, de façon à permettre de fixer, ensuite la matière colorante.
+
+Voici comment on opère la fixation. Il faut d'abord amollir la pierre, conformément à l'opinion du bon Philosophe ; l'amollissement est nécessaire, afin qu'elle puisse recevoir la couleur. Puis vient la teinture, en vue de la beauté et de la fin désirée ; enfin on opère la fixation, en vue d'amener (la pierre) à sa forme (dernière). De même dans les préparations concernant l'or et l'argent, nous avons besoin d'opérer l'imbibition, la teinture et la fixation ; car sans l'accomplissement de ces opérations le métal ne saurait éprouver l'action de la poudre de projection, qui doit le teindre. La même nécessité existe pour la teinture des pierres.
+
+14\. Quelques-uns ont travaillé au moyen de (deux ou) trois liqueurs : ce qu'ils ont exposé, non en parlant de la fixation, mais de la classe des liqueurs. Ils amollissent dans une liqueur ; puis ils fixent (dans une seconde liqueur ? ) ; enfin ils teignent et fixent tout ensemble, en opérant la teinture dans une autre liqueur. D'autres ont exécuté le tout au moyen d'une seule liqueur, amollissant, fixant et teignant du même coup. C'est là ce qu'ils ont exposé d'abord ; puis ils ont expliqué que l'on opère la fixation comme pour les perles. Entre mille auteurs qui ont donné cet enseignement, je citerai Démocrite, Marie et Zosime, s'agit du traitement complet par une seule liqueur. C'est là le procédé de la teinture à froid, suivi pour la pourpre* : car la même (pourpre) peut-être fixée et teinte préalablement avec la cochenille, puis, surteinte en bleu. Il est possible de teindre et de fixer en même temps, en recourant à un mordant pour la teinture, et en opérant de telle sorte qu'une liqueur unique joue le rôle de mordant, parce qu'elle imbibe, teint et fixe à la fois, ainsi que le dit le Philosophe, des liquides propres aux deux premières compositions. De cette façon, non seulement l'artisan réussira, grâce au concours de cette liqueur ; mais il sera sûr en tout du succès.
+
+*) On voit comment la teinture des métaux, celle des verres et celle des étoffes en pourpre étaient mises sur le même pied. (Cp. _Origines de l'Alchimie_, p. 242, 243, 245, etc.)
+
+15\. Il y a l'amollissement, le mordant,* et la teinture. Quand même tous les autres auteurs passeraient outre, il faut considérer dans divers cas avec le Philosophe que si nous laissons les crevasses des pierres sans les remplir auparavant, le travail demeure imparfait. Il expose la coloration et tout ce qui concerne les pierres et les perles, en trois chapitres.
+
+*) Nouveau fragments, ou plutôt suite de titres, de fragments et d'extraits, mis bout à bout, comme dans les Écrits de Zosime (3e partie), notamment 43, _Chapitres à Théodore_.
+
+16\. Comment on exécute le traitement pour teindre en pourpre au moyen des matières précédentes ; quelle est la pourpre type ; quelle est la soudure d'or ; et, en troisième lieu, quelle est la teinture des objets consacrés ; comment on atteint la perfection des œuvres de l'art ; d'après le traité relatif aux pierres, et les principes empruntés aux anciens, voilà ce que nous allons vous développer. Je veux que vous sachiez que les pierres et les perles étaient nommées par eux l'eau divine native,* c'est-à-dire l'eau de pourpre, à cause de son prix et de sa fixité ; car leur enseignement ne s'applique pas aux pierres tirées de la terre. Le Philosophe le montre dans son exposé des travaux relatifs à l'ios. En effet, il dit clairement qu'il ne s'agit pas de la pierre fixatrice, ni de la partie sèche ou humide de la pierre ; mais d'une méthode pratique, dans laquelle concourent la qualité des parties, le mélange des liquides et l'action propre de l'herbe tinctoriale. Or, ce qui est appelé _herbe_* chez (les anciens), Pétasius (le) fait voir dans ses Mémoires Démocritains,* en écrivant ces mots : « Il appelle herbes les jaunes des œufs. »
+
+*) Ou l'Eau du soufre natif.
+
+*) Cp. la note 2 de la p. 159.
+
+*) _Origines de l'Alchimie_, p. 158.
+
+17\. Il est permis aux gens studieux de prendre assurance sur cette question, d'après mille endroits des anciens, et d'apprendre que, dans toute espèce liquide ou sèche, l'art de la nature reconnaît deux (espèces de) soufres,* savoir : non seulement celui qui est solide et jaune, mais encore les matières liquides et blanches.* Des milliers d'auteurs habiles désignent chacun d'eux par de nombreuses dénominations,* telles que chélidoine et aristoloche, rhubarbe du Pont, safran de Cilicie, thapsia, minéraux de toutes sortes, eau, vin, lait de tout genre, huile ; ils mentionnent en même temps toutes sortes d'herbes, toutes matières employées pour la composition des deux espèces* d'eaux (divines), suivant leur couleur, leur apparence, leur qualité et leur puissance ou énergie, naturelle ou artificielle ; en tenant compte (d'ailleurs) de la synonymie. Ainsi Démocrite dit : « La comaris, regarde-la comme la pierre. » Et Marie, parlant de toutes choses d'après les écrivains qui l'ont précédée, dans son exposé sur les perles : « Ce n'est pas en pensant ainsi, dans les fabrications de l'or, du plomb et de l'argent, au moyen de la comaris et en vue de son traitement, qu'ils disent : Ne t'énorgueillis pas outre mesure et ne te porte pas malheur à toi-même. »
+
+*) Ou eaux divines.
+
+*) Cp. la _Nomenclature de l'œuf_, p. 19.
+
+*) Cp. p. 173 et le _Lexique_, p. 8.
+
+*) Les deux espèces de soufres ou d'eaux divines, signalées plus haut.
+
+18\. Il a été montré clairement que les anciens, en mentionnant la pourpre, les pierres, les perles, veulent parler de la comaris ; car elle sert dans un grand nombre d'opérations. Emploie-la, à ton tour, dans tes travaux ; car elle sert à fabriquer la pierre Cythéréenne.* C'est elle qui donne à la vapeur sublimée son efficacité ; c'est la pierre par excellence : elle fixe les couleurs mélangées.
+
+*) Ou pierre de cuivre : synonyme de la pierre philosophale. Le nom de Cythère semble indiquer l'intervention d'un nouvel auteur dans les fragments actuels.
+
+Vois comme le Philosophe expose les nombreux (attributs) de l'espèce unique* : « La perle de Cythère désigne la pierre par excellence ; elle donne à la vapeur sublimée son efficacité ; elle détermine l'unité dans les mélanges de toutes les espèces, (laquelle a lieu) par le concours de cette pierre ; et elle produit la fixation. » Pour nous résumer, c'est par elle que le praticien accomplit toutes les opérations qu'il veut.*
+
+*) Cp. p. 122, § 2.
+
+*) Glose de l'alinéa précédent.
+
+19\. Mais quelle est cette espèce unique, ô Démocrite ? Il dit (que c'est) la lie et le blanc de l'œuf. Or Zosime a dit que la lie, c'est l'aphrosélinon, et que l'aphrosélinon, c'est la comaris ; il s'exprime ainsi, conformément à Démocrite, sur la comaris et l'aphrosélinon : « Je dis que l'aphrosélinon est une espèce unique ; cependant l'aphrosélinon est composé. » Quelques-uns ont toujours exposé cette doctrine : que la lie dérive, soit du minerai de Coptos,* soit de l'effluve lunaire.* S'il introduit l'aphrosélinon et la comaris, c'est que l'action de ces choses est une et leur essence particulière ; l'aphrosélinon et la comaris ont de toute façon une action unique et doivent être quelque chose d'unique.
+
+*) Cp. _Lexique_, p. 9.
+
+*) Aphrosélinon. --- Cp. p. 131, 132 et 133.
+
+20\. Démocrite, venant à parler de la comaris, fait une déclaration en ces termes : « Enduis la pierre autant que tu veux, en la frottant, et ce sera une perle. » Par là il indique la pierre universelle. Dans ses livres sur les espèces convenables, il réunissait ces choses, en disant : « Délayer ensemble l'aphrosélinon et la comaris, mélanger, fixer, teindre et amollir. » Il indique par là la pierre universelle. Le même auteur dit encore : « Prenant l'enveloppe des coquillages en forme de navires, et dissolvant les petites perles. » Il expose partout que l'on fixe au moyen de l'aphrosélinon et de la comaris. « Fixe, dit-il, l'eau avec l'aphrosélinon, etc. » Et Marie également : « Une espèce unique sert pour toute opération. » Dans son enseignement sur les pierres, elle a dit que l'héliotrope était la même chose que la bette ( ? ). Voulant désigner la rouille, elle écrit ce qui suit : « Produis l'amollissement d'une pierre quelconque, et son durcissement,* au moyen de la mandragore qui porte de petits tubercules ; car sans cette plante rien ne se fait. »
+
+*) Ou plutôt la fixation des couleurs à la surface de la pierre, préalablement attaquée.
+
+21\. Ils ont caché ce mystère, car ni la terre, ni la pierre ( ? ), ni le verre ne peuvent être amollis sans la matière que nous cherchons ; cette matière domine toute chose. (Par elle) la teinture, jointe au durcissement, détermine une fixation durable. Tandis que si ce (produit) n'est pas employé, la teinture passe ; elle est faible et fugace. Lorsqu'on la soumet à l'épreuve par les eaux chaudes, ou par l'huile, elle disparaît. Voilà pourquoi le Panopolitain a dit : « Délaie avec intelligence, » dans ses écrits sur les pierres tinctoriales et rendues fixatrices. En voulant parler du travail du liquide, il dit : « Voilà comment les pierres fixatrices permettent à la couleur de résister au feu ; car les liquides ont rendu la teinture stable. »
+
+Comme l'assertion avancée plus haut était dépourvue de témoignage, il était utile de ne pas négliger cette explication. Il faut écouter aussi l'exposé des (auteurs) plus anciens, qui parlent des espèces analogues. En effet, dans le livre de Sophé l'Égyptien, Démocrite ne parle pas seulement de cela ; mais il ajoute que : « une composition unique produit plusieurs couleurs ; un mélange unique agit* sur tous les corps ; une espèce unique sert à opérer sur beaucoup de choses. »
+
+*) Cp. p. 51. Ce passage ne se retrouve pas dans le livre de Sophé (c'est-à-dire de Chéops), livre attribué plus haut (205 et 206) à Zosime.
+
 ...
 
 ## Sixième Partie.
