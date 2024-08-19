@@ -9544,6 +9544,96 @@ Comme l'assertion avancée plus haut était dépourvue de témoignage, il était
 
 *) Cp. p. 51. Ce passage ne se retrouve pas dans le livre de Sophé (c'est-à-dire de Chéops), livre attribué plus haut (205 et 206) à Zosime.
 
+22\. **Sur la coloration de l'émeraude.** --- Aie deux creusets sous ta main ; et prenant une partie de rubrique, délaie-la dans du vinaigre et enduis de cette composition les deux petits creusets. Puis, prenant du cuivre brûlé, une partie, divise-le en très petits morceaux et fais en deux portions ; projette la poudre de l'une dans l'un des creusets et introduis-y le verre ; puis remplis par-dessus ce creuset avec le surplus du cuivre broyé. Recouvre ensuite avec l'autre creuset et assemble les jointures des deux creusets avec un lut qui résiste au feu ; de peur que la poudre de projection ne s'évapore, ou ne se déplace, et qu'une partie de la pierre ne soit mise à nu et ne s'altère, pendant que l'on remue les creusets. Après avoir enduit convenablement, depuis le haut jusqu'en bas, laisse sécher ; puis, fais chauffer sur un feu léger, pendant 9 heures. En découvrant, tu trouveras la pierre passée de l'état de cristal à celui d'émeraude.*
+
+*) Cp. Introd., p. 262, _cœruleum_, --- procédé de Vitruve.
+
+23\. C'est cette chose* que les philosophes ont appelée énigmatiquement l'aphrosélinon et la comaris ; car l'aphrosélinon et la comaris appartiennent à une science unique. Sous ces noms, c'est une chose difficile à entendre. Mais les savants parmi les Ismaélites (Arabes) en ont parlé clairement et ils l'ont interprétée, les uns par le nom _talc_ ou _kalk_, les autres par le nom _chalk_ ; on l'appelle aussi _crainte_ et _frayeur_. C'est pour cela qu'ils disaient : « Unis l'aphrosélinon avec la comaris, délayant, mélangeant, fixant et colorant ce (corps).* Fais fondre l'argent quand tu le retireras de la composition, tu verras l'argent transformé en or et tu seras étonné. La nature jouit de la nature, et la nature triomphe de la nature. » Ils disaient encore : « Délaie la chrysocolle dans l'urine (d'un) impubère, pendant 7 heures, et mélange avec celle-ci du soufre jaune. Projette sur le corps du cuivre, ou de l'argent, et tu auras de l'or. »
+
+*) Glose plus moderne qui paraît applicable au § 21. Il semble que des articles de diverses origines, mis bout à bout dans un vieux manuscrit, aient été l'objet de commentaires et d'additions marginaux, qu'un copiste plus moderne aura transcrits, en embrouillant l'ordre des morceaux.
+
+*) Cp. le § 20, plus haut.
+
+24\. **Traitement du fer destiné aux colorations des pierres et a d'autres**.* --- Prenant du misy, 1 livre ; de la chalcite, 1 livre ; de la couperose, 1 livre ; du sel ammoniac, du natron d'Alexandrie, de l'alun lamelleux, 1 livre de chaque ; du vinaigre très piquant, 10 setiers ; délayant le tout avec soin, mets dans un vase de verre et laisse pendant 3 jours au soleil, en agitant chaque jour. Le 4e jour, laisse déposer ; puis, après avoir desséché, purifie et garde.
+
+*) Il y a là deux préparations ferrugineuses, exécutées l'une avec la couperose, l'autre avec le fer métallique.
+
+Prenant une marmite de verre, mets-y du vinaigre ; ensuite, prenant 1 livre de fer, mets-le dans le vinaigre ; place le vase, bien bouché, au soleil, et laisse-le pendant 40 jours ; puis, au jour fixé, mets (le produit) à part, pour les usages qui te sont indiqués.
+
+25\. **Traitement du plomb.** --- Prenant de la litharge, 1 livre ; de l'antimoine (sulfuré), 1/2 livre ; du natron d'Alexandrie, 9 onces ; délaie ensemble ; fais tomber sur ces matières de l'huile goutte à goutte ; mets, dans un creuset et tu trouveras le plomb cherché. Lorsque tu verras de la fumée sortir par en bas du fourneau et du creuset, tandis que la composition produit un petit sifflement, comprends qu'elle est bonne à enlever.*
+
+*) Ceci doit produire un alliage de plomb et d'antimoine.
+
+26\. **Sur l'amollissement du verre.** --- (Prenant) de la chaux, 1 partie, délaie avec de l'urine ou du vinaigre, et de l'alun, une partie ; puis, prenant la liqueur obtenue, mets-la à part. Prends une lampe, élargis-en le trou supérieur ; déposes-y les petits cristaux. Bouche la lampe avec un tesson, place-(la) sur un feu de charbons modéré, et chauffe. Lorsque tu verras la lampe incandescente, ouvre-la et projette le Verre dans de l'eau de chaux et d'alun. Le verre est ainsi amolli.* Lorsque (les matières) sont refroidies, essuie avec un chiffon.
+
+*) C'est-à-dire dépoli, attaqué superficiellement et prêt à être teint.
+
+27\. **Autre amollissement.** --- (Prenant) du soufre, de la chaux et de l'alun, fais digérer pendant 3 jours. Après avoir fait chauffer dans un four à charbon, teins pendant un jour, de préférence un jour après (la chauffe ? ).
+
+28\. **Autre.** --- Prenant du suc de poireau et du vinaigre, laisse digérer pendant 3 jours ; fais absorber aussi (à la liqueur) de l'alun rond.* Puis mettant la pierre (dans la liqueur), donne deux bouillons et laisse passer la nuit ; le jour suivant, lave et emploie.
+
+*) Cp. p. 170.
+
+29\. **Autre.** --- Mettant les pierres dans une marmite, bouche-la par en haut et fais cuire légèrement. Ensuite débouche la marmite, verses-y du vinaigre et de l'alun ; et, tandis que la pierre est encore chaude, mets-la dans telle couleur que tu voudras.
+
+30\. **Fabrication de la pierre aérite.** --- Prenant la pierre aérite, ramollis-la de la manière suivante. Prenant des aulx, broie et plonges-(y) la pierre pendant 7 jours ; puis dans l'excrément humain, pendant 3 jours. Ensuite, après avoir fabriqué un petit filet en crins de cheval, mets-(y) la pierre, et, prenant (de la pourpre) de coquillage, mets-(la) dans une marmite neuve, en la remplissant de ce coquillage ; amollis (avec cette liqueur la surface de) la pierre suspendue dans le liquide. Bouche bien par en haut ; mets (la marmite) sur un feu de cendres chaudes pendant 3 jours, sans discontinuer. Après avoir enlevé, tu trouveras la pierre, une fois refroidie, semblable à la véritable améthyste.
+
+31\. **Fabrication de l'émeraude.** --- Prenant de la rouille de cuivre brûlé, de l'huile de pin et un peu d'indigo, ainsi que de la chrysocolle et de la chélidoine 3 parties, mets (le verre) à l'intérieur du vase où est l'huile, et fais une décoction sur un feu doux de charbons. Ensuite, la chélidoine ayant agi, change, en filtrant au moyen d'étoupe, et place dans _l'automotarion_, puis laisse fondre pendant 6 heures. Après avoir retourné ( ? ) (l'appareil), tu trouveras (l'émeraude) cuite.
+
+32\. **Fabrication de la petite scorie d'après Marie**.* --- Prends du cuivre brûlé, 1 partie ; coupholithe, 1 partie ; délaie ensemble ; puis, prenant du plomb provenant de la litharge et l'antimoine, fais griller le plomb et délaie les deux corps avec de l'huile de natron. Puis, fais fondre jusqu'à ce qu'ils coulent ensemble.* Puis, laisse solidifier le plomb et, après l'avoir enlevé, conserve-le. Tu obtiendras ainsi de l'écarlate.* Ensuite : prends coquille d'argent, 4 parties ; coquille d'or, 1 partie ; fonds ensemble, laisse cuire et tu trouveras ce que tu veux.
+
+*) V. p. 99, 101, 114, etc.
+
+*) V. p. 78, 101, 103 (texte et note 1), 128, etc.
+
+*) Minium.
+
+33\. **Le cristal est amolli et ne se casse pas, en suivant le procédé que voici.** --- Prenant le blanc d'un œuf avec du coupholithe, délaie en consistance visqueuse ; enduis les pierres, et mets dans un petit filet ; laisse en suspension (dans le liquide) pendant 3 jours.
+
+34\. **(Recette) pour adoucir le cristal.** --- Prenant de la saumure de thons, du suc cyrénaïque et du vinaigre, mets-(y) la pierre et laisse pendant 5 jours. Ou bien, mets dans de la renoncule du vinaigre blanc ; puis, introduis les pierres dans un vase de verre.
+
+35\. **Fabrication du béryl**.* --- Prenant le cristal, soutiens-le avec des crins et suspends-le dans un vase contenant de l'urine d'ânesse ; il ne faut pas que le vase soit en contact avec le cristal. Qu'on le tienne donc en suspension pendant 3 jours. Que le cruchon soit bouché. Ensuite, plus tard, mets sur un feu doux fais bouillir et tu trouveras un béryl excellent.
+
+*) Syn. de l'émeraude.
+
+Emploie comme mordant du soufre et de la chaux ; fais mordre, en mettant dans un creuset à demi rempli ; puis, ajoute au-dessus du cristal, dans le creuset, telle quantité que tu voudras, sans pourtant que le couvercle soit en contact avec le cristal ou la matière. Recouvre avec un autre vase et, après avoir luté solidement, fais cuire pendant une nuit et un jour.
+
+36\. Si tu veux avec une améthyste faire un rubis, prépare comme il suit une poudre de projection : chalcite, 3 parties ; misy, 3 parties ; cochenille, 1 partie. Après avoir mélangé, mets en œuvre de la façon indiquée précédemment, en étendant sur les parois du creuset ; fais cuire pendant 3 heures.
+
+37\. **Purification de la pierre de cristal.** --- Prenant les pierres, mets dans un filet et place dans un bain de cuivre ; laisse bouillir pendant 7 jours. Lorsque le produit est purifié, prenant du calcaire (chaux), pétris avec de l'urine et recouvre la pierre : puis laisse fixer pendant 3 heures ; d'après d'autres, pendant 7 jours. Si le produit n'est pas purifié, recouvre de nouveau et après avoir laissé déposer, teins de la couleur que tu veux.
+
+38\. **Amollissement des pierres.** --- Prenant de la cendre de figuier, de la cendre de chêne, de la fiente de porc desséchée, à parties égales ; et pétrissant avec du blanc d'œuf, mets dans un petit creuset. Après avoir luté les jointures, mets au feu la pierre en quantité convenable. Puis, enlevant le produit chaud, jette-le dans la teinture.
+
+39\. **Amollissement du cristal**.* --- Prenant de la chaux 1 partie, dissous la avec l'eau de l'œuf, et, prenant de l'eau de chaux pure, gardes-en une partie. Ensuite, prenant de l'alun lamelleux, 1 partie, mêle à l'eau de chaux, et, après le mélange, garde une partie de cette eau. Ensuite, prenant une lampe, élargis-en l'ouverture supérieure, afin de pouvoir y placer les cristaux. Après avoir disposé le tout, recouvre avec un tesson la lampe et installe-la au milieu de charbons allumés. Lorsque tu vois la lampe incandescente, ouvre-la et déverse les petits objets sculptés dans l'eau qui provient du calcaire et de l'alun, en ayant soin de chauffer préalablement le vase de terre cuite. Ensuite, ajoutes-y de la rouille, après l'avoir bien pulvérisée, et agite, de façon que le tout forme un assemblage homogène. Ensuite, ajoute un peu d'indigo ; puis, fais chauffer au feu, en tournant avec une pince épilatoire, et laisse digérer dans la préparation.
+
+*) Cp. plus haut § 26, et la note 1 de la p. 345.
+
+40\. **Autre procédé.** --- Prenant : alun, 1 partie ; cuivre brûlé, 5 parties, délaie dans du vinaigre, en consistance de miel. Introduis les petites pierres, laisse digérer pendant 7 jours, et tu obtiendras (ce que tu veux).
+
+41\. **Fabrication de l'émeraude.** --- Mouille avec de l'alun liquide pendant 3 jours ; après avoir pris un petit vase contenant du vinaigre, fais cuire sur un feu doux de bois de pin, puis laisse refroidir. Après avoir enlevé, mets dans l'huile, avec l'ios du cuivre de Chypre, et laisse pendant 6 jours.
+
+42\. **Autre procédé.** --- (Prenant) de la chrysocolle d'Arménie, traite par de l'urine d'enfant impubère, pendant 2 jours, (on en prend la valeur d'une cotyle) ; ajoute : bile de taureau, 2 parties. Mets dans une petite marmite et après avoir luté, fais cuire sur un feu léger de bois de pin, pendant 6 heures. Or les pierres devront provenir du cristal.
+
+43\. **Fabrication de l'améthyste.** --- Prenant de la fleur de jacinthe, mouille avec du lait de vache pendant 1 jour ; et, broie avec l'eau extraite des pépins de grenades, arrosés avec de l'eau de pluie ; puis, mélange à la chrysocolle.
+
+44\. Maintenant, si tu veux teindre en pourpre, délaie de la limaille de cuivre de Chypre. Si (tu veux) (teindre) en couleur d'or brillant, mélange avec du minerai de plomb, ou bien avec du suc de poireau et de la chrysocolle.
+
+45\. **Comment on donne aux petites pierres blanches la teinte rouge.** --- Fais bouillir la pierre dans de l'eau avec de l'alun, de la cochenille et du vinaigre ; puis fais chauffer dans une marmite neuve. Après avoir laissé refroidir la pierre, pour la ramollir, introduis-la (dans la liqueur) suivante.
+
+46\. **Ramollissement du cristal.** --- Emploie du soufre, de la chaux et un tiers d'alun lamelleux ; laisse pendant 9 jours, fais chauffer sur des charbons, et teins un jour après.
+
+47\. **Autre procédé.** --- Arrose de la chaux avec du vinaigre pendant 7 jours ; puis, prenant le suc du mouron qui porte une fleur bleue, de la chrysocolle et du tithymale, fais cuire sur un feu doux ; ensuite introduis la pierre.
+
+48\. **Fabrication de la sélénite.** --- (Prends) de la bile de tortue marine, 4 onces ; de la bile de chèvre, 2 onces ; de l'ios pur, 6 onces, ou 3 onces ; introduis les pierres séparées les unes des autres et lute la marmite. Fais cuire sur un fourneau. Ensuite, retire, laisse refroidir ; mets dans un vase avec de l'huile de troëne ( ? ), pendant 15 jours. Emploie en général l'huile en petite quantité.
+
+49\. **Préparation pour teindre la pierre en rouge.** --- Prenant de la limaille d'or pur, 1 parcelle ; de la belle magnésie, 1 partie ; de l'arsenic rouge, 1 partie ; du sory couleur d'or, 1 partie ; broie chaque (matière) séparément et agite ensemble dans une étoffe de soie. Puis, pétris dans de l'urine de vache concentrée à point ; enduis-(en) la pierre précieuse, et laisse durcir. Ensuite, mets la pierre dans un petit creuset et, au-dessus de la pierre, un autre creuset ; lute bien les jointures. Puis, pose le creuset sur un petit fourneau, et chauffe pendant 2 jours sans relâche. Que le feu brûle doucement. Ensuite, laisse refroidir jusqu'au jour suivant. Or, tu dois trouver (teint en) rouge ce que tu veux.
+
+---
+
+#### 5. --- 8. Méthode pour confectionner la Perle Ronde préparée par le célèbre technurgiste arabe Salmanas.*
+
+*) Ce petit traité traite de la fabrication des perles artificielles, au moyen d'une composition où entrent, ce semble, des sels de chaux, diverses matières organiques et du chlorure de mercure. On en forme des granules, qui prennent après ce traitement, d'après l'auteur, l'aspect des perles. Ces recettes semblent réelles ; mais elles sont trop obscures pour être pleinement entendues. Le grec renferme d'ailleurs des mots modernes qui rappellent le traité d'orfévrerie (5, 1). --- Observons que le traité de la perle ronde se trouve dans le ms. 2325, qui est du 13e siècle. Il est attribué à un auteur arabe. Il est purement technique et ne contient ni citation des vieux auteurs, ni phrase charlatanesque, ou mystique.
+
 ...
 
 ## Sixième Partie.
