@@ -32,3 +32,10 @@ custom-purple-02.jpeg --- CC BY-SA 4.0 Solar Anamnesis; modified attribution, Fr
 sacred-geo-purple-01.jpeg --- CC0 Solar Anamnesis; modified attribution, Douglas James Butner, CC0, via Wikimedia Commons.
 
 Old_Paper_texture3-geopurp.jpeg --- CC0 Solar Anamnesis; modified attribution, Douglas James Butner, CC0, via Wikimedia Commons; leonardoai, CC0, via Wikimedia Commons.
+
+alchemy01.jpeg --- CC BY-SA Solar Anamnesis; modified attribution, ...
+
+SVG Command to change color starting with %000000:
+```
+sed -i 's/#000000/#f1dd38/' $(find | grep \.svg)
+```
