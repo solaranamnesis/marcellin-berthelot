@@ -9788,6 +9788,36 @@ Expose à l'air la préparation après l'iosis, pendant 5 jours, suivant le cons
 
 ---
 
+#### 5. --- 16. Si tu veux fabriquer des Formes en Creux et en Relief avec du Bronze, opère comme il suit.
+
+La langue de cet article est contemporaine de celle du traité d'orfèvrerie (5, 1) : il est connexe avec le § 18 de ce dernier (p. 312). Comme le présent morceau se trouve dans le manuscrit de Venise M, ceci tend à reculer la date du dernier traité, au moins pour un certain nombre de ses paragraphes, jusqu'au 11e siècle de notre ère (voir la notice qui le précède, p. 306).
+
+On remarquera le nom du bronze, βροντήσιον, qui se trouve dans ce titre. La signification de ce mot ne donne lieu à aucun doute, car la composition du métal est définie au § 3. C'est le plus vieux texte connu où figure ce mot, qui a remplacé depuis une partie des sens de l'antique χαλκὸς : on voit qu'il remonte au moins au 11e siècle. Quant à son origine, il parait difficile de la rattacher à son étymologie apparente, c'est-à-dire au mot βροντὴ = tonnerre : on ne comprendrait guère un semblable sens au 11e siècle, avant l'invention des canons. S'agit-il d'un nom de lieu, comme la finale ήσιος porterait à le croire ? Ou bien est-ce l'application au métal, d'après sa couleur, du vieux mot _bruntus_, déjà employé au 10e siècle, dans le Glossaire d'Ælfricus, d'après du Cange ? on sait que de ce mot dérive le français _brun_.
+
+En tout cas, nous trouvons ici la signification véritable d'un énoncé compris dans le vieux titre d'ouvrage inséré en haut de la page 213 de la traduction, et à la ligne 11 de la page 220 du texte : en effet les mots φούρμουσαι ἀπὸ βροτισίων y étaient demeurés inintelligibles. D'après ce qui précède, ce titre doit être rectifié de la manière suivante.
+
+« Le présent volume est intitulé : Livre métallique et chimique sur la Chrysopée, l'Argyropée, la fixation du mercure. Ce livre traite des vapeurs, des teintures (métalliques), et des moulages avec le bronze, ainsi que (des teintures) des pierres vertes, des grenats et autres pierres de toutes couleurs, et des perles ; et des colorations en garance des étoffes de peau destinées à l'Empereur. Toutes ces choses sont produites avec les eaux salées et les œufs, au moyen de l'art métallique. »
+
+On voit qu'il s'agit d'un manuel byzantin de Chimie. La composition même de l'ouvrage remonte à une époque ancienne, telle que le 8e ou le 10e siècle. Il devait comprendre à la fois :
+
+1° L'art de fabriquer l'or et l'argent ;
+
+2° La distillation, sur laquelle nous avons seulement conservé quelques débris dans les œuvres de Zosime (3, 47, 49, § 14, 50, 56, etc.).
+
+3° Le moulage et le travail des métaux en orfèvrerie, représentés par le présent article, par l'article 5, 17, ainsi que par le traité d'orfèvrerie (5, 1.), lequel renferme d'ailleurs des portions plus modernes ;
+
+4° La trempe des métaux pour la fabrication des armes et outils, représentée à l'état de débris par nos articles 5, 3, 4, 5 ;
+
+5° La fabrication des pierres précieuses artificielles, représentée _in extenso_ par nos articles 5, 6, 7 ;
+
+6° Le travail des perles, représenté par nos articles 5, 8, 9 ;
+
+7° La teinture des étoffes, ouvrage perdu, à l'exception des articles 5, 12, 13 et du début du Pseudo-Démocrite.
+
+8° Il devait s'y trouver en outre diverses applications techniques, telles que la fabrication de la bière (5, 10.), de la lessive (5, 11), de la colle, du savon, etc.
+
+De ce grand ouvrage, malheureusement perdu, sont tirés la plupart des articles de notre 5e partie. Ces articles manquent en général dans le manuscrit de St-Marc et dans ses dérivés ; mais ils existent dans les manuscrits 2325 (13e siècle), 2327 et dans leurs dérivés, Ils répondent à une tradition plus ancienne que les textes alchimiques latins, traduits des Arabes, et que le traité de Théoctonicos ; ces derniers d'ailleurs en sont tout à fait distincts.
+
 ...
 
 ## Sixième Partie.
