@@ -9636,6 +9636,144 @@ Emploie comme mordant du soufre et de la chaux ; fais mordre, en mettant dans un
 
 *) Ce petit traité traite de la fabrication des perles artificielles, au moyen d'une composition où entrent, ce semble, des sels de chaux, diverses matières organiques et du chlorure de mercure. On en forme des granules, qui prennent après ce traitement, d'après l'auteur, l'aspect des perles. Ces recettes semblent réelles ; mais elles sont trop obscures pour être pleinement entendues. Le grec renferme d'ailleurs des mots modernes qui rappellent le traité d'orfévrerie (5, 1). --- Observons que le traité de la perle ronde se trouve dans le ms. 2325, qui est du 13e siècle. Il est attribué à un auteur arabe. Il est purement technique et ne contient ni citation des vieux auteurs, ni phrase charlatanesque, ou mystique.
 
+1\. Prenant des granules très fins, mets-les dans un vase de verre, et ajoutes-y du jus de citron, de façon à les recouvrir. Au-dessus de cette liqueur, répands une petite quantité de mousse de citerne ( ? ) brûlée et bien broyée. Ensuite, bouche (le vase) ; enduis avec soin le bouchon qui le ferme avec le lut préparé ; suspends ce verre, pour le faire chauffer au soleil dans les chaleurs de la canicule, pendant un jour. Toutes les heures, prends ce verre et agite continuellement, de façon à remuer en même temps les granules placés dans son intérieur. Le lendemain, après avoir ôté le bouchon du vase, filtre doucement le liquide, en prenant soin de ne pas déverser la composition résultant de ces granules. Mets dans ce vase une autre liqueur de même nature et opère de nouveau comme précédemment. Répète l'opération une troisième fois. Lorsque tu verras que la matière des granules s'est gonflée et a absorbé la liqueur, verse dessus une autre liqueur de même nature. Après que ces granules se sont dissous en totalité et qu'il s'est formé une composition unique, prends cette composition, mets-(la) dans une passoire, remplis celle-ci d'eau édulcorée, agite la composition avec cette eau et laisse déposer l'eau qui s'y trouve pendant une heure. Filtre doucement encore une fois, et répète ces opérations à plusieurs reprises, jusqu'à disparition complète du goût piquant du jus de citron qui s'y trouve.
+
+2\. Ensuite, prends cette composition et verse-la dans un petit bassin de verre ; recouvre ce bassin avec un autre à plus large ouverture, de façon que l'ouverture du second enveloppe celle du bassin inférieur. Que le bassin supérieur ait un trou dans le haut, afin que l'humidité de la composition s'évapore par là. Ce trou doit être recouvert avec une étoffe lâche, faite avec un tissu de poils. Expose au soleil, dans les chaleurs de la canicule ; et après avoir desséché la composition, garde-la.
+
+3\. Ensuite, prends 1 livre de mercure ; prends du sel ammoniac ( ? ) traité par la chaux ; délaie pendant 2, 3, 5 ou 7 jours, et après avoir desséché, sublime et purifie. Une fois ce produit desséché, prends-en une demi-livre et incorpore-le avec la livre de mercure, en broyant doucement jusqu'à disparition et pour ainsi dire absorption de tout le mercure ; puis, opère l'extraction* dans des vases de verre, sur un feu faible, jusqu'à ce que tu voies (le produit mercuriel) blanc comme la neige. Prends alors 4 parties de la composition sèche obtenue avec les granules, ainsi que 6 parties du mercure susdit ; réunis le tout dans un bassin de verre épais. Broie et délaie bien avec un pilon de verre, et en arrosant avec le jus blanc de la plante appelée _zocare_. Que la masse fermentée soit épaisse comme du suif ; délaie convenablement et avec soin ; puis, prenant de ce ferment ce que tu voudras, mets-le dans une étoffe de soie blanche, et façonnes-en des granules de la grosseur que tu voudras. Quant aux outils pour la confection des granules, il faut un pilon d'argent, une pince d'argent, des doigtiers d'argent. Au moyen de ces instruments, opère la confection des granules ; mais fais bien attention à ce que ta main ne touche pas le produit, et même ménage ta respiration, de crainte que la poussière soulevée* ne t'atteigne ; car elle empoisonne ; elle noircit d'ailleurs, et ne peut plus servir. Ensuite, après avoir fait bouillir l'étoffe de soie, enveloppe les boulettes dans des morceaux de soie blancs, convenablement enduits. En opérant de cette façon, mets chacun de ces granules dans un verre, agite, en les faisant rouler sans relâche et doucement. Lorsque tu verras que les granules sont bien arrondis, prends-les, troue-les avec un fil d'argent, et, après cette opération, agite-les encore dans le verre.
+
+*) Est-ce une préparation de chlorure de mercure sublimé ? --- En marge de cet article on lit dans AB : « Vois le procédé pour faire de l'or, et ne te trompe pas. » --- Cette glose montre que les copistes voyaient partout des procédés de transmutation, même quand il s'agissait de toute autre chose.
+
+*) Poudre de chlorure de mercure.
+
+4\. Après cela, prenant des _zocares_, mets-(les) dans un plat propre ; broie un peu de matière astringente (avec de l'eau) ; fais tomber (le liquide) goutte à goutte sur les parties charnues (de ces plantes). Ces parties, étant contractées par l'agent astringent, laissent échapper leur matière visqueuse. Prenant une petite quantité de cette matière visqueuse et la versant dans un verre, roules-y chacun des granules sphéroïdes. Que chacun (d'eux) soit pourvu d'un fil d'argent ; sers-t'en pour le retirer adroitement. Prenant une passoire, autrement nommée crible, fais-y des trous fins, et fixe à ces trous, du côté intérieur, les fils qui portent les granules sphéroïdes.
+
+Ensuite prends aussi une autre poële, ajuste-la à la première, remplis-(la) de coton, en pressant légèrement et appuyant tout autour. Prenant le vase qui contient les perles, dispose-les et laisse-les sécher à l'intérieur de cette passoire, pendant 10 jours.
+
+Ensuite, mets chaque granule dans un vase de verre en forme de matras, faisant rouler (les granules) dans ce vase, jusqu'à ce que tu reconnaisses qu'ils résonnent comme des pierres. Puis, donne de l'éclat à ce produit, en opérant comme les lapidaires pour faire briller les pierres.
+
+5\. Ensuite, prenant des poissons d'étang ou de rivière, ayant la longueur du pélamyde,* ou moins grands, fends-les du côté gauche et rejette leurs viscères. Lave bien la cavité où se trouvaient les viscères, de façon à n'y rien laisser de sanguinolent. Puis, prenant le gros intestin, perce-le, introduis-y du natron broyé et ayant subi l'action de l'eau ; laisse séjourner pendant 1 heure. Ensuite, lave bien ces intestins avec ce natron, en les pressant avec ta main. Puis, nettoie-les avec de l'eau ; et après les avoir nettoyés, prends les granules sphéroïdes susmentionnés, introduis-les un à un dans l'intestin et attache-les avec un fil de soie bouilli dans l'eau, en fixant chaque granule avec un fil spécial.
+
+*) Espèce de thon.
+
+Alors, introduis les intestins, avec les granules qu'ils contiennent, dans l'intérieur de la cavité des viscères de ces poissons ; recous avec de la soie la peau fendue, et dépose le tout sur un plat de terre.
+
+Tiens prêt un petit fourneau et embrase-le bien, jusqu'à ce qu'il soit blanchi par la combustion intérieure. Introduisant alors dans ce petit fourneau les poissons placés sur le plat de terre, assujettis bien ce fourneau ; lutes-en l'ouverture, et laisse cuire pendant 3 heures. Après avoir tiré les poissons du fourneau, laisse refroidir ; puis, retires-en les intestins, avec les granules qui y sont contenus ; fends-les, retires-en les granules, mets-les dans un linge, et nettoie-les avec du savon, de l'eau chaude et la graisse des poissons. Tu trouveras des granules ronds parfaits, ne différant en rien des meilleures perles naturelles.
+
+---
+
+#### 5. --- 9. Traitement des Perles.
+
+1\. **Nettoyage des perles et procédé pour les rendre brillantes, que l'auteur dit avoir employé souvent.** --- Mettant d'abord de l'huile dans une coquille de moule, fais chauffer sur un feu de papyrus ou de paille ; lorsque le produit est tiède, déposes-y la perle. Ensuite, retire-la de l'huile, et enduis-la avec un liniment de pyrite et de céruse. Puis, lave bien dans l'eau, enduis de nouveau, et laisse sécher. Après avoir lavé encore une fois, enduis ; (répète cela) jusqu'à 7 fois. Après avoir traité et relavé, jette dans du suc d'oronge. Si l'on mêle ce suc au liniment, tout objet enduit éprouve un blanchiment. Si (la perle) est imbibée de vin, elle devient rugueuse. En général, si on y trace des lettres avec un poinçon et que l'on ajoute de l'encaustique préparé avec du noir et du vert, les lettres l'absorbent.
+
+2\. **Dissolution des perles.** --- Broyant de petites perles très menu, mets (la poudre) dans un vase de verre, avec du jus acide de citron, et dépose sur un feu de sciure de bois pendant 3 jours et 3 nuits : elles seront bien dissoutes.*
+
+*) Voir le procédé de Salmanas, § 1, p. 349.
+
+3\. **Autre (procédé).** --- Après avoir moulu de la bonne farine de froment, pétris avec du jus acide de citron et du suc de chou sauvage. Ajoute de la sève de saule et du jus d'oignon, mets-y la perle et laisse dissoudre : poursuis comme tu sais.
+
+4\. **Blanchiment des perles.** --- Prenant de la scammonée, broie très menu et agite ; prends une décoction d'orge pure ; délaie avec la scammonée, de façon à rendre le mélange plus fluide ; puis, mets dans une coupe de verre. Suspends-y la perle, et recouvre avec une autre coupe. Après avoir luté, laisse pendant 9 heures : (la perle) devient blanche.
+
+Sans autre opération, expose pendant 7 ou 13 jours au soleil, ou à la chaleur du crottin de cheval. Dissous l'aphrosélinon dans du vinaigre très fort.
+
+5\. **Préparation de la perle.** --- Prenant de la pierre sidérite et de la poudre d'arsenic, de magnésie et d'aphrosélinon, délaie en quantités égales ; fais cuire, en suivant le même traitement que pour le cinabre. Prenant l'aphrosélinon et le trempant dans le miel, donne-le en pâture à un oiseau, sans lui fournir autre chose à manger, et ne le laisse pas s'agiter, mais enferme-le dans une cage, ou dans un panier. Place en dessous un _kerbion_ et donne à l'oiseau la (composition) délayée. Nettoie ses intestins, en lui donnant à manger des sauterelles pendant 3 jours, et ensuite l'aphrosélinon : tu trouveras secrété dans le kerbion un mystère divin.*
+
+*) Cette recette bizarre rappelle certaines de celles qui figurent dans Pline et dans les _Geoponica_.
+
+6\. **Autre fabrication des perles.** --- Prenant de petites perles, mets-les dans un vase de verre, avec du vinaigre fort et du suc cyrénaïque blanc, recueilli après avoir déposé pendant 16 jours.* Bouche le vase, abandonne le tout dans un endroit chaud, pendant une nuit et un jour. Ensuite, ajoute du jus acide de citron et, après avoir remué, abandonne un peu de temps. Lorsque (les perles) seront attaquées, alors fixe l'empreinte comme tu l'entendras : la fixation s'obtient au moyen de l'aphrosélinon.
+
+*) Cp. plus loin § 15.
+
+7\. **Blanchiment des (perles) sombres et salies.** --- Mets les (perles) dans un oignon, ou dans un bulbe analogue ; recouvre tout autour avec de la pâte de pain, et fais cuire sur un fourneau, ou dans un four : les (perles) seront blanchies.
+
+8\. **Autre (procédé).** --- Prenant des petites perles, mets-les dans du jus de citron ; laisse la liqueur acide du citron s'imbiber ; et, après avoir décanté plusieurs fois, jusqu'à ce que la liqueur soit transparente, mets alors les perles dans un linge, de façon à les nettoyer. Lorsque le nettoyage aura été obtenu, lave pendant un jour, et introduis la masse pâteuse dans le cœur d'un oignon. Mets l'oignon sur un fourneau, jusqu'à ce que la pâte soit cuite. Après avoir enlevé et laissé refroidir, tu trouveras (les perles) blanchies. Nettoie et rends brillant à ta volonté, à la façon de l'artisan spécialiste.
+
+Quelques-uns après cela font boire un oiseau, depuis le soir jusqu'à 1 heure (6 heures du matin) ; puis ils laissent mourir de soif le petit oiseau en le privant de boisson. En le sacrifiant alors, ils trouvent (nettoyées) les espèces salies.*
+
+*) Ce dernier alinéa ne paraît pas faire suite à ce qui précède, mais plutôt à la recette du § 5.
+
+9\. **Blanchiment des perles jaunes.** --- Prenant des perles, dépose-les dans du lait de chienne blanche et abandonne pendant 7 jours, après avoir bouché. Enlève les perles, attachées (chacune) avec un cheveu, et regarde si elles sont devenues blanches. Sinon, dépose-les de nouveau (dans le lait), jusqu'à ce que tu aies réussi.
+
+Si tu enduis ainsi un homme, il devient lépreux.* Telle est la puissance de cette composition saupoudrée avec un poids d'une mine de terre de Samos humide.
+
+*) Phrase finale ne faisant pas suite à ce qui précède et inintelligible. Elle pourrait peut-être se rapporter à la recette de la fin du § 1er, le copiste ayant mélangé les articles ( ? ) V. la note 3 de la p. 343.
+
+10\. **Fixation des perles.** --- Dépose-les dans du lait de chienne noire, et lorsqu'elles deviennent de consistance cireuse, mets-les dans les moules.*
+
+*) Cp. la fin du § 6. Il semble que l'on ramollissait les perles, et qu'on leur donnait ensuite une forme ou une empreinte.
+
+11\. **Blanchiment des perles.** --- Prenant de chaque décoction d'orge deux cuillerées, broie ensemble et amollis la perle pendant 6 heures.
+
+12\. **Sur les perles.** --- Dépose-les, pour les durcir, dans du lait de figuier, ou de tithymale, ou de calpasos, et laisse passer la nuit. Lorsqu'elles auront été durcies, modelant chacune avec la matière visqueuse préparée plus haut,* laisse sécher pendant un mois. Mets alors dans de la chaux vive ; fais tomber de l'eau goutte à goutte, et légèrement, jusqu'à ce que la chaux soit délayée ; puis laisse jusqu'à refroidissement. En enlevant, tu trouveras (les perles) durcies.
+
+*) Cp. 5. 7. § 4 ( ? ).
+
+Que la matière destinée à être modelée soit pétrie avec de la gomme liquide blanche. Fais sécher ainsi.
+
+Pour qu'elles durcissent facilement, lorsque tu les introduis dans le mélange de la chaux éteinte, et après qu'elles ont acquis la consistance convenable, lave-les bien pendant une heure avec de l'huile blanche et pure, en exprimant avec soin. Ensuite, si tu trouves qu'elles ne sont pas devenues brillantes, mets-les dans une boule de pâte d'orge. Modèle comme pour la pâte de pain ; puis fais cuire au four. De cette façon nettoie et rends brillant : tu seras étonné du résultat. Attache avec des cheveux (chaque perle)* avant de faire durcir.
+
+*) Cp. § 9.
+
+13\. **Blanchiment des perles jaunes.** --- Prends les extrémités et la partie blanche de la scille, au milieu des feuilles, ainsi que la plante saponaire ; délaie à parties égales. Après avoir fait la préparation, mets-y les perles et recouvre-les avec ; si elles sont trop dures, ajoutes-y de l'urine de vierge et un peu de miel blanc.
+
+14\. **Nettoyage des perles.** --- Prenant des aulx, délaie avec de l'eau, mets dans un petit flacon, et, soutenant la perle au moyen d'un cheveu, mets-la tremper pendant un jour et une nuit ; puis attends à ton idée. Si l'effet n'est pas produit, alors délaie avec un peu de cendre très fine ; enveloppe dans un morceau de toile de lin, et promène circulairement (le vase) au-dessus du feu, jusqu'à ce que la cendre ait disparu et que la perle soit amenée à point. Tu la trouveras blanche et nette ; elle doit être saine de tous les côtés.
+
+15\. **Nettoyage de la perle de bretagne.** --- Prenant du suc cyrénaïque, délaie avec de l'eau, et mets dans un petit flacon. Le suc ne se dissout pas, mais il forme une couche séparée au fond de l'eau. Prenant la perle, soutiens-la avec un crin de cheval. Que la perle n'ait pas de cassures. Mets-la dans le suc et aussitôt le suc s'y allie. Laisse reposer un jour et une nuit ; retire-la, frotte-la et tu la trouveras nettoyée et devenue blanche. Si elle a besoin d'être nettoyée davantage, laisse-la pendant une nuit et un jour ; répète au besoin l'opération et opère avec soin jusqu'à réussite.
+
+16\. **Nettoyage, d'après un moine, des (perles) couleur de plomb**.* --- Prenant des aulx, délaie avec de l'urine d'impubère, et mettant dans un petit flacon, introduis la perle au fond ; laisse tremper pendant 3 nuits et 3 jours. Puis, prenant du suc cyrénaïque et un peu d'huile, fais chauffer ; suspends la perle avec un cheveu ; promène-(la) tout autour (dans le liquide), jusqu'à ce que tu la voies devenue blanche. Ainsi, mets d'abord des aulx ; puis, mets dans l'huile, et reprenant les aulx en ébullition, emploies-en le suc. Si le résultat n'est pas bon, emploie du baume, à la place de l'huile, et tu réussiras.
+
+*) Ou bien : « Nettoyage des perles, d'après le moine dit des Plombiers ( ? ). »
+
+---
+
+#### 5. --- 10. Fabrication des Bières.
+
+Prends de l'orge blanche, propre, de bonne qualité, fais macérer pendant 1 jour, épuise ; ou bien encore laisse reposer dans un lieu à l'abri du vent, jusqu'au lendemain matin ; puis, fais macérer encore pendant 5 heures. Mets dans un vase à anses, en forme de tamis, et arrose ; sèche d'abord jusqu'à ce que la masse devienne comme un tourteau. Arrivé à ce point, achève de sécher au soleil, jusqu'à ce que la masse s'affaisse ; la pâte est amère.
+
+Tu moudras et tu fabriqueras des pains, en ajoutant du levain, pareil à celui du pain ; fais cuire plus fortement ; et lorsque (ces pains) sont gonflés, traite-les par l'eau sucrée. Passe à travers un filtre, ou un tamis fin. D'autres, après avoir fait cuire les pains, les jettent dans un panier ( ? ) avec de l'eau, et en font une décoction légère, en évitant de faire bouillir, ou de trop chauffer. Puis, ils retirent et filtrent ; ils recouvrent tout autour, font chauffer et mettent à part.
+
+---
+
+#### 5. --- 11. Fabrication de la Lessive.*
+
+*) Ce mot a été traduit ailleurs par erreur : « huile aromatique. »
+
+1\. Quatre muids de cendres sont répartis entre deux cuviers, percés de trous au fond. Autour du trou le plus petit, du côté intérieur, mets une petite quantité de foin, pour que la cendre n'obstrue pas le trou. Remplis d'eau le premier des cuviers ; recueille le liquide filtré qui en découle pendant toute la nuit et mets-le dans le second cuvier ; garde ce qui filtre de ce second cuvier. Mets d'autre cendre (dans un troisième cuvier). Epuise-la et il se forme une liqueur pareille au nard couleur d'or. Verse-la dans un quatrième cuvier. La liqueur devient piquante et forte : telle est la lessive particulière.
+
+2\. Quelques-uns ont fabriqué une (lessive) universelle, en ajoutant de la chaux sulfureuse, de la lie, de l'alun, etc. C'est ainsi que les opérateurs des eaux divines fabriquaient l'eau blanche. Ils dissolvaient dans les muids ( ? ) une grande quantité de décoction d'orge et de sucs d'arbres, (tels que ceux) du mûrier, du figuier, du calpasos, et de plantes, telles que le tithymale, ainsi que du sang de bouc et le ferment qui provient de ces liquides.
+
+3\. Pour la coloration des cristaux, on projette aussitôt que la matière est colorée ; car plus tard elle retiendrait du miel, de l'huile et du baume.*
+
+*) Cette phrase ne semble pas faire suite à ce qui précède, ni être liée à ce qui suit.
+
+4\. Afin de mieux épuiser la cendre pour la lessive, quelques-uns ajoutaient du vinaigre ; d'autres de l'urine. Quelques-uns, après avoir filtré l'eau, mélangeaient toutes choses une à une. Ils obtenaient un meilleur effet qu'en opérant avec l'urine et le vinaigre : et ils nommaient le tout _lessive_. Quelques-uns, mettant dans cette eau les plantes convenables et appelant (cela) faire fermenter, ajoutaient du safran, de la chélidoine, des feuilles de pommier, et des matières similaires, qu'ils délayaient avec du vinaigre de natron. D'autres encore employaient de l'alun, du misy cuit, du bleu et de l'eau divine. Ils en faisaient un gâteau. Après avoir réuni ensemble et fait fermenter, ils trempaient dans l'eau jaune et faisaient cuire la composition. Ils y mélangeaient plus tard du miel, du baume et du vinaigre. En délayant de cette façon, (ils ajoutaient) au vinaigre un peu de levain plus fort et de la bile de veau. Quelques-uns ajoutaient aussi des aulx et des oignons. En ce point, (notre auteur) enseigne que les (matières) fugaces, mêlées aux (matières) non fugaces, opèrent la coloration à froid.
+
+---
+
+#### 5. --- 12. Quelle est la Proportion avantageuse des Laines Teintes quelle est celle de la Comaris, et celle des Eaux Tinctoriales.
+
+Il faut que la proportion des eaux soit double de celle des laines. Or la mine (poids) d'eaux tinctoriales admet la 32e partie de comaris, pour que la matière teinte soit en rapport convenable, sans excès, ni manquement par rapport à la matière colorante. Il en est ainsi le plus généralement ; car la matière colorée ne supporte pas un excès de couleur ; par là, elle ne prendrait pas un (excès de) coloration véritable, c'est-à-dire non fugace.
+
+---
+
+#### 5. --- 13. Quelle est la Préparation de la Poudre Noire.
+
+Pour la couleur d'ébène, ne lave pas la cendre, mais réunis-la aux eaux blanches, suivant une bonne proportion, et fais-en un enduit, (que l'on chauffe) au moyen du fumier, pendant la durée d'une semaine, (ou bien) de deux ou trois jours. A ce sujet, Zosime s'exprimait ainsi : « Ne te trouble en rien ; car cette composition développe la teinture noire, sans la posséder elle même ; et elle colore en un noir moins stable. »
+
+---
+
+#### 5. --- 14. Quelle est la Composition de la Comaris.
+
+Le mélange de la préparation est composé avec un corps solide et un liquide ; une once de comaris solide étant mélangée avec l'eau.
+
+---
+
+#### 5. --- 15. Traitement qui succède a l'Iosis.
+
+Expose à l'air la préparation après l'iosis, pendant 5 jours, suivant le conseil d'Isis. Si tu veux préparer la poudre sèche (de projection), mélange entre elles les diverses parties de la composition : je veux dire la partie macérée et la partie non macérée, le liquide et le sec. Puis délaie au soleil ou à l'ombre ; dépose dans (du crottin) de cheval. Si tu veux confectionner une préparation liquide, après avoir mêlé les deux eaux et les avoir déposées avec soin dans les vases, soumets-(les) à un feu de fumier, pendant 3 ou 5 jours seulement. Après avoir pulvérisé finement, tu possèdes la poudre parfaite.
+
+---
+
 ...
 
 ## Sixième Partie.
