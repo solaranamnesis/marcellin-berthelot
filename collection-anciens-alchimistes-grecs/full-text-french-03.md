@@ -114,6 +114,20 @@
 
 #### [5. --- 8. Méthode pour confectionner la Perle Ronde préparée par le célèbre technurgiste arabe Salmanas.](#5-----8-méthode-pour-confectionner-la-perle-ronde-préparée-par-le-célèbre-technurgiste-arabe-salmanas-1)
 
+#### [5. --- 9. Traitement des Perles.]()
+
+#### [5. --- 10. Fabrication des Bières.]()
+
+#### [5. --- 11. Fabrication de la Lessive.]()
+
+#### [5. --- 12. Quelle est la Proportion avantageuse des Laines Teintes quelle est celle de la Comaris, et celle des Eaux Tinctoriales.]()
+
+#### [5. --- 13. Quelle est la Préparation de la Poudre Noire.]()
+
+#### [5. --- 14. Quelle est la Composition de la Comaris.]()
+
+#### [5. --- 15. Traitement qui succède a l'Iosis.]()
+
 ...
 
 ## [Sixième Partie.](#sixième-partie-2)
