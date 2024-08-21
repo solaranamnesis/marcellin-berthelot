@@ -114,19 +114,19 @@
 
 #### [5. --- 8. Méthode pour confectionner la Perle Ronde préparée par le célèbre technurgiste arabe Salmanas.](#5-----8-méthode-pour-confectionner-la-perle-ronde-préparée-par-le-célèbre-technurgiste-arabe-salmanas-1)
 
-#### [5. --- 9. Traitement des Perles.]()
+#### [5. --- 9. Traitement des Perles.](#5-----9-traitement-des-perles-1)
 
-#### [5. --- 10. Fabrication des Bières.]()
+#### [5. --- 10. Fabrication des Bières.](#5-----10-fabrication-des-bières-1)
 
-#### [5. --- 11. Fabrication de la Lessive.]()
+#### [5. --- 11. Fabrication de la Lessive.](#5-----11-fabrication-de-la-lessive-1)
 
-#### [5. --- 12. Quelle est la Proportion avantageuse des Laines Teintes quelle est celle de la Comaris, et celle des Eaux Tinctoriales.]()
+#### [5. --- 12. Quelle est la Proportion avantageuse des Laines Teintes quelle est celle de la Comaris, et celle des Eaux Tinctoriales.](#5-----12-quelle-est-la-proportion-avantageuse-des-laines-teintes-quelle-est-celle-de-la-comaris-et-celle-des-eaux-tinctoriales-1)
 
-#### [5. --- 13. Quelle est la Préparation de la Poudre Noire.]()
+#### [5. --- 13. Quelle est la Préparation de la Poudre Noire.](#5-----13-quelle-est-la-préparation-de-la-poudre-noire-1)
 
-#### [5. --- 14. Quelle est la Composition de la Comaris.]()
+#### [5. --- 14. Quelle est la Composition de la Comaris.](#5-----14-quelle-est-la-composition-de-la-comaris-1)
 
-#### [5. --- 15. Traitement qui succède a l'Iosis.]()
+#### [5. --- 15. Traitement qui succède a l'Iosis.](#5-----15-traitement-qui-succède-a-liosis-1)
 
 ...
 
