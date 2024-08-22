@@ -9820,6 +9820,162 @@ On voit qu'il s'agit d'un manuel byzantin de Chimie. La composition même de l'o
 
 De ce grand ouvrage, malheureusement perdu, sont tirés la plupart des articles de notre 5e partie. Ces articles manquent en général dans le manuscrit de St-Marc et dans ses dérivés ; mais ils existent dans les manuscrits 2325 (13e siècle), 2327 et dans leurs dérivés, Ils répondent à une tradition plus ancienne que les textes alchimiques latins, traduits des Arabes, et que le traité de Théoctonicos ; ces derniers d'ailleurs en sont tout à fait distincts.
 
+1\. Prenant telle monnaie que tu veux, prends-en l'empreinte en creux avec du soufre commun fondu, en ayant soin d'enduire la monnaie avec de l'huile ; puis tu en prends la contre-empreinte : tu fondras le soufre à un feu doux, afin d'éviter de le brûler. Car si le feu est léger, le soufre reproduit bien la gravure ; mais si le soufre brûle, il ne reproduit rien. Lorsque tu veux reproduire l'empreinte obtenue au moyen du soufre, celle de l'image qu'il a reçue, sers-toi de la double matrice du soufre ; avec elle tu peux reproduire la pièce de monnaie complètement.*
+
+*) C'est un procédé de faux monnayeur.
+
+2\. L'opération de la fonte des moulages se fait comme il suit. Lorsque tu veux les fondre, prends un petit cercle de fer et mets (le moule) au milieu de ce cercle ; puis applique le pouce de la main gauche sur le moule de la pièce de monnaie ; verse de la cendre* tamisée et répartis-la avec ta main droite tout autour de la matrice. Pendant que tu l'y verses, tiens toujours ton pouce gauche sur la matrice, afin qu'elle ne soit pas recouverte par la cendre. Puis, lorsque la cendre est arrivée au niveau de la matrice, regarde, essuie bien la matrice et ôte avec soin les poils. Ensuite, avec de la cire noire, prends une empreinte ou deux.
+
+*) Ou plutôt de l'argile en poudre ?
+
+Lorsque tu vois que la matrice du soufre est nette dans toutes ses parties, prends un os de sèche bien sec, presse-le sur la matrice de la monnaie et nettoie avec un petit couteau la surface de l'os de sèche, sans t'occuper du revers ; prends un marbre et aiguise (dessus) l'os de sèche avec soin. Place-le au-dessus de la matrice, en t'arrangeant de façon à bien recouvrir la matrice et la cendre. Mettant ton pouce, appuie doucement afin d'imprimer l'os de sèche sur la matrice. Alors mets de la cendre avec précaution sur l'os de sèche. Puis, avec les paumes de tes deux mains, exerce 4 ou 5 pesées sur la cendre. Achève de remplir, exerce une nouvelle pesée. Lorsque le petit cercle de fer est bien rempli et bien luté avec la cendre, soulève avec soin le cercle avec la matrice, et avec un petit couteau racle l'emplacement de la matrice ; tu la tires à toi avec tes doigts et tu la fais sortir du petit cercle de fer. Tu coules le bronze dans l'empreinte (ainsi préparée). Il faut transporter le moule après refroidissement, et non lorsqu'il est chaud ; car si la matrice est brûlante, la rouille sort en bouillonnant et (le métal) ne remplit pas la matrice.
+
+3\. Quant à l'alliage du bronze, on l'obtient ainsi : rouille de cuivre de Chypre, 1 livre ; étain pur, 2 onces.
+
+4\. Pour donner la couleur à la gravure, on emploie : couperose, 2 onces ; chalcite, 1 once ; alun, 2 onces ; ocre et sel, 7 onces. Après avoir broyé et tamisé, entasse, couche par couche, ces produits réduits en poudre, comme on fait pour les feuilles métalliques dans l'affinage de l'or.* Recouvre la marmite ; fais chauffer l'automotarion pendant 3 heures ; puis enlève et laisse refroidir. En découvrant, tu trouves les objets colorés. Pour les détacher, mouille avec de l'eau pure ; broyant du soufre commun et le tamisant, mets de l'huile dans tes mains, et frotte les (objets) moulés ; ils se dégagent.
+
+*) _Introd._, p. 15.
+
+---
+
+#### 5. --- 17. Détails divers sur le Plomb et sur la Feuille d'Or.*
+
+*) Ce sont des recettes d'atelier ; la plupart se rapportent à la dorure par application de feuilles minces. Le sens général est clair ; mais il y a bien des détails obscurs, par suite de l'insuffisance des données et des fautes du copiste. Ceci rappelle d'ailleurs le traité d'orfèvrerie, 5, 1, §§ 4, 9, etc.
+
+1\. Le plomb marin est dur et grossier. Pour qu'il ne se casse pas, mêle à 50 livres de plomb sabyésin ( ? ),* 1 livre d'étain blanc ; opère l'alliage à raison d'une livre pour 50 livres. Le plomb sabyésin ( ? ) et dalmatique est pur et mou. Quand on le fond sans autre addition, on met pour 10 livres (de plomb), une livre d'étain : c'est là ce qui convient. Le plomb de Sardaigne est mou et contient du cuivre ; on le casse, pour le fondre avec le cuivre, ou le soumettre à la préparation : car le métal doit être allié avec du cuivre. La fusion dure 1 jour.
+
+*) De Sabine ?
+
+2\. La proportion suivant laquelle il convient d'allier le cuivre avec l'argent est de 5 parties pour une d'argent ; c'est-à-dire que dans une opération, on fond 100 livres d'argent avec 500 livres de cuivre.
+
+Pour ce travail, par livre d'alliage, on emploie 1 muids de charbon ; on met en œuvre 200 livres ; ce poids se réduit après l'alliage à 166 livres.
+
+On emploie : cire, 20 livres ; étain, 20 livres ; plâtre, 120 livres ; une voiture de bois à brûler ; minerai de cuivre, 67 muids ; oxyde de fer des batitures, 20 livres ; huile pour les moulages, 4 livres. Il faut des ouvriers capables de façonner, de fondre, de limer, et de faire le travail avec des pinces. 40 ouvriers souffleurs pour travailler les objets d'or et d'argent, à raison de 5 livres en 1 jour.
+
+3\. Pour étendre quatre pièces de monnaie blanche, à la longueur de 100 coudées et en tirer 40 feuilles, on prend une plaque carrée de verre, longue de 20 doigts, large de dix. De chaque morceau d'argent, on tire 10 feuilles ; on en fabrique 120. L'artisan tire chaque jour 40 feuilles de 4 pièces de monnaie.
+
+Pour l'objet d'or, on étend une pièce de monnaie, (jusqu'à une longueur) de 7 coudées. On mélange du misy, du vieil étain, de l'armoise indienne.
+
+4\. Pour l'objet d'argent, l'artisan travaille comme pour l'objet d'or, (jusqu'à une longueur) de 20 ( ? ) coudées. Il met sur la glace 110 parties de métal et 4 parties de matière additionnelle, afin d'obtenir 100 parties de produit pur.
+
+On emploie une voiture et demie de bois à brûler. Il faut 22 grammata (poids) d'argent pour l'argenture.
+
+Le doreur, pour la dorure, avec un lingot d'or massif, fait en un jour 150 feuilles ; pour les feuilles dorées, par jour, 50 feuilles ; pour la dorure des extrémités, 100 feuilles. Pour la dorure complète d'un objet de ... coudées, 42 feuilles ; pour les objets à jours par coudée 16 feuilles 1/3 ( ? ).
+
+Pour la fabrication complète des feuilles, il faut 9 livres pour 72 monnaies d'or à l'épreuve ; cuivre de Chypre battu à froid, 3 livres ; huile, un setier ; charbon, 25 muids. Les artisans pour la fabrication de feuilles (prennent) soufre, 1 livre ; arsenic ( ? ), 20 livres ; vermillon, 10 livres.
+
+5\. Avec une livre d'or, voici les diverses proportions : S'il s'agit d'un seul modèle : 1,500 feuilles ; 2 modèles, 2,000 ; 3 modèles, 2,250 ; 4 modèles, 2,500 ; 5 modèles, 3,000 ; 6 modèles, 4,000 ( ? ) ; 7 modèles, 5,000 ; 8 modèles, 6,000 ; 9 modèles, 7,000 ; 10 modèles, 8,000 ; 11 modèles, 9,000 ; 12 modèles, 10,000 ( ? ).
+
+L'ouvrier en feuilles d'or, c'est-à-dire le batteur d'or, en vue du recuit de l'or et de la mise en feuilles, pour chaque livre de l'objet à dorer, prend 6 pièces de monnaies, chacune de 2 carats.
+
+Quant au doreur, pour la seule dorure, et pour chaque livre de l'objet, il a besoin de 3 pièces de monnaie, chacune de 1 carat.
+
+Quant à la parite inférieure, dans l'opération de la dorure, pour chaque livre de statuettes, il faut 3 pièces de monnaies, si ce sont des objets de bois ; si c'est de la pierre, 2 suffisent.
+
+6\. Si le doreur travaille immédiatement et opère comme il a été expliqué dans les tableaux de calcul, et s'il emploie des petites feuilles, il lui faudra une pièce de monnaie, par trois coudées. Mais s'il emploie des (feuilles) plus grandes, telles que celles du grillage à jour dans l'angle de l'oratoire ( ? ) de sainte Marie, auprès du palais de Maron (palais de Marie)* ; la proportion par coudée sera de ... ; ou bien de ... s'il faut des feuilles plus grandes, comme pour le ciboire et pour les colonnes d'airain.*
+
+*) Glose insérée dans le texte ?
+
+*) Du sanctuaire de l'autel.
+
+7\. Prenez : 6 onces de plâtre ; colle de taureau, 4 onces ; colle de poissons, 1 once ; minium, 1 once ; vermillon, 1/2 once ; minium, 6 onces ; gomme, (colle de) poissons ... ; bois de charbon à brûler, 1,200 livres ...
+
+---
+
+#### 5. --- 18. Fabrication de la Colle de Fromage.*
+
+*) Recette pour préparer une colle, destinée surtout à recoller le verre ou les poteries. Cp. Orfèvrerie, § 36, p. 316.
+
+1\. Prenant du vieux fromage, broie-(le) dans l'appareil à fromage ; puis, versant de l'eau, laisse reposer 3 jours ; puis retire, et change l'eau. Ensuite, mettant dans une marmite propre, fais bouillir jusqu'à ce que le fromage soit délayé et épaissi dans l'eau chaude. Puis, mettant le même fromage dans une autre eau, celle-ci tiède, pour le ramollir, fais bouillir jusqu'à ce qu'il se change en colle. Ensuite prends jusqu'à 4 parties de chaux vive ; mâle-la intimement avec la colle et colle ce que tu voudras ; laisse reposer l'objet collé pendant 6 jours.
+
+2\. On fabrique aussi de la même manière la colle de peaux. Fais bouillir jusqu'à ce que les peaux soient bien dissoutes par l'ébullition, et évapore. Ensuite, laisse refroidir et sécher ; puis, fais fondre et colle.
+
+3\. Broie de la corne de cerf et rejette la poudre grossière ; pulvérise, autant que possible, les (parties) blanches et laisse humecter avec de l'eau, pendant 10 jours ; puis, fais bouillir assez fort dans une bassine, jusqu'à ce que la substance déborde. Alors évapore et dessèche. Puis, mélange 2 parties de chaux avec 1 partie de la colle, et colle.
+
+---
+
+#### 5. --- 19. Sur la Fabrication du Savon d'Axonge.*
+
+*) Cp. le procédé de lixiviation : 5, 11, p. 357.
+
+Mets autant de livres que tu voudras d'axonge finement écrasée dans une bassine ; procure-toi aussi de la lessive de bois d'ormeau. Mets-en dans plusieurs vases et place de l'eau dans ces vases ; ils doivent être tous percés de trous dans le fond, et les trous garnis d'un petit chiffon, pour que la lessive ne descende pas. Dispose au-dessous de ces vases d'autres récipients pour recevoir les eaux. Le premier liquide filtré, mets-le dans la bassine. Cette première eau de la lessive fournit ce qu'on appelle le savon de première qualité ; la seconde eau de lessive est plus faible, et les trois (eaux) font les trois charges du savon.
+
+---
+
+#### 5. --- 20. Les Mois.*
+
+*) Texte en très petits caractères, intercalé par un copiste. C'est une formule magique, composée pour quelque empereur byzantin. --- Cp. Olympiodore, p. 110.
+
+Le plomb est, de sa nature, froid et sec ; pendant 7 jours.
+
+Le mercure (est), de sa nature, tempéré ; pendant 15 jours.
+
+Le Bélier ... (Mars) ... chaud et humide.
+
+Le Taureau ... (Avril) ... chaud et humide.
+
+Les Gémeaux ... (Mai) ... chaud et humide.
+
+Le Cancer ... (Juin) ... chaud et sec.
+
+Le Lion ... (Juillet) ... chaud et sec.
+
+La Vierge ... (Août) ... chaud et sec.
+
+La Balance ... (Septembre) ... sec et humide.
+
+Le Scorpion ... (Octobre) ... sec et froid.
+
+Le Sagittaire ... (Novembre) ... sec et froid.
+
+Le Capricorne ... (Décembre) ... froid et humide.
+
+Le Verseau ... (Janvier) ... froid et humide.
+
+Les Poissons ... (Février) ... froid et humide.
+
+C'est pour toi, souverain lettré, légitime, qui n'a rien d'étranger ni d'irrégulier, que (nous), tes serviteurs, nous avons composé cette formule. Accepte-la donc avec bienveillance, ô prince; si elle est courte, elle contient quelque chose d'utile.
+
+---
+
+#### 5. --- 21. Fabrication de l'Or.*
+
+*) La recette semble ancienne, mais les mots tartre, tutie et quelques autres sont d'une époque moins reculée.
+
+1\. Prenant du cuivre naturel, fais-le fondre sept fois, et dans chaque fonte, projette ces matières-ci : dans la première fonte, du tartre délayé, à volonté ; introduis-(le) dans le cuivre fondu. Dans la seconde fonte, mets de l'alun broyé en poudre impalpable ; dans la troisième fonte, du sel ammoniac broyé ; dans la quatrième fonte, du natron broyé ; dans la cinquième fonte, pareillement de l'arsenic broyé ; dans la sixième fonte, de l'aphrosélinon ; pareillement dans la septième fonte, de la tutie d'Espagne vert clair, broyée préalablement, arrosée avec de l'urine d'impubère, exposée au soleil et amenée à l'état de poudre sèche. Avec la volonté de Dieu, tu devras voir apparaître l'or.* Marie dit : « tu tremperas sept fois, et tu trouveras des choses extraordinaires. »
+
+*) Cette préparation est celle d'un laiton.
+
+2\. Le tartre, le sel ammoniac, l'alun, le natron, la céruse, la tutie, l'arsenic, l'aphrosélinon et la magnésie des verriers, mélangés avec de l'urine et délayés sept fois, teignent le cuivre (et) lui donnent l'apparence de l'argent.* C'est là ce qu'on appelle « notre vinaigre, » c'est-à-dire le vinaigre de cuivre.
+
+*) Préparation d'un alliage analogue au tombac.
+
+---
+
+#### 5. --- 22. Préparation de l'Aphronitron recherché pour les soudures de l'Or, de l'Argent et du Cuivre.
+
+Prenant du natron d'Égypte 1 livre, du savon d'axonge préparé sans chaux, 1 livre, divise exactement et mélange. Place ces matières avec le produit, soit au soleil, soit dans un endroit chaud ; le résultat est parfait pour souder l'or.
+
+---
+
+#### 5. --- 23. Préparation du Cinabre.*
+
+*) Cp. p. 17.
+
+1\. Prends : mercure, 2 parties ; soufre vif pulvérisé, ... ; urine pure, 1 partie ; prends aussi une petite fiole propre, capable de supporter la force d'un feu sans fumée ; mets-y la préparation, sans remplir, mais de façon à laisser un vide de 2 ou 3 doigts ; mélange le tout. Dispose un fourneau pareil à celui du verrier.
+
+Cette fiole aura une large ouverture ; dispose la place convenable pour faire entrer la fiole, en l'isolant à l'aide d'un roseau ; puis, allume le fourneau. Ménage une autre petite porte, pour que la flamme puisse tourner tout autour. Voici à quel signe on reconnaît que la cuisson est faite : observe l'espace resté vide dans la fiole et, si tu vois sortir une fumée ayant l'apparence de la pourpre, et que la matière échauffée soit couleur de cinabre, la préparation est effectuée. Ne chauffe pas davantage le vase de verre ; car une fois la préparation finie, si tu chauffes davantage, le vase de verre se brise.
+
+2\. Fais bouillir du mercure avec de l'huile de raifort additionnée de soufre, et avec de l'arsenic brûlé, dans un vase de verre, pendant 3 jours ; le quatrième, laisse refroidir. Puis le mercure sera de nouveau (mêlé) avec du vinaigre très fort, et un poids de soufre égal à la moitié de celui du mercure. Mélange ces (matières) avec du natron, broie dans un mortier, et le produit deviendra jaune. On met dans un vase contenant du vinaigre très fort ; on le bouche bien, pour qu'il ne s'évapore point. Laisse digérer pendant 5 jours ; le sixième, tu trouveras le mystère. Édulcore et fais sécher au soleil : conserve ce mystère.
+
+3\. Avec l'aide de Dieu, prends des œufs, casse-les, mets à part les jaunes, en rejetant les blancs ; place dans un alambic et laisse pendant 7 à 8 jours. Retires-en l'eau ; chauffe la matière qui a pris l'aspect métallique, jusqu'à ce qu'elle soit passée à l'état de chaux : et conserve avec soin cette chaux, en la mettant à part. Cette chaux est dite terrestre ( ? )
+
+---
+
+#### 5. --- 24. Pratique de l'Empereur Justinien.*
+
+*) C'est un fragment assez étendu des traités perdus qui portaient le nom de cet empereur (voir _Introd._, p. 176, 214, 215).
+
 ...
 
 ## Sixième Partie.
