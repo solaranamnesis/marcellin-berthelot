@@ -130,6 +130,22 @@
 
 #### [5. --- 16. Si tu veux fabriquer des Formes en Creux et en Relief avec du Bronze, opère comme il suit.](#5-----16-si-tu-veux-fabriquer-des-formes-en-creux-et-en-relief-avec-du-bronze-opère-comme-il-suit-1)
 
+#### [5. --- 17. Détails divers sur le Plomb et sur la Feuille d'Or.]()
+
+#### [5. --- 18. Fabrication de la Colle de Fromage.]()
+
+#### [5. --- 19. Sur la Fabrication du Savon d'Axonge.]()
+
+#### [5. --- 20. Les Mois.]()
+
+#### [5. --- 21. Fabrication de l'Or.]()
+
+#### [5. --- 22. Préparation de l'Aphronitron recherché pour les soudures de l'Or, de l'Argent et du Cuivre.]()
+
+#### [5. --- 23. Préparation du Cinabre.]()
+
+#### [5. --- 24. Pratique de l'Empereur Justinien.]()
+
 ...
 
 ## [Sixième Partie.](#sixième-partie-2)
