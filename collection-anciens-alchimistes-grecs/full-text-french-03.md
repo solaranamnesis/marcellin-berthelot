@@ -146,7 +146,21 @@
 
 #### [5. --- 24. Pratique de l'Empereur Justinien.](#5-----24-pratique-de-lempereur-justinien-1)
 
-...
+#### [5. --- 25. Description de la Grande Héliurgie exposée dans le Traitement du Tout.]()
+
+#### [5. --- 26. Bénédiction de la Ruche.]()
+
+#### [5. --- 27. Fabrication de l'Argent.]()
+
+#### [5. --- 28. Sur l'Orichalque.]()
+
+#### [5. --- 29. Sur le Soufre Incombustible.]()
+
+#### [5. --- 30. Blanchiment de l'Eau au moyen de laquelle est blanchi, pendant qu'on le Traite, l'Arsenic, ainsi que la Sandaraque.]()
+
+#### [5. --- 31. Sur le Blanchiment de l'Arsenic Lamelleux.]()
+
+#### [5. --- 32. Dorure du Fer.]()
 
 ## [Sixième Partie.](#sixième-partie-2)
 
