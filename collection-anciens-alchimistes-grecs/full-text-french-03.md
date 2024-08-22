@@ -130,21 +130,21 @@
 
 #### [5. --- 16. Si tu veux fabriquer des Formes en Creux et en Relief avec du Bronze, opère comme il suit.](#5-----16-si-tu-veux-fabriquer-des-formes-en-creux-et-en-relief-avec-du-bronze-opère-comme-il-suit-1)
 
-#### [5. --- 17. Détails divers sur le Plomb et sur la Feuille d'Or.]()
+#### [5. --- 17. Détails divers sur le Plomb et sur la Feuille d'Or.](#5-----17-détails-divers-sur-le-plomb-et-sur-la-feuille-dor-1)
 
-#### [5. --- 18. Fabrication de la Colle de Fromage.]()
+#### [5. --- 18. Fabrication de la Colle de Fromage.](#5-----18-fabrication-de-la-colle-de-fromage-1)
 
-#### [5. --- 19. Sur la Fabrication du Savon d'Axonge.]()
+#### [5. --- 19. Sur la Fabrication du Savon d'Axonge.](#5-----19-sur-la-fabrication-du-savon-daxonge-1)
 
-#### [5. --- 20. Les Mois.]()
+#### [5. --- 20. Les Mois.](#5-----20-les-mois-1)
 
-#### [5. --- 21. Fabrication de l'Or.]()
+#### [5. --- 21. Fabrication de l'Or.](#5-----21-fabrication-de-lor-1)
 
-#### [5. --- 22. Préparation de l'Aphronitron recherché pour les soudures de l'Or, de l'Argent et du Cuivre.]()
+#### [5. --- 22. Préparation de l'Aphronitron recherché pour les soudures de l'Or, de l'Argent et du Cuivre.](#5-----22-préparation-de-laphronitron-recherché-pour-les-soudures-de-lor-de-largent-et-du-cuivre-1)
 
-#### [5. --- 23. Préparation du Cinabre.]()
+#### [5. --- 23. Préparation du Cinabre.](#5-----23-préparation-du-cinabre-1)
 
-#### [5. --- 24. Pratique de l'Empereur Justinien.]()
+#### [5. --- 24. Pratique de l'Empereur Justinien.](#5-----24-pratique-de-lempereur-justinien-1)
 
 ...
 
