@@ -9992,7 +9992,131 @@ Cette fiole aura une large ouverture ; dispose la place convenable pour faire en
 
 *) C'est un fragment assez étendu des traités perdus qui portaient le nom de cet empereur (voir _Introd._, p. 176, 214, 215).
 
-...
+1\. Prenant des coquilles d'œuf, pile-(les) dans un mortier et sèche-(les). Lave à plusieurs reprises et lave encore avec du natron et de l'eau ; édulcore avec de l'eau et du vinaigre commun, jusqu'à ce que la composition soit devenue blanche comme la céruse du plomb. Après avoir laissé sécher, conserve.
+
+Prenant de cette coquille devenue blanche, 3 onces, et des blancs d'œufs, 6 onces, pile ensemble. Extrais-en les eaux au moyen de l'alambic ; garde à part la scorie.
+
+Mets dans ces eaux des coquilles lavées, durcies, c'est-à-dire desséchées, et concentre. Épuise (l'action des eaux) sur les feuilles (de métal ? ) et tiens prête la composition pour blanchir. Prenant la scorie susdite, délayée dans les eaux et blanchie, avant que l'eau ne soit montée, c'est-à-dire 2 onces ... observe la préparation du second jus.
+
+Mets la scorie dans un vase de terre cuite, ou de verre ; bouche-le ; fais cuire au moyen de la kérotakis sur un feu violent pendant 1 jour, jusqu'à ce que le produit n'ait plus d'odeur et devienne blanc.
+
+Après avoir retiré, pile dans un mortier au soleil. Prends une portion de l'eau qui a monté, et amène en consistance visqueuse, pendant 1 jour. Puis, après avoir fait sécher au soleil et retiré, fais cuire au moyen de la kérotakis sur un feu violent, suivant l'ordonnance susdite, pendant 1 jour.
+
+Enlevant de nouveau, délaie avec de l'eau et amène en consistance visqueuse, en exposant pendant 1 jour au soleil ; puis, fais cuire. Réitère plusieurs fois, jusqu'à ce que tu voies la composition blanche comme la céruse.
+
+2\. Ensuite, fais jaunir de la manière suivante. Après avoir fait monter l'eau, suivant l'ordonnance susdite, tu ne l'emploies plus pour opérer la fixation de la couleur des œufs sur les feuilles ; mais tu ajoutes, dans un setier, 10 jaunes d'œufs, et tu les brouilles dans l'eau. Garde les eaux jaunes, et avec ces eaux, délaie la composition, de façon à l'amener en consistance visqueuse, pendant 1 jour. Après avoir fait sécher au soleil, chauffe et fais toutes choses suivant l'ordonnance susdite, ne te tenant pour satisfait que lorsque tu verras la composition devenue jaune comme de l'or.
+
+Place cette composition dans un flacon, non bouché ; et mets dans un vase (de terre) du vinaigre commun très fort. Dispose le flacon (contenant) la composition, de façon à ce qu'il flotte sur le vinaigre. Lute tout autour le vase (qui contient) le vinaigre, avec son couvercle ; conserve pendant 41 jours.
+
+Puis, retirant la composition, mets-la dans un mortier ; ajoute des eaux jaunes et amène en consistance visqueuse. Après avoir laissé sécher au soleil, garde : l'opération est accomplie.
+
+3\. Pour préparer une telle (composition), on emploie la macération, la cuisson faite à forte chaleur avec l'asèm, ainsi que le broiement (dans) le mortier, et l'arrosage avec les liquides. On l'amène à un point tel, qu'elle ne s'échappe pas par l'action du feu, mais qu'elle devienne susceptible de pénétrer les corps et d'y demeurer fixée, sans se volatiliser, ni être brûlée. C'est ce qui arrive lorsqu'on soumet l'asèm à une forte chaleur, la vapeur montant et descendant dans l'appareil sphérique,* à l'état de brouillard opaque, jusqu'à ce que le produit ait acquis toute sa puissance de matière incombustible et fixe.
+
+*) Cf. Zosime cité par Olympiodore, p. 105.
+
+Les poudres sèches subiront aussi le même traitement, jusqu'à ce qu'elles soient tout à fait décomposées et privées de leur eau, et qu'elles soient mélangées, complètement unifiées avec les liquides, en ne formant plus, pour ainsi dire, qu'un seul corps inséparable, par l'effet de l'opération.
+
+Les liquides, de leur côté, seront fixés au moyen d'espèces astringentes, complètement décomposés et réduits en ios, jusqu'à ce qu'ils aient acquis le pouvoir de demeurer sans se volatiliser et de résister au feu. Par l'effet de l'union indissoluble entre les poudres sèches et les liquides, on produit des couleurs douées de l'aptitude à pénétrer (les métaux) ; de même que toute matière extractive naturelle, mise à bouillir dans l'eau sur un feu doux, se délaie entièrement, en donnant sa couleur à l'eau, le tout étant amené à l'unité,
+
+4\. Après donc que toutes les eaux sont complètement montées,* prends le sédiment sec et noirci qui reste, et blanchis-(le) de cette façon. Tu auras un vin préparé d'avance, avec de l'eau de chaux filtrée à travers de la cendre d'albâtre, suivant le procédé de la lessive pour savonner. Prends-en une portion et sers-t'en pour bien laver (la scorie), jusqu'à ce que l'eau soit noircie.
+
+*) A partir de ce mot, le texte représente une copie nouvelle d'un texte, déjà donné comme appendice à la fin d'Olympiodore (p. 113 de la _Traduction_). Le texte actuel est plus correct et il offre des variantes importantes : ce qui nous a décidé à le reproduire ici.
+
+Ensuite reverse de nouvelle eau et, si tu veux, laisse digérer pendant quelques jours. Revenant (à la charge), lave encore, en suivant l'ordre indiqué précédemment. Transvasant l'eau noircie, mets-en de nouvelle sur les autres matières. Renferme ensuite celles-ci dans des vases, pendant le même nombre de jours ; puis, retire-les, relave : en opérant de cette façon, l'apparence noire se dissipe et il se forme un or de couleur blanche. Quant aux eaux noircies auparavant, mets-(les) dans un vase de verre ; après avoir luté le vase tout autour, laisse sécher et fais digérer pendant quelques jours, c'est-à-dire jusqu'à ce que le produit soit réduit en pâte, désagrégé, et parvenu à un blanchiment convenable. Qu'il se délaie et se désagrège. Expose-le au-dessus du vinaigre, de façon à ce qu'il subisse l'action de ses vapeurs piquantes et se désagrège ; le vase doit être fermé avec soin. Ainsi, sous l'influence de la vapeur piquante, le produit blanchit à l'air et devient comme la céruse provenant du plomb.
+
+Il est possible de produire cet effet avec notre chaux, c'est-à-dire en exposant notre pierre à la vapeur acide du vinaigre, à la façon d'une feuille de plomb. Mais, pour donner à cette matière la coloration jaune, après que la préparation a été convenablement lavée et blanchie, il faut d'abord l'arroser avec des eaux jaunes, faire macérer et réagir, et ensuite dessécher.
+
+Ainsi a été accomplie la pratique de l'empereur Justinien.*
+
+*) Le texte porte : Justien. J'avais lu d'abord Julien ; mais le texte de M. et la tradition qui attribue à Justinien des traités alchimiques (_Introd._, p. 176 et 214) ne laissent pas subsister de doute.
+
+---
+
+#### 5. --- 25. Description de la Grande Héliurgie exposée dans le Traitement du Tout.*
+
+*) Morceau mystique de date inconnue, mais qui pourrait ne pas être plus ancien que l'écriture correspondante, c'est-à-dire que le 15e siècle. Le mot _héliurgie_ est synonyme de _chrysurgie_, le signe de l'or et celui du soleil étant les mêmes.
+
+Sachez que la grande héliurgie est exposée et décrite dans la création du Tout, à l'occasion de son créateur (démiurge), suivant l'allégorie que voici :
+
+Le Tout se manifeste dans six choses : dans les quatre éléments, dans l'âme et dans Dieu même, l'artisan et le créateur de ces choses. Or, les quatre éléments sont les suivants : le premier, celui qui se porte en haut, c'est le feu ; le second, placé au-dessous, l'air ; le troisième, situé plus bas, la terre ; le quatrième, inférieur à la terre, l'eau ; tels sont les quatre éléments. En outre, il y a l'âme et Dieu, leur artisan et fabricateur. C'est dans ces six choses que le Tout se manifeste. Il y a aussi six choses dans la matière de la grande héliurgie, choses qu'ils ont exposées avec justesse ; ce sont : l'eau, la vapeur sublimée, le corps (métallique), la cendre, la vapeur humide, et le feu. Parmi ces choses, les quatre (premières) répondent aux quatre éléments. La cinquième, c'est-à-dire la vapeur humide, est assimilée à l'âme, et la sixième, c'est-à-dire le feu, est l'image de Dieu.
+
+---
+
+#### 5. --- 26. Bénédiction de la Ruche.*
+
+*) Invocation d'une époque moderne, suivie de quelques formules magiques. Ce morceau indique le caractère moral des moines qui détenaient le manuscrit M.
+
+1\. Salut, notre Seigneur (Christ ? ), salut ... vie ... (à l'abeille ? ) bénie, qu'ont bénie le Père, le Fils et le Saint-Esprit. Par-dessus tous, tu as la bénédiction ; tu as adoucis (mon) cœur ; tu as (favorisé ? ) le maître chanteur de l'église ; tu (l') as sanctifié avec ton produit. Rassemble tes petits, rassemble-les, et parcours les fleurs des montagnes, les (fleurs) aux mille douceurs, aux mille fruits que Dieu connaît, mais que l'homme ne connaît point. Je t'adjure (de chasser) la guêpe sauvage, et l'insecte venimeux, et le corbeau, et les serpents, et l'araignée, et la fourmi ; que rien de ce qui nuit à l'abeille n'ait la permission de s'approcher des abeilles du serviteur de Dieu N ... ; au nom du Père et du Fils et du St-Esprit.
+
+2\. Fais une croix et écris cette prière sur la croix, ou sur un bâton (quelconque) et place-la au milieu de la ruche.
+
+3\. Sur un moyen à employer pour endormir un homme : Écris sur une feuille de laurier : C'est à Bethléem en Judée que le Christ est né. Repose-toi. Saint Eugène, donne le sommeil au serviteur de Dieu N.
+
+4\. Sur un moyen à employer pour que l'on ne s'endorme pas* : Fais cuire les testicules d'un lièvre dans du bon vin ; qu'on le boive et on ne s'endormira pas.
+
+*) Ceci rappelle les recettes attribuées à Démocrite, dans Pline et dans les _Geoponica_.
+
+---
+
+#### 5. --- 27. Fabrication de l'Argent.*
+
+*) Écriture du 15e siècle. Ce morceau a été ajouté après coup dans le ms. M. Sa date est indéterminée ; mais certaines expressions semblent assez modernes.
+
+Prends une partie de plomb, dix parties d'étain, fonds au creuset ; broie avec du vinaigre et du sel, de façon à blanchir le métal. Mets ensuite dans un creuset ( ? ) et nettoie trois fois avec de l'huile. Puis, sur cinq parties de cet alliage, projette une partie d'argent ; après mélange, fais fondre au feu. Ensuite, fondant cinq parties d'étain, ajoutes-y une partie de la composition précédente et tu verras l'argent en nature.
+
+**Autre procédé.** --- Prenant du mercure occidental et du mercure oriental, à parties égales ; broie et mets dans un vase de verre ; fais cuire sept fois. Le produit sublimé est pareil au cristal. Ensuite broie-le avec du blanc d'œuf ; fais cuire de nouveau, et le produit sublimé sera pareil au cristal. Prends-le, suspends-le dans le vase du vinaigre, ainsi qu'il a été dit plus haut ; fais descendre l'eau ; mets-y les blancs (d'œufs ? ) ; enterre le vase de verre, suivant la méthode philosophique, dans de la fiente (de cheval), pendant 40 jours, jusqu'à ce que tout se liquéfie. Ce procédé est dû à Salomon le Juif, et tiré des temples du soleil.
+
+---
+
+#### 5. --- 28. Sur l'Orichalque.*
+
+*) Cp. p. 321, § 55, une recette pareille et plus développée.
+
+1\. Prenant de la tutie d'Alexandrie, du tartre, de la farine, de la fiente, des figues et du raisin, fais fondre le cuivre : répète l'opération plusieurs fois, avec un nouveau traitement. De cette façon le cuivre devient comme de l'or.
+
+2\. Mets du safran, du curcuma, du miel et d'autres (substances) couleur de citron, à ton idée ; des jaunes d'œufs et de la bile de bœuf roux desséchée.
+
+---
+
+#### 5. --- 29. Sur le Soufre Incombustible.
+
+Prenant du soufre apyre, délaie dans de l'urine d'impubère ; ensuite prenant de la saumure en quantité égale, fais bouillir jusqu'à ce que (le soufre) flotte à la surface, et (alors) il devient incombustible.* Éprouve-le, en l'enlevant et l'examinant, jusqu'à ce qu'il devienne incombustible, c'est-à-dire jusqu'à ce que tu voies qu'il ne brûle plus. Prends la même eau (du soufre) incombustible ; jette-(la) sur de la fleur de sel, délaie, en agissant comme avec le soufre incombustible. Tel est le divin mystère.
+
+*) Cette recette a un sens précis, si l'on entend par le mot soufre, la pyrite ou tout autre sulfure métallique, conformément au § 6 du traité de Démocrite, p. 47.
+
+D'autres délaient du plomb avec le soufre, en même temps que la fleur de sel, et ils préparent (ainsi) le divin mystère.
+
+---
+
+#### 5. --- 30. Blanchiment de l'Eau au moyen de laquelle est blanchi, pendant qu'on le Traite, l'Arsenic, ainsi que la Sandaraque.
+
+Lorsque le cuivre brûlé est associé avec une partie d'alun lamelleux et une partie de gomme blanche, dissous la gomme dans l'eau ; lorsqu'elle est dissoute, on obtient un liquide de consistance visqueuse. Mets l'alun dans un vase et verses-y l'eau de gomme ; fais cuire jusqu'à dessiccation et garde. Le produit est délayé avec l'arsenic, la sandaraque et le cuivre ; puis on opère la coction.
+
+---
+
+#### 5. --- 31. Sur le Blanchiment de l'Arsenic Lamelleux.*
+
+*) Ce procédé paraît le même que celui d'Olympiodore, p. 82.
+
+Prenant de l'arsenic, délaie avec une égale quantité de vinaigre. Après avoir repris, place au-dessus d'une kérotakis, en superposant une coupe à une (autre) coupe. Après avoir luté tout autour à la partie supérieure, fais un feu léger par-dessous, jusqu'à ce que tu voies la coupe devenir tiède. Après avoir enlevé la vapeur sublimée, amène-la avec de l'eau en consistance cireuse, et lute la coupe après addition de vinaigre. Laisse le soufre jusqu'à ce que le produit soit blanchi, et fais cuire dans la cendre chaude, ainsi qu'il a été exposé plus haut ; puis garde.
+
+Prenant de la sandaraque, délaie avec du vinaigre. Dispose dans deux boîtes, mets au four et après avoir enlevé la vapeur sublimée, garde l'arsenic et la sandaraque. La magnésie devient blanche comme de la neige, et ensuite elle est jaunie.
+
+---
+
+#### 5. --- 32. Dorure du Fer.*
+
+*) Recette moderne.
+
+1\. Prenant du mordant, 1 demi-once ; du sel gemme, 1 demi-once ; du tartre, 2 onces ; du vitriol romain, 1 demi-once ; de l'alun, 1 demi-once ; du vert-de-gris ( ? ), 2 ou 3 hexages ; du poivre, 1 demi-once ; du sel commun, 1 once ; broie bien tout cela très menu, séparément, puis ensemble, et agite. Mets le mélange dans un vase étamé neuf, en ajoutant la valeur de deux brocs ( ? ) d'eau, fais cuire jusqu'à réduction de l'eau à son tiers, et, après avoir fermé, tiens en garde.
+
+2\. Alors tu vernis le fer, tu le teins en rouge et tu le dessèches bien. Ensuite tu l'histories et tu écris dessus ce que tu veux faire, par-dessus le vernis, avec un poinçon ( ? ) en fer. Prends une préparation blanche, c'est-à-dire du sublimé, et broie-la très fin. Alors, mets (l'objet ? ) dans un vase ; mets-y aussi de l'urine humaine et agite bien. Puis, enduis les lettres avec une plume, de façon à les obtenir écrites sur le fer ; puis fais rougir au feu pour dessécher. Enduis de nouveau et dessèche pendant trois bonnes heures ; et lorsque tu verras que la liqueur a attaqué et creusé le fer, fais blanchir très fortement, afin d'expulser tout à fait la préparation et l'urine en dehors des lettres. Il faut essuyer avec un mouchoir blanc et propre, afin qu'il n'y ait pas de crasse, et faire attention à ce que les lettres ne se salissent pas.
+
+3\. Procure-toi de l'or, provenant de ducats vénitiens et bats-le sur l'enclume avec le marteau, de façon à ce qu'il devienne mince comme une feuille de rose. Ensuite coupe-le en petites parcelles et garde-les.
+
+Ensuite, filtre du mercure avec (une peau de) chamois serrée ; (fais cela) une et deux fois, pour ôter la crasse. Alors, mets le creuset sur le fourneau d'un orfèvre, afin de le faire rougir. Puis, retire-le du feu ; mets l'or dans le creuset, et remue souvent le creuset ; l'or est dissous et s'unit avec le mercure ; et alors, verse dans une coquille de spondyle.
+
+---
 
 ## Sixième Partie.
 
