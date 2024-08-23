@@ -170,6 +170,8 @@
 
 #### [6. --- 1. Le Chrétien sur la Constitution de l'Or.]()
 
+#### [#### 6. --- 2. Le Chrétien, sur l'Eau Divine quelles sont les Espèces de l'Eau Divine en Général ? --- Quelle est (l'Explication) relativement au Calcaire ? --- Quelles sont les Dénominations de ces (Matières) ?]()
+
 ...
 
 ---
@@ -10200,7 +10202,7 @@ On y a joint au Chrétien et à l'Anonyme plusieurs morceaux constituant des com
 
 *) Premier chapitre dans E, Lb. --- A la marge de A, on lit : « Jacques, l'inspiré de Dieu : tu le trouveras (cité) au milieu de ce discours. » Puis : « il faut savoir que Job a passé sept ans et demi dans son affliction » (voir plus loin).
 
-1. « Après avoir discouru tout à l'heure dans le second traité et avoir développé les procédés concernant les pierres, j'ai exposé dans le troisième traité ce qui convenait au sujet ; c'est-à-dire que les sulfureux sont dominés par les sulfureux et les liquides par les liquides correspondants.* » Tel est le préambule* que le savant d'Abdère a placé dans son quatrième traité, voulant montrer par là qu'il y a identité entre le liquide opposé au liquide correspondant et l'élément sulfureux ; c'est-à-dire que le point capital du traitement, c'est que « les sulfureux sont dominés par les sulfureux et les liquides par les liquides correspondants. En effet la nature jouit de la nature ; et de même, la nature triomphe de la nature, et la nature domine la nature. » Il l'a dit lui-même, ainsi que son maître Ostanès.*
+1\. « Après avoir discouru tout à l'heure dans le second traité et avoir développé les procédés concernant les pierres, j'ai exposé dans le troisième traité ce qui convenait au sujet ; c'est-à-dire que les sulfureux sont dominés par les sulfureux et les liquides par les liquides correspondants.* » Tel est le préambule* que le savant d'Abdère a placé dans son quatrième traité, voulant montrer par là qu'il y a identité entre le liquide opposé au liquide correspondant et l'élément sulfureux ; c'est-à-dire que le point capital du traitement, c'est que « les sulfureux sont dominés par les sulfureux et les liquides par les liquides correspondants. En effet la nature jouit de la nature ; et de même, la nature triomphe de la nature, et la nature domine la nature. » Il l'a dit lui-même, ainsi que son maître Ostanès.*
 
 *) Cp. p. 20, 145, 183.
 
