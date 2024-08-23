@@ -10136,4 +10136,136 @@ Ensuite, filtre du mercure avec (une peau de) chamois serrée ; (fais cela) une 
 
 ### Commentateurs.
 
+#### Note Préliminaire.
+
+Les traités des Alchimistes gréco-égyptiens ont été réunis en collection par Zosime d'abord, au 3e siècle de notre ère, puis vers le 7e siècle au temps d'Héraclius, ainsi qu'il a été exposé dans notre _Introduction_ (p. 200 à 203). Ils sont devenus aussitôt l'objet de commentaires multipliés, écrits par des praticiens d'une part, et d'autre part, par des philosophes mystiques. En ce qui touche les développements pratiques donnés à l'antique doctrine, nous rappellerons qu'ils ont été, depuis le temps de Zosime jusqu'au 14e siècle, et sur quelques points jusqu'à la fin du moyen âge, consignés dans des traités et dans des mémoires, dont nos cinq premières parties renferment les débris. Parmi les commentaires mystiques, les plus anciens, d'une portée philosophique incontestable, ont été conservés dans les ouvrages de Synésius et d'Olympiodore. Puis sont venus des glossateurs byzantins, étrangers à l'œuvre expérimentale, qui ont disserté sur les vieux traités, avec une subtilité scolastique mêlée d'exaltation. C'est à cet ordre de compositions qu'appartiennent les livres de Stephanus, du Philosophe Chrétien, et du Philosophe Anonyme. Stephanus est un personnage connu,* à la fois philosophe, médecin, astrologue et alchimiste, contemporain et conseiller de l'empereur Héraclius (vers l'an 620). Ses ouvrages alchimiques, rédigés dans un langage mystique et enthousiaste, n'ont pas un grand intérêt scientifique ; le texte grec en a été publié par Ideler dans ses _Physici et medici græci minores_ (2 vol. in-8, Berlin 1841-1842, p. 199 à 237) d'après une copie de Dietz, faite sur un manuscrit de Munich, et collationnée, paraît-il, sur le vieux manuscrit de Venise, dont le manuscrit de Munich d'ailleurs est lui-même une copie directe ou indirecte.* Cette publication laisse fort à désirer, l'éditeur ayant transcrit les signes alchimiques purement et simplement, sans les comprendre, avec plus d'une erreur, et n'ayant donné aucune variante. Cependant elle permet de prendre une connaissance suffisante de l'œuvre de Stephanus ; surtout si on la complète par la lecture de la traduction latine de cet auteur, publiée en 1573 à Padoue, par Pizimentius, dans l'ouvrage qui porte le titre suivant : _Democriti de Arte magnâ_. Dans ces conditions, il ne nous a pas paru indispensable de faire une nouvelle édition de Stephanus, notre publication étant consacrée essentiellement aux œuvres originales et inédites.
+
+*) _Origines de l'Alchimie_, p. 199.
+
+*) Voir _Introduction_, p. 198.
+
+Il en est autrement des ouvrages du Philosophe Chrétien et du Philosophe Anonyme, inédits jusqu'à ce jour. Ce sont des compilations, avec commentaires, faites d'après les vieux auteurs. L'étendue initiale de ces compilations n'est pas exactement connue, attendu que les copistes y ont rattaché successivement des morceaux qui n'en faisaient pas partie à l'origine, ainsi qu'il sera expliqué plus loin. Certaines confusions se sont même produites entre les deux compilations. Enfin, sous le nom de l'Anonyme, il semble que plusieurs auteurs différents aient été groupés. La date initiale du Chrétien et celle de l'Anonyme seraient déterminées, si l'on pouvait s'en rapporter aux indications du manuscrit du Vatican.* En effet, le traité de l'Anonyme* qui débute par les mots Τὸ ὠὸν τετραμερὲς ... est dédié dans ce manuscrit à Théodose le grand Empereur : sans doute Théodose 2, auquel Héliodore a aussi dédié son poème alchimique.
+
+*) _Introd._, p. 191. --- Rapport de M. André Berthelot dans les _Archives des missions scientifiques_, 3e série, t. 13 (1887).
+
+*) C'est le traité auquel nous avons donné le titre : « Musique et Chimie, » 6, 15 ; voir aussi 3, 44.
+
+Mais les chapitres sur les Soufres, sur les Mesures et sur la Teinture unique (3. 21, 22 et 18), que nous avons publiés dans les œuvres de Zosime, et qui font partie de la compilation du Chrétien dans les manuscrits, sont aussi dédiés au grand Empereur Théodose dans le manuscrit du Vatican. Dans le premier de ces chapitres, les deux premières lignes (Texte, p. 174, l. 11 et 12) sont supprimées, et l'auteur débute par ces mots : Ἰστέον, ὧ κράτιστε Βασιλεῦ, puis il continue par : ὅτι οὐ μόνον ὁ φιλόσοφος, etc., comme à la ligne 13, jusqu'à la dernière ligne du chapitre. Cette suppression et cette interpolation sont suspectes, et il est permis de supposer que le nom de Théodose a été ajouté après coup, comme il est arrivé trop souvent dans ce genre de littérature. Parmi les autres chapitres de ces mêmes compilations, ceux qui ne sont pas transcrits d'après les vieux auteurs roulent sur des subtilités d'une assez basse époque, et ils sont assurément plus modernes que Synésius et Olympiodore, contemporains effectifs de Théodose.
+
+On trouve dans l'œuvre du Chrétien, telle qu'elle est transcrite dans le manuscrit de St-Marc, une autre mention qui paraît plus moderne et plus authentique, car elle ne s'en réfère pas au nom d'un empereur : c'est la dédicace à Sergius du traité sur l'Eau divine : il s'agit probablement de Sergius Resaïnensis, traducteur syriaque des Philosophes grecs, qui a vécu à la fin du 6e siècle.* Était-il vraiment contemporain du Philosophe Chrétien ? On pourrait en douter à la rigueur, si l'on s'attachait à la citation du nom de Stephanus,* reproduit dans l'un des chapitres du Chrétien : « Sur l'exposé détaillé de l'œuvre ; » chapitre que nous avons publié dans les œuvres de Zosime (3, 16), en raison des indications qui y sont contenues et parce qu'il renferme des fragments extraits de Démocrite. Mais tous ces textes ont été tellement interpolés par les copistes que l'on ne doit pas attacher une signification trop absolue à de semblables citations, ajoutées souvent après coup. En fait, je serais porté à regarder cette citation de Sergius comme la seule tout à fait authentique, et par conséquent à fixer la date du Chrétien à l'époque de cet écrivain, c'est-à-dire un peu avant Stephanus. On serait également reporté vers une époque qui ne peut guère être abaissée au delà du 5e ou 6e siècle, par les opinions relatives à la nécessité de la grâce divine, opinions exposées dans le morceau 6, 1, sur la Constitution de l'or (p. 385).
+
+*) _Origines de l'Alchimie_, p. 205.
+
+*) Zosime, p. 162.
+
+Quant au Philosophe Anonyme, il cite aussi Stephanus, non en passant, mais dans un développement historique relatif aux autorités alchimiques (6, 14), et je pense dès lors qu'il doit être regardé comme postérieur. Mais il pourrait être contemporain avec les auteurs pseudonymes des Traités perdus, attribués à Héraclius et à Justinien.* L'attribution de certains chapitres à l'Anonyme offre d'ailleurs diverses confusions, qui semblent indiquer plusieurs écrivains.
+
+*) _Introd._, p. 176, 214 ; _Trad._, p. 368.
+
+Entrons maintenant dans des détails plus circonstanciés sur la compilation du Chrétien. La forme la plus moderne et la plus parfaite sous laquelle nous possédions cette compilation est celle qui existe dans le manuscrit Lb (2251 de Paris), copié vers le milieu du 17e siècle ; en vue, ce semble d'une publication qui n'a pas eu lieu. Le copiste a pris comme base le manuscrit E (2329 de Paris), un peu plus ancien, qu'il a d'abord complété par des additions marginales ; il a fait subir ensuite aux textes des remaniements considérables, qui le plus souvent ne sont pas des améliorations ; enfin il a complété la compilation du Chrétien, en y intercalant des morceaux qui n'en font pas partie avec pleine certitude dans les autres manuscrits (sauf E).
+
+Nous allons, pour préciser la discussion, donner un tableau comprenant les 53 chapitres attribués au Chrétien dans le manuscrit L et ceux qui lui sont attribués dans le manuscrit E ; avec l'indication des feuillets de M (manuscrit de St-Marc, 11e siècle), de B (2325 de Paris, 13e siècle), et de A (2327 de Paris, 15e siècle), où se trouvent certains de ces chapitres ; celle des feuillets du manuscrit du Vatican, qui en renferment quelques-uns ; les numéros correspondants de la vieille liste du manuscrit de St-Marc* ; enfin les numéros de notre propre publication, où ces divers chapitres sont imprimés. Cela fait, nous examinerons de plus près la composition même de la compilation.
+
+*) _Introd._, p. 175.
+
+**Tableau des Chapitres du Philosophe Chrétien.**
+
+[TABLE]
+
+*) Traité coupé en deux par le relieur (_Introd._, p. 184).
+
+Si l'on examine cette liste de chapitres, on reconnaît aisément qu'elle se décompose en plusieurs groupes, qui étaient séparés dans les plus anciens manuscrits et attribués à des auteurs différents. Tels sont d'abord les chapitres 2, 3, 4 et 5, jusqu'à 13, lesquels paraissent répondre à nos numéros **31** et **32** de la vieille liste de St-Marc (_Introd._, p. 175), désignés sous le nom de chapitres d'Agathodémon, Hermès, Zosime, Nilus, Africanus ; tandis que les chapitres véritables du Chrétien y figurent sous nos numéros **33**, **47** et **48** : le numéro **33** répond au chap. 48 sur l'eau divine ; le numéro **47** représente le chapitre 5 (Constitution de l'or), qui est un traité spécial ; enfin le n° **48**, comprenant 30 chapitres sur la Chrysopée, d'après la vieille liste, répond sensiblement au groupe des 34 chapitres de Lb, compris depuis le ch. 14, jusqu'au chapitre 47 ; surtout si l'on en défalque l'écrit authentique de Zosime (ch. 23), qui manque dans M ; ainsi que les Mœurs du Philosophe et le Serment (ch. 28), qui appartiennent à un autre ordre d'idées. Les chapitres 49, 50, 51 ont le caractère d'extraits anciens, analogues aux ch. 2 à 13. Quant aux ch. 52 et 53 (Pierre philosophale), c'est une addition postérieure, manquant dans M et dans B.
+
+Nous aurions donc un premier ensemble de la compilation du Chrétien, comprenant les chapitres 14 à 47 de Lb, et représenté dans la vieille liste de St-Marc par le n° **48**. Plus tard, dans le type qui a servi au copiste du manuscrit actuel de St-Marc, on aurait ajouté les chapitres d'extraits que nous comprenons sous les n°s **31** et **32**, c'est-à-dire les chapitres 2 à 13 : la Constitution de l'or (ch. 1) répondant au numéro **47**, paraît avoir été toujours à part, de même que le chapitre 48, répondant au n° **33** sur l'eau divine. --- Les n°s **31** et **32** semblent, je le répète, ainsi que les chap. 49, 50, 51, représenter un groupe d'extraits plus anciens, qui sera venu se confondre avec la compilation du Chrétien. En tout cas, les chap. 52 et 53 ne faisaient pas encore partie de la collection copiée dans le manuscrit de St-Marc (11e siècle), ni même dans le manuscrit B (13e siècle) ; mais ils y sont entrés dans le type qui servit au copiste du manuscrit A.
+
+Dans le manuscrit du Vatican, il manque la majeure partie des chapitres du Chrétien ; deux groupes d'articles seulement s'y trouvent : l'un va du ch. 36 au ch. 51 ; l'autre, du ch. 24 au ch. 27. Ce dernier groupe offre un caractère spécial, sur lequel nous allons revenir. Mais il est difficile de tirer des inductions trop absolues de ces lacunes.
+
+Indiquons maintenant la nature des sujets traités et expliquons comment nous avons été conduit à démembrer la compilation du Chrétien, pour en reporter un certain nombre de morceaux dans les parties précédentes. Ce démembrement était tout indiqué par notre plan, dans lequel je m'efforçais de reconstituer les textes avec leur caractère le plus ancien. Or la compilation du Chrétien a été faite à l'origine en vertu du système général suivi per les Byzantins, du 8e au 10e siècle, période pendant laquelle ils ont tiré des anciens auteurs qu'ils avaient en main des extraits et résumés, tels que ceux de Photius et de Constantin Porphyrogénète. Ce procédé nous a conservé une multitude de débris de vieux textes ; mais il a concouru à nous faire perdre les ouvrages originaux. Un semblable résultat a été particulièrement regrettable en ce qui touche les ouvrages scientifiques, que leurs abréviateurs comprenaient mal, négligeant la partie technique pour s'attacher aux morceaux mystiques et déclamatoires. Quoi qu'il en soit, les livres originaux n'existent plus et le problème est de les reconstituer autant que possible, à l'aide des fragments conservés par les abréviateurs. C'est le travail qui a été fait pour les historiens antiques et c'est celui que j'ai essayé d'exécuter pour les alchimistes.
+
+Voilà comment j'ai restitué à Zosime et aux vieux auteurs les fragments, souvent altérés et modifiés par des commentaires ultérieurs, qui se retrouvent dans les compilations du Chrétien et de l'Anonyme ; les chapitres 29 à 53 de Lb notamment, ont ainsi passé dans la 3e partie de la présente publication ; les chapitres 28 et 28 _bis_ de Lb, qui ont une physionomie spéciale, ont été reportés dans la partie 1. Les chapitres 2 à 13, que j'ai signalés plus haut comme extraits de vieux auteurs, d'après l'ancienne liste de St-Marc, sont rentrés dans la 4e partie. Les chapitres 24 à 27, qui se distinguent tout-à-fait par leur caractère technique, ont été maintenus dans la 5e partie.
+
+Il ne faut pas se dissimuler que cette répartition prête un peu à l'arbitraire. Cependant elle me semble préférable au système qui consisterait à conserver en bloc ces compilations. Le tableau ci-dessus constate d'ailleurs l'état exact de celle du Chrétien dans les manuscrits, indépendamment de toute hypothèse.
+
+Ce travail d'élimination terminé, il est resté encore un nombre considérable de morceaux, se rattachant plutôt à la classification générale de la compilation qu'à des sujets scientifiques déterminés ; c'est ce résidu qui constitue les chapitres du Chrétien dans les manuscrits, transcrits dans la 6e partie.
+
+On y a joint au Chrétien et à l'Anonyme plusieurs morceaux constituant des compilations analogues et plus récentes encore, telles que celles de Cosmas et de Blemmidès ; la dernière remonte seulement au 13e ou 14e siècle. Quelques débris du même ordre, formés par un assemblage de vieilles citations, la plupart de seconde ou troisième main, et désignés dans les manuscrits sous le titre générique de « Pierre philosophale » ont été compris également dans cette 6e partie : observons à cet égard qu'un chapitre semblable figure déjà dans les œuvres dites de Zosime (3, 29) ; nous en donnerons ici quelques autres, de façon à compléter la publication des textes de nos manuscrits.
+
+---
+
+#### 6. --- 1. Le Chrétien sur la Constitution de l'Or.*
+
+*) Premier chapitre dans E, Lb. --- A la marge de A, on lit : « Jacques, l'inspiré de Dieu : tu le trouveras (cité) au milieu de ce discours. » Puis : « il faut savoir que Job a passé sept ans et demi dans son affliction » (voir plus loin).
+
+1. « Après avoir discouru tout à l'heure dans le second traité et avoir développé les procédés concernant les pierres, j'ai exposé dans le troisième traité ce qui convenait au sujet ; c'est-à-dire que les sulfureux sont dominés par les sulfureux et les liquides par les liquides correspondants.* » Tel est le préambule* que le savant d'Abdère a placé dans son quatrième traité, voulant montrer par là qu'il y a identité entre le liquide opposé au liquide correspondant et l'élément sulfureux ; c'est-à-dire que le point capital du traitement, c'est que « les sulfureux sont dominés par les sulfureux et les liquides par les liquides correspondants. En effet la nature jouit de la nature ; et de même, la nature triomphe de la nature, et la nature domine la nature. » Il l'a dit lui-même, ainsi que son maître Ostanès.*
+
+*) Cp. p. 20, 145, 183.
+
+*) Ce qui précède est tiré de l'un des quatre livres attribués à Démocrite, sur l'or, l'argent, les pierres et la pourpre. Dans les _Physica et mystica_ nous possédons des fragments des deux premiers livres. --- Cp. _Origines de l'Alchimie_, p. 77.
+
+*) Cp. p. 45.
+
+2\. Pour notre part, suivant leurs traditions, c'est avec ce même préambule que nous avons composé notre traité de l'or et de l'argent, sans nous écarter des quatre livres de Démocrite, ni de l'ensemble des livres relatifs à l'œuvre : ce qui ne serait pas possible. Nous placerons au milieu de notre démonstration la chose capitale.* De même que le centre du cercle détermine les rayons égaux menés vers la circonférence ; de même aussi la source intarissable coulant au milieu du Paradis fournit à tous une onde potable et féconde ; de même encore le soleil de midi,* étant au zénith de l'un des quatre centres (célestes), illumine sans ombre tout l'hémisphère supraterrestre. Il en est de même de la lune,* éclairant la terre du haut du ciel, et faisant disparaître la tristesse de la nuit par la pleine lumière de son disque empruntée à la lumière du soleil.* En effet, sans les liquides du Philosophe,* il est impossible d'accomplir aucune des choses que l'on désire.
+
+*) C'est-à-dire que l'œuvre de tout le Traité consiste dans les sulfureux et dans les liquides. » Addition en marge de E, introduite dans le texte de Lb.
+
+*) Le texte de MB porte ici le signe de la chrysocolle, assimilée au soleil et corrigée dans ce sens par E.
+
+*) Signe de la lune et de l'argent) M ; signe du mercure BAKE.
+
+*) Commentaire de E, introduit dans le texte par Lb : « Ces mots, les sulfureux sont dominés par les sulfureux et les liquides, etc., sont le centre, la source, la lumière de tout l'art. »
+
+*) Il s'agit de l'Eau divine ou eau de soufre, dont le nom comprend à la fois les « sulfureux » et les « liquides. »
+
+3\. Nous nous souviendrons à l'occasion du discours relatif à sa première classe ; puis, nous conformant à ses conceptions, nous dirons ce que nous avons pu (faire). « Prenant, dit-il, du mercure, fixe-le avec le corps métallique de la magnésie, ou avec le corps métallique de l'antimoine d'Italie, ou avec du soufre apyre, ou avec de la pierre calcaire cuite, ou avec de l'alun de Milo, ou comme tu l'entendras.* » Le divin Zosime, interprétant ces choses, entend par le mercure, l'eau divine* déposée dans les bocaux. Quant au corps de la magnésie,* il l'a appelé dans son livre de l'Action la composition blanche traitée par l'antimoine d'Italie, la chaux, l'alun de Milo et le reste ; tels que je les comprends, ajoute-t-il, c'est-à-dire « traités par l'eau divine. » Il a résumé par là toute la classe ; et de cette façon il a montré des le début la fin de l'art. Nous lui demanderons : Pourquoi cette explication ? Parle, maître ; dans quel but, alors que le Philosophe a dit dans sa première classe : « Prenant du mercure, fixe-(le) avec le corps de la magnésie ; » veux-tu dire, toi, qu'il a montré par son explication la fin de l'art ?
+
+*) Cp. p. 46.
+
+*) Cp., p. 86, les sens multiples des mots : « Eau divine. » --- Voir aussi p. 173.
+
+*) Cp. p. 186.
+
+4\. Pourquoi donc tant de livres et d'invocations au démon* ? Pourquoi tant de constructions de fourneaux et d'appareils ont-elles été décrites par les anciens, du moment que toutes choses sont, comme tu le dis, faciles à entendre et résumées par là ? C'est souvent, dit-il, ô disciple qui suis les ouvrages de (l'école de) Démocrite, afin d'exercer ton esprit ; car si l'intelligence possède en elle-même la voie directrice, cependant elle ne connaît toutes choses que par un secours extérieur, et non d'après sa propre nature. En effet, l'homme n'est pas naturellement un dieu,* mais il est l'image du Dieu qui a dit à son Fils et au Saint-Esprit : faisons l'homme à notre image et ressemblance. « Que possèdes-tu que tu n'aies reçu ? dit le hérault de la piété, l'apôtre Paul.* Lorsque tu as reçu, pourquoi te vantes-tu comme si tu n'avais pas reçu ? » Jacques, l'inspiré de Dieu,* disait : « Tout bon présent et toute donation parfaite viennent d'en haut ; ils descendent du Père des lumières. » De même lui aussi, le Dieu de l'univers, notre maître et docteur Jésus Christ, nous instruisant, dit* : « Vous ne pouvez rien recevoir de vous-mêmes, à moins que cela ne vous soit donné par le Père qui est aux cieux. » Nous devons donc demander à Dieu, chercher et frapper (à la porte), afin que nous recevions. En effet : « demandez, dit l'oracle divin,* et vous recevrez ; cherchez et vous trouverez ; frappez et il vous sera ouvert : car celui qui demande recevra, et celui qui cherche trouvera ; à celui qui frappe, il sera ouvert. » Mais il faut que chacun, se gouvernant lui-même et par sa propre initiative, considère avec un cœur simple quel doit être l'objet de sa requête ; de peur que, faisant une demande téméraire et vaine, il ne réussisse pas. Car l'oracle divin a dit : « si notre demande n'est pas faite avec un cœur simple, nous prenons une attitude téméraire vis-à-vis de Dieu. » Il dit encore : « vous demandez et vous ne recevez pas, parce que vous faites une mauvaise demande, et que vous proposez de dépenser les choses (demandées) dans les plaisirs,* ô femmes adultères. » C'est donc avec une conscience pure, suivant une pratique et un mode purs, qu'il convient d'implorer Dieu.*
+
+*) D'après M ; c'est-à-dire au (bon) Génie, « Agathodémon » (voir p. 87). C'était là sans doute le texte initial, qui répond à divers passages (p. 99, etc.) ; mais le mot Démon ayant été entendu par la suite dans un sens fâcheux, les autres mss. BAKE Lb. y ont substitué « invocations à Dieu. » On voit encore par là la nécessité des formules magiques pour la transmutation, formules qui ont à peu près disparu des manuscrits. --- Cp. _Origines de l'Alchimie_, p. 6, 15, 17, 20, etc., et _Introduction_, p. 8, 13, 153, 207.
+
+*) C'est-à-dire ne possède pas par nature la connaissance universelle et divine. --- Ce qui suit concerne plutôt la doctrine de la grâce divine, sans le don de laquelle l'homme ne peut rien.
+
+*) Cor. 4, 7.
+
+*) Épitre 1, 17.
+
+*) Jean, 3, 27.
+
+*) Matth., 7, 7, 8. Luc. 11, 9, 10.
+
+*) « Dans les adultères » BAE. --- Jacques, 4, 3.
+
+*) Le sens mystique de la recherche de la grâce se confond ici avec le sens alchimique de la recherche de l'or, comme il arrive fréquemment chez nos auteurs.
+
+5\. Le philosophe Zosime disant ces choses,* et nous donnant ces bons conseils, attachons-nous à la question (de savoir) ce qu'est le mercure, et le corps de la magnésie ; car toutes les autres choses sont comprises dans le corps de la magnésie ... [Il ne faut pas adopter ici la conjonction _ou_ à la place de La conjonction disjonctive _et_*]. Il faut savoir s'il s'agit de 3, ou 5 et 7 (jours), pour la durée totale de la macération correspondant à 15 jours ... D'après le (dire) de Démocrite, rapporté par le divin Zosime dans son discours sur les eaux divines : « les deux soufres sont une seule composition.* »
+
+*) Cp. p. 92 et 235.
+
+*) Glose intercalée dans le texte ; elle s'applique à la phrase suivante, car 15 est la somme des nombres 3, 5 et 7 (voir p. 174). La phrase qui vient après semble également indépendante de celle qui la précède.
+
+*) Cp. p. 162 note 1, et p. 157.
+
+6\. Les mercures et les corps étant au nombre de deux, incontestablement la composition blanche et l'eau de soufre sont la même chose ; c'est là aussi l'opinion de Démocrite. Ainsi, le soufre mélangé avec le soufre rend les substances sulfureuses,* à cause de leur grande affinité réciproque. Mais si elles possèdent une grande affinité réciproque, il est évident qu'elles sont de la même nature que lui ; et si elles sont de la même nature, il est bien évident qu'elles sont les parties du même Tout, c'est-à-dire d'une seule composition. Ainsi donc, il faut chercher l'unité dont les parties seraient les deux soufres, ou les liquides sulfureux, ou toute espèce de liquides correspondants.
+
+*) Cp. p. 167, 173, 174.
+
+---
+
+#### 6. --- 2. Le Chrétien, sur l'Eau Divine quelles sont les Espèces de l'Eau Divine en Général ? --- Quelle est (l'Explication) relativement au Calcaire ? --- Quelles sont les Dénominations de ces (Matières) ?
+
+L'explication relative à l'eau divine a été donnée par plusieurs, excellent Sergius* ; mais beaucoup ont peine à l'entendre, parce qu'ils sont incrédules et timorés. Tous les écrivains sur l'art regardent cette eau comme divine, d'après le double sens de son nom* ; ils y ajoutent des désignations remarquables, la nommant tantôt eau native, tantôt eau tirée de la chaux. Chacune de ces (dénominations) s'appliquait à l'eau jaune, à l'eau noire, à l'eau blanche ; suivant les sens différents adoptés par les auteurs. En effet, dans les catalogues des espèces, quelques-uns ont exposé clairement les agents fixateurs, en traitant avec mesure les matières qui ne se fixent pas ; d'autres au contraire, parlant par énigmes des agents fixateurs, ont mentionné avec plus de détail les matières fugaces. D'autres encore, en mentionnant toutes les matières, les ont décrites en employant d'autres espèces et d'autres traitements, sans être retenus par la jalousie et avec bonne volonté.
+
+*) Sergius Resaïnensis, de Syrie, 6e siècle. --- _Orig. de l'Alchimie_, p. 205.
+
+*) θεῖον veut dire divin et soufre. Cp. p. 174.
+
+---
+
+#### 6. --- 3. Désaccord des Anciens.
+
 ...
