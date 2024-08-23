@@ -166,6 +166,10 @@
 
 ### [Commentateurs.](#commentateurs-2)
 
+#### [Note Préliminaire.](#note-préliminaire-1)
+
+#### [6. --- 1. Le Chrétien sur la Constitution de l'Or.]()
+
 ...
 
 ---
