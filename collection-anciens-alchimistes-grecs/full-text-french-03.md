@@ -170,7 +170,7 @@
 
 #### [6. --- 1. Le Chrétien sur la Constitution de l'Or.](#6-----1-le-chrétien-sur-la-constitution-de-lor-1)
 
-#### [6. --- 2. Le Chrétien, sur l'Eau Divine quelles sont les Espèces de l'Eau Divine en Général ? --- Quelle est (l'Explication) relativement au Calcaire ? --- Quelles sont les Dénominations de ces (Matières) ?](#6-----2-le-chrétien-sur-leau-divine-quelles-sont-les-espèces-de-leau-divine-en-général------quelle-est-lexplication-relativement-au-calcaire------quelles-sont-les-dénominations-de-ces-matières-)
+#### [6. --- 2. Le Chrétien, sur l'Eau Divine quelles sont les Espèces de l'Eau Divine en Général ? --- Quelle est (l'Explication) relativement au Calcaire ? --- Quelles sont les Dénominations de ces (Matières) ?](#6-----2-le-chrétien-sur-leau-divine-quelles-sont-les-espèces-de-leau-divine-en-général------quelle-est-lexplication-relativement-au-calcaire------quelles-sont-les-dénominations-de-ces-matières--1)
 
 ...
 
