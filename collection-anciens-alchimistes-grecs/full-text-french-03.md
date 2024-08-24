@@ -172,6 +172,26 @@
 
 #### [6. --- 2. Le Chrétien, sur l'Eau Divine quelles sont les Espèces de l'Eau Divine en Général ? --- Quelle est (l'Explication) relativement au Calcaire ? --- Quelles sont les Dénominations de ces (Matières) ?](#6-----2-le-chrétien-sur-leau-divine-quelles-sont-les-espèces-de-leau-divine-en-général------quelle-est-lexplication-relativement-au-calcaire------quelles-sont-les-dénominations-de-ces-matières--1)
 
+#### [6. --- 3. Désaccord des Anciens.]()
+
+#### [6. --- 4. Quel est le Traitement de l'Eau Divine en général.]()
+
+#### [6. --- 5. Fabrication de l'Eau Mystérieuse.]()
+
+#### [6. --- 6. Le Chrétien objection sur ce que l'Eau Divine est une par l'Espèce. --- Solution.]()
+
+#### [6. --- 7. Autre Objection on veut montrer que l'Eau de l'Abîme est une quant au Nombre : Nouvelle Solution.]()
+
+#### [6. --- 8. Résumé du Chrétien quelle est la Raison d'être du présent Traité.]()
+
+#### [6. --- 9. Division de la Matière de la Division de la Matière en Quatre Parties résultent diverses Classes de Fabrication, leurs parties étant tantôt séparées, tantôt combinées entre elles.]()
+
+#### [6. --- 10. Combien y a-t-il de variétés de Fabrication en particulier et en général ?]()
+
+#### [6. --- 11. Relation entre les Divisions de la Science et les Figures Géométriques.]()
+
+#### [6. --- 12. Quelle est la Classe exposée dans les Écrits Secrets des Anciens.]()
+
 ...
 
 ---
