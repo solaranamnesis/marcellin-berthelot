@@ -10274,4 +10274,177 @@ L'explication relative à l'eau divine a été donnée par plusieurs, excellent 
 
 #### 6. --- 3. Désaccord des Anciens.
 
+1\. Ainsi ils ont agi avec bonne volonté,* de telle sorte que celui qui trouvait, ne fît pas par jalousie disparaître le livre, et que le point capital de la science ne fût pas perdu. Car cette connaissance une fois perdue, l'art tout entier est perdu en même temps, suivant le très sage Zosime.
+
+*) Cette phrase fait suite à la dernière du morceau précédent.
+
+Mais la diversité (de leurs explications) produit un grand embarras pour les lecteurs. En effet, étant donnée l'unité véritable de l'eau (divine), naturelle et générale, ainsi que l'unité de l'art, voici que les hommes trouvent qu'elle comporte une multitude de traitements. Per là ils sont égarés, étant dominés par le respect et la confiance que leur inspirent les livres. Or s'ils ne réussissent en rien, ils seront amenés nécessairement à mépriser les livres, en même temps que l'art et les maîtres. Cependant les maîtres, qui avaient enseigné à leur propre point de vue, n'étaient pas cause de l'erreur des jeunes gens ; et les jeunes gens, de leur côté, qui n'arrivaient pas au résultat, ne faisaient point acte d'injustice en attaquant les anciens ; car la Nécessité est une grande déesse, suivant le mythe des poètes.
+
+2\. Que fallait-il donc que fit Zosime, cet ami de la vérité, lui qui voulait écrire en ami des hommes ? sinon distinguer entre les exposés des anciens ; rétablir l'accord entre leurs discordances et déclarer ceci hautement, en termes précis : Dans leurs écrits ils ont tous employé des mots vulgaires pour annoncer le sens caché de la science unique ; tandis qu'ils ont composé les catalogues des espèces* en mots symboliques, distinguant, comme il leur était permis, les gens intelligents et les gens dépourvus de sens. Car l'intelligence n'est pas donnée à tout le monde, et tout le monde n'est pas capable d'entendre simplement la science ; mais la plupart s'en moquent, alors qu'on leur fait entendre la vérité.
+
+*) Cp. la nomenclature prophétique _Introd._, p. 10. --- En d'autres termes, ils désignent l'objet de la science en langage ordinaire ; mais ils emploient des mots symboliques pour les substances mises en œuvre.
+
+3\. Ainsi donc, nous aussi, guidés dans notre marche par le Panopolitain (Zosime), nous enseignerons, d'accord avec lui, ce qui touche les préceptes et la fabrication des eaux divines, ou plutôt de l'Eau divine : car il n'existe, ainsi que nous l'avons dit, qu'une seule eau générale, laquelle embrasse toute la fabrication.
+
+---
+
+#### 6. --- 4. Quel est le Traitement de l'Eau Divine en général.
+
+L'eau qui figure dans les discours secrets de la science, ceux que ne connaissent pas les Égyptiens, c'est l'eau divine qui provient des cendres: c'est là l'eau de soufre de première distillation, obtenue par la décomposition et la montée (des vapeurs), et qui devient blanche, ou jaune, ou d'une autre couleur.
+
+---
+
+#### 6. --- 5. Fabrication de l'Eau Mystérieuse.
+
+1\. L'eau blanche, ou jaune, ou d'une autre couleur ...
+
+Puis viennent 8 lignes de blanc dans M. Ensuite l'auteur expose de pures subtilités, que nous n'avons pas cru utile de traduire.
+
+2\. Zosime l'a dit avec raison : « l'Eau (divine) est une et comprend deux unités, par le concours desquelles elle est composée. » L'oracle divin s'exprime ainsi* : « Faisons un homme à notre image et ressemblance, » et l'écrivain ajoute : « il les fit mâle et femelle. » Il est impossible que, dans le nombre ou dans l'espèce, toute eau soit à la fois sulfureuse et bitumineuse, dérivée du natron, saline et potable : je parle des eaux qui se trouvent dans les (régions) sublunaires ; je parle de l'eau qui coule perpétuellement dans les fleuves et les torrents, les lacs et les mers, les fontaines, les nuées. Une, quant au genre, elle est multiple quant à l'espèce, et elle comporte des différences en nombre infini. De même ici, l'eau distillée qui provient du traitement de l'œuf, tout en étant une par le genre, diffère par l'espèce, c'est-à-dire par la (couleur) : je veux dire qu'elle peut être blanche, ou noire, ou rouge.
+
+*) Genèse, 1, 27.
+
+3\. Hermès le vendangeur ne néglige pas de rougir les espèces blanches de sa grappe.*
+
+*) Sur la vendange d'Hermès, v. p. 119, 129, note 1, et p. 139.
+
+4\. Voici ce que dit (Zosime) : De même que le nombre se développe en se multipliant, de même chacune des eaux dont j'ai parlé.
+
+5\. La cendre restée dans la coupe, après purification et lavage, est mêlée, puis partagée en deux portions. On forme aussi les deux unités composées : celle qui sera réduite en ios, et celle qui lui sera mélangée ensuite ; lesquelles concourant ensemble, lors du délaiement et de la décomposition, se fixent mutuellement au moment du mélange, et amènent le Tout à perfection.
+
+6\. C'est pourquoi il est permis de dire que, d'une part, _l'eau de l'abîme_, celle qui provient de la fiole inférieure, est soumise à l'extraction ; et que, d'autre part, les deux unités qui concourent ensemble, fournissent les deux parties de la composition, savoir : la partie non décomposée, laquelle est solide ; et la partie décomposée, laquelle est liquide ; (je parle de) celle qui est extraite de la marmite, lorsqu'on l'a fabriquée au moyen de l'appareil, après le temps marqué pour l'iosis. De là vient que la prophétesse hébraïque s'est écriée sans réticence : « Un devient deux, et deux deviennent trois, et au moyen du troisième, le quatrième accomplit l'unité ; ainsi deux ne font plus qu'un.* »
+
+*) Axiome de Marie la juive. Tout ceci paraît vouloir dire que la transmutation s'accomplit par la combinaison successive de 3 ou 4 corps métalliques, d'abord distincts, puis identifiés à la fin de l'opération.
+
+Vois comment (l'eau divine est) une quant au genre, et non quant à l'espèce, ou au nombre ; en effet, de l'unité procèdent les nombres deux et trois, qui à leur tour se contractent en unité. C'est pourquoi aussi elle ajoute encore : « l'un » (etc.), réitérant sa déclaration. Zosime la suit en disant : « En effet toutes choses procèdent de l'unité et se rangent dans l'unité. » Il a parlé d'abord de l'unité générale, il a terminé par l'unité numérique* ; il voulait indiquer ainsi la fabrication parfaite de la poudre de projection.
+
+*) Au-dessus le signe du mercure dans E ; et le mot mercure dans le texte de Lb ; ce qui signifie le mercure des philosophes, ou l'unité fondamentale de la matière métallique.
+
+---
+
+#### 6. --- 6. Le Chrétien objection sur ce que l'Eau Divine est une par l'Espèce. --- Solution.
+
+1\. Quelques-uns assurent que l'eau (divine) est une par l'espèce, faisant intervenir Démocrite qui dit : « Une espèce unique produit l'action de plusieurs, attendu que la multiplicité procède de l'unité naturelle. » Et encore : « Une espèce unique, diversement traitée, aura des actions diverses. » Nous leur répondrons que le Philosophe a eu raison d'écrire (cela) ; car son explication en cet endroit ne porte pas sur le Tout, mais à proprement parler et en réalité sur l'espèce unique. En effet les parties blanches des espèces que l'on fait monter au moyen d'un feu doux peuvent produire une eau (divine) blanche et blanchir leur propre résidu. Celui-ci, étant mis en réaction avec la cendre blanchie, et étant ensuite épuisé, devient susceptible de retenir la teinture. S'il est chauffé plus fortement, il produit une eau jaune propre au jaunissement ; et le même résidu changé en ios fixe les teintures.*
+
+*) Ici B et les autres mss répètent la phrase : « car son explication, etc. »
+
+2\. Par suite, on comprend comment Démocrite rejetait le feu violent pour l'œuvre du blanchiment, et disait : « il ne t'est pas utile pour le moment, car tu veux blanchir les corps* ... »
+
+*) Il y a là une lacune.
+
+Coloré par l'orcanette et par le fucus, séparé en deux parties et changé en ios, (ce produit) teint la pourpre qui ne passe pas, ainsi que les perles. Mais s'il demeure blanc et sans teinture et s'il a subi l'iosis, alors il amollit, il dissout et fixe à l'aide de la chrysocolle, qui forme un grand ensemble en soudant plusieurs petits objets. Si l'on y ajoute des biles de poissons et d'autres animaux, il colore les perles, quand elles ont été desséchées.* De même le sang-dragon, ou quelque autre espèce, teint les pierres et verres, les cristaux, bien débarrassés de toute substance tinctoriale, ainsi que les émeraudes, les escarboucles et les autres espèces, placées dans un double creuset posé sur un feu de charbons, où elles sont chauffées jusqu'à ce qu'elles deviennent incandescentes et que, prises de soif, elles absorbent le liquide tinctorial, placé dans la bouteille où on les immerge.
+
+*) Cp. p. 335, 340, etc. Cette citation montre que les morceaux relatifs à la teinture des pierres (5, 7) sont antérieurs au 6e siècle. Nous avons dit qu'ils remontent même bien plus haut. [Note ⋆ de la page 334]. Mais il est intéressant de les voir cités ici.
+
+3\. De même le jaune d'œuf,* selon l'intensité plus ou moins grande du feu qui chauffe les alambics, fournit une eau jaune, ou une eau blanche, et produit tous les effets dont on a parlé, avec plus de perfection et d'une manière plus durable.
+
+*) Sens symbolique.
+
+Ainsi donc, ce n'est pas sur l'eau en général que porte l'explication actuelle du Philosophe, mais sur une eau spéciale, lorsqu'il dit : « En effet l'espèce unique diversement traitée ... etc. » Zosime, louant les paroles de Démocrite, adressées aux jeunes gens, s'exprimait ainsi : « Que vous importe la matière multiple, étant donnée l'unité naturelle ; je ne parle pas de celle de l'espèce, mais de celle de l'eau ? » Cet auteur qui l'approuvait et qui voulait toujours marcher sur ses traces, comment aurait-il pu émettre des assertions contraires aux siennes, en disant : « je ne parle pas de celle de l'espèce ; » tandis que Démocrite parlait : « de l'espèce unique ? » Il est évident que Démocrite comprenait par là l'espèce en général ; tandis que Zosime exhortait les jeunes gens à s'écarter de l'espèce matérielle.
+
+---
+
+#### 6. --- 7. Autre Objection on veut montrer que l'Eau de l'Abîme est une quant au Nombre : Nouvelle Solution.
+
+1\. D'autres disent que l'eau est complexe, étant formée de deux monades composées, au même titre que sont composées les choses naturelles ou artificielles, un navire, par exemple, et une maison. De même aussi le monde est un par le nombre, tout en étant composé de plusieurs choses. Voilà pourquoi Hermès dit que la multiplicité est appelée unité. On parle ainsi pour se conformer à cette explication donnée par lui : « Un par le nombre, il a une triple signification. » En effet on appelle un par le nombre un objet continu, par exemple un madrier de 12 coudées ; il est un en acte, par la continuité des parties, et cependant multiple en puissance, attendu qu'il est divisible à l'infini. Il y a unité par le nombre, quand il y a homonymie, comme lorsqu'on dit : le chien céleste, le chien marin, le chien terrestre ; car tous trois ont une dénomination unique. Leur nom est un par le nombre. Il y a aussi (l'unité) simple et ne comportant pas l'accouplement, comme (par exemple) un esprit, une âme, un ange.
+
+2\. Ainsi l'eau très divine de l'art, celle qui est appelée « Eau de l'abîme » par le maître, est une, quant à la continuité, et cependant composée de deux monades, et non simple. Hermès ne l'ignorait pas, quand il disait que, tout en étant multiple, elle est dite une ; attendu qu'elle peut être divisée en plusieurs quant à l'espèce et quant au nombre, ainsi qu'il arrive pour l'unité de l'univers. Nous ne devons pas manquer de suivre ces opinions contraires, nous qui voulons apprendre la vérité cachée au moyen des symboles, et non au moyen des fables. En effet il n'est pas possible à la même eau d'être à la fois jaune, blanche et noire ; pas plus qu'il n'est possible au même homme d'être à la fois blanc, noir, gris ou d'une autre couleur.
+
+Le § 3 continue à développer ces subtilités.
+
+---
+
+#### 6. --- 8. Résumé du Chrétien quelle est la Raison d'être du présent Traité.
+
+L'exposé de la science divine vous a été fait à plusieurs reprises et avec développement, dans les études précédentes ; parce qu'il est difficile à la plupart des hommes de se rendre maitre de cette philosophie précieuse et excellente ; les anciens et les hommes de sens l'ont rassemblée sous une seule et même dénomination, sous laquelle il s'agit de découvrir la chose désirée.
+
+Mais les règles des anciens savants sont difficiles à entendre, parce que la vraie nature est (voilée sous des symboles) tirés des œufs d'oie et (d'autres) oiseaux domestiques.*
+
+*) Le texte correspondant à la dernière ligne (ou son équivalent) a été gratté dans le ms. de St-Marc. La même précaution a été prise dans ce manuscrit pour la plu part des passages où il est question de l'œuf philosophique : _Origines de l'Alchimie_, p. 16.
+
+---
+
+#### 6. --- 9. Division de la Matière de la Division de la Matière en Quatre Parties résultent diverses Classes de Fabrication, leurs parties étant tantôt séparées, tantôt combinées entre elles.
+
+1\. L'ornithogonie (génération de l'œuf) est divisée en quatre parties, je veux dire la coquille et l'hymen, le blanc et le jaune, et l'on a établi avec raison diverses classes, tant générales que spéciales. Dès le début, on traite séparément des liquides provenant des solides, par la fabrication des eaux au moyen des alambics. Ensuite on s'occupe de leur union dans le mortier ; puis de nouveau, de la séparation (des matières) dans les lavages, jusqu'à ce que soit dissipée, d'après Démocrite, la coloration noire de l'antimoine. Après cela, vient la distinction des parties ; c'est alors que toute la préparation est partagée en deux. Mais il ne s'agit pas de la séparation en ses composants primitifs ; car cela n'est plus possible après la combinaison formée par l'iosis emplastique et le mélange intime et réciproque.
+
+2\. Ensuite la (première) moitié de la préparation est associée avec divers liquides, dans la proportion d'une cotyle pour une once ; ce qui produit ce qu'on appelle la liqueur d'or, la liqueur d'argent, ou l'efflorescence noire. Tandis que l'autre moitié, mélangée avec les matières qui ont été broyées jusqu'au dernier degré d'atténuation, réalise le produit cherché. C'est ainsi que se manifestent les branches de l'art qui résultent de ces divisions et les parties de la matière, mises en harmonie par une loi nécessaire.
+
+---
+
+#### 6. --- 10. Combien y a-t-il de variétés de Fabrication en particulier et en général ?
+
+1\. La matière comporte quatre parties, comme nous l'avons dit. Parmi les classes, les unes comprennent toutes ces parties ; les autres, en comprennent trois, d'autres deux seulement ; d'autres (enfin) une seule. Dans le nombre, les unes embrassent ce qui se prépare avec l'eau, comme lorsqu'il s'agit du fer liquide éteint dans l'eau (trempe du fer ? ). Les autres comprennent les matières sèches : tel est le cas des (poudres) sèches médicinales. D'autres sont de nature composée, comme il arrive pour les classes des matières ramollies, telles que les emplâtres, les onguents et (généralement toutes) les couleurs employées en peinture.
+
+Les unes comprennent (encore) les espèces cuites au feu, ou passées à l'alambic, ou soumises à l'action du feu de toute autre manière, ainsi que les espèces complètement délayées sans le secours du feu, ou bien épuisées par l'action de l'eau ; ou bien celles qui se sont déposées dans des lieux froids après leur épuisement ; ou bien encore (les produits obtenus) lorsque la matière est délayée par action mutuelle, puis desséchée en la soumettant à l'action du feu, avec la chrysocolle* ; ou bien encore lorsqu'elle est macérée en un certain endroit, décomposée à plusieurs reprises, distillée au moyen d'un appareil (plongé) dans le crottin de cheval : de cette façon elle n'est pas séparée subitement par l'action du feu, et elle n'en subit pas le contact direct.
+
+*) L'or, Lb.
+
+2\. Or donc, il y a 9 classes générales (de traitement), provenant du tout : 3 classes, sans le secours du feu, accomplissent la préparation tout entière, qu'elle soit sèche, ou liquide, ou dans un état distinct de ces deux-là ; 3 classes, avec le secours du feu, effectuent la préparation, qu'elle soit sèche, ou liquide, ou intermédiaire ; 3 classes procèdent par voie mixte, pour obtenir une préparation sèche, ou liquide, ou autre.
+
+3\. Si l'on ne fait intervenir que trois parties de la matière,* on voit qu'il y a 36 classes générales de fabrication, effectuées au moyen des espèces crues ou cuites, ou prises dans un état intermédiaire.
+
+*) C'est-à-dire en opérant avec 3 des 4 parties de l'œuf.
+
+En effet celles des classes que l'on traite sans faire intervenir les jaunes d'œuf,* sont au nombre de 9. Sans le secours du feu, on accomplit 3 classes de préparations liquides, sèches, ou intermédiaires. Avec le secours du feu, on accomplit aussi trois préparations : la liquide, la sèche, ou l'intermédiaire ; enfin par une action mixte : 3 classes pareillement.
+
+*) L'or, Lb.
+
+4\. Il y a également 9 (classes) dans lesquelles on ne fait pas intervenir les blancs (d'œuf), savoir : sans le secours du feu, 3 classes de compositions sèches, liquides, ou intermédiaires ; avec le concours du feu, semblablement 3 classes ; enfin, 3 autres classes obtenues par une action mixte.
+
+5\. Lorsque les parties sont traitées sans faire intervenir les membranes (de l'œuf), il naît de là semblablement 9 classes de fabrications générales : 3 sans le secours du feu, savoir la préparation liquide, la préparation sèche, ou l'intermédiaire ; 3 avec le concours du feu ainsi qu'on l'a dit, et 3 par une action mixte.
+
+6\. Lorsque les espèces sont traitées sans faire intervenir les coquilles (de l'œuf), tu trouves 9 autres variétés de préparations sèches, ou liquides, ou intermédiaires, suivant qu'elles sont crues, cuites, ou intermédiaires. De telle sorte que ces classes de traitements sont en tout au nombre de 36.
+
+7\. Quant aux variétés générales de classes provenant de deux parties de la matière réunies, on en trouve 54 ; savoir : 9 provenant de la coquille et des membranes réunies ; 3 préparées au moyen du feu, 3 sans le feu, et 3 par un procédé mixte : ce qui fournit des compositions liquides, sèches, ou intermédiaires. Semblablement, 9 classes avec les produits provenant du blanc et du jaune, comme on l'a dit à plusieurs reprises ; semblablement, 9 classes provenant de la coquille et du blanc (réunis), suivant la recette indiquée ; 9 provenant des membranes et des jaunes ; et semblablement encore 9 provenant de la coquille et des jaunes ; 9 pareillement, provenant des membranes et des blancs. Les traitements généraux provenant de deux parties réunies de l'œuf sont donc en tout au nombre de 54.
+
+8\. Les traitements généraux provenant d'une seule partie de l'œuf sont au nombre de 36 : pour chacune de ces parties, il y a 3 traitements avec le feu ; 3 sans feu ; 3 par voie mixte : ce qui engendre une préparation sèche, liquide, ou intermédiaire, laquelle se trouve ainsi (provenir) des seules coquilles, ou des (seules) membranes, ou des (seuls) blancs, ou des (seuls) jaunes.
+
+Conserve la composition à l'état liquide, sans la colorer avant la fin ; lave dans l'eau, au moment de la teinture, enduis de nouveau les objets et les lames d'argent et de cuivre. Après avoir soumis au feu, fais pénétrer la préparation, ainsi que Zosime l'a exposé dans le discours sur l'eau divine. Nous avons mentionné tout cela ou à peu près dans nos études précédentes ; seulement, que ce soit pour toi un précepte universel pour toute substance dérivée du soufre apyre, corps naturellement solide ; il faut la taire macérer préalablement au soleil et la laver dans du lait, sans y ajouter d'espèces solides ou liquides. Il faut éviter surtout de recourir à une chaleur immodérée pour produire l'iosis. Il faut que toute l'eau éprouve la réaction et qu'elle s'unisse avec (la matière) non décomposée, soit que (la composition) se trouve dans l'état liquide, ou bien au contraire dans l'état sec, ou dans un état intermédiaire.
+
+9\. Ainsi donc les seules classes de la fabrication dont nous ayons parlé sont démontrées être au nombre de 135.* Les procédés dans lesquels on emploie l'œuf entier, sont au nombre de 9, suivant que l'on opère par le feu seul, sans le feu, ou par voie mixte ; de façon à obtenir une préparation sèche, liquide, ou intermédiaire. Quant aux autres procédés spéciaux, (dans lesquels on n'emploie pas l'œuf entier), ils sont au nombre de 126, et il est impossible d'en trouver davantage. En effet, si l'on cherche à trouver d'autres genres ou espèces de fabrication, en dehors des précédents, on ne pourra sortir des genres et des espèces que nous faisons connaître en ce moment. Alors même que tu t'apercevrais que ces classes comportent des variétés en nombre infini, tu ne seras nullement pris de vertige, si tu reconnais à quel genre ou à quelle espèce elles appartiennent. En effet, les opérations sont indivisibles : lors même qu'il se trouve mille substances analogues (susceptibles d'être substituées les unes aux autres), cela ne fait aucune opération nouvelle. De même que pour chaque espèce, il existe un grand nombre de variétés particulières ; de même dans le cas de cette belle philosophie. C'est là un fait connu d'ailleurs de tous ceux qui philosophent sur ces sujets : la science de la matière (en général) est unique quant à son objet. Si les maîtres lui donnent des noms divers, suivant la variété des matières (spéciales), c'est pour exercer nos esprits* et parce qu'ils ont pris l'habitude de la dénommer en raison de la variété des traitements et des matières spéciales. Mais en réalité le traitement est unique quant à l'espèce.
+
+*) Ce nombre se décompose ainsi :  
+9 avec les 4 parties de l'œuf ;  
+36 avec 3 parties de l'œuf ;  
+54 avec 2 parties ;  
+36 avec 1 partie ;  
+135.
+
+*) Cp. p. 63.
+
+C'est ainsi que l'auteur vigilant et attentif, pareil à l'abeille, recueillant son butin dans nos écrits et dans ceux des hommes éminents d'autrefois, vaincra méthodiquement la pauvreté, ce mal incurable* : nous aussi, nous nous sommes efforcé de nous conformer aux écrits des savants, nos devanciers.
+
+*) Var. de M : « Ce mal affreux. »
+
+---
+
+#### 6. --- 11. Relation entre les Divisions de la Science et les Figures Géométriques.
+
+La cause matérielle* des résultats de la science se divise en quatre parties, savoir : la première, la partie qui concerne la coquille de l'œuf ; la seconde, la partie qui concerne les membranes ; la troisième, la partie qui concerne le blanc ; la quatrième, la partie qui concerne la partie jaune, c'est-à-dire le jaune d'œuf.
+
+*) Cp. l'article sur les diverses causes d'après Aristote, ci-dessus, p. 200.
+
+Supposons des figures décrites sur une surface plane, nous représenterons les traitements provenant du Tout, par un carré.
+
+Les (traitements effectués) avec trois parties, on les représente par un triangle, les éléments répondant aux angles de diverse façon, suivant les diverses fabrications.
+
+Les (traitements effectués avec deux parties seulement), nous les représenterons par des demi-cercles fermés par un diamètre, avec un rayon perpendiculaire, représentant la descente des éléments les plus élevés.*
+
+*) La perpendiculaire n'est pas figurée dans les dessins.
+
+Quant aux classes formées avec une seule partie, c'est à proprement parler le (cercle) seul, décrit en tant que résultant d'une ligne unique.
+
+Si, d'une part, on opère par le feu seulement, on obtient un système pyramidal,* qui caractérise les classes de préparations faites au moyen du feu.
+
+*) Tétraèdre ( ? )
+
+Si, d'autre part, (on opère) sans le secours du feu, on aura une figure octaédrique, laquelle répond à l'air ; et, par sa partie centrale, elle répond à l'eau et à l'air. Voici ces figures.*
+
+*) Voir ces figures (_Introd._, p. 160, fig. 36). La fin de ce texte rappelle un passage du Timée de Platon : _Origines de l'Alchimie_, p. 265.
+
+---
+
+#### 6. --- 12. Quelle est la Classe exposée dans les Écrits Secrets des Anciens.
+
 ...
