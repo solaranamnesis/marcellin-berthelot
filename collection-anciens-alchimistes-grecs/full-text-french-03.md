@@ -10467,4 +10467,174 @@ Si, d'autre part, (on opère) sans le secours du feu, on aura une figure octaéd
 
 #### 6. --- 12. Quelle est la Classe exposée dans les Écrits Secrets des Anciens.
 
+1\. Ici commence le traitement exact, originaire des sanctuaires.* Prenant la matière engendrée par les oiseaux (l'œuf), intacte, immaculée, sans tache, partage-la comme pour les ragoûts ; car dans beaucoup de (cas) l'art culinaire nous est utile.* Ensuite, mets dans deux marmites chacun des liquides ; opère l'épuisement au moyen des appareils à mamelon, jusqu'à ce que la vapeur ne monte plus. Toute la partie qui est laissée à l'intérieur des matras devient noire, inanimée, morte, c'est-à-dire privée d'esprit (_caput mortuum_).
+
+*) Le traitement des Eaux, ABKELb.
+
+*) Cp. p. 85, note 3.
+
+2\. Cela a été surtout expliqué d'une façon détournée ; de crainte qu'un exposé trop clair ne permît aux gens jaloux de réussir sans le concours de l'écrit. Voilà pourquoi ils ont décrit (l'œuvre) à leurs auditeurs sous des dénominations et des formes multiples* ; ils ont exposé le travail de classes innombrables, quoique la matière soit à proprement parler (toujours) la même et que l'opération soit unique ; ils voulaient exercer les esprits des jeunes gens, afin qu'ils amenassent à la vie les résidus et les semences de cette (matière). Mais ceux qui avaient un raisonnement terre à terre et qui se traînaient sur les textes, s'imaginaient avoir compris les écrits des anciens et, par là, ils tombaient dans l'égarement au sujet de la matière. Animés d'un sentiment plus bienveillant, les maîtres venus depuis ont présenté aux autres la science tout entière, comme consistant en une seule matière* et une seule manipulation ; ils n'en ont pas fait mystère par jalousie. De ce nombre sont Pétasius et Synésius, ces hommes merveilleux. En effet, l'un, faisant mention opportune de l'arsenic seul, en expose les traitements de diverses manières ; il en indique exactement les mesures et les combinaisons, afin de démontrer clairement la chose à tous les naturalistes. Il s'accorde avec les philosophes qui s'écrient : « La nature jouit de la nature et la nature triomphe de la nature. » L'autre, au moyen de la rhubarbe du Pont,* a montré que les fabrications les plus faciles* des eaux sont les seules opérations maîtresses de la vraie science.
+
+*) Cp. _Introd._, p. 10 ; et ce volume, p. 63, 86, 182, 196 ; 221, note 3, etc.
+
+*) Cp. p. 37 et note 4.
+
+*) Cp. p. 62.
+
+*) Il y a là en grec un jeu de mots intraduisible entre le mot qui veut dire rhubarbe et celui qui veut dire très facile.
+
+3\. Quoique les méthodes de ces auteurs soient estimées à cause de leur clarté ; cependant ils abrégeaient et voilaient ce qui concerne la matière, mettant ainsi en peine leurs auditeurs. En effet, comment ceux-ci auraient-ils pu comprendre que l'arsenic ou la rhubarbe du Pont donnassent lieu à de telles déclarations, tandis que l'œuf accomplit le Tout, ainsi que nous l'avons montré en détail dans un exposé dogmatique ?
+
+4\. L'un (de ces deux auteurs), sous le nom de l'arsenic, a voulu faire entendre par énigmes la virilité,* et, sous le nom du (corps) apte à retenir (la teinture), le cuivre et le métal doué de l'éclat de l'or. L'autre, sous le nom de rhubarbe du Pont, a désigné l'eau fixatrice et féconde de l'art. En effet, la mer* se précipite, et avec elle la foule des poissons et l'agglomération des barbares ; tandis que le cuivre est une chose meurtrière : il détruit les gens inexpérimentés qui s'approchent de lui. De là vient aussi qu'il est efficace pour endormir la vie, lorsqu'on en prend une dose égale à la grosseur de la lentille ou du sésame, d'après ce que disent les anciens.
+
+*) Jeu de mots sur le nom d'arsenic.
+
+*) Jeu de mots sur πόντος = mer, voir Synésius, p. 62.
+
+5\. Pour éviter que l'art manque d'expérience et paraisse insaisissable de tout point à tout le monde, tandis qu'il existe au contraire, avec son développement véritable et conforme à l'expérience, nous avons été conduit à l'exposer, en tirant parti des explications de ceux-là, et compulsant les travaux de ceux-ci. Voulant par philanthropie (écarter) l'obscurité du sujet, nous avons décrit la matière authentique et, nous l'avons médicamentée par plusieurs manipulations ; les gens sensés qui les liront verront que la vérité est présentée dans toutes, sans s'écarter du but. En effet, elles décrivent, suivant une seule et même méthode, le noircissement et le blanchiment, le jaunissement et l'iosis, ainsi que le partage de la composition et l'union du Tout, opérations sans lesquelles il est impossible de produire rien d'utile.
+
+6\. Seulement, pour ne pas nous mettre nous aussi dans le même cas que ceux qui opèrent sans expérience, en exposant une quantité infinie de fabrications, et pour ne pas encourir les mêmes reproches, nous présenterons dans le traité le résumé de toutes les opérations, en exposant les plus générales d'entre elles.* Par cette description, on pourra reconnaître aussi la vérité des opérations spéciales ; nous procéderons habituellement par divisions, pour plus de clarté. Celui qui rejetterait une telle méthode, n'aurait pas lieu de s'en vanter, ainsi qu'il résulte de l'opinion du savant Platon et de la vérité. Cette méthode manifeste à la fois la vérité et l'erreur : les parties faibles sont placées à côté des parties certaines, afin de ne rien omettre.
+
+*) Tout ceci semble le préambule d'un traité pratique, qui a été perdu ; les copistes ne s'étant intéressés qu'aux déclamations du début.
+
+7\. Après avoir exposé les classes conformément à notre division, et par démonstration graphique, dans un discours ordonné, nous vous présenterons à vous et aux gens intelligents, des (notions) exactes, mettant en lumière la fabrication des âmes, d'après les procédés contenus dans les sanctuaires et les dépôts sacrés. Les (classes) en nombre infini, nous les grouperons d'après l'identité des espèces ; les espèces, nous les réunirons par genres ; nous les dériverons des jaunes d'œuf ; c'est là ce que les écrivains en cet art nomment _spodios_.*
+
+*) Cendre ou scorie. Cp. p. 107, 113, 196, 368, etc.
+
+8\. Jetant cette scorie dans un mortier, broie fortement et, après avoir fait fondre, lave dans les eaux de mer blanches, jusqu'à ce qu'ait disparu la couleur noire de l'ios du cuivre.* Tel est le premier blanchiment et la décoloration des espèces ; de cette façon elles deviennent aptes à recevoir les couleurs. C'est ainsi que l'on fait fondre le _lachium_, que les gens du métier appellent lachas (je veux parler des teinturiers en bleu). Ainsi donc lorsqu'on opère régulièrement, au moyen du natron et de la chaleur, le produit rejette toute son espèce sanguinolente. Il est fortement délayé dans une jarre d'Ascalon,* avec les mains, comme pour le lavage des graines légumineuses. Devenu blanc, ou plutôt dépourvu de couleur, il est alors étiré,* battu avec des marteaux sur des pierres meulières fixées en terre. On le retourne de temps en temps, ainsi que le morceau de bois dans lequel il a été encastré, après avoir été chauffé au préalable. Ensuite il est coloré par l'action d'une matière tinctoriale, et alors il est martelé, de peur qu'après refroidissement il ne cesse d'être malléable, et ne fasse désespérer des teintures. En effet, les coups répétés et continuels des jeunes hommes qui le battent, l'amollissent, de façon à y faire pénétrer les couleurs, quand il reçoit la colophane qui (les) retient, ainsi que la colle.
+
+*) Cp. 3, 39, § 4 et 5, p. 230.
+
+*) Cp. p. 204, 280.
+
+*) Cp. p. 301.
+
+9\. De même aussi ce cuivre si réputé sera délayé avec la chrysocolle dans les eaux marines, de la façon que nous avons souvent expliquée, ou bien dans les urines de grues, ou bien dans les rosées célestes : car toutes les (matières) susdites sont la même chose, et ont la même efficacité, celle de détruire le noir (développé) par l'action mortifiante du feu. Le métal devient par là apte à recevoir les couleurs de l'art, après qu'on l'a dépouillé de tout élément liquide, en le blanchissant d'abord dans un mortier avec des eaux blanches : qu'il s'agisse de la génération de l'asèm, ou des perles, ou des pierres précieuses, ou de la pourpre.* Le produit est jauni après le blanchiment, pour la génération de l'or, la production de la couleur rouge et la teinture des peaux. Il reçoit l'espèce de la couleur pourpre après le blanchiment, quand il s'agit de la pourpre royale, provenant du fucus et de l'orcanette.
+
+*) Un même système de préparations est appliqué ici à la teinture des métaux, des perles, des vitrifications et de la pourpre : Cp. _Origines de l'Alchimie_, p. 245. Mais il est probable que dans notre auteur le vague des descriptions générales est intentionnel : les matières employées étant différentes, suivant la nature des corps destinés à être teints.
+
+10\. En général, indépendamment du noircissement, c'est-à-dire de la coloration en noir d'ébène, lorsqu'on veut obtenir toute sorte de couleur, préparer la poudre de projection et la composition (cherchée), la scorie est lavée avec des eaux de même nature. On tient la matière blanche dans la chrysocolle,* au sein d'un bain, ou bien en employant tout autre mode d'échauffement inoffensif. On lave bien, jusqu'à ce que cesse de surnager au-dessus des eaux, la matière noire que l'on appelle aussi _grau_ (pellicule ? ).* Tout ce qui ressemble à la cendre étant une fois enlevé, tu auras de l'étain purifié.* Dès que la matière noire ne monte plus, fais sécher au soleil la composition ; broie dans un mortier et colore avec des eaux blanches : il se forme ainsi un rayon de miel extrêmement blanc, comme le dit Hermès Trismégiste.*
+
+*) D'après MB. --- dans A, signe de l'or (ou du soleil) --- dans ELb : le soleil en toutes lettres.
+
+*) Cp. p. 219.
+
+*) Du mercure, ELb.
+
+*) Cp. p. 66.
+
+C'est alors qu'il dit : La composition est dirigée de façon à obtenir l'asèm ; on la partage en deux portions : l'une est traitée par plusieurs eaux dans les appareils et mercurifiée ; l'autre est gardée exempte de toute réaction ; on y délaie l'eau transformée et il se forme de la poudre de projection, celle qui est cherchée depuis des siècles.
+
+11\. Si l'on veut poursuivre la fabrication de l'or, après avoir blanchi préalablement les (matières) sur lesquelles on a précédemment opéré un partage, on jaunit, en ajoutant des eaux jaunes, et l'on fabrique une poudre jaune, suivant l'opinion d'Hermès, en partageant ce produit en deux portions « laisse au fond et c'est produit.* »
+
+*) Cp. Stephanus, cité dans l'_Introduction_, p. 179.
+
+Cette (préparation) étant devenue ios, fais-la monter au moyen de l'appareil ; mélange avec la matière non décomposée et tu auras la parfaite poudre de projection.
+
+Au sujet des perles, il est dit : « Mettant de l'eau blanche avec de l'eau blanche, tu amollis dans des vases de verre, en opérant sur de petites perles,* ou sur de l'aphrosélinon, ou sur toute autre matière analogue. Lutant à l'entour et garnissant de suif les jointures, dépose dans du crottin de cheval, ou emploie quelque autre mode de chauffage semblable, jusqu'à ce que la pierre soit complètement dissoute. Elle est de nouveau durcie dans la même eau, en l'exposant au soleil pendant les chaleurs caniculaires. »
+
+*) Cp. p. 122, 325, etc.
+
+Au sujet des pierres, il est dit : « Prends telle couleur tinctoriale que tu veux, unis-la à l'eau en même temps que l'ios de cuivre, en proportion convenable, et fais chauffer au soleil. Tu amolliras dans le bain tinctorial et tu teindras. »
+
+Au sujet de la pourpre et des autres colorations : « On met de l'orcanette et du fucus dans les eaux blanches, provenant des matières blanches. Lorsqu'elles ont pris la couleur, partage en deux portions et tu feras de l'ios, en même temps que de la poudre de projection. En effet tout ios de cuivre tire son origine des (matières) solides et liquides. Mélange avec d'autres eaux de même couleur, et tu teindras. »
+
+---
+
+#### 6. --- 13. Le Philosophe Anonyme sur l'Eau Divine du Blanchiment.*
+
+*) ELa : « sur le blanchiment de l'Eau divine, » et de même plus bas. --- C'est une mauvaise leçon.
+
+1\. Le premier mode de macération, c'est celui de l'eau divine du blanchiment* ; autant qu'il en est besoin, on va l'expliquer. En effet un excès de liquide fait couler le produit ; tandis qu'une quantité insuffisante ne permet pas d'accomplir l'opération. Ainsi il faut ajouter les liquides, autant qu'il est nécessaire pour effectuer la composition et ne pas laisser celle-ci couler, ni demeurer confondue (avec le liquide).
+
+*) Cette phrase est tirée de AELa ; elle manque dans M.
+
+2\. Le second mode de macération doit être réglé, de façon à obtenir une parfaite dilution et purification. De même que les vêtements crasseux sont lavés jusqu'à ce qu'ils ne perdent plus de crasse, mais que les mousses (de l'eau de savon) s'écoulent pures ; de même aussi notre composition est lavée jusqu'à ce que l'eau n'entraîne plus de crasse. En effet il lui arrive naturellement d'être encrassée, par suite de la pénétration à l'intérieur du métal de la portion superficielle, devenue plus terreuse et plus épaisse après qu'elle a été extraite, raréfiée et expulsée de la masse par la chaleur du feu ; par suite, la surface se trouve ainsi encrassée. On lave donc jusqu'à ce que la crasse soit entièrement nettoyée.
+
+3\. Le troisième mode d'opération est réglé comme il suit : on délaie les œufs dans l'eau et on les met dans un matras. La composition ainsi délayée et formée par macération, est reprise après le lavage, dans un matras surmonté d'un second récipient de verre* ; elle est alors agglomérée en forme de boule et on l'abandonne à elle-même pendant 6 heures, en veillant à ce qu'il n'y ait pas de fumée. C'est pourquoi le siège de l'opération est établi dans un lieu bien éclairé, afin que la vue de la fumée ne puisse échapper. Or cet appareil est en forme de tube, droit et double. Par en bas on souffle sur les charbons, tandis que par en haut on reçoit la composition dans le double récipient ; par le milieu elle est rafraîchie, afin d'éviter qu'elle ne soit brûlée.* Tout d'abord, en nous levant de bon matin, nous étendons la durée du délaiement jusqu'à 6 heures ; puis nous lavons ; on fait cuire pendant 6 autres heures. On laisse refroidir tout autour, pendant la nuit et jusqu'au matin. Ainsi s'explique ce que disait Hermès : « Toutes les matières que tu peux faire macérer, lave-les aussi, et laisses-les déposer dans des vases ; tout ce que tu peux faire, fais-le. »
+
+*) D'après E : « on la place avec son assiette dans un vase de verre de grandeur double ; puis on l'y laisse. »
+
+*) Cette vague description semble répondre à un appareil à distillation, ou à sublimation, tel qu'un alambic (dibicos), _Introd._ (p. 138, fig. 14). Elle rappelle certains textes de Zosime, p. 227, 228, etc.
+
+4\. Ainsi on fait macérer avec l'aide des courants liquides, pendant les lavages, et on fait déposer, en laissant encore refroidir durant l'opération.
+
+Par le chaud et le froid, nous voulons parler de la vie et de l'action du feu. De même que la génération de l'oiseau s'accomplit par l'effet de la chaleur, agissant sur le jaune de l'œuf, et que celui-ci est transformé au moyen du froid provenant du blanc ; de même aussi cette composition (c'est ce que nous appelons l'œuf des philosophes), est engendrée en vertu de la chaleur qui réside dans le jaune ; par suite du mélange et de la coopération (de ses diverses parties), elle prend consistance ; et elle est transformée par le froid qui réside dans le blanc et dans le souffle aérien.
+
+Il ne faut pas ignorer que lors du mélange, le corps solide et jaune a été précédemment envisagé comme chaud ; tandis qu'on assimile au froid ce blanc sans fixité, qui est tiré du plomb et du métal étésien. Ceci s'applique aussi à l'échauffement et au refroidissement alternatifs, résultant de la succession des jours et des nuits.
+
+5\. Vois de quelle philosophie est rempli le présent travail ; avec quelle circonspection théorique et philosophique toutes choses sont produites ; rien n'est fabriqué à la légère et avec dédain. (En effet) Dieu aime celui qui vit avec sagesse. La négligence est condamnée par l'Écriture inspirée de Dieu ; l'homme présomptueux et dédaigneux ne viendra à bout de rien.*
+
+*) Habacuc, 2, 5 (Septantes).
+
+Après avoir décrit ces choses comme conformes à notre souvenir, maintenant nous les mettons sous notre sceau, glorifiant, remerciant et bénissant Dieu qui, dans sa sagesse, s'est plu à faire toutes choses sagement, et qui nous a donné de comprendre ces matières ; ce Dieu en qui l'on adore le Père, le Fils et le Saint-Esprit ; celui qui reçoit un culte de toute sa création, maintenant et toujours et dans les siècles des siècles ; ainsi soit-il.*
+
+*) E ajoute : « (Prends) du sang d'un homme aviné, de la bile d'un bœuf noir non marqué, et du suc de la plante, (appelée) _tragis_ (barbe de bouc ? ) ; prends ces trois choses en portions égales ; chauffe du fer et trempe : tu réussiras très bien. » --- C'est une note marginale de quelque copiste ; elle est reproduite à la fin de 6, 20.
+
+---
+
+#### 6. --- 14. Du même Philosophe Anonyme : (Discours) sur la Pratique de la Chrysopée, développé avec l'Aide de Dieu.*
+
+*) Titre dans E et La (qui est la copie) : « Du Philosophe anonyme, discours sur la pratique, expliquant le procédé de la Chrysopée, développé, etc. » A ajoute en marge : « second discours. »
+
+1\. Nous nous sommes étendu précédemment sur les considérations théoriques relatives à la Chrysopée,* et nous allons en signaler les coryphées. Le premier, Hermès, appelé Trismégiste, nous est donné comme ayant reçu cette dénomination parce que la présente fabrication comprend les trois puissances de l'acte,* en observant aussi, en dehors de l'acte, les trois essences distinctes des êtres. Celui-ci est le premier qui ait écrit sur le grand mystère ; il eut pour disciple Jean, devenu archiprêtre en Sainteté (Évagie) de la Tuthie et des sanctuaires qu'elle renferme.*
+
+*) Rédaction de E : « Après avoir expliqué la question de la Chrysopée, parlons maintenant de ceux qui l'ont pratiquée. Le premier d'entre eux est celui qu'on appelle Hermès Trismégiste ; il a dit que la présente fabrication a lieu suivant les trois puissances et actes. Puis viennent Jean l'archiprêtre en Évagie, Démocrite, Zosime, Olympiodore, Stephanus, et beaucoup d'autres ensuite ; lesquels, en qualité d'interprètes, ont commenté les auteurs plus anciens qu'eux, je veux dire Hermès, Démocrite, Platon et Aristote. »
+
+*) Cp. p. 119 : _sur la poudre sèche_.
+
+*) Cp. _Origines de l'Alchimie_, p. 118. Évagie peut signifier un lieu déterminé, ou bien représenter une désignation mystique : sainteté, c'est-à dire archiprêtre de Sainte mémoire. Le mot Tuthie s'applique-t-il à un nom de lieu ? ou bien désigne-t-il la tuthie chimique, c'est-à-dire l'ancienne cadmie ou oxyde de zinc impur ? Peut-être le nom du lieu où l'on faisait la préparation a-t-il passé à la matière préparée. Le mot même, avec ce dernier sens, serait alors plus ancien qu'on ne l'a cru jusqu'ici (_Introd._, p. 268 et 241).
+
+Après celui-ci vint, en troisième lieu, Démocrite, célèbre philosophe d'Abdère, supérieur aux prophètes ses devanciers.
+
+On cite ensuite le très savant Zosime.
+
+Voici (maintenant) les fameux philosophes œcuméniques, les commentateurs de Platon et d'Aristote* : Olympiodore et Stephanus* ; ils ont approfondi encore davantage ce qui concerne la Chrysopée ; ils ont composé de vastes commentaires, dignes des plus grands éloges, donnant des règles assurées pour la fabrication du mystère.
+
+*) Réd. de E : « Ils ont examiné et approfondi tous les commentaires théoriques et fondamentaux de cet art de la Chrysopée ; ils ont écrit avec un grand mérite à son sujet, éclaircissant pour nous la fabrication de ce mystère. »
+
+*) Ce passage montre que l'Anonyme est postérieur à Stephanus.
+
+2\. Quant à nous, après avoir lu leurs très savants livres,* et les avoir éprouvés par l'expérience et la pratique, nous nous rappellerons que leur exposition repose sur l'intelligence de ce qui existe, et qu'elle est nécessaire et véridique.
+
+*) Réd. de E : « Quant à nous, après avoir lu leurs très savants livres, à force d'expérience et de pratique, nous sommes parvenus à comprendre (la nature) des êtres. Voilà aussi pourquoi nous avons reconnu par nous-même et nous exposons que cet art de la Chrysopée est nécessaire et réel. »
+
+Ils ont révélé la fabrication du molybdasèm, au moyen du molybdochalque* ; étant tous tombés d'accord dans leurs descriptions officielles, relatives au molybdochalque. C'est ainsi que, d'après l'expérience, la pratique et les distinctions relatives à la matière, nous avons fait un commentaire ; nous étant imposé cette règle,* de nous abstenir de toutes les substances qui ont le pouvoir de brûler, par l'action du feu et du soufre ; de même, du mélange trop violent de tous les agents arsénicaux, qui causent des dommages de toute sorte et amènent l'insuccès. Mais il convient d'avoir recours à toutes les choses qui possèdent la puissance liquide et d'opérer par le mélange et l'action assimilatrice des éléments, avec le concours du plomb mélangé. Ce mélange est ce que nous appelons, nous, l'union des substances. On la réalise d'abord au moyen du creuset ; puis on pétrit et on lave. C'est ainsi qu'on donne comme étymologie du mot magnésie,* ce fait qu'elle résulte du mélange et du pétrissage, lequel a confondu en une substance et une existence uniques les composants du mélange. Or le pétrissage du Tout, celui de toute substance* s'opère au moyen des liquides et dans les liquides ; les matières lavées sont pétries, comme on fait pour la pâte limoneuse et pour les étoffes de lin ou de soie que l'on veut blanchir.*
+
+*) C'est-à-dire la transformation d'un alliage de cuivre et de plomb (molybdochalque), en un alliage de cuivre et d'électrum ou d'argent (molybdasèm). --- Voir la formule de l'Écrevisse, _Introd._, p. 154.
+
+*) Réd. de E : « Nous vous prescrivons donc, d'après les philosophes, de vous abstenir de toutes les matières qui ont le pouvoir de brûler ... »
+
+*) Réd. de E : « Ils donnent le nom de magnésie (à cette substance) parce qu'elle est mélangée (μίγνυμι) pétrie, teinte et amenée à une essence unique. »
+
+*) L'auteur oppose le masculin et le féminin du mot πᾶς (Tout).
+
+*) Ici AKELa intercalent plusieurs fragments déjà publiés dans Zosime : 3, 31, p. 199. --- 3, 39, § 4-5, p. 203.
+
+3\. Voilà aussi pourquoi le célèbre Olympiodore, dans sa grande Exposition, a écrit que le mystère de la Chrysopée réside dans les liquides.* Il en fournit mille exemples* et représentations typiques, au moyen des courants, des écoulements et des flux, des effluves et des lavages, de ce qu'on nomme macération et purification. (Les vrais auteurs) décrivent* le traitement qui accomplit le mystère. Ils reviennent sur cette pensée unique que les substances deviennent l'ios d'or ; ils disent que celui qui fabrique de l'ios fait (de l'or), tandis que celui qui ne fabrique pas d'ios ne fait rien. En effet, les substances primitivement compactes deviennent atténuées et spirituelles, étant transformées en matières ténues et transmutées, par suite de leur imprégnation réciproque et de leur fixation commune. Étant ainsi mélangées et imprégnées entre elles, elles se détruisent elles-mêmes et se régénèrent de nouveau. Ainsi Démocrite, s'adressant à nous autant qu'au roi, dit : « Sache, ô roi ; sachons aussi, nous autres, prêtres et prophètes, que si l'on n'apprend pas à connaître les substances,* et si l'on ne mélange pas les substances, et que l'on ne connaisse pas les espèces ; si l'on ne combine pas les genres avec les genres, on travaille en pure perte et l'on se fatigue pour un résultat sans profit. Car les natures jouissent les unes des autres ; elles sont charmées les unes par les autres ; elles se détruisent les unes les autres ; elles se transforment les unes les autres, et de nouveau elles s'engendrent les unes les autres. »
+
+*) Réd. de E : « Or, Olympiodore explique que c'est dans les liquides, etc. »
+
+*) Cp. Olympiodore, p. 93.
+
+*) Réd. de E : « Car tous écrivent que le traitement est unique, ainsi que l'accomplissement du mystère. Ils reviennent sur cette pensée et disent que les substances sont amenées à l'unité ; car celui qui fait de l'ios fait de l'or, disent-ils, tandis que, etc. »
+
+*) P. 50 et 51.
+
+Les §§ 4, 5, 6 sont de pures subtilités, que l'on n'a pas cru utile de traduire. Le dernier se termine par ces mots :
+
+6\. ... Il faut apprendre d'abord à connaître les natures, les genres, les espèces, les affinités, les sympathies, les antipathies, les mélanges, les extractions, les amitiés, les haines, les aversions et tous les analogues, et de cette façon arriver à la composition proposée ; ainsi que le dit Démocrite, en récapitulant ces points.
+
+7\. En effet il ne faut pas ignorer que c'est par l'effet d'une sympathie naturelle que la pierre magnétique attire le fer ; tandis que, par l'effet d'une antipathie, l'ail frotté contre l'aimant le soustrait à cette action naturelle. Il y a mélange de l'eau versée dans du vin ; mais séparation de l'huile versée dans de l'eau : les matières qui ont une sympathie naturelle se réunissent, tandis qu'il y a séparation entre les matières antipathiques.
+
+Il n'a pas paru utile de traduire les §§ 8 à 14, qui sont des subtilités byzantines.
+
+A et K reproduisent ensuite le traité de Zosime sur la Vertu et l'Interprétation : 3, 6, p. 127.
+
+---
+
+#### 6. --- 15. Le Philosophe Anonyme la Musique et la Chimie.*
+
+*) « Sur l'art sacré et divin des philosophes : Traité dédié au grand Empereur Théodose ; » Vat. Cp. p. 378.
+
 ...
