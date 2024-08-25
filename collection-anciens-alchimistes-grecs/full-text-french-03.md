@@ -192,11 +192,11 @@
 
 #### [6. --- 12. Quelle est la Classe exposée dans les Écrits Secrets des Anciens.](#6-----12-quelle-est-la-classe-exposée-dans-les-écrits-secrets-des-anciens-1)
 
-#### [6. --- 13. Le Philosophe Anonyme sur l'Eau Divine du Blanchiment.]()
+#### [6. --- 13. Le Philosophe Anonyme sur l'Eau Divine du Blanchiment.](#6-----13-le-philosophe-anonyme-sur-leau-divine-du-blanchiment-1)
 
-#### [6. --- 14. Du même Philosophe Anonyme : (Discours) sur la Pratique de la Chrysopée, développé avec l'Aide de Dieu.]()
+#### [6. --- 14. Du même Philosophe Anonyme : (Discours) sur la Pratique de la Chrysopée, développé avec l'Aide de Dieu.](#6-----14-du-même-philosophe-anonyme--discours-sur-la-pratique-de-la-chrysopée-développé-avec-laide-de-dieu-1)
 
-#### [6. --- 15. Le Philosophe Anonyme la Musique et la Chimie.]()
+#### [6. --- 15. Le Philosophe Anonyme la Musique et la Chimie.](#6-----15-le-philosophe-anonyme-la-musique-et-la-chimie-1)
 
 ...
 
