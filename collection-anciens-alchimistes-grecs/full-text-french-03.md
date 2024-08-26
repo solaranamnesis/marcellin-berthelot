@@ -198,7 +198,17 @@
 
 #### [6. --- 15. Le Philosophe Anonyme la Musique et la Chimie.](#6-----15-le-philosophe-anonyme-la-musique-et-la-chimie-1)
 
-...
+#### [6. --- 16. Cosmas explication de la Science de la Chrysopée par le Saint Moine Cosmas.]()
+
+#### [6. --- 17. La Pierre Philosophale.]()
+
+#### [6. --- 18. Sur la Pierre Philosophale.]()
+
+#### [6. --- 19. Hiérothée sur l'Art Sacré.]()
+
+#### [6. --- 20. Nicéphore Blemmidès Chrysopée.]()
+
+#### [Nicéphore Blemmidès. --- Appendice ce que réclame la Présente Préparation.]()
 
 ---
 
