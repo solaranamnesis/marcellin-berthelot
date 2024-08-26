@@ -198,17 +198,17 @@
 
 #### [6. --- 15. Le Philosophe Anonyme la Musique et la Chimie.](#6-----15-le-philosophe-anonyme-la-musique-et-la-chimie-1)
 
-#### [6. --- 16. Cosmas explication de la Science de la Chrysopée par le Saint Moine Cosmas.]()
+#### [6. --- 16. Cosmas explication de la Science de la Chrysopée par le Saint Moine Cosmas.](#6-----16-cosmas-explication-de-la-science-de-la-chrysopée-par-le-saint-moine-cosmas-1)
 
-#### [6. --- 17. La Pierre Philosophale.]()
+#### [6. --- 17. La Pierre Philosophale.](#6-----17-la-pierre-philosophale-1)
 
-#### [6. --- 18. Sur la Pierre Philosophale.]()
+#### [6. --- 18. Sur la Pierre Philosophale.](#6-----18-sur-la-pierre-philosophale-1)
 
-#### [6. --- 19. Hiérothée sur l'Art Sacré.]()
+#### [6. --- 19. Hiérothée sur l'Art Sacré.](#6-----19-hiérothée-sur-lart-sacré-1)
 
-#### [6. --- 20. Nicéphore Blemmidès Chrysopée.]()
+#### [6. --- 20. Nicéphore Blemmidès Chrysopée.](#6-----20-nicéphore-blemmidès-chrysopée-1)
 
-#### [Nicéphore Blemmidès. --- Appendice ce que réclame la Présente Préparation.]()
+#### [Nicéphore Blemmidès. --- Appendice ce que réclame la Présente Préparation.](#nicéphore-blemmidès-----appendice-ce-que-réclame-la-présente-préparation-1)
 
 ---
 
