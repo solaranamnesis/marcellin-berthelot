@@ -10832,4 +10832,136 @@ Viennent ensuite une série de morceaux déjà publiés, tirés de Zosime, de Je
 
 *) Il existe sous le même nom un petit poème alchimique, où il est question de l'Empereur Nicéphore : son auteur serait donc du 9e siècle de notre ère. Si le texte présent est du même écrivain que le poème, l'époque serait indiquée par ce qui précède. Dans la vieille liste de St-Marc, sous notre numéro **38**, (_Introd._, p. 175) on lit aussi : « Chapitres d'Eugénius et d'Hiérothée ; » mais ces chapitres ne se retrouvent pas dans le Ms. M actuel.
 
-...
+1\. Prenant de la batiture de fer, 1 partie ; de l'antimoine d'Italie, 1 partie, délaie le tout dans de l'huile de natron. Après avoir opéré l'extraction, mets à part et fais fondre avec une quantité égale de cuivre d'Italie. Après avoir réduit, allie avec de l'or et laisse 3 jours. Prends du soufre, 1 partie ; du misy, 1 partie ; délaie, puis prenant l'alliage, dispose-le par couches alternatives, et opère l'extraction. Prends de ce produit, 3 parties, et 1 partie d'or ; fais fondre et tu trouveras ce que tu cherches.
+
+2\. Si tu veux faire mieux encore, traite l'alliage et fais-le macérer avec la fleur de natron, jusqu'à ce qu'il devienne fluide (comme) du mercure. Sublime sept fois et partage en deux portions ; la première est soumise à la décomposition jusqu'à production d'eau ; quant à l'autre moitié, tu la mélanges avec le tiers de son poids d'or et le 6e de cuivre d'Italie et de fer ayant subi le premier traitement. Broyant le tout, arrose avec l'eau du mercure dissous plus haut, et fais chauffer. Opère ainsi jusqu'à ce que l'eau ait disparu ; mélange un peu de soufre, de façon à ce qu'il pénètre la préparation, et s'y imbibe. Opère ainsi jusqu'à ce qu'il se forme du cinabre (ou de l'or ? )
+
+3\. Emploie cette (recette) avec le concours d'Emmanuel,* le chef des êtres animés, le Verbe divin, la lumière du St-Esprit. Car c'est lui qui est le sauveur, le dispensateur et la cause de tous les biens. C'est par son entremise qu'est offert aux fidèles et aux gens qui en sont dignes ce divin mystère, le remède de l'âme et la délivrance de toute peine. Celui qui a trouvé ce mystère, celui qui a reçu ce don de Dieu, celui qui sait opérer les traitements et parvenir au but désiré, le doit au très haut Emmanuel : celui-là deviendra son ministre et son agent dans l'exécution de cet art divin. (C'est pourquoi) en tout (il réservera) la dîme pour la construction des saintes églises et pour le soutien des indigents. Il interviendra en ma faveur, secourra mes besoins et me fera traverser la vie.
+
+*) Cf. le livre d'Emmanuel, cité dans le Pseudo-Aristote arabe, t. 3 du _Theatrum Chemicum_.
+
+Pour que son existence demeure à l'abri de l'envie, il ne doit pas tirer vanité de ses richesses, ni du soin qu'il donne à la prospérité de ses affaires ; il ne doit pas non plus s'abandonner à la pauvreté, cette maladie fâcheuse et incurable. Mais il doit plutôt resplendir de la richesse des vertus divines et des actions pures, étant tout animé d'humilité, de pitié et d'amour sincère (de Dieu). Il fera des prières pour moi, qui ai exposé ces choses libéralement et simplement, afin que nous obtenions tous deux la pure et éternelle royauté du Christ notre Dieu. Qu'il nous soit donné à tous de l'obtenir, par les recommandations et par les prières de Marie, l'immaculée mère de Dieu, et de Jean le précurseur trois fois bien heureux, ainsi que par (celles) de la cohorte pure des divins apôtres et prophètes et de tous les saints. Ainsi soit-il : amen.
+
+---
+
+#### 6. --- 20. Nicéphore Blemmidès Chrysopée.*
+
+*) On a aussi donné à cet auteur le nom de Blemmydas et on l'a identifié, à tort ou à raison, avec un personnage du 13e siècle, qui a refusé le Patriarchat de Constantinople.
+
+Sur la Chrysopée de l'œuf qu'a traitée le très savant maître en philosophie Nicéphore Blemmidès, lequel a atteint le but, avec le concours de celui qui amène toutes choses du non-être à l'être, le Christ, notre Dieu véritable, à qui appartient la gloire dans tous les siècles des siècles : amen.
+
+Prends, avec l'aide de Dieu, cette pierre non-pierre,* que l'on nomme la pierre des sages, formée par les 4 éléments : la terre, l'eau, l'air et le feu ; c'est-à-dire par l'humide, le chaud, le froid et le sec. Prends donc l'un des 4 éléments, la terre, l'élément froid et sec, autrement dit, la coquille des œufs.
+
+*) Cp. p. 19.
+
+Après avoir lavé et purifié, refroidi et broyé exactement, mets dans une marmite ; bouche l'orifice de la marmite avec un lut qui résiste au feu, et mets-la dans un fourneau de verrier. Fais chauffer pendant 8 jours,* jusqu'à ce que le produit blanchisse. Mets-le à part avec soin ; car c'est là la fameuse chaux. Attention !
+
+*) Scolie : « Noter qu'il est impossible de faire chauffer la chaux pour la changer en céruse, à moins de faire chauffer pendant 8 jours sur le fourneau du verrier. » Les signes de renvois successifs de cette scolie et des suivantes dans nos manuscrits sont les signes du Zodiaque, à partir du Bélier jusqu'à la Balance. (Cp. _Introd._, p. 205.)
+
+2\. Après cela, prenant le blanc intérieur (de l'œuf), dépose-le dans un vase en forme de coquille, à l'orifice du vase, adapte cet instrument en forme de mamelon, nommé _alambic_. Qu'il soit bien bouché et assujetti avec du plâtre.* Fais monter cela comme l'eau de roses, et garde avec soin dans une fiole. Attention !
+
+*) Scolie : « Le plâtre doit être vieux, et (provenir) d'une église ( ? ) »
+
+Ensuite prenant de la chaux,* 1 partie, et de l'eau distillée, 9 parties ; mets ensemble ; introduis (dans le vase) et bouche avec soin, comme précédemment. Distille cela comme de l'eau de roses. La coquille doit être cette fois en verre ; la 1re était en terre cuite. Remets le produit distillé sur la même cendre ; extrais et mets le tout ensemble dans une fiole de verre. Bouches-en soigneusement l'orifice avec un linge et du plâtre, et enfouis dans du crottin de cheval pendant 21 jours. Attention !
+
+*) Scolie : « La chaux, ici, doit être (du poids) de 4 onces et l'eau (distillée une fois) peser 36 onces. »
+
+4\. Ensuite retirant du crottin, mets dans la coquille et fais monter comme précédemment. Puis, de nouveau, prenant le tout ensemble, mets l'eau et la matière dans une fiole de verre et fais digérer dans du crottin de cheval, comme précédemment. Puis, retirant du crottin, mets le tout ensemble dans une coquille ; fais monter comme précédemment et garde dans une fiole. Attention* !
+
+*) Scolie : « Tu as ici la chaux décomposée ; or l'eau nécessaire pour les (extractions), délaiements et arrosages doit être (du poids) de 31 onces. »
+
+5\. C'est là ce qu'on appelle eau divine, eau de chaux, eau de mer, vinaigre, mercure, lait de vierge, urine d'enfant impubère, eau d'alun, eau de cendre de chou, eau de natron, eau de 1re filtration, et d'autres noms (encore). Cela constitue l'eau divine, au moyen de laquelle est blanchie le corps de la magnésie. Le cuivre brûlé, c'est la cendre qui doit être produite par le jaune des œufs.
+
+6\. Il faut prendre d'autres coquilles d'œufs non brûlés,* (les) bien broyer et les mettre dans une coquille de verre avec de l'eau montée une fois sans l'emploi de la chaux. Qu'il y ait de cette eau la valeur de 3 parties et des coquilles, 1 partie. Distille cela encore 3 fois, sans digestion. A chaque distillation, rejette les coquilles et mets-en d'autres en même quantité. A la 3e fois, garde dans une fiole ce qui est déposé.
+
+*) Scolie : « Ces coquilles doivent être (du poids) de 18 onces pour les 3 fois, et l'eau, du poids de 18 onces chaque fois. »
+
+7\. Ensuite prenant la nouvelle chaux,* mélange-la bien avec cette eau. Qu'il y ait de cette eau, 3 parties, et de la chaux, une partie ; mets cela dans une fiole. Bouche bien l'orifice de la fiole et fais digérer dans du crottin de cheval pendant 40 jours, et s'il y a de la cendre, pendant 21 jours.
+
+*) Scolie: « Cette chaux doit être de 5 onces. Comme elle doit être gâchée avec l'eau par 3 fois ; le tout doit être du poids de 15 onces. »
+
+8\. Ensuite, prenant des jaunes d'œufs, mets-les dans une coquille de terre cuite et distille cela comme de l'eau de rose, avec un feu (moins) énergique ; car il faut que le feu des (opérations) susdites soit plus doux. Bouche avec soin et recueille ainsi l'huile (couleur) de cochenille.
+
+9\. Prenant cette huile,* réunis-la avec la chaux* tirée des coquilles. Qu'il y ait de cette chaux, 1 partie, et de l'huile, 3 parties ; opère avec cela comme avec l'eau de chaux, c'est-à-dire distille et fais digérer. Puis de nouveau distille et fais digérer, et après avoir distillé, garde le tout. Attention !
+
+*) Scolie : « Cette huile doit peser 15 onces. »
+
+*) Scolie : « Une telle chaux, à ce que je crois, doit peser 5 onces, qui (sont) introduites dans les 15 onces précédentes ; l'eau, tu l'as fait monter trois fois, avec les coquilles non brûlées. »
+
+10\. La cendre des jaunes d'œufs qui se déposera, blanchis-la avec la 1re eau divine obtenue avec la chaux ; car celle-ci est la magnésie.
+
+11\. Prenant de cette magnésie,* 4 parties, et de la chaux déposée dans la coquille,* 1 partie, c'est-à-dire de cette dernière le 5e (du tout) ; broie bien l'une et l'autre sur le marbre, de façon à rendre la matière très fine et ténue. Délaie complètement avec un peu d'eau (provenant) de la chaux, comme font les peintres. Après avoir laissé refroidir, mets dans une coquille 1 partie de ce mélange, et de l'eau de chaux, 3 parties. Il faut ici que la coquille soit en verre. Puis fais monter cette (eau) comme l'eau de roses et recueille tout ce qui distille dans un vase de verre.
+
+*) Scolie : « 4 hexages 25 carats, pour 1 hexage 25 carats. »
+
+*) Scolie : « Une chaux de cette nature est la première qui provient de l'eau divine blanche, lorsque tu veux blanchir la magnésie. »
+
+12\. Ensuite, prends la poudre sèche, déposée dans la coquille ; mets-la de nouveau sur le marbre, délaie-la par petites portions, avec l'eau distillée qui en provient. Laisse sécher le produit à l'ombre ; et opère ainsi jusqu'à ce que toute l'eau distillée ait disparu.
+
+13\. Ensuite, après avoir broyé la poudre sèche, mets-la dans une coquille, et avec elle une autre quantité d'eau de chaux. Qu'il y ait de l'eau, 3 parties, et de la poudre sèche, 1 partie ; fais monter cela et délaie comme il a été dit, jusqu'à 5 fois.
+
+14\. Prenant la 5e fois toute l'eau distillée, rassemble la poudre sèche déposée. Après les avoir prises et mises toutes deux dans un alambic de verre, plonge celui-ci dans du crottin de cheval pendant 40 jours, ou autant de temps que tu voudras.
+
+15\. Ensuite remets de nouveau dans la coquille de verre, et fais monter comme précédemment. Lorsque la moitié du liquide aura été distillée, après avoir ouvert la coquille, remets-le de nouveau dans ce (vase), et répète cela jusqu'à 5 fois.
+
+16\. Or tu prendras cette précaution de ne pas distiller (vivement), comme précédemment, mais doucement et lentement.
+
+17\. Après la 5e fois, recueille tout ce qui a été distillé dans l'alambic. La poudre sèche déposée dans la coquille, mets-la sur le marbre ; et après l'avoir broyée et délayée avec le liquide distillé, comme ci-dessus, laisse refroidir à l'ombre. Fais cela jusqu'à ce qu'elle ait absorbé tout le liquide. Pendant que l'on broie et que l'on arrose, on trouvera le produit blanchi : cette blancheur constitue le signe (qui précède ? ) la couleur rouge.
+
+18\. Or il faut que le produit soit bien blanchi. Ensuite, mets la (partie) blanchie dans un alambic de verre ; ajoutes-y de nouveau la matière qui provient de l'eau de chaux, 3 parties contre 1 partie du produit. Après avoir bien mélangé le tout, enfouis dans du crottin pendant (40) autres jours.
+
+19\. Après avoir retiré, fais monter, recueille le liquide et remets-le dans ce (vase) : fais monter une seconde fois, recueille et surveille. Or la partie déposée dans la coquille, tu la trouveras blanche, semblable à du marbre. Prenant cela semblablement, opère avec soin.
+
+20\. Ensuite, après avoir pris de l'espèce semblable à du marbre une partie, et de l'eau distillée, une autre partie ; après avoir bien mélangé ces choses, mets dans une coquille de verre, si tu n'as pas d'alambic ; puis scelle et bouche convenablement son orifice avec un couvercle de plomb ; étends un mince enduit sur ladite coquille de verre, en employant un lut qui résiste au feu.
+
+21\. Ensuite traite habilement (cette matière) et dispose-(la) sur un petit fourneau, pareil à celui de l'eau de roses. Au lieu d'un feu de charbon, place le au-dessus d'une lampe allumée. Si les espèces de l'intérieur sont dans la proportion d'une once (chacune), c'est-à-dire que le poids de l'une et de l'autre soit de 2 onces, il faut faire brûler la lampe pendant 7 jours, c'est-à-dire 7 jours et 7 nuits. Si ces espèces n'ont qu'un poids moitié moindre, fais brûler pendant 4 jours ; si c'est le quart, 2 jours. Après les 7 jours, ayant ouvert le vase, et reconnu que l'espèce est compacte, ajoute encore de l'eau mise à part, une autre once, comme précédemment. Ensuite, faisant brûler la lampe autant de jours qu'il a été dit, opère ainsi jusqu'à 9 fois.
+
+22\. Après avoir ouvert, tu trouveras un produit jaune compacte, dont le poids répondra à celui de toutes les matières ajoutées successivement en 9 fois, jusqu'à concurrence de 10 onces.
+
+23\. Mets de côté et prends-en 1 partie, c'est-à-dire la valeur d'une once.
+
+24\. Ensuite, ayant opéré au moyen du feu, c'est-à-dire à la chaleur de la lampe, arrose ces (matières) 9 fois ; en opérant au moyen d'un poids égal d'huile divine, comme tu as fait avec l'eau divine. La dernière fois, c'est-à-dire la 9e, tu prendras le double du poids d'huile, et (alors) tu feras brûler la lampe plus fort.
+
+25\. Ensuite tu trouveras la poudre sèche complètement préparée, de couleur pourpre vif. Après l'avoir bien broyée, garde-la avec soin.
+
+26\. Lorsque, avec l'aide de Dieu, tu auras obtenu ce produit, prends de l'argent pur, la valeur d'une once ; fais-le fondre au feu et mets-y de la poudre précédente, la valeur d'un grain : tu trouveras l'or brillant et dont l'éclat s'étend jusqu'aux limites de la (terre) habitée.
+
+---
+
+#### Nicéphore Blemmidès. --- Appendice ce que réclame la Présente Préparation.
+
+D'abord des œufs propres avec leurs 36 ( ? ) germes.
+
+Appareils : Deux coquilles de terre cuite, avec des bouchons de verre.
+
+Semblablement aussi 3 coquilles de verre, capables de contenir, l'une, une pinte, l'autre, 2 pintes, et la dernière une demi-pinte, avec son chapeau.
+
+Mortier en marbre ;--- et porphyre.
+
+Palette de peintre.
+
+Plâtre vieux, provenant d'une église.
+
+Un vase résistant au feu et deux marmites en forme d'écuelle ( ? )
+
+Lut qui résiste au feu.
+
+Il faut aussi, tout d'abord, de l'eau blanche distillée une fois, 36 onces.
+
+Semblablement, en second lieu, (la même eau) montée une fois, 18 onces ;
+
+Et de l'huile de cochenille, montée une fois, 15 onces.
+
+Sache que les 36 œufs absorbent 9 onces d'eau.
+
+La pinte comporte 2 mesures d'eau.
+
+De même il faut aussi de la chaux (tirée des coquilles d'œuf, avec les membranes), 9 onces ; des enveloppes d'œuf broyées et incombustibles, 18 onces ; de la magnésie, c'est-à-dire des jaunes (d'œufs) calcinés, 4 hexages 20 cotyles.
+
+Des balances, du bois à brûler, un petit fourneau et un esprit subtil et sans limite.
+
+Voici ce qu'il faut (pour compléter) le mystère dans son intégrité : Prends* le sang d'un homme aviné, la bile d'un bœuf noir non marqué, et le suc de la plante appelée barbe de bouc. Employant ces trois (matières) en proportion égale, chauffe du fer et trempe : tu pourras réussir.
+
+*) Cette formule finale se trouve déjà à la fin de 6, 13, p. 405, note 2.
+
+---
