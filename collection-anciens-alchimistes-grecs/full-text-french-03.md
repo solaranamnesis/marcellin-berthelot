@@ -10643,4 +10643,193 @@ A et K reproduisent ensuite le traité de Zosime sur la Vertu et l'Interprétati
 
 *) « Sur l'art sacré et divin des philosophes : Traité dédié au grand Empereur Théodose ; » Vat. Cp. p. 378.
 
+1\. L'œuf est composé par nature de quatre parties, étant formé des parties susdites.* Or toutes les variétés de fabrications générales sont au nombre de 135* ; et il n'est pas possible d'en trouver un nombre plus grand ou plus petit que celui-ci. Il s'agit des genres et des espèces de la matière unique et véritable, décrite dans les 4 (ou 5) livres* précieux qui embrassent la science, (c'est-à-dire) l'argent, l'or, les perles, les pierres et la pourpre.* Or il existe plusieurs voies spéciales,* pour ceux qui poursuivent [l'art] : les unes méthodiques, les autres non méthodiques. Parmi eux quelques-uns ont donné des descriptions que nous reproduirons ; tandis que d'autres manquent de tradition et d'expérience ; nous écarterons cette inexpérience et ces opinions individuelles.
+
+*) A rapprocher de 3, 44, p. 211. Tout ce morceau paraît être une suite de 1, 3 et 1, 4, p. 18 à 22. Il a un caractère singulier, en raison des rapprochements mystiques qui s'y trouvent exposés entre la musique et la chimie. On a essayé de traduire ces rapprochements le plus littéralement possible, mais sans prétendre en avoir pénétré le sens exact, que l'auteur ne comprenait peut-être pas bien lui-même. D'ailleurs ce morceau fournira sans doute aux spécialistes quelques renseignements nouveaux sur la musique byzantine.
+
+*) Ce passage se rapporte à l'Écrit du Philosophe Chrétien, 6, 10, § 9, p. 396.
+
+*) E : « corps, » au lieu de « livres. »
+
+*) Les quatre livres sur l'or, l'argent, les pierres et la pourpre sont les quatre livres attribués à Démocrite. On voit qu'on intercale ici un cinquième livre sur les perles, qui parait être l'ouvrage transcrit dans la 5e partie, 9 (p. 352). Ceci n'a pas été compris par le copiste de E, qui donne la rédaction suivante : « Or les parties les plus précieuses de cette matière scientifique sont l'argent, l'or, les perles et la pourpre. »
+
+*) E : « Voies spéciales à ceux qui poursuivent un art dépourvu de méthode pour les ignorants, quoique méthodique pour les gens capables d'instruction. »
+
+2\. Il en est de notre science comme de la musique. Les rangées musicales les plus générales étant au nombre de quatre,* la 1re, la 2e, la 3e et la 4e, il s'en forme 24 autres, différant par les espèces, celles-ci (au nombre de six) appelées centrales, égales, plagales, pures, non-tonales (et détonnantes). Il est impossible de constituer autrement les mélodies qui sont indéfinies quant à leurs parties, telles que celles des hymnes, ou des offices, ou des révélations, ou de toute autre branche de la science sacrée, comme par exemple de l'écoulement ( ? ), ou de la phthora (modulation), ou d'autres affections musicales. De même ici (en chimie), il y a lieu de définir ce qui est possible, quand il s'agit de la matière unique, véritable et fondamentale, (savoir) la fabrication du produit des oiseaux.*
+
+*) E remplace partout στοχὸς (ou plutôt στοῖχος, rangée, ligne), par ἦχος ; (ton, mode). La musique byzantine, comme le plain-chant romain, se compose de 4 tons principaux (_authentes_) et de 4 tons plagaux : ce qui constitue _l'octo-échos_ (_C. E. R._).  
+E : « De même que les 4 tons ou modes les plus généraux, fondements de la science musicale, c'est-à-dire le 1er ton, le 2e, le 3e et le 4e, engendrent d'eux-mêmes 24 autres tons, lesquels diffèrent par l'espèce, et sont appelés centraux et purs, non-tonals et égaux, etc. »
+
+*) C'est-à-dire de l'œuf philosophique.  
+E : « de l'ornithogonie de l'œuf ; or toute voix et toute sorte de chants sont produits soit par le larynx, soit par la flûte, soit par la cithare ou un autre instrument ; mais toute sorte de chants se composent de 4 tons, ou de 3, ou de 2, ou d'un seul. »
+
+3\. Tout ce qui est exécuté sur la flûte et ce qui l'est sur la cithare est composé, soit des quatre rangées, soit de trois, soit de deux seulement, soit d'une seule. Lorsque la composition est obtenue avec trois rangées, elle comprend nécessairement la 1re, la 2e et la 3e rangées ; ou la 2e, la 4e et la 1re ; ou bien la 4e, la 1re et la 3e.* Lorsque le chant est composé avec deux (rangées), (il l'est) forcément de la 1re et de la 2e ; ou de la 2e et de la 3e ; ou de la 3e et de la 4e ; ou de la 4e et de la 1re ; ou de la 1re et de la 3e ; ou de la 2e et de la 4e. Et lorsque (le chant) est composé (avec une) rangée seulement, il l'est incontestablement, ou de la 1re, ou de la 2e, ou de la 3e, ou de la 4e ; et il est impossible* qu'il se forme dans d'autres conditions avec l'une des branches : il n'y a rien au delà. C'est de la même façon qu'il faut raisonner ici, quand il s'agit de notre science, et il faut nécessairement s'attendre à ne pouvoir atteindre le but, si l'on s'écarte des règles.
+
+*) L'auteur exclut 2, 3, 4 ; comme ne faisant pas une combinaison mélodique.
+
+*) E : « Et il est impossible qu'il se forme autrement. Car toute sorte de chant doit se former de l'une des branches susdites et, en dehors de celles-là, il n'y a pas d'autre procédé. »
+
+4\. De la même manière que, dans les (matières) musicales, on voit que le chant est incorrect et inexact, si en commençant par la 1re rangée on court consécutivement sur la 3e ou au delà, et inversement ; ou bien si l'on va au hasard de la 2e à la 4e, et réciproprement ; ou bien si, négligeant l'alternance des tons plagaux et des tenues, (on passe) du ton pur au central, ou du 1er central au 2e, au 3e ou au 4e central, ou d'un ton égal à un (autre) égal, ou d'un plagal à un (autre) plagal, ou d'un non-tonal à un autre pareil, ou d'un détonant au précédent, ou bien au 3e (ton), ou bien à quelqu'un des autres, (ou) inversement.* Car sur tous ces points et leurs analogues, il y a une grande distinction (à faire) ; et il se rencontre des hauts et des bas, des altérations et des mortifications, ou toute autre faute de cette sorte.
+
+*) Les six parties ou tons indiqués ici sont le pur (cathare ou authente ? ) ; le central, le plagal, l'égal (ison), le non-tonal et le détonant ; chacun d'eux pouvant être pris avec quatre hauteurs (rangées) différentes.
+
+5\. C'est pourquoi les maîtres en cette science ont dit que les (sons) propres (à un ton) surpassent les (sons) propres (à un autre ton) pour chaque rangée des centraux proprement dits ; de même le central du milieu pour les sons purs situés au delà du central qui vient après ; de même le 3e (surpasse) le 2e, et le 3e (surpasse) le 4e. Celui qui rend très grandes et irrégulières les entrées et les sorties des rangées dans les chants excite un rire excessif, parce qu'il produit les effets susdits. Il est (surtout) critiqué à bon droit par les savants, par ceux qui nous instruisent clairement dans leurs discours sur les effets (mélodiques).
+
+De même* ici (en chimie), il faut se garder de l'irrégularité dans toutes les questions susdites ; car si (l'on) s'occupe du noircissement, du blanchiment des coquilles (d'œuf), de l'iosis des jaunes (d'œuf), ou de toute, autre partie du traitement, sans marcher pas à pas ; ou bien, si, au lieu de procéder au blanchiment en 1er lieu, en 2e lieu ou en 3e lieu, en opérant sur les parties ou sur le tout ; si (disons-nous) l'on commence par l'iosis des parties séparées, ou brouillées ensemble ; ou bien encore si l'on débute par les coquilles, et si l'on passe subitement au jaune ; ou bien si, négligeant le 1er mercure (obtenu) par les alambics, on passe au (mercure) moyen* ; ou au dernier ; ou bien si, après avoir accompli les premiers délaiements, on passe aussitôt aux derniers, ou bien qu'on fasse l'inverse pour toutes les (opérations) susdites ; ou bien si l'on fait quelque autre chose contraire à l'ordre obligatoire : dans tous ces cas, le résultat se ressentira de pareilles erreurs et prêtera à rire.
+
+*) E : « De même, dans cet art divin qui est le nôtre, il se produit des irrégularités et des déviations, des altérations et des mortifications, si l'on opère avec ignorance et sans art. C'est pourquoi il faut que les jeunes gens se gardent avec soin de tout cela. »
+
+*) Le mot mercure semble ici synonyme d'eau divine, c'est-à-dire des liquides distillés employés pour l'opération. On trouve un sens mystique analogue dans Raymond Lulle : Manget, t. 1, p. 824.
+
+5 _bis_. De même, etc.*
+
+*) Traduit, p. 212.
+
+6\. De même que, à propos des parties de la matière, nous avons parlé des diversités de fabrication, en vue de leur division ; de même aussi, on pourra (le faire) à propos des traitements. (Cependant) il est possible de voir au contraire, dans le cas de notre traitement, que sa nature est une ; l'espèce est une et la substance unique. C'est d'après ces principes que Zosime, ce saint auteur, commentait les mots : « une nature unique triomphant du Tout ; » et ceux-ci : « l'être naturel est un ; il ne s'agit pas de l'espèce, mais bien de l'art. »
+
+Si l'on voulait rappeler que les espèces des 24 rangées comprennent seulement six catégories, (savoir) le pur, le plagal, l'égal, le central, le non-tonal ou le détonant, qu'on se rappelle aussi que chacune est partagée en 1re, 2e, 3e et 4e rangées (musicales). Mais il n'est pas dans notre plan de parler maintenant de ces sortes de choses.
+
+Semblablement aussi, au sujet de la matière chimique et de l'espèce, il est permis à ceux qui (le) veulent, de concevoir des (idées) analogues, et d'admettre que la matière est tout à fait unique, absolument parlant. Dans l'espèce chimique, il s'agit du traitement, pris absolument ; de même qu'il y a la rangée prise absolument, ou l'instrument musical pris dans un sens absolu ( ? ). Tandis que la matière subordonnée et générique* est celle qui provient des (œufs) d'oies et des (autres volatiles) domestiques.
+
+*) E : « tandis que par la matière secondaire et générique nous vouions parler de la matière produite avec les œufs des oies et des autres oiseaux domestiques, ou avec bien des ... ( ? ) Or nous appelons espèces secondaires celles qu'on obtient par le feu (ou sans feu), ou par procédé mixte. »
+
+Les espèces subordonnées sont celles qu'on obtient soit par le feu, soit sans le secours du feu, soit par un procédé mixte ; car les genres se trouvent être alternatifs. De la même manière dans la musique, il y a des instruments généraux et spéciaux, répondant aux parties spéciales de la science, (à savoir) : le genre nauston (instruments à percussion ? ), l'aulétique (instruments à vent) et le citharique (instruments à cordes) ; tous correspondant au quaternaire des lignes c'est-à-dire (aux quatre lignes musicales). Or les espèces exécutées sur ces instruments et les genres secondaires sont au nombre de six dans la science, savoir : le pur, le plagal, l'égal, le central, le non-tonal et le détonnant.
+
+Les instruments cithariques sont nombreux et diffèrent par leurs espèces ; car il y a le plinthion,* à 32 (cordes), la lyre, à 9 (cordes), l'achilléen, à 21 (cordes), ... le psaltérion, à 10 cordes au moins, ou à 30 ou à 40 au plus, et celui qui n'en a que 3 ou 4, ou 5. Il y a aussi le plinthion,* à 32 cordes, propre (à célébrer) les puissances divines, lequel convient principalement aux mêmes, ainsi qu'à leur conjonction avec les puissances corporelles.
+
+*) E : « Le plinthion, composé de 32 cordes ; la lyre, composée de 9 cordes ; l'achilléen, composé de 30 cordes avec une corde additionnelle, et le psaltérion, etc. »
+
+*) E : « Il y a un autre plinthion, composé de 32 cordes. Quant aux instruments que nous appelons maintenant, instruments par excellence (orgues ? ), les anciens les appelaient plinthion sans cordes et aulétique. Cet instrument est approprié aux puissances divines et il s'accorde principalement avec les âmes ; il est apte à fortifier les puissances corporelles ; il possède un charme pour combattre la douleur de l'âme, et pour faire aimer Dieu. Ce qui convient encore aux corps, c'est l'instrument aulétique (à vent) : il est fait de cuivre, et on l'appelle grand orgue et grand psaltérion. »
+
+L'instrument aulétique est tantôt en cuivre, tel que le très grand instrument appelé psaltérion ou orgue à main, le cabithacanthion ( ? ) pour sept doigts, le pandourion, le tonadion, la trompette, et les trompes. Il peut être aussi construit sans cuivre, (tels que) le chalumeau simple, le double chalumeau, le chalumeau multiple, le rax, le tétroréon et le plagal.
+
+Nous rangeons parmi les instruments (à percussion) les cymbales pour les mains ou pour les pieds, les aiguières (vases musicaux) en cuivre et en verre. Il y a aussi l'instrument composé* de plusieurs métaux, que l'on comprend quand on sait réaliser la mise en œuvre des 24 rangées.
+
+*) E : « De même que dans la musique il y a beaucoup de genres, d'espèces et d'instruments ; de même aussi dans l'art divin de la chimie, il y a des genres des espèces, des variétés de traitement et de combinaisons, et des vases, et des aiguières en cuivre, en verre et en terre cuite. Et quiconque connaît toutes ces variétés et celle des autres arts, sait encore accomplir ce qui est cherché. »
+
+8\. Le divin Xénocrate* a exposé encore autre chose. Les espèces des (œufs) d'oies et des (autres volatiles) privés se trouvent de leur côté* comporter quatre subdivisions, (savoir) le blanc, le jaune, la membrane et la coquille.
+
+*) E : « Comme le dit le divin Xénocrate, les œufs des oies et des autres oiseaux privés contiennent 4 espèces, savoir : le blanc, etc. » --- Xénocrate est compris dans la vieille liste des auteurs alchimiques donnée par le ms. M (_Introduction_, p. 110, 111).
+
+*) Comme les tons musicaux.
+
+Par suite, les variétés relatives à l'espèce des fabrications ont été exposées comme des portions de la science ; tout comme les variétés des rangées musicales susdites et des mélodies forment des espèces très spéciales (en musique). En effet, de même que notre art, opérant sur les parties générales de la matière chimique, expose en grand nombre et variété les espèces des fabrications ; de même aussi la musique, ce bien donné par Dieu, étant combinée avec les espèces matérielles, a engendré plusieurs variétés.*
+
+*) Les rapprochements entre la musique et la chimie ne se retrouvent plus dans les paragraphes suivants.
+
+9\. Non seulement les susdites variétés existent en chimie pour la poudre sèche ; mais encore il existe des fabrications aussi nombreuses quant à l'espèce, suivant que l'on emploie des (matières) liquides, des matières sèches ou mixtes. En effet, pour toutes les variétés d'espèce, parmi les poudres sèches, nous trouverons des divisions en nombre égal, parmi les préparations liquides et mixtes ; parmi celles qui sont distillées au moyen des appareils, et non distillées, mais bien exprimées au moyen d'un linge, ou bien épuisées d'eau par tel ou tel autre procédé ; afin que (le liquide) soit uni aux solides matériels et réalise le mélange moyen après l'iosis : le tout est délayé ensuite, et possède une existence tout à fait liquide. Ce ne sont pas seulement les deux parties liquides de l'œuf qui peuvent être mercurifiées, en raison de leur nature fluide ; mais les deux (parties) sèches qui constituent le surplus de la nature (de l'œuf), sont aussi capables d'être mercurifiées ; attendu que tout corps naturel a une existence mélangée des quatre éléments, en proportion inégale ou égale.*
+
+*) Add. de E : « De sorte qu'il semble aux non-initiés et aux ignorants qu'il est impossible d'entreprendre d'opération. » --- Mercurifié a ici un sens mystique, impliquant l'idée de distillation. --- Cp. note 1 de la p. 412.
+
+10\. Ainsi les liquides sont absorbés par les substances solides, ces ingrédients étant employés à dose minime, avec le concours des alambics. Ou bien on les mélange ; ou bien on les éteint dans les liquides naturels, en laissant s'opérer la décomposition avec le temps et la dissolution. Les produits obtenus sont partagés en deux, et traités par le pélican (appareil distillatoire), ou bien sans le secours de l'appareil à mamelon. Alors sont mélangées entre elles les parties de même nature : je veux dire la (partie) décomposée et la partie non décomposée. Si (l'on) veut, avec les liquides seuls, pratiquer une teinture à fond par leur décomposition, on n'a pas recours au délaiement ; mais en mêlant de l'eau avec l'eau, on accomplit la préparation, en partageant les substances solides amenées à l'état de dépôt, ainsi que l'a fait voir clairement le grand Synésius.
+
+Les §§ 11, 12, 13, 14, concernent des opérations chimiques décrites d'une façon trop vague, pour que l'on ait réussi à donner un sens suffisamment précis à la traduction.
+
+15\. Mais on dira : « Montre-moi qu'il en est ainsi d'après les anciens écrits. » Écoute le premier des chimistes : « Prenant, dit-il, une pierre pyrite,* fais la chauffer, jusqu'à ce qu'elle devienne incandescente. Après l'avoir enlevée (du feu), trempe-la dans l'eau froide ; (retire-la aussitôt) et mets-y de la salive avec ton doigt : si elle l'absorbe, c'est qu'elle aura été chauffée convenablement ; alors, dépose-la dans la teinture.*
+
+*) Silex ? --- C'est le sens de ce mot en néogrec.
+
+*) E : « Fin du livre de la pierre musicale. »
+
+---
+
+#### 6. --- 16. Cosmas explication de la Science de la Chrysopée par le Saint Moine Cosmas.*
+
+*) Traité d'une époque beaucoup plus récente, à en juger par la langue.  
+On le donne ici pour montrer la continuité de la tradition alchimique dans le moyen âge. C'est une suite de recettes de transmutation.
+
+1\. Cette chimie véritable et mystérieuse demande beaucoup de travail, mais peu de dépense, car Un est le Tout et par lui est le Tout, et si un n'est pas trois et trois un, le Tout n'existe point : c'est là la délivrance de la maladie importune de la pauvreté. Ainsi c'est par affection pour toi que je t'écris, pour t'adresser une sorte de viatique et un petit artifice contre elle.
+
+2\. Prends de l'or pur, 3 hexages ; du mercure, 1 hexage ; fais un mélange à la façon des orfèvres. Ensuite trempe le mélange dans de l'eau, pour que la couleur noire s'échappe. Puis presse bien le mélange dans un linge de lin, afin que le mercure s'échappe.
+
+Ensuite unis le mélange avec de l'ios de bonne qualité, du sel ammoniac et un peu de la chaux tirée de l'œuf ; broie bien le tout sur un marbre.
+
+Ensuite unis ces (matières) à un jaune d'œuf ; place le tout dans une coquille d'œuf dur, (percée) d'un trou. Il faut que la coquille soit fraîche et propre.* Lute bien le trou, ainsi que l'œuf entier, et plonge dans du crottin de cheval chaud, pendant 7 jours.
+
+*) L'œuf philosophique désigne ici un appareil, suivant la nomenclature alchimique.
+
+Ensuite après l'avoir retiré, regarde par le trou de l'œuf (l'état de) la composition. Si elle est tout entière passée à l'état d'ios, c'est bien ; si non, répète l'opération jusqu'à ce que le Tout soit Un, c'est-à-dire changé en bel ios.
+
+Alors, allumant des charbons, à plusieurs reprises et sans désemparer, fais rôtir l'œuf entier ; puis, retirant le mélange, broie sur le marbre ; garde cette poudre de projection.
+
+En faisant fondre de l'argent très pur dans un creuset, et en y ajoutant une partie de cette poudre, tu obtiendras de l'or très brillant. Si tu veux le rendre encore plus fin, renouvelle 2 et 3 fois l'opération première, jusqu'à ce que (le résultat) te plaise.
+
+3\. **Ce qui suit est tiré d'un certain auteur ancien, Zosim ;--- l'autre (fragment) l'est du Grand Art des anciens. Fais l'épreuve que voici** :*
+
+Prends 4 œufs, mets-les dans un vase de terre cuite d'une grande capacité ; après avoir pétri un peu de fleur de farine avec du miel, dispose ce mélange tout autour des œufs dans un vase. Bouche-le bien, plonge dans de la fiente pendant 120 jours, jusqu'à ce que se produise une nature rouge de sang (destinée à devenir l'âme du produit). Ensuite, découvrant, mets le contenu dans un (vase) de terre cuite tout neuf ; porte à l'incandescence les charbons embrasés en les éventant, et dirige la vapeur des charbons sur le résidu disposé à l'avance. Lorsqu'il est grillé, mets-le dans un mortier, sans que ta main le touche. Après avoir broyé, garde-le dans un bocal. Fonds de l'argent pur, 1 livre ; projettes-y de cette poudre sèche 3 ou 6 parties et tu seras surpris. C'est là le divin et grand mystère, celui que l'on cherche, celui qui peut vaincre la pauvreté et écarter les ennemis. Ainsi soit-il.
+
+*) Ce morceau fait suite à l'article de Cosmas dans les manuscrits et semble en avoir fait partie. Est-il extrait réellement de Zosime ? C'est ce qu'il est difficile de décider.
+
+4\. **Autre explication.** --- (Prenant) de la sandaraque, de la couperose, de l'arsenic, du soufre et du cinabre, unis toutes ces matières ensemble. Après avoir broyé, délayé et formé un mélange visqueux, mets dans un verre propre, c'est-à-dire dans un ballon, qui devra avoir un orifice plus étroit que son ventre, tel que les paniers ronds des ruches ( ? ). Après avoir garni l'orifice de lut, fais chauffer sur un feu doux. Ensuite, ôtant le lut, tu trouveras le mélange desséché, en consistance de poix. Après avoir encore délayé, transvase dans un pot de terre cuite ; et prenant le tout, place auprès du feu. Après avoir découvert, tu trouveras du jaune.
+
+5\. Prends de la magnésie blanche, et le même poids de limaille, ainsi que les (matières) traitées préalablement. Ensuite faisant tiédir les deux (corps) dans de l'huile de raifort, laisse digérer : tu obtiendras un jaune de qualité supérieure pour la fonte. Mais si la couleur n'est pas brillante, après avoir enduit de sel, de misy et de rouille de fer délayée avec du vinaigre, et après avoir fait intervenir la puissance de la limaille provenant du petit plat, (la préparation) sera parfaite.
+
+6\. Maintenant, si tu as de l'or, et que tu veuilles en doubler le poids, sans en diminuer la qualité ; après avoir pesé cet (or), mets double dose de la préparation précédente, obtenue avec le misy et la limaille de fer noircie, en prenant de l'un et de l'autre un poids quadruple de l'or. Mélangeant ou combinant ces choses, applique les autour de l'or ; après avoir mis dans un creuset et fait chauffer, enlève : tu trouveras l'or (en quantité) double.
+
+7\. Le cinabre et l'ios du cuivre couleur d'or, ainsi que certaines espèces naturelles, projetés dans la matière lunaire (l'argent), produisent de l'or métallique.
+
+8\. Après avoir fondu du plomb au feu, saupoudre-le de soufre et chauffe jusqu'à ce que la mauvaise odeur soit évaporée. Ensuite mettant de l'alun lamelleux et du cinabre dans les vases, en égale proportion, et mêlant avec de l'oxymel, arrose avec le plomb liquéfié. Agis semblablement avec du soufre apyre, jusqu'à ce que la matière durcie se change en or.
+
+9\. Prenant du cuivre, étends-le en lames, coupe-(le) en petits morceaux carrés et mets ceux-ci dans un petit pot d'argile : une couche de cuivre, puis une couche de soufre pilé ; bouche bien l'orifice à la partie supérieure, avec du lut. Puis, mets ce petit pot dans un autre pot (plus) grand ; celui-ci doit avoir des trous. Laisse entrer le feu par ces trous ; emploie un feu fort et fais cuire pendant 4 heures : le cuivre calciné devient ainsi pulvérulent, et pareil à du sel : il se forme ce qu'on appelle du rasouchti.*
+
+*) C'est la préparation de _l'œs ustum_ de Dioscoride. _Introd._, p. 233.
+
+10\. Ensuite prends du rasouchti, 5 onces et demie ; du natron ou de l'efflorescence artificielle ( ? ), 3 onces ; du mercure, 2 onces : mélange tout cela et broie fin comme de la farine. Broie ces choses, jusqu'à ce que l'on ne voie plus le mercure. Ensuite, procure-toi deux plats, agencés de façon à se recouvrir exactement et que rien ne puisse en sortir, pas même de l'eau ; ensuite, enduis les avec de l'argile à creuset ; ou bien, si tu n'en trouves pas, avec l'argile dont se font les assiettes. Dès que tu as bien disposé les deux plats, de façon que leurs bords s'adaptent l'un à l'autre, enduis-les exactement. Le vase inférieur, c'est-à-dire le plat, doit être plongé de nouveau dans cette argile et luté, aux jointures et tout autour, avec du blanc d'œuf. Ensuite, fais dans le fond du plat supérieur un trou capable d'admettre une aiguille à coudre des sacs, ou même un trou plus petit, comme pour une grosse aiguille (ordinaire). Puis fabrique un petit fourneau et rétrécis-le par en haut, de façon que l'espace supérieur puisse contenir les plats, tandis qu'à sa partie inférieure il sera plus large. Dépose les plats dans la partie supérieure du fourneau, et, par en bas, mets un peu de feu, réparti également. Dispose sur le trou du plat supérieur un couteau, afin de pouvoir racler avec la pointe, et fais bien cuire. Retire souvent le couteau et regarde : lorsque tu verras monter quelque chose de pareil à l'argent, alors fais bien cuire. D'abord il montera une fumée épaisse, et, plus tard, du mercure* pareil à l'argent.
+
+*) Notre mercure, ou peut-être notre arsenic. --- _Introd._, p. 239.
+
+11\. Lorsque tu verras cela, cesse le feu ; bouche le trou du plat avec du lut et laisse refroidir (pendant la nuit). Vers le matin, retire le produit, après avoir ôté l'enduit des plats. Saisis d'abord le plat supérieur, puis l'autre, et recueille tout le mercure, de façon à n'en rien laisser dans le plat supérieur ; car il adhère à ce plat : râcle-le entièrement et prends-le. Alors prends de l'argent, 4 onces, et du cuivre, 8 onces. Fais fondre d'abord le cuivre et, dès qu'il est fondu, ajoute l'argent. Quand tu l'as fondu également, et que les deux (corps) n'en forment plus qu'un, alors ajoute de la poudre sèche, c'est-à-dire du mercure recueilli dans le plat, jusqu'à concurrence d'une demi-once : le tout te fournira un argent pur et parfait. Lorsque tu l'auras fondu dans l'appareil, mets dessus du sel ammoniac ; et si tu veux qu'il soit plus beau, mets-y une autre demi-once du mercure recueilli dans le plat, et l'argent sera encore meilleur.
+
+---
+
+#### 6. --- 17. La Pierre Philosophale.
+
+Compilation de morceaux déjà imprimés pour la plupart. On donnera seulement le suivant :
+
+**Zosime.** --- 1\. Je vais vous expliquer la comaris.* La comaris, par son addition, amène les perles à perfection. Sous ce nom on désigne la pierre qui attire au dehors l'esprit, par la puissance de la poudre de projection. Aucun des prophètes n'a osé exposer ce mystère dans ses discours ; mais ils savaient que c'était ainsi qu'il convenait de fixer cette précieuse puissance féminine ; car elle est la blancheur vénérable, d'après l'interprétation de tous les prophètes. On obtient cette puissance de la perle en la faisant cuire dans l'huile.
+
+*) Cp. Zosime, p. 122. C'est une variante.
+
+2\. Prenant la perle attique, fais-la cuire dans l'huile, dans un vase découvert et non clos, pendant 3 heures, au milieu du feu. Frotte la perle avec un chiffon de laine, pour la débarrasser d'huile et conserve-la pour t'en servir dans les teintures. Car c'est avec l'aide de l'huile que l'on amène la perle à perfection.
+
+---
+
+#### 6. --- 18. Sur la Pierre Philosophale.
+
+1\. Le célèbre philosophe d'Abdère, Zosime, Jean l'Archiprêtre, Hermès Trismégiste, Démocrite, Olympiodore et Stephanus, dans l'exposition de la Chrysopée, ont révélé le mystère du molybdochalque* ; ils se sont accordés à le prendre comme point de départ. Dans leurs mémoires fondés sur l'expérience, la pratique et la connaissance de la matière, ils prescrivent d'écarter tous les agents qui possèdent le pouvoir caustique, tels que le feu, le soufre, et tous les arsenics, parce que leur mélange et leur force sont la source de tous les dommages et accidents. Mais d'après eux il convient d'employer les agents doux, ceux qui possèdent le pouvoir liquéfiant, pour le mélange des éléments et l'alliage du plomb. Ils appellent aussi cet alliage union des substances : d'abord lorsqu'on le réalise au moyen de la fusion, et aussi (lorsqu'on opère) par grillage et lavage. Ils désignent (le molybdochalque) sous le nom de magnésie, parce qu'on mélange, pétrit et trempe, afin d'amener l'alliage à l'état d'une substance unique, par l'identification des substances composantes. Or le mélange du Tout, la (fabrication de la) matière, s'accomplit entièrement par voie humide et par les liquides ; de même que l'argile est pétrie avec les matières lavées, telles que les étoffes et les soies blanchies.
+
+*) Ce § résume l'article 6, 14, de l'Anonyme, p. 405.
+
+2\. C'est pourquoi Olympiodore écrit que le mystère de la Chrysopée réside dans les liquides. C'est par les écoulements d'eau, les courants, les lavages, la macération et le traitement que l'on accomplit l'opération mystérieuse.
+
+(Suit une subtilité.)
+
+3\. Démocrite dit au roi* : Si tu ne connais pas les substances et leur mélange, si tu ne comprends pas les espèces et l'union des genres avec les genres, tu travailleras en vain, ô roi.
+
+*) Cp. 408. --- Cette forme axiomatique rappelle la _Turba philosophorum_ et semble appartenir à une tradition analogue.
+
+4\. Zosime dit* : Dans le mystère de la teinture de l'or, les corps deviennent esprits, afin d'être teints par l'esprit dans la teinture ; c'est-à-dire que les corps (métalliques), unis au molybdochalque et modifiés par le mercure, deviennent esprits. Par ces agents ils sont d'abord liquéfiés, cuits, soumis à l'écoulement, en vertu de la macération qui en résulte et de l'opération de la transmutation, et ils changent ainsi de corps. Car ils passent naturellement à l'état incorporel, et ils arrivent d'une façon extraordinaire à l'état d'or cuit.
+
+*) Cp. Pélage, 4, 1, § 9, p. 248, et 6, 14, § 8 et 9, _Texte_.
+
+5\. Olympiodore dit* : le molybdochalque ou pierre étésienne détermine ensuite l'écoulement simultané de ces produits par le feu. L'un des effets est dû au plomb et l'autre au feu. Ce n'est pas de l'une des matières isolées que dépend l'écoulement simultané ; mais on doit faire écouler la matière par l'association des trois produits. On les mélange d'abord à parties égales et pour les faire écouler, il ne faut pas ajouter l'un des produits aux deux autres, mais mélanger à la fois les trois dans un même alliage. Le mot écoulement simultané montre qu'il faut faire écouler l'ensemble d'un seul coup.
+
+*) Cp. 6, 12, § 9, _Texte_.
+
+6\. (Suivent des subtilités.)
+
+7\. Zosime dit : Ne craignez pas, etc. (reproduction d'un passage donné : 3, 6, § 13, p. 135, jusqu'à la fin du §).
+
+8\. L'évaporation de l'eau est sa disparition. Je m'étonne du résultat de notre étude, et de voir comment l'émission et l'action de la vapeur de l'eau divine peuvent cuire et colorer notre composition.
+
+9\. Stephanus dit ... (3, 6, § 23 et 24, p. 138 et 139, avec diverses lacunes indiquées dans le texte grec).
+
+Viennent ensuite une série de morceaux déjà publiés, tirés de Zosime, de Jean l'Archiprêtre, de Stephanus, de Comarius, d'Olympiodore, etc., avec des portions abrégées et des lacunes.
+
+---
+
+#### 6. --- 19. Hiérothée sur l'Art Sacré.*
+
+*) Il existe sous le même nom un petit poème alchimique, où il est question de l'Empereur Nicéphore : son auteur serait donc du 9e siècle de notre ère. Si le texte présent est du même écrivain que le poème, l'époque serait indiquée par ce qui précède. Dans la vieille liste de St-Marc, sous notre numéro **38**, (_Introd._, p. 175) on lit aussi : « Chapitres d'Eugénius et d'Hiérothée ; » mais ces chapitres ne se retrouvent pas dans le Ms. M actuel.
+
 ...
