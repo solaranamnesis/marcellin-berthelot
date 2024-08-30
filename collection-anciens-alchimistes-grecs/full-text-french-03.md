@@ -36,6 +36,10 @@
 
 #### [4. --- 5. Agathodémon, Hermès et divers Oracle d'Orphée.](#4-----5-agathodémon-hermès-et-divers-oracle-dorphée-1)
 
+#### [4. --- 6. ΟΤΙ ΣΥΝΘΕΤΟΝ ΚΑΙ ΟΥΧ ΑΠΛΟΥΝ ΤΟ ΕΙΔΟΣ, ΚΑΙ ΤΙΣ Η ΟΙΚΟΝΟΜΙΑ.]()
+
+#### [4. --- 7. ΠΟΙΗΣΙΣ ΜΑΛΛΟΝ ΤΟΥ ΠΑΝΤΟΣ.]()
+
 ...
 
 ## [Cinquième Partie.]()
