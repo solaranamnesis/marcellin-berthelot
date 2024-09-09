@@ -72,7 +72,7 @@
 
 #### [4. --- 23. Les Huit Tombeaux.](#4-----23-les-huit-tombeaux-1)
 
-#### [4. --- 24. Pour Blanchir (le Cuivre).]()
+#### [4. --- 24. Pour Blanchir (le Cuivre).](#4-----24-pour-blanchir-le-cuivre-2)
 
 ## [Cinquième Partie.]()
 
@@ -138,7 +138,7 @@
 
 #### [4. --- 23. Les Huit Tombeaux sur l'Art Divin et Sacré des Philosophes.](#4-----23-les-huit-tombeaux-sur-lart-divin-et-sacré-des-philosophes-1)
 
-#### [4. --- 24. Pour Blanchir (le Cuivre).](#4-----24-pour-blanchir-le-cuivre-1)
+#### [4. --- 24. Pour Blanchir (le Cuivre).](#4-----24-pour-blanchir-le-cuivre-3)
 
 ## [Cinquième Partie.](#cinquième-partie-2)
 
