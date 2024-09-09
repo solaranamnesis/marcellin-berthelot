@@ -72,7 +72,7 @@
 
 #### [4. --- 23. Les Huit Tombeaux.](#4-----23-les-huit-tombeaux-1)
 
-...
+#### [4. --- 24. Pour Blanchir (le Cuivre).]()
 
 ## [Cinquième Partie.]()
 
