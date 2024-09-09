@@ -70,6 +70,8 @@
 
 #### [4. --- 22. Chimie de Moïse.](#4-----22-chimie-de-moïse-2)
 
+#### [4. --- 23. Les Huit Tombeaux.]()
+
 ...
 
 ## [Cinquième Partie.]()
