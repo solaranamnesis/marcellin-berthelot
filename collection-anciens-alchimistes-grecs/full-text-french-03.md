@@ -74,9 +74,11 @@
 
 #### [4. --- 24. Pour Blanchir (le Cuivre).](#4-----24-pour-blanchir-le-cuivre-2)
 
-## [Cinquième Partie.]()
+## [Cinquième Partie.](#cinquième-partie-2)
 
-### [Traités Techniques.]()
+### [Traités Techniques.](#traités-techniques-2)
+
+#### [5. --- 1. ΠΕΡΙ ΤΗΣ ΤΙΜΙΩΤΑΤΗΣ ΚΑΙ ΠΟΛΥΦΗΜΟΥ ΧΡΥΣΟΧΟΙΚΗΣ.]()
 
 ...
 
@@ -140,9 +142,9 @@
 
 #### [4. --- 24. Pour Blanchir (le Cuivre).](#4-----24-pour-blanchir-le-cuivre-3)
 
-## [Cinquième Partie.](#cinquième-partie-2)
+## [Cinquième Partie.](#cinquième-partie-3)
 
-### [Traités Techniques.](#traités-techniques-2)
+### [Traités Techniques.](#traités-techniques-3)
 
 #### [5. --- 1. Sur la très précieuse et célèbre Orfèvrerie.](#5-----1-sur-la-très-précieuse-et-célèbre-orfèvrerie-1)
 
