@@ -80,7 +80,7 @@
 
 #### [5. --- 1. ΠΕΡΙ ΤΗΣ ΤΙΜΙΩΤΑΤΗΣ ΚΑΙ ΠΟΛΥΦΗΜΟΥ ΧΡΥΣΟΧΟΙΚΗΣ.](#5-----1-περι-τησ-τιμιωτατησ-και-πολυφημου-χρυσοχοικησ-1)
 
-#### [5. --- 2. Travail des Quatre Éléments.]()
+#### [5. --- 2. Travail des Quatre Éléments.](#5-----2-travail-des-quatre-éléments-2)
 
 ...
 
@@ -150,7 +150,7 @@
 
 #### [5. --- 1. Sur la très précieuse et célèbre Orfèvrerie.](#5-----1-sur-la-très-précieuse-et-célèbre-orfèvrerie-1)
 
-#### [5. --- 2. Travail des Quatre Éléments.](#5-----2-travail-des-quatre-éléments-1)
+#### [5. --- 2. Travail des Quatre Éléments.](#5-----2-travail-des-quatre-éléments-3)
 
 #### [5. --- 3. Sur la Trempe du Fer.](#5-----3-sur-la-trempe-du-fer-1)
 
