@@ -1439,6 +1439,10 @@ Lc : μετὰ τοῦ φυλ. ὕδ. ἐν μαρμάριν καὶ πότιζ�
 
 ---
 
+## Cinquième Partie.
+
+### Traités Techniques.
+
 #### 5\. --- 1. ΠΕΡΙ ΤΗΣ ΤΙΜΙΩΤΑΤΗΣ ΚΑΙ ΠΟΛΥΦΗΜΟΥ ΧΡΥΣΟΧΟΙΚΗΣ.
 
 _Transcrit sur_ A, f. 280 r., _seul manuscrit connu_. (_Quelques articles dans_ Laur.). --- _Sauf indication spéciale, toutes les leçons rejetées en note sont celles du ms., remplacées dans le texte par des corrections conjecturales._
