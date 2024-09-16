@@ -82,6 +82,8 @@
 
 #### [5. --- 2. Travail des Quatre Éléments.](#5-----2-travail-des-quatre-éléments-2)
 
+#### [5. --- 3. ΠΕΡΙ ΒΑΦΗΣ ΣΙΔΗΡΟΥ.]()
+
 ...
 
 ## [Sixième Partie.]()
