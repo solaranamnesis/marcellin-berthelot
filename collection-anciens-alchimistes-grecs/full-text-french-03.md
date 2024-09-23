@@ -222,7 +222,7 @@
 
 #### [5. --- 8. Méthode pour confectionner la Perle Ronde préparée par le célèbre technurgiste arabe Salmanas.](#5-----8-méthode-pour-confectionner-la-perle-ronde-préparée-par-le-célèbre-technurgiste-arabe-salmanas-1)
 
-#### [5. --- 9. Traitement des Perles.](#5-----9-traitement-des-perles-1)
+#### [5. --- 9. Traitement des Perles.](#5-----9-traitement-des-perles-3)
 
 #### [5. --- 10. Fabrication des Bières.](#5-----10-fabrication-des-bières-1)
 
@@ -244,7 +244,7 @@
 
 #### [5. --- 19. Sur la Fabrication du Savon d'Axonge.](#5-----19-sur-la-fabrication-du-savon-daxonge-1)
 
-#### [5. --- 20. Les Mois.](#5-----20-les-mois-1)
+#### [5. --- 20. Les Mois.](#5-----20-les-mois-3)
 
 #### [5. --- 21. Fabrication de l'Or.](#5-----21-fabrication-de-lor-1)
 
@@ -252,11 +252,11 @@
 
 #### [5. --- 23. Préparation du Cinabre.](#5-----23-préparation-du-cinabre-1)
 
-#### [5. --- 24. Pratique de l'Empereur Justinien.](#5-----24-pratique-de-lempereur-justinien-1)
+#### [5. --- 24. Pratique de l'Empereur Justinien.](#5-----24-pratique-de-lempereur-justinien-3)
 
 #### [5. --- 25. Description de la Grande Héliurgie exposée dans le Traitement du Tout.](#5-----25-description-de-la-grande-héliurgie-exposée-dans-le-traitement-du-tout-1)
 
-#### [5. --- 26. Bénédiction de la Ruche.](#5-----26-bénédiction-de-la-ruche-1)
+#### [5. --- 26. Bénédiction de la Ruche.](#5-----26-bénédiction-de-la-ruche-3)
 
 #### [5. --- 27. Fabrication de l'Argent.](#5-----27-fabrication-de-largent-1)
 
