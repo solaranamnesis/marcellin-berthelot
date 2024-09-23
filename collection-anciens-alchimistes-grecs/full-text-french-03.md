@@ -276,9 +276,9 @@
 
 #### [5. --- 32. Dorure du Fer.](#5-----32-dorure-du-fer-1)
 
-## [Sixième Partie.](#sixième-partie-2)
+## [Sixième Partie.](#sixième-partie-3)
 
-### [Commentateurs.](#commentateurs-2)
+### [Commentateurs.](#commentateurs-3)
 
 #### [Note Préliminaire.](#note-préliminaire-1)
 
