@@ -146,6 +146,8 @@
 
 ### [Commentateurs.]()
 
+#### [#### 6\. --- 1. ΤΟΥ ΧΡΙΣΤΙΑΝΟΥ ΠΕΡΙ ΕΥΣΤΑΘΕΙΑΣ ΤΟΥ ΧΡΥΣΟΥ.]()
+
 ...
 
 # [Traduction.](#traduction-1)
@@ -2592,11 +2594,12 @@ de. --- 7. F. l. ἕως οῦ να μένουν τὰ γμέρη. | 16. καλ�
 
 ---
 
-### 0161
+## Sixième Partie.
 
-SXΕE PARTIE
-COMMΤTEERS
-VI. 1. --- ΤΟΥ ΧΡΙΣΤΙΑΝΟΥ ΠΕΡΙ ΕΥΣΤAΘΕΙΑΣ ΤΟ ΧΡΥΣΟΥ
+### Commentateurs.
+
+#### 6\. --- 1. ΤΟΥ ΧΡΙΣΤΙΑΝΟΥ ΠΕΡΙ ΕΥΣΤΑΘΕΙΑΣ ΤΟΥ ΧΡΥΣΟΥ.
+
 ranscrit sur M, f. 110 r. --- Collationné sur B, f. 91 r.; --- sur A, f. 2 v.; --- sur
 K, f. 5 v. ; --- sur E, f. 5 r.; --- sur Lb (copie de E), p. 1. --- Chapitre 1er de la co-
 pilation du Crétien dans E Lb. --- Les νariantes et additions de M ont été repor-
