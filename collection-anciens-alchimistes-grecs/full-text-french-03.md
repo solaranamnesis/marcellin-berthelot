@@ -8425,7 +8425,7 @@ Nous allons, pour préciser la discussion, donner un tableau comprenant les 53 c
 
 **Tableau des Chapitres du Philosophe Chrétien.**
 
-[TABLE]
+[TABLE]*
 
 *) Traité coupé en deux par le relieur (_Introd._, p. 184).
 
