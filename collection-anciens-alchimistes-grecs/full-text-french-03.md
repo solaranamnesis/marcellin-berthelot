@@ -8425,7 +8425,52 @@ Nous allons, pour préciser la discussion, donner un tableau comprenant les 53 c
 
 **Tableau des Chapitres du Philosophe Chrétien.**
 
-[TABLE]*
+| **Titres**                              | **Lb (2251)** | **E (2329)** | **M**                 | **A (2327)**          | **B (2325)**       | **Vat.**                 | **Vieille Liste de M** | **Notre Publication** |
+|-----------------------------------------|---------------|--------------|-----------------------|-----------------------|--------------------|--------------------------|------------------------|-----------------------|
+|                                         | chapitres     | chapitres    | folios                | folios                | folios             | folios                   | numéros                |                       |
+| Constitution de l'or                    | 1er           | 1er          | 110 r.                | 92 v.                 | 91 r.              | manque                   | 47                     | 6, 1.                 |
+| L'espèce est composée                   | 2             | 2            | 96 r.                 | 94 r.                 | 94 r.              |                          | 31 ?                   | 4, 6.                 |
+| Fabrication du Tout                     | 3             | 3            | 97 r.                 | suite du précéd       | suite du précéd    |                          | 31                     | 4, 7.                 |
+| Autre traitement                        | 4             | 4            | 98 v.                 | d°                    | d°                 |                          | 31                     | 4, 8.                 |
+| La chaux des anciens, etc.              | 5 à 13        | 5 à 12       | 99 r.                 |                       |                    |                          |                        |                       |
+| Les espèces de l'Eau divine             | 14            | 13           | 101 r.                | 99 r.                 | 101 v.             |                          | 48 ?                   | 6, 2.                 |
+| Désaccord des anciens                   | 15            | 14           | suite                 | suite                 | suite              |                          | 48                     | 6, 3.                 |
+| Traitement de l'Eau divine en général   | 16            | 15           | suite                 | suite                 | suite              |                          | d°                     | 6, 4.                 |
+| Fabrication de l'Eau mystérieuse        | 17            | n° omis      | 103 r. et 119 r.*     | d°                    | d°                 |                          | d°                     | 6, 5.                 |
+| Objection concernant l'Eau divine, etc. | 18 à 20       | 17 à 18      | 119 r.                | 101 r.                | 105 r.             |                          | d°                     | 6, 6 à 9.             |
+| Variétés de la fabrication              | 21            | n° omis      | 122 r.                | 103 v.                | 108 r.             |                          | d°                     | 6, 10.                |
+| Figures géométriques                    | 22            | d°           | 124 r.                | 105 v.                | 111 r.             |                          | d°                     | 6, 11.                |
+| Ecrits secrets des anciens              | 23            | d°           | 124 v.                | 106 r.                | 111 v.             |                          | d°                     | 6, 12.                |
+| Laines teintes                          | 24            | 23           | 127 v.                | 109 r.                | 115 v.             | 133 r.                   | 48                     | 5, 12.                |
+| Poudre noire                            | 25            | 24           | suite                 | suite                 | 116 r.             | 130 v.                   | d°                     | 5, 13.                |
+| Comaris                                 | 26            | 25           | d°                    | d°                    | d°                 | d°                       | d°                     | 5, 14.                |
+| Traitement après l'iosis                | 27            | 26 (_sic_)   | d°                    | d°                    | d°                 | d°                       | d°                     | 5, 15.                |
+| Les mœurs du Philosophe                 | 28            | 26 (_sic_)   | 128 r.                | 109 v.                | d°                 |                          |                        | 1, 14.                |
+| Serment                                 | suite         | 27           | 128 v.                | 109 v.                | 116 v.             |                          | ?                      | 1, 11.                |
+| La poudre sèche                         | 29            | 28           | 136 v.                | 110 r.                | d°                 |                          | ?                      | 3, 31.                |
+| L'ios, etc.                             | 30            | 29           | suite                 | suite                 | 117 r.             |                          |                        | 3, 32 à 35.           |
+| Lavage de la cadmie                     | 31            | 30           | 137 r.                | 110 v.                |                    |                          | ?                      | 3, 36.                |
+| Sur la teinture                         | d°            | 31           | 137 v.                | 111 r.                |                    |                          |                        | 3, 37.                |
+| Sur le jaunissement ; l'Eau aérienne    | 32            | 32           | 137 v.                | 111 r.                | 117 v.             |                          |                        | 3, 38 et 39.          |
+| L'écrit authentique de Zosime           | 33            | 33           | manque                | 112 r.                | 118 r.             |                          | manque                 | 3, 11.                |
+| Les quatre corps métalliques            | 34 et 35      | 34 et 35     | 141 v.                | 113 v.                | 119 v.             |                          | 48                     | 3, 12.                |
+| Diversité du cuivre brûlé               | 36            | 36           | 144 r.                | 115 v.                | 123 r.             | 128 v.                   |                        | 3, 13.                |
+| L'Eau divine est composée               | 37            | sans n°      | 144 r.                | 116 r.                | 123 r.             | 129 r.                   | d°                     | 3, 14.                |
+| Choix du moment                         | 38            | 38           | 144 v.                | 116 v.                | 124 r.             |                          | d°                     | 3, 15.                |
+| Exposé détaillé de l'œuvre              | 39            | 39           | 145 v.                | 118 r.                | 126 r.             | à partir du § 18, f. 127 | d°                     | 3, 16.                |
+| Substance et non substance              | 40            | 40           | 149 r.                | 122 r.                | 132 v.             | 117 v.                   |                        | 3, 17.                |
+| Teinture unique                         | 41            | 41           | 150 r.                | 122 r.                | 133 v.             | 118 v.                   | d°                     | 3, 18.                |
+| Les quatre corps aliments des teintures | 42            | 42           | 150 v.                | 123 r.                | 134 r.             | 119 v.                   |                        | 3, 19.                |
+| Alun rond                               | 43            | 43           | 151 r.                | 123 v.                | 135 r.             |                          | d°                     | 3, 20.                |
+| Sur les soufres                         | 44            | 44           | suite jusqu'au 161 r. | suite jusqu'au 136 r. | suite jusqu'au 152 | 114 v.                   |                        | 3, 21.                |
+| Sur les mesures                         | 45            | 45           | suite jusqu'au 161 r. | suite jusqu'au 136 r. | suite jusqu'au 152 | 113 v.                   | d°                     | 3, 22.                |
+| Comment on brûle les corps              | 46            | 46           | suite jusqu'au 161 r. | suite jusqu'au 136 r. | suite jusqu'au 152 | 109 v.                   |                        | 3, 23.                |
+| Mesure du jaunissement                  | 47            | 47           | suite jusqu'au 161 r. | suite jusqu'au 136 r. | suite jusqu'au 152 |                          | d°                     | 3, 24.                |
+| Sur l'Eau divine                        | 48            | 48           | suite jusqu'au 161 r. | suite jusqu'au 136 r. | suite jusqu'au 152 | 112 r.                   | 33                     | 3, 25.                |
+| Préparation de l'ocre                   | 49            | 49           | suite jusqu'au 161 r. | suite jusqu'au 136 r. | suite jusqu'au 152 | 1 r.                     |                        | 3, 26.                |
+| Traitement du corps de la magnésie      | 50            | 50           | suite jusqu'au 161 r. | suite jusqu'au 136 r. | suite jusqu'au 152 |                          | ?                      | 3, 27.                |
+| Corps de la magnésie                    | 51            | 51           |                       |                       |                    | 102                      | ?                      | 3, 28.                |
+| Pierre philosophale                     | 52 et 53      | 52 et 53     | manque                | 136 r.                | manque             | 106 v.                   | manque                 | 3, 29.                |
 
 *) Traité coupé en deux par le relieur (_Introd._, p. 184).
 
