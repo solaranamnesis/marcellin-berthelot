@@ -4281,7 +4281,7 @@ _Transcrit sur_ M, f. 110 r. --- _Collationné sur_ B, f. 91 r. ;--- _sur_ A, f.
 
 *) ἥκω] εἴκω M.
 
-*) τὰ θειώδη ... ] Cp. 3, 25, p. 186. l. 8. --- Lb mg. : 275, 277 (renvoi aux pages contenant cette citation), puis : _V. Lulle, liνre des mercures, chap. de l'animation des êtres_, p. 261 [dans Bibliotheca chemica_ t. 1, p. 824 et suiν]. --- _Paganus_, p. 67. --- _Anοs_ ( ? ), p. 73.
+*) τὰ θειώδη ... ] Cp. 3, 25, p. 186. l. 8. --- Lb mg. : 275, 277 (renvoi aux pages contenant cette citation), puis : _V. Lulle, liνre des mercures, chap. de l'animation des êtres_, p. 261 [dans _Bibliotheca chemica_ t. 1, p. 824 et suiν]. --- _Paganus_, p. 67. --- _Anοs_ ( ? ), p. 73.
 
 *) κηρίον] κύριον BAK E Lb (= B etc.), mel.
 
