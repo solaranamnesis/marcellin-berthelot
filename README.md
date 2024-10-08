@@ -26,6 +26,6 @@ English - PDF
 ## Collection des Anciens Alchimistes Grecs. Troisième Livraison.
 
 [French - Plain Text](collection-anciens-alchimistes-grecs/full-text-french-03.md)  
-French - PDF | Biolinum | Atkinson | Cursive | CustomDesign1 | CustomDesign2 | CustomPurplePaper | CustomPurplePaperZincWhite  
+[French - PDF](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french.pdf) | [Biolinum](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_atkinson.pdf) | [Kerkis](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_kerkis.pdf) | Cursive | CustomDesign1 | CustomDesign2 | CustomPurplePaper | CustomPurplePaperZincWhite  
 English - Plain Text  
 English - PDF  
