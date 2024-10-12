@@ -29,3 +29,10 @@ English - PDF
 [French - PDF](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french.pdf) | [Biolinum](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_atkinson.pdf) | [Kerkis](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_kerkis.pdf) | [Cursive](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_frcursive.pdf) | [CustomDesign1](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple01.pdf) | [CustomDesign2](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple02.pdf) | [CustomPurplePaper](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple01.pdf) | [CustomPurplePaperZincWhite](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple02.pdf) | [Alchemy01](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_alchemy01.pdf)  
 English - Plain Text  
 English - PDF  
+
+## Introduction à l'Étude de la Chimie des Anciens et du Moyen Âge.
+
+French - Plain Text  
+French - PDF | Biolinum | Atkinson | Cursive | Aurical  
+English - Plain Text  
+English - PDF  
