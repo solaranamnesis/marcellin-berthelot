@@ -11,7 +11,7 @@ English - PDF
 
 ## Collection des Anciens Alchimistes Grecs. Première Livraison.
 
-[French - Plain Text](collection-anciens-alchimistes-grecs/full-text-french-01.md)  
+[French - Plain Text](collection-anciens-alchimistes-grecs/full-text-french-01.md) | [French - (GFM) Plain Text](full-text-french-01-gfm.md)  
 [French - PDF](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs.pdf) | [Biolinum](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-atkinson.pdf) | [Cursive](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-frcursive.pdf) | [Kerkis](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-kerkis.pdf) | [CustomDesign1](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-01.pdf) | [CustomDesign2](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-02.pdf) | [CustomPurplePaper](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp.pdf) | [CustomPurplePaperZincWhite](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp-02.pdf) | [Alchemy01](https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-alchemy01.pdf)  
 English - Plain Text  
 English - PDF  
