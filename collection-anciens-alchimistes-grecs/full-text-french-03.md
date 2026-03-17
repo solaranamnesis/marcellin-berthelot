@@ -7143,7 +7143,7 @@ Ceci est ce que l'on nomme chrysolithe.
 
 31\. (Prenant) de la pierre couleur d'or, de la terre de Samos, du sel efflorescent, et du suc de figuier ; mets en consistance visqueuse, enduis-en les feuilles ; le cuivre est ainsi dépouillé de sa nature corporelle.
 
-31 _bis_\. **Sur l'argyropée*.**
+31 _bis_\. **Sur l'argyropée.** *
 
 *) C'est le § 20 de Démocrite, p. 53. --- La chimie de Moïse renferme un certain nombre de fragments du traité de Démocrite ; ce qui montre qu'elle a été tirée des mêmes sources. --- V. p. 288, note.
 
