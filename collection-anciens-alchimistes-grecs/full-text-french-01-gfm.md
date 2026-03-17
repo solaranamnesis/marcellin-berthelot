@@ -7608,14 +7608,14 @@ Tu possèdes donc ici, en toute puissance, l'ensemble de l'œuvre du cuivre, c'e
 [^40]: Matter, _Hist. du Gnosticisme_, t. 2, p. 265.
 [^41]: On attribuait à Hermès un ouvrage du même titre. Κλείς, adressé à Toth, et cité par Lactance et par Stobée.
 [^42]: Un ouvrage du même titre, attribué à Hermès Trismégiste, est cité par Scaliger, dans son édition de _Manilius_, p. 209. Il y était question des sept « sorts » répondant aux sept planètes, savoir :
-   οἱ ἑπτὰ κλῆροι ἐν τῇ Παναρέπῳ Τρισμεγίστου.
-   Saturne : νέμεσις.
-   Jupiter : νίκη.
-   Mars : τόλμα.
-   Soleil : ἀγαθοδαίμων.
-   Vénus : ἔρως.
-   Mercure : ἀνάγκη.
-   Lune : ἀγαθὴ τύχη.
+    οἱ ἑπτὰ κλῆροι ἐν τῇ Παναρέπῳ Τρισμεγίστου.
+    Saturne : νέμεσις.
+    Jupiter : νίκη.
+    Mars : τόλμα.
+    Soleil : ἀγαθοδαίμων.
+    Vénus : ἔρως.
+    Mercure : ἀνάγκη.
+    Lune : ἀγαθὴ τύχη.
 [^43]: _Origines de l'Alchimie_, p. 55, 123, 171.
 [^44]: _H. N._, 30. 2.
 [^45]: _Origines de l'Alchimie_, p. 333.
