@@ -8061,7 +8061,7 @@ Tu possèdes donc ici, en toute puissance, l'ensemble de l'œuvre du cuivre, c'e
 [^485]: § 4] Phrase écrite le long de la marge extérieure. (Cp. p. 22, l. 9.) --- ἔχων] ἔχον A. Corr. conj. F. l. ἔχε.
 [^486]: A mg., le signe d'Hermès, à l'encre rouge.
 [^487]: Ζ.] On a remplacé ici les lettres à l'encre rouge du ms. par des majuscules.
-[^488]: λΣΤʹ] κΣΤʹ A. Corr. conj. [ΣΤ, ΣΤʹ = Stigma]
+[^488]: λϚʹ] κϚʹ (λΣΤʹ] κΣΤʹ) A. Corr. conj. [ΣΤ, ΣΤʹ = Stigma]
 [^489]: Titre dans EL : Ἐκ τῶν μετ. ἅπερ ἀνατίθενται τοῖς ἑπτὰ πλανήταις. --- Dans R, il y a trois articles sur les plantes, les minéraux, les animaux : Ποῖα τῶν εἰδῶν ἀνήκει ἑκάστῳ ἀστέρι · --- ἐκ τῶν μ. ταῦτα · --- καὶ ἐκ τῶν ζώων ταῦτα. (_M. B._). --- Les mots λιθάργυρος, γαγἀτης, καὶ κλαυδιανὸς sont transcrits, dans R, en lettres hébraïques, avec ordre inverse, comme il convient (_M. B._). --- μηλῖται, γαγᾶται EL, f. mel.
 [^490]: Réd. du § 1 dans EL : Καὶ τῷ μὲν Κρόνῳ ἀνατίθενται ταῦτα · μόλ. κ. τ. λ.
 [^491]: Réd. du § 2 dans EL : Τῷ δὲ Διὶ, ταῦτα · κασσ. κ. τ. λ. --- R, après le mot κασσίτερος : οἱ δὲ Πέρσαι οὐχ οὕτως, ἀλλὰ · διάργυρος (en lettres hébraïques) βήριλος · καὶ πᾶς, etc. ; θεῖον est en lettres hébraïques (_M. B._). --- R, après le mot σίδηρος · λίθος μαγνίτης (ce dernier mot en lettres hébraïques), ψηφηδεῖς καὶ ὅσα λίθοι πυροὶ, καὶ τὰ τοιαῦτα. (_M. B._). --- Réd. du § 3 dans EL : Τῷ δὲ Ἄρει, ταῦτα · σίδηρος κ. τ. λ. --- μαγνήτης EL. F. l. μαγνῆτις.
@@ -8280,7 +8280,7 @@ Tu possèdes donc ici, en toute puissance, l'ensemble de l'œuvre du cuivre, c'e
 [^704]: χρήσου M. --- τῶ φαρμακῶ B. F. l. χρίσῃ τῷ φαρμάκῳ.
 [^705]: περιφιμῶν BC ; περιφ' ἡμῶν A. --- ἕως οὖ B, f. mel.
 [^706]: κιλίκιον, puis le signe de l'arsenic B.
-[^707]: A la marge supérieure du fol. 70 v., dans M : ἐλύδριον χελιδονεια (re main).
+[^707]: A la marge supérieure du fol. 70 v., dans M : ἐλύδριον χελιδονεια (1re main).
 [^708]: πετάλου B. --- ἕως ἀρέσῃ] ἕως ἄρεστόν σοι φανῇ BA (φάνει A).
 [^709]: M mg. : signe de ὡραῖον, puis le signe du mercure. --- Au-dessus de μόλυβδον, le s. du mercure dans BCA. --- Les mots γῆς, πάρου, στυπτ. surmontés dans BCA du s. du soufre.
 [^710]: χείας mss. --- κατεραεῖς M.
