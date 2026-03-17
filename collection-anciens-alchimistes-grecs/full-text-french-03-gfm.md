@@ -3881,7 +3881,7 @@ De même il faut aussi de la chaux (tirée des coquilles d'œuf, avec les membra
 
 Des balances, du bois à brûler, un petit fourneau et un esprit subtil et sans limite.
 
-Voici ce qu'il faut (pour compléter) le mystère dans son intégrité : Prends[^2678] le sang d'un homme aviné, la bile d'un bœuf noir non marqué, et le suc de la plante appelée barbe de bouc. Employant ces trois (matières) en proportion égale, chauffe du fer et trempe : tu pourras réussir.
+Voici ce qu'il faut (pour compléter) le mystère dans son intégrité : Prends[^2678][^2679] le sang d'un homme aviné, la bile d'un bœuf noir non marqué, et le suc de la plante appelée barbe de bouc. Employant ces trois (matières) en proportion égale, chauffe du fer et trempe : tu pourras réussir.
 
 ---
 
